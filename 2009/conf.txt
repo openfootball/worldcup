@@ -1,0 +1,79 @@
+##############################
+#
+#  FIFA Confederations Cup 2009 - South Africa
+#    - Dates:  14 June - 28 June
+#    - Teams:  8 (from 6 confederations)
+#    - Matches: 16
+#
+#  see -> en.wikipedia.org/wiki/2009_FIFA_Confederations_Cup
+#
+#  official -> www.fifa.com/tournaments/archive/confederationscup/southafrica2009
+#
+#  every four years (next in 2011 in Brazil)
+
+
+
+##########
+# Groups
+
+Group A  |  Spain      South Africa      Iraq         New Zealand
+Group B  |  Brazil     United States     Italy        Egypt
+
+
+############
+# Group A
+
+Matchday 1 / Group A
+
+(1)  2009-06-14 16:00  South Africa  0-0  Iraq
+(2)  2009-06-14 20:30  New Zealand   0-5  Spain
+
+Matchday 3 / Group A
+
+(5)  2009-06-17 16:00  Spain         1-0  Iraq
+(6)  2009-06-17 20:30  South Africa  2-0  New Zealand
+
+Matchday 5 / Group A
+
+(9)  2009-06-20 20:30  Iraq          0-0  New Zealand
+(10) 2009-06-20 20:30  Spain         2-0  South Africa
+
+
+############
+# Group B
+
+Matchday 2 / Group B
+
+(3)  2009-06-15 16:00  Brazil         4-3  Egypt
+(4)  2009-06-15 20:30  United States  1-3  Italy
+
+Matchday 4 / Group B
+
+(7)  2009-06-18 16:00  United States  0-3  Brazil
+(8)  2009-06-18 20:30  Egypt          1-0  Italy
+
+Matchday 6 / Group B
+
+(11) 2009-06-21 20:30  Italy          0-3  Brazil
+(12) 2009-06-21 20:30  Egypt          0-3  United States
+
+
+####################
+# Knockout stage
+
+(7) Semi-finals
+
+(13) 2009-06-24 20:30  Spain   0-2  United States
+(14) 2009-06-25 20:30  Brazil  1-0  South Africa
+
+
+(8) Third-place play-off
+
+(15) 2009-06-28 15:00  Spain   2-2 3-2nV   South Africa
+
+
+(9) Final
+
+(16) 2009-06-28 20:30  United States  2-3  Brazil
+
+

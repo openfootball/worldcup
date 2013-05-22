@@ -1,0 +1,9 @@
+###########################################
+#  World Cup 2014 - Quali Europe
+
+
+# see files per group
+
+
+### todo/fix: allow event.yml file w/o mathcin *.txt ???
+# as is the case here?? why? why not??  make *.txt optional and issue warning if not found/present?

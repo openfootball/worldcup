@@ -1,0 +1,85 @@
+###########################################
+#  World Cup 2014 - Quali Europe Group C
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+Group C  |  Germany   Faroe Islands   Irland   Kazakhstan   Austria   Sweden
+
+
+Matchday 1 / Group C  //  Fr Sep 7, 2012
+
+(1)  Germany  3-0  Faroe Islands   2012-09-07 15:00
+(2)  Kazakhstan  1-2  Irland   2012-09-07 15:00
+
+
+Matchday 2   / Group C  //  Tu Sep 11, 2012
+
+(3)  Austria  1-2  Germany   2012-09-11 15:00
+(4)  Sweden  2-0  Kazakhstan   2012-09-11 15:00
+
+
+Matchday 3   / Group C  //  Fr  Oct 12, 2012
+
+(5)  Irland  1:6  Germany   2012-10-12 20:45
+(6)  Faroe Islands  1:2  Sweden   2012-10-12 18:00
+(7)  Kazakhstan  0:0  Austria   2012-10-12 18:00
+
+
+Matchday 4  / Group C  //  Tu  Oct 16, 2012
+
+(8)   Germany  4:4  Sweden   2012-10-16 20:45
+(9)   Faroe Islands  1:4  Irland   2012-10-16 20:00
+(10)  Austria  4:0  Kazakhstan   2012-10-16 20:30
+
+
+Matchday 5 / Group C  //  Fr  Mar 22, 2013
+
+(11)  Kazakhstan  0:3  Germany   2013-03-22 15:00
+(12)  Austria  6:0  Faroe Islands   2013-03-22 15:00
+(13)  Sweden  0:0  Irland   2013-03-22 15:00
+
+
+Matchday 6 / Group C  //  Tu  Mar 26, 2013
+
+(14)  Germany  -  Kazakhstan   2013-03-26 15:00
+(15)  Irland  -  Austria   2013-03-26 15:00
+
+
+Matchday 7 / Group C  //  Fr  Jun 7, 2013
+
+(16)  Irland  -  Faroe Islands   2013-06-07 15:00
+(17)  Austria  -  Sweden   2013-06-07 15:00
+
+
+Matchday 8  / Group C  //  Tu  Jun 11, 2013
+
+(18)  Sweden  -  Faroe Islands   2013-06-11 15:00
+
+
+Matchday 9 / Group C  //  Fr Sep 6, 2013
+
+(19)  Germany  -  Austria   2013-09-06 15:00
+(20)  Kazakhstan  -  Faroe Islands   2013-09-06 15:00
+(21)  Irland  -  Sweden   2013-09-06 15:00
+
+
+Matchday 10  / Group C  // Tu Sep 10, 2013
+
+(22)  Faroe Islands  -  Germany   2013-09-10 15:00
+(23)  Austria  -  Irland   2013-09-10 15:00
+(24)  Kazakhstan  -  Sweden   2013-09-10 15:00
+
+
+Matchday 11 / Group C  //  Fr Oct 11, 2013
+
+(25)  Germany  -  Irland   2013-10-11 15:00
+(26)  Faroe Islands  -  Kazakhstan   2013-10-11 15:00
+(27)  Sweden  -  Austria   2013-10-11 15:00
+
+
+Matchday 12 / Group C   //  Tu Oct 15, 2013
+
+(28)  Sweden  -  Germany   2013-10-15 15:00
+(29)  Faroe Islands  -  Austria   2013-10-15 15:00
+(30)  Irland  -  Kazakhstan   2013-10-15 15:00

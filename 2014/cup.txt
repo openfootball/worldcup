@@ -1,0 +1,16 @@
+##################################
+#  World Cup 2014 Brazil
+#
+#   more info -> en.wikipedia.org/wiki/2014_FIFA_World_Cup
+#
+#  official -> www.fifa.com/worldcup
+#
+# 32 teams
+# 64 games
+#  32 days // 12 June – 13 July
+#
+#  every four years (next in 2018 in Russia)
+#
+#  for qualifications see -> en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification
+
+

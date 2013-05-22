@@ -1,0 +1,22 @@
+##################################
+#  World Cup 2014 Brazil
+
+season: 2014
+league: world
+start_at: 2014-06-12
+
+######
+# 32 Teams
+# 
+# Europe (UEFA): 13 places
+# Africa (CAF): 5 places
+# Asia (AFC): 4 or 5 places
+# South America (CONMEBOL) 4 or 5 places (+ Brazil qualified automatically as host nation for a total of 5 or 6 places)
+# North, Central American and Caribbean (CONCACAF): 3 or 4 places
+# Oceania (OFC): 0 or 1 place
+#
+# see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification
+
+
+
+

@@ -1,0 +1,75 @@
+####################################################
+#  World Cup 2014 - Qualification Europe Group I
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+
+Group I  |  France  Spain  Belarus  Finland  Georgia
+
+
+Matchday 1 / Group I  //   Fr. 7. Sep 2012
+
+(1)  Georgia  1-0  Belarus   2012-09-07 15:00
+(2)  Finland  0-1  France   2012-09-07 15:00
+
+
+Matchday 2 / Group I  //  Di. 11. Sep 2012
+
+(3)  Georgia  0-1  Spain   2012-09-11 15:00
+(4)  France  3-1  Belarus   2012-09-11 15:00
+
+
+Matchday 3 / Group I // Fr. 12. Okt 2012
+
+(5)  Finland  1-1  Georgia   2012-10-12 17:30
+(6)  Belarus  0-4  Spain   2012-10-12 20:00
+
+
+Matchday 4 / Group I  //  Di. 16. Okt 2012
+
+(7)  Spain  1-1  France   2012-10-16 21:00
+(8)  Belarus  2-0  Georgia   2012-10-16 18:00
+
+
+Matchday 5 / Group I //  Fr. 22. Mär 2013
+
+(9)   France  3-1  Georgia   2013-03-22 15:00
+(10)  Spain  1-1  Finland   2013-03-22 15:00
+
+
+Matchday 6 / Group I  //  Di. 26. Mär 2013
+
+(11)  France  -  Spain   2013-03-26 15:00
+
+
+Matchday 7 / Group I  //   Fr. 7. Jun 2013
+
+(12)  Finland  -  Belarus   2013-06-07 15:00
+
+
+Matchday 8 / Group I  //  Di. 11. Jun 2013
+
+(13)  Belarus  -  Finland   2013-06-11 15:00
+
+
+Matchday 9 / Group I  //  Fr. 6. Sep 2013
+
+(14)  Georgia  -  France   2013-09-06 15:00
+(15)  Finland  -  Spain   2013-09-06 15:00
+
+
+Matchday 10 / Group I  //  Di. 10. Sep 2013
+
+(16)  Belarus  -  France   2013-09-10 15:00
+(17)  Georgia  -  Finland   2013-09-10 15:00
+
+
+Matchday 11 / Group I  //  Fr. 11. Okt 2013
+
+(18)  Spain   -   Belarus  2013-10-11 15:00
+
+
+Matchday 12 / Group I  //  Di. 15. Okt 2013
+
+(19)  France  -  Finland   2013-10-15 15:00
+(20)  Spain  -  Georgia   2013-10-15 15:00

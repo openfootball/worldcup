@@ -1,0 +1,22 @@
+##################################
+##  World Cup 2014 - Qualification Europe
+
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+league: world.quali.europe
+season:  2014
+start_at: 2012-09-07
+
+teams:
+- ger  # Group C
+- fro
+- irl
+- kaz
+- aut
+- swe
+- fra  # Group I
+- esp
+- blr
+- fin
+- geo

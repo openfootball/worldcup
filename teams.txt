@@ -1,0 +1,23 @@
+
+
+# NB:
+#  for european teams see  europe/teams.txt
+#  for american teams see  america/teams.txt
+#  for african  teams see  africa/teams.txt
+
+
+#############################
+# asia w/ australia
+
+aus, Australia,    AUS, au
+jpn, Japan,        JPN, jp
+prk, North Korea,  PRK, kp
+kor, South Korea,  KOR, kr
+irq, Iraq,         IRQ, iq
+
+###############################
+# oceania
+  
+nzl, New Zealand,  NZL, nz
+tah, Tahiti,       TAH, pf
+# NB: pf = stands for Polynésie Française in french
