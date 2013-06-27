@@ -1,0 +1,25 @@
+###########
+# all
+
+seasons:
+- world!/setups/data/seasons
+
+leagues:
+- world!/leagues
+
+world_teams:
+- world!/teams
+- world!/setups/data/teams_africa
+- world!/setups/data/teams_america
+- world!/setups/data/teams_europe
+
+
+world:
+- world!/2009/conf
+
+#  world.2010: world/2010/cup
+#  world.conf.2013: world/2013/conf
+#  world.quali.america.2014: world/2014/quali_america
+###  world.quali.europe.c.2014: world/2014/quali_europe_c
+#  world.quali.europe.2014: world/2014/quali_europe,world/2014/quali_europe_c,world/2014/quali_europe_i
+#  world.2014: world/2014/cup

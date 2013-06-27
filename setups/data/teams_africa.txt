@@ -1,0 +1,23 @@
+########################
+# Africa
+
+alg, Algeria,        ALG, dz
+mar, Morocco,        MAR, ma
+tun, Tunisia,        TUN, tn
+egy, Egypt,          EGY, eg
+
+civ, Côte d'Ivoire,  CIV, ci
+gha, Ghana,          GHA, gh
+cmr, Cameroon,       CMR, cm
+nga, Nigeria,        NGA, ng
+cpv, Cape Verde,     CPV, cv
+ang, Angola,         ANG, ao
+mli, Mali,           MLI, ml
+cod, Congo DR,       COD, cd
+nig, Niger,          NIG, ne
+bfa, Burkina Faso,   BFA, bf
+zam, Zambia,         ZAM, zm
+eth, Ethiopia,       ETH, et
+tog, Togo,           TOG, tg
+rsa, South Africa,   RSA, za
+
