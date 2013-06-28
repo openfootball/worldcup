@@ -1,16 +1,5 @@
-##############################
-#
-#  FIFA Confederations Cup 2013 - Brasil 
-#    - Dates:   15 June - 30 June
-#    - Teams:   8 (from 6 confederations)
-#    - Matches: 16
-#
-#  see http://en.wikipedia.org/wiki/2013_FIFA_Confederations_Cup
-#
-#  official -> http://www.fifa.com/confederationscup
-#
-#  every four years (next in 2017 in Russia)
-
+####################################
+# Confederations Cup 2013 Brasil 
 
 
 ##########
@@ -25,18 +14,18 @@ Group B  |  Spain       Uruguay      Tahiti       Nigeria
 
 Matchday 1 / Group A
 
-(1)  2013-06-15 16:00   Brazil  -  Japan
-(2)  2013-06-16 16:00   Mexico  -  Italy
+(1)  2013-06-15 16:00   Brazil  3-0  Japan   
+(2)  2013-06-16 16:00   Mexico  1-2  Italy
 
 Matchday 2 / Group A
 
-(5)  2013-06-19 16:00   Brazil  -  Mexico
-(6)  2013-06-19 19:00   Italy   -  Japan
+(5)  2013-06-19 16:00   Brazil  2-0  Mexico
+(6)  2013-06-19 19:00   Italy   4-3  Japan
 
 Matchday 3 / Group A
 
-(9)  2013-06-22 16:00   Italy   -  Brazil
-(10) 2013-06-22 16:00   Japan   -  Mexico
+(9)  2013-06-22 16:00   Italy   2-4  Brazil
+(10) 2013-06-22 16:00   Japan   1-2  Mexico
 
 
 #############
@@ -44,18 +33,18 @@ Matchday 3 / Group A
 
 Matchday 1 / Group B
 
-(3)  2013-06-16 19:00   Spain    -  Uruguay
-(4)  2013-06-17 16:00   Tahiti   -  Nigeria
+(3)  2013-06-16 19:00   Spain    2-1  Uruguay
+(4)  2013-06-17 16:00   Tahiti   1-6  Nigeria
 
 Matchday 2 / Group B
 
-(7)  2013-06-20 16:00   Spain    -  Tahiti
-(8)  2013-06-20 19:00   Nigeria  -  Uruguay
+(7)  2013-06-20 16:00   Spain   10-0  Tahiti
+(8)  2013-06-20 19:00   Nigeria  1-2  Uruguay
 
 Matchday 3 / Group B
 
-(11) 2013-06-23 16:00   Nigeria  -  Spain
-(12) 2013-06-23 16:00   Uruguay  -  Tahiti
+(11) 2013-06-23 16:00   Nigeria  0-3  Spain
+(12) 2013-06-23 16:00   Uruguay  8-0  Tahiti
 
 
 ####################
@@ -63,16 +52,15 @@ Matchday 3 / Group B
 
 (4) Semi-finals
 
-## (13) 2013-06-26 16:00   !!Winner Group A  - !!Runner-up Group B
-## (14) 2013-06-27 16:00   !!Winner Group B  - !!Runner-up Group A
+(13) 2013-06-26 16:00   Brazil 2-1 Uruguay            # Winner Group A  - Runner-up Group B
+(14) 2013-06-27 16:00   Spain  0-0 0-0nV 7-6iE Italy  # Winner Group B  - Runner-up Group A
 
 
 (5) Third place play-off
 
-## (15) 2013-06-30 13:00   !!Loser Match 13  -  !!Loser Match 14
+(15) 2013-06-30 13:00   Uruguay - Italy    # Loser Match 13  -  Loser Match 14
 
 
 (6) Final
 
-## (16) 2013-06-30 19:00   !!Winner Match 13  -  !!Winner Match 14
-
+(16) 2013-06-30 19:00   Brazil - Spain   # Winner Match 13 - Winner Match 14

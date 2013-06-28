@@ -1,5 +1,5 @@
-###############################################
-# FIFA Confederations Cup 2009 - South Africa
+#########################################
+# Confederations Cup 2009 South Africa
 
 
 ##########
