@@ -28,10 +28,10 @@ bra, Brazil,      BRA, br
 
 (17) Quarterfinals
 
-(57) Fr   2010-07-02 16:00   Netherlands - Brazil   2-1
-(58) Fr   2010-07-02 20:30   Uruguay     - Ghana    1-1 1-1nV 4-2iE
-(59) Sa   2010-07-03 16:00   Argentina   - Germany  0-4
-(60) Sa   2010-07-03 20:30   Paraguay    - Spain    0-1
+(57) Fr   2010-07-02 16:00   Netherlands  2-1              Brazil
+(58) Fr   2010-07-02 20:30   Uruguay      1-1 1-1nV 4-2iE  Ghana
+(59) Sa   2010-07-03 16:00   Argentina    0-4              Germany
+(60) Sa   2010-07-03 20:30   Paraguay     0-1              Spain
 ...
 ~~~
 
