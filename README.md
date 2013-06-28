@@ -10,7 +10,7 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 ## Intro
 
 Free open public domain football data for World Cup (e.g. Brazil 2014), World Cup Quali,
-Confederations Cup (Brazil 2013) including all national teams. Example:
+Confederations Cup (e.g. Brazil 2013) including all national teams. Example:
 
 ~~~
 ### National Teams
@@ -69,7 +69,7 @@ Try the `football.db` Web Admin app running on Heroku
 
 every four years (next in 2014 in Brazil and 2018 in Russia)
 
-- official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
+- Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
 __World Cup 2010 South Africa__
 
@@ -112,16 +112,21 @@ North/Central America & Caribbean Islands
 - [2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round) - Hexagonal
 
 
+__Europe__
+
+- [2014_FIFA_World_Cup_qualification_–_UEFA_Group_C](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_UEFA_Group_C) - Group C
+- [2014_FIFA_World_Cup_qualification_–_UEFA_Group_I](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_UEFA_Group_I) - Group I
+
 
 ### Confederations Cup
 
 every four years (next in 2013 in Brazil and 2017 in Russia)
 
-- official -> [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
+- Official - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
 
 __Confederations Cup 2009 South Africa__
 
-- official - [www.fifa.com/tournaments/archive/confederationscup/southafrica2009](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
+- Official - [`www.fifa.com/tournaments/archive/confederationscup/southafrica2009`](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
 - Dates:  14 June - 28 June 2009
 - Teams:  8 (from 6 confederations)
 - Matches: 16

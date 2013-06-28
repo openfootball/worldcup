@@ -3,8 +3,6 @@
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
-# see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_UEFA_Group_I
-
 
 Group I  |  France  Spain  Belarus  Finland  Georgia
 
