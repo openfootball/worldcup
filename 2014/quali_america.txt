@@ -1,9 +1,5 @@
-#############################################################
+#############################################################################
 #  World Cup 2014 - Qualification North/Central America & Caribbean Islands
-#
-# see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(CONCACAF)
-#   fourth round see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round
-#
 
 
 # note: fix: play_at times and timezones
@@ -19,33 +15,33 @@ Group 2 | Mexico, Costa Rica, El Salvador, Guyana
 
 Matchday 1 / Group 2
 
-2012-06-09 12:00  Mexico  -  Guyana           3-1
-2012-06-09 12:00  Costa Rica  - El Salvador   2-2
+2012-06-09 12:00  Mexico      3-1  Guyana
+2012-06-09 12:00  Costa Rica  2-2  El Salvador
 
 Matchday 2 / Group 2
 
-2012-06-13 12:00  Guyana  - Costa Rica        0-4
-2012-06-13 12:00  El Salvador  -  Mexico      1-2
+2012-06-13 12:00  Guyana       0-4  Costa Rica
+2012-06-13 12:00  El Salvador  1-2  Mexico
 
 Matchday 3 / Group 2
 
-2012-09-08 12:00  El Salvador  -  Guyana      2-2
-2012-09-08 12:00  Costa Rica  -  Mexico       0-2
+2012-09-08 12:00  El Salvador 2-2  Guyana
+2012-09-08 12:00  Costa Rica  0-2  Mexico
 
 Matchday 4 / Group 2
 
-2012-09-12 12:00  Guyana  -  El Salvador      2-3
-2012-09-12 12:00  Mexico  -  Costa Rica       1-0
+2012-09-12 12:00  Guyana      2-3  El Salvador
+2012-09-12 12:00  Mexico      1-0  Costa Rica
 
 Matchday 5 / Group 2
 
-2012-10-13 12:00  Guyana  -  Mexico           0-5
-2012-10-13 12:00  El Salvador  -  Costa Rica  0-1
+2012-10-13 12:00  Guyana       0-5  Mexico
+2012-10-13 12:00  El Salvador  0-1  Costa Rica
 
 Matchday 6 / Group 2
 
-2012-10-17 12:00  Mexico  -  El Salvador      2-0
-2012-10-17 12:00  Costa Rica  -  Guyana       7-0
+2012-10-17 12:00  Mexico      2-0  El Salvador
+2012-10-17 12:00  Costa Rica  7-0  Guyana
 
 
 #############################
@@ -78,30 +74,30 @@ Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
 
 (9) Matchday 3 / Group HEX
 
-2013-03-26 12:00 Costa Rica  -  Jamaica
-2013-03-26 12:00 Mexico  -  United States
-2013-03-26 12:00 Panama  -  Honduras
+2013-03-26 12:00 Costa Rica  2-0  Jamaica
+2013-03-26 12:00 Mexico      0-0  United States
+2013-03-26 12:00 Panama      2-0  Honduras
 
 (10) Matchday 4 / Group HEX
 
-2013-06-04 12:00 Jamaica  -  Mexico
+2013-06-04 12:00 Jamaica     0-1  Mexico
 
 (11) Matchday 5 / Group HEX
 
-2013-06-07 12:00 Panama  -   Mexico
-2013-06-07 12:00 Jamaica  -  United States
-2013-06-07 12:00 Costa Rica  -  Honduras
+2013-06-07 12:00 Panama      0-0   Mexico
+2013-06-07 12:00 Jamaica     1-2  United States
+2013-06-07 12:00 Costa Rica  1-0  Honduras
 
 (12) Matchday 6 / Group HEX
 
-2013-06-11 12:00 Mexico  -  Costa Rica
-2013-06-11 12:00 United States  -  Panama
-2013-06-11 12:00 Honduras  -  Jamaica
+2013-06-11 12:00 Mexico         0-0  Costa Rica
+2013-06-11 12:00 United States  2-0  Panama
+2013-06-11 12:00 Honduras       2-0  Jamaica
 
 (13) Matchday 7 / Group HEX
 
-2013-06-18 12:00 United States  -  Honduras
-2013-06-18 12:00 Costa Rica  -  Panama
+2013-06-18 12:00 United States  1-0  Honduras
+2013-06-18 12:00 Costa Rica     2-0  Panama
 
 (14) Matchday 8 / Group HEX
 

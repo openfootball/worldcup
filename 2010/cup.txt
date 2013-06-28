@@ -19,141 +19,141 @@ Group H  |  Spain           Switzerland         Honduras         Chile
 
 Matchday 1 / Group A
 
-(1) Fr  2010-06-11 16:00    South Africa - Mexico     1-1
-(2) Fr  2010-06-11 20:30    Uruguay - France   0-0
+(1) Fr  2010-06-11 16:00    South Africa  1-1  Mexico
+(2) Fr  2010-06-11 20:30    Uruguay       0-0  France
  
 Matchday 6 / Group A
 
-(17) We  2010-06-16 20:30    South Africa - Uruguay    0-3
+(17) We  2010-06-16 20:30    South Africa  0-3  Uruguay
 
 Matchday 7 / Group A
 
-(18) Th  2010-06-17 20:30    France - Mexico    0-2
+(18) Th  2010-06-17 20:30    France        0-2  Mexico
 
 Matchday 12 / Group A
 
-(33) Tu  2010-06-22 16:00    Mexico     - Uruguay    0-1
-(34) Tu  2010-06-22 16:00    France - South Africa  1-2
+(33) Tu  2010-06-22 16:00    Mexico        0-1  Uruguay
+(34) Tu  2010-06-22 16:00    France        1-2  South Africa
 
 #################
 # Group B
 
 Matchday 2 / Group B
 
-(4) Sa  2010-06-12 13:30    South Korea - Greece   2-0
-(3) Sa  2010-06-12 16:00    Argentina - Nigeria   1-0
+(4) Sa  2010-06-12 13:30    South Korea     2-0  Greece
+(3) Sa  2010-06-12 16:00    Argentina       1-0  Nigeria
 
 Matchday 7 / Group B
 
-(20) Th  2010-06-17 13:30    Argentina - South Korea  4-1
-(19) Th  2010-06-17 16:00    Greece - Nigeria  2-1
+(20) Th  2010-06-17 13:30    Argentina      4-1  South Korea
+(19) Th  2010-06-17 16:00    Greece         2-1  Nigeria
 
 Matchday 12 / Group B
 
-(35) Tu  2010-06-22 20:30    Nigeria - South Korea  2-2
-(36) Tu  2010-06-22 20:30    Greece - Argentina  0-2
+(35) Tu  2010-06-22 20:30    Nigeria        2-2  South Korea
+(36) Tu  2010-06-22 20:30    Greece         0-2  Argentina
 
 #################
 # Group C
 
 Matchday 2 / Group C
 
-(5) Sa  2010-06-12 20:30    England - USA   1-1
+(5) Sa  2010-06-12 20:30    England         1-1  USA
 
 Matchday 3 / Group C
 
-(6) Su  2010-06-13 13:30    Algeria - Slovenia  0-1
+(6) Su  2010-06-13 13:30    Algeria         0-1 Slovenia
 
 Matchday 8 / Group C
 
-(22) Fr  2010-06-18 16:00    Slovenia - USA   2-2
-(23) Fr  2010-06-18 20:30    England - Algeria  0-0
+(22) Fr  2010-06-18 16:00    Slovenia       2-2  USA
+(23) Fr  2010-06-18 20:30    England        0-0  Algeria
 
 Matchday 13 / Group C
 
-(38) We  2010-06-23 16:00    USA - Algeria  1-0
-(37) We  2010-06-23 16:00    Slovenia - England  0-1
+(38) We  2010-06-23 16:00    USA            1-0  Algeria
+(37) We  2010-06-23 16:00    Slovenia       0-1  England
 
 ################
 # Group D
 
 Matchday 3 / Group D
 
-(8) Su   2010-06-13 16:00    Serbia - Ghana   0-1
-(7) Su   2010-06-13 20:30    Germany - Australia  4-0
+(8) Su   2010-06-13 16:00    Serbia         0-1  Ghana
+(7) Su   2010-06-13 20:30    Germany        4-0  Australia
 
 Matchday 8 / Group D
 
-(21) Fr  2010-06-18 13:30    Germany - Serbia  0-1
+(21) Fr  2010-06-18 13:30    Germany        0-1  Serbia
 
 Matchday 9 / Group D
 
-(24) Sa   2010-06-19 16:00    Ghana - Australia  1-1
+(24) Sa   2010-06-19 16:00    Ghana         1-1  Australia
 
 Matchday 13 / Group D
 
-(40) We   2010-06-23 20:30    Australia - Serbia  2-1
-(39) We   2010-06-23 20:30    Ghana - Germany  0-1
+(40) We   2010-06-23 20:30    Australia     2-1 Serbia
+(39) We   2010-06-23 20:30    Ghana         0-1 Germany
 
 ##############
 ## Group E
 
 Matchday 4 / Group E
 
-(9) Mo    2010-06-14 13:30   Netherlands - Denmark  2-0
-(10) Mo   2010-06-14 16:00   Japan - Cameroon  1-0
+(9) Mo    2010-06-14 13:30   Netherlands    2-0  Denmark
+(10) Mo   2010-06-14 16:00   Japan          1-0  Cameroon
 
 Matchday 9 / Group E
 
-(25) Sa   2010-06-19 13:30   Netherlands - Japan  1-0
-(26) Sa   2010-06-19 20:30   Cameroon - Denmark  1-2
+(25) Sa   2010-06-19 13:30   Netherlands    1-0  Japan
+(26) Sa   2010-06-19 20:30   Cameroon       1-2  Denmark
 
 Matchday 14 / Group E
 
-(43) Th    2010-06-24 20:30   Denmark - Japan   1-3
-(44) Th    2010-06-24 20:30   Cameroon - Netherlands   1-2
+(43) Th    2010-06-24 20:30   Denmark   1-3  Japan
+(44) Th    2010-06-24 20:30   Cameroon  1-2  Netherlands
 
 ##################
 # Group F
 
 Matchday 4 / Group F
 
-(11) Mo    2010-06-14 20:30   Italy - Paraguay  1-1
+(11) Mo    2010-06-14 20:30   Italy  1-1  Paraguay
 
 Matchday 5 / Group F
 
-(12) Tu    2010-06-15 13:30   New Zealand - Slovakia   1-1
+(12) Tu    2010-06-15 13:30   New Zealand  1-1  Slovakia
 
 Matchday 10 / Group F
 
-(27) Su   2010-06-20 13:30   Slovakia - Paraguay   0-2
-(28) Su   2010-06-20 16:00   Italy - New Zealand  1-1
+(27) Su   2010-06-20 13:30   Slovakia  0-2  Paraguay
+(28) Su   2010-06-20 16:00   Italy     1-1  New Zealand
 
 Matchday 14 / Group F
 
-(41) Th  2010-06-24 16:00   Slovakia - Italy   3-2
-(42) Th  2010-06-24 16:00   Paraguay - New Zealand   0-0
+(41) Th  2010-06-24 16:00   Slovakia  3-2  Italy
+(42) Th  2010-06-24 16:00   Paraguay  0-0  New Zealand
 
 ########################
 # Group G
 
 Matchday 5 / Group G
 
-(13) Tu  2010-06-15 16:00   Côte d'Ivoire - Portugal  0-0
-(14) Tu  2010-06-15 20:30   Brazil - North Korea   2-1
+(13) Tu  2010-06-15 16:00   Côte d'Ivoire  0-0  Portugal
+(14) Tu  2010-06-15 20:30   Brazil         2-1  North Korea
 
 Matchday 10 / Group G
 
-(29) Su  2010-06-20 20:30   Brazil - Côte d'Ivoire  3-1
+(29) Su  2010-06-20 20:30   Brazil  3-1  Côte d'Ivoire
 
 Matchday 11 / Group G
 
-(30) Mo   2010-06-21 13:30   Portugal - North Korea   7-0
+(30) Mo   2010-06-21 13:30   Portugal  7-0  North Korea
 
 Matchday 15 / Group G
 
-(45) Fr   2010-06-25 16:00   Portugal - Brazil  0-0
-(46) Fr   2010-06-25 16:00   North Korea - Côte d'Ivoire  0-3
+(45) Fr   2010-06-25 16:00   Portugal     0-0  Brazil
+(46) Fr   2010-06-25 16:00   North Korea  0-3  Côte d'Ivoire
 
 
 #####################
@@ -161,18 +161,18 @@ Matchday 15 / Group G
 
 Matchday 6 / Group H
 
-(15) We   2010-06-16 13:30   Honduras - Chile  0-1
-(16) We   2010-06-16 16:00   Spain - Switzerland  0-1
+(15) We   2010-06-16 13:30   Honduras  0-1  Chile
+(16) We   2010-06-16 16:00   Spain     0-1  Switzerland
 
 Matchday 11 / Group H
 
-(31) Mo   2010-06-21 16:00   Chile - Switzerland  1-0
-(32) Mo   2010-06-21 20:30   Spain - Honduras  2-0
+(31) Mo   2010-06-21 16:00   Chile  1-0  Switzerland
+(32) Mo   2010-06-21 20:30   Spain  2-0  Honduras
 
 Matchday 15 / Group H
 
-(47) Fr   2010-06-25 20:30   Chile - Spain  1-2
-(48) Fr   2010-06-25 20:30   Switzerland - Honduras  0-0
+(47) Fr   2010-06-25 20:30   Chile        1-2  Spain
+(48) Fr   2010-06-25 20:30   Switzerland  0-0  Honduras
 
 
 ####
@@ -180,36 +180,35 @@ Matchday 15 / Group H
 
 (16) Round of 16
 
-(49) Sa   2010-06-26 16:00   Uruguay -  South Korea  2-1
-(50) Sa   2010-06-26 20:30   United States - Ghana  1-1 1-2nV
-(51) Su   2010-06-27 16:00   Germany - England 4-1
-(52) Su   2010-06-27 20:30   Argentina - Mexico 3-1
-(53) Mo   2010-06-28 16:00   Netherlands - Slovakia 2-1
-(54) Mo   2010-06-28 20:30   Brazil - Chile 3-0
-(55) Tu   2010-06-29 16:00   Paraguay - Japan  0-0 0-0nV 5-3iE
-(56) Tu   2010-06-29 20:30   Spain - Portugal 1-0
+(49) Sa   2010-06-26 16:00   Uruguay        2-1              South Korea
+(50) Sa   2010-06-26 20:30   United States  1-1 1-2nV        Ghana
+(51) Su   2010-06-27 16:00   Germany        4-1              England
+(52) Su   2010-06-27 20:30   Argentina      3-1              Mexico
+(53) Mo   2010-06-28 16:00   Netherlands    2-1              Slovakia
+(54) Mo   2010-06-28 20:30   Brazil         3-0              Chile
+(55) Tu   2010-06-29 16:00   Paraguay       0-0 0-0nV 5-3iE  Japan  
+(56) Tu   2010-06-29 20:30   Spain          1-0              Portugal
 
 
 (17) Quarterfinals
 
-(57) Fr   2010-07-02 16:00   Netherlands - Brazil  2-1
-(58) Fr   2010-07-02 20:30   Uruguay - Ghana   1-1 1-1nV 4-2iE
-(59) Sa   2010-07-03 16:00   Argentina - Germany  0-4
-(60) Sa   2010-07-03 20:30   Paraguay - Spain  0-1
+(57) Fr   2010-07-02 16:00   Netherlands    2-1               Brazil
+(58) Fr   2010-07-02 20:30   Uruguay        1-1 1-1nV 4-2iE   Ghana
+(59) Sa   2010-07-03 16:00   Argentina      0-4               Germany
+(60) Sa   2010-07-03 20:30   Paraguay       0-1               Spain  
 
 
 (18) Semifinals
 
-(61) Tu   2010-07-06 20:30   Uruguay - Netherlands  2-3
-(62) We   2010-07-07 20:30   Germany - Spain  0-1
+(61) Tu   2010-07-06 20:30   Uruguay        2-3  Netherlands  
+(62) We   2010-07-07 20:30   Germany        0-1  Spain  
 
 
 (19) Third-place play-off
 
-(63) Sa  2010-07-10 20:30  Uruguay - Germany  2-3
+(63) Sa  2010-07-10 20:30  Uruguay  2-3  Germany  
 
 
 (20) Final
 
-(64) Su   2010-07-11 20:30  Netherlands - Spain  0-0 0-1nV
-
+(64) Su   2010-07-11 20:30  Netherlands  0-0 0-1nV  Spain  
