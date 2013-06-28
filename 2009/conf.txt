@@ -1,16 +1,5 @@
-##############################
-#
-#  FIFA Confederations Cup 2009 - South Africa
-#    - Dates:  14 June - 28 June
-#    - Teams:  8 (from 6 confederations)
-#    - Matches: 16
-#
-#  see -> en.wikipedia.org/wiki/2009_FIFA_Confederations_Cup
-#
-#  official -> www.fifa.com/tournaments/archive/confederationscup/southafrica2009
-#
-#  every four years (next in 2011 in Brazil)
-
+###############################################
+# FIFA Confederations Cup 2009 - South Africa
 
 
 ##########
