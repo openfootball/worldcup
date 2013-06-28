@@ -71,11 +71,6 @@ every four years (next in 2014 in Brazil and 2018 in Russia)
 
 - Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
-__World Cup 2010 South Africa__
-
-- 32 teams
-- 64 matches
-- 31 days (11 June - 11 July 2010)
 
 __World Cup 2014 Brazil__
 
@@ -84,17 +79,25 @@ __World Cup 2014 Brazil__
 - 32 days (12 June - 13 July 2014)
 
 
+__World Cup 2010 South Africa__
+
+- 32 teams
+- 64 matches
+- 31 days (11 June - 11 July 2010)
+
+
+
 #### Wikipedia
 
-- [2010_FIFA_World_Cup](http://en.wikipedia.org/wiki/2010_FIFA_World_Cup)
-- [2014_FIFA_World_Cup](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup)
 - [2018_FIFA_World_Cup](http://en.wikipedia.org/wiki/2018_FIFA_World_Cup)
+- [2014_FIFA_World_Cup](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup)
+- [2010_FIFA_World_Cup](http://en.wikipedia.org/wiki/2010_FIFA_World_Cup)
 
 ---
 
-- [Fußball-Weltmeisterschaft_2010 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2010)
-- [Fußball-Weltmeisterschaft_2014 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2014)
 - [Fußball-Weltmeisterschaft_2018 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2018)
+- [Fußball-Weltmeisterschaft_2014 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2014)
+- [Fußball-Weltmeisterschaft_2010 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2010)
 
 
 ### World Cup Qualifications
@@ -124,13 +127,6 @@ every four years (next in 2013 in Brazil and 2017 in Russia)
 
 - Official - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
 
-__Confederations Cup 2009 South Africa__
-
-- Official - [`www.fifa.com/tournaments/archive/confederationscup/southafrica2009`](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
-- Dates:  14 June - 28 June 2009
-- Teams:  8 (from 6 confederations)
-- Matches: 16
-
 __Confederations Cup 2013 Brasil__ 
 
 - Dates:   15 June - 30 June 2013
@@ -138,10 +134,18 @@ __Confederations Cup 2013 Brasil__
 - Matches: 16
 
 
+__Confederations Cup 2009 South Africa__
+
+- Official - [`www.fifa.com/tournaments/archive/confederationscup/southafrica2009`](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
+- Dates:  14 June - 28 June 2009
+- Teams:  8 (from 6 confederations)
+- Matches: 16
+
+
 #### Wikipedia
 
-- [2009_FIFA_Confederations_Cup](http://en.wikipedia.org/wiki/2009_FIFA_Confederations_Cup)
 - [2013_FIFA_Confederations_Cup](http://en.wikipedia.org/wiki/2013_FIFA_Confederations_Cup)
+- [2009_FIFA_Confederations_Cup](http://en.wikipedia.org/wiki/2009_FIFA_Confederations_Cup)
 
 
 
