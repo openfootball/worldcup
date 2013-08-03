@@ -1,23 +1,23 @@
 ###########
 # all
 
-seasons:
+data:
 - world!/setups/data/seasons
+- world!/setups/data/teams_africa
+- world!/setups/data/teams_america
+- world!/setups/data/teams_europe
+
 
 leagues:
 - world!/leagues
 
 world_teams:
 - world!/teams
-- world!/setups/data/teams_africa
-- world!/setups/data/teams_america
-- world!/setups/data/teams_europe
-
 
 world:
-- world!/2009/conf
+- world!/2009/confed
 - world!/2010/cup
-- world!/2013/conf
+- world!/2013/confed
 - world!/2014/quali_america
 - world!/2014/quali_europe
 - world!/2014/cup

@@ -9,6 +9,9 @@ Group A  |  Brazil      Japan        Mexico       Italy
 Group B  |  Spain       Uruguay      Tahiti       Nigeria
 
 
+# NB: All times listed are Brasília official time (UTC−03:00).
+
+
 ############
 # Group A
 
@@ -52,15 +55,15 @@ Matchday 3 / Group B
 
 (4) Semi-finals
 
-(13) 2013-06-26 16:00   Brazil 2-1 Uruguay            # Winner Group A  - Runner-up Group B
-(14) 2013-06-27 16:00   Spain  0-0 0-0nV 7-6iE Italy  # Winner Group B  - Runner-up Group A
+(13) 2013-06-26 16:00   Brazil  2-1  Uruguay            # Winner Group A  - Runner-up Group B
+(14) 2013-06-27 16:00   Spain   0-0 0-0nV 7-6iE  Italy  # Winner Group B  - Runner-up Group A
 
 
 (5) Third place play-off
 
-(15) 2013-06-30 13:00   Uruguay - Italy    # Loser Match 13  -  Loser Match 14
+(15) 2013-06-30 13:00   Uruguay  2-2 2-2nV 2-3iE  Italy    # Loser Match 13  -  Loser Match 14
 
 
 (6) Final
 
-(16) 2013-06-30 19:00   Brazil - Spain   # Winner Match 13 - Winner Match 14
+(16) 2013-06-30 19:00   Brazil  3-0  Spain   # Winner Match 13 - Winner Match 14

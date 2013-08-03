@@ -1,9 +1,9 @@
 
 
 # NB:
-#  for european teams see  europe/teams.txt
-#  for american teams see  america/teams.txt
-#  for african  teams see  africa/teams.txt
+#  for european teams see repo europe!/teams.txt
+#  for american teams see repo america!/teams.txt
+#  for african  teams see repo africa!/teams.txt
 
 
 #############################
@@ -20,4 +20,5 @@ irq, Iraq,         IRQ, iq
   
 nzl, New Zealand,  NZL, nz
 tah, Tahiti,       TAH, pf
+
 # NB: pf = stands for Polynésie Française in french
