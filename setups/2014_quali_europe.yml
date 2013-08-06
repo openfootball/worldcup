@@ -1,14 +1,12 @@
 ###########
 #  2014_quali_europe
 
-seasons:
-- world!/setups/data/seasons
+data:
+- world-cup!/setups/data/euro-cup/teams
+
 
 leagues:
-- world!/leagues
+- world-cup!/leagues
 
-world_teams:
-- world!/setups/data/teams_europe
-
-world:
-- world!/2014/quali_europe
+2014:
+- world-cup!/2014/quali_europe

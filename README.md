@@ -47,11 +47,11 @@ Step 1:  Get a copy of the `world.db` fixtures
 
 Step 2:  Get a copy the `world` fixtures
 
-    $ git clone git://github.com/openfootball/world.git
+    $ git clone git://github.com/openfootball/world-cup.git
 
 Step 3:  Let's build the `football.db`
 
-    $ sportdb setup --include ./world --worldinclude ./world.db
+    $ sportdb setup --include ./world-cup --worldinclude ./world.db
 
 That's it. For more
 see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
@@ -72,19 +72,18 @@ every four years (next in 2014 in Brazil and 2018 in Russia)
 - Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
 
-__World Cup 2014 Brazil__
+World Cup 2014 Brazil
 
 - 32 teams
 - 64 matches
 - 32 days (12 June - 13 July 2014)
 
 
-__World Cup 2010 South Africa__
+World Cup 2010 South Africa
 
 - 32 teams
 - 64 matches
 - 31 days (11 June - 11 July 2010)
-
 
 
 #### Wikipedia
@@ -109,7 +108,7 @@ __World Cup 2010 South Africa__
 
 __America__
 
-North/Central America & Caribbean Islands
+North America, Central America & Caribbean
 
 - [2014_FIFA_World_Cup_qualification_(CONCACAF)](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(CONCACAF))
 - [2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round) - Hexagonal
@@ -123,23 +122,22 @@ __Europe__
 
 ### Confederations Cup
 
-every four years (next in 2013 in Brazil and 2017 in Russia)
+Official - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
 
-- Official - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
-
-__Confederations Cup 2013 Brasil__ 
-
-- Dates:   15 June - 30 June 2013
-- Teams:   8 (from 6 confederations)
-- Matches: 16
+- 8 Teams (from 6 confederations)
+- 16 Matches
+- every four years (next in 2013 in Brazil and 2017 in Russia)
 
 
-__Confederations Cup 2009 South Africa__
+Confederations Cup 2013 Brasil 
+
+- 15 June - 30 June 2013
+
+
+Confederations Cup 2009 South Africa
 
 - Official - [`www.fifa.com/tournaments/archive/confederationscup/southafrica2009`](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
-- Dates:  14 June - 28 June 2009
-- Teams:  8 (from 6 confederations)
-- Matches: 16
+- 14 June - 28 June 2009
 
 
 #### Wikipedia

@@ -2,24 +2,29 @@
 # all
 
 data:
-- world!/setups/data/seasons
-- world!/setups/data/teams_africa
-- world!/setups/data/teams_america
-- world!/setups/data/teams_europe
+- world-cup!/setups/data/africa-cup/teams
+- world-cup!/setups/data/america-cup/teams
+- world-cup!/setups/data/euro-cup/teams
 
 
 leagues:
-- world!/leagues
+- world-cup!/leagues
 
-world_teams:
-- world!/teams
+teams:
+- world-cup!/teams
 
-world:
-- world!/2009/confed
-- world!/2010/cup
-- world!/2013/confed
-- world!/2014/quali_america
-- world!/2014/quali_europe
-- world!/2014/cup
+2009:
+- world-cup!/2009/confed
+
+2010:
+- world-cup!/2010/cup
+
+2013:
+- world-cup!/2013/confed
+
+2014:
+- world-cup!/2014/quali_america
+- world-cup!/2014/quali_europe
+- world-cup!/2014/cup
 
 # -  world/!2014/quali_europe_c
