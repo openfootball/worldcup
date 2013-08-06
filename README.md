@@ -59,17 +59,11 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ## Links
 
-### Web Admin App
-
-Try the `football.db` Web Admin app running on Heroku
-[`footballdb.herokuapp.com`](http://footballdb.herokuapp.com).
-
-
 ### World Cup
 
-every four years (next in 2014 in Brazil and 2018 in Russia)
+Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
-- Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
+- every four years (next in 2014 in Brazil and 2018 in Russia)
 
 
 World Cup 2014 Brazil
@@ -92,7 +86,7 @@ World Cup 2010 South Africa
 - [2014_FIFA_World_Cup](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup)
 - [2010_FIFA_World_Cup](http://en.wikipedia.org/wiki/2010_FIFA_World_Cup)
 
----
+----
 
 - [Fußball-Weltmeisterschaft_2018 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2018)
 - [Fußball-Weltmeisterschaft_2014 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2014)
@@ -111,7 +105,7 @@ __America__
 North America, Central America & Caribbean
 
 - [2014_FIFA_World_Cup_qualification_(CONCACAF)](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(CONCACAF))
-- [2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round) - Hexagonal
+    - [Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CONCACAF_Fourth_Round) - Hexagonal
 
 
 __Europe__
@@ -136,7 +130,7 @@ Confederations Cup 2013 Brasil
 
 Confederations Cup 2009 South Africa
 
-- Official - [`www.fifa.com/tournaments/archive/confederationscup/southafrica2009`](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
+- [Official](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
 - 14 June - 28 June 2009
 
 
@@ -144,7 +138,6 @@ Confederations Cup 2009 South Africa
 
 - [2013_FIFA_Confederations_Cup](http://en.wikipedia.org/wiki/2013_FIFA_Confederations_Cup)
 - [2009_FIFA_Confederations_Cup](http://en.wikipedia.org/wiki/2009_FIFA_Confederations_Cup)
-
 
 
 
