@@ -63,20 +63,18 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
+- 32 teams
+- 64 matches
 - every four years (next in 2014 in Brazil and 2018 in Russia)
 
 
 World Cup 2014 Brazil
 
-- 32 teams
-- 64 matches
 - 32 days (12 June - 13 July 2014)
 
 
 World Cup 2010 South Africa
 
-- 32 teams
-- 64 matches
 - 31 days (11 June - 11 July 2010)
 
 
