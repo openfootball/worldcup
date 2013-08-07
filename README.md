@@ -38,8 +38,8 @@ bra, Brazil,      BRA, br
 
 ## Build Your Own `football.db` Copy
 
-To build your own `football.db` copy from the plain text fixtures
-use the `sportdb` command line tool. [More »](http://openfootball.github.io/build.html)
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
 
