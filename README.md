@@ -47,7 +47,7 @@ from the plain text fixtures. [More »](http://openfootball.github.io/build.html
 
 ### World Cup
 
-Official - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
+Official site - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
 - 32 teams
 - 64 matches
@@ -100,7 +100,7 @@ __Europe__
 
 ### Confederations Cup
 
-Official - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
+Official site - [`www.fifa.com/confederationscup`](http://www.fifa.com/confederationscup)
 
 - 8 Teams (from 6 confederations)
 - 16 Matches
@@ -114,7 +114,7 @@ Confederations Cup 2013 Brasil
 
 Confederations Cup 2009 South Africa
 
-- [Official](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
+- [Official 2009 Archive](http://www.fifa.com/tournaments/archive/confederationscup/southafrica2009)
 - 14 June - 28 June 2009
 
 
