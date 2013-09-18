@@ -60,16 +60,16 @@ Matchday 8  / Group C  //  Tu  Jun 11, 2013
 
 Matchday 9 / Group C  //  Fr Sep 6, 2013
 
-(19) 2013-09-06 15:00   Germany     -  Austria
-(20) 2013-09-06 15:00   Kazakhstan  -  Faroe Islands
-(21) 2013-09-06 15:00   Irland      -  Sweden
+(19) 2013-09-06 15:00   Germany     3-0  Austria
+(20) 2013-09-06 15:00   Kazakhstan  2-1  Faroe Islands
+(21) 2013-09-06 15:00   Irland      1-2  Sweden
 
 
 Matchday 10  / Group C  // Tu Sep 10, 2013
 
-(22) 2013-09-10 15:00   Faroe Islands  -  Germany
-(23) 2013-09-10 15:00   Austria        -  Irland
-(24) 2013-09-10 15:00   Kazakhstan     -  Sweden
+(22) 2013-09-10 15:00   Faroe Islands  0-3  Germany
+(23) 2013-09-10 15:00   Austria        1-0  Irland
+(24) 2013-09-10 15:00   Kazakhstan     0-1  Sweden
 
 
 Matchday 11 / Group C  //  Fr Oct 11, 2013
