@@ -54,19 +54,19 @@ Matchday 8 / Group I  //  Di. 11. Jun 2013
 
 Matchday 9 / Group I  //  Fr. 6. Sep 2013
 
-(14) 2013-09-06 15:00   Georgia  -  France
-(15) 2013-09-06 15:00   Finland  -  Spain
+(14) 2013-09-06 15:00   Georgia  0-0  France
+(15) 2013-09-06 15:00   Finland  0-2  Spain
 
 
 Matchday 10 / Group I  //  Di. 10. Sep 2013
 
-(16) 2013-09-10 15:00   Belarus  -  France
-(17) 2013-09-10 15:00   Georgia  -  Finland
+(16) 2013-09-10 15:00   Belarus  2-4  France
+(17) 2013-09-10 15:00   Georgia  0-1  Finland
 
 
 Matchday 11 / Group I  //  Fr. 11. Okt 2013
 
-(18) 2013-10-11 15:00   Spain   -   Belarus
+(18) 2013-10-11 15:00   Spain   2-1   Belarus
 
 
 Matchday 12 / Group I  //  Di. 15. Okt 2013
