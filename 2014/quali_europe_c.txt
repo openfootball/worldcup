@@ -81,7 +81,7 @@ Matchday 11 / Group C  //  Fr Oct 11, 2013
 
 Matchday 12 / Group C   //  Tu Oct 15, 2013
 
-(28) 2013-10-15 15:00   Sweden         -  Germany
-(29) 2013-10-15 15:00   Faroe Islands  -  Austria
-(30) 2013-10-15 15:00   Irland         -  Kazakhstan
+(28) 2013-10-15 15:00   Sweden         3-5  Germany
+(29) 2013-10-15 15:00   Faroe Islands  0-3  Austria
+(30) 2013-10-15 15:00   Irland         3-1  Kazakhstan
 
