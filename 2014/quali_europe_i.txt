@@ -71,5 +71,5 @@ Matchday 11 / Group I  //  Fr. 11. Okt 2013
 
 Matchday 12 / Group I  //  Di. 15. Okt 2013
 
-(19) 2013-10-15 15:00   France  -  Finland
-(20) 2013-10-15 15:00   Spain  -  Georgia
+(19) 2013-10-15 15:00   France  3-0  Finland
+(20) 2013-10-15 15:00   Spain   2-0  Georgia
