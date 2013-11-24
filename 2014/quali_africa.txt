@@ -1,43 +1,50 @@
-#############################################################################
-#  World Cup 2014 - Qualification Africa
-
-
-# Timezone: UTC +/-
-
-
-
-#############################
-# Third Round
-# The teams were seeded based on the 12 September 2013 edition of the FIFA World Rankings 
+#################################################
+#  World Cup 2014 - Qualification Africa Third Round
+#
+#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CAF_Third_Round
+#
+# The teams were seeded based on the 12 September 2013 edition
+#  of the FIFA World Rankings 
 # Five pairs of teams are to play against each other 
-# The matches are scheduled to be played in the periods 11–15 October and 15–19 November 2013.
+# The matches are scheduled to be played in the periods
+#  11–15 October and 15–19 November 2013.
 #
-#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_%E2%80%93_CAF_Third_Round
-#
-# NB: The winner from each pair will be qualified
+# Note: The winner from each pair will be qualified.
 
-(1) Ivory Coast 	- Senegal
 
-2013-10-12 17:00 UTC+0 Ivory Coast 3–1 Senegal	
-2013-11-16 19:00 UTC+1 Senegal 1-1 Ivory Coast
+(1) Playoff 1st Leg // 11–15 October
 
-(2) Ethiopia – Nigeria
+2013-10-12 17:00  Côte d'Ivoire  3-1   Senegal
+# UTC±0  - Stade Félix Houphouët-Boigny, Abidjan
 
-2013-10-13 16:00 UTC+3 Ethiopia 1–2 Nigeria
-2013-11-16 16:00 UTC+1 Nigeria 2-0 Ethiopia
+2013-10-12 16:00  Burkina Faso  3-2  Algeria
+# UTC±0  -  Stade du 4-Août, Ouagadougou
 
-(3) Tunisia	– Cameroon
+2013-10-13 16:00  Ethiopia  1-2  Nigeria
+# UTC+3  -  Addis Ababa Stadium, Addis Ababa
 
-2013-10-13 18:00 UTC+1 Tunisia 0–0 Cameroon
-2013-11-17 15:30 UTC+1 Cameroon 4-1 Tunisia
+2013-10-13 18:00  Tunisia  0-0  Cameroon
+# UTC+1  -  Stade Olympique de Radès, Radès
 
-(4) Ghana - Egypt
+2013-10-15 16:00  Ghana   6-1  Egypt
+# UTC±0  - Baba Yara Stadium, Kumasi
 
-2013-10-15 16:00 UTC+0 Ghana 6-1 Egypt
-2013-11-19 18:00 UTC+2 Egypt 2-1 Ghana
 
-(5) Burkina Faso - Algeria
 
-2013-10-12 16:00 UTC+0 Burkina Faso 3–2 Algeria
-2013-11-19 19:15 UTC+1 Algeria 1-0 Burkina Faso
+(2) Playoff 2nd Leg // 15-19 November
+
+2013-11-16 19:00  Senegal  1-1  Côte d'Ivoire
+# UTC±0  -  Stade Mohamed V, Casablanca (Morocco)
+
+2013-11-16 16:00  Nigeria  2-0  Ethiopia
+# UTC+1  - U. J. Esuene Stadium, Calabar
+
+2013-11-17 15:00  Cameroon  4-1  Tunisia
+# UTC+1  -  Stade Ahmadou Ahidjo, Yaoundé
+
+2013-11-19 18:00  Egypt  2-1  Ghana
+# UTC+2  - 30 June Stadium, Cairo
+
+2013-11-19 19:15  Algeria  1-0  Burkina Faso
+# UTC+1  -  Stade Mustapha Tchaker, Blida
 

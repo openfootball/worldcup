@@ -1,0 +1,22 @@
+##########################################
+# World Cup 2014 - Qualification Africa
+
+
+league: world.quali.africa
+season:  2014
+start_at: 2012-09-07        # fix: use proper/correct start date??
+
+fixtures:
+- quali_africa
+
+teams:
+- civ    # Côte d'Ivoire
+- sen    # Sengegal
+- bfa    # Burkina Faso
+- alg    # Algeria
+- eth    # Ethiopia
+- nga    # Nigeria
+- tun    # Tunisia
+- cmr    # Cameroon
+- gha    # Ghana
+- egy    # Egypt

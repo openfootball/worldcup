@@ -21,3 +21,9 @@ eth, Ethiopia,       ETH, et
 tog, Togo,           TOG, tg
 rsa, South Africa,   RSA, za
 
+
+##############################
+# more for world cup quali - add to africa-cup!!
+
+sen, Senegal,        SEN, sn
+

@@ -9,8 +9,9 @@ season:  2014
 start_at: 2012-09-07
 
 fixtures:
-- quali_europe_c
-- quali_europe_i
+- quali_europe_c          # group c
+- quali_europe_i          # group i
+- quali_europe_playoff    # playoff of best eight runner-ups (2nd-place) of groups
 
 
 teams:
@@ -25,3 +26,10 @@ teams:
 - blr
 - fin
 - geo
+- cro    # Group A (2nd) Croatia
+- rou    # Group D (2nd) Romania
+- isl    # Group E (2nd) Iceland
+- por    # Group F (2nd) Portugal
+- gre    # Group G (2nd) Greece
+- ukr    # Group H (2nd) Ukraine
+

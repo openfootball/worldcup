@@ -6,4 +6,5 @@ world,                 World Cup
 world.quali.europe,    World Cup Quali Europe
 world.quali.europe.c,  World Cup Quali Europe Group C
 world.quali.america,   World Cup Quali North/Central America and Caribbean
+world.quali.africa,    World Cup Quali Africa
 
