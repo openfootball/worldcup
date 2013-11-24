@@ -14,6 +14,8 @@ jpn, Japan,        JPN, jp
 prk, North Korea,  PRK, kp
 kor, South Korea,  KOR, kr
 irq, Iraq,         IRQ, iq
+irn, Iran,         IRN, ir
+
 
 ###############################
 # oceania

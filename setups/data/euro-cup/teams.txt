@@ -38,4 +38,6 @@ rou, Romania,   ROU, ro
 ## more - add to euro-cup!!!
 
 isl, Iceland, ISL, is
+bel, Belgium, BEL, be
+bih, Bosnia and Herzegovina, BIH, ba
 
