@@ -1,0 +1,18 @@
+######################
+# Finals
+
+(16) Round of 16
+
+
+(17) Quarter-finals
+
+
+(18) Semi-finals
+
+
+(19) Match for third place   # Third-place play-off   # -- add to lang/rounds
+
+
+
+(20) Final
+

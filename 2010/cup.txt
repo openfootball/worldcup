@@ -1,6 +1,7 @@
 ################################
 # World Cup 2010 South Africa
 
+
 ###########
 # Groups
 
@@ -19,46 +20,46 @@ Group H  |  Spain           Switzerland         Honduras         Chile
 
 Matchday 1 / Group A
 
-(1) Fr  2010-06-11 16:00    South Africa  1-1  Mexico
-(2) Fr  2010-06-11 20:30    Uruguay       0-0  France
+(1) Fr  Jun/11 16:00    South Africa  1-1  Mexico
+(2) Fr  Jun/11 20:30    Uruguay       0-0  France
  
 Matchday 6 / Group A
 
-(17) We  2010-06-16 20:30    South Africa  0-3  Uruguay
+(17) We  Jun/16 20:30    South Africa  0-3  Uruguay
 
 Matchday 7 / Group A
 
-(18) Th  2010-06-17 20:30    France        0-2  Mexico
+(18) Th  Jun/17 20:30    France        0-2  Mexico
 
 Matchday 12 / Group A
 
-(33) Tu  2010-06-22 16:00    Mexico        0-1  Uruguay
-(34) Tu  2010-06-22 16:00    France        1-2  South Africa
+(33) Tu  Jun/22 16:00    Mexico        0-1  Uruguay
+(34) Tu  Jun/22 16:00    France        1-2  South Africa
 
 #################
 # Group B
 
 Matchday 2 / Group B
 
-(4) Sa  2010-06-12 13:30    South Korea     2-0  Greece
-(3) Sa  2010-06-12 16:00    Argentina       1-0  Nigeria
+(4) Sa  Jun/12 13:30    South Korea     2-0  Greece
+(3) Sa  Jun/12 16:00    Argentina       1-0  Nigeria
 
 Matchday 7 / Group B
 
-(20) Th  2010-06-17 13:30    Argentina      4-1  South Korea
-(19) Th  2010-06-17 16:00    Greece         2-1  Nigeria
+(20) Th  Jun/17 13:30    Argentina      4-1  South Korea
+(19) Th  Jun/17 16:00    Greece         2-1  Nigeria
 
 Matchday 12 / Group B
 
-(35) Tu  2010-06-22 20:30    Nigeria        2-2  South Korea
-(36) Tu  2010-06-22 20:30    Greece         0-2  Argentina
+(35) Tu  Jun/22 20:30    Nigeria        2-2  South Korea
+(36) Tu  Jun/22 20:30    Greece         0-2  Argentina
 
 #################
 # Group C
 
 Matchday 2 / Group C
 
-(5) Sa  2010-06-12 20:30    England         1-1  USA
+(5) Sa  2010-06-12 20:30    England         1-1  United States
 
 Matchday 3 / Group C
 
@@ -66,12 +67,12 @@ Matchday 3 / Group C
 
 Matchday 8 / Group C
 
-(22) Fr  2010-06-18 16:00    Slovenia       2-2  USA
+(22) Fr  2010-06-18 16:00    Slovenia       2-2  United States
 (23) Fr  2010-06-18 20:30    England        0-0  Algeria
 
 Matchday 13 / Group C
 
-(38) We  2010-06-23 16:00    USA            1-0  Algeria
+(38) We  2010-06-23 16:00    United States            1-0  Algeria
 (37) We  2010-06-23 16:00    Slovenia       0-1  England
 
 ################
@@ -173,42 +174,3 @@ Matchday 15 / Group H
 
 (47) Fr   2010-06-25 20:30   Chile        1-2  Spain
 (48) Fr   2010-06-25 20:30   Switzerland  0-0  Honduras
-
-
-####
-# Finals
-
-(16) Round of 16
-
-(49) Sa   2010-06-26 16:00   Uruguay        2-1              South Korea
-(50) Sa   2010-06-26 20:30   United States  1-1 1-2nV        Ghana
-(51) Su   2010-06-27 16:00   Germany        4-1              England
-(52) Su   2010-06-27 20:30   Argentina      3-1              Mexico
-(53) Mo   2010-06-28 16:00   Netherlands    2-1              Slovakia
-(54) Mo   2010-06-28 20:30   Brazil         3-0              Chile
-(55) Tu   2010-06-29 16:00   Paraguay       0-0 0-0nV 5-3iE  Japan  
-(56) Tu   2010-06-29 20:30   Spain          1-0              Portugal
-
-
-(17) Quarterfinals
-
-(57) Fr   2010-07-02 16:00   Netherlands    2-1               Brazil
-(58) Fr   2010-07-02 20:30   Uruguay        1-1 1-1nV 4-2iE   Ghana
-(59) Sa   2010-07-03 16:00   Argentina      0-4               Germany
-(60) Sa   2010-07-03 20:30   Paraguay       0-1               Spain  
-
-
-(18) Semifinals
-
-(61) Tu   2010-07-06 20:30   Uruguay        2-3  Netherlands  
-(62) We   2010-07-07 20:30   Germany        0-1  Spain  
-
-
-(19) Third-place play-off
-
-(63) Sa  2010-07-10 20:30  Uruguay  2-3  Germany  
-
-
-(20) Final
-
-(64) Su   2010-07-11 20:30  Netherlands  0-0 0-1nV  Spain  

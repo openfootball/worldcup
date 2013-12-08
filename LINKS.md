@@ -27,9 +27,9 @@ World Cup 2010 South Africa
 
 ----
 
-- [Fuﬂball-Weltmeisterschaft_2018 (de)](http://de.wikipedia.org/wiki/Fuﬂball-Weltmeisterschaft_2018)
-- [Fuﬂball-Weltmeisterschaft_2014 (de)](http://de.wikipedia.org/wiki/Fuﬂball-Weltmeisterschaft_2014)
-- [Fuﬂball-Weltmeisterschaft_2010 (de)](http://de.wikipedia.org/wiki/Fuﬂball-Weltmeisterschaft_2010)
+- [Fu√üball-Weltmeisterschaft_2018 (de)](http://de.wikipedia.org/wiki/Fu√üball-Weltmeisterschaft_2018)
+- [Fu√üball-Weltmeisterschaft_2014 (de)](http://de.wikipedia.org/wiki/Fu√üball-Weltmeisterschaft_2014)
+- [Fu√üball-Weltmeisterschaft_2010 (de)](http://de.wikipedia.org/wiki/Fu√üball-Weltmeisterschaft_2010)
 
 
 
@@ -45,13 +45,13 @@ World Cup 2010 South Africa
 North America, Central America & Caribbean
 
 - [2014_FIFA_World_Cup_qualification_(CONCACAF)](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_(CONCACAF))
-    - [Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_ñ_CONCACAF_Fourth_Round) - Hexagonal
+    - [Fourth_Round](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_‚Äì_CONCACAF_Fourth_Round) - Hexagonal
 
 
 #### Europe
 
-- [2014_FIFA_World_Cup_qualification_ñ_UEFA_Group_C](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_ñ_UEFA_Group_C) - Group C
-- [2014_FIFA_World_Cup_qualification_ñ_UEFA_Group_I](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_ñ_UEFA_Group_I) - Group I
+- [2014_FIFA_World_Cup_qualification_‚Äì_UEFA_Group_C](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_‚Äì_UEFA_Group_C) - Group C
+- [2014_FIFA_World_Cup_qualification_‚Äì_UEFA_Group_I](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_‚Äì_UEFA_Group_I) - Group I
 
 
 
