@@ -3,16 +3,39 @@
 
 (16) Round of 16
 
+## (49) Sat Jun/28   1A - 2B    # Belo Horizonte
+## (50) Sat Jun/28   1C - 2D    # Rio de Janeiro
+
+## (51) Sun Jun/29   1B - 2A    # Fortaleza
+## (52) Sun Jun/29   1D - 2C    # Recife
+
+## (53) Mon Jun/30   1E - 2F    # Brasília
+## (54) Mon Jun/30   1G - 2H    # Porto Alegre
+
+## (55) Tue Jul/1    1F - 2E    # São Paulo
+## (56) Tue Jul/1    1H - 2G    # Salvador
+
 
 (17) Quarter-finals
+
+## (57) Fri Jul/4      W49 - W50   # Fortaleza
+## (58) Fri Jul/4      W53 - W54   # Rio de Janeiro
+
+## (59) Sat Jul/5      W51 - W52   # Salvador
+## (60) Sat Jul/5      W55 - W56   # Brasília
 
 
 (18) Semi-finals
 
+## (61) Tue Jul/8      W57 - W58    # Belo Horizonte
+## (62) Wed Jul/9      W59 - W69    # São Paulo
 
-(19) Match for third place   # Third-place play-off   # -- add to lang/rounds
 
+(19) Match for third place    # Third-place play-off   # -- add to lang/rounds
+
+## (63) Sat Jul/12     L61 - L62   # Brasília
 
 
 (20) Final
 
+## (64) Sun Jul/13     W61 - W62   # Rio de Janeiro
