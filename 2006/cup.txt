@@ -1,0 +1,15 @@
+################################
+# World Cup 2006 Germany
+
+###########
+# Groups
+
+Group A  | Germany      Ecuador       Poland          Costa Rica
+Group B  | England      Sweden        Paraguay        Trinidad and Tobago
+Group C  | Argentina    Netherlands   Ivory Coast     Serbia and Montenegro
+Group D  | Portugal     Mexico        Angola          Iran
+Group E  | Italy        Ghana         Czech Republic  United States
+Group F  | Brazil       Australia      Croatia        Japan
+Group G  | Switzerland  France        South Korea     Togo
+Group H  | Spain        Ukraine       Tunisia         Saudi Arabia
+
