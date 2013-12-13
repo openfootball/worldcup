@@ -2,6 +2,7 @@
 #  World Cup 2006 Germany / Deutschland
 #
 #  see en.wikipedia.org/wiki/2006_FIFA_World_Cup
+#      www.fifa.com/worldcup/archive/germany2006
 
 ## fix: change time zone to ??
 ## - All times listed are  ???
@@ -16,14 +17,13 @@ fixtures:
 - cup_finals
 
 
-##############
-# Europa (13 team)
-# Südamerika (5 teams)
-# Nord- und Mittelamerika (3 teams)
-# Afrika (6 teams)
-# Asien mit Australien (4 teams)
-# Ozeanien (1 team)
-
+##########################
+# Europa (UEFA) - 14
+# Südamerika (CONMEBOL) - 4
+# Nord- und Mittelamerika (CONCACAF) - 4
+# Oceania (OFC) - 1
+# Asien (AFC) - 4
+# Afrika (CAF)  - 5
 
 teams:
 - cro   # Croatia  /// Europa (UEFA) - 14
@@ -53,7 +53,7 @@ teams:
 - kor   # Südkorea
 - irn   # Iran
 - ksa   # Saudi Arabia
-- ang   # Angola          /// Afrika (CAF)  -5
+- ang   # Angola          /// Afrika (CAF)  - 5
 - civ   # Elfenbeinküste
 - gha   # Ghana
 - tog   # Togo

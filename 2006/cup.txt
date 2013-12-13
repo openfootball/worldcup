@@ -1,5 +1,5 @@
-################################
-# World Cup 2006 Germany
+##########################################
+# World Cup 2006 Germany / Deutschland
 
 ###########
 # Groups
@@ -9,7 +9,175 @@ Group B  | England      Sweden        Paraguay        Trinidad and Tobago
 Group C  | Argentina    Netherlands   Ivory Coast     Serbia and Montenegro
 Group D  | Portugal     Mexico        Angola          Iran
 Group E  | Italy        Ghana         Czech Republic  United States
-Group F  | Brazil       Australia      Croatia        Japan
+Group F  | Brazil       Australia     Croatia         Japan
 Group G  | Switzerland  France        South Korea     Togo
 Group H  | Spain        Ukraine       Tunisia         Saudi Arabia
+
+
+################
+# Group A
+
+Matchday 1 / Group A
+
+(1)  Fri Jun/9     Germany     4-2 (2-1)  Costa Rica   # Allianz Arena, München
+(2)  Fri Jun/9     Poland      0-2 (0-1)  Ecuador      # Veltins-Arena, Gelsenkirchen
+
+Matchday 6 / Group A
+
+(17)  Wed Jun/14   Germany     1-0 (0-0)  Poland       # Signal Iduna Park, Dortmund
+
+Matchday 7 / Group A
+
+(18)  Thu Jun/15   Ecuador     3-0 (1-0)  Costa Rica   # AOL Arena, Hamburg
+
+Matchday 12 / Group A
+
+(33)  Tue Jun/20   Ecuador     0-3 (0-2)  Germany      # Olympiastadion, Berlin
+(34)  Tue Jun/20   Costa Rica  1-2 (1-1)  Poland       # AWD-Arena, Hannover
+
+
+################
+# Group B
+
+Matchday 2 / Group B
+
+(3)  Sat Jun/10    England  1-0 (1-0)  Paraguay          # Commerzbank-Arena, Frankfurt
+(4)  Sat Jun/10    Trinidad and Tobago  0-0  Sweden      # Signal Iduna Park, Dortmund
+
+Matchday 7 / Group B
+
+(19)  Thu Jun/15   England   2-0 (0-0)  Trinidad and Tobago  # EasyCredit-Stadion, Nürnberg
+(20)  Thu Jun/15   Sweden    1-0 (0-0)  Paraguay             # Olympiastadion, Berlin
+
+Matchday 12 / Group B
+
+(35)  Tue Jun/20   Sweden    2-2 (0-1)  England               # RheinEnergieStadion, Köln
+(36)  Tue Jun/20   Paraguay  2-0 (1-0)  Trinidad and Tobago   # Fritz-Walter-Stadion, Kaiserslautern
+
+
+################
+# Group C
+
+Matchday 2 / Group C
+
+(5)  Sat Jun/10    Argentina  2-1 (2-0)  Côte d'Ivoire         # AOL Arena, Hamburg
+
+Matchday 3 / Group C
+
+(6)  Sun Jun/11    Serbia and Montenegro  0-1 (0-1)  Netherlands  # Zentralstadion, Leipzig
+
+Matchday 8 / Group C
+
+(21)  Fri Jun/16   Argentina  6-0 (3-0)  Serbia and Montenegro     # Veltins-Arena, Gelsenkirchen
+(22)  Fri Jun/16   Netherlands  2-1 (2-1)  Côte d'Ivoire           # Gottlieb-Daimler-Stadion, Stuttgart
+
+Matchday 13 / Group C
+
+(37)  Wed Jun/21   Netherlands  0-0  Argentina                       # Commerzbank-Arena, Frankfurt
+(38)  Wed Jun/21   Côte d'Ivoire  3-2 (1-2)  Serbia and Montenegro   # Allianz Arena, München
+
+
+################
+# Group D
+
+Matchday 3 / Group D
+
+(7)  Sun Jun/11     Mexico    3-1 (1-1)  Iran        # EasyCredit-Stadion, Nürnberg
+(8)  Sun Jun/11     Angola    0-1 (0-1)  Portugal    # RheinEnergieStadion, Köln
+
+Matchday 8 / Group D
+
+(23)  Fri Jun/16    Mexico    0-0        Angola      # AWD-Arena, Hannover
+
+Matchday 9 / Group D
+
+(24)  Sat Jun/17    Portugal  2-0 (0-0)  Iran        # Commerzbank-Arena, Frankfurt
+
+Matchday 13 / Group D
+
+(39)  Wed Jun/21    Portugal  2-1 (2-1)  Mexico      # Veltins-Arena, Gelsenkirchen
+(40)  Wed Jun/21    Iran      1-1 (0-0)  Angola      # Zentralstadion, Leipzig
+
+
+################
+# Group E
+
+Matchday 4 / Group E
+
+(9)  Mon Jun/12    Italy           2-0 (1-0)  Ghana           # AWD-Arena, Hannover
+(10) Mon Jun/12    United States   0-3 (0-2)  Czech Republic  # Veltins-Arena, Gelsenkirchen
+
+Matchday 9 / Group E
+
+(25) Sat Jun/17    Italy           1-1 (1-1)  United States    # Fritz-Walter-Stadion, Kaiserslautern
+(26) Sat Jun/17    Czech Republic  0-2 (0-1)  Ghana            # RheinEnergieStadion, Köln
+
+Matchday 14 / Group E
+
+(41) Thu Jun/22    Czech Republic  0-2 (0-1)  Italy            # AOL Arena, Hamburg
+(42) Thu Jun/22    Ghana           2-1 (2-1)  United States    # EasyCredit-Stadion, Nürnberg
+
+
+################
+# Group F
+
+Matchday 5 / Group F
+
+(11)  Tue Jun/13    Brazil     1-0 (1-0)  Croatia       # Olympiastadion, Berlin
+
+Matchday 4 / Group F
+
+(12)  Mon Jun/12    Australia  3-1 (0-1)  Japan         # Fritz-Walter-Stadion, Kaiserslautern
+
+Matchday 10 / Group F
+
+(27)  Sun Jun/18    Brazil     2-0 (0-0)  Australia     # Allianz Arena, München
+(28)  Sun Jun/18    Japan      0-0        Croatia       # EasyCredit-Stadion, Nürnberg
+
+Matchday 14 / Group F
+
+(43)  Thu Jun/22    Japan      1-4 (1-1)  Brazil        # Signal Iduna Park, Dortmund
+(44)  Thu Jun/22    Croatia    2-2 (1-1)  Australia     # Gottlieb-Daimler-Stadion, Stuttgart
+
+
+################
+# Group G
+
+Matchday 5 / Group G
+
+(13)  Tue Jun/13    France          0-0        Switzerland     # Gottlieb-Daimler-Stadion, Stuttgart
+(14)  Tue Jun/13    South Korea     2-1 (0-1)  Togo            # Commerzbank-Arena, Frankfurt
+
+Matchday 10 / Group G
+
+(29)  Sun Jun/18    France          1-1 (1-0)  South Korea     # Zentralstadion, Leipzig
+
+Matchday 11 / Group G
+
+(30)  Mon Jun/19    Togo            0-2 (0-1)  Switzerland     # Signal Iduna Park, Dortmund
+
+Matchday 15 / Group G
+
+(45)  Fri Jun/23    Togo            0-2 (0-0)  France          # RheinEnergieStadion, Köln
+(46)  Fri Jun/23    Switzerland     2-0 (1-0)  South Korea     # AWD-Arena, Hannover
+
+
+################
+# Group H
+
+Matchday 6 / Group H
+
+(15)  Wed Jun/14    Spain         4-0 (2-0)  Ukraine         # Zentralstadion, Leipzig
+(16)  Wed Jun/14    Tunisia       2-2 (1-0)  Saudi Arabia    # Allianz Arena, München
+
+Matchday 11 / Group H
+
+(31)  Mon Jun/19    Spain         3-1 (0-1)  Tunisia        # Gottlieb-Daimler-Stadion, Stuttgart
+(32)  Mon Jun/19    Saudi Arabia  0-4 (0-2)  Ukraine        # AOL Arena, Hamburg
+
+Matchday 15 / Group H
+
+(47)  Fri Jun/23    Saudi Arabia  0-1 (0-1)  Spain         # Fritz-Walter-Stadion, Kaiserslautern
+(48)  Fri Jun/23    Ukraine       1-0 (0-0)  Tunisia       # Olympiastadion, Berlin
+
 
