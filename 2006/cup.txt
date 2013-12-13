@@ -46,7 +46,7 @@ Matchday 2 / Group B
 
 Matchday 7 / Group B
 
-(19)  Thu Jun/15   England   2-0 (0-0)  Trinidad and Tobago  # EasyCredit-Stadion, Nürnberg
+(19)  Thu Jun/15   England   2-0 (0-0)  Trinidad and Tobago  # Frankenstadion, Nürnberg
 (20)  Thu Jun/15   Sweden    1-0 (0-0)  Paraguay             # Olympiastadion, Berlin
 
 Matchday 12 / Group B
@@ -82,7 +82,7 @@ Matchday 13 / Group C
 
 Matchday 3 / Group D
 
-(7)  Sun Jun/11     Mexico    3-1 (1-1)  Iran        # EasyCredit-Stadion, Nürnberg
+(7)  Sun Jun/11     Mexico    3-1 (1-1)  Iran        # Frankenstadion, Nürnberg
 (8)  Sun Jun/11     Angola    0-1 (0-1)  Portugal    # RheinEnergieStadion, Köln
 
 Matchday 8 / Group D
@@ -115,7 +115,7 @@ Matchday 9 / Group E
 Matchday 14 / Group E
 
 (41) Thu Jun/22    Czech Republic  0-2 (0-1)  Italy            # AOL Arena, Hamburg
-(42) Thu Jun/22    Ghana           2-1 (2-1)  United States    # EasyCredit-Stadion, Nürnberg
+(42) Thu Jun/22    Ghana           2-1 (2-1)  United States    # Frankenstadion, Nürnberg
 
 
 ################
@@ -132,7 +132,7 @@ Matchday 4 / Group F
 Matchday 10 / Group F
 
 (27)  Sun Jun/18    Brazil     2-0 (0-0)  Australia     # Allianz Arena, München
-(28)  Sun Jun/18    Japan      0-0        Croatia       # EasyCredit-Stadion, Nürnberg
+(28)  Sun Jun/18    Japan      0-0        Croatia       # Frankenstadion, Nürnberg
 
 Matchday 14 / Group F
 
