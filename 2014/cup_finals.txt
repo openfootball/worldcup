@@ -31,7 +31,7 @@
 ## (62) Wed Jul/9      W59 - W69    # São Paulo
 
 
-(19) Match for third place    # Third-place play-off   # -- add to lang/rounds
+(19) Round 19  -  Match for third place    # Third-place play-off   # fix: add -- add to lang/rounds parser - remove round 19
 
 ## (63) Sat Jul/12     L61 - L62   # Brasília
 
