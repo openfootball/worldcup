@@ -1,10 +1,6 @@
 ###########
 #  2014_quali_europe
 
-data:
-- world-cup!/setups/data/euro-cup/teams
-
-
 leagues:
 - world-cup!/leagues
 

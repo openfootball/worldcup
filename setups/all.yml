@@ -1,11 +1,6 @@
 ###########
 # all
 
-data:
-- world-cup!/setups/data/africa-cup/teams
-- world-cup!/setups/data/america-cup/teams
-
-
 leagues:
 - world-cup!/leagues
 
