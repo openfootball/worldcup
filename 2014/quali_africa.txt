@@ -12,7 +12,7 @@
 # Note: The winner from each pair will be qualified.
 
 
-(1) Playoff 1st Leg // 11–15 October
+(1)  Round 1  -  Playoff 1st Leg // 11–15 October      # fix: remove round 1 - add playoff to lang for parser
 
 2013-10-12 17:00  Côte d'Ivoire  3-1   Senegal
 # UTC±0  - Stade Félix Houphouët-Boigny, Abidjan
@@ -31,7 +31,7 @@
 
 
 
-(2) Playoff 2nd Leg // 15-19 November
+(2) Round 2  -  Playoff 2nd Leg // 15-19 November      # fix: remove round 1 - add playoff to lang for parser
 
 2013-11-16 19:00  Senegal  1-1  Côte d'Ivoire
 # UTC±0  -  Stade Mohamed V, Casablanca (Morocco)
