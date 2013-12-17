@@ -4,7 +4,7 @@
 #  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_UEFA_Second_Round
 
 
-(13) Play-off 1st Leg      //  Fr Nov 15, 2013
+(13) Round 13  -  Play-off 1st Leg      //  Fr Nov 15, 2013    # fix: remove round 13 - add playoff to lang for parser
 
 2013-11-15 19:45   Portugal    1-0   Sweden
 #  UTC±0 - Estádio da Luz, Lisbon
@@ -19,7 +19,7 @@
 #  UTC±0 - Laugardalsvöllur, Reykjavík
 
 
-(14) Play-off 2nd Leg  (Knockout)   // Tu Nov 19, 2013
+(14) Round 14  -  Play-off 2nd Leg  (Knockout)   // Tu Nov 19, 2013     # fix: remove round 14 - add playoff to lang for parser
 
 2013-11-19 20:45   Sweden  2-3  Portugal
 #  UTC+1 - Friends Arena, Solna
