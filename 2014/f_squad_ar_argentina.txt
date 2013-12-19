@@ -1,5 +1,39 @@
+####################
+# Goal Keepers
 
-Lionel Messi
-Sergio Agüero
-Gonzalo Higuaín
+- Sergio Romero
+- Mariano Andujar
+- Agustin Orion
 
+
+####################
+# Defenders
+
+- Pablo Zabaleta
+- Federico Fernandez
+- Ezequiel Garay
+- Marcos Rojo
+
+
+####################
+# Midfielders
+
+- Angel Di Maria
+- Javier Mascherano
+- Fernando Gago
+- Ever Banega
+
+
+####################
+# Forwards
+
+- Lionel Messi
+- Sergio Aguero
+- Gonzalo Higuain
+- Ezequiel Lavezzi
+
+
+####################
+# Coaching Staff
+
+- Head Coach: Alejandro Zabella
