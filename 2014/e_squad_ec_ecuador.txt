@@ -1,5 +1,43 @@
+####################
+# Goal Keepers
 
-Antonio Valencia
-Felipe Caicedo
-Jefferson Montero
+- Maximo Banguera
+- Alexander Dominguez
 
+
+####################
+# Defenders
+
+- Frickson Erazo
+- Jayro Campos
+- Juan Carlos Paredes
+- Walter Ayovi
+- Gabriel Achilier
+- Jorge Guagua
+
+
+####################
+# Midfielders
+
+- Antonio Valencia
+- Jefferson Montero
+- Christian Noboa
+- Segundo Castillo
+- Luis Fernando Saritama
+
+
+####################
+# Forwards
+
+- Felipe Caicedo
+- Fidel Martinez
+- Joao Rojas
+- Jaime Ayovi
+- Enner Valencia
+- Narciso Mina
+
+
+####################
+# Coaching Staff
+
+- Head Coach: Reinaldo Rueda
