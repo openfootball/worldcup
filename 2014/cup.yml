@@ -57,3 +57,18 @@ teams:
 - por    # Portugal
 - fra    # France
 
+
+grounds:   # add 12 stadiums/grounds
+- maracana                       # Rio de Janeiro, RJ
+- estadionacionalmanegarrincha   # Brasília, DF
+- arenacorinthians               # São Paulo, SP
+- estadiocastelao                # Fortaleza, CE
+- estadiomineirao                # Belo Horizonte, MG
+- arenafontenova                 # Salvador, BA
+- arenapantanal                  # Cuiabá, MT
+- arenaamazonia                  # Manaus, AM
+- arenadasdunas                  # Natal, RN
+- estadiobeirario                # Porto Alegre, RS
+- arenapernambuco                # Recife, PE
+- arenadabaixada                 # Curitiba, PR
+
