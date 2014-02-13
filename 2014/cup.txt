@@ -20,24 +20,24 @@ Group H  |  Belgium      Algeria      Russia         South Korea
 
 Matchday 1 / Group A
 
-(1) Thu Jun/12 17:00 Brazil - Croatia       @ Arena de São Paulo, São Paulo
+(1) Thu Jun/12 17:00 Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
 
 Matchday 2 / Group A
 
-(2) Fri Jun/13 13:00 Mexico - Cameroon      @ Estádio das Dunas, Natal
+(2) Fri Jun/13 13:00 Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
 
 Matchday 6 / Group A
 
-(17) Tue Jun/17 16:00 Brazil - Mexico        @ Estádio Castelão, Fortaleza
+(17) Tue Jun/17 16:00 Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 
 Matchday 7 / Group A
 
-(18) Wed Jun/18 18:00 Cameroon - Croatia     @ Arena Amazônia, Manaus
+(18) Wed Jun/18 18:00 Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
 
 Matchday 12 / Group A
 
-(33) Mon Jun/23 17:00 Cameroon - Brazil      @ Brasília
-(34) Mon Jun/23 17:00 Croatia  - Mexico      @ Recife
+(33) Mon Jun/23 17:00 Cameroon - Brazil      @ Brasília (UTC-3)
+(34) Mon Jun/23 17:00 Croatia  - Mexico      @ Recife (UTC-3)
 
 
 #################
@@ -45,18 +45,18 @@ Matchday 12 / Group A
 
 Matchday 2 / Group B
 
-(3) Fri Jun/13 16:00 Spain - Netherlands     @ Arena Fonte Nova, Salvador
-(4) Fri Jun/13 18:00 Chile - Australia       @ Arena Pantanal, Cuiabá
+(3) Fri Jun/13 16:00 Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
+(4) Fri Jun/13 18:00 Chile - Australia       @ Arena Pantanal, Cuiabá (UTC-4)
 
 Matchday 7 / Group B
 
-(19) Wed Jun/18 16:00 Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro
-(20) Wed Jun/18 13:00 Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre
+(19) Wed Jun/18 16:00 Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+(20) Wed Jun/18 13:00 Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
 
 Matchday 12 / Group B
 
-(35) Mon Jun/23 13:00 Australia - Spain         @ Curitiba
-(36) Mon Jun/23 13:00 Netherlands - Chile       @ São Paulo
+(35) Mon Jun/23 13:00 Australia - Spain         @ Curitiba (UTC-3)
+(36) Mon Jun/23 13:00 Netherlands - Chile       @ São Paulo (UTC-3)
 
 
 #################
@@ -64,18 +64,18 @@ Matchday 12 / Group B
 
 Matchday 3 / Group C
 
-(5) Sat Jun/14 13:00 Colombia - Greece          @ Estádio Mineirão, Belo Horizonte
-(6) Sat Jun/14 22:00 Côte d'Ivoire - Japan      @ Arena Pernambuco, Recife
+(5) Sat Jun/14 13:00 Colombia - Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(6) Sat Jun/14 22:00 Côte d'Ivoire - Japan      @ Arena Pernambuco, Recife (UTC-3)
 
 Matchday 8 / Group C
 
-(21) Thu Jun/19 13:00 Colombia - Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília
-(22) Thu Jun/19 19:00 Japan - Greece             @ Estádio das Dunas, Natal
+(21) Thu Jun/19 13:00 Colombia - Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+(22) Thu Jun/19 19:00 Japan - Greece             @ Estádio das Dunas, Natal (UTC-3)
 
 Matchday 13 / Group C
 
-(37) Tue Jun/24 16:00 Japan - Colombia            @ Cuiabá
-(38) Tue Jun/24 17:00 Côte d'Ivoire - Greece      @ Fortaleza
+(37) Tue Jun/24 16:00 Japan - Colombia            @ Cuiabá (UTC-4)
+(38) Tue Jun/24 17:00 Côte d'Ivoire - Greece      @ Fortaleza (UTC-3)
 
 
 ################
@@ -83,21 +83,21 @@ Matchday 13 / Group C
 
 Matchday 3 / Group D
 
-(7) Sat Jun/14 16:00 Uruguay - Costa Rica       @ Estádio Castelão, Fortaleza
-(8) Sat Jun/14 18:00 England - Italy            @ Arena Amazônia, Manaus
+(7) Sat Jun/14 16:00 Uruguay - Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
+(8) Sat Jun/14 18:00 England - Italy            @ Arena Amazônia, Manaus (UTC-4)
 
 Matchday 8 / Group D
 
-(23) Thu Jun/19 16:00 Uruguay - England          @ Arena de São Paulo, São Paulo
+(23) Thu Jun/19 16:00 Uruguay - England          @ Arena de São Paulo, São Paulo (UTC-3)
 
 Matchday 9 / Group D
 
-(24) Fri Jun/20 13:00 Italy - Costa Rica         @ Arena Pernambuco, Recife
+(24) Fri Jun/20 13:00 Italy - Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
 
 Matchday 13 / Group D
 
-(39) Tue Jun/24 13:00 Italy - Uruguay             @ Natal
-(40) Tue Jun/24 13:00 Costa Rica - England        @ Belo Horizonte
+(39) Tue Jun/24 13:00 Italy - Uruguay             @ Natal (UTC-3)
+(40) Tue Jun/24 13:00 Costa Rica - England        @ Belo Horizonte (UTC-3)
 
 
 ##############
@@ -105,18 +105,18 @@ Matchday 13 / Group D
 
 Matchday 4 / Group E
 
-(9)  Sun Jun/15 13:00 Switzerland - Ecuador      @ Estádio Nacional Mané Garrincha, Brasília
-(10) Sun Jun/15 16:00 France - Honduras          @ Estádio Beira-Rio, Porto Alegre
+(9)  Sun Jun/15 13:00 Switzerland - Ecuador      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+(10) Sun Jun/15 16:00 France - Honduras          @ Estádio Beira-Rio, Porto Alegre (UTC-3)
 
 Matchday 9 / Group E
 
-(25) Fri Jun/20 16:00 Switzerland - France       @ Arena Fonte Nova, Salvador
-(26) Fri Jun/20 19:00 Honduras - Ecuador         @ Arena da Baixada, Curitiba
+(25) Fri Jun/20 16:00 Switzerland - France       @ Arena Fonte Nova, Salvador (UTC-3)
+(26) Fri Jun/20 19:00 Honduras - Ecuador         @ Arena da Baixada, Curitiba (UTC-3)
 
 Matchday 14 / Group E
 
-(41) Wed Jun/25 16:00 Honduras - Switzerland     @ Manaus
-(42) Wed Jun/25 17:00 Ecuador  - France          @ Rio de Janeiro
+(41) Wed Jun/25 16:00 Honduras - Switzerland     @ Manaus (UTC-4)
+(42) Wed Jun/25 17:00 Ecuador  - France          @ Rio de Janeiro (UTC-3)
 
 
 ##################
@@ -124,21 +124,21 @@ Matchday 14 / Group E
 
 Matchday 4 / Group F
 
-(11) Sun Jun/15 19:00 Argentina - Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro
+(11) Sun Jun/15 19:00 Argentina - Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
 
 Matchday 5 / Group F
 
-(12) Mon Jun/16 16:00 Iran - Nigeria                    @ Arena da Baixada, Curitiba
+(12) Mon Jun/16 16:00 Iran - Nigeria                    @ Arena da Baixada, Curitiba (UTC-3)
 
 Matchday 10 / Group F
 
-(27) Sat Jun/21 13:00 Argentina - Iran                  @ Estádio Mineirão, Belo Horizonte
-(28) Sat Jun/21 18:00 Nigeria - Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá
+(27) Sat Jun/21 13:00 Argentina - Iran                  @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(28) Sat Jun/21 18:00 Nigeria - Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
 
 Matchday 14 / Group F
 
-(43) Wed Jun/25 13:00 Nigeria - Argentina               @ Porto Alegre
-(44) Wed Jun/25 13:00 Bosnia-Herzegovina - Iran         @ Salvador
+(43) Wed Jun/25 13:00 Nigeria - Argentina               @ Porto Alegre (UTC-3)
+(44) Wed Jun/25 13:00 Bosnia-Herzegovina - Iran         @ Salvador (UTC-3)
 
 
 ########################
@@ -146,21 +146,21 @@ Matchday 14 / Group F
 
 Matchday 5 / Group G
 
-(13) Mon Jun/16 13:00 Germany - Portugal           @ Arena Fonte Nova, Salvador
-(14) Mon Jun/16 19:00 Ghana - United States        @ Estádio das Dunas, Natal
+(13) Mon Jun/16 13:00 Germany - Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
+(14) Mon Jun/16 19:00 Ghana - United States        @ Estádio das Dunas, Natal (UTC-3)
 
 Matchday 10 / Group G
 
-(29) Sat Jun/21 16:00 Germany - Ghana              @ Fortaleza
+(29) Sat Jun/21 16:00 Germany - Ghana              @ Fortaleza (UTC-3)
 
 Matchday 11 / Group G
 
-(30) Sun Jun/22 18:00 United States - Portugal     @ Manaus
+(30) Sun Jun/22 18:00 United States - Portugal     @ Manaus (UTC-4)
 
 Matchday 15 / Group G
 
-(45) Thu Jun/26 13:00 United States - Germany       @ Recife
-(46) Thu Jun/26 13:00 Portugal - Ghana              @ Brasília
+(45) Thu Jun/26 13:00 United States - Germany       @ Recife (UTC-3)
+(46) Thu Jun/26 13:00 Portugal - Ghana              @ Brasília (UTC-3)
 
 
 #####################
@@ -168,16 +168,16 @@ Matchday 15 / Group G
 
 Matchday 6 / Group H
 
-(15) Tue Jun/17 13:00 Belgium - Algeria         @ Estádio Mineirão, Belo Horizonte
-(16) Tue Jun/17 18:00 Russia - South Korea      @ Arena Pantanal, Cuiabá
+(15) Tue Jun/17 13:00 Belgium - Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(16) Tue Jun/17 18:00 Russia - South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
 
 Matchday 11 / Group H
 
-(31) Sun Jun/22 13:00 Belgium - Russia          @ Rio de Janeiro
-(32) Sun Jun/22 16:00 South Korea - Algeria     @ Porto Alegre
+(31) Sun Jun/22 13:00 Belgium - Russia          @ Rio de Janeiro (UTC-3)
+(32) Sun Jun/22 16:00 South Korea - Algeria     @ Porto Alegre (UTC-3)
 
 Matchday 15 / Group H
 
-(47) Thu Jun/26 17:00 South Korea - Belgium     @ São Paulo
-(48) Thu Jun/26 17:00 Algeria - Russia          @ Curitiba
+(47) Thu Jun/26 17:00 South Korea - Belgium     @ São Paulo (UTC-3)
+(48) Thu Jun/26 17:00 Algeria - Russia          @ Curitiba (UTC-3)
 
