@@ -59,16 +59,16 @@ teams:
 
 
 grounds:   # add 12 stadiums/grounds
-- maracana                       # Rio de Janeiro, RJ
-- estadionacionalmanegarrincha   # Brasília, DF
-- arenacorinthians               # São Paulo, SP
-- estadiocastelao                # Fortaleza, CE
-- estadiomineirao                # Belo Horizonte, MG
-- arenafontenova                 # Salvador, BA
-- arenapantanal                  # Cuiabá, MT
-- arenaamazonia                  # Manaus, AM
-- arenadasdunas                  # Natal, RN
-- estadiobeirario                # Porto Alegre, RS
-- arenapernambuco                # Recife, PE
-- arenadabaixada                 # Curitiba, PR
+- maracana            # Rio de Janeiro, RJ
+- nacionaldebrasilia  # Brasília, DF
+- corinthians         # São Paulo, SP
+- castelao            # Fortaleza, CE
+- mineirao            # Belo Horizonte, MG
+- fontenova           # Salvador, BA
+- pantanal            # Cuiabá, MT
+- amazonia            # Manaus, AM
+- dasdunas            # Natal, RN
+- beirario            # Porto Alegre, RS
+- pernambuco          # Recife, PE
+- dabaixada           # Curitiba, PR
 

@@ -20,10 +20,10 @@ teams:
 
 
 grounds:   # add 6 stadiums/grounds
-- maracana                       # Rio de Janeiro, RJ
-- estadionacionalmanegarrincha   # Brasília, DF
-- estadiomineirao                # Belo Horizonte, MG
-- arenapernambuco                # Recife, PE
-- estadiocastelao                # Fortaleza, CE
-- arenafontenova                 # Salvador, BA
+- maracana                # Rio de Janeiro, RJ
+- nacionaldebrasilia      # Brasília, DF
+- mineirao                # Belo Horizonte, MG
+- pernambuco              # Recife, PE
+- castelao                # Fortaleza, CE
+- fontenova               # Salvador, BA
 
