@@ -18,3 +18,12 @@ teams:
 - tah  # Tahiti
 - nga  # Nigeria
 
+
+grounds:   # add 6 stadiums/grounds
+- maracana                       # Rio de Janeiro, RJ
+- estadionacionalmanegarrincha   # Brasília, DF
+- estadiomineirao                # Belo Horizonte, MG
+- arenapernambuco                # Recife, PE
+- estadiocastelao                # Fortaleza, CE
+- arenafontenova                 # Salvador, BA
+
