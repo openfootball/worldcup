@@ -1,6 +1,4 @@
-#######################
-# national teams
+####################
+# National Teams
 
-teams:
-- world-cup!/teams
-
+world-cup!/teams

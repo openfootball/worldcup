@@ -1,9 +1,12 @@
-leagues:
-- world-cup!/leagues
+# Leagues
 
-teams:
-- world-cup!/teams
+world-cup!/leagues
 
-2014:
-- world-cup!/2014/cup
+# Teams
+
+world-cup!/teams
+
+# 2014
+
+world-cup!/2014/cup
 

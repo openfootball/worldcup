@@ -1,25 +1,26 @@
 ###########
-# all
+# All
 
-leagues:
-- world-cup!/leagues
+# Leagues
+world-cup!/leagues
 
-teams:
-- world-cup!/teams
+# Teams
+world-cup!/teams
 
-2009:
-- world-cup!/2009/confed
+# Fixtures
+# -- 2009
+world-cup!/2009/confed
 
-2010:
-- world-cup!/2010/cup
+# -- 2010
+world-cup!/2010/cup
 
-2013:
-- world-cup!/2013/confed
+# -- 2013
+world-cup!/2013/confed
 
-2014:
-- world-cup!/2014/quali_america
-- world-cup!/2014/quali_africa
-- world-cup!/2014/quali_europe
-- world-cup!/2014/cup
+# -- 2014
+world-cup!/2014/quali_america
+world-cup!/2014/quali_africa
+world-cup!/2014/quali_europe
+world-cup!/2014/cup
 
-# -  world/!2014/quali_europe_c
+# world/!2014/quali_europe_c
