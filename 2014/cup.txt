@@ -1,9 +1,6 @@
-##################################
+############################
 #  World Cup 2014 Brazil
 
-
-###########
-# Groups
 
 Group A  |  Brazil       Croatia      Mexico         Cameroon
 Group B  |  Spain        Netherlands  Chile          Australia
@@ -13,6 +10,26 @@ Group E  |  Switzerland  Ecuador      France         Honduras
 Group F  |  Argentina    Bosnia-Herzegovina  Iran    Nigeria
 Group G  |  Germany      Portugal     Ghana          United States
 Group H  |  Belgium      Algeria      Russia         South Korea
+
+
+Matchday 1  |  Thu Jun/12
+Matchday 2  |  Fri Jun/13
+Matchday 3  |  Sat Jun/14
+Matchday 4  |  Sun Jun/15
+Matchday 5  |  Mon Jun/16 
+Matchday 6  |  Tue Jun/17
+Matchday 7  |  Wed Jun/18
+
+Matchday 12 |  Mon Jun/23
+
+Matchday 15 |  Thu Jun/26
+
+(16) Round of 16     |  Sat Jun/28 - Tue Jul/1
+(17) Quarter-finals  |  Fri Jul/4 - Sat Jul/5
+(18) Semi-finals     |  Tue Jul/8 - Wed Jul/9
+(19) Round 19 - Match for third place  |  Sat Jul/12    # Third-place play-off   # fix: add -- add to lang/rounds parser - remove round 19
+(20) Final           |  Sun Jul/13
+
 
 
 ################
