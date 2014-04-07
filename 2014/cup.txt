@@ -19,9 +19,13 @@ Matchday 4  |  Sun Jun/15
 Matchday 5  |  Mon Jun/16 
 Matchday 6  |  Tue Jun/17
 Matchday 7  |  Wed Jun/18
-
+Matchday 8  |  Thu Jun/19
+Matchday 9  |  Fri Jun/20
+Matchday 10 |  Sat Jun/21
+Matchday 11 |  Sun Jun/22
 Matchday 12 |  Mon Jun/23
-
+Matchday 13 |  Tue Jun/24
+Matchday 14 |  Wed Jun/25
 Matchday 15 |  Thu Jun/26
 
 (16) Round of 16     |  Sat Jun/28 - Tue Jul/1
@@ -32,8 +36,7 @@ Matchday 15 |  Thu Jun/26
 
 
 
-################
-# Group A
+Group A:
 
 Matchday 1 / Group A
 
@@ -57,8 +60,8 @@ Matchday 12 / Group A
 (34) Mon Jun/23 17:00 Croatia  - Mexico      @ Recife (UTC-3)
 
 
-#################
-# Group B
+
+Group B:
 
 Matchday 2 / Group B
 
@@ -76,8 +79,8 @@ Matchday 12 / Group B
 (36) Mon Jun/23 13:00 Netherlands - Chile       @ São Paulo (UTC-3)
 
 
-#################
-# Group C
+
+Group C:
 
 Matchday 3 / Group C
 
@@ -95,8 +98,8 @@ Matchday 13 / Group C
 (38) Tue Jun/24 17:00 Côte d'Ivoire - Greece      @ Fortaleza (UTC-3)
 
 
-################
-# Group D
+
+Group D:
 
 Matchday 3 / Group D
 
@@ -117,8 +120,8 @@ Matchday 13 / Group D
 (40) Tue Jun/24 13:00 Costa Rica - England        @ Belo Horizonte (UTC-3)
 
 
-##############
-# Group E
+
+Group E:
 
 Matchday 4 / Group E
 
@@ -136,8 +139,8 @@ Matchday 14 / Group E
 (42) Wed Jun/25 17:00 Ecuador  - France          @ Rio de Janeiro (UTC-3)
 
 
-##################
-# Group F
+
+Group F:
 
 Matchday 4 / Group F
 
@@ -158,8 +161,8 @@ Matchday 14 / Group F
 (44) Wed Jun/25 13:00 Bosnia-Herzegovina - Iran         @ Salvador (UTC-3)
 
 
-########################
-# Group G
+
+Group G:
 
 Matchday 5 / Group G
 
@@ -180,8 +183,8 @@ Matchday 15 / Group G
 (46) Thu Jun/26 13:00 Portugal - Ghana              @ Brasília (UTC-3)
 
 
-#####################
-# Group H
+
+Group H:
 
 Matchday 6 / Group H
 

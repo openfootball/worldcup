@@ -5,4 +5,5 @@
 world-cup!/leagues
 
 # 2014
-world-cup!/2014/quali_europe_c
+world-cup!/2014/quali/europe_c
+
