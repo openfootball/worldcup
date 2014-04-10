@@ -2,14 +2,14 @@
 #  World Cup 2014 Brazil
 
 
-Group A  |  Brazil       Croatia      Mexico         Cameroon
-Group B  |  Spain        Netherlands  Chile          Australia
-Group C  |  Colombia     Greece       Côte d'Ivoire  Japan
-Group D  |  Uruguay      Costa Rica   England        Italy
-Group E  |  Switzerland  Ecuador      France         Honduras
-Group F  |  Argentina    Bosnia-Herzegovina  Iran    Nigeria
-Group G  |  Germany      Portugal     Ghana          United States
-Group H  |  Belgium      Algeria      Russia         South Korea
+Group A  |  Brazil       Croatia              Mexico         Cameroon
+Group B  |  Spain        Netherlands          Chile          Australia
+Group C  |  Colombia     Greece               Côte d'Ivoire  Japan
+Group D  |  Uruguay      Costa Rica           England        Italy
+Group E  |  Switzerland  Ecuador              France         Honduras
+Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
+Group G  |  Germany      Portugal             Ghana          United States
+Group H  |  Belgium      Algeria              Russia         South Korea
 
 
 Matchday 1  |  Thu Jun/12
