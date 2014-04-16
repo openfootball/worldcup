@@ -2,11 +2,6 @@
 
 world-cup!/leagues
 
-# Teams
-
-world-cup!/teams
-
 # 2014
 
 world-cup!/2014/cup
-

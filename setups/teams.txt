@@ -1,4 +1,0 @@
-####################
-# National Teams
-
-world-cup!/teams

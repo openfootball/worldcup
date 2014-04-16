@@ -10,28 +10,43 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 ## Intro
 
 Free open public domain football data for World Cup (e.g. Brazil 2014), World Cup Quali,
-Confederations Cup (e.g. Brazil 2013) including all national teams. Example:
+Confederations Cup (e.g. Brazil 2013). Example:
 
 ~~~
-### National Teams
+############################
+# World Cup 2014 Brazil
 
-esp, Spain,       ESP, es
-ita, Italy,       ITA, it
+Group A  |  Brazil       Croatia              Mexico         Cameroon
+Group B  |  Spain        Netherlands          Chile          Australia
+Group C  |  Colombia     Greece               Côte d'Ivoire  Japan
+Group D  |  Uruguay      Costa Rica           England        Italy
+Group E  |  Switzerland  Ecuador              France         Honduras
+Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
+Group G  |  Germany      Portugal             Ghana          United States
+Group H  |  Belgium      Algeria              Russia         South Korea
 
-arg, Argentina,   ARG, ar
-bra, Brazil,      BRA, br
+
+Matchday 1  |  Thu Jun/12
+Matchday 2  |  Fri Jun/13
+Matchday 3  |  Sat Jun/14
+
 ...
-~~~
 
-~~~
-## World Cup 2010 South Africa
+(16) Round of 16            |  Sat Jun/28 - Tue Jul/1
+(17) Quarter-finals         |  Fri Jul/4 - Sat Jul/5
+(18) Semi-finals            |  Tue Jul/8 - Wed Jul/9
+(19) Match for third place  |  Sat Jul/12
+(20) Final                  |  Sun Jul/13
 
-(17) Quarterfinals
 
-(57) Fr   2010-07-02 16:00   Netherlands  2-1              Brazil
-(58) Fr   2010-07-02 20:30   Uruguay      1-1 1-1nV 4-2iE  Ghana
-(59) Sa   2010-07-03 16:00   Argentina    0-4              Germany
-(60) Sa   2010-07-03 20:30   Paraguay     0-1              Spain
+Group A:
+
+(1) Thu Jun/12 17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
+(2) Fri Jun/13 13:00   Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
+
+(17) Tue Jun/17 16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
+(18) Wed Jun/18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
+
 ...
 ~~~
 

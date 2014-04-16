@@ -4,9 +4,6 @@
 # Leagues
 world-cup!/leagues
 
-# Teams
-world-cup!/teams
-
 # Fixtures
 # -- 2009
 world-cup!/2009/confed
