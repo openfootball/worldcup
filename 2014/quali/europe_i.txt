@@ -6,6 +6,9 @@
 
 Group I  |  France  Spain  Belarus  Finland  Georgia
 
+##
+## todo/fix: use new matchday format
+
 
 Matchday 1 / Group I  //   Fr. 7. Sep 2012
 

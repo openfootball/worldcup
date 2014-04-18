@@ -8,78 +8,59 @@
 Group C  |  Germany   Faroe Islands   Irland   Kazakhstan   Austria   Sweden
 
 
-Matchday 1 / Group C  //  Fr Sep 7, 2012
+Matchday 1  | 2012-09-07    # Fr Sep 7, 2012
+Matchday 2  | 2012-09-11    # Tu Sep 11, 2012
+Matchday 3  | 2012-10-12    # Fr Oct 12, 2012
+Matchday 4  | 2012-10-16    # Tu Oct 16, 2012
+Matchday 5  | 2013-03-22    # Fr Mar 22, 2013
+Matchday 6  | 2013-03-26    # Tu Mar 26, 2013
+Matchday 7  | 2013-06-07    # Fr Jun 7, 2013
+Matchday 8  | 2013-06-11    # Tu Jun 11, 2013
+Matchday 9  | 2013-09-06    # Fr Sep 6, 2013
+Matchday 10 | 2013-09-10    # Tu Sep 10, 2013
+Matchday 11 | 2013-10-11    # Fr Oct 11, 2013
+Matchday 12 | 2013-10-15    # Tu Oct 15, 2013
+
+
+Group C:
 
 (1) 2012-09-07 15:00   Germany     3-0  Faroe Islands
 (2) 2012-09-07 15:00   Kazakhstan  1-2  Irland
 
-
-Matchday 2   / Group C  //  Tu Sep 11, 2012
-
 (3) 2012-09-11 15:00   Austria  1-2  Germany
 (4) 2012-09-11 15:00   Sweden   2-0  Kazakhstan
-
-
-Matchday 3   / Group C  //  Fr  Oct 12, 2012
 
 (5) 2012-10-12 20:45   Irland         1-6  Germany
 (6) 2012-10-12 18:00   Faroe Islands  1-2  Sweden
 (7) 2012-10-12 18:00   Kazakhstan     0-0  Austria
 
-
-Matchday 4  / Group C  //  Tu  Oct 16, 2012
-
 (8)  2012-10-16 20:45   Germany        4-4  Sweden
 (9)  2012-10-16 20:00   Faroe Islands  1-4  Irland
 (10) 2012-10-16 20:30   Austria        4-0  Kazakhstan
 
-
-Matchday 5 / Group C  //  Fr  Mar 22, 2013
-
-(11) 2013-03-22 15:00    Kazakhstan  0-3  Germany
-(12) 2013-03-22 15:00    Austria     6-0  Faroe Islands
-(13) 2013-03-22 15:00    Sweden      0-0  Irland
-
-
-Matchday 6 / Group C  //  Tu  Mar 26, 2013
+(11) 2013-03-22 15:00   Kazakhstan  0-3  Germany
+(12) 2013-03-22 15:00   Austria     6-0  Faroe Islands
+(13) 2013-03-22 15:00   Sweden      0-0  Irland
 
 (14) 2013-03-26 15:00   Germany  4-1  Kazakhstan
 (15) 2013-03-26 15:00   Irland   2-2  Austria
 
-
-Matchday 7 / Group C  //  Fr  Jun 7, 2013
-
 (16) 2013-06-07 15:00   Irland   3-0  Faroe Islands
 (17) 2013-06-07 15:00   Austria  2-1  Sweden
 
-
-Matchday 8  / Group C  //  Tu  Jun 11, 2013
-
 (18) 2013-06-11 15:00   Sweden  2-0  Faroe Islands
-
-
-Matchday 9 / Group C  //  Fr Sep 6, 2013
 
 (19) 2013-09-06 15:00   Germany     3-0  Austria
 (20) 2013-09-06 15:00   Kazakhstan  2-1  Faroe Islands
 (21) 2013-09-06 15:00   Irland      1-2  Sweden
 
-
-Matchday 10  / Group C  // Tu Sep 10, 2013
-
 (22) 2013-09-10 15:00   Faroe Islands  0-3  Germany
 (23) 2013-09-10 15:00   Austria        1-0  Irland
 (24) 2013-09-10 15:00   Kazakhstan     0-1  Sweden
 
-
-Matchday 11 / Group C  //  Fr Oct 11, 2013
-
 (25) 2013-10-11 15:00   Germany        3-0  Irland
 (26) 2013-10-11 15:00   Faroe Islands  1-1  Kazakhstan
 (27) 2013-10-11 15:00   Sweden         2-1  Austria
-
-
-Matchday 12 / Group C   //  Tu Oct 15, 2013
 
 (28) 2013-10-15 15:00   Sweden         3-5  Germany
 (29) 2013-10-15 15:00   Faroe Islands  0-3  Austria

@@ -4,32 +4,18 @@
 #  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_UEFA_Second_Round
 
 
-(13) Round 13  -  Play-off 1st Leg      //  Fr Nov 15, 2013    # fix: remove round 13 - add playoff to lang for parser
+(13) Play-off 1st Leg     //  Fr Nov 15, 2013
 
-2013-11-15 19:45   Portugal    1-0   Sweden
-#  UTC±0 - Estádio da Luz, Lisbon
-
-2013-11-15 21:45   Ukraine     2-0   France
-#  UTC+2 - Olympic Stadium, Kiev
-
-2013-11-15 21:45   Greece      3-1   Romania
-#  UTC+2 - Karaiskakis Stadium, Piraeus
-
-2013-11-15 19:00   Iceland     0-0   Croatia
-#  UTC±0 - Laugardalsvöllur, Reykjavík
+2013-11-15 19:45   Portugal    1-0   Sweden     @ Estádio da Luz, Lisbon (UTC±0)
+2013-11-15 21:45   Ukraine     2-0   France     @ Olympic Stadium, Kiev (UTC+2)
+2013-11-15 21:45   Greece      3-1   Romania    @ Karaiskakis Stadium, Piraeus (UTC+2)
+2013-11-15 19:00   Iceland     0-0   Croatia    @ Laugardalsvöllur, Reykjavík (UTC±0)
 
 
-(14) Round 14  -  Play-off 2nd Leg  (Knockout)   // Tu Nov 19, 2013     # fix: remove round 14 - add playoff to lang for parser
+(14) Play-off 2nd Leg   // Tu Nov 19, 2013
 
-2013-11-19 20:45   Sweden  2-3  Portugal
-#  UTC+1 - Friends Arena, Solna
-
-2013-11-19 21:00   France  3-0  Ukraine
-#  UTC+1  - Stade de France, Saint-Denis
-
-2013-11-19 21:00   Romania  1-1  Greece
-#  UTC+2  -  Arena Națională, Bucharest
-
-2013-11-19 20:15   Croatia  2-0  Iceland
-#  UTC+1  -  Stadion Maksimir, Zagreb
+2013-11-19 20:45   Sweden   2-3  Portugal    @ Friends Arena, Solna (UTC+1)
+2013-11-19 21:00   France   3-0  Ukraine     @ Stade de France, Saint-Denis (UTC+1)
+2013-11-19 21:00   Romania  1-1  Greece      @ Arena Națională, Bucharest (UTC+2)
+2013-11-19 20:15   Croatia  2-0  Iceland     @ Stadion Maksimir, Zagreb (UTC+1)
 

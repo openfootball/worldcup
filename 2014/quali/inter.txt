@@ -10,17 +10,12 @@
 
 (1) Play-off 1st Leg
 
-2013-11-13 14:30  Mexico    5-1  New Zealand
-# UTC−6  -  Estadio Azteca, Mexico City
-
-2013-11-13 18:00  Jordan    0-5  Uruguay
-# UTC+3  -  Amman International Stadium, Amman
+2013-11-13 14:30  Mexico    5-1  New Zealand     @  Estadio Azteca, Mexico City (UTC−6)
+2013-11-13 18:00  Jordan    0-5  Uruguay         @  Amman International Stadium, Amman (UTC+3)
 
 
 (2) Play-off 2nd Leg
 
-2013-11-20 19:00  New Zealand  2-4  Mexico
-# UTC+13  -  Westpac Stadium, Wellington
+2013-11-20 19:00  New Zealand  2-4  Mexico       @ Westpac Stadium, Wellington (UTC+13)
+2013-11-20 21:00  Uruguay      0-0  Jordan       @ Estadio Centenario, Montevideo (UTC−2)
 
-2013-11-20 21:00  Uruguay     0-0  Jordan
-# UTC−2  -  Estadio Centenario, Montevideo
