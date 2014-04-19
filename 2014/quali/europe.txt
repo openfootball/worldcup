@@ -1,0 +1,26 @@
+#######################################
+# World Cup 2014 - Qualification Europe
+
+
+Group C  |  Germany   Faroe Islands   Irland   Kazakhstan   Austria   Sweden
+
+Group I  |  France  Spain  Belarus  Finland  Georgia
+
+
+###
+# fix: use date format - replace 2012-09-07 w/ Fr Sep/7 2012 ??
+
+
+Matchday 1  | 2012-09-07    # Fr Sep 7, 2012
+Matchday 2  | 2012-09-11    # Tu Sep 11, 2012
+Matchday 3  | 2012-10-12    # Fr Oct 12, 2012
+Matchday 4  | 2012-10-16    # Tu Oct 16, 2012
+Matchday 5  | 2013-03-22    # Fr Mar 22, 2013
+Matchday 6  | 2013-03-26    # Tu Mar 26, 2013
+Matchday 7  | 2013-06-07    # Fr Jun 7, 2013
+Matchday 8  | 2013-06-11    # Tu Jun 11, 2013
+Matchday 9  | 2013-09-06    # Fr Sep 6, 2013
+Matchday 10 | 2013-09-10    # Tu Sep 10, 2013
+Matchday 11 | 2013-10-11    # Fr Oct 11, 2013
+Matchday 12 | 2013-10-15    # Tu Oct 15, 2013
+

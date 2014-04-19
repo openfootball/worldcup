@@ -1,7 +1,5 @@
-# Leagues
-
-world-cup!/leagues
-
+###################
 # 2014
 
+world-cup!/leagues
 world-cup!/2014/cup

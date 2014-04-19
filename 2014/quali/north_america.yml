@@ -5,7 +5,7 @@
 # note: fix: play_at times and timezones
 #  what timezone to use?
 
-league: world.quali.america
+league: world.quali.north_america
 season: 2014
 start_at: 2012-09-06
 

@@ -7,6 +7,10 @@ season:  2014
 start_at: 2012-09-07        # fix: use proper/correct start date??
 
 
+fixtures:
+- africa_playoffs
+
+
 teams:
 - civ    # Côte d'Ivoire
 - sen    # Sengegal

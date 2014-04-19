@@ -1,10 +1,14 @@
 #######################################################
 # internationl tournaments & cups w/ national teams
 
-world.confed,          Confederations Cup
-world,                 World Cup
-world.quali.europe,    World Cup Quali Europe
-world.quali.europe.c,  World Cup Quali Europe Group C
-world.quali.america,   World Cup Quali North/Central America and Caribbean
-world.quali.africa,    World Cup Quali Africa
+world,                       World Cup
 
+world.quali.europe,          World Cup Quali Europe
+world.quali.north_america,   World Cup Quali North/Central America and Caribbean
+world.quali.south_america,   World Cup Quali South America
+world.quali.africa,          World Cup Quali Africa
+world.quali.asia,            World Cup Quali Asia (w/ Australia)
+world.quali.pacific,         World Cup Quali Oceania
+world.quali.playoffs,        World Cup Quali Intercontinental Playoffs
+
+world.confed,                Confederations Cup

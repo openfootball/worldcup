@@ -1,9 +1,0 @@
-###########################
-#  2014 Quali Europe C
-
-# Leagues
-world-cup!/leagues
-
-# 2014
-world-cup!/2014/quali/europe_c
-

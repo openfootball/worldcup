@@ -9,9 +9,10 @@ season:  2014
 start_at: 2012-09-07
 
 fixtures:
-- europe_c          # group c
-- europe_i          # group i
-- europe_playoff    # playoff of best eight runner-ups (2nd-place) of groups
+- europe             # groups and matchdays
+- europe_c           # group c
+- europe_i           # group i
+- europe_playoffs    # playoff of best eight runner-ups (2nd-place) of groups
 
 
 teams:
