@@ -1,0 +1,117 @@
+########################################
+# World Cup 2014 - Quali South America
+
+Matchday 1  | Oct/7 2011
+Matchday 2  | Oct/11 2011
+Matchday 3  | Nov/11 2011
+Matchday 4  | Nov/15 2011
+Matchday 5  | Jun/2 2012 - Jun/3 2012
+Matchday 6  | Jun/9 2012 - Jun/10 2012
+Matchday 7  | Sep/7 2012
+Matchday 8  | Sep/11 2012
+Matchday 9  | Oct/12 2012
+Matchday 10 | Oct/16 2012
+Matchday 11 | Mar/22 2013
+Matchday 12 | Mar/26 2013
+Matchday 13 | Jun/7 2013
+Matchday 14 | Jun/11 2013
+Matchday 15 | Sep/6 2013
+Matchday 16 | Sep/10 2013
+Matchday 17 | Oct/11 2013
+Matchday 18 | Oct/15 2013
+
+
+
+
+Oct/7 2011   Uruguay       4-2 Bolivia    @ Estadio Centenario, Montevideo     
+Oct/7 2011   Ecuador       2-0 Venezuela  @ Estadio Olímpico Atahualpa, Quito   
+Oct/7 2011   Argentina     4-1 Chile      @ Estadio Monumental Antonio Vespucio Liberti, Buenos Aires    
+Oct/7 2011   Peru          2-0 Paraguay   @ Estadio Nacional, Lima   
+
+Oct/11 2011  Bolivia       1-2 Colombia   @ Estadio Hernando Siles, La Paz    
+Oct/11 2011  Chile         4-2 Peru       @ Estadio Monumental David Arellano, Santiago    
+Oct/11 2011  Paraguay      1-1 Uruguay    @ Estadio Defensores del Chaco, Asunción   
+Oct/11 2011  Venezuela     1-0 Argentina  @ Estadio José Antonio Anzoátegui, Puerto La Cruz   
+
+Nov/11 2011  Argentina     1-1 Bolivia     @ Estadio Monumental Antonio Vespucio Liberti, Buenos Aires   
+Nov/11 2011  Uruguay       4-0 Chile       @ Estadio Centenario, Montevideo  
+Nov/11 2011  Colombia      1-1 Venezuela   @ Estadio Metropolitano Roberto Meléndez, Barranquilla  
+Nov/11 2011  Paraguay      2-1 Ecuador     @ Estadio Defensores del Chaco, Asunción  
+
+Nov/15 2011  Colombia      1-2 Argentina  @ Estadio Metropolitano Roberto Meléndez, Barranquilla     
+Nov/15 2011  Ecuador       2-0 Peru       @ Estadio Olímpico Atahualpa, Quito   
+Nov/15 2011  Chile         2-0 Paraguay   @ Estadio Nacional, Santiago   
+Nov/15 2011  Venezuela     1-0 Bolivia    @ Estadio Polideportivo de Pueblo Nuevo, San Cristóbal   
+
+
+Jun/2 2012   Uruguay       1-1 Venezuela   @ Estadio Centenario, Montevideo  
+Jun/2 2012   Bolivia       0-2 Chile       @ Estadio Hernando Siles, La Paz  
+Jun/2 2012   Argentina     4-0 Ecuador     @ Estadio Monumental Antonio Vespucio Liberti, Buenos Aires  
+Jun/3 2012   Peru          0-1 Colombia    @ Estadio Nacional, Lima  
+
+Jun/9 2012   Bolivia       3-1 Paraguay    @ Estadio Hernando Siles, La Paz  
+Jun/9 2012   Venezuela     0-2 Chile       @ Estadio José Antonio Anzoátegui, Puerto La Cruz  
+Jun/10 2012  Uruguay       4-2 Peru       @ Estadio Centenario, Montevideo   
+Jun/10 2012  Ecuador       1-0 Colombia   @ Estadio Olímpico Atahualpa, Quito   
+
+Sep/7 2012 Barranquilla    Colombia      4-0 Uruguay       
+Sep/7 2012 Quito           Ecuador       1-0 Bolivia       
+Sep/7 2012 Córdoba         Argentina     3-1 Paraguay      
+Sep/7 2012 Lima            Peru          2-1 Venezuela     
+
+Sep/11 2012 Santiago        Chile         1-3 Colombia      
+Sep/11 2012 Montevideo      Uruguay       1-1 Ecuador       
+Sep/11 2012 Asunción        Paraguay      0-2 Venezuela     
+Sep/11 2012 Lima            Peru          1-1 Argentina     
+
+Oct/12 2012 La Paz          Bolivia       1-1 Peru          
+Oct/12 2012 Barranquilla    Colombia      2-0 Paraguay      
+Oct/12 2012 Quito           Ecuador       3-1 Chile         
+Oct/12 2012 Mendoza         Argentina     3-0 Uruguay       
+
+Oct/16 2012 La Paz          Bolivia       4-1 Uruguay       
+Oct/16 2012 Asunción        Paraguay      1-0 Peru          
+Oct/16 2012 Puerto La Cruz  Venezuela     1-1 Ecuador       
+Oct/16 2012 Santiago        Chile         1-2 Argentina     
+
+
+Mar/22 2013 Barranquilla    Colombia      5-0 Bolivia       
+Mar/22 2013 Montevideo      Uruguay       1-1 Paraguay      
+Mar/22 2013 Buenos Aires    Argentina     3-0 Venezuela     
+Mar/22 2013 Lima            Peru          1-0 Chile         
+
+Mar/26 2013 La Paz          Bolivia       1-1 Argentina     
+Mar/26 2013 Quito           Ecuador       4-1 Paraguay      
+Mar/26 2013 Puerto Ordaz    Venezuela     1-0 Colombia      
+Mar/26 2013 Santiago        Chile         2-0 Uruguay       
+
+Jun/7 2013 La Paz          Bolivia       1-1 Venezuela     
+Jun/7 2013 Buenos Aires    Argentina     0-0 Colombia      
+Jun/7 2013 Asunción        Paraguay      1-2 Chile         
+Jun/7 2013 Lima            Peru          1-0 Ecuador       
+
+Jun/11 2013 Barranquilla    Colombia      2-0 Peru          
+Jun/11 2013 Quito           Ecuador       1-1 Argentina     
+Jun/11 2013 Puerto Ordaz    Venezuela     0-1 Uruguay       
+Jun/11 2013 Santiago        Chile         3-1 Bolivia       
+
+Sep/6 2013 Barranquilla    Colombia      1-0 Ecuador       
+Sep/6 2013 Asunción        Paraguay      4-0 Bolivia       
+Sep/6 2013 Santiago        Chile         3-0 Venezuela     
+Sep/6 2013 Lima            Peru          1-2 Uruguay       
+
+Sep/10 2013 La Paz          Bolivia       1-1 Ecuador       
+Sep/10 2013 Montevideo      Uruguay       2-0 Colombia      
+Sep/10 2013 Puerto La Cruz  Venezuela     3-2 Peru          
+Sep/10 2013 Asunción        Paraguay      2-5 Argentina     
+
+Oct/11 2013 Barranquilla    Colombia      3-3 Chile         
+Oct/11 2013 Quito           Ecuador       1-0 Uruguay       
+Oct/11 2013 San Cristóbal   Venezuela     1-1 Paraguay  
+Oct/11 2013 Buenos Aires    Argentina     3-1 Peru          
+
+Oct/15 2013 Santiago        Chile         2-1 Ecuador       
+Oct/15 2013 Asunción        Paraguay      1-2 Colombia  
+Oct/15 2013 Lima            Peru          1-1 Bolivia       
+Oct/15 2013 Montevideo      Uruguay       3-2 Argentina
+

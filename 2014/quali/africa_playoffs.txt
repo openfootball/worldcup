@@ -14,18 +14,18 @@
 
 (1) Play-off 1st Leg // 11–15 October
 
-2013-10-12 17:00  Côte d'Ivoire  3-1   Senegal     @ Stade Félix Houphouët-Boigny, Abidjan (UTC±0)
-2013-10-12 16:00  Burkina Faso   3-2   Algeria     @ Stade du 4-Août, Ouagadougou (UTC±0)
-2013-10-13 16:00  Ethiopia       1-2   Nigeria     @ Addis Ababa Stadium, Addis Ababa (UTC+3)
-2013-10-13 18:00  Tunisia        0-0   Cameroon    @ Stade Olympique de Radès, Radès (UTC+1)
-2013-10-15 16:00  Ghana          6-1   Egypt       @ Baba Yara Stadium, Kumasi (UTC±0)
+Oct/12 2013 17:00  Côte d'Ivoire  3-1   Senegal     @ Stade Félix Houphouët-Boigny, Abidjan (UTC±0)
+Oct/12 2013 16:00  Burkina Faso   3-2   Algeria     @ Stade du 4-Août, Ouagadougou (UTC±0)
+Oct/13 2013 16:00  Ethiopia       1-2   Nigeria     @ Addis Ababa Stadium, Addis Ababa (UTC+3)
+Oct/13 2013 18:00  Tunisia        0-0   Cameroon    @ Stade Olympique de Radès, Radès (UTC+1)
+Oct/15 2013 16:00  Ghana          6-1   Egypt       @ Baba Yara Stadium, Kumasi (UTC±0)
 
 
 (2) Play-off 2nd Leg // 15-19 November
 
-2013-11-16 19:00  Senegal   1-1  Côte d'Ivoire   @ Stade Mohamed V, Casablanca (UTC±0) - Morocco 
-2013-11-16 16:00  Nigeria   2-0  Ethiopia        @ U. J. Esuene Stadium, Calabar (UTC+1)
-2013-11-17 15:00  Cameroon  4-1  Tunisia         @ Stade Ahmadou Ahidjo, Yaoundé (UTC+1)
-2013-11-19 18:00  Egypt     2-1  Ghana           @ 30 June Stadium, Cairo (UTC+2)
-2013-11-19 19:15  Algeria   1-0  Burkina Faso    @ Stade Mustapha Tchaker, Blida (UTC+1)
+Nov/16 2013 19:00  Senegal   1-1  Côte d'Ivoire   @ Stade Mohamed V, Casablanca (UTC±0) - Morocco 
+Nov/16 2013 16:00  Nigeria   2-0  Ethiopia        @ U. J. Esuene Stadium, Calabar (UTC+1)
+Nov/17 2013 15:00  Cameroon  4-1  Tunisia         @ Stade Ahmadou Ahidjo, Yaoundé (UTC+1)
+Nov/19 2013 18:00  Egypt     2-1  Ghana           @ 30 June Stadium, Cairo (UTC+2)
+Nov/19 2013 19:15  Algeria   1-0  Burkina Faso    @ Stade Mustapha Tchaker, Blida (UTC+1)
 

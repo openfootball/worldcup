@@ -1,0 +1,72 @@
+#############################
+# Hexagonal - Quali Round 4
+#  6 February to 15 October 2013
+#
+#  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_-_CONCACAF_Fourth_Round
+#
+# NB: The three group winners and three group runners-up from round 1 qualify
+
+
+## todo/fix: check to allow HEX for group id
+# todo/fix: allow 06.02.2013 as date format ?? why? why not??
+# todo/fix: use required  match days / rounds
+
+
+Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
+
+
+(18) Matchday HEX.1  |  Feb/6 2013
+(19) Matchday HEX.2  |  Mar/22 2013
+(20) Matchday HEX.3  |  Mar/26 2013
+(21) Matchday HEX.4  |  Jun/4 2013
+(22) Matchday HEX.5  |  Jun/7 2013
+(23) Matchday HEX.6  |  Jun/11 2013
+(24) Matchday HEX.7  |  Jun/18 2013
+(25) Matchday HEX.8  |  Sep/6 2013
+(26) Matchday HEX.9  |  Sep/10 2013
+(27) Matchday HEX.10 |  Oct/11 2013
+(28) Matchday HEX.11 |  Oct/15 2013
+
+
+Group HEX:
+
+Feb/6 2013 15:00  Honduras  2-1  United States  @ San Pedro Sula
+Feb/6 2013 20:30  Mexico    0-0  Jamaica        @ Cd. de México
+Feb/6 2013 21:00  Panama    2-2  Costa Rica     @ Cd. de Panamá 
+
+2013-03-22   Honduras       2-2  Mexico         @ San Pedro Sula 
+2013-03-22   Jamaica        1-1  Panama         @ Kingston
+2013-03-22   United States  1-0  Costa Rica     @ Denver
+
+2013-03-26   Costa Rica  2-0  Jamaica           @ San José 
+2013-03-26   Mexico      0-0  United States     @ Cd. de México
+2013-03-26   Panama      2-0  Honduras          @ Cd. de Panamá
+
+2013-06-04   Jamaica     0-1  Mexico            @ Kingston 
+
+2013-06-07   Panama      0-0   Mexico           @ Cd. de Panamá 
+2013-06-07   Jamaica     1-2  United States     @ Kingston 
+2013-06-07   Costa Rica  1-0  Honduras          @ San José 
+
+2013-06-11   Mexico         0-0  Costa Rica     @ Cd. de México
+2013-06-11   United States  2-0  Panama         @ Seattle  
+2013-06-11   Honduras       2-0  Jamaica        @ Tegucigalpa
+
+2013-06-18   United States  1-0  Honduras       @ Sandy City
+2013-06-18   Costa Rica     2-0  Panama         @ San José 
+
+2013-09-06   Mexico      1-2  Honduras
+2013-09-06   Panama      0-0  Jamaica
+2013-09-06   Costa Rica  3-1  United States
+
+2013-09-10   United States  2-0  Mexico
+2013-09-10   Honduras       2-2  Panama
+2013-09-10   Jamaica        1-1  Costa Rica
+
+Oct/11 2013  Mexico         2-1  Panama
+Oct/11 2013  Honduras       1-0  Costa Rica
+Oct/11 2013  United States  2-0  Jamaica
+
+Oct/15 2013   Costa Rica  2-1  Mexico
+Oct/15 2013   Jamaica     2-2  Honduras
+Oct/15 2013   Panama      2-3  United States
