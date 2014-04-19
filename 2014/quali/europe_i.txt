@@ -6,73 +6,52 @@
 
 Group I  |  France  Spain  Belarus  Finland  Georgia
 
-##
-## todo/fix: use new matchday format
+
+Matchday 1  | 2012-09-07    # Fr Sep 7, 2012
+Matchday 2  | 2012-09-11    # Tu Sep 11, 2012
+Matchday 3  | 2012-10-12    # Fr Oct 12, 2012
+Matchday 4  | 2012-10-16    # Tu Oct 16, 2012
+Matchday 5  | 2013-03-22    # Fr Mar 22, 2013
+Matchday 6  | 2013-03-26    # Tu Mar 26, 2013
+Matchday 7  | 2013-06-07    # Fr Jun 7, 2013
+Matchday 8  | 2013-06-11    # Tu Jun 11, 2013
+Matchday 9  | 2013-09-06    # Fr Sep 6, 2013
+Matchday 10 | 2013-09-10    # Tu Sep 10, 2013
+Matchday 11 | 2013-10-11    # Fr Oct 11, 2013
+Matchday 12 | 2013-10-15    # Tu Oct 15, 2013
 
 
-Matchday 1 / Group I  //   Fr. 7. Sep 2012
+Group I:
 
 (1) 2012-09-07 15:00   Georgia  1-0  Belarus
 (2) 2012-09-07 15:00   Finland  0-1  France
 
-
-Matchday 2 / Group I  //  Di. 11. Sep 2012
-
 (3) 2012-09-11 15:00   Georgia  0-1  Spain
 (4) 2012-09-11 15:00   France  3-1  Belarus
-
-
-Matchday 3 / Group I // Fr. 12. Okt 2012
 
 (5) 2012-10-12 17:30   Finland  1-1  Georgia
 (6) 2012-10-12 20:00   Belarus  0-4  Spain
 
-
-Matchday 4 / Group I  //  Di. 16. Okt 2012
-
 (7) 2012-10-16 21:00   Spain  1-1  France
 (8) 2012-10-16 18:00   Belarus  2-0  Georgia
-
-
-Matchday 5 / Group I //  Fr. 22. Mär 2013
 
 (9)  2013-03-22 15:00   France  3-1  Georgia
 (10) 2013-03-22 15:00   Spain  1-1  Finland
 
-
-Matchday 6 / Group I  //  Di. 26. Mär 2013
-
 (11) 2013-03-26 15:00   France  0-1  Spain
-
-
-Matchday 7 / Group I  //   Fr. 7. Jun 2013
 
 (12) 2013-06-07 15:00   Finland  1-0  Belarus
 
-
-Matchday 8 / Group I  //  Di. 11. Jun 2013
-
 (13) 2013-06-11 15:00   Belarus  1-1  Finland
-
-
-Matchday 9 / Group I  //  Fr. 6. Sep 2013
 
 (14) 2013-09-06 15:00   Georgia  0-0  France
 (15) 2013-09-06 15:00   Finland  0-2  Spain
 
-
-Matchday 10 / Group I  //  Di. 10. Sep 2013
-
 (16) 2013-09-10 15:00   Belarus  2-4  France
 (17) 2013-09-10 15:00   Georgia  0-1  Finland
 
-
-Matchday 11 / Group I  //  Fr. 11. Okt 2013
-
 (18) 2013-10-11 15:00   Spain   2-1   Belarus
-
-
-Matchday 12 / Group I  //  Di. 15. Okt 2013
 
 (19) 2013-10-15 15:00   France  3-0  Finland
 (20) 2013-10-15 15:00   Spain   2-0  Georgia
+
