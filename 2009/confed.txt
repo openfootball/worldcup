@@ -2,49 +2,40 @@
 # Confederations Cup 2009 South Africa
 
 
-##########
-# Groups
-
 Group A  |  Spain      South Africa      Iraq         New Zealand
 Group B  |  Brazil     United States     Italy        Egypt
 
 
-############
-# Group A
-
-Matchday 1 / Group A
-
-(1)  Sun Jun/14 16:00  South Africa  0-0  Iraq           # Ellis Park Stadium, Johannesburg
-(2)  Sun Jun/14 20:30  New Zealand   0-5  Spain          # Royal Bafokeng Stadium, Rustenburg
-
-Matchday 3 / Group A
-
-(5)  Wed Jun/17 16:00  Spain         1-0  Iraq           # Free State Stadium, Bloemfontein
-(6)  Wed Jun/17 20:30  South Africa  2-0  New Zealand    # Royal Bafokeng Stadium, Rustenburg
-
-Matchday 5 / Group A
-
-(9)  Sat Jun/20 20:30  Iraq          0-0  New Zealand    # Ellis Park Stadium, Johannesburg
-(10) Sat Jun/20 20:30  Spain         2-0  South Africa   # Free State Stadium, Bloemfontein
+Matchday 1  |  Sun Jun/14
+Matchday 2  |  Mon Jun/15
+Matchday 3  |  Wed Jun/17
+Matchday 4  |  Thu Jun/18
+Matchday 5  |  Sat Jun/20
+Matchday 6  |  Sun Jun/21
 
 
-############
-# Group B
+Group A:
 
-Matchday 2 / Group B
+(1)  Sun Jun/14 16:00  South Africa  0-0  Iraq           @ Ellis Park Stadium, Johannesburg
+(2)  Sun Jun/14 20:30  New Zealand   0-5  Spain          @ Royal Bafokeng Stadium, Rustenburg
 
-(3)  Mon Jun/15 16:00  Brazil         4-3  Egypt         # Free State Stadium, Bloemfontein
-(4)  Mon Jun/15 20:30  United States  1-3  Italy         # Loftus Versfeld Stadium, Pretoria
+(5)  Wed Jun/17 16:00  Spain         1-0  Iraq           @ Free State Stadium, Bloemfontein
+(6)  Wed Jun/17 20:30  South Africa  2-0  New Zealand    @ Royal Bafokeng Stadium, Rustenburg
 
-Matchday 4 / Group B
+(9)  Sat Jun/20 20:30  Iraq          0-0  New Zealand    @ Ellis Park Stadium, Johannesburg
+(10) Sat Jun/20 20:30  Spain         2-0  South Africa   @ Free State Stadium, Bloemfontein
 
-(7)  Thu Jun/18 16:00  United States  0-3  Brazil        # Loftus Versfeld Stadium, Pretoria
-(8)  Thu Jun/18 20:30  Egypt          1-0  Italy         # Ellis Park Stadium, Johannesburg
 
-Matchday 6 / Group B
+Group B:
 
-(11) Sun Jun/21 20:30  Italy          0-3  Brazil          # Loftus Versfeld Stadium, Pretoria
-(12) Sun Jun/21 20:30  Egypt          0-3  United States   # Royal Bafokeng Stadium, Rustenburg
+(3)  Mon Jun/15 16:00  Brazil         4-3  Egypt         @ Free State Stadium, Bloemfontein
+(4)  Mon Jun/15 20:30  United States  1-3  Italy         @ Loftus Versfeld Stadium, Pretoria
+
+(7)  Thu Jun/18 16:00  United States  0-3  Brazil        @ Loftus Versfeld Stadium, Pretoria
+(8)  Thu Jun/18 20:30  Egypt          1-0  Italy         @ Ellis Park Stadium, Johannesburg
+
+(11) Sun Jun/21 20:30  Italy          0-3  Brazil          @ Loftus Versfeld Stadium, Pretoria
+(12) Sun Jun/21 20:30  Egypt          0-3  United States   @ Royal Bafokeng Stadium, Rustenburg
 
 
 ####################
@@ -52,16 +43,16 @@ Matchday 6 / Group B
 
 (7) Semi-finals
 
-(13) Wed Jun/24 20:30  Spain   0-2  United States        # Free State Stadium, Bloemfontein
-(14) Thu Jun/25 20:30  Brazil  1-0  South Africa         # Ellis Park Stadium, Johannesburg
+(13) Wed Jun/24 20:30  Spain   0-2  United States        @ Free State Stadium, Bloemfontein
+(14) Thu Jun/25 20:30  Brazil  1-0  South Africa         @ Ellis Park Stadium, Johannesburg
 
 
 (8) Third-place play-off
 
-(15) Sun Jun/28 15:00  Spain   2-2 3-2nV   South Africa   # Royal Bafokeng Stadium, Rustenburg
+(15) Sun Jun/28 15:00  Spain   2-2 3-2nV   South Africa   @ Royal Bafokeng Stadium, Rustenburg
 
 
 (9) Final
 
-(16) Sun Jun/28 20:30  United States  2-3  Brazil         # Ellis Park Stadium, Johannesburg
+(16) Sun Jun/28 20:30  United States  2-3  Brazil         @ Ellis Park Stadium, Johannesburg
 
