@@ -1,0 +1,48 @@
+#########################################
+# World Cup Brazil 2014 - Africa Quali
+
+# -- Second Round
+
+Group A   |   Ethiopia   South Africa   Botswana   Central African Republic
+Group B   |   Tunisia    Cape Verde     Sierra Leone   Equat. Guinea
+
+
+Group A:
+
+Jun/2 2012    C. Afr. Rep.  2-0 Botswana      @ Bangui
+Jun/3 2012    South Africa  1-1 Ethiopia      @ Rustenburg
+Jun/9 2012    Botswana      1-1 South Africa  @ Gaborone
+Jun/10 2012   Ethiopia      2-0 Central African Republic  @ Addis Abeba
+
+Mar/23 2013   South Africa  2-0 Central African Republic  @ Cape Town
+Mar/24 2013   Ethiopia      1-0 Botswana      @ Addis Abeba
+
+Jun/8 2013    Botswana      3-0 (*) Ethiopia      @ Lobatse    ## note: awarded 3-0, originally 1-2
+Jun/8 2013    C. Afr. Rep.  0-3 South Africa  @ Yaoundé
+Jun/15 2013   Botswana      3-2 Central African Republic  @ Lobatse 
+Jun/16 2013   Ethiopia      2-1 South Africa  @ Addis Abeba
+
+Sep/7 2013    C. Afr. Rep.  1-2 Ethiopia      @ Brazzaville
+Sep/7 2013    South Africa  4-1 Botswana      @ Durban
+
+
+Group B: 
+
+Jun/2 2012   Sierra Leone  2-1 Cape Verde         @ Freetown
+Jun/2 2012   Tunisia       3-1 Equatorial Guinea  @ Monastir
+Jun/9 2012   Equat. Guinea 2-2 Sierra Leone       @ Malabo
+Jun/9 2012   Cape Verde    1-2 Tunisia            @ Praia
+
+Mar/23 2013  Tunisia       2-1 Sierra Leone       @ Radès       
+Mar/24 2013  Equat. Guinea 0-3 (*) Cape Verde     @ Malabo        ## note: awarded 0-3, originally 4-3
+
+Jun/8 2013   Sierra Leone  2-2 Tunisia            @ Freetown 
+Jun/8 2013   Cape Verde    3-0 (*) Equat. Guinea  @ Praia         ## note: awarded 3-0, originally 2-1
+Jun/15 2013  Cape Verde    1-0 Sierra Leone       @ Praia       
+Jun/16 2013  Equat. Guinea 1-1 Tunisia            @ Malabo     
+
+Sep/7 2013   Sierra Leone  3-2 Equatorial Guinea  @ Freetown        
+Sep/7 2013   Tunisia       3-0 (*) Cape Verde     @ Radès      ## note: awarded 3-0, originally 0-2
+
+
+
