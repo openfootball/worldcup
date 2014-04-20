@@ -1,8 +1,10 @@
 #######################################
 # World Cup 2014 - Qualification Europe
 
-
+Group A  |  Belgium  Croatia  Serbia   Scotland   Wales   Macedonia
+Group B  |  Italy    Denmark  Czech Republic  Bulgaria  Armenia   Malta
 Group C  |  Germany   Faroe Islands   Irland   Kazakhstan   Austria   Sweden
+
 
 Group I  |  France  Spain  Belarus  Finland  Georgia
 

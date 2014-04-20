@@ -2,3 +2,25 @@
 # World Cup 2018 Russia
 
 
+## todo: add to num: 21
+
+##  21st World Cup 
+
+####
+# todo add to cites:
+
+# 11 cities will host:
+#
+# Kaliningrad
+# Kazan
+#
+# Moscow
+# Nizhny Novgorod
+# Rostov-on-Don
+# Saint Petersburg
+# Samara
+# Saransk
+# Sochi
+# Volgograd
+#
+# Yekaterinburg

@@ -1,0 +1,43 @@
+###########################################
+#  World Cup 2014 - Quali Europe Group A
+
+
+Group A:
+
+Sep/7 2012     Croatia       1-0 Macedonia    @ Zagreb
+Sep/7 2012     Wales         0-2 Belgium      @ Cardiff
+Sep/8 2012     Scotland      0-0 Serbia       @ Glasgow
+Sep/11 2012    Serbia        6-1 Wales        @ Novi Sad
+Sep/11 2012    Belgium       1-1 Croatia      @ Brussel
+Sep/11 2012    Scotland      1-1 Macedonia    @ Glasgow
+
+Oct/12 2012    Macedonia     1-2 Croatia      @ Skopje
+Oct/12 2012    Serbia        0-3 Belgium      @ Beograd
+Oct/12 2012    Wales         2-1 Scotland     @ Cardiff
+Oct/16 2012    Croatia       2-0 Wales        @ Osijek
+Oct/16 2012    Macedonia     1-0 Serbia       @ Skopje
+Oct/16 2012    Belgium       2-0 Scotland     @ Brussel
+
+
+Mar/22 2013    Croatia       2-0 Serbia       @ Zagreb
+Mar/22 2013    Macedonia     0-2 Belgium      @ Skopje
+Mar/22 2013    Scotland      1-2 Wales        @ Glasgow
+Mar/26 2013    Serbia        2-0 Scotland     @ Novi Sad
+Mar/26 2013    Belgium       1-0 Macedonia    @ Brussel
+Mar/26 2013    Wales         1-2 Croatia      @ Swansea
+
+Jun/7 2013     Croatia       0-1 Scotland     @ Zagreb
+Jun/7 2013     Belgium       2-1 Serbia       @ Brussel
+
+Sep/6 2013     Macedonia     2-1 Wales        @ Skopje
+Sep/6 2013     Serbia        1-1 Croatia      @ Beograd
+Sep/6 2013     Scotland      0-2 Belgium      @ Glasgow
+Sep/10 2013    Macedonia     1-2 Scotland     @ Skopje
+Sep/10 2013    Wales         0-3 Serbia       @ Cardiff
+
+Oct/11 2013    Croatia       1-2 Belgium      @ Zagreb
+Oct/11 2013    Wales         1-0 Macedonia    @ Cardiff
+Oct/15 2013    Serbia        5-1 Macedonia    @ Jagodina
+Oct/15 2013    Belgium       1-1 Wales        @ Brussel
+Oct/15 2013    Scotland      2-0 Croatia      @ Glasgow
+
