@@ -10,7 +10,14 @@ start_at: 2012-09-07
 
 fixtures:
 - europe             # groups and matchdays
+- europe_a
+- europe_b
 - europe_c           # group c
+- europe_d
+- europe_e
+- europe_f
+- europe_g
+- europe_h
 - europe_i           # group i
 - europe_playoffs    # playoff of best eight runner-ups (2nd-place) of groups
 

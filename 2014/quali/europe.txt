@@ -4,9 +4,12 @@
 Group A  |  Belgium  Croatia  Serbia   Scotland   Wales   Macedonia
 Group B  |  Italy    Denmark  Czech Republic  Bulgaria  Armenia   Malta
 Group C  |  Germany   Faroe Islands   Irland   Kazakhstan   Austria   Sweden
-
-
-Group I  |  France  Spain  Belarus  Finland  Georgia
+Group D  |  Netherlands  Romania  Hungary  Turkey  Estonia  Andorra
+Group E  |  Switzerland  Iceland  Slovenia  Norway  Albania  Cyprus
+Group F  |  Russia    Portugal   Israel   Azerbaijan   Northern Ireland  Luxembourg
+Group G  |  Bosnia-Herzegovina   Greece   Slovakia   Lithuania   Latvia   Liechtenstein
+Group H  |  England   Ukraine    Montenegro   Poland   Moldova   San Marino
+Group I  |  France   Spain    Belarus    Finland    Georgia
 
 
 

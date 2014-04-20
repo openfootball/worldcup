@@ -1,0 +1,43 @@
+###########################################
+#  World Cup 2014 - Quali Europe Group G
+
+
+Group G:
+
+Sep/7 2012      Liechtenstein 1-8 Bosnia-Herzegovina   @ Vaduz  
+Sep/7 2012      Lithuania     1-1 Slovakia             @ Vilnius      
+Sep/7 2012      Latvia        1-2 Greece               @ Riga      
+Sep/11 2012      Bosnia-Herz.  4-1 Latvia               @ Zenica        
+Sep/11 2012      Slovakia      2-0 Liechtenstein        @ Bratislava   
+Sep/11 2012      Greece        2-0 Lithuania            @ Piraeus       
+
+Oct/12 2012      Liechtenstein 0-2 Lithuania            @ Vaduz      
+Oct/12 2012      Slovakia      2-1 Latvia               @ Bratislava     
+Oct/12 2012      Greece        0-0 Bosnia-Herzegovina   @ Piraeus         
+Oct/16 2012      Latvia        2-0 Liechtenstein        @ Riga         
+Oct/16 2012      Bosnia-Herz.  3-0 Lithuania            @ Zenica    
+Oct/16 2012      Slovakia      0-1 Greece               @ Bratislava   
+
+
+Mar/22 2013      Liechtenstein 1-1 Latvia              @ Vaduz      
+Mar/22 2013      Slovakia      1-1 Lithuania           @ Zilina        
+Mar/22 2013      Bosnia-Herz.  3-1 Greece              @ Zenica        
+
+Jun/7 2013      Latvia        0-5 Bosnia-Herzegovina  @ Riga         
+Jun/7 2013      Liechtenstein 1-1 Slovakia            @ Vaduz     
+Jun/7 2013      Lithuania     0-1 Greece              @ Vilnius      
+
+Sep/6 2013      Latvia        2-1 Lithuania           @ Riga         
+Sep/6 2013      Bosnia-Herz.  0-1 Slovakia            @ Zenica        
+Sep/6 2013      Liechtenstein 0-1 Greece              @ Vaduz         
+Sep/10 2013      Lithuania     2-0 Liechtenstein       @ Marijampole   
+Sep/10 2013      Slovakia      1-2 Bosnia-Herzegovina  @ Zilina           
+Sep/10 2013      Greece        1-0 Latvia              @ Piraeus        
+
+Oct/11 2013      Lithuania     2-0 Latvia              @ Vilnius      
+Oct/11 2013      Bosnia-Herz.  4-1 Liechtenstein       @ Zenica        
+Oct/11 2013      Greece        1-0 Slovakia            @ Piraeus        
+Oct/15 2013      Greece        2-0 Liechtenstein       @ Piraeus       
+Oct/15 2013      Lithuania     0-1 Bosnia-Herzegovina  @ Kaunas       
+Oct/15 2013      Latvia        2-2 Slovakia            @ Riga       
+

@@ -1,0 +1,41 @@
+###########################################
+#  World Cup 2014 - Quali Europe Group E
+
+Group E:
+
+Sep/7 2012         Albania       3-1 Cyprus        @ Tiranë
+Sep/7 2012        Slovenia      0-2 Switzerland   @ Ljubljana
+Sep/7 2012        Iceland       2-0 Norway        @ Reykjavík
+Sep/11 2012        Cyprus        1-0 Iceland       @ Larnaka
+Sep/11 2012        Norway        2-1 Slovenia      @ Oslo
+Sep/11 2012        Switzerland   2-0 Albania       @ Luzern 
+
+Oct/12 2012        Albania       1-2 Iceland       @ Tiranë
+Oct/12 2012        Switzerland   1-1 Norway        @ Bern 
+Oct/12 2012        Slovenia      2-1 Cyprus        @ Maribor
+Oct/16 2012        Cyprus        1-3 Norway        @ Larnaka
+Oct/16 2012        Iceland       0-2 Switzerland   @ Reykjavík 
+Oct/16 2012        Albania       1-0 Slovenia      @ Tiranë
+
+
+Mar/22 2013        Slovenia      1-2 Iceland       @ Ljubljana    
+Mar/22 2013        Norway        0-1 Albania       @ Oslo        
+Mar/23 2013        Cyprus        0-0 Switzerland   @ Lefkosia    
+
+Jun/7 2013        Albania       1-1 Norway        @ Tiranë       
+Jun/7 2013        Iceland       2-4 Slovenia      @ Reykjavík    
+Jun/8 2013        Switzerland   1-0 Cyprus        @ Genève    
+
+Sep/6 2013        Norway        2-0 Cyprus        @ Oslo        
+Sep/6 2013        Slovenia      1-0 Albania       @ Ljubljana    
+Sep/6 2013        Switzerland   4-4 Iceland       @ Bern           
+Sep/10 2013        Norway        0-2 Switzerland   @ Oslo          
+Sep/10 2013        Cyprus        0-2 Slovenia      @ Lefkosia      
+Sep/10 2013        Iceland       2-1 Albania       @ Reykjavík    
+
+Oct/11 2013        Albania       1-2 Switzerland   @ Tiranë       
+Oct/11 2013        Iceland       2-0 Cyprus        @ Reykjavík  
+Oct/11 2013        Slovenia      3-0 Norway        @ Maribor     
+Oct/15 2013        Cyprus        0-0 Albania       @ Lefkosia     
+Oct/15 2013        Switzerland   1-0 Slovenia      @ Bern        
+Oct/15 2013        Norway        1-1 Iceland       @ Oslo

@@ -1,0 +1,40 @@
+###########################################
+#  World Cup 2014 - Quali Europe Group D
+
+Group D:
+
+Sep/7 2012     Estonia       0-2 Romania       @ Tallinn    
+Sep/7 2012     Andorra       0-5 Hungary       @ Andorra La V. 
+Sep/7 2012     Netherlands   2-0 Turkey        @ Amsterdam     
+Sep/11 2012     Romania       4-0 Andorra       @ Bucuresti  
+Sep/11 2012     Turkey        3-0 Estonia       @ Istanbul     
+Sep/11 2012     Hungary       1-4 Netherlands   @ Budapest   
+
+Oct/12 2012     Turkey        0-1 Romania       @ Istanbul     
+Oct/12 2012     Estonia       0-1 Hungary       @ Tallinn       
+Oct/12 2012     Netherlands   3-0 Andorra       @ Rotterdam      
+Oct/16 2012     Andorra       0-1 Estonia       @ Andorra La V.  
+Oct/16 2012     Romania       1-4 Netherlands   @ Bucuresti        
+Oct/16 2012     Hungary       3-1 Turkey        @ Budapest         
+
+
+Mar/22 2013     Andorra       0-2 Turkey       @ Andorra La V.   
+Mar/22 2013     Hungary       2-2 Romania      @ Budapest      
+Mar/22 2013     Netherlands   3-0 Estonia      @ Amsterdam   
+Mar/26 2013     Estonia       2-0 Andorra      @ Tallinn    
+Mar/26 2013     Turkey        1-1 Hungary      @ Istanbul        
+Mar/26 2013     Netherlands   4-0 Romania      @ Amsterdam    
+
+Sep/6 2013     Romania       3-0 Hungary      @ Bucuresti       
+Sep/6 2013     Turkey        5-0 Andorra      @ Kayseri       
+Sep/6 2013     Estonia       2-2 Netherlands  @ Tallinn 
+Sep/10 2013     Romania       0-2 Turkey       @ Bucuresti  
+Sep/10 2013     Andorra       0-2 Netherlands  @ Andorra La V.  
+Sep/10 2013     Hungary       5-1 Estonia      @ Budapest     
+
+Oct/11 2013     Andorra       0-4 Romania      @ Andorra La V.   
+Oct/11 2013     Netherlands   8-1 Hungary      @ Amsterdam     
+Oct/11 2013     Estonia       0-2 Turkey       @ Tallinn  
+Oct/15 2013     Hungary       2-0 Andorra      @ Budapest      
+Oct/15 2013     Romania       2-0 Estonia      @ Bucuresti    
+Oct/15 2013     Turkey        0-2 Netherlands  @ Istanbul
