@@ -12,7 +12,7 @@ Nov/11 2011    Seychelles    0-3 Kenya              @ Victoria
 Nov/11 2011    Eritrea       1-1 Rwanda             @ Asmara
 Nov/11 2011    São Tomé/Pr.  0-5 Congo-Brazzaville  @ São Tomé
 Nov/11 2011    Swaziland     1-3 Congo-Kinshasa     @ Lobamba
-Nov/11 2011    Guinea Bissau 1-1 Togo               @ Bissau
+Nov/11 2011    Guinea-Bissau 1-1 Togo               @ Bissau
 Nov/11 2011    Comoros       0-1 Mozambique         @ Mitsamiouli
 Nov/11 2011    Djibouti      0-4 Namibia            @ Djibouti
 Nov/11 2011    Mauritius     - (*)   Liberia
@@ -28,7 +28,7 @@ Nov/15 2011    Kenya         4-0 Seychelles           @ Nairobi
 Nov/15 2011    Rwanda        3-1 Eritrea              @ Kigali        
 Nov/15 2011    Congo-Brazz.  1-1 São Tomé e Príncipe  @ Pointe-Noire    
 Nov/15 2011    Congo-Kinsh.  5-1 Swaziland            @ Kinshasa    
-Nov/15 2011    Togo          1-0 Guinea Bissau        @ Lomé       
+Nov/15 2011    Togo          1-0 Guinea-Bissau        @ Lomé       
 Nov/15 2011    Mozambique    4-1 Comoros              @ Maputo         
 Nov/15 2011    Namibia       4-0 Djibouti             @ Windhoek       
 Nov/15 2011    Liberia      - (*)  Mauritius

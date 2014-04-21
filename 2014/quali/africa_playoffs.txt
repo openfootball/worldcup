@@ -1,5 +1,25 @@
-#################################################
+###########################################################
 #  World Cup 2014 - Qualification Africa Third Round
+
+
+(9) Play-off 1st Leg // 11–15 October
+
+Oct/12 2013 17:00  Côte d'Ivoire  3-1   Senegal     @ Stade Félix Houphouët-Boigny, Abidjan (UTC±0)
+Oct/12 2013 16:00  Burkina Faso   3-2   Algeria     @ Stade du 4-Août, Ouagadougou (UTC±0)
+Oct/13 2013 16:00  Ethiopia       1-2   Nigeria     @ Addis Ababa Stadium, Addis Ababa (UTC+3)
+Oct/13 2013 18:00  Tunisia        0-0   Cameroon    @ Stade Olympique de Radès, Radès (UTC+1)
+Oct/15 2013 16:00  Ghana          6-1   Egypt       @ Baba Yara Stadium, Kumasi (UTC±0)
+
+
+(10) Play-off 2nd Leg // 15-19 November
+
+Nov/16 2013 19:00  Senegal   1-1  Côte d'Ivoire   @ Stade Mohamed V, Casablanca (UTC±0) - Morocco 
+Nov/16 2013 16:00  Nigeria   2-0  Ethiopia        @ U. J. Esuene Stadium, Calabar (UTC+1)
+Nov/17 2013 15:00  Cameroon  4-1  Tunisia         @ Stade Ahmadou Ahidjo, Yaoundé (UTC+1)
+Nov/19 2013 18:00  Egypt     2-1  Ghana           @ 30 June Stadium, Cairo (UTC+2)
+Nov/19 2013 19:15  Algeria   1-0  Burkina Faso    @ Stade Mustapha Tchaker, Blida (UTC+1)
+
+
 #
 #  see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_–_CAF_Third_Round
 #
@@ -11,21 +31,4 @@
 #
 # Note: The winner from each pair will be qualified.
 
-
-(1) Play-off 1st Leg // 11–15 October
-
-Oct/12 2013 17:00  Côte d'Ivoire  3-1   Senegal     @ Stade Félix Houphouët-Boigny, Abidjan (UTC±0)
-Oct/12 2013 16:00  Burkina Faso   3-2   Algeria     @ Stade du 4-Août, Ouagadougou (UTC±0)
-Oct/13 2013 16:00  Ethiopia       1-2   Nigeria     @ Addis Ababa Stadium, Addis Ababa (UTC+3)
-Oct/13 2013 18:00  Tunisia        0-0   Cameroon    @ Stade Olympique de Radès, Radès (UTC+1)
-Oct/15 2013 16:00  Ghana          6-1   Egypt       @ Baba Yara Stadium, Kumasi (UTC±0)
-
-
-(2) Play-off 2nd Leg // 15-19 November
-
-Nov/16 2013 19:00  Senegal   1-1  Côte d'Ivoire   @ Stade Mohamed V, Casablanca (UTC±0) - Morocco 
-Nov/16 2013 16:00  Nigeria   2-0  Ethiopia        @ U. J. Esuene Stadium, Calabar (UTC+1)
-Nov/17 2013 15:00  Cameroon  4-1  Tunisia         @ Stade Ahmadou Ahidjo, Yaoundé (UTC+1)
-Nov/19 2013 18:00  Egypt     2-1  Ghana           @ 30 June Stadium, Cairo (UTC+2)
-Nov/19 2013 19:15  Algeria   1-0  Burkina Faso    @ Stade Mustapha Tchaker, Blida (UTC+1)
 
