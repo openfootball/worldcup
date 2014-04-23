@@ -4,7 +4,7 @@
 # -- First Stage
 
 
-(1) First round play-offs / 1st leg
+(1) First Round Play-offs / 1st leg
 
 Jun/29 2011    Nepal         2-1 East Timor      @ Kathmandu
 Jun/29 2011    Sri Lanka     1-1 Philippines     @ Colombo
@@ -16,7 +16,7 @@ Jun/29 2011    Afghanistan   0-2 Palestine       @ Tursunzade
 Jun/29 2011    Bangladesh    3-0 Pakistan        @ Dhaka
 
 
-(2) First round play-offs / 2nd leg
+(2) First Round Play-offs / 2nd leg
 
 Jul/2 2011    East Timor    0-5 Nepal           @ Kathmandu
 Jul/3 2011    Philippines   4-0 Sri Lanka       @ Manila

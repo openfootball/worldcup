@@ -1,15 +1,30 @@
 #####################################################
 # World Cup Brazil 2014 - Asia (w/ Australia) Quali
 
-# -- Fourth Stage
+# -- Fourth Stage, 3 June 2012 to 18 June 2013
 
-Group A  |  Iran   South Korea    Uzbekistan   Qatar    Lebanon
-Group B  |  Japan  Australia      Jordan       Oman     Iraq
+##
+#  fix: change Group I to A.2 ?? or A2 or ??
+#       change Group J to B.2 ?? or B2 or ??
+
+Group I  |  Iran   South Korea    Uzbekistan   Qatar    Lebanon
+Group J  |  Japan  Australia      Jordan       Oman     Iraq
 
 
-### todo: add matchdays
+(11) Matchday IV.1  |  Jun/3 2012
+(12) Matchday IV.2  |  Jun/8 2012
+(13) Matchday IV.3  |  Jun/12 2012
+(14) Matchday IV.4  |  Sep/11 2012
+(15) Matchday IV.5  |  Oct/16 2012
+(16) Matchday IV.6  |  Nov/14 2012
+(17) Matchday IV.7  |  Mar/26 2013
+(18) Matchday IV.8  |  Jun/4 2013
+(19) Matchday IV.9  |  Jun/11 2012
+(20) Matchday IV.10 |  Jun/18 2012
 
-Group A:
+
+
+Group I:
 
 Jun/3 2012    Uzbekistan    0-1 Iran         @ Toshkent
 Jun/3 2012    Lebanon       0-1 Qatar        @ Beirut
@@ -38,7 +53,7 @@ Jun/18 2013    South Korea   0-1 Iran         @ Ulsan
 Jun/18 2013    Uzbekistan    5-1 Qatar        @ Toshkent 
 
 
-Group B:
+Group J:
 
 Jun/3 2012     Japan         3-0 Oman       @ Saitama
 Jun/3 2012    Jordan        1-1 Iraq       @ Amman
@@ -67,10 +82,11 @@ Jun/18 2013    Australia     1-0 Iraq       @ Sydney
 Jun/18 2013    Jordan        1-0 Oman       @ Amman
 
 
-Fifth place playoff / 1st leg
+(21) Fifth place playoff / 1st leg
 
 Sep/6 2013      Jordan        1-1 Uzbekistan   @ Amman      
 
-Fifth place playoff / 2nd leg
+(22) Fifth place playoff / 2nd leg
 
 Sep/10 2013    Uzbekistan    8-9iE 1-1nV 1-1   Jordan   @ Toshkent
+

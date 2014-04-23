@@ -10,6 +10,14 @@ Group D  |  Australia     Oman      Saudi Arabia   Thailand
 Group E  |  Iran          Qatar     Bahrain        Indonesia
 
 
+(5)  Matchday III.1  |  Sep/2 2011
+(6)  Matchday III.2  |  Sep/6 2011
+(7)  Matchday III.3  |  Oct/11 2011
+(8)  Matchday III.4  |  Nov/11 2011
+(9)  Matchday III.5  |  Nov/15 2011
+(10) Matchday III.6  |  Feb/29 2012
+
+
 Group A:
 
 Sep/2 2011   China         2-1 Singapore   @ Kunming
