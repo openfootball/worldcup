@@ -22,22 +22,61 @@ fixtures:
 - europe_playoffs    # playoff of best eight runner-ups (2nd-place) of groups
 
 
+#######
+# 53 teams (13 qualify)
+
 teams:
-- ger  # Group C
-- fro
-- irl
-- kaz
-- aut
-- swe
-- fra  # Group I
-- esp
-- blr
-- fin
-- geo
-- cro    # Group A (2nd) Croatia
-- rou    # Group D (2nd) Romania
-- isl    # Group E (2nd) Iceland
-- por    # Group F (2nd) Portugal
-- gre    # Group G (2nd) Greece
-- ukr    # Group H (2nd) Ukraine
+- aut # Austria
+- bel # Belgium
+- cyp # Cyprus
+- ger # Germany
+- est # Estonia
+- esp # Spain
+- fin # Finland
+- fra # France
+- gre # Greece
+- irl # Ireland
+- ita # Italy
+- lux # Luxembourg
+- mlt # Malta
+- ned # Netherlands
+- por # Portugal
+- svk # Slovakia
+- svn # Slovenia
+- bul # Bulgaria
+- den # Denmark
+- lva # Latvija|Latvia
+- ltu # Lithuania
+- pol # Poland
+- rou # Romania
+- swe # Sweden
+- cze # Czech Republic
+- hun # Hungary
+- and # Andorra
+- alb # Albania
+- blr # Belarus
+- sui # Switzerland
+- cro # Croatia
+- srb # Serbia
+- rus # Russia
+- tur # Turkey
+- ukr # Ukraine
+- mkd # Macedonia
+- nor # Norway
+- isl # Iceland
+- bih # Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia
+- lie # Liechtenstein
+- mne # Montenegro
+- mda # Moldova
+- smr # San Marino
+- geo # Georgia
+- arm # Armenia
+- aze # Azerbaijan
+- eng # England
+- sco # Scotland
+- wal # Wales
+- nir # Northern Ireland
+- fro # Faroe Islands
+
+
 
