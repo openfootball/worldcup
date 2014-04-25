@@ -7,36 +7,36 @@
 
 Group I:
 
-(1) Sep/7 2012 15:00   Georgia  1-0  Belarus  @ Tbilisi
-(2) Sep/7 2012 15:00   Finland  0-1  France   @ Helsinki 
+(1) Sep/7 2012      Georgia  1-0  Belarus  @ Tbilisi
+(2) Sep/7 2012      Finland  0-1  France   @ Helsinki 
 
-(3) Sep/11 2012 15:00   Georgia  0-1  Spain   @ Tbilisi
-(4) Sep/11 2012 15:00   France  3-1  Belarus  @ Paris St.-Denis 
+(3) Sep/11 2012     Georgia  0-1  Spain   @ Tbilisi
+(4) Sep/11 2012     France  3-1  Belarus  @ Paris St.-Denis 
 
-(5) 2012-10-12 17:30   Finland  1-1  Georgia  @ Helsinki
-(6) 2012-10-12 20:00   Belarus  0-4  Spain    @ Minsk 
+(5) Oct/12 2012     Finland  1-1  Georgia  @ Helsinki
+(6) Oct/12 2012     Belarus  0-4  Spain    @ Minsk 
 
-(7) 2012-10-16 21:00   Spain  1-1  France     @ Madrid
-(8) 2012-10-16 18:00   Belarus  2-0  Georgia  @ Minsk 
+(7) Oct/16 2012     Spain    1-1  France   @ Madrid
+(8) Oct/16 2012     Belarus  2-0  Georgia  @ Minsk 
 
 
-(9)  2013-03-22 15:00   France  3-1  Georgia  @ Paris St.-Denis
-(10) 2013-03-22 15:00   Spain  1-1  Finland   @ Gijón 
+(9)  Mar/22 2013    France  3-1  Georgia  @ Paris St.-Denis
+(10) Mar/22 2013    Spain  1-1  Finland   @ Gijón 
 
-(11) 2013-03-26 15:00   France  0-1  Spain    @ Paris St.-Denis
+(11) Mar/26 2013    France  0-1  Spain    @ Paris St.-Denis
 
-(12) 2013-06-07 15:00   Finland  1-0  Belarus  @ Helsinki 
+(12) Jun/7 2013     Finland  1-0  Belarus  @ Helsinki 
 
-(13) 2013-06-11 15:00   Belarus  1-1  Finland  @ Homel 
+(13) Jun/11 2013    Belarus  1-1  Finland  @ Homel 
 
-(14) 2013-09-06 15:00   Georgia  0-0  France   @ Tbilisi
-(15) 2013-09-06 15:00   Finland  0-2  Spain    @ Helsinki 
+(14) Sep/6 2013     Georgia  0-0  France   @ Tbilisi
+(15) Sep/6 2013     Finland  0-2  Spain    @ Helsinki 
 
-(16) 2013-09-10 15:00   Belarus  2-4  France   @ Homel
-(17) 2013-09-10 15:00   Georgia  0-1  Finland  @ Tbilisi 
+(16) Sep/10 2013    Belarus  2-4  France   @ Homel
+(17) Sep/10 2013    Georgia  0-1  Finland  @ Tbilisi 
 
-(18) 2013-10-11 15:00   Spain   2-1   Belarus  @ Palma de Mall
+(18) Oct/11 2013    Spain   2-1   Belarus  @ Palma de Mall
 
-(19) 2013-10-15 15:00   France  3-0  Finland   @ Paris St.-Denis
-(20) 2013-10-15 15:00   Spain   2-0  Georgia   @ Albacete 
+(19) Oct/15 2013    France  3-0  Finland   @ Paris St.-Denis
+(20) Oct/15 2013    Spain   2-0  Georgia   @ Albacete 
 

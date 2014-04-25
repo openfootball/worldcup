@@ -35,6 +35,7 @@ teams:
 - fin # Finland
 - fra # France
 - gre # Greece
+- nir # Northern Ireland   -- hack: move N. Ireland before Ireland (fix: sort mapper by length; use greedy match)
 - irl # Ireland
 - ita # Italy
 - lux # Luxembourg
@@ -75,8 +76,7 @@ teams:
 - eng # England
 - sco # Scotland
 - wal # Wales
-- nir # Northern Ireland
 - fro # Faroe Islands
-
-
+- isr # Israel
+- kaz # Kazakhstan
 
