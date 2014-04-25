@@ -1,5 +1,5 @@
-##########################################
-# World Cup 2014 - Qualification Asia
+#####################################################
+# World Cup 2014 - Qualification Asia (w/ Australia)
 
 league: world.quali.asia
 season:  2014
@@ -13,7 +13,13 @@ fixtures:
 - asia_iv
 
 
+#######
+# 43 teams (4.5 qualify e.g. 5th place goes to intercontinental playoff)
+
+# todo: 45 teams listed! (remove two unused teams!)
+
 teams:
+- aus # Australia
 #  central asia
 - kgz # Kyrgyzstan
 - tjk # Tajikistan

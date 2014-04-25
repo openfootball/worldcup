@@ -13,6 +13,11 @@ fixtures:
 - africa_playoffs
 
 
+#######
+# 52 teams (5 qualify)
+
+# todo: 54 teams listed! (remove two unused teams!)
+
 teams:
 # Eastern Africa
 - bdi # Burundi
