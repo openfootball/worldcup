@@ -1,0 +1,21 @@
+########################################
+# World Cup 2014 - Quali South America
+
+
+league: world.quali.southamerica
+season: 2014
+start_at: 2011-10-07
+
+####
+# 9 Teams (4.5 qualify e.g. fifth placed to intercontinental playoff)
+
+teams:
+- arg # Argentina
+- chi # Chile
+- par # Paraguay
+- uru # Uruguay
+- col # Colombia
+- ecu # Ecuador
+- per # Peru
+- ven # Venezuela
+- bol # Bolivia
