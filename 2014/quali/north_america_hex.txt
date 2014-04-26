@@ -29,9 +29,9 @@ Group HEX | Costa Rica   Honduras   Mexico  Panama   Jamaica   United States
 
 Group HEX:
 
-Feb/6 2013 15:00  Honduras  2-1  United States  @ San Pedro Sula
-Feb/6 2013 20:30  Mexico    0-0  Jamaica        @ Cd. de México
-Feb/6 2013 21:00  Panama    2-2  Costa Rica     @ Cd. de Panamá 
+Feb/6 2013   Honduras  2-1  United States  @ San Pedro Sula
+Feb/6 2013   Mexico    0-0  Jamaica        @ Cd. de México
+Feb/6 2013   Panama    2-2  Costa Rica     @ Cd. de Panamá 
 
 Mar/22 2013  Honduras       2-2  Mexico         @ San Pedro Sula 
 Mar/22 2013  Jamaica        1-1  Panama         @ Kingston

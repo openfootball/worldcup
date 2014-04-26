@@ -9,9 +9,11 @@
 --  Quali Round 3
 
 
-Group A  |  United States  Jamaica   Guatemala   Antigua and Barbuda
-Group B  |  Mexico         Costa Rica   El Salvador   Guyana
-Group C  |  Honduras       Panama       Canada       Cuba
+Group I  |  United States  Jamaica   Guatemala   Antigua and Barbuda
+Group J  |  Mexico         Costa Rica   El Salvador   Guyana
+Group K  |  Honduras       Panama       Canada       Cuba
+
+### fix: Gropus I, J, K use  3A, 3B, 3C  or similar ???
 
 
 (12) Matchday III.1 | Jun/8 2012
@@ -22,7 +24,7 @@ Group C  |  Honduras       Panama       Canada       Cuba
 (17) Matchday III.6 | Oct/16 2012
 
 
-Group A:
+Group I:
 
 Jun/8 2012      USA           3-1 Antigua and Barbuda   @ Tampa    
 Jun/8 2012      Jamaica       2-1 Guatemala             @ Kingston     
@@ -38,7 +40,7 @@ Oct/16 2012      Jamaica       4-1 Antigua and Barbuda   @ Kingston
 Oct/16 2012      USA           3-1 Guatemala             @ Kansas City  
 
 
-Group B:
+Group J:
 
 Jun/8 2012    Mexico        3-1 Guyana       @ Cd. de México     
 Jun/8 2012    Costa Rica    2-2 El Salvador  @ San José       
@@ -54,7 +56,7 @@ Oct/16 2012    Costa Rica    7-0 Guyana       @ San José
 Oct/16 2012    Mexico        2-0 El Salvador  @ Torreón        
 
 
-Group C:
+Group K:
 
 Jun/8 2012    Cuba          0-1 Canada      @ La Habana     
 Jun/8 2012   Honduras      0-2 Panama      @ San Pedro Sula  
