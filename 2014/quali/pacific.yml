@@ -1,0 +1,27 @@
+##########################################
+# World Cup Brazil 2014 - Quali Oceania
+
+league: world.quali.pacific
+season: 2014
+start_at: 2011-11-22
+
+
+fixtures:
+- pacific_i
+- pacific_ii
+- pacific_iii
+
+teams:
+- png # Papua New Guinea
+- fij # Fiji
+- sol # Solomon Islands
+- van # Vanuatu
+- nzl # New Zealand
+- sam # Samoa
+- tga # Tonga
+- tah # Tahiti
+- ncl # New Caledonia
+- asm # American Samoa
+- gum # Guam
+- cok # Cook Islands
+

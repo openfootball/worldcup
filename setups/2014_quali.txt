@@ -2,12 +2,11 @@
 # World Cup Brazil 2014 Quali
 
 world-cup!/leagues
-
-# world-cup!/2014/quali/africa
-# world-cup!/2014/quali/asia
-# world-cup!/2014/quali/europe
-# world-cup!/2014/quali/north_america
-# world-cup!/2014/quali/pacific
-# world-cup!/2014/quali/playoffs
+world-cup!/2014/quali/africa
+world-cup!/2014/quali/asia
+world-cup!/2014/quali/europe
+world-cup!/2014/quali/north_america
+world-cup!/2014/quali/pacific
+world-cup!/2014/quali/playoffs
 world-cup!/2014/quali/south_america
 

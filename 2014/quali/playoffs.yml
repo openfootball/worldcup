@@ -3,13 +3,14 @@
 #
 #  - AFC v CONMEBOL, CONCACAF v OFC
 
-## todo:
-# check - what league to add  e.g. world.quali.inter ?
+league: world.quali.playoffs
+season: 2014
+start_at: 2013-11-13
 
 
-###
-# teams:
-#  -mex  # Mexico
-#  -nzl  # New Zealand
-#  -uru  # Uruguay
-#  -jor  # Jordan
+teams:
+- mex  # Mexico
+- nzl  # New Zealand
+- uru  # Uruguay
+- jor  # Jordan
+

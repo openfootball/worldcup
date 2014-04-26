@@ -3,15 +3,20 @@
 
 # -- Qualifying Stage / First Quali Round
 
-Group 1 | Samoa   Tonga   American Samoa  Cook Islands
 
-## check: use group - why? why not?
-## todo: allow just Group w/o number or letter ?
+Group I | Samoa   Tonga   American Samoa  Cook Islands
+
+
+## fix/check: use group - why? why not?
+## fix/todo: allow just Group w/o number or letter ?
+
 
 Matchday 1  |  Nov/23 2011
 Matchday 2  |  Nov/25 2011
 Matchday 3  |  Nov/27 2011
 
+
+Group I:
 
 Nov/23 2011   Am. Samoa     2-1 Tonga         @ Apia        
 Nov/23 2011   Samoa         3-2 Cook Islands  @ Apia 
