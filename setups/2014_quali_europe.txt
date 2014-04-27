@@ -1,6 +1,5 @@
 ##########################
 # 2014 Quali Europe
 
-world-cup!/leagues
 world-cup!/2014/quali/europe
 

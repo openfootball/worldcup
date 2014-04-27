@@ -1,8 +1,6 @@
 ###########
 # All
 
-world-cup!/leagues
-
 
 # -- Germany 2006
 world-cup!/2006/cup

@@ -1,7 +1,6 @@
 ##################################
 # World Cup Brazil 2014 Quali
 
-world-cup!/leagues
 world-cup!/2014/quali/africa
 world-cup!/2014/quali/asia
 world-cup!/2014/quali/europe
