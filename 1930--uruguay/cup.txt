@@ -1,0 +1,67 @@
+##############################################
+# World Cup 1930 Uruguay, 13 July - 30 July
+
+
+Group 1  |  Argentina      Chile      France     Mexico
+Group 2  |  Yugoslavia     Brazil     Bolivia
+Group 3  |  Uruguay        Romania    Peru
+Group 4  |  United States  Paraguay   Belgium
+
+
+Matchday 1  | 13 July
+Matchday 2  | 14 July
+Matchday 3  | 15 July
+Matchday 4  | 16 July
+Matchday 5  | 17 July
+Matchday 6  | 18 July
+Matchday 7  | 19 July
+Matchday 8  | 20 July
+Matchday 9  | 21 July
+Matchday 10 | 22 July
+(11) Semi-finals  |  26 July - 27 July
+(12) Final        |  30 July
+
+
+
+Group 1:
+
+(1)  13 July     France     4-1   Mexico    @ Estadio Pocitos, Montevideo
+(5)  15 July     Argentina  1-0   France    @ Estadio Parque Central, Montevideo
+(6)  16 July     Chile      3-0   Mexico    @ Estadio Parque Central, Montevideo
+(10) 19 July     Chile      1-0   France    @ Estadio Centenario, Montevideo
+(11) 19 July     Argentina  6-3   Mexico    @ Estadio Centenario, Montevideo
+(15) 22 July     Argentina  3-1   Chile     @ Estadio Centenario, Montevideo
+
+
+Group 2:
+
+(3)  14 July     Yugoslavia   2-1  Brazil   @ Estadio Parque Central, Montevideo
+(7)  17 July     Yugoslavia   4-0  Bolivia  @ Estadio Parque Central, Montevideo
+(12) 20 July     Brazil       4-0  Bolivia  @ Estadio Centenario, Montevideo
+
+
+Group 3:
+
+(4)  14 July     Romania      3-1  Peru    @ Estadio Pocitos, Montevideo
+(9)  18 July     Uruguay      1-0  Peru    @ Estadio Centenario, Montevideo
+(14) 21 July     Uruguay      4-0  Romania  @ Estadio Centenario, Montevideo
+
+
+Group 4:
+
+(2)  13 July     United States   3-0  Belgium  @ Estadio Parque Central, Montevideo
+(8)  17 July     United States   3-0  Paraguay @ Estadio Parque Central, Montevideo
+(13) 20 July     Paraguay        1-0  Belgium  @ Estadio Centenario, Montevideo
+
+
+(11) Semi-finals
+
+(16) 26 July     Argentina       6-1  United States  @ Estadio Centenario, Montevideo
+(17) 27 July     Uruguay         6-1  Yugoslavia     @ Estadio Centenario, Montevideo
+
+
+(12) Final
+
+(18) 30 July     Uruguay         4-2  Argentina      @ Estadio Centenario, Montevideo
+
+

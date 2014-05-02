@@ -1,0 +1,47 @@
+###########################################
+# World Cup 1934 Italy, 27 May – 10 June
+
+
+## fix: add Replay to round too!!!
+
+
+First round / Preliminary round
+
+(1) 27 May   Sweden         3–2  Argentina      @ Stadio Littoriale, Bologna
+(2) 27 May   Austria        3–2 a.e.t. 1-1 France   @ Stadio Benito Mussolini, Turin
+(3) 27 May   Germany        5–2  Belgium        @ Stadio Giovanni Berta, Florence
+(4) 27 May   Spain          3–1  Brazil   @ Stadio Luigi Ferraris, Genoa
+(5) 27 May   Hungary        4–2  Egypt          @ Stadio Giorgio Ascarelli, Naples
+(6) 27 May   Switzerland    3–2  Netherlands    @ Stadio San Siro, Milan
+(7) 27 May   Italy          7–1  United States  @ Stadio Nazionale PNF, Rome
+(8) 27 May   Czechoslovakia 2–1  Romania        @ Stadio Littorio, Trieste
+
+
+
+Quarter-finals
+
+(9)  31 May   Czechoslovakia 3–2   Switzerland @ Stadio Benito Mussolini, Turin
+(10) 31 May   Germany        2–1   Sweden      @ Stadio San Siro, Milan
+(11) 31 May   Italy        1–1 a.e.t.  Spain  @ Stadio Giovanni Berta, Florence
+(12) 31 May   Austria        2–1  Hungary     @ Stadio Littoriale, Bologna
+
+Replay - Quarter-finals    ## Quarter-finals Replayfix- add Replay to round too!!!
+
+(13) 1 June   Italy           1–0  Spain   @ Stadio Giovanni Berta, Florence
+
+
+Semi-finals
+
+(14) 3 June   Italy           1-0   Austria  @ Stadio San Siro, Milan
+(15) 3 June   Czechoslovakia  3–1   Germany  @ Stadio Nazionale PNF, Rome
+
+
+Third-place match
+
+(16) 7 June   Germany          3–2 Austria    @ Stadio Giorgio Ascarelli, Naples
+
+
+Final
+
+(17) 10 June   Italy 2–1 a.e.t. 1-1   Czechoslovakia  @ Stadio Nazionale PNF, Rome
+
