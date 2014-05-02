@@ -1,5 +1,5 @@
 ##########################
 # 2014 Quali Europe
 
-world-cup!/2014/quali/europe
+world-cup!/2014--brazil/quali/europe
 

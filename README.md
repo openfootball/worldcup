@@ -9,8 +9,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for World Cup (e.g. Brazil 2014), World Cup Quali,
-Confederations Cup (e.g. Brazil 2013). Example:
+Free open public domain football data for the World Cup (e.g. Brazil 2014, Russia 2018, etc.)
+and the World Cup Quali(fiers). Example:
 
 ~~~
 ############################

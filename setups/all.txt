@@ -3,23 +3,19 @@
 
 
 # -- Germany 2006
-world-cup!/2006/cup
+world-cup!/2006--germany/cup
 
-# -- South Afria 2009 n 2010
-world-cup!/2009/confed
-world-cup!/2010/cup
-
-# -- Brazil 2013
-world-cup!/2013/confed
+# -- South Afria 2010
+world-cup!/2010--south-africa/cup
 
 # -- Brazil 2014 Quali
-world-cup!/2014/quali/africa
-world-cup!/2014/quali/asia
-world-cup!/2014/quali/europe
-world-cup!/2014/quali/north_america
-world-cup!/2014/quali/pacific
-world-cup!/2014/quali/playoffs
-world-cup!/2014/quali/south_america
+world-cup!/2014--brazil/quali/africa
+world-cup!/2014--brazil/quali/asia
+world-cup!/2014--brazil/quali/europe
+world-cup!/2014--brazil/quali/north_america
+world-cup!/2014--brazil/quali/pacific
+world-cup!/2014--brazil/quali/playoffs
+world-cup!/2014--brazil/quali/south_america
 
 # -- Brazil 2014
-world-cup!/2014/cup
+world-cup!/2014--brazil/cup
