@@ -1,0 +1,62 @@
+################################################
+# World Cup 1950 Brazil, 24 June - 16 July
+
+
+Group 1  |   Brazil   Mexico   Switzerland    Yugoslavia
+Group 2  |   England  Chile    Spain          United States
+Group 3  |   Italy    India    Paraguay       Sweden
+Group 4  |   Uruguay  Bolivia  France
+
+
+## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
+## todo: final round (just regular matches; not knock out matches)
+
+
+Group 1:
+
+(1)  24 June    Brazil       4-0  Mexico       @ Estádio do Maracanã, Rio de Janeiro
+(5)  25 June    Yugoslavia   3-0  Switzerland  @ Estádio Independência, Belo Horizonte
+
+(6)  28 June    Brazil       2-2  Switzerland  @ Estádio do Pacaembu, São Paulo
+(7)  28 June    Yugoslavia   4-1  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+
+(11) 1 July     Brazil       2-0  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
+(14) 2 July     Switzerland  2-1  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+
+
+Group 2:
+
+(2)  25 June     England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+(3)  25 June     Spain          3-1  United States   @ Estádio Durival de Britto, Curitiba
+
+(8)  29 June     Spain          2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+(10) 29 June     United States  1-0  England         @ Estádio Independência, Belo Horizonte
+
+(12)  2 July     Spain          1-0  England         @ Estádio do Maracanã, Rio de Janeiro
+(15)  2 July     Chile          5-2  United States   @ Estádio Ilha do Retiro, Recife
+
+
+Group 3:
+
+(4)  25 June     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
+(9)  29 June     Sweden         2-2  Paraguay        @ Estádio Durival Britto, Curitiba
+
+(13)  2 July     Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
+
+
+Group 4:
+
+(16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
+
+
+Final Round
+
+(17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
+(18)  9 July     Brazil         7-1  Sweden          @ Estádio do Maracanã, Rio de Janeiro
+
+(19) 13 July     Brazil         6-1  Spain           @ Estádio do Maracanã, Rio de Janeiro
+(20) 13 July     Uruguay        3-2  Sweden          @ Estádio do Pacaembu, São Paulo
+
+(21) 16 July     Sweden         3-1  Spain           @ Estádio do Pacaembu, São Paulo
+(22) 16 July     Uruguay        2-1  Brazil          @ Estádio do Maracanã, Rio de Janeiro
+
