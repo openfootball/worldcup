@@ -1,0 +1,85 @@
+##################################################
+# World Cup 1954 Switzerland, 16 June - 4 July
+
+
+Group 1  |  Brazil   Yugoslavia    France          Mexico
+Group 2  |  Hungary  West Germany  Turkey          South Korea
+Group 3  |  Uruguay  Austria       Czechoslovakia  Scotland
+Group 4  |  England  Switzerland   Italy           Belgium
+
+### todo: add match day
+##  todo: check if group header clear round in reader (e.g  Group 2 play-off and Group 3:)!!
+
+
+Group 1:
+
+(3)  16 June    Brazil       5-0   Mexico    @ Charmilles Stadium, Geneva
+(4)  16 June    Yugoslavia   1-0   France    @ Stade Olympique de la Pontaise, Lausanne
+
+(10) 19 June    Brazil     1-1 a.e.t. 1-1  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
+(11) 19 June    France     3-2             Mexico      @ Charmilles Stadium, Geneva
+
+
+Group 2:
+
+(5)  17 June    West Germany    4-1   Turkey         @ Wankdorf Stadium, Bern
+(8)  17 June    Hungary         9-0   South Korea    @ Hardturm Stadium, Zürich
+
+(14) 20 June    Hungary         8-3   West Germany   @ St. Jakob Stadium, Basel
+(15) 20 June    Turkey          7-0   South Korea    @ Charmilles Stadium, Geneva
+
+Group 2 Play-off
+
+### what match number to use - fifa says 231??
+
+23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
+
+
+Group 3:
+
+(1)  16 June    Uruguay          2-0  Czechoslovakia    @ Wankdorf Stadium, Bern
+(2)  16 June    Austria          1-0  Scotland          @ Hardturm Stadium, Zürich
+
+(9)  19 June    Austria          5-0  Czechoslovakia    @ Hardturm Stadium, Zürich
+(12) 19 June    Uruguay          7-0  Scotland          @ St. Jakob Stadium, Basel
+
+
+Group 4:
+
+(6)  17 June    England          4-4 a.e.t. 3-3  Belgium    @ St. Jakob Stadium, Basel
+(7)  17 June    Switzerland      2-1  Italy                 @ Stade Olympique de la Pontaise, Lausanne
+
+(13) 20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
+(16) 20 June    Italy            4-1  Belgium         @ Cornaredo Stadium, Lugano
+
+Group 4 Play-off
+
+### what match number to use - fifa says 211??
+
+23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
+
+
+Quarter-finals
+
+(19) 26 June    Austria          7-5   Switzerland    @ Stade Olympique de la Pontaise, Lausanne
+(20) 26 June    Uruguay          4-2   England        @ St. Jakob Stadium, Basel
+
+(17) 27 June    Yugoslavia       0-2   West Germany   @ Charmilles Stadium, Geneva
+(18) 27 June    Brazil           2-4   Hungary        @ Wankdorf Stadium, Bern
+
+
+Semi-finals
+
+(21) 30 June    West Germany     6-1         Austria        @ St. Jakob Stadium, Basel
+(22) 30 June    Hungary      4-2 a.e.t. 2-2  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
+
+
+Third-place match
+
+(23) 3 July     Uruguay         1-3    Austria   @ Hardturm Stadium, Zürich
+
+
+Final
+
+(24) 4 July     Hungary         2-3    West Germany    @ Wankdorf Stadium, Bern
+
