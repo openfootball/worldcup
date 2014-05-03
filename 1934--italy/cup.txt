@@ -5,7 +5,7 @@
 ## fix: add Replay to round too!!!
 
 
-First round / Preliminary round
+Preliminary round
 
 (1) 27 May   Sweden         3–2  Argentina      @ Stadio Littoriale, Bologna
 (2) 27 May   Austria        3–2 a.e.t. 1-1 France   @ Stadio Benito Mussolini, Turin
@@ -25,7 +25,7 @@ Quarter-finals
 (11) 31 May   Italy        1–1 a.e.t.  Spain  @ Stadio Giovanni Berta, Florence
 (12) 31 May   Austria        2–1  Hungary     @ Stadio Littoriale, Bologna
 
-Replay - Quarter-finals    ## Quarter-finals Replayfix- add Replay to round too!!!
+Quarter-finals replays     ## Quarter-finals Replayfix- add Replay to round too!!!
 
 (13) 1 June   Italy           1–0  Spain   @ Stadio Giovanni Berta, Florence
 

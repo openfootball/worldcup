@@ -1,0 +1,58 @@
+############################################
+# World Cup 1938 France, 4 June - 19 June
+
+
+### todo/fix:
+#  add replays to round parser
+
+# todo: use match number - why? why not?
+#  how to deal w/ walkout ??
+
+
+First round
+
+(1) 4 June     Switzerland     1-1aet 1-1   Germany            @ Parc des Princes, Paris
+(2) 5 June     Hungary         6-0          Dutch East Indies  @ Vélodrome Municipal, Reims
+(3) 5 June     France          3-1          Belgium            @ Stade Olympique de Colombes, Paris
+(4) 5 June     Cuba            3-3aet 2-2   Romania            @ Stade Chapou, Toulouse
+(5) 5 June     Italy           2-1aet 1-1   Norway             @ Stade Vélodrome, Marseille
+(6) 5 June     Brazil          6-5aet 4-4   Poland             @ Stade de la Meinau, Strasbourg
+(7) 5 June     Czechoslovakia  3-0aet 0-0  Netherlands        @ Stade municipal, Le Havre
+
+5 June     Sweden         - (*)        Austria            @ Stade Gerland, Lyon
+# (*) w/o - walkout 
+
+First round replays
+
+(8) 9 June     Cuba        2-1   Romania             @ Stade Chapou, Toulouse
+(9) 9 June     Germany     2-4   Switzerland         @ Parc des Princes, Paris
+
+
+Quarter-finals
+
+(10) 12 June   Brazil        1-1aet 1-1  Czechoslovakia  @ Parc Lescure, Bordeaux
+(11) 12 June   Switzerland   0-2  Hungary           @ Stade Victor Boucquey, Lille
+(12) 12 June   Sweden        8-0  Cuba              @ Stade du Fort Carré, Antibes
+(13) 12 June   France        1-3  Italy             @ Stade Olympique de Colombes, Paris
+
+Quarter-finals replays
+
+(14) 14 June   Brazil        2-1   Czechoslovakia    @ Parc Lescure, Bordeaux
+
+
+Semi-finals
+
+(15) 16 June   Hungary    5-1   Sweden      @ Parc des Princes, Paris
+(16) 16 June   Italy      2-1   Brazil      @ Stade Vélodrome, Marseille
+
+
+Match for third place
+
+(17) 19 June   Sweden     2-4    Brazil     @ Parc Lescure, Bordeaux
+
+
+Final
+
+(18) 19 June   Hungary   2-4    Italy        @ Stade Olympique de Colombes, Paris
+
+
