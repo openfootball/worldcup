@@ -51,9 +51,9 @@ Group A:
 ~~~
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `worldcup.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `worldcup.db` copy
 from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
