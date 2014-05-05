@@ -1,0 +1,73 @@
+##########################################
+# World Cup 1966 England, 11 - 30 July
+
+Group 1  |  England       Uruguay       Mexico     France
+Group 2  |  West Germany  Argentina     Spain      Switzerland
+Group 3  |  Portugal      Hungary       Brazil     Bulgaria
+Group 4  |  Soviet Union  North Korea   Italy      Chile
+
+
+
+Group 1:
+
+(1)  11 July   England    0-0    Uruguay   @ Wembley Stadium, London
+(5)  13 July   France     1-1    Mexico    @ Wembley Stadium, London
+(9)  15 July   Uruguay    2-1    France    @ White City Stadium, London
+(13) 16 July   England    2-0    Mexico    @ Wembley Stadium, London
+(17) 19 July   Mexico     0-0    Uruguay   @ Wembley Stadium, London
+(21) 20 July   England    2-0    France    @ Wembley Stadium, London
+
+
+Group 2:
+
+(2)  12 July   West Germany    5-0   Switzerland   @ Hillsborough Stadium, Sheffield
+(6)  13 July   Argentina       2-1   Spain         @ Villa Park, Birmingham
+(10) 15 July   Spain           2-1   Switzerland   @ Hillsborough Stadium, Sheffield
+(14) 16 July   Argentina       0-0   West Germany  @ Villa Park, Birmingham
+(18) 19 July   Argentina       2-0   Switzerland   @ Hillsborough Stadium, Sheffield
+(22) 20 July   West Germany    2-1   Spain         @ Villa Park, Birmingham
+
+
+Group 3:
+
+(3)  12 July   Brazil      2-0    Bulgaria         @ Goodison Park, Liverpool
+(7)  13 July   Portugal    3-1    Hungary          @ Old Trafford, Manchester
+(11) 15 July   Hungary     3-1    Brazil           @ Goodison Park, Liverpool
+(15) 16 July   Portugal    3-0    Bulgaria         @ Old Trafford, Manchester
+(19) 19 July   Portugal    3-1    Brazil           @ Goodison Park, Liverpool
+(23) 20 July   Hungary     3-1    Bulgaria         @ Old Trafford, Manchester
+
+
+Group 4:
+
+(4)  12 July   Soviet Union    3-0  North Korea   @ Ayresome Park, Middlesbrough
+(8)  13 July   Italy           2-0  Chile         @ Roker Park, Sunderland
+(12) 15 July   Chile           1-1  North Korea   @ Ayresome Park, Middlesbrough
+(16) 16 July   Soviet Union    1-0  Italy         @ Roker Park, Sunderland
+(20) 19 July   North Korea     1-0  Italy         @ Ayresome Park, Middlesbrough
+(24) 20 July   Soviet Union    2-1  Chile         @ Roker Park, Sunderland
+
+
+Quarter-finals
+
+(25) 23 July   England         1-0   Argentina     @ Wembley Stadium, London
+(26) 23 July   West Germany    4-0   Uruguay       @ Hillsborough Stadium, Sheffield
+(27) 23 July   Soviet Union    2-1   Hungary       @ Roker Park, Sunderland
+(28) 23 July   Portugal        5-3   North Korea   @ Goodison Park, Liverpool
+
+
+Semi-finals
+
+(29) 25 July   West Germany   2-1   Soviet Union  @ Goodison Park, Liverpool
+(30) 26 July   England        2-1   Portugal      @ Wembley Stadium, London
+
+
+Third-place match
+
+(31) 28 July   Portugal    2-1   Soviet Union  @ Wembley Stadium, London
+
+
+Final
+
+(32) 30 July    England   4-2 a.e.t. 2-2   West Germany  @ Wembley Stadium, London
+
