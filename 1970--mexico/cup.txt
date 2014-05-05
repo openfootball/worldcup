@@ -1,0 +1,70 @@
+#############################################
+# World Cup 1970 Mexico, 31 May - 21 June
+
+Group 1  |  Soviet Union    Mexico     Belgium     El Salvador
+Group 2  |  Italy           Uruguay    Sweden      Israel
+Group 3  |  Brazil          England    Romania     Czechoslovakia
+Group 4  |  West Germany    Peru       Bulgaria    Morocco
+
+
+Group 1:
+
+(1)  31 May     Mexico          0-0    Soviet Union   @ Estadio Azteca, Mexico City
+(5)   3 June    Belgium         3-0    El Salvador    @ Estadio Azteca, Mexico City
+(9)   6 June    Soviet Union    4-1    Belgium        @ Estadio Azteca, Mexico City
+(13)  7 June    Mexico          4-0    El Salvador    @ Estadio Azteca, Mexico City
+(17) 10 June    Soviet Union    2-0    El Salvador    @ Estadio Azteca, Mexico City
+(21) 11 June    Mexico          1-0    Belgium        @ Estadio Azteca, Mexico City
+
+
+Group 2:
+
+(2)   2 June   Uruguay    2-0    Israel      @ Estadio Cuauhtémoc, Puebla
+(6)   3 June   Italy      1-0    Sweden      @ Estadio Luis Dosal, Toluca
+(10)  6 June   Uruguay    0-0    Italy       @ Estadio Cuauhtémoc, Puebla
+(14)  7 June   Sweden     1-1    Israel      @ Estadio Luis Dosal, Toluca
+(18) 10 June   Uruguay    0-1    Sweden      @ Estadio Cuauhtémoc, Puebla
+(22) 11 June   Israel     0-0    Italy       @ Estadio Luis Dosal, Toluca
+
+
+Group 3:
+
+(3)   2 June   Romania    0-1    England          @ Estadio Jalisco, Guadalajara
+(7)   3 June   Czechoslovakia    1-4    Brazil     @ Estadio Jalisco, Guadalajara
+(11)  6 June   Romania    2-1    Czechoslovakia   @ Estadio Jalisco, Guadalajara
+(15)  7 June   England    0-1    Brazil           @ Estadio Jalisco, Guadalajara
+(19) 10 June   Romania    2-3    Brazil           @ Estadio Jalisco, Guadalajara
+(23) 11 June   England    1-0    Czechoslovakia   @ Estadio Jalisco, Guadalajara
+
+
+Group 4:
+
+(4)   2 June   Peru        3-2   Bulgaria       @ Estadio Nou Camp, León
+(8)   3 June   Morocco     1-2   West Germany   @ Estadio Nou Camp, León
+(12)  6 June   Peru        3-0   Morocco        @ Estadio Nou Camp, León
+(16)  7 June   Bulgaria    2-5   West Germany   @ Estadio Nou Camp, León
+(20) 10 June   Peru        1-3   West Germany   @ Estadio Nou Camp, León
+(24) 11 June   Bulgaria    1-1   Morocco        @ Estadio Nou Camp, León
+
+
+Quarter-finals
+
+(25) 14 June    Soviet Union  0-1 a.e.t. 0-0   Uruguay    @ Estadio Azteca, Mexico City
+(26) 14 June    Italy         4-1              Mexico     @ Estadio Luis Dosal, Toluca
+(27) 14 June    Brazil        4-2              Peru       @ Estadio Jalisco, Guadalajara
+(28) 14 June    West Germany  3-2 a.e.t. 2-2   England    @ Estadio Nou Camp, León
+
+
+Semi-finals
+
+(29) 17 June    Uruguay    1-3               Brazil        @ Estadio Jalisco, Guadalajara
+(30) 17 June    Italy      4-3 a.e.t. 1-1    West Germany  @ Estadio Azteca, Mexico City
+
+Match for third place
+
+(31) 20 June    Uruguay    0-1    West Germany   @ Estadio Azteca, Mexico City
+
+Final
+
+(32) 21 June    Brazil     4-1    Italy     @ Estadio Azteca, Mexico City
+
