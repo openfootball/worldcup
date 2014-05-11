@@ -1,0 +1,85 @@
+#############################################
+# World Cup 1998 France, 10 June - 12 July
+
+Group A  |  Brazil       Norway      Morocco        Scotland
+Group B  |  Italy        Chile       Austria        Cameroon
+Group C  |  France       Denmark     South Africa   Saudi Arabia
+Group D  |  Nigeria      Paraguay    Spain          Bulgaria
+Group E  |  Netherlands  Mexico      Belgium        South Korea
+Group F  |  Germany      Yugoslavia  Iran           United States
+Group G  |  Romania      England     Colombia       Tunisia
+Group H  |  Argentina    Croatia     Jamaica        Japan
+
+
+Group A:
+
+(1)  10 June    Brazil      2-1    Scotland    @ Stade de France, Saint-Denis
+(2)  10 June    Morocco     2-2    Norway      @ Stade de la Mosson, Montpellier
+(17) 16 June    Scotland    1-1    Norway      @ Parc Lescure, Bordeaux
+(18) 16 June    Brazil      3-0    Morocco     @ Stade de la Beaujoire, Nantes
+(34) 23 June    Scotland    0-3    Morocco     @ Stade Geoffroy-Guichard, Saint-Étienne
+(35) 23 June    Brazil      1-2    Norway      @ Stade Vélodrome, Marseille
+
+Group B:
+
+(3)  11 June   Cameroon    1-1    Austria    @ Stade de Toulouse, Toulouse
+(4)  11 June   Italy       2-2    Chile    @ Parc Lescure, Bordeaux
+(19) 17 June   Chile       1-1    Austria    @ Stade Geoffroy-Guichard, Saint-Étienne
+(20) 17 June   Italy       3-0    Cameroon   @ Stade de la Mosson, Montpellier
+(33) 23 June   Italy       2-1    Austria   @ Stade de France, Saint-Denis
+(36) 23 June   Chile       1-1    Cameroon   @ Stade de la Beaujoire, Nantes
+
+Group C:
+
+(5)  12 June   Saudi Arabia   0-1    Denmark   @ Stade Félix Bollaert, Lens
+(6)  12 June   France         3-0    South Africa   @ Stade Vélodrome, Marseille
+(21) 18 June   France         4-0    Saudi Arabia   @ Stade de France, Saint-Denis
+(22) 18 June   South Africa   1-1    Denmark   @ Stade de Toulouse, Toulouse
+(38) 24 June   France         2-1    Denmark         @ Stade Gerland, Lyon
+(40) 24 June   South Africa   2-2    Saudi Arabia   @ Parc Lescure, Bordeaux
+
+Group D:
+
+(7)  12 June   Paraguay   0-0    Bulgaria    @ Stade de la Mosson, Montpellier
+(10) 13 June   Spain      2-3    Nigeria    @ Stade de la Beaujoire, Nantes
+(23) 19 June   Nigeria    1-0    Bulgaria   @ Parc des Princes, Paris
+(24) 19 June   Spain      0-0    Paraguay   @ Stade Geoffroy-Guichard, Saint-Étienne
+(37) 24 June   Spain      6-1    Bulgaria   @ Stade Félix Bollaert, Lens
+(39) 24 June   Nigeria    1-3    Paraguay   @ Stade de Toulouse, Toulouse
+
+Group E:
+
+(8)  13 June   Netherlands    0-0    Belgium   @ Stade de France, Saint-Denis
+(9)  13 June   South Korea    1-3    Mexico   @ Stade Gerland, Lyon
+(25) 20 June   Netherlands    5-0    South Korea   @ Stade Vélodrome, Marseille
+(26) 20 June   Belgium        2-2    Mexico   @ Parc Lescure, Bordeaux
+(41) 25 June   Belgium        1-1    South Korea   @ Parc des Princes, Paris
+(42) 25 June   Netherlands    2-2    Mexico   @ Stade Geoffroy-Guichard, Saint-Étienne
+
+Group F:
+
+(12) 14 June   Yugoslavia       1-0    Iran   @ Stade Geoffroy-Guichard, Saint-Étienne
+(14) 15 June   Germany          2-0    United States   @ Parc des Princes, Paris
+(29) 21 June   Germany          2-2    Yugoslavia   @ Stade Félix Bollaert, Lens
+(30) 21 June   United States    1-2    Iran   @ Stade Gerland, Lyon
+(43) 25 June   Germany          2-0    Iran   @ Stade de la Mosson, Montpellier
+(44) 25 June   United States    0-1    Yugoslavia   @ Stade de la Beaujoire, Nantes
+
+Group G:
+
+(15) 15 June   Romania     1-0    Colombia   @ Stade Gerland, Lyon
+(16) 15 June   England     2-0    Tunisia   @ Stade Vélodrome, Marseille
+(31) 22 June   Colombia    1-0    Tunisia   @ Stade de la Mosson, Montpellier
+(32) 22 June   Romania     2-1    England   @ Stade de Toulouse, Toulouse
+(45) 26 June   Romania     1-1    Tunisia   @ Stade de France, Saint-Denis
+(46) 26 June   Colombia    0-2    England   @ Stade Félix Bollaert, Lens
+
+Group H:
+
+(11) 14 June   Jamaica      1-3    Croatia   @ Stade Félix Bollaert, Lens
+(13) 14 June   Argentina    1-0    Japan   @ Stade de Toulouse, Toulouse
+(27) 20 June   Japan        0-1    Croatia   @ Stade de la Beaujoire, Nantes
+(28) 21 June   Argentina    5-0    Jamaica   @ Parc des Princes, Paris
+(47) 26 June   Japan        1-2    Jamaica   @ Stade Gerland, Lyon
+(48) 26 June   Argentina    1-0    Croatia   @ Parc Lescure, Bordeaux
+

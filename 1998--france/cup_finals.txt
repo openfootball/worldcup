@@ -1,0 +1,42 @@
+#############################################
+# World Cup 1998 France, 10 June - 12 July
+
+# --- Knockout stage
+
+Round of 16
+
+(49) 27 June   Brazil    4-1    Chile  @ Parc des Princes, Paris
+(50) 27 June   Italy     1-0    Norway   @ Stade Vélodrome, Marseille
+
+(51) 28 June   Nigeria    1-4    Denmark   @ Stade de France, Saint-Denis
+(52) 28 June   France    1-0 a.e.t. 0-0    Paraguay   @ Stade Félix Bollaert, Lens
+
+(53) 29 June   Germany       2-1    Mexico   @ Stade de la Mosson, Montpellier
+(54) 29 June   Netherlands   2-1    Yugoslavia  @ Stade de Toulouse, Toulouse
+
+(55) 30 June   Argentina   4-3pen 2-2aet 2-2   England  @ Stade Geoffroy-Guichard, Saint-Étienne
+(56) 30 June   Romania       0-1    Croatia  @ Parc Lescure, Bordeaux
+
+
+Quarter-finals
+
+(57)  3 July    Italy    3-4pen 0-0 aet 0-0   France   @ Stade de France, Saint-Denis
+(58)  3 July    Brazil    3-2    Denmark           @ Stade de la Beaujoire, Nantes
+
+(59)  4 July    Germany       0-3    Croatia           @ Stade Gerland, Lyon
+(60)  4 July    Netherlands   2-1    Argentina     @ Stade Vélodrome, Marseille
+
+
+Semi-finals
+
+(61)  7 July  Brazil    4-2pen 1-1aet 1-1    Netherlands   @ Stade Vélodrome, Marseille
+(62)  8 July  France    2-1    Croatia    @ Stade de France, Saint-Denis
+
+Third place match
+
+(63) 11 July Netherlands    1-2    Croatia   @ Parc des Princes, Paris
+
+
+Final
+
+(64) 12 July   Brazil       0-3    France   @ Stade de France, Saint-Denis
