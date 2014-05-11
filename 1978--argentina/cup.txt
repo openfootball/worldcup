@@ -1,0 +1,98 @@
+###########################################
+# World Cup 1978 Argentina, 1 - 25 June
+
+
+Group 1  |   Italy    Argentina     France     Hungary
+Group 2  |   Poland   West Germany  Tunisia    Mexico
+Group 3  |   Austria  Brazil        Spain      Sweden
+Group 4  |   Peru     Netherlands   Scotland   Iran
+
+
+
+
+Group 1:
+
+(2)  2 June   Argentina    2-1    Hungary  @ Estadio Monumental, Buenos Aires
+(3)  2 June   Italy        2-1    France   @ Estadio José María Minella, Mar del Plata
+
+(9)  6 June   Argentina    2-1    France    @ Estadio Monumental, Buenos Aires
+(10) 6 June   Italy        3-1    Hungary   @ Estadio José María Minella, Mar del Plata
+
+(17) 10 June  Argentina    0-1    Italy     @ Estadio Monumental, Buenos Aires
+(18) 10 June  France       3-1    Hungary   @ Estadio José María Minella, Mar del Plata
+
+
+Group 2:
+
+(1)  1 June   West Germany    0-0    Poland   @ Estadio Monumental, Buenos Aires
+(4)  2 June   Tunisia         3-1    Mexico   @ Estadio Gigante de Arroyito, Rosario
+
+(11) 6 June   Poland          1-0    Tunisia  @ Estadio Gigante de Arroyito, Rosario
+(12) 6 June   West Germany    6-0    Mexico   @ Estadio Chateau Carreras, Córdoba
+
+(19) 10 June  Poland          3-1    Mexico   @ Estadio Gigante de Arroyito, Rosario
+(20) 10 June  West Germany    0-0    Tunisia  @ Estadio Olímpico Chateau Carreras, Córdoba
+
+
+Group 3:
+
+(5)  3 June   Austria      2-1    Spain     @ Estadio José Amalfitani, Buenos Aires
+(6)  3 June   Brazil       1-1    Sweden    @ Estadio José Maria Minella, Mar del Plata
+
+(13) 7 June   Austria      1-0    Sweden    @ Estadio José Amalfitani, Buenos Aires
+(14) 7 June   Brazil       0-0    Spain     @ Estadio José Maria Minella, Mar del Plata
+
+(21) 11 June  Spain        1-0    Sweden    @ Estadio José Amalfitani, Buenos Aires
+(22) 11 June  Brazil       1-0    Austria   @ Estadio José Maria Minella, Mar del Plata
+
+
+Group 4:
+
+(7)  3 June   Peru           3-1    Scotland     @ Estadio Chateau Carreras, Córdoba
+(8)  3 June   Netherlands    3-0    Iran         @ Estadio Ciudad de Mendoza, Mendoza
+
+(15) 7 June   Scotland       1-1    Iran         @ Estadio Chateau Carreras, Córdoba
+(16) 7 June   Netherlands    0-0    Peru         @ Estadio Ciudad de Mendoza, Mendoza
+
+(23) 11 June  Peru           4-1    Iran         @ Estadio Chateau Carreras, Córdoba
+(24) 11 June  Scotland       3-2    Netherlands  @ Estadio Ciudad de Mendoza, Mendoza
+
+
+#### Second Round
+## todo/fix: add stage/add stage key to rounds
+
+Group A  |  Netherlands   Italy     West Germany   Austria
+Group B  |  Argentina     Brazil    Poland         Peru
+
+
+Group A:
+
+(25) 14 June   Italy          0-0    West Germany  @ Estadio Monumental, Buenos Aires
+(27) 14 June   Austria        1-5    Netherlands   @ Estadio Chateau Carreras, Córdoba
+
+(29) 18 June   Italy          1-0    Austria       @ Estadio Monumental, Buenos Aires
+(31) 18 June   Netherlands    2-2    West Germany  @ Estadio Chateau Carreras, Córdoba
+
+(33) 21 June   Italy          1-2    Netherlands    @ Estadio Monumental, Buenos Aires
+(35) 21 June   Austria        3-2    West Germany   @ Estadio Chateau Carreras, Córdoba
+
+
+Group B:
+
+(26) 14 June   Argentina      2-0    Poland    @ Estadio Gigante de Arroyito, Rosario
+(28) 14 June   Peru           0-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
+
+(30) 18 June   Argentina      0-0    Brazil    @ Estadio Gigante de Arroyito, Rosario
+(32) 18 June   Peru           0-1    Poland    @ Estadio Ciudad de Mendoza, Mendoza
+
+(34) 21 June   Argentina      6-0    Peru      @ Estadio Gigante de Arroyito, Rosario
+(36) 21 June   Poland         1-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
+
+Third place match
+
+(37) 24 June    Brazil        2-1    Italy       @ Estadio Monumental, Buenos Aires
+
+Final
+
+(38) 25 June   Netherlands    1-3 a.e.t. 1-1   Argentina   @ Estadio Monumental, Buenos Aires
+
