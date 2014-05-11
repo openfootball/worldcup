@@ -1,0 +1,85 @@
+####################################################
+# World Cup 2002 Korea n Japan, 31 May - 30 June
+
+Group A  |  Denmark      Senegal        Uruguay        France
+Group B  |  Spain        Paraguay       South Africa   Slovenia
+Group C  |  Brazil       Turkey         Costa Rica     China
+Group D  |  South Korea  United States  Portugal       Poland
+Group E  |  Germany      Ireland        Cameroon       Saudi Arabia
+Group F  |  Sweden       England        Argentina      Nigeria
+Group G  |  Mexico       Italy          Croatia        Ecuador
+Group H  |  Japan        Belgium        Russia         Tunisia
+
+
+Group A:
+
+(1)  31 May   France     0-1    Senegal   @ Seoul World Cup Stadium, Seoul
+(3)   1 June   Uruguay    1-2    Denmark   @ Munsu Cup Stadium, Ulsan
+(18)  6 June   France     0-0    Uruguay   @ Asiad Main Stadium, Busan
+(19)  6 June   Denmark    1-1    Senegal   @ Daegu World Cup Stadium, Daegu
+(33) 11 June  Denmark    2-0    France    @ Incheon Munhak Stadium, Incheon
+(34) 11 June  Senegal    3-3    Uruguay   @ Suwon World Cup Stadium, Suwon
+
+Group B:
+
+(6)  2 June   Paraguay        2-2    South Africa   @ Asiad Main Stadium, Busan
+(8)  2 June   Spain           3-1    Slovenia  @ Gwangju World Cup Stadium, Gwangju
+(22) 7 June   Spain           3-1    Paraguay  @ Jeonju World Cup Stadium, Jeonju
+(24) 8 June   South Africa    1-0    Slovenia  @ Daegu World Cup Stadium, Daegu
+(39) 12 June  South Africa    2-3    Spain   @ Daejeon World Cup Stadium, Daejeon
+(40) 12 June  Slovenia        1-3    Paraguay   @ Jeju World Cup Stadium, Jeju
+
+Group C:
+
+(10)  3 June   Brazil        2-1    Turkey   @ Munsu Cup Stadium, Ulsan
+(12)  4 June   China         0-2    Costa Rica   @ Gwangju World Cup Stadium, Gwangju
+(26)  8 June   Brazil        4-0    China   @ Jeju World Cup Stadium, Jeju
+(28)  9 June   Costa Rica    1-1    Turkey   @ Incheon Munhak Stadium, Incheon
+(41) 13 June  Costa Rica    2-5    Brazil   @ Suwon World Cup Stadium, Suwon
+(42) 13 June  Turkey        3-0    China   @ Seoul World Cup Stadium, Seoul
+
+Group D:
+
+(14)  4 June   South Korea    2-0    Poland   @ Asiad Main Stadium, Busan
+(16)  5 June   United States  3-2    Portugal   @ Suwon World Cup Stadium, Suwon
+(30) 10 June   South Korea    1-1    United States   @ Daegu World Cup Stadium, Daegu
+(32) 10 June   Portugal       4-0    Poland   @ Jeonju World Cup Stadium, Jeonju
+(47) 14 June   Portugal       0-1    South Korea   @ Incheon Munhak Stadium, Incheon
+(48) 14 June   Poland         3-1    United States   @ Daejeon World Cup Stadium, Daejeon
+
+Group E:
+
+(2)   1 June   Ireland         1-1    Cameroon   @ Niigata Stadium, Niigata
+(4)   1 June   Germany         8-0    Saudi Arabia   @ Sapporo Dome, Sapporo
+(17)  5 June   Germany         1-1    Republic of Ireland   @ Kashima Soccer Stadium, Ibaraki
+(19)  6 June   Cameroon        1-0    Saudi Arabia   @ Saitama Stadium, Saitama
+(35) 11 June   Cameroon        0-2    Germany   @ Shizuoka Stadium, Shizuoka
+(36) 11 June   Saudi Arabia    0-3    Ireland   @ International Stadium Yokohama, Yokohama
+
+Group F:
+
+(5)   2 June   England      1-1    Sweden   @ Saitama Stadium, Saitama
+(7)   2 June   Argentina    1-0    Nigeria   @ Kashima Soccer Stadium, Ibaraki
+(21)  7 June   Sweden       2-1    Nigeria   @ Kobe Wing Stadium, Kobe
+(23)  7 June   Argentina    0-1    England   @ Sapporo Dome, Sapporo
+(37) 12 June   Sweden       1-1    Argentina   @ Miyagi Stadium, Miyagi
+(38) 12 June   Nigeria      0-0    England   @ Nagai Stadium, Osaka
+
+Group G:
+
+(9)   3 June    Croatia    0-1    Mexico    @ Niigata Stadium, Niigata
+(11)  3 June    Italy      2-0    Ecuador   @ Sapporo Dome, Sapporo
+(25)  8 June    Italy      1-2    Croatia   @ Kashima Soccer Stadium, Ibaraki
+(27)  9 June    Mexico     2-1    Ecuador   @ Miyagi Stadium, Miyagi
+(43) 13 June    Mexico     1-1    Italy     @ Ōita Stadium, Ōita
+(44) 13 June    Ecuador    1-0    Croatia   @ International Stadium Yokohama, Yokohama
+
+Group H:
+
+(13)  4 June    Japan       2-2    Belgium   @ Saitama Stadium, Saitama
+(15)  5 June    Russia      2-0    Tunisia   @ Kobe Wing Stadium, Kobe
+(29)  9 June    Japan       1-0    Russia    @ International Stadium Yokohama, Yokohama
+(31) 10 June    Tunisia     1-1    Belgium   @ Ōita Stadium, Ōita
+(45) 14 June    Tunisia     0-2    Japan     @ Nagai Stadium, Osaka
+(46) 14 June    Belgium     3-2    Russia    @ Shizuoka Stadium, Shizuoka
+

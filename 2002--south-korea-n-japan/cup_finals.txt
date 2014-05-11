@@ -1,0 +1,43 @@
+####################################################
+# World Cup 2002 Korea n Japan, 31 May - 30 June
+
+
+# --- Knockout stage
+
+Round of 16
+
+(49) 15 June   Germany    1-0    Paraguay   @ Jeju World Cup Stadium, Jeju
+(50) 15 June   Denmark    0-3    England    @ Niigata Stadium, Niigata
+
+(51) 16 June   Sweden    1-2 aet 1-1  Senegal  @ Ōita Stadium, Ōita
+(52) 16 June   Spain     3-2pen 1-1aet 1-1   Ireland  @ Suwon World Cup Stadium, Suwon
+
+(53) 17 June   Mexico    0-2    United States  @ Jeonju World Cup Stadium, Jeonju
+(54) 17 June   Brazil    2-0    Belgium        @ Kobe Wing Stadium, Kobe
+
+(55) 18 June   Japan     0-1    Turkey         @ Miyagi Stadium, Miyagi
+(56) 18 June   South Korea    2-1aet 1-1    Italy   @ Daejeon World Cup Stadium, Daejeon
+
+
+Quarter-finals
+
+(57) 21 June   England    1-2    Brazil    @ Shizuoka Stadium, Shizuoka
+(58) 21 June   Germany    1-0    United States   @ Munsu Cup Stadium, Ulsan
+
+(59) 22 June   Spain    3-5pen 0-0aet 0-0    South Korea  @ Gwangju World Cup Stadium, Gwangju
+(60) 22 June   Senegal    0-1aet 0-0   Turkey    @ Nagai Stadium, Osaka
+
+
+Semi-finals
+
+(61) 25 June   Germany    1-0    South Korea   @ Seoul World Cup Stadium, Seoul
+(62) 26 June   Brazil    1-0    Turkey        @ Saitama Stadium, Saitama
+
+Third place play-off
+
+(63) 29 June   South Korea    2-3    Turkey    @ Daegu World Cup Stadium, Daegu
+
+
+Final
+
+(64) 30 June   Germany    0-2    Brazil        @ International Stadium Yokohama, Yokohama
