@@ -1,0 +1,134 @@
+#############################################
+# World Cup 1982 Spain 13 June - 11 July
+
+
+Group 1  |  Poland        Italy        Cameroon        Peru
+Group 2  |  West Germany  Austria      Algeria         Chile
+Group 3  |  Belgium       Argentina    Hungary         El Salvador
+Group 4  |  England       France       Czechoslovakia  Kuwait
+Group 5  |  Northern Ireland   Spain   Yugoslavia     Honduras
+Group 6  |  Brazil        Soviet Union  Scotland      New Zealand
+
+
+Group 1:
+
+(2)  14 June   Italy     0-0    Poland     @ Balaídos, Vigo
+(4)  15 June   Peru      0-0    Cameroon   @ Estadio de Riazor, A Coruña
+
+(13) 18 June   Italy     1-1    Peru         @ Balaídos, Vigo
+(16) 19 June   Poland    0-0    Cameroon   @ Estadio de Riazor, A Coruña
+
+(25) 22 June   Poland    5-1    Peru     @ Estadio de Riazor, A Coruña
+(28) 23 June   Italy     1-1    Cameroon   @ Balaídos, Vigo
+
+
+Group 2:
+
+(7)  16 June   West Germany    1-2    Algeria  @ El Molinón, Gijón
+(10) 17 June   Chile           0-1    Austria  @ Estadio Carlos Tartiere, Oviedo
+
+(19) 20 June   West Germany    4-1    Chile   @ El Molinón, Gijón
+(22) 21 June   Algeria         0-2    Austria   @ Estadio Carlos Tartiere, Oviedo
+
+(31) 24 June   Algeria         3-2    Chile   @ Estadio Carlos Tartiere, Oviedo
+(34) 25 June   West Germany    1-0    Austria  @ El Molinón, Gijón
+
+
+Group 3:
+
+(1)  13 June   Argentina    0-1    Belgium    @ Camp Nou, Barcelona
+(5)  15 June   Hungary     10-1    El Salvador  @ Nuevo Estadio, Elche
+
+(14) 18 June   Argentina    4-1    Hungary    @ Estadio José Rico Pérez, Alicante
+(17) 19 June   Belgium      1-0    El Salvador  @ Nuevo Estadio, Elche
+
+(26) 22 June   Belgium      1-1    Hungary        @ Nuevo Estadio, Elche
+(29) 23 June   Argentina    2-0    El Salvador  @ Estadio José Rico Pérez, Alicante
+
+
+Group 4:
+
+(8)  16 June   England         3-1    France   @ Estadio San Mamés, Bilbao
+(11) 17 June   Czechoslovakia  1-1    Kuwait  @ Estadio José Zorrilla, Valladolid
+
+(20) 20 June   England         2-0    Czechoslovakia   @ Estadio San Mamés, Bilbao
+(23) 21 June   France          4-1    Kuwait           @ Estadio José Zorrilla, Valladolid
+
+(32) 24 June   France          1-1    Czechoslovakia   @ Estadio José Zorrilla, Valladolid
+(35) 25 June   England         1-0    Kuwait           @ Estadio San Mamés, Bilbao
+
+
+Group 5:
+
+(9)  16 June   Spain           1-1    Honduras     @ Estadio Luis Casanova, Valencia
+(12) 17 June   Yugoslavia      0-0    Northern Ireland  @ La Romareda, Zaragoza
+
+(21) 20 June   Spain           2-1    Yugoslavia   @ Estadio Luis Casanova, Valencia
+(24) 21 June   Honduras        1-1    Northern Ireland  @ La Romareda, Zaragoza
+
+(33) 24 June   Honduras        0-1    Yugoslavia    @ La Romareda, Zaragoza
+(36) 25 June   Spain           0-1    Northern Ireland  @ Estadio Luis Casanova, Valencia
+
+
+Group 6:
+
+(3)  14 June   Brazil          2-1    Soviet Union   @ Estadio Ramón Sánchez Pizjuán, Seville
+(6)  15 June   Scotland        5-2    New Zealand  @ Estadio La Rosaleda, Málaga
+
+(15) 18 June   Brazil          4-1    Scotland   @ Estadio Benito Villamarín, Seville
+(18) 19 June   Soviet Union    3-0    New Zealand   @ Estadio La Rosaleda, Málaga
+
+(27) 22 June   Soviet Union    2-2    Scotland   @ Estadio La Rosaleda, Málaga
+(30) 23 June   Brazil          4-0    New Zealand    @ Estadio Benito Villamarín, Seville
+
+
+#### Second Round
+## todo/fix: add stage/add stage key to rounds
+
+Group A  |  Poland         Soviet Union    Belgium
+Group B  |  West Germany   England         Spain
+Group C  |  Italy          Brazil          Argentina
+Group D  |  France         Austria         Northern Ireland
+
+
+Group A:
+
+(38) 28 June   Poland          3-0    Belgium        @ Camp Nou, Barcelona
+(42) 1 July    Belgium         0-1    Soviet Union   @ Camp Nou, Barcelona
+(46) 4 July    Soviet Union    0-0    Poland   @ Camp Nou, Barcelona
+
+Group B:
+
+(40) 29 June   West Germany    0-0    England  @ Estadio Santiago Bernabéu, Madrid
+(44) 2 July    West Germany    2-1    Spain    @ Estadio Santiago Bernabéu, Madrid
+(48) 5 July    Spain           0-0    England          @ Estadio Santiago Bernabéu, Madrid
+
+Group C:
+
+(39) 29 June   Italy        2-1    Argentina      @ Estadio Sarriá, Barcelona
+(43) 2 July    Argentina    1-3    Brazil     @ Estadio Sarriá, Barcelona
+(47) 5 July    Italy         3-2    Brazil         @ Estadio Sarriá, Barcelona
+
+Group D:
+
+(37) 28 June   Austria           0-1    France    @ Estadio Vicente Calderón, Madrid
+(41) 1 July    Austria           2-2    Northern Ireland   @ Estadio Vicente Calderón, Madrid
+(45) 4 July    Northern Ireland  1-4    France   @ Estadio Vicente Calderón, Madrid
+
+
+# -- Knockout stage
+
+Semi-finals
+
+(49) 8 July    Poland        0-2    Italy   @ Camp Nou, Barcelona
+(50) 8 July    West Germany  5-4pen 3-3aet 1-1  France  @ Estadio Ramón Sánchez Pizjuán, Seville
+
+
+Third place match
+
+(51) 10 July   Poland    3-2    France  @ Estadio José Rico Pérez, Alicante
+
+Final
+
+(52) 11 July   Italy     3-1    West Germany   @ Estadio Santiago Bernabéu
+
