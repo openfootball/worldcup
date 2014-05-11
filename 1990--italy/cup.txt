@@ -1,0 +1,65 @@
+#######################################################
+# World Cup 1990 Italy, 8 June - 8 July 1990
+
+Group A  |  Italy         Czechoslovakia   Austria    United States
+Group B  |  Cameroon      Romania          Argentina  Soviet Union
+Group C  |  Brazil        Costa Rica       Scotland   Sweden
+Group D  |  West Germany  Yugoslavia       Colombia   United Arab Emirates
+Group E  |  Spain         Belgium          Uruguay      South Korea
+Group F  |  England       Ireland          Netherlands  Egypt
+
+
+
+Group A:
+
+(3)   9 June   Italy      1-0    Austria   @ Stadio Olimpico, Rome
+(5)  10 June  United States    1-5    Czechoslovakia  @ Stadio Comunale, Florence
+(15) 14 June  Italy      1-0    United States   @ Stadio Olimpico, Rome
+(17) 15 June  Austria    0-1    Czechoslovakia  @ Stadio Comunale, Florence
+(29) 19 June  Italy      2-0    Czechoslovakia    @ Stadio Olimpico, Rome
+(30) 19 June  Austria    2-1    United States   @ Stadio Comunale, Florence
+
+Group B:
+
+(1)   8 June   Argentina       0-1    Cameroon   @ San Siro, Milan
+(2)   9 June   Soviet Union    0-2    Romania  @ Stadio San Nicola, Bari
+(13) 13 June  Argentina       2-0    Soviet Union  @ Stadio San Paolo, Naples
+(16) 14 June  Cameroon        2-1    Romania   @ Stadio San Nicola, Bari
+(25) 18 June  Argentina       1-1    Romania  @ Stadio San Paolo, Naples
+(26) 18 June  Cameroon        0-4    Soviet Union   @ Stadio San Nicola, Bari
+
+Group C:
+
+(6)  10 June   Brazil        2-1    Sweden    @ Stadio Delle Alpi, Turin
+(8)  11 June   Costa Rica    1-0    Scotland  @ Stadio Luigi Ferraris, Genoa
+(19) 16 June   Brazil        1-0    Costa Rica  @ Stadio Delle Alpi, Turin
+(20) 16 June   Sweden        1-2    Scotland   @ Stadio Luigi Ferraris, Genoa
+(31) 20 June   Brazil        1-0    Scotland   @ Stadio Delle Alpi, Turin
+(32) 20 June   Sweden        1-2    Costa Rica  @ Stadio Luigi Ferraris, Genoa
+
+Group D:
+
+(4)   9 June    United Arab Emirates    0-2    Colombia  @ Stadio Renato Dall'Ara, Bologna
+(7)  10 June   West Germany    4-1    Yugoslavia  @ San Siro, Milan
+(14) 14 June   Yugoslavia      1-0    Colombia  @ Stadio Renato Dall'Ara, Bologna
+(18) 15 June   West Germany    5-1    United Arab Emirates  @ San Siro, Milan
+(27) 19 June   West Germany    1-1    Colombia   @ San Siro, Milan
+(28) 19 June   Yugoslavia      4-1    United Arab Emirates  @ Stadio Renato Dall'Ara, Bologna
+
+Group E:
+
+(10)  12 June    Belgium       2-0    South Korea  @ Stadio Marc'Antonio Bentegodi, Verona
+(12)  13 June    Uruguay       0-0    Spain   @ Stadio Friuli, Udine
+(23)  17 June    Belgium       3-1    Uruguay   @ Stadio Marc'Antonio Bentegodi, Verona
+(24)  17 June    South Korea   1-3    Spain   @ Stadio Friuli, Udine
+(33)  21 June    Belgium       1-2    Spain    @ Stadio Marc'Antonio Bentegodi, Verona
+(34)  21 June    South Korea   0-1    Uruguay  @ Stadio Friuli, Udine
+
+Group F:
+
+(9)  11 June    England      1-1    Ireland     @ Stadio Sant'Elia, Cagliari
+(11) 12 June    Netherlands  1-1    Egypt   @ Stadio La Favorita, Palermo
+(21) 16 June    England      0-0    Netherlands   @ Stadio Sant'Elia, Cagliari
+(22) 17 June    Ireland      0-0    Egypt        @ Stadio La Favorita, Palermo
+(35) 21 June    England      1-0    Egypt        @ Stadio Sant'Elia, Cagliari
+(36) 21 June    Ireland      1-1    Netherlands   @ Stadio La Favorita, Palermo

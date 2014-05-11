@@ -1,0 +1,37 @@
+##############################################
+# World Cup 1986 Mexico, 31 May-29 June
+
+
+### --- Knockout stage
+
+Round of 16
+
+(37) 15 June   Mexico       2-0    Bulgaria   @ Estadio Azteca, Mexico City
+(38) 15 June   Soviet Union  3-4 a.e.t.  2-2   Belgium  @ Estadio Nou Camp, León
+(39) 16 June   Argentina    1-0    Uruguay  @ Estadio Cuauhtémoc, Puebla
+(40) 16 June   Brazil       4-0    Poland     @ Estadio Jalisco, Guadalajara
+(41) 17 June   Italy      0-2    France       @ Estadio Olímpico Universitario, Mexico City
+(42) 17 June   Morocco    0-1    West Germany  @ Estadio Universitario, Monterrey
+(43) 18 June   England    3-0    Paraguay   @ Estadio Azteca, Mexico City
+(44) 18 June   Denmark    1-5    Spain      @ Estadio La Corregidora, Querétaro
+
+
+Quarter-finals
+
+(45) 21 June    Brazil  3-4pen 1-1aet 1-1  France          @ Estadio Jalisco, Guadalajara
+(46) 21 June    West Germany  4-1pen 0-0 aet 0-0  Mexico   @ Estadio Universitario, Monterrey
+(47) 22 June    Spain    4-5pen 1-1 aet 1-1    Belgium      @ Estadio Cuauhtémoc, Puebla
+(48) 22 June    Argentina    2-1    England              @ Estadio Azteca, Mexico City
+
+Semi-finals
+
+(49) 25 June    Argentina    2-0    Belgium      @ Estadio Azteca, Mexico City
+(50) 25 June    France       0-2    West Germany     @ Estadio Jalisco, Guadalajara
+
+Third place match
+
+(51) 28 June    France   4-2aet 2-2   Belgium      @ Estadio Cuauhtémoc, Puebla
+
+Final
+
+(52) 29 June    Argentina    3-2    West Germany  @ Estadio Azteca, Mexico City

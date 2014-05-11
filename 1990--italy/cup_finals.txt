@@ -1,0 +1,43 @@
+#######################################################
+# World Cup 1990 Italy, 8 June - 8 July 1990
+
+
+# --- Knockout stage
+
+Round of 16
+
+(37) 23 June   Cameroon    2-1 a.e.t. 0-0    Colombia   @ Stadio San Paolo, Naples
+(38) 23 June   Czechoslovakia    4-1    Costa Rica     @ Stadio San Nicola, Bari
+
+(39) 24 June   Brazil          0-1    Argentina   @ Stadio Delle Alpi, Turin
+(40) 24 June   West Germany    2-1    Netherlands  @ San Siro, Milan
+
+(41) 25 June   Ireland   5-4pen  0-0 a.e.t. 0-0   Romania  @ Stadio Luigi Ferraris, Genoa
+(42) 25 June   Italy    2-0    Uruguay    @ Stadio Olimpico, Rome
+
+(43) 26 June   Spain    1-2 a.e.t. 1-1  Yugoslavia  @ Stadio Marc'Antonio Bentegodi, Verona
+(44) 26 June   England    1-0 a.e.t. 0-0  Belgium   @ Stadio Renato Dall'Ara, Bologna
+
+
+Quarter-finals
+
+(45) 30 June    Yugoslavia   2-3pen   0-0 a.e.t. 0-0    Argentina  @ Stadio Artemio Franchi, Florence
+(46) 30 June    Italy        1-0     Ireland  @ Stadio Olimpico, Rome
+(47) 1 July     West Germany    1-0    Czechoslovakia  @ San Siro, Milan
+(48) 1 July     England    3-2 a.e.t.  2-2    Cameroon  @ Stadio San Paolo, Naples
+
+
+Semi-finals
+
+(49) 3 July     Italy    3-4pen  1-1 a.e.t. 1-1    Argentina  @ Stadio San Paolo, Naples
+(50) 4 July     West Germany   4-3pen   1-1 a.e.t.    England  @ Stadio delle Alpi, Turin
+
+Third place match
+
+(51) 7 July     Italy    2-1    England   @ Stadio San Nicola, Bari
+
+
+Final
+
+(52) 8 July     West Germany    1-0    Argentina   @ Stadio Olimpico, Rome
+
