@@ -1,0 +1,102 @@
+##############################################
+# World Cup 1986 Mexico, 31 May-29 June
+
+Group A  |  Argentina     Italy     Bulgaria          South Korea
+Group B  |  Mexico        Paraguay  Belgium           Iraq
+Group C  |  Soviet Union  France    Hungary           Canada
+Group D  |  Brazil        Spain     Northern Ireland  Algeria
+Group E  |  Denmark       West Germany  Uruguay       Scotland
+Group F  |  Morocco       England   Poland            Portugal
+
+
+
+Group A:
+
+(1)  31 May   Bulgaria       1-1    Italy   @ Estadio Azteca, Mexico City
+(4)   2 June   Argentina      3-1    South Korea  @ Estadio Olímpico Universitario, Mexico City
+(13)  5 June   Italy          1-1    Argentina   @ Estadio Cuauhtémoc, Puebla
+(14)  5 June   South Korea    1-1    Bulgaria  @ Estadio Olímpico Universitario, Mexico City
+(27) 10 June  South Korea    2-3    Italy  @ Estadio Cuauhtémoc, Puebla
+(28) 10 June  Argentina      2-0    Bulgaria @ Estadio Olímpico Universitario, Mexico City
+
+Group B:
+
+(7)  3 June   Belgium       1-2    Mexico   @ Estadio Azteca, Mexico City
+(10) 4 June   Paraguay      1-0    Iraq     @ Estadio Nemesio Díez, Toluca
+(19) 7 June   Mexico        1-1    Paraguay   @ Estadio Azteca, Mexico City
+(22) 8 June   Iraq          1-2    Belgium      @ Estadio Nemesio Díez, Toluca
+(29) 11 June  Iraq          0-1    Mexico       @ Estadio Azteca, Mexico City
+(30) 11 June  Paraguay      2-2    Belgium  @ Estadio Nemesio Díez, Toluca
+
+Group C:
+
+(2)  1 June   Canada          0-1    France         @ Estadio Nou Camp, León
+(5)  2 June   Soviet Union    6-0    Hungary  @ Estadio Sergio León Chavez, Irapuato
+(15) 5 June   France          1-1    Soviet Union   @ Estadio Nou Camp, León
+(16) 6 June   Hungary         2-0    Canada       @ Estadio Sergio León Chavez, Irapuato
+(25) 9 June   Hungary         0-3    France       @ Estadio Nou Camp, León
+(26) 9 June   Soviet Union    2-0    Canada   @ Estadio Sergio León Chavez, Irapuato
+
+Group D:
+
+(3)  1 June   Spain               0-1    Brazil   @ Estadio Jalisco, Guadalajara
+(8)  3 June   Algeria             1-1    Northern Ireland  @ Estadio Tres de Marzo, Guadalajara
+(17) 6 June   Brazil              1-0    Algeria  @ Estadio Jalisco, Guadalajara
+(20) 7 June   Northern Ireland    1-2    Spain   @ Estadio Tres de Marzo, Guadalajara
+(33) 12 June  Northern Ireland    0-3    Brazil  @ Estadio Jalisco, Guadalajara
+(34) 12 June  Algeria             0-3    Spain   @ Estadio Tecnológico, Monterrey
+
+Group E:
+
+(11) 4 June  Uruguay         1-1    West Germany    @ Estadio La Corregidora, Querétaro
+(12) 4 June  Scotland        0-1    Denmark       @ Estadio Neza 86, Nezahualcóyotl
+(23) 8 June  West Germany    2-1    Scotland  @ Estadio La Corregidora, Querétaro
+(24) 8 June  Denmark         6-1    Uruguay         @ Estadio Neza 86, Nezahualcóyotl
+(35) 13 June Denmark         2-0    West Germany    @ Estadio La Corregidora, Querétaro
+(36) 13 June Scotland        0-0    Uruguay       @ Estadio Neza 86, Nezahualcóyotl
+
+Group F:
+
+(6)  2 June   Morocco     0-0    Poland     @ Estadio Universitario, Monterrey
+(9)  3 June   Portugal    1-0    England    @ Estadio Tecnológico, Monterrey
+(18) 6 June   England     0-0    Morocco    @ Estadio Tecnológico, Monterrey
+(21) 7 June   Poland      1-0    Portugal     @ Estadio Universitario, Monterrey
+(31) 11 June  Portugal    1-3    Morocco    @ Estadio Tres de Marzo, Guadalajara
+(32) 11 June  England     3-0    Poland     @ Estadio Tecnológico, Monterrey
+
+
+### --- Knockout stage
+
+Round of 16
+
+(37) 15 June   Mexico       2-0    Bulgaria   @ Estadio Azteca, Mexico City
+(38) 15 June   Soviet Union  3-4 a.e.t.  2-2   Belgium  @ Estadio Nou Camp, León
+(39) 16 June   Argentina    1-0    Uruguay  @ Estadio Cuauhtémoc, Puebla
+(40) 16 June   Brazil       4-0    Poland     @ Estadio Jalisco, Guadalajara
+(41) 17 June   Italy      0-2    France       @ Estadio Olímpico Universitario, Mexico City
+(42) 17 June   Morocco    0-1    West Germany  @ Estadio Universitario, Monterrey
+(43) 18 June   England    3-0    Paraguay   @ Estadio Azteca, Mexico City
+(44) 18 June   Denmark    1-5    Spain      @ Estadio La Corregidora, Querétaro
+
+
+Quarter-finals
+
+(45) 21 June    Brazil  3-4pen 1-1aet 1-1  France          @ Estadio Jalisco, Guadalajara
+(46) 21 June    West Germany  4-1pen 0-0 aet 0-0  Mexico   @ Estadio Universitario, Monterrey
+(47) 22 June    Spain    4-5pen 1-1 aet 1-1    Belgium      @ Estadio Cuauhtémoc, Puebla
+(48) 22 June    Argentina    2-1    England              @ Estadio Azteca, Mexico City
+
+Semi-finals
+
+(49) 25 June    Argentina    2-0    Belgium      @ Estadio Azteca, Mexico City
+(50) 25 June    France       0-2    West Germany     @ Estadio Jalisco, Guadalajara
+
+Third place match
+
+(51) 28 June    France   4-2aet 2-2   Belgium      @ Estadio Cuauhtémoc, Puebla
+
+Final
+
+(52) 29 June    Argentina    3-2    West Germany  @ Estadio Azteca, Mexico City
+
+
