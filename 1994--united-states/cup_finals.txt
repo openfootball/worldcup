@@ -1,0 +1,43 @@
+########################################################
+# World Cup 1994 United States, 17 June - 17 July 1994
+
+
+# --- Knockout stage
+
+Round of 16
+
+(37)  2 July   Germany       3-2    Belgium      @ Soldier Field, Chicago
+(38)  2 July   Spain         3-0    Switzerland  @ RFK Stadium, Washington
+
+(39)  3 July   Saudi Arabia  1-3    Sweden      @ Cotton Bowl, Dallas
+(40)  3 July   Romania       3-2    Argentina   @ Rose Bowl, Pasadena
+
+(41)  4 July   Netherlands   2-0    Ireland        @ Citrus Bowl, Orlando
+(42)  4 July   Brazil        1-0    United States  @ Stanford Stadium, Stanford
+
+(43)  5 July   Nigeria    1-2 a.e.t. 1-1    Italy  @ Foxboro Stadium, Foxborough
+(44)  5 July   Mexico  1-3pen 1-1 a.e.t. 1-1    Bulgaria  @ Giants Stadium, East Rutherford
+
+
+Quarter-finals
+
+(45)  9 July   Italy         2-1    Spain    @ Foxboro Stadium, Foxborough
+(46)  9 July   Netherlands   2-3    Brazil   @ Cotton Bowl, Dallas
+
+(47) 10 July  Bulgaria      2-1    Germany   @ Giants Stadium, East Rutherford
+(48) 10 July  Romania    4-5pen 2-2aet 1-1   Sweden  @ Stanford Stadium, Stanford
+
+
+Semi-finals
+
+(49) 13 July  Bulgaria    1-2    Italy     @ Giants Stadium, East Rutherford
+(50) 13 July  Sweden      0-1    Brazil    @ Rose Bowl, Pasadena
+
+Third-place match
+
+(51) 16 July  Sweden    4-0    Bulgaria   @ Rose Bowl, Pasadena
+
+Final
+
+(52) 17 July  Brazil    3-2pen 0-0 aet 0-0    Italy  @ Rose Bowl, Pasadena
+
