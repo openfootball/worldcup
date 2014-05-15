@@ -4,6 +4,7 @@
 # -- add seasons 1930-2000 (not builtin before 2000)
 world-cup!/seasons_history
 
-# -- Uruguay 1930
+
 world-cup!/1930--uruguay/cup
+world-cup!/1934--italy/cup
 
