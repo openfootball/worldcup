@@ -7,4 +7,9 @@ world-cup!/seasons_history
 
 world-cup!/1930--uruguay/cup
 world-cup!/1934--italy/cup
+world-cup!/1938--france/cup
+world-cup!/1950--brazil/cup
+world-cup!/1954--switzerland/cup
+world-cup!/1958--sweden/cup
+world-cup!/1962--chile/cup
 

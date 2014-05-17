@@ -6,6 +6,9 @@
 #  add replays to round parser
 
 # todo: use match number - why? why not?
+#  use match number (match total+offset)
+#   eg. 24+1 => 25, 24+2 => 26 etc.
+
 #  how to deal w/ walkout ??
 
 
@@ -19,7 +22,12 @@ First round
 (6) 5 June     Brazil          6-5aet 4-4   Poland             @ Stade de la Meinau, Strasbourg
 (7) 5 June     Czechoslovakia  3-0aet 0-0  Netherlands        @ Stade municipal, Le Havre
 
-5 June     Sweden         - (*)        Austria            @ Stade Gerland, Lyon
+# include walkout? why? why not?
+#  what match number to use?  - same as replay? 24+3 ?
+# - use no match number?  (add new num for match number?) use pos only for internal-use (e.g sort order)?
+
+
+# 5 June     Sweden         - (*)        Austria            @ Stade Gerland, Lyon
 # (*) w/o - walkout 
 
 First round replays

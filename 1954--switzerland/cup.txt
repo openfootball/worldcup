@@ -28,11 +28,12 @@ Group 2:
 (14) 20 June    Hungary         8-3   West Germany   @ St. Jakob Stadium, Basel
 (15) 20 June    Turkey          7-0   South Korea    @ Charmilles Stadium, Geneva
 
-Group 2 Play-off
+Group-2 Play-off
 
-### what match number to use - fifa says 231??
+### what match number to use - fifa says 231?? use 24+1=>25 for now
+# note: use Group-2 Play-off e.g. Group-2 instead of Group 2 to avoid group match in round header - fix!!!
 
-23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
+(25) 23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
 
 
 Group 3:
@@ -52,11 +53,12 @@ Group 4:
 (13) 20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
 (16) 20 June    Italy            4-1  Belgium         @ Cornaredo Stadium, Lugano
 
-Group 4 Play-off
+Group-4 Play-off
 
-### what match number to use - fifa says 211??
+### what match number to use - fifa says 211?? - use 24+2=>26 for now
+# note: use Group-4 Play-off e.g. Group-4 instead of Group 4 to avoid group match in round header - fix!!!
 
-23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
+(26) 23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
 
 
 Quarter-finals
