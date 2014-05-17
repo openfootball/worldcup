@@ -1,0 +1,32 @@
+##########################################
+# World Cup 1966 England, 11 - 30 July
+
+league: world
+season: 1966
+start_at: 1966-07-11
+
+##
+# fix: add edition: or num:  e.g. num: 8 or edition: 8
+
+# 16 Teams
+teams:
+# -- Asia
+- prk # North Korea
+# -- Europe
+- bul # Bulgaria
+- eng # England
+- fra # France
+- frg # West Germany
+- hun # Hungary
+- ita # Italy
+- por # Portugal
+- urs # Soviet Union
+- esp # Spain
+- sui # Switzerland
+# -- North and Central America
+- mex # Mexico
+# -- South America
+- arg # Argentina
+- bra # Brazil
+- chi # Chile
+- uru # Uruguay
