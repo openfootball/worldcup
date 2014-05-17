@@ -1,0 +1,32 @@
+###########################################
+# World Cup 1978 Argentina, 1 - 25 June
+
+league: world
+season: 1978
+start_at: 1978-05-01
+
+
+# 16 Teams
+teams:
+## -- Africa
+- tun # Tunisia
+## -- Asia
+- irn # Iran
+##  -- Europe
+- aut # Austria
+- fra # France
+- frg # West Germany
+- hun # Hungary
+- ita # Italy
+- ned # Netherlands
+- pol # Poland
+- sco # Scotland
+- esp # Spain
+- swe # Sweden
+#  -- North and Central America
+- mex # Mexico
+# -- South America
+- arg # Argentina
+- bra # Brazil
+- per # Peru
+

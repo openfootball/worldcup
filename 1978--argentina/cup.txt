@@ -9,7 +9,6 @@ Group 4  |   Peru     Netherlands   Scotland   Iran
 
 
 
-
 Group 1:
 
 (2)  2 June   Argentina    2-1    Hungary  @ Estadio Monumental, Buenos Aires
@@ -61,11 +60,15 @@ Group 4:
 #### Second Round
 ## todo/fix: add stage/add stage key to rounds
 
-Group A  |  Netherlands   Italy     West Germany   Austria
-Group B  |  Argentina     Brazil    Poland         Peru
+#
+# Group A -> I
+# Group B -> J   - fix: use Group A,B etc.
+
+Group I  |  Netherlands   Italy     West Germany   Austria
+Group J  |  Argentina     Brazil    Poland         Peru
 
 
-Group A:
+Group I:
 
 (25) 14 June   Italy          0-0    West Germany  @ Estadio Monumental, Buenos Aires
 (27) 14 June   Austria        1-5    Netherlands   @ Estadio Chateau Carreras, Córdoba
@@ -77,7 +80,7 @@ Group A:
 (35) 21 June   Austria        3-2    West Germany   @ Estadio Chateau Carreras, Córdoba
 
 
-Group B:
+Group J:
 
 (26) 14 June   Argentina      2-0    Poland    @ Estadio Gigante de Arroyito, Rosario
 (28) 14 June   Peru           0-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza

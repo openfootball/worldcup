@@ -1,5 +1,5 @@
 ###########
-# History 
+# History
 
 # -- add seasons 1930-2000 (not builtin before 2000)
 world-cup!/seasons_history
@@ -14,5 +14,7 @@ world-cup!/seasons_history
 # world-cup!/1962--chile/cup
 # world-cup!/1966--england/cup
 # world-cup!/1970--mexico/cup
+# world-cup!/1974--west-germany/cup
 
-world-cup!/1974--west-germany/cup
+world-cup!/1978--argentina/cup
+
