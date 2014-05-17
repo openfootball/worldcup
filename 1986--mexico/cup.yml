@@ -1,0 +1,40 @@
+##############################################
+# World Cup 1986 Mexico, 31 May-29 June
+
+league: world
+season: 1986
+start_at: 1986-05-31
+
+
+# 24 Teams
+teams:
+# -- Africa
+- alg # Algeria
+- mar # Morocco
+# -- Asia
+- irq # Iraq
+- kor # South Korea
+# -- Europe
+- bel # Belgium
+- bul # Bulgaria
+- den # Denmark
+- eng # England
+- fra # France
+- frg # West Germany
+- hun # Hungary
+- ita # Italy
+- nir # Northern Ireland
+- pol # Poland
+- por # Portugal
+- sco # Scotland
+- urs # Soviet Union
+- esp # Spain
+# -- North and Central America
+- can # Canada
+- mex # Mexico
+# -- South America
+- arg # Argentina
+- bra # Brazil
+- par # Paraguay
+- uru # Uruguay
+
