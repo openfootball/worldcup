@@ -57,11 +57,14 @@ Group 4:
 
 #### Second Round
 ## todo/fix: add stage/add stage key to rounds
+#
+# Group A -> I
+# Group B -> J   - fix: use Group A,B etc.
 
-Group A  |  Netherlands     Brazil     East Germany     Argentina
-Group B  |  West Germany    Poland     Sweden           Yugoslavia
+Group I  |  Netherlands     Brazil     East Germany     Argentina
+Group J  |  West Germany    Poland     Sweden           Yugoslavia
 
-Group A:
+Group I:
 
 (25) 26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
 (26) 26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
@@ -72,7 +75,7 @@ Group A:
 (33) 3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
 (34) 3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
 
-Group B:
+Group J:
 
 (27) 26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
 (28) 26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart
@@ -86,6 +89,7 @@ Group B:
 
 Match for third place
 
+# fix: use Muenchen not Munich 
 (37) 6 July     Brazil        0-1  Poland        @ Olympiastadion, Munich
 
 Final

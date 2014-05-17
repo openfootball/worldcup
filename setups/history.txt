@@ -13,6 +13,6 @@ world-cup!/seasons_history
 # world-cup!/1958--sweden/cup
 # world-cup!/1962--chile/cup
 # world-cup!/1966--england/cup
+# world-cup!/1970--mexico/cup
 
-world-cup!/1970--mexico/cup
-
+world-cup!/1974--west-germany/cup
