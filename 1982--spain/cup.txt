@@ -85,31 +85,37 @@ Group 6:
 #### Second Round
 ## todo/fix: add stage/add stage key to rounds
 
-Group A  |  Poland         Soviet Union    Belgium
-Group B  |  West Germany   England         Spain
-Group C  |  Italy          Brazil          Argentina
-Group D  |  France         Austria         Northern Ireland
+#
+# Group A -> I
+# Group B -> J   - fix: use Group A,B,C,D etc.
+# Group C -> K
+# Group D -> L
+
+Group I  |  Poland         Soviet Union    Belgium
+Group J  |  West Germany   England         Spain
+Group K  |  Italy          Brazil          Argentina
+Group L  |  France         Austria         Northern Ireland
 
 
-Group A:
+Group I:
 
 (38) 28 June   Poland          3-0    Belgium        @ Camp Nou, Barcelona
 (42) 1 July    Belgium         0-1    Soviet Union   @ Camp Nou, Barcelona
 (46) 4 July    Soviet Union    0-0    Poland   @ Camp Nou, Barcelona
 
-Group B:
+Group J:
 
 (40) 29 June   West Germany    0-0    England  @ Estadio Santiago Bernabéu, Madrid
 (44) 2 July    West Germany    2-1    Spain    @ Estadio Santiago Bernabéu, Madrid
 (48) 5 July    Spain           0-0    England          @ Estadio Santiago Bernabéu, Madrid
 
-Group C:
+Group K:
 
 (39) 29 June   Italy        2-1    Argentina      @ Estadio Sarriá, Barcelona
 (43) 2 July    Argentina    1-3    Brazil     @ Estadio Sarriá, Barcelona
 (47) 5 July    Italy         3-2    Brazil         @ Estadio Sarriá, Barcelona
 
-Group D:
+Group L:
 
 (37) 28 June   Austria           0-1    France    @ Estadio Vicente Calderón, Madrid
 (41) 1 July    Austria           2-2    Northern Ireland   @ Estadio Vicente Calderón, Madrid

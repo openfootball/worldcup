@@ -15,6 +15,7 @@ world-cup!/seasons_history
 # world-cup!/1966--england/cup
 # world-cup!/1970--mexico/cup
 # world-cup!/1974--west-germany/cup
+# world-cup!/1978--argentina/cup
 
-world-cup!/1978--argentina/cup
+world-cup!/1982--spain/cup
 
