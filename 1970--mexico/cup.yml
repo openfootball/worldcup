@@ -1,0 +1,30 @@
+#############################################
+# World Cup 1970 Mexico, 31 May - 21 June
+
+league: world
+season: 1970
+start_at: 1970-05-31
+
+# 16 Teams
+teams:
+# -- Africa
+- mar # Morocco
+# -- Europe
+- bel # Belgium
+- bul # Bulgaria
+- tch # Czechoslovakia
+- eng # England
+- frg # West Germany
+- isr # Israel
+- ita # Italy
+- rou # Romania
+- urs # Soviet Union
+- swe # Sweden
+# -- North and Central America
+- slv # El Salvador
+- mex # Mexico
+# -- South America
+- bra # Brazil
+- per # Peru
+- uru # Uruguay
+
