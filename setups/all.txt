@@ -1,14 +1,11 @@
 ###########
 # All
 
+# Note: just latest world cup - e.g. Brazil 2014 w/ Quali(fiers)
+#
+# -- use history.txt for all world cups
 
-# -- Germany 2006
-world-cup!/2006--germany/cup
-
-# -- South Afria 2010
-world-cup!/2010--south-africa/cup
-
-# -- Brazil 2014 Quali
+# -- Brazil 2014 Quali(fiers)
 world-cup!/2014--brazil/quali/africa
 world-cup!/2014--brazil/quali/asia
 world-cup!/2014--brazil/quali/europe
@@ -19,3 +16,4 @@ world-cup!/2014--brazil/quali/south_america
 
 # -- Brazil 2014
 world-cup!/2014--brazil/cup
+

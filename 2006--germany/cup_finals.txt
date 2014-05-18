@@ -1,7 +1,7 @@
 #############
 # Finals
 
-(16) Round of 16
+Round of 16
 
 (49)  Sat Jun/24    Germany      2-0 (2-0)  Sweden          @ Allianz Arena, München
 (50)  Sat Jun/24    Argentina    2-1nV (1-1, 1-1)  Mexico   @ Zentralstadion, Leipzig
@@ -13,7 +13,7 @@
 (56)  Tue Jun/27    Spain        1-3 (1-1)  France          @ AWD-Arena, Hannover
 
 
-(17) Quarterfinals
+Quarterfinals
 
 (57)  Fri Jun/30    Germany  4-2iE 1-1nV (1-1, 0-0)  Argentina   @ Olympiastadion, Berlin
 (58)  Fri Jun/30    Italy    3-0 (1-0)  Ukraine                  @ AOL Arena, Hamburg
@@ -21,18 +21,18 @@
 (60)  Sat Jul/1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
 
 
-(18) Semifinals
+Semifinals
 
 (61)  Tue Jul/4    Germany   0-2nV  Italy              @ Signal Iduna Park, Dortmund
 (62)  Wed Jul/5    Portugal  0-1 (0-1)  France         @ Allianz Arena, München
 
 
-(19) Third-place play-off
+Third-place play-off
 
 (63)  Sat Jul/8    Germany  3-1 (0-0)  Portugal         @ Gottlieb-Daimler-Stadion, Stuttgart
 
 
-(20) Final
+Final
 
 (64)  Sun Jul/9    Italy  5-3iE 1-1nV (1-1, 1-1)   France      @ Olympiastadion, Berlin
 
