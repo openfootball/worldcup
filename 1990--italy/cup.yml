@@ -1,0 +1,42 @@
+#######################################################
+# World Cup 1990 Italy, 8 June - 8 July 1990
+
+league: world
+season: 1990
+start_at: 1990-06-08
+
+fixtures:
+- cup
+- cup_finals
+
+# 24 Teams
+teams:
+# -- Africa
+- cmr # Cameroon
+- egy # Egypt
+# -- Asia
+- kor # South Korea
+- uae # United Arab Emirates
+# -- Europe
+- aut # Austria
+- bel # Belgium
+- tch # Czechoslovakia
+- eng # England
+- frg # West Germany
+- ita # Italy
+- ned # Netherlands
+- irl # Ireland
+- rou # Romania
+- sco # Scotland
+- urs # Soviet Union
+- esp # Spain
+- swe # Sweden
+- yug # Yugoslavia
+# -- North and Central America
+- crc # Costa Rica
+- usa # United States
+# -- South America
+- arg # Argentina
+- bra # Brazil
+- col # Colombia
+- uru # Uruguay

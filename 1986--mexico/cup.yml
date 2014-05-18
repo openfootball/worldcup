@@ -5,6 +5,9 @@ league: world
 season: 1986
 start_at: 1986-05-31
 
+fixtures:
+- cup
+- cup_finals
 
 # 24 Teams
 teams:
