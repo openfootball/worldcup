@@ -20,5 +20,7 @@ world-cup!/seasons_history
 # world-cup!/1986--mexico/cup
 # world-cup!/1990--italy/cup
 # world-cup!/1994--united-states/cup
+# world-cup!/1998--france/cup
 
-world-cup!/1998--france/cup
+world-cup!/2002--south-korea-n-japan/cup
+
