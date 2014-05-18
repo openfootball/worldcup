@@ -18,5 +18,6 @@ world-cup!/seasons_history
 # world-cup!/1978--argentina/cup
 # world-cup!/1982--spain/cup
 # world-cup!/1986--mexico/cup
+# world-cup!/1990--italy/cup
 
-world-cup!/1990--italy/cup
+world-cup!/1994--united-states/cup

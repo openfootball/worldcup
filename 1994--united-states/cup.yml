@@ -1,0 +1,42 @@
+########################################################
+# World Cup 1994 United States, 17 June - 17 July 1994
+
+league: world
+season: 1994
+start_at: 1994-06-17
+
+fixtures:
+- cup
+- cup_finals
+
+# 24 Teams
+teams:
+# -- Africa
+- cmr # Cameroon
+- mar # Morocco
+- nga # Nigeria
+# -- Asia
+- kor # South Korea
+- ksa # Saudi Arabia
+# -- Europe
+- bel # Belgium
+- bul # Bulgaria
+- ger # Germany
+- gre # Greece
+- ita # Italy
+- ned # Netherlands
+- nor # Norway
+- irl # Ireland
+- rou # Romania
+- rus # Russia
+- esp # Spain
+- swe # Sweden
+- sui # Switzerland
+# -- North and Central America
+- mex # Mexico
+- usa # United States
+# -- South America
+- arg # Argentina
+- bol # Bolivia
+- bra # Brazil
+- col # Colombia
