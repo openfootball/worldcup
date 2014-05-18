@@ -1,0 +1,50 @@
+#############################################
+# World Cup 1998 France, 10 June - 12 July
+
+league: world
+season: 1998
+start_at: 1998-06-10
+
+fixtures:
+- cup
+- cup_finals
+
+# 32 Teams
+teams:
+# -- Africa
+- cmr # Cameroon
+- mar # Morocco
+- nga # Nigeria
+- rsa # South Africa
+- tun # Tunisia
+# -- Asia
+- irn # Iran
+- jpn # Japan
+- kor # South Korea
+- ksa # Saudi Arabia
+# -- Europe
+- aut # Austria
+- bel # Belgium
+- bul # Bulgaria
+- cro # Croatia
+- den # Denmark
+- eng # England
+- fra # France
+- ger # Germany
+- ita # Italy
+- ned # Netherlands
+- nor # Norway
+- rou # Romania
+- sco # Scotland
+- esp # Spain
+- yug # Yugoslavia
+# -- North and Central America
+- jam # Jamaica
+- mex # Mexico
+- usa # USA
+# -- South America
+- arg # Argentina
+- bra # Brazil
+- chi # Chile
+- col # Colombia
+- par # Paraguay
