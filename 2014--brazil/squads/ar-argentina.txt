@@ -1,39 +1,41 @@
 ####################
+# Argentina
+#
+# Coaching Staff
+# - Head Coach: Alejandro Zabella
+
+
+####################
 # Goal Keepers
 
-- Sergio Romero
-- Mariano Andujar
-- Agustin Orion
+Sergio Romero
+Mariano Andujar
+Agustin Orion
 
 
 ####################
 # Defenders
 
-- Pablo Zabaleta
-- Federico Fernandez
-- Ezequiel Garay
-- Marcos Rojo
+Pablo Zabaleta
+Federico Fernandez
+Ezequiel Garay
+Marcos Rojo
 
 
 ####################
 # Midfielders
 
-- Angel Di Maria
-- Javier Mascherano
-- Fernando Gago
-- Ever Banega
+Angel Di Maria
+Javier Mascherano
+Fernando Gago
+Ever Banega
 
 
 ####################
 # Forwards
 
-- Lionel Messi
-- Sergio Aguero
-- Gonzalo Higuain
-- Ezequiel Lavezzi
+Lionel Messi
+Sergio Aguero
+Gonzalo Higuain
+Ezequiel Lavezzi
 
-
-####################
-# Coaching Staff
-
-- Head Coach: Alejandro Zabella
