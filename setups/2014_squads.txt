@@ -1,6 +1,11 @@
 #######################################################
 # All 32 World Cup Brazil 2014 Team Squads/Lineups
 
+## note:
+#  needs ref to event first!, thus match schedule goes first
+
+world-cup!/2014--brazil/cup
+
 
 world-cup!/2014--brazil/squads/ar-argentina
 world-cup!/2014--brazil/squads/au-australia
