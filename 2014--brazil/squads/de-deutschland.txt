@@ -1,5 +1,49 @@
+####################
+# Germany
+# 
+# Coaching Staff
+# - Head Coach:  Joachim Löw
 
-Mesut Özil
-Thomas Müller
-Bastian Schweinsteiger
 
+####################
+# Goal Keepers
+
+Manuel Neuer                  ## Bayern Munich
+Ron-Robert Zieler             ## Hannover 96
+Roman Weidenfeller            ## Borussia Dortmund
+
+####################
+# Defenders
+
+Philipp Lahm                  ## Bayern Munich
+Per Mertesacker               ## Arsenal
+Jérôme Boateng                ## Bayern Munich
+Mats Hummels                  ## Borussia Dortmund
+Benedikt Höwedes              ## Schalke 04
+Marcel Schmelzer              ## Borussia Dortmund
+Kevin Großkreutz              ## Borussia Dortmund
+Matthias Ginter               ## SC Freiburg
+Shkodran Mustafi              ## Sampdoria
+Erik Durm                     ## Borussia Dortmund
+
+####################
+# Midfielders
+
+Bastian Schweinsteiger        ## Bayern Munich
+Mesut Özil                    ## Arsenal
+Sami Khedira                  ## Real Madrid
+Toni Kroos                    ## Bayern Munich
+Mario Götze                   ## Bayern Munich
+Lars Bender                   ## Bayer Leverkusen
+Julian Draxler                ## Schalke 04
+Christoph Kramer              ## Borussia Mönchengladbach
+
+####################
+# Forwards
+
+Miroslav Klose                ## Lazio
+Lukas Podolski                ## Arsenal
+André Schürrle                ## Chelsea
+Marco Reus                    ## Borussia Dortmund
+Thomas Müller                 ## Bayern Munich
+Kevin Volland                 ## 1899 Hoffenheim

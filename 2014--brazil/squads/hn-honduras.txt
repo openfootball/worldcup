@@ -1,5 +1,45 @@
+####################
+# Honduras
+# 
+# Coaching Staff
+# - Head Coach:  Luis Fernando Suárez
 
-Maynor Figueroa
-Roger Espinoza
-Emilio Izaguirre
 
+####################
+# Goal Keepers
+
+Noel Valladares (captain)     ## Olimpia
+Donis Escober                 ## Olimpia
+Luis López                    ## Real España
+
+####################
+# Defenders
+
+Maynor Figueroa               ## Hull City
+Víctor Bernárdez              ## San Jose Earthquakes
+Emilio Izaguirre              ## Celtic
+Osman Chávez                  ## Qingdao Jonoon
+Juan Carlos García            ## Wigan Athletic
+Brayan Beckeles               ## Olimpia
+Juan Pablo Montes             ## Motagua
+
+####################
+# Midfielders
+
+Wilson Palacios               ## Stoke City
+Óscar García                  ## Houston Dynamo
+Jorge Claros                  ## Motagua
+Marvin Chávez                 ## Chivas USA
+Roger Espinoza                ## Wigan Athletic
+Mario Martínez                ## Real España
+Arnold Peralta                ## Rangers
+Luis Garrido                  ## Olimpia
+Andy Najar                    ## Anderlecht
+
+####################
+# Forwards
+
+Carlo Costly                  ## Real España
+Jerry Bengtson                ## New England Revolution
+Jerry Palacios                ## Alajuelense
+Rony Martínez                 ## Real Sociedad

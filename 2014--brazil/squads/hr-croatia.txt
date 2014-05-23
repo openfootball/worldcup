@@ -1,4 +1,50 @@
+####################
+# Croatia
+# 
+# Coaching Staff
+# - Head Coach:  Niko Kovač
 
-Luka Modric
-Ivan Rakitic
-Mario Mandzukic
+
+####################
+# Goal Keepers
+
+Stipe Pletikosa               ## Rostov
+Danijel Subašić               ## Monaco
+Oliver Zelenika               ## NK Lokomotiva
+
+####################
+# Defenders
+
+Darijo Srna                   ## Shakhtar Donetsk
+Vedran Ćorluka                ## Lokomotiv Moscow
+Danijel Pranjić               ## Panathinaikos
+Dejan Lovren                  ## Southampton
+Domagoj Vida                  ## Dynamo Kyiv
+Gordon Schildenfeld           ## Panathinaikos
+Šime Vrsaljko                 ## Genoa
+Igor Bubnjić                  ## Udinese
+
+####################
+# Midfielders
+
+Niko Kranjčar                 ## Queens Park Rangers
+Luka Modrić                   ## Real Madrid
+Ivan Rakitić                  ## Sevilla
+Ognjen Vukojević              ## Dynamo Kyiv
+Ivan Perišić                  ## VfL Wolfsburg
+Milan Badelj                  ## Hamburger SV
+Mateo Kovačić                 ## Internazionale
+Sammir                        ## Getafe
+Marcelo Brozović              ## Dinamo Zagreb
+Ivan Močinić                  ## Rijeka
+Mario Pašalić                 ## Hajduk Split
+
+####################
+# Forwards
+
+Ivica Olić                    ## VfL Wolfsburg
+Eduardo                       ## Shakhtar Donetsk
+Mario Mandžukić               ## Bayern Munich
+Nikica Jelavić                ## Hull City
+Ante Rebić                    ## Fiorentina
+Duje Čop                      ## Dinamo Zagreb

@@ -1,5 +1,52 @@
+####################
+# Netherlands
+# 
+# Coaching Staff
+# - Head Coach:  Louis van Gaal
 
-Robin van Persie
-Wesley Sneijder
-Arjen Robben
 
+####################
+# Goal Keepers
+
+Michel Vorm                   ## Swansea City
+Jasper Cillessen              ## Ajax
+Tim Krul                      ## Newcastle United
+Jeroen Zoet                   ## PSV Eindhoven
+
+####################
+# Defenders
+
+Ron Vlaar                     ## Aston Villa
+Bruno Martins Indi            ## Feyenoord
+Daryl Janmaat                 ## Feyenoord
+Stefan de Vrij                ## Feyenoord
+Patrick van Aanholt           ## Vitesse Arnhem
+Joël Veltman                  ## Ajax
+Paul Verhaegh                 ## FC Augsburg
+Terence Kongolo               ## Feyenoord
+Karim Rekik                   ## PSV Eindhoven
+
+####################
+# Midfielders
+
+Rafael van der Vaart          ## Hamburger SV
+Wesley Sneijder               ## Galatasaray
+Arjen Robben                  ## Bayern Munich
+Nigel de Jong                 ## Milan
+Daley Blind                   ## Ajax
+Jonathan de Guzmán            ## Swansea City
+Jordy Clasie                  ## Feyenoord
+Memphis Depay                 ## PSV Eindhoven
+Leroy Fer                     ## Norwich City
+Georginio Wijnaldum           ## PSV Eindhoven
+Jean-Paul Boëtius             ## Feyenoord
+Quincy Promes                 ## Twente
+Tonny Vilhena                 ## Feyenoord
+
+####################
+# Forwards
+
+Dirk Kuyt                     ## Fenerbahçe
+Robin van Persie              ## Manchester United
+Klaas-Jan Huntelaar           ## Schalke 04
+Jeremain Lens                 ## Dynamo Kyiv

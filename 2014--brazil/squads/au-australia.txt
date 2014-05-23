@@ -1,5 +1,52 @@
+####################
+# Australia
+# 
+# Coaching Staff
+# - Head Coach:  Ange Postecoglou
 
-Tim Cahill
-Robbie Kruse
-Lucas Neill
 
+####################
+# Goal Keepers
+
+Eugene Galeković              ## Adelaide United
+Mathew Ryan                   ## Club Brugge
+Mitchell Langerak             ## Borussia Dortmund
+Mark Birighitti               ## Newcastle Jets
+
+####################
+# Defenders
+
+Luke Wilkshire                ## Dynamo Moscow
+Matthew Špiranović            ## Western Sydney Wanderers
+Ryan McGowan                  ## Shandong Luneng Taishan
+Ivan Franjić                  ## Brisbane Roar
+Jason Davidson                ## Heracles Almelo
+Curtis Good                   ## Dundee United
+Alex Wilkinson                ## Jeonbuk Hyundai Motors
+Bailey Wright                 ## Preston North End
+
+####################
+# Midfielders
+
+Mark Bresciano                ## Al-Gharafa
+Matt McKay                    ## Brisbane Roar
+Mile Jedinak (captain)        ## Crystal Palace
+Mark Milligan                 ## Melbourne Victory
+Dario Vidošić                 ## Sion
+Tommy Oar                     ## Utrecht
+James Holland                 ## Austria Wien
+James Troisi                  ## Atalanta
+Tom Rogić                     ## Celtic
+Adam Sarota                   ## Utrecht
+Oliver Bozanic                ## Luzern
+Joshua Brillante              ## Newcastle Jets
+Massimo Luongo                ## Swindon Town
+Ben Halloran                  ## Fortuna Düsseldorf
+
+####################
+# Forwards
+
+Tim Cahill                    ## New York Red Bulls
+Joshua Kennedy                ## Nagoya Grampus
+Mathew Leckie                 ## FSV Frankfurt
+Adam Taggart                  ## Newcastle Jets

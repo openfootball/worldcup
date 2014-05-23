@@ -1,51 +1,50 @@
-################################
-# Ivory Coast / Cote d'Ivoire
-#
-# Coaching Staff:
-# - Head Coach: Sabri Lamouchi
+####################
+# Côte d'Ivoire
+# 
+# Coaching Staff
+# - Head Coach:  Sabri Lamouchi
 
 
 ####################
 # Goal Keepers
 
-Boubacar Barry
-Sayouba Mandé
-Badra Ali Sangaré
-Sylvain Gbohouo 
+Boubacar Barry                ## Lokeren
+Sayouba Mandé                 ## Stabæk
+Badra Ali Sangaré             ## ASEC Mimosas
+Sylvain Gbohouo               ## Séwé Sport
 
 ####################
 # Defenders
 
-Didier Zokora
-Kolo Touré
-Arthur Boka
-Sol Bamba
-Benjamin Angoua
-Serge Aurier
-Ousmane Viera
-Constant Djakpa
-Jean-Daniel Akpa-Akpro
-Brice Dja Djédjé
+Didier Zokora                 ## Trabzonspor
+Kolo Touré                    ## Liverpool
+Arthur Boka                   ## VfB Stuttgart
+Sol Bamba                     ## Trabzonspor
+Benjamin Angoua               ## Valenciennes
+Serge Aurier                  ## Toulouse
+Ousmane Viera                 ## Çaykur Rizespor
+Constant Djakpa               ## Eintracht Frankfurt
+Jean-Daniel Akpa-Akpro        ## Toulouse
+Brice Dja Djédjé              ## Marseille
 
 ####################
 # Midfielders
 
-Yaya Touré
-Cheick Tioté
-Didier Ya Konan
-Max Gradel
-Serey Die
-Mathis Bolly
-Ismaël Diomande
+Yaya Touré                    ## Manchester City
+Cheick Tioté                  ## Newcastle United
+Didier Ya Konan               ## Hannover 96
+Max Gradel                    ## Saint-Étienne
+Serey Die                     ## Basel
+Mathis Bolly                  ## Fortuna Düsseldorf
+Ismaël Diomande               ## Saint-Étienne
 
 ####################
 # Forwards
 
-Didier Drogba
-Salomon Kalou
-Gervinho
-Wilfried Bony
-Seydou Doumbia
-Lacina Traoré
-Giovanni Sio
-
+Didier Drogba                 ## Galatasaray
+Salomon Kalou                 ## Lille
+Gervinho                      ## Roma
+Wilfried Bony                 ## Swansea City
+Seydou Doumbia                ## CSKA Moscow
+Lacina Traoré                 ## Everton
+Giovanni Sio                  ## Basel

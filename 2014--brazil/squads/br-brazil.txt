@@ -1,46 +1,45 @@
-#######################
+####################
 # Brazil
-#
+# 
 # Coaching Staff
-# - Head Coach: Luiz Felipe Scolari
+# - Head Coach:  Luiz Felipe Scolari
 
 
 ####################
 # Goal Keepers
 
-Jefferson      ## Botafogo
-Julio César    ## Toronto F.C
-Victor         ## Atlético-MG
+Júlio César                   ## Toronto FC
+Jefferson                     ## Botafogo
+Victor                        ## Atlético Mineiro
 
 ####################
 # Defenders
 
-Dante           ## Bayern de Munique
-David Luiz      ## Chelsea
-Henrique        ## Napoli
-Thiago Silva    ## Paris Saint-Germain
-Daniel Alves    ## Barcelona
-Maicon          ## Roma
-Marcelo         ## Real Madrid
-Maxwell         ## PSG
+Daniel Alves                  ## Barcelona
+Maicon                        ## Roma
+Thiago Silva (captain)        ## Paris Saint-Germain
+David Luiz                    ## Chelsea
+Marcelo                       ## Real Madrid
+Dante                         ## Bayern Munich
+Maxwell                       ## Paris Saint-Germain
+Henrique                      ## Napoli
 
 ####################
 # Midfielders
 
-Fernandinho     ## Manchester City
-Hernanes        ## Inter de Milão
-Luiz Gustavo    ## Wolfsburg
-Oscar           ## Chelsea
-Paulinho        ## Tottenham
-Ramires         ## Chelsea
-Willian         ## Chelsea
+Ramires                       ## Chelsea
+Oscar                         ## Chelsea
+Paulinho                      ## Tottenham Hotspur
+Hernanes                      ## Internazionale
+Luiz Gustavo                  ## VfL Wolfsburg
+Bernard                       ## Shakhtar Donetsk
+Fernandinho                   ## Manchester City
+Willian                       ## Chelsea
 
 ####################
 # Forwards
 
-Bernard          ## Shakhtar
-Fred             ## Fluminense
-Hulk             ## Zenit
-Jô               ## Atlético-MG
-Neymar           ## Barcelona
-
+Neymar                        ## Barcelona
+Hulk                          ## Zenit Saint Petersburg
+Fred                          ## Fluminense
+Jô                            ## Atlético Mineiro

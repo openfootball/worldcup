@@ -1,6 +1,52 @@
+####################
+# Italy
+# 
+# Coaching Staff
+# - Head Coach:  Cesare Prandelli
 
-Andrea Pirlo
-Gianluigi Buffon
-Mario Balotelli
 
+####################
+# Goal Keepers
 
+Gianluigi Buffon              ## Juventus
+Salvatore Sirigu              ## Paris Saint-Germain
+Mattia Perin                  ## Genoa
+
+####################
+# Defenders
+
+Giorgio Chiellini             ## Juventus
+Andrea Barzagli               ## Juventus
+Leonardo Bonucci              ## Juventus
+Christian Maggio              ## Napoli
+Andrea Ranocchia              ## Internazionale
+Ignazio Abate                 ## Milan
+Mattia De Sciglio             ## Milan
+Manuel Pasqual                ## Fiorentina
+Gabriel Paletta               ## Parma
+Matteo Darmian                ## Torino
+
+####################
+# Midfielders
+
+Andrea Pirlo                  ## Juventus
+Daniele De Rossi              ## Roma
+Riccardo Montolivo            ## Milan
+Claudio Marchisio             ## Juventus
+Alberto Aquilani              ## Fiorentina
+Thiago Motta                  ## Paris Saint-Germain
+Antonio Candreva              ## Lazio
+Marco Verratti                ## Paris Saint-Germain
+Marco Parolo                  ## Parma
+Rômulo                        ## Verona
+
+####################
+# Forwards
+
+Antonio Cassano               ## Parma
+Mario Balotelli               ## Milan
+Giuseppe Rossi                ## Fiorentina
+Alessio Cerci                 ## Torino
+Mattia Destro                 ## Roma
+Lorenzo Insigne               ## Napoli
+Ciro Immobile                 ## Torino

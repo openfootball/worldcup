@@ -1,5 +1,48 @@
+####################
+# Ghana
+# 
+# Coaching Staff
+# - Head Coach:  James Kwesi Appiah
 
-Asamoah Gyan
-Sulley Muntari
-Michael Essien
 
+####################
+# Goal Keepers
+
+Adam Kwarasey                 ## Strømsgodset
+Fatau Dauda                   ## Orlando Pirates
+Steven Adams                  ## Aduana Stars
+
+####################
+# Defenders
+
+Samuel Inkoom                 ## Platanias
+Harrison Afful                ## Espérance
+John Boye                     ## Rennes
+Jonathan Mensah               ## Évian
+Daniel Opare                  ## Standard Liège
+Jerry Akaminko                ## Eskişehirspor
+Rashid Sumaila                ## Mamelodi Sundowns
+Jeff Schlupp                  ## Leicester City
+
+####################
+# Midfielders
+
+Sulley Muntari                ## Milan
+Kwadwo Asamoah                ## Juventus
+Michael Essien                ## Milan
+Emmanuel Agyemang-Badu        ## Udinese
+André Ayew                    ## Marseille
+Christian Atsu                ## Vitesse
+Wakaso Mubarak                ## Rubin Kazan
+Mohammed Rabiu                ## Kuban Krasnodar
+Albert Adomah                 ## Middlesbrough
+Kevin-Prince Boateng          ## Schalke 04
+Afriyie Acquah                ## Parma
+
+####################
+# Forwards
+
+Asamoah Gyan                  ## Al-Ain
+Majeed Waris                  ## Valenciennes
+Jordan Ayew                   ## Sochaux
+David Accam                   ## Helsingborg

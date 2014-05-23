@@ -1,2 +1,45 @@
-##########
+####################
 # Mexico
+# 
+# Coaching Staff
+# - Head Coach:  Miguel Herrera
+
+
+####################
+# Goal Keepers
+
+Guillermo Ochoa               ## Ajaccio
+José de Jesús Corona          ## Cruz Azul
+Alfredo Talavera              ## Toluca
+
+####################
+# Defenders
+
+Carlos Salcido                ## UANL
+Rafael Márquez                ## León
+Andrés Guardado               ## Bayer Leverkusen
+Francisco Javier Rodríguez    ## América
+Héctor Moreno                 ## Espanyol
+Paul Aguilar                  ## América
+Diego Reyes                   ## Porto
+Miguel Layún                  ## América
+
+####################
+# Midfielders
+
+Carlos Peña                   ## León
+Marco Fabián                  ## Cruz Azul
+Luis Montes                   ## León
+Héctor Herrera                ## Porto
+Miguel Ángel Ponce            ## Toluca
+Isaác Brizuela                ## Toluca
+José Juan Vázquez             ## León
+
+####################
+# Forwards
+
+Giovani dos Santos            ## Villarreal
+Javier Hernández              ## Manchester United
+Oribe Peralta                 ## Santos Laguna
+Raúl Jiménez                  ## América
+Alan Pulido                   ## UANL

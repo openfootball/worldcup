@@ -1,5 +1,50 @@
+####################
+# Cameroon
+# 
+# Coaching Staff
+# - Head Coach:  Volker Finke
 
-Samuiel Eto'o
-Alexandre Song
-Stephan M'bia
 
+####################
+# Goal Keepers
+
+Guy N'dy Assembé              ## Guingamp
+Charles Itandje               ## Konyaspor
+Sammy N'Djock                 ## Fethiyespor
+Loïc Feudjou                  ## Coton Sport
+
+####################
+# Defenders
+
+Nicolas N'Koulou              ## Marseille
+Aurélien Chedjou              ## Galatasaray
+Henri Bedimo                  ## Lyon
+Benoit Assou-Ekotto           ## Queens Park Rangers
+Dany Nounkeu                  ## Beşiktaş
+Gaëtan Bong                   ## Olympiacos
+Allan Nyom                    ## Granada
+Jean-Armel Kana-Biyik         ## Rennes
+Cedric Djeugoue               ## Coton Sport
+
+####################
+# Midfielders
+
+Jean Makoun                   ## Rennes
+Stéphane Mbia                 ## Sevilla
+Alex Song                     ## Barcelona
+Landry N'Guémo                ## Bordeaux
+Eyong Enoh                    ## Antalyaspor
+Joël Matip                    ## Schalke 04
+Edgar Salli                   ## Lens
+Raoul Loé                     ## Osasuna
+
+####################
+# Forwards
+
+Samuel Eto'o                  ## Chelsea
+Pierre Webó                   ## Fenerbahçe
+Mohammadou Idrissou           ## 1. FC Kaiserslautern
+Maxim Choupo-Moting           ## Mainz 05
+Vincent Aboubakar             ## Lorient
+Benjamin Moukandjo            ## Nancy
+Fabrice Olinga                ## Zulte Waregem

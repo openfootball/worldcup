@@ -1,4 +1,46 @@
+####################
+# Russia
+# 
+# Coaching Staff
+# - Head Coach:  Fabio Capello
 
-Alexander Kerzhakov
-Igor Akinfeev
-Roman Shirokov
+
+####################
+# Goal Keepers
+
+Igor Akinfeev                 ## CSKA Moscow
+Yuri Lodygin                  ## Zenit Saint Petersburg
+Sergey Ryzhikov               ## Rubin Kazan
+
+####################
+# Defenders
+
+Sergei Ignashevich            ## CSKA Moscow
+Vasili Berezutski             ## CSKA Moscow
+Dmitri Kombarov               ## Spartak Moscow
+Andrey Yeshchenko             ## Anzhi Makhachkala
+Aleksei Kozlov                ## Dynamo Moscow
+Vladimir Granat               ## Dynamo Moscow
+Georgi Shchennikov            ## CSKA Moscow
+Andrei Semyonov               ## Terek Grozny
+
+####################
+# Midfielders
+
+Igor Denisov                  ## Dynamo Moscow
+Aleksei Ionov                 ## Dynamo Moscow
+Yuri Zhirkov                  ## Dynamo Moscow
+Roman Shirokov                ## Krasnodar
+Alan Dzagoev                  ## CSKA Moscow
+Denis Glushakov               ## Spartak Moscow
+Viktor Fayzulin               ## Zenit Saint Petersburg
+Aleksandr Samedov             ## Lokomotiv Moscow
+Oleg Shatov                   ## Zenit Saint Petersburg
+Pavel Mogilevets              ## Rubin Kazan
+
+####################
+# Forwards
+
+Aleksandr Kerzhakov           ## Zenit Saint Petersburg
+Aleksandr Kokorin             ## Dynamo Moscow
+Maksim Kanunnikov             ## Amkar Perm

@@ -1,5 +1,45 @@
+####################
+# South Korea
+# 
+# Coaching Staff
+# - Head Coach:  Hong Myung-Bo
 
-Ji Dong Won
-Son Heung Min
-Park Joo Ho
 
+####################
+# Goal Keepers
+
+Jung Sung-Ryong               ## Suwon Bluewings
+Kim Seung-Gyu                 ## Ulsan Hyundai
+Lee Bum-Young                 ## Busan I'Park
+
+####################
+# Defenders
+
+Kwak Tae-Hwi                  ## Al-Hilal
+Hong Jeong-Ho                 ## FC Augsburg
+Kim Young-Gwon                ## Guangzhou Evergrande
+Lee Yong                      ## Ulsan Hyundai
+Kim Jin-Su                    ## Albirex Niigata
+Kim Chang-Soo                 ## Kashiwa Reysol
+Hwang Seok-Ho                 ## Sanfrecce Hiroshima
+Yun Suk-Young                 ## Queens Park Rangers
+
+####################
+# Midfielders
+
+Ki Sung-Yueng                 ## Sunderland
+Lee Chung-Yong                ## Bolton Wanderers
+Koo Ja-Cheol (captain)        ## Mainz 05
+Kim Bo-Kyung                  ## Cardiff City
+Ha Dae-Sung                   ## Beijing Guoan
+Park Jong-Woo                 ## Guangzhou R&F
+Han Kook-Young                ## Kashiwa Reysol
+
+####################
+# Forwards
+
+Park Chu-Young                ## Watford
+Lee Keun-Ho                   ## Sangju Sangmu
+Kim Shin-Wook                 ## Ulsan Hyundai
+Ji Dong-Won                   ## FC Augsburg
+Son Heung-Min                 ## Bayer Leverkusen

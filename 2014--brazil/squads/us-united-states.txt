@@ -1,5 +1,45 @@
+####################
+# United States
+# 
+# Coaching Staff
+# - Head Coach:  Jürgen Klinsmann
 
-Tim Howard
-Michael Bradley
-Clint Dempsey
 
+####################
+# Goal Keepers
+
+Tim Howard                    ## Everton
+Brad Guzan                    ## Aston Villa
+Nick Rimando                  ## Real Salt Lake
+
+####################
+# Defenders
+
+DaMarcus Beasley              ## Puebla
+Geoff Cameron                 ## Stoke City
+Fabian Johnson                ## 1899 Hoffenheim
+Omar Gonzalez                 ## Los Angeles Galaxy
+Matt Besler                   ## Sporting Kansas City
+Timothy Chandler              ## 1. FC Nürnberg
+John Brooks                   ## Hertha BSC
+DeAndre Yedlin                ## Seattle Sounders FC
+
+####################
+# Midfielders
+
+Michael Bradley               ## Toronto FC
+Jermaine Jones                ## Beşiktaş
+Kyle Beckerman                ## Real Salt Lake
+Alejandro Bedoya              ## Nantes
+Graham Zusi                   ## Sporting Kansas City
+Mikkel Diskerud               ## Rosenborg
+Brad Davis                    ## Houston Dynamo
+Julian Green                  ## Bayern Munich
+
+####################
+# Forwards
+
+Clint Dempsey                 ## Seattle Sounders FC
+Jozy Altidore                 ## Sunderland
+Chris Wondolowski             ## San Jose Earthquakes
+Aron Jóhannsson               ## AZ

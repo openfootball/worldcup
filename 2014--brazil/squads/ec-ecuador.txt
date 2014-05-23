@@ -1,45 +1,52 @@
-###################
+####################
 # Ecuador
-#
+# 
 # Coaching Staff
-# - Head Coach: Reinaldo Rueda
+# - Head Coach:  Reinaldo Rueda
 
 
 ####################
 # Goal Keepers
 
-Maximo Banguera
-Alexander Dominguez
-
+Máximo Banguera               ## Barcelona
+Alexander Domínguez           ## LDU Quito
+Adrián Bone                   ## El Nacional
 
 ####################
 # Defenders
 
-Frickson Erazo
-Jayro Campos
-Juan Carlos Paredes
-Walter Ayovi
-Gabriel Achilier
-Jorge Guagua
-
+Walter Ayoví                  ## Pachuca
+Jorge Guagua                  ## Emelec
+Juan Carlos Paredes           ## Barcelona
+Frickson Erazo                ## Flamengo
+Gabriel Achilier              ## Emelec
+Óscar Bagüí                   ## Emelec
+Cristian Ramírez              ## Fortuna Düsseldorf
+John Narváez                  ## Emelec
 
 ####################
 # Midfielders
 
-Antonio Valencia
-Jefferson Montero
-Christian Noboa
-Segundo Castillo
-Luis Fernando Saritama
-
+Édison Méndez                 ## Santa Fe
+Segundo Castillo              ## Al-Hilal
+Antonio Valencia              ## Manchester United
+Luis Saritama                 ## Barcelona
+Christian Noboa               ## Dynamo Moscow
+Jefferson Montero             ## Morelia
+João Rojas                    ## Cruz Azul
+Michael Arroyo                ## Atlante
+Oswaldo Minda                 ## Chivas USA
+Renato Ibarra                 ## Vitesse
+Pedro Quiñónez                ## Emelec
+Fidel Martínez                ## Tijuana
+Carlos Gruezo                 ## VfB Stuttgart
+Ángel Mena                    ## Emelec
+Cristian Penilla              ## Barcelona
 
 ####################
 # Forwards
 
-Felipe Caicedo
-Fidel Martinez
-Joao Rojas
-Jaime Ayovi
-Enner Valencia
-Narciso Mina
-
+Felipe Caicedo                ## Al-Jazira
+Jaime Ayoví                   ## Tijuana
+Enner Valencia                ## Pachuca
+Armando Wila                  ## Universidad Católica

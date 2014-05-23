@@ -1,4 +1,48 @@
+####################
+# Chile
+# 
+# Coaching Staff
+# - Head Coach:  Jorge Sampaoli
 
-Alexis Sánchez
-Arturo Vidal
-Mauricio Isla
+
+####################
+# Goal Keepers
+
+Claudio Bravo                 ## Real Sociedad
+Johnny Herrera                ## Universidad de Chile
+Cristopher Toselli            ## Universidad Católica
+Paulo Garcés                  ## O'Higgins
+
+####################
+# Defenders
+
+Gonzalo Jara                  ## Nottingham Forest
+Gary Medel                    ## Cardiff City
+Mauricio Isla                 ## Juventus
+Marcos González               ## Unión Española
+Eugenio Mena                  ## Santos
+José Rojas                    ## Universidad de Chile
+Miiko Albornoz                ## Malmö
+
+####################
+# Midfielders
+
+Jean Beausejour               ## Wigan Athletic
+Jorge Valdivia                ## Palmeiras
+Arturo Vidal                  ## Juventus
+Carlos Carmona                ## Atalanta
+Rodrigo Millar                ## Atlas
+José Pedro Fuenzalida         ## Colo-Colo
+Charles Aránguiz              ## Internacional
+Marcelo Díaz                  ## Basel
+Felipe Gutiérrez              ## Twente
+Francisco Silva               ## Osasuna
+Pablo Hernández               ## O'Higgins
+
+####################
+# Forwards
+
+Alexis Sánchez                ## Barcelona
+Eduardo Vargas                ## Valencia
+Mauricio Pinilla              ## Cagliari
+Fabián Orellana               ## Celta Vigo

@@ -1,4 +1,52 @@
+####################
+# Bosnia and Herzegovina
+# 
+# Coaching Staff
+# - Head Coach:  Safet Sušić
 
-Edin Dzeko
-Miralem Pjanic
-Zvjezdan Misimovic
+
+####################
+# Goal Keepers
+
+Asmir Begović                 ## Stoke City
+Asmir Avdukić                 ## Borac Banja Luka
+Jasmin Fejzić                 ## VfR Aalen
+Dejan Bandović                ## Sarajevo
+
+####################
+# Defenders
+
+Emir Spahić                   ## Bayer Leverkusen
+Mensur Mujdža                 ## SC Freiburg
+Avdija Vršajević              ## Hajduk Split
+Ognjen Vranješ                ## Elazığspor
+Ermin Bičakčić                ## Eintracht Braunschweig
+Ervin Zukanović               ## Gent
+Toni Šunjić                   ## Zorya Luhansk
+Sead Kolašinac                ## Schalke 04
+
+####################
+# Midfielders
+
+Zvjezdan Misimović            ## Guizhou Renhe
+Miralem Pjanić                ## Roma
+Senijad Ibričić               ## Kayseri Erciyesspor
+Sejad Salihović               ## 1899 Hoffenheim
+Haris Medunjanin              ## Gaziantepspor
+Senad Lulić                   ## Lazio
+Adnan Zahirović               ## VfL Bochum
+Miroslav Stevanović           ## Alavés
+Muhamed Bešić                 ## Ferencváros
+Izet Hajrović                 ## Galatasaray
+Zoran Kvržić                  ## Rijeka
+Anel Hadžić                   ## Sturm Graz
+Tino-Sven Sušić               ## Hajduk Split
+Srđan Stanić                  ## Željezničar
+
+####################
+# Forwards
+
+Edin Džeko                    ## Manchester City
+Vedad Ibišević                ## VfB Stuttgart
+Ermin Zec                     ## Gençlerbirliği
+Edin Višća                    ## İstanbul BB
