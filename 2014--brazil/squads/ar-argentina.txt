@@ -1,41 +1,48 @@
 ####################
 # Argentina
-#
+# 
 # Coaching Staff
-# - Head Coach: Alejandro Zabella
+# - Head Coach:  Alejandro Sabella
 
 
 ####################
 # Goal Keepers
 
-Sergio Romero
-Mariano Andujar
-Agustin Orion
-
+Sergio Romero                 ## Monaco
+Mariano Andújar               ## Catania
+Agustín Orión                 ## Boca Juniors
 
 ####################
 # Defenders
 
-Pablo Zabaleta
-Federico Fernandez
-Ezequiel Garay
-Marcos Rojo
-
+Martín Demichelis             ## Manchester City
+Pablo Zabaleta                ## Manchester City
+Federico Fernández            ## Napoli
+Marcos Rojo                   ## Sporting CP
+Ezequiel Garay                ## Benfica
+Nicolás Otamendi              ## Atlético Mineiro
+Hugo Campagnaro               ## Internazionale
+José María Basanta            ## Monterrey
 
 ####################
 # Midfielders
 
-Angel Di Maria
-Javier Mascherano
-Fernando Gago
-Ever Banega
-
+Javier Mascherano             ## Barcelona
+Maxi Rodríguez                ## Newell's Old Boys
+Fernando Gago                 ## Boca Juniors
+Ángel di María                ## Real Madrid
+Éver Banega                   ## Newell's Old Boys
+José Ernesto Sosa             ## Atlético Madrid
+Lucas Biglia                  ## Lazio
+Augusto Fernández             ## Celta Vigo
+Ricardo Álvarez               ## Internazionale
+Enzo Pérez                    ## Benfica
 
 ####################
 # Forwards
 
-Lionel Messi
-Sergio Aguero
-Gonzalo Higuain
-Ezequiel Lavezzi
-
+Lionel Messi                  ## Barcelona
+Sergio Agüero                 ## Manchester City
+Gonzalo Higuaín               ## Napoli
+Ezequiel Lavezzi              ## Paris Saint-Germain
+Rodrigo Palacio               ## Internazionale

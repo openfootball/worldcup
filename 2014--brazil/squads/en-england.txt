@@ -1,5 +1,26 @@
+####################
+# England
+# 
+# Coaching Staff
+# - Head Coach:  Roy Hodgson
 
-Steven Gerrard
-Jack Wilshere
-Wayne Rooney
+
+####################
+# Goal Keepers
+
+Joe Hart                      ## Manchester City
+
+####################
+# Defenders
+
+Glen Johnson                  ## Liverpool
+Leighton Baines               ## Everton
+
+####################
+# Midfielders
+
+Steven Gerrard (captain)      ## Liverpool
+
+####################
+# Forwards
 

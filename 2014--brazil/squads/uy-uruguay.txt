@@ -1,5 +1,47 @@
+####################
+# Uruguay
+# 
+# Coaching Staff
+# - Head Coach:  Oscar Tabarez
 
-Luis Suárez
-Edinson Cavani
-Diego Forlán
 
+####################
+# Goal Keepers
+
+Fernando Muslera              ## Galatasaray
+Martín Silva                  ## Vasco da Gama
+Rodrigo Muñoz                 ## Libertad
+
+####################
+# Defenders
+
+Diego Lugano                  ## West Bromwich Albion
+Maxi Pereira                  ## Benfica
+Diego Godín                   ## Atlético Madrid
+Martín Cáceres                ## Juventus
+Jorge Fucile                  ## Porto
+Sebastián Coates              ## Nacional
+José María Giménez            ## Atlético Madrid
+Alejandro Silva               ## Lanús
+
+####################
+# Midfielders
+
+Diego Pérez                   ## Bologna
+Cristian Rodríguez            ## Atlético Madrid
+Walter Gargano                ## Parma
+Álvaro Pereira                ## São Paulo
+Sebastián Eguren              ## Palmeiras
+Egidio Arévalo Ríos           ## Morelia
+Álvaro González               ## Lazio
+Gastón Ramírez                ## Southampton
+Nicolás Lodeiro               ## Botafogo
+
+####################
+# Forwards
+
+Diego Forlán                  ## Cerezo Osaka
+Luis Suárez                   ## Liverpool
+Edinson Cavani                ## Paris Saint-Germain
+Abel Hernández                ## Palermo
+Christian Stuani              ## Espanyol

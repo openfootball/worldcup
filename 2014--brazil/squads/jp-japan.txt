@@ -1,46 +1,26 @@
-#####################
+####################
 # Japan
-#
-# Coaching Staff:
-# - Head Coach: Alberto Zaccheroni
+# 
+# Coaching Staff
+# - Head Coach:  Alberto Zaccheroni
 
 
 ####################
 # Goal Keepers
 
-Eiji Kawashima
-Shusaku Nishikawa
-Shuichi Gonda
+Eiji Kawashima                ## Standard Liège
 
 ####################
 # Defenders
 
-Yasuyuki Konno
-Yuto Nagatomo
-Atsuto Uchida
-Maya Yoshida
-Masahiko Inoha
-Hiroki Sakai
-Gotoku Sakai
-Masato Morishige
+Atsuto Uchida                 ## Schalke 04
+Gōtoku Sakai                  ## VfB Stuttgart
 
 ####################
 # Midfielders
 
-Yasuhito Endo
-Makoto Hasebe
-Shinji Kagawa
-Keisuke Honda
-Hiroshi Kiyotake
-Hotaru Yamaguchi
-Toshihiro Aoyama
-
+Keisuke Honda                 ## Milan
 
 ####################
 # Forwards
 
-Shinji Okazaki
-Yoshito Okubo
-Yoichiro Kakitani
-Yuya Osako
-Manabu Saito

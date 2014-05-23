@@ -1,46 +1,45 @@
 ####################
 # Greece
-#
-# Coaching Staff:
-# - Head Coach: Fernando Santos
+# 
+# Coaching Staff
+# - Head Coach:  Fernando Santos
 
 
-#################
+####################
 # Goal Keepers
 
-Orestis Karnezis
-Stefanos Kapino
-Panagiotis Glykos
+Orestis Karnezis              ## Granada
+Stefanos Kapino               ## Panathinaikos
+Panagiotis Glykos             ## PAOK
 
 ####################
 # Defenders
 
-Vasilis Torosidis
-Loukas Vyntra
-Sokratis Papastathopoulos
-Giannis Maniatis
-José Holebas
-Vangelis Moras
-Giorgos Tzavellas
-Kostas Manolas
+Vasilis Torosidis             ## Roma
+Loukas Vyntra                 ## Levante
+Sokratis Papastathopoulos     ## Borussia Dortmund
+Giannis Maniatis              ## Olympiacos
+José Holebas                  ## Olympiacos
+Vangelis Moras                ## Hellas Verona
+Giorgos Tzavellas             ## PAOK
+Kostas Manolas                ## Olympiacos
 
 ####################
 # Midfielders
 
-Giorgos Karagounis
-Kostas Katsouranis
-Alexandros Tziolis
-Giannis Fetfatzidis
-Lazaros Christodoulopoulos
-Panagiotis Kone
-Panagiotis Tachtsidis
-Andreas Samaris
+Giorgos Karagounis (captain)  ## Fulham
+Kostas Katsouranis            ## PAOK
+Alexandros Tziolis            ## Kayserispor
+Giannis Fetfatzidis           ## Genoa
+Lazaros Christodoulopoulos    ## Bologna
+Panagiotis Kone               ## Bologna
+Panagiotis Tachtsidis         ## Torino
+Andreas Samaris               ## Olympiacos
 
 ####################
 # Forwards
 
-Dimitris Salpingidis
-Giorgos Samaras
-Theofanis Gekas
-Kostas Mitroglou
-
+Dimitris Salpingidis          ## PAOK
+Giorgos Samaras               ## Celtic
+Theofanis Gekas               ## Konyaspor
+Kostas Mitroglou              ## Fulham

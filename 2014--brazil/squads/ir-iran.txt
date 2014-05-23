@@ -1,5 +1,52 @@
+####################
+# Iran
+# 
+# Coaching Staff
+# - Head Coach:  Carlos Queiroz
 
-Ashkan Dejagah
-Javad Nekounam
-Jalal Hosseini
 
+####################
+# Goal Keepers
+
+Rahman Ahmadi                 ## Sepahan
+Alireza Haghighi              ## Sporting Covilhã
+Daniel Davari                 ## Eintracht Braunschweig
+Sosha Makani                  ## Foolad
+Alireza Beiranvand            ## Naft Tehran
+
+####################
+# Defenders
+
+Jalal Hosseini                ## Persepolis
+Ehsan Hajsafi                 ## Sepahan
+Khosro Heydari                ## Esteghlal
+Pejman Montazeri              ## Umm Salal
+Hossein Mahini                ## Persepolis
+Mehrdad Pouladi               ## Persepolis
+Hashem Beikzadeh              ## Esteghlal
+Amir Hossein Sadeghi          ## Esteghlal
+Ahmad Alenemeh                ## Naft Tehran
+Mohammad Reza Khanzadeh       ## Zob Ahan
+Steven Beitashour             ## Vancouver Whitecaps
+
+####################
+# Midfielders
+
+Javad Nekounam                ## Al-Kuwait
+Andranik Teymourian           ## Esteghlal
+Mohammad Reza Khalatbari      ## Ajman
+Masoud Shojaei                ## Las Palmas
+Ghasem Haddadifar             ## Zob Ahan
+Ashkan Dejagah                ## Fulham
+Reza Haghighi                 ## Persepolis
+Alireza Jahanbakhsh           ## NEC
+Bakhtiar Rahmani              ## Foolad
+
+####################
+# Forwards
+
+Karim Ansarifard              ## Tractor Sazi
+Reza Ghoochannejhad           ## Charlton Athletic
+Reza Norouzi                  ## Naft Tehran
+Mehdi Sharifi                 ## Sepahan
+Sardar Azmoun                 ## Rubin Kazan

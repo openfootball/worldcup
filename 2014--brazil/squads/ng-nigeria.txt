@@ -1,4 +1,52 @@
+####################
+# Nigeria
+# 
+# Coaching Staff
+# - Head Coach:  Stephen Keshi
 
-John Obi Mikel
-Victor Moses
-Emmanuel Emenike
+
+####################
+# Goal Keepers
+
+Vincent Enyeama               ## Lille
+Austin Ejide                  ## Hapoel Be'er Sheva
+Chigozie Agbim                ## Gombe United
+Daniel Akpeyi                 ## Warri Wolves
+
+####################
+# Defenders
+
+Joseph Yobo                   ## Norwich City
+Elderson                      ## Monaco
+Efe Ambrose                   ## Celtic
+Godfrey Oboabona              ## Çaykur Rizespor
+Azubuike Egwuekwe             ## Warri Wolves
+Kenneth Omeruo                ## Middlesbrough
+Juwon Oshaniwa                ## Ashdod
+Kunle Odunlami                ## Sunshine Stars
+
+####################
+# Midfielders
+
+John Obi Mikel                ## Chelsea
+Ahmed Musa                    ## CSKA Moscow
+Sunday Mba                    ## CA Bastia
+Ejike Uzoenyi                 ## Enugu Rangers
+Ogenyi Onazi                  ## Lazio
+Victor Moses                  ## Liverpool
+Nnamdi Oduamadi               ## Brescia
+Joel Obi                      ## Parma
+Nosa Igiebor                  ## Real Betis
+Reuben Gabriel                ## Waasland-Beveren
+Ramon Azeez                   ## Almería
+
+####################
+# Forwards
+
+Peter Odemwingie              ## Stoke City
+Victor Obinna                 ## Chievo
+Emmanuel Emenike              ## Fenerbahçe
+Shola Ameobi                  ## Newcastle United
+Uche Nwofor                   ## Heerenveen
+Michel Babatunde              ## Volyn Lutsk
+Michael Uchebo                ## Cercle Brugge

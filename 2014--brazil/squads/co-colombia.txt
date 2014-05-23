@@ -1,54 +1,49 @@
-##################
+####################
 # Colombia
-#
+# 
 # Coaching Staff
-# - Head Coach: José Pékerman
+# - Head Coach:  José Pékerman
 
 
 ####################
 # Goal Keepers
 
-Faryd Mondragón
-David Ospina
-Camilo Vargas
+Faryd Mondragón               ## Deportivo Cali
+David Ospina                  ## Nice
+Camilo Vargas                 ## Santa Fe
 
 ####################
 # Defenders
 
-Mario Yepes
-Luis Amaranto Perea
-Juan Camilo Zúñiga
-Pablo Armero
-Aquivaldo Mosquera
-Cristián Zapata
-Carlos Valdés
-Santiago Arias
-Éder Álvarez
+Mario Yepes                   ## Atalanta
+Luis Amaranto Perea           ## Cruz Azul
+Juan Camilo Zúñiga            ## Napoli
+Pablo Armero                  ## West Ham United
+Cristián Zapata               ## Milan
+Carlos Valdés                 ## San Lorenzo
+Santiago Arias                ## PSV Eindhoven
+Éder Álvarez Balanta          ## River Plate
 
 ####################
 # Midfielders
 
-Fredy Guarín
-Abel Aguilar
-Carlos Sánchez
-Macnelly Torres
-Aldo Leão Ramírez
-Juan Guillermo Cuadrado
-Elkin Soto
-James Rodríguez
-Edwin Valencia
-Alexander Mejía
-Juan Fernando Quintero
-
+Fredy Guarín                  ## Internazionale
+Abel Aguilar                  ## Toulouse
+Carlos Sánchez                ## Elche
+Aldo Leão Ramírez             ## Morelia
+Juan Guillermo Cuadrado       ## Fiorentina
+James Rodríguez               ## Monaco
+Edwin Valencia                ## Fluminense
+Alexander Mejía               ## Atlético Nacional
+Juan Fernando Quintero        ## Porto
 
 ####################
 # Forwards
 
-Radamel Falcao
-Teófilo Gutiérrez
-Jackson Martínez
-Adrián Ramos
-Carlos Bacca
-Víctor Ibarbo
-Luis Muriel
-
+Radamel Falcao                ## Monaco
+Teófilo Gutiérrez             ## River Plate
+Jackson Martínez              ## Porto
+Adrián Ramos                  ## Hertha BSC
+Carlos Bacca                  ## Sevilla
+Víctor Ibarbo                 ## Cagliari
+Luis Muriel                   ## Udinese

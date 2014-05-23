@@ -1,5 +1,45 @@
+####################
+# France
+# 
+# Coaching Staff
+# - Head Coach:  Didier Deschamps
 
-Franck Ribéry
-Karim Benzema
-Paul Pogba
 
+####################
+# Goal Keepers
+
+Hugo Lloris (C)               ## Tottenham Hotspur
+Mickaël Landreau              ## Bastia
+Stéphane Ruffier[34]          ## Saint-Étienne
+
+####################
+# Defenders
+
+Patrice Evra                  ## Manchester United
+Bacary Sagna                  ## Arsenal
+Mathieu Debuchy               ## Newcastle United
+Mamadou Sakho                 ## Liverpool
+Laurent Koscielny             ## Arsenal
+Raphaël Varane                ## Real Madrid
+Eliaquim Mangala              ## Porto
+Lucas Digne                   ## Paris Saint-Germain
+
+####################
+# Midfielders
+
+Franck Ribéry                 ## Bayern Munich
+Mathieu Valbuena              ## Marseille
+Yohan Cabaye                  ## Paris Saint-Germain
+Blaise Matuidi                ## Paris Saint-Germain
+Moussa Sissoko                ## Newcastle United
+Rio Mavuba                    ## Lille
+Paul Pogba                    ## Juventus
+Clément Grenier               ## Lyon
+Antoine Griezmann             ## Real Sociedad
+
+####################
+# Forwards
+
+Karim Benzema                 ## Real Madrid
+Olivier Giroud                ## Arsenal
+Loïc Rémy                     ## Newcastle United

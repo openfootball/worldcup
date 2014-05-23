@@ -1,4 +1,46 @@
+####################
+# Belgium
+# 
+# Coaching Staff
+# - Head Coach:  Marc Wilmots
 
-Eden Hazard
-Thibaut Courtois
-Marouane Fellaini
+
+####################
+# Goal Keepers
+
+Thibaut Courtois              ## Atlético Madrid
+Simon Mignolet                ## Liverpool
+Sammy Bossut[50]              ## Zulte Waregem
+Koen Casteels                 ## 1899 Hoffenheim
+
+####################
+# Defenders
+
+Daniel Van Buyten             ## Bayern Munich
+Vincent Kompany               ## Manchester City
+Jan Vertonghen                ## Tottenham Hotspur
+Thomas Vermaelen              ## Arsenal
+Toby Alderweireld             ## Atlético Madrid
+Nicolas Lombaerts             ## Zenit Saint Petersburg
+Anthony Vanden Borre          ## Anderlecht
+Laurent Ciman                 ## Standard Liège
+
+####################
+# Midfielders
+
+Mousa Dembélé                 ## Tottenham Hotspur
+Marouane Fellaini             ## Manchester United
+Axel Witsel                   ## Zenit Saint Petersburg
+Kevin Mirallas                ## Everton
+Eden Hazard                   ## Chelsea
+Steven Defour                 ## Porto
+Kevin De Bruyne               ## VfL Wolfsburg
+Nacer Chadli                  ## Tottenham Hotspur
+Adnan Januzaj                 ## Manchester United
+
+####################
+# Forwards
+
+Romelu Lukaku                 ## Everton
+Dries Mertens                 ## Napoli
+Divock Origi                  ## Lille

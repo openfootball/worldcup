@@ -1,4 +1,52 @@
+####################
+# Algeria
+# 
+# Coaching Staff
+# - Head Coach:  Vahid Halilhodžić
 
-Sofiane Feghouli
-Medhi Lacen
-Madjid Bougherra
+
+####################
+# Goal Keepers
+
+Raïs M'Bolhi                  ## CSKA Sofia
+Mohamed Zemmamouche           ## USM Alger
+Azzedine Doukha               ## USM El Harrach
+Cédric Si Mohamed             ## CS Constantine
+
+####################
+# Defenders
+
+Madjid Bougherra              ## Lekhwiya
+Rafik Halliche                ## Académica
+Djamel Mesbah                 ## Livorno
+Carl Medjani                  ## Valenciennes
+Essaïd Belkalem               ## Watford
+Liassine Cadamuro-Bentaïba    ## Mallorca
+Faouzi Ghoulam                ## Napoli
+Nacereddine Khoualed          ## USM Alger
+Aïssa Mandi                   ## Reims
+
+####################
+# Midfielders
+
+Medhi Lacen                   ## Getafe
+Adlène Guedioura              ## Crystal Palace
+Hassan Yebda                  ## Udinese
+Foued Kadir                   ## Rennes
+Mehdi Mostefa                 ## Ajaccio
+Sofiane Feghouli              ## Valencia
+Ryad Boudebouz                ## Bastia
+Saphir Taïder                 ## Internazionale
+Abdelmoumene Djabou           ## Club Africain
+Yacine Brahimi                ## Granada
+Nabil Bentaleb                ## Tottenham Hotspur
+Amir Karaoui                  ## ES Sétif
+Riyad Mahrez                  ## Leicester City
+
+####################
+# Forwards
+
+Rafik Djebbour                ## Nottingham Forest
+El Arbi Hillel Soudani        ## Dinamo Zagreb
+Islam Slimani                 ## Sporting Lisbon
+Nabil Ghilas                  ## Porto

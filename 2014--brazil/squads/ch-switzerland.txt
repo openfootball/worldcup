@@ -1,4 +1,31 @@
+####################
+# Switzerland
+# 
+# Coaching Staff
+# - Head Coach:  Ottmar Hitzfeld
 
-Xherdan Shaqiri
-Stephan Lichsteiner
 
+####################
+# Goal Keepers
+
+Diego Benaglio                ## VfL Wolfsburg
+
+####################
+# Defenders
+
+Stephan Lichtsteiner          ## Juventus
+Reto Ziegler                  ## Sassuolo
+Philippe Senderos             ## Valencia
+Steve von Bergen              ## Young Boys
+Michael Lang                  ## Grasshopper
+
+####################
+# Midfielders
+
+Tranquillo Barnetta           ## Eintracht Frankfurt
+Gökhan Inler (captain)        ## Napoli
+
+####################
+# Forwards
+
+Haris Seferović               ## Real Sociedad

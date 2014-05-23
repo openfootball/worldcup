@@ -1,5 +1,52 @@
+####################
+# Costa Rica
+# 
+# Coaching Staff
+# - Head Coach:  Jorge Luis Pinto
 
-Brian Ruiz
-Joel Campbell
-Bryan Oviedo
 
+####################
+# Goal Keepers
+
+Keylor Navas                  ## Levante
+Patrick Pemberton             ## Alajuelense
+Daniel Cambronero             ## Herediano
+Esteban Alvarado              ## AZ
+
+####################
+# Defenders
+
+Michael Umaña                 ## Saprissa
+Júnior Díaz                   ## Mainz 05
+Roy Miller                    ## New York Red Bulls
+Giancarlo González            ## Columbus Crew
+Johnny Acosta                 ## Alajuelense
+Cristian Gamboa               ## Rosenborg
+Óscar Duarte                  ## Club Brugge
+Heiner Mora                   ## Saprissa
+Kendall Waston                ## Saprissa
+Waylon Francis                ## Columbus Crew
+
+####################
+# Midfielders
+
+Celso Borges                  ## AIK
+Christian Bolaños             ## Copenhagen
+Michael Barrantes             ## Aalesund
+Carlos Hernández              ## Wellington Phoenix
+José Miguel Cubero            ## Herediano
+Yeltsin Tejeda                ## Saprissa
+Ariel Rodríguez               ## Alajuelense
+Esteban Granados              ## Herediano
+Diego Calvo                   ## Vålerenga
+Hansell Arauz                 ## Saprissa
+
+####################
+# Forwards
+
+Álvaro Saborío                ## Real Salt Lake
+Bryan Ruiz                    ## PSV Eindhoven
+Randall Brenes                ## Cartaginés
+Joel Campbell                 ## Olympiacos
+Marco Ureña                   ## Kuban Krasnodar
+Jairo Arrieta                 ## Columbus Crew

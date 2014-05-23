@@ -1,5 +1,51 @@
+####################
+# Spain
+# 
+# Coaching Staff
+# - Head Coach:  Vicente del Bosque
 
-Andrés Iniesta
-Iker Casillas
-Xavi Hernández
 
+####################
+# Goal Keepers
+
+Iker Casillas (captain)       ## Real Madrid
+Pepe Reina                    ## Napoli
+David de Gea                  ## Manchester United
+
+####################
+# Defenders
+
+Sergio Ramos                  ## Real Madrid
+Gerard Piqué                  ## Barcelona
+Raúl Albiol                   ## Napoli
+Jordi Alba                    ## Barcelona
+Juanfran                      ## Atlético Madrid
+César Azpilicueta             ## Chelsea
+Alberto Moreno                ## Sevilla
+Daniel Carvajal               ## Real Madrid
+
+####################
+# Midfielders
+
+Xavi Hernández                ## Barcelona
+Xabi Alonso                   ## Real Madrid
+Andrés Iniesta                ## Barcelona
+Cesc Fàbregas                 ## Barcelona
+David Silva                   ## Manchester City
+Sergio Busquets               ## Barcelona
+Santi Cazorla                 ## Arsenal
+Jesús Navas                   ## Manchester City
+Juan Mata                     ## Manchester United
+Javi Martínez                 ## Bayern Munich
+Koke                          ## Atlético Madrid
+Ander Iturraspe               ## Athletic Bilbao
+
+####################
+# Forwards
+
+Fernando Torres               ## Chelsea
+David Villa                   ## Atlético Madrid
+Pedro Rodríguez               ## Barcelona
+Fernando Llorente             ## Juventus
+Álvaro Negredo                ## Manchester City
+Diego Costa                   ## Atlético Madrid
