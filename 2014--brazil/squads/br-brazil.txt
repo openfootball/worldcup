@@ -1,43 +1,46 @@
+#######################
+# Brazil
+#
+# Coaching Staff
+# - Head Coach: Luiz Felipe Scolari
+
+
 ####################
 # Goal Keepers
 
-- Jefferson (Botafogo)
-- Julio César (Toronto F.C)
-- Victor (Atlético-MG)
+Jefferson      ## Botafogo
+Julio César    ## Toronto F.C
+Victor         ## Atlético-MG
 
 ####################
 # Defenders
 
-- Dante (Bayern de Munique)
-- David Luiz (Chelsea)
-- Henrique (Napoli)
-- Thiago Silva (Paris Saint-Germain)
-- Daniel Alves (Barcelona)
-- Maicon (Roma)
-- Marcelo (Real Madrid)
-- Maxwell (PSG)
+Dante           ## Bayern de Munique
+David Luiz      ## Chelsea
+Henrique        ## Napoli
+Thiago Silva    ## Paris Saint-Germain
+Daniel Alves    ## Barcelona
+Maicon          ## Roma
+Marcelo         ## Real Madrid
+Maxwell         ## PSG
 
 ####################
 # Midfielders
 
-- Fernandinho (Manchester City)
-- Hernanes (Inter de Milão)
-- Luiz Gustavo (Wolfsburg)
-- Oscar (Chelsea)
-- Paulinho (Tottenham)
-- Ramires (Chelsea)
-- Willian (Chelsea)
+Fernandinho     ## Manchester City
+Hernanes        ## Inter de Milão
+Luiz Gustavo    ## Wolfsburg
+Oscar           ## Chelsea
+Paulinho        ## Tottenham
+Ramires         ## Chelsea
+Willian         ## Chelsea
 
 ####################
 # Forwards
 
-- Bernard (Shakhtar)
-- Fred (Fluminense)
-- Hulk (Zenit)
-- Jô (Atlético-MG)
-- Neymar (Barcelona)
+Bernard          ## Shakhtar
+Fred             ## Fluminense
+Hulk             ## Zenit
+Jô               ## Atlético-MG
+Neymar           ## Barcelona
 
-####################
-# Coaching Staff
-
-- Head Coach: Luiz Felipe Scolari

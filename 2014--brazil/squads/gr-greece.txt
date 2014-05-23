@@ -1,43 +1,46 @@
 ####################
+# Greece
+#
+# Coaching Staff:
+# - Head Coach: Fernando Santos
+
+
+#################
 # Goal Keepers
 
-– Orestis Karnezis
-– Stefanos Kapino
-– Panagiotis Glykos
+Â–Orestis Karnezis
+Â–Stefanos Kapino
+Â–Panagiotis Glykos
 
 ####################
 # Defenders
 
-– Vasilis Torosidis
-– Loukas Vyntra
-– Sokratis Papastathopoulos
-– Giannis Maniatis
-– José Holebas
-– Vangelis Moras
-– Giorgos Tzavellas
-– Kostas Manolas
+Â–Vasilis Torosidis
+Â–Loukas Vyntra
+Â–Sokratis Papastathopoulos
+Â–Giannis Maniatis
+Â–JosÃ© Holebas
+Â–Vangelis Moras
+Â–Giorgos Tzavellas
+Â–Kostas Manolas
 
 ####################
 # Midfielders
 
-– Giorgos Karagounis
-– Kostas Katsouranis
-– Alexandros Tziolis
-– Giannis Fetfatzidis
-– Lazaros Christodoulopoulos
-– Panagiotis Kone
-– Panagiotis Tachtsidis
-– Andreas Samaris
+Â–Giorgos Karagounis
+Â–Kostas Katsouranis
+Â–Alexandros Tziolis
+Â–Giannis Fetfatzidis
+Â–Lazaros Christodoulopoulos
+Â–Panagiotis Kone
+Â–Panagiotis Tachtsidis
+Â–Andreas Samaris
 
 ####################
 # Forwards
 
-– Dimitris Salpingidis
-– Giorgos Samaras
-– Theofanis Gekas
-– Kostas Mitroglou
+Â–Dimitris Salpingidis
+Â–Giorgos Samaras
+Â–Theofanis Gekas
+Â–Kostas Mitroglou
 
-####################
-# Coaching Staff
-
-- Head Coach: Fernando Santos

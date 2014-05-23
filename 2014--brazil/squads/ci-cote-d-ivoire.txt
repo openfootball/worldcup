@@ -1,48 +1,51 @@
+################################
+# Ivory Coast / Cote d'Ivoire
+#
+# Coaching Staff:
+# - Head Coach: Sabri Lamouchi
+
+
 ####################
 # Goal Keepers
 
-– Boubacar Barry
-– Sayouba Mandé
-– Badra Ali Sangaré
-– Sylvain Gbohouo 
+Â–Boubacar Barry
+Â–Sayouba MandÃ©
+Â–Badra Ali SangarÃ©
+Â–Sylvain Gbohouo 
 
 ####################
 # Defenders
 
-– Didier Zokora
-– Kolo Touré
-– Arthur Boka
-– Sol Bamba
-– Benjamin Angoua
-– Serge Aurier
-– Ousmane Viera
-– Constant Djakpa
-– Jean-Daniel Akpa-Akpro
-– Brice Dja Djédjé
+Â–Didier Zokora
+Â–Kolo TourÃ©
+Â–Arthur Boka
+Â–Sol Bamba
+Â–Benjamin Angoua
+Â–Serge Aurier
+Â–Ousmane Viera
+Â–Constant Djakpa
+Â–Jean-Daniel Akpa-Akpro
+Â–Brice Dja DjÃ©djÃ©
 
 ####################
 # Midfielders
 
-– Yaya Touré
-– Cheick Tioté
-– Didier Ya Konan
-– Max Gradel
-– Serey Die
-– Mathis Bolly
-– Ismaël Diomande
+Â–Yaya TourÃ©
+Â–Cheick TiotÃ©
+Â–Didier Ya Konan
+Â–Max Gradel
+Â–Serey Die
+Â–Mathis Bolly
+Â–IsmaÃ«l Diomande
 
 ####################
 # Forwards
 
-– Didier Drogba
-– Salomon Kalou
-– Gervinho
-– Wilfried Bony
-– Seydou Doumbia
-– Lacina Traoré
-– Giovanni Sio
+Â–Didier Drogba
+Â–Salomon Kalou
+Â–Gervinho
+Â–Wilfried Bony
+Â–Seydou Doumbia
+Â–Lacina TraorÃ©
+Â–Giovanni Sio
 
-####################
-# Coaching Staff
-
-- Head Coach: Sabri Lamouchi

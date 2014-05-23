@@ -1,44 +1,46 @@
+#####################
+# Japan
+#
+# Coaching Staff:
+# - Head Coach: Alberto Zaccheroni
+
+
 ####################
 # Goal Keepers
 
-– Eiji Kawashima
-– Shusaku Nishikawa
-– Shuichi Gonda
+Â–Eiji Kawashima
+Â–Shusaku Nishikawa
+Â–Shuichi Gonda
 
 ####################
 # Defenders
 
-– Yasuyuki Konno
-– Yuto Nagatomo
-– Atsuto Uchida
-– Maya Yoshida
-– Masahiko Inoha
-– Hiroki Sakai
-– Gotoku Sakai
-– Masato Morishige
+Â–Yasuyuki Konno
+Â–Yuto Nagatomo
+Â–Atsuto Uchida
+Â–Maya Yoshida
+Â–Masahiko Inoha
+Â–Hiroki Sakai
+Â–Gotoku Sakai
+Â–Masato Morishige
 
 ####################
 # Midfielders
 
-– Yasuhito Endo
-– Makoto Hasebe
-– Shinji Kagawa
-– Keisuke Honda
-– Hiroshi Kiyotake
-– Hotaru Yamaguchi
-– Toshihiro Aoyama
+Â–Yasuhito Endo
+Â–Makoto Hasebe
+Â–Shinji Kagawa
+Â–Keisuke Honda
+Â–Hiroshi Kiyotake
+Â–Hotaru Yamaguchi
+Â–Toshihiro Aoyama
 
 
 ####################
 # Forwards
 
-– Shinji Okazaki
-– Yoshito Okubo
-– Yoichiro Kakitani
-– Yuya Osako
-– Manabu Saito
-
-####################
-# Coaching Staff
-
-- Head Coach: Alberto Zaccheroni
+Â–Shinji Okazaki
+Â–Yoshito Okubo
+Â–Yoichiro Kakitani
+Â–Yuya Osako
+Â–Manabu Saito

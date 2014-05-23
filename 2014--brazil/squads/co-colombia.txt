@@ -1,51 +1,54 @@
+##################
+# Colombia
+#
+# Coaching Staff
+# - Head Coach: JosÃ© PÃ©kerman
+
+
 ####################
 # Goal Keepers
 
-– Faryd Mondragón
-– David Ospina
-– Camilo Vargas
+Â–Faryd MondragÃ³n
+Â–David Ospina
+Â–Camilo Vargas
 
 ####################
 # Defenders
 
-– Mario Yepes
-– Luis Amaranto Perea
-– Juan Camilo Zúñiga
-– Pablo Armero
-– Aquivaldo Mosquera
-– Cristián Zapata
-– Carlos Valdés
-– Santiago Arias
-– Éder Álvarez
+Â–Mario Yepes
+Â–Luis Amaranto Perea
+Â–Juan Camilo ZÃºÃ±iga
+Â–Pablo Armero
+Â–Aquivaldo Mosquera
+Â–CristiÃ¡n Zapata
+Â–Carlos ValdÃ©s
+Â–Santiago Arias
+Â–Ã‰der Ãlvarez
 
 ####################
 # Midfielders
 
-– Fredy Guarín
-– Abel Aguilar
-– Carlos Sánchez
-– Macnelly Torres
-– Aldo Leão Ramírez
-– Juan Guillermo Cuadrado
-– Elkin Soto
-– James Rodríguez
-– Edwin Valencia
-– Alexander Mejía
-– Juan Fernando Quintero
+Â–Fredy GuarÃ­n
+Â–Abel Aguilar
+Â–Carlos SÃ¡nchez
+Â–Macnelly Torres
+Â–Aldo LeÃ£o RamÃ­rez
+Â–Juan Guillermo Cuadrado
+Â–Elkin Soto
+Â–James RodrÃ­guez
+Â–Edwin Valencia
+Â–Alexander MejÃ­a
+Â–Juan Fernando Quintero
 
 
 ####################
 # Forwards
 
-– Radamel Falcao
-– Teófilo Gutiérrez
-– Jackson Martínez
-– Adrián Ramos
-– Carlos Bacca
-– Víctor Ibarbo
-– Luis Muriel
+Â–Radamel Falcao
+Â–TeÃ³filo GutiÃ©rrez
+Â–Jackson MartÃ­nez
+Â–AdriÃ¡n Ramos
+Â–Carlos Bacca
+Â–VÃ­ctor Ibarbo
+Â–Luis Muriel
 
-####################
-# Coaching Staff
-
-- Head Coach: José Pékerman

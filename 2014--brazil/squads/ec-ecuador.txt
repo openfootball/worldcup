@@ -1,43 +1,45 @@
+###################
+# Ecuador
+#
+# Coaching Staff
+# - Head Coach: Reinaldo Rueda
+
+
 ####################
 # Goal Keepers
 
-- Maximo Banguera
-- Alexander Dominguez
+Maximo Banguera
+Alexander Dominguez
 
 
 ####################
 # Defenders
 
-- Frickson Erazo
-- Jayro Campos
-- Juan Carlos Paredes
-- Walter Ayovi
-- Gabriel Achilier
-- Jorge Guagua
+Frickson Erazo
+Jayro Campos
+Juan Carlos Paredes
+Walter Ayovi
+Gabriel Achilier
+Jorge Guagua
 
 
 ####################
 # Midfielders
 
-- Antonio Valencia
-- Jefferson Montero
-- Christian Noboa
-- Segundo Castillo
-- Luis Fernando Saritama
+Antonio Valencia
+Jefferson Montero
+Christian Noboa
+Segundo Castillo
+Luis Fernando Saritama
 
 
 ####################
 # Forwards
 
-- Felipe Caicedo
-- Fidel Martinez
-- Joao Rojas
-- Jaime Ayovi
-- Enner Valencia
-- Narciso Mina
+Felipe Caicedo
+Fidel Martinez
+Joao Rojas
+Jaime Ayovi
+Enner Valencia
+Narciso Mina
 
-
-####################
-# Coaching Staff
-
-- Head Coach: Reinaldo Rueda
