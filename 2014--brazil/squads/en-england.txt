@@ -2,25 +2,44 @@
 # England
 # 
 # Coaching Staff
-# - Head Coach:  Roy Hodgson
+# - Head Coach: Roy Hodgson
 
 
 ####################
 # Goal Keepers
 
 Joe Hart                      ## Manchester City
+Ben Foster                    ## West Bromwich Albion
+Fraser Forster                ## Celtic
 
 ####################
 # Defenders
 
 Glen Johnson                  ## Liverpool
 Leighton Baines               ## Everton
+Gary Cahill                   ## Chelsea
+Phil Jagielka                 ## Everton
+Chris Smalling                ## Manchester United
+Phil Jones                    ## Manchester United
+Luke Shaw                     ## Southampton
 
 ####################
 # Midfielders
 
-Steven Gerrard (captain)      ## Liverpool
+Steven Gerrard                ## Liverpool
+Jack Wilshere                 ## Arsenal
+Frank Lampard                 ## Chelsea
+Jordan Henderson              ## Liverpool
+Alex Oxlade-Chamberlain       ## Arsenal
+James Milner                  ## Manchester City
+Raheem Sterling               ## Liverpool
+Adam Lallana                  ## Southampton
+Ross Barkley                  ## Everton
 
 ####################
 # Forwards
 
+Daniel Sturridge              ## Liverpool
+Wayne Rooney                  ## Manchester United
+Danny Welbeck                 ## Manchester United
+Rickie Lambert                ## Southampton
