@@ -9,18 +9,37 @@
 # Goal Keepers
 
 Eiji Kawashima                ## Standard Liège
+Shusaku Nishikawa             ## Urawa Red Diamonds
+Shūichi Gonda                 ## F.C. Tokyo
 
 ####################
 # Defenders
 
 Atsuto Uchida                 ## Schalke 04
 Gōtoku Sakai                  ## VfB Stuttgart
+Yuto Nagatomo                 ## Internazionale
+Masato Morishige              ## F.C. Tokyo
+Yasuyuki Konno                ## Gamba Osaka
+Masahiko Inoha                ## Jubilo Iwata
+Hiroki Sakai                  ## Hannover 96
+Maya Yoshida                  ## Southampton
 
 ####################
 # Midfielders
 
 Keisuke Honda                 ## Milan
+Yasuhito Endō                 ## Gamba Osaka
+Hiroshi Kiyotake              ## 1. FC Nürnberg
+Shinji Kagawa                 ## Manchester United
+Toshihiro Aoyama              ## Sanfrecce Hiroshima
+Hotaru Yamaguchi              ## Cerezo Osaka
+Makoto Hasebe                 ## 1. FC Nürnberg
 
 ####################
 # Forwards
 
+Shinji Okazaki                ## Mainz 05
+Yoichiro Kakitani             ## Cerezo Osaka
+Yoshito Ōkubo                 ## Kawasaki Frontale
+Yuya Osako                    ## 1860 München
+Manabu Saitō                  ## Yokohama F. Marinos

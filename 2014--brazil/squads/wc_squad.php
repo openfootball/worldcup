@@ -16,7 +16,7 @@
 		array('ar-argentina','argentina'),array('au-australia','australia')
 		,array('ba-bosnia-herzegovina','bosnia and herzegovina'),array('be-belgium','belgium')
 		,array('br-brazil','brazil'),array('ch-switzerland','switzerland')
-		,array('ci-cote-d-ivoire','côte d\'ivoire'),array('cl-chile','chile')
+		,array('ci-cote-d-ivoire','ivoire'),array('cl-chile','chile')
 		,array('cm-cameroon','cameroon'),array('co-colombia','colombia')
 		,array('cr-costa-rica','costa rica'),array('de-deutschland','germany')
 		,array('dz-algeria','algeria'),array('ec-ecuador','ecuador')
@@ -41,7 +41,11 @@
 		$searchfor = $list[$i][1];		
 		$index=-1;
 		for($j=0; $j<$countries->length;$j++){
-			if(strcmp(strtolower($countries->item($j)->nodeValue), $searchfor)==0){
+			//workaround for cote d'ivoire
+			if(strcmp($searchfor, "ivoire")==0 && strpos(strtolower($countries->item($j)->nodeValue),$searchfor) == true){
+				$index=$j;
+				break;
+			}else if(strcmp(strtolower($countries->item($j)->nodeValue), $searchfor)==0){
 				$index=$j;
 				break;
 			}
@@ -52,60 +56,74 @@
 		}
 		$file = fopen($list[$i][0].'.txt',"w");
 		
-		//Header
-		echoln_file($file, "####################");
-		echoln_file($file, "# ".$countries->item($index)->nodeValue);
-		echoln_file($file, "# ");
-		echoln_file($file, "# Coaching Staff");
+		//Parse data
+		$w_country = $countries->item($index)->nodeValue;
 		$data = $finder->query("/html/body/div/div/div/p");
-		$manager=substr($data->item(6+2*$index)->nodeValue, 9);
-		echoln_file($file, "# - Head Coach: ".$manager);
-		echoln_file($file, "");	
-		echoln_file($file, "");	
+		$w_manager=substr($data->item(6+2*$index)->nodeValue, 9);
 		
 		$data = $finder->query("/html/body/div/div/div/table/tbody/tr/td/table");
 		$table = $data->item($index);
 		//$players is <tbody> consist of <tr> for each player
 		$players = $finder->query("tbody/tr",$table);
-		$k=0;
+		$player_count = $players->length;
+		$w_players = array();
+		for($k=0;$k<$player_count;$k++){
+			if(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"1GK")==0){
+				$w_players[$k][0] = "gk";
+			}else if(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"2DF")==0){
+				$w_players[$k][0] = "df";
+			}else if(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"3MF")==0){
+				$w_players[$k][0] = "mf";
+			}else if(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"4FW")==0){
+				$w_players[$k][0] = "fw";
+			}
+			$cols = $finder->query("td",$players->item($k));
+			$w_players[$k][1] = stringify_player($cols); 
+		}
+		
+		//output parsed data
+		//Header
+		echoln_file($file, "####################");
+		echoln_file($file, "# ".$w_country);
+		echoln_file($file, "# ");
+		echoln_file($file, "# Coaching Staff");
+		echoln_file($file, "# - Head Coach: ".$w_manager);
+		echoln_file($file, "");	
+		echoln_file($file, "");	
 		
 		echoln_file($file, "####################");
 		echoln_file($file, "# Goal Keepers");
 		echoln_file($file, "");
-		while(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"1GK")==0){
-			$cols = $finder->query("td",$players->item($k));
-			echoln_file($file, stringify_player($cols));
-			$k++;
+		for($k=0;$k<$player_count;$k++){
+			if(strcmp($w_players[$k][0],"gk")==0)
+				echoln_file($file, $w_players[$k][1]);
 		}
 		echoln_file($file, "");	
 		
 		echoln_file($file, "####################");
 		echoln_file($file, "# Defenders");
 		echoln_file($file, "");
-		while(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"2DF")==0){
-			$cols = $finder->query("td",$players->item($k));
-			echoln_file($file, stringify_player($cols));
-			$k++;
+		for($k=0;$k<$player_count;$k++){
+			if(strcmp($w_players[$k][0],"df")==0)
+				echoln_file($file, $w_players[$k][1]);
 		}
 		echoln_file($file, "");	
 		
 		echoln_file($file, "####################");
 		echoln_file($file, "# Midfielders");
 		echoln_file($file, "");
-		while(strcmp($players->item($k)->childNodes->item(2)->nodeValue,"3MF")==0){
-			$cols = $finder->query("td",$players->item($k));
-			echoln_file($file, stringify_player($cols));
-			$k++;
+		for($k=0;$k<$player_count;$k++){
+			if(strcmp($w_players[$k][0],"mf")==0)
+				echoln_file($file, $w_players[$k][1]);
 		}
 		echoln_file($file, "");	
 		
 		echoln_file($file, "####################");
 		echoln_file($file, "# Forwards");
 		echoln_file($file, "");
-		while($players->item($k)!= null && strcmp($players->item($k)->childNodes->item(2)->nodeValue,"4FW")==0){
-			$cols = $finder->query("td",$players->item($k));
-			echoln_file($file, stringify_player($cols));
-			$k++;
+		for($k=0;$k<$player_count;$k++){
+			if(strcmp($w_players[$k][0],"fw")==0)
+				echoln_file($file, $w_players[$k][1]);
 		}
 		fclose($file);
 		echo "Generate : ".$list[$i][0].'.txt'." success<br>";
@@ -118,6 +136,7 @@
 		$name = trim($name);
 		//$name can contain '(Captain)', remove
 		$name = str_replace("(Captain)", "", $name);
+		$name = str_replace("(captain)", "", $name);
 		//$birthfull = explode(" ",substr($cols->item(3)->nodeValue,12));
 		//$birth = $birthfull[0]." ".$birthfull[1]." ".$birthfull[2];
 		$club = $cols->item(5)->nodeValue;
