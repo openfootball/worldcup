@@ -20,7 +20,6 @@ Pablo Zabaleta                ## Manchester City
 Federico Fernández            ## Napoli
 Marcos Rojo                   ## Sporting CP
 Ezequiel Garay                ## Benfica
-Nicolás Otamendi              ## Atlético Mineiro
 Hugo Campagnaro               ## Internazionale
 José María Basanta            ## Monterrey
 
@@ -28,11 +27,9 @@ José María Basanta            ## Monterrey
 # Midfielders
 
 Javier Mascherano             ## Barcelona
-Maxi Rodríguez                ## Newell's Old Boys
+Maximiliano Rodríguez         ## Newell's Old Boys
 Fernando Gago                 ## Boca Juniors
 Ángel di María                ## Real Madrid
-Éver Banega                   ## Newell's Old Boys
-José Ernesto Sosa             ## Atlético Madrid
 Lucas Biglia                  ## Lazio
 Augusto Fernández             ## Celta Vigo
 Ricardo Álvarez               ## Internazionale
