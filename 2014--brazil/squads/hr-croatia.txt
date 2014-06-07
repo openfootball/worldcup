@@ -1,50 +1,26 @@
-####################
-# Croatia
-# 
-# Coaching Staff
-# - Head Coach:  Niko Kovač
+ (1)  GK  Stipe Pletikosa                    ## 110, Rostov (RUS)
+(12)  GK  Oliver Zelenika                    ##   0, Lokomotiva (CRO)
+(23)  GK  Danijel Subašić                    ##   6, AS Monaco (FRA)
 
+ (2)  DF  Šime Vrsaljko                      ##   6, Genoa (ITA)
+ (3)  DF  Danijel Pranjić                    ##  48, Panathinaikos (GRE)
+ (5)  DF  Vedran Ćorluka                     ##  72, Lokomotiv Moscow (RUS)
+ (6)  DF  Dejan Lovren                       ##  23, Southampton (ENG)
+(11)  DF  Darijo Srna                        ## 112, Shakhtar Donetsk (UKR)
+(13)  DF  Gordon Schildenfeld                ##  21, Panathinaikos (GRE)
+(21)  DF  Domagoj Vida                       ##  23, Dynamo Kyiv (UKR)
 
-####################
-# Goal Keepers
+ (4)  MF  Ivan Perišić                       ##  28, VfL Wolfsburg (GER)
+ (7)  MF  Ivan Rakitić                       ##  61, Sevilla (ESP)
+ (8)  MF  Ognjen Vukojević                   ##  55, Dynamo Kyiv (UKR)
+(10)  MF  Luka Modrić                        ##  74, Real Madrid (ESP)
+(14)  MF  Marcelo Brozović                   ##   0, Dinamo Zagreb (CRO)
+(15)  MF  Ivan Močinić                       ##   0, Rijeka (CRO)
+(19)  MF  Sammir                             ##   5, Getafe (SPA)
+(20)  MF  Mateo Kovačić                      ##   9, Internazionale (ITA)
 
-Stipe Pletikosa               ## Rostov
-Danijel Subašić               ## Monaco
-Oliver Zelenika               ## NK Lokomotiva
-
-####################
-# Defenders
-
-Darijo Srna                   ## Shakhtar Donetsk
-Vedran Ćorluka                ## Lokomotiv Moscow
-Danijel Pranjić               ## Panathinaikos
-Dejan Lovren                  ## Southampton
-Domagoj Vida                  ## Dynamo Kyiv
-Gordon Schildenfeld           ## Panathinaikos
-Šime Vrsaljko                 ## Genoa
-Igor Bubnjić                  ## Udinese
-
-####################
-# Midfielders
-
-Niko Kranjčar                 ## Queens Park Rangers
-Luka Modrić                   ## Real Madrid
-Ivan Rakitić                  ## Sevilla
-Ognjen Vukojević              ## Dynamo Kyiv
-Ivan Perišić                  ## VfL Wolfsburg
-Milan Badelj                  ## Hamburger SV
-Mateo Kovačić                 ## Internazionale
-Sammir                        ## Getafe
-Marcelo Brozović              ## Dinamo Zagreb
-Ivan Močinić                  ## Rijeka
-Mario Pašalić                 ## Hajduk Split
-
-####################
-# Forwards
-
-Ivica Olić                    ## VfL Wolfsburg
-Eduardo                       ## Shakhtar Donetsk
-Mario Mandžukić               ## Bayern Munich
-Nikica Jelavić                ## Hull City
-Ante Rebić                    ## Fiorentina
-Duje Čop                      ## Dinamo Zagreb
+ (9)  FW  Nikica Jelavić                     ##  33, Hull City (ENG)
+(16)  FW  Ante Rebić                         ##   4, Fiorentina (ITA)
+(17)  FW  Mario Mandžukić                    ##  49, Bayern Munich (GER)
+(18)  FW  Ivica Olić                         ##  91, VfL Wolfsburg (GER)
+(22)  FW  Eduardo                            ##  63, Shakhtar Donetsk (UKR)

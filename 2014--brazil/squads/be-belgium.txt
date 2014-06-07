@@ -1,46 +1,26 @@
-####################
-# Belgium
-# 
-# Coaching Staff
-# - Head Coach:  Marc Wilmots
+ (1)  GK  Thibaut Courtois                   ##  16, Atlético Madrid (ESP)
+(12)  GK  Simon Mignolet                     ##  14, Liverpool (ENG)
+(13)  GK  Sammy Bossut                       ##   1, Zulte Waregem (BEL)
 
+ (2)  DF  Toby Alderweireld                  ##  34, Atlético Madrid (ESP)
+ (3)  DF  Thomas Vermaelen                   ##  48, Arsenal (ENG)
+ (4)  DF  Vincent Kompany                    ##  59, Manchester City (ENG)
+ (5)  DF  Jan Vertonghen                     ##  56, Tottenham Hotspur (ENG)
+(15)  DF  Daniel Van Buyten                  ##  79, Bayern Munich (GER)
+(18)  DF  Nicolas Lombaerts                  ##  26, Zenit Saint Petersburg (RUS)
+(21)  DF  Anthony Vanden Borre               ##  25, Anderlecht (BEL)
+(23)  DF  Laurent Ciman                      ##   8, Standard Liège (BEL)
 
-####################
-# Goal Keepers
+ (6)  MF  Axel Witsel                        ##  48, Zenit Saint Petersburg (RUS)
+ (7)  MF  Kevin De Bruyne                    ##  22, VfL Wolfsburg (GER)
+ (8)  MF  Marouane Fellaini                  ##  50, Manchester United (ENG)
+(10)  MF  Eden Hazard                        ##  45, Chelsea (ENG)
+(11)  MF  Kevin Mirallas                     ##  44, Everton (ENG)
+(16)  MF  Steven Defour                      ##  43, Porto (POR)
+(19)  MF  Mousa Dembélé                      ##  55, Tottenham Hotspur (ENG)
+(20)  MF  Adnan Januzaj                      ##   1, Manchester United (ENG)
+(22)  MF  Nacer Chadli                       ##  20, Tottenham Hotspur (ENG)
 
-Thibaut Courtois              ## Atlético Madrid
-Simon Mignolet                ## Liverpool
-Sammy Bossut[50]              ## Zulte Waregem
-Koen Casteels                 ## 1899 Hoffenheim
-
-####################
-# Defenders
-
-Daniel Van Buyten             ## Bayern Munich
-Vincent Kompany               ## Manchester City
-Jan Vertonghen                ## Tottenham Hotspur
-Thomas Vermaelen              ## Arsenal
-Toby Alderweireld             ## Atlético Madrid
-Nicolas Lombaerts             ## Zenit Saint Petersburg
-Anthony Vanden Borre          ## Anderlecht
-Laurent Ciman                 ## Standard Liège
-
-####################
-# Midfielders
-
-Mousa Dembélé                 ## Tottenham Hotspur
-Marouane Fellaini             ## Manchester United
-Axel Witsel                   ## Zenit Saint Petersburg
-Kevin Mirallas                ## Everton
-Eden Hazard                   ## Chelsea
-Steven Defour                 ## Porto
-Kevin De Bruyne               ## VfL Wolfsburg
-Nacer Chadli                  ## Tottenham Hotspur
-Adnan Januzaj                 ## Manchester United
-
-####################
-# Forwards
-
-Romelu Lukaku                 ## Everton
-Dries Mertens                 ## Napoli
-Divock Origi                  ## Lille
+ (9)  FW  Romelu Lukaku                      ##  29, Everton (ENG)
+(14)  FW  Dries Mertens                      ##  24, Napoli (ITA)
+(17)  FW  Divock Origi                       ##   2, Lille (FRA)

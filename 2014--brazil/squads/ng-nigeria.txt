@@ -1,52 +1,26 @@
-####################
-# Nigeria
-# 
-# Coaching Staff
-# - Head Coach:  Stephen Keshi
+ (1)  GK  Vincent Enyeama                    ##  90, Lille (FRA)
+(16)  GK  Austin Ejide                       ##  32, Hapoel Be'er Sheva (ISR)
+(21)  GK  Chigozie Agbim                     ##  11, Gombe United (NGA)
 
+ (2)  DF  Joseph Yobo                        ##  96, Norwich City (ENG)
+ (3)  DF  Uwa Elderson Echiéjilé             ##  42, AS Monaco (FRA)
+ (5)  DF  Efe Ambrose                        ##  36, Celtic (SCO)
+ (6)  DF  Azubuike Egwuekwe                  ##  32, Warri Wolves (NGA)
+(12)  DF  Kunle Odunlami                     ##  10, Sunshine Stars (NGA)
+(13)  DF  Juwon Oshaniwa                     ##  10, Ashdod (ISR)
+(14)  DF  Godfrey Oboabona                   ##  35, Çaykur Rizespor (TUR)
+(22)  DF  Kenneth Omeruo                     ##  17, Middlesbrough (ENG)
 
-####################
-# Goal Keepers
+ (4)  MF  Reuben Gabriel                     ##  11, Waasland-Beveren (BEL)
+(10)  MF  John Obi Mikel                     ##  59, Chelsea (ENG)
+(11)  MF  Victor Moses                       ##  20, Liverpool (ENG)
+(15)  MF  Ramon Azeez                        ##   1, Almería (ESP)
+(17)  MF  Ogenyi Onazi                       ##  20, Lazio (ITA)
+(18)  MF  Michael Babatunde                  ##   4, Volyn Lutsk (UKR)
 
-Vincent Enyeama               ## Lille
-Austin Ejide                  ## Hapoel Be'er Sheva
-Chigozie Agbim                ## Gombe United
-Daniel Akpeyi                 ## Warri Wolves
-
-####################
-# Defenders
-
-Joseph Yobo                   ## Norwich City
-Elderson                      ## Monaco
-Efe Ambrose                   ## Celtic
-Godfrey Oboabona              ## Çaykur Rizespor
-Azubuike Egwuekwe             ## Warri Wolves
-Kenneth Omeruo                ## Middlesbrough
-Juwon Oshaniwa                ## Ashdod
-Kunle Odunlami                ## Sunshine Stars
-
-####################
-# Midfielders
-
-John Obi Mikel                ## Chelsea
-Ahmed Musa                    ## CSKA Moscow
-Sunday Mba                    ## CA Bastia
-Ejike Uzoenyi                 ## Enugu Rangers
-Ogenyi Onazi                  ## Lazio
-Victor Moses                  ## Liverpool
-Nnamdi Oduamadi               ## Brescia
-Joel Obi                      ## Parma
-Nosa Igiebor                  ## Real Betis
-Reuben Gabriel                ## Waasland-Beveren
-Ramon Azeez                   ## Almería
-
-####################
-# Forwards
-
-Peter Odemwingie              ## Stoke City
-Victor Obinna                 ## Chievo
-Emmanuel Emenike              ## Fenerbahçe
-Shola Ameobi                  ## Newcastle United
-Uche Nwofor                   ## Heerenveen
-Michel Babatunde              ## Volyn Lutsk
-Michael Uchebo                ## Cercle Brugge
+ (7)  FW  Ahmed Musa                         ##  35, CSKA Moscow (RUS)
+ (8)  FW  Peter Odemwingie                   ##  60, Stoke City (ENG)
+ (9)  FW  Emmanuel Emenike                   ##  22, Fenerbahçe (TUR)
+(19)  FW  Uche Nwofor                        ##   6, Heerenveen (NED)
+(20)  FW  Michael Uchebo                     ##   3, Cercle Brugge (BEL)
+(23)  FW  Shola Ameobi                       ##   6, Newcastle United (ENG)

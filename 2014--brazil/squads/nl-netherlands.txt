@@ -1,52 +1,26 @@
-####################
-# Netherlands
-# 
-# Coaching Staff
-# - Head Coach:  Louis van Gaal
+ (1)  GK  Jasper Cillessen                   ##   7, Ajax 
+(22)  GK  Michel Vorm                        ##  14, Swansea City (WAL)
+(23)  GK  Tim Krul                           ##   5, Newcastle United (ENG)
 
+ (2)  DF  Ron Vlaar                          ##  23, Aston Villa (ENG)
+ (3)  DF  Stefan de Vrij                     ##  11, Feyenoord (NED)
+ (4)  DF  Bruno Martins Indi                 ##  15, Feyenoord (NED)
+ (5)  DF  Daley Blind                        ##  11, Ajax (NED)
+ (7)  DF  Daryl Janmaat                      ##  15, Feyenoord 
+(12)  DF  Paul Verhaegh                      ##   2, Augsburg (GER)
+(13)  DF  Joël Veltman                       ##   2, Ajax (NED)
+(14)  DF  Terence Kongolo                    ##   1, Feyenoord (NED)
 
-####################
-# Goal Keepers
+ (6)  MF  Jonathan de Guzmán                 ##  10, Swansea City (WAL)
+ (8)  MF  Nigel de Jong                      ##  70, Milan (ITA)
+(10)  MF  Wesley Sneijder                    ##  98, Galatasaray (TUR)
+(11)  MF  Arjen Robben                       ##  74, Bayern Munich (GER)
+(16)  MF  Jordy Clasie                       ##   8, Feyenoord (NED)
+(18)  MF  Leroy Fer                          ##   5, Norwich City (ENG)
+(20)  MF  Georginio Wijnaldum                ##   4, PSV (NED)
+(21)  MF  Memphis Depay                      ##   6, PSV (NED)
 
-Michel Vorm                   ## Swansea City
-Jasper Cillessen              ## Ajax
-Tim Krul                      ## Newcastle United
-Jeroen Zoet                   ## PSV Eindhoven
-
-####################
-# Defenders
-
-Ron Vlaar                     ## Aston Villa
-Bruno Martins Indi            ## Feyenoord
-Daryl Janmaat                 ## Feyenoord
-Stefan de Vrij                ## Feyenoord
-Patrick van Aanholt           ## Vitesse Arnhem
-Joël Veltman                  ## Ajax
-Paul Verhaegh                 ## FC Augsburg
-Terence Kongolo               ## Feyenoord
-Karim Rekik                   ## PSV Eindhoven
-
-####################
-# Midfielders
-
-Rafael van der Vaart          ## Hamburger SV
-Wesley Sneijder               ## Galatasaray
-Arjen Robben                  ## Bayern Munich
-Nigel de Jong                 ## Milan
-Daley Blind                   ## Ajax
-Jonathan de Guzmán            ## Swansea City
-Jordy Clasie                  ## Feyenoord
-Memphis Depay                 ## PSV Eindhoven
-Leroy Fer                     ## Norwich City
-Georginio Wijnaldum           ## PSV Eindhoven
-Jean-Paul Boëtius             ## Feyenoord
-Quincy Promes                 ## Twente
-Tonny Vilhena                 ## Feyenoord
-
-####################
-# Forwards
-
-Dirk Kuyt                     ## Fenerbahçe
-Robin van Persie              ## Manchester United
-Klaas-Jan Huntelaar           ## Schalke 04
-Jeremain Lens                 ## Dynamo Kyiv
+ (9)  FW  Robin van Persie                   ##  84, Manchester United (ENG)
+(15)  FW  Dirk Kuyt                          ##  98, Fenerbahçe (TUR)
+(17)  FW  Jeremain Lens                      ##  21, Dynamo Kyiv (UKR)
+(19)  FW  Klaas-Jan Huntelaar                ##  61, Schalke 04 (GER)

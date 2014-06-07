@@ -1,47 +1,26 @@
-####################
-# Uruguay
-# 
-# Coaching Staff
-# - Head Coach:  Oscar Tabarez
+ (1)  GK  Fernando Muslera                   ##  57, Galatasaray (TUR)
+(12)  GK  Rodrigo Muñoz                      ##   0, Libertad (PAR)
+(23)  GK  Martín Silva                       ##   4, Vasco da Gama (BRA)
 
+ (2)  DF  Diego Lugano                       ##  93, West Bromwich Albion (ENG)
+ (3)  DF  Diego Godín                        ##  76, Atlético Madrid (ESP)
+ (4)  DF  Sebastián Coates                   ##  14, Nacional (URU)
+(13)  DF  Jorge Fucile                       ##  41, Porto (POR)
+(16)  DF  Maxi Pereira                       ##  89, Benfica (POR)
+(19)  DF  José María Giménez                 ##   5, Atlético Madrid (ESP)
+(22)  DF  Martín Cáceres                     ##  56, Juventus (ITA)
 
-####################
-# Goal Keepers
+ (5)  MF  Walter Gargano                     ##  62, Parma (ITA)
+ (6)  MF  Álvaro Pereira                     ##  56, São Paulo (BRA)
+ (7)  MF  Cristian Rodríguez                 ##  72, Atlético Madrid (ESP)
+(14)  MF  Nicolás Lodeiro                    ##  26, Botafogo (BRA)
+(15)  MF  Diego Pérez                        ##  89, Bologna (ITA)
+(17)  MF  Egidio Arévalo Ríos                ##  54, Morelia (MEX)
+(18)  MF  Gastón Ramírez                     ##  28, Southampton (ENG)
+(20)  MF  Álvaro González                    ##  42, Lazio (ITA)
 
-Fernando Muslera              ## Galatasaray
-Martín Silva                  ## Vasco da Gama
-Rodrigo Muñoz                 ## Libertad
-
-####################
-# Defenders
-
-Diego Lugano                  ## West Bromwich Albion
-Maxi Pereira                  ## Benfica
-Diego Godín                   ## Atlético Madrid
-Martín Cáceres                ## Juventus
-Jorge Fucile                  ## Porto
-Sebastián Coates              ## Nacional
-José María Giménez            ## Atlético Madrid
-Alejandro Silva               ## Lanús
-
-####################
-# Midfielders
-
-Diego Pérez                   ## Bologna
-Cristian Rodríguez            ## Atlético Madrid
-Walter Gargano                ## Parma
-Álvaro Pereira                ## São Paulo
-Sebastián Eguren              ## Palmeiras
-Egidio Arévalo Ríos           ## Morelia
-Álvaro González               ## Lazio
-Gastón Ramírez                ## Southampton
-Nicolás Lodeiro               ## Botafogo
-
-####################
-# Forwards
-
-Diego Forlán                  ## Cerezo Osaka
-Luis Suárez                   ## Liverpool
-Edinson Cavani                ## Paris Saint-Germain
-Abel Hernández                ## Palermo
-Christian Stuani              ## Espanyol
+ (8)  FW  Abel Hernández                     ##  12, Palermo (ITA)
+ (9)  FW  Luis Suárez                        ##  77, Liverpool (ENG)
+(10)  FW  Diego Forlán                       ## 109, Cerezo Osaka (JPN)
+(11)  FW  Christian Stuani                   ##   9, Espanyol (ESP)
+(21)  FW  Edinson Cavani                     ##  61, Paris Saint-Germain (FRA)

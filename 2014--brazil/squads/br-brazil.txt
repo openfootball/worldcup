@@ -1,45 +1,26 @@
-####################
-# Brazil
-# 
-# Coaching Staff
-# - Head Coach:  Luiz Felipe Scolari
+ (1)  GK  Jefferson                          ##   9, Botafogo (BRA)
+(12)  GK  Júlio César                        ##  79, Toronto (CAN)
+(22)  GK  Victor                             ##   6, Atlético Mineiro (BRA)
 
+ (2)  DF  Dani Alves                         ##  74, Barcelona (ESP)
+ (3)  DF  Thiago Silva                       ##  45, Paris Saint-Germain (FRA)
+ (4)  DF  David Luiz                         ##  35, Chelsea (ENG)
+ (6)  DF  Marcelo                            ##  30, Real Madrid (ESP)
+(13)  DF  Dante                              ##  12, Bayern Munich (GER)
+(14)  DF  Maxwell                            ##   8, Paris Saint-Germain (FRA)
+(15)  DF  Henrique                           ##   5, Napoli (ITA)
+(23)  DF  Maicon                             ##  71, Roma (ITA)
 
-####################
-# Goal Keepers
+ (5)  MF  Fernandinho                        ##   6, Manchester City (ENG)
+ (8)  MF  Paulinho                           ##  25, Tottenham Hotspur (ENG)
+(11)  MF  Oscar                              ##  30, Chelsea (ENG)
+(16)  MF  Ramires                            ##  42, Chelsea (ENG)
+(17)  MF  Luiz Gustavo                       ##  18, VfL Wolfsburg (GER)
+(18)  MF  Hernanes                           ##  24, Internazionale (ITA)
+(19)  MF  Willian                            ##   6, Chelsea (ENG)
 
-Júlio César                   ## Toronto FC
-Jefferson                     ## Botafogo
-Victor                        ## Atlético Mineiro
-
-####################
-# Defenders
-
-Daniel Alves                  ## Barcelona
-Maicon                        ## Roma
-Thiago Silva (captain)        ## Paris Saint-Germain
-David Luiz                    ## Chelsea
-Marcelo                       ## Real Madrid
-Dante                         ## Bayern Munich
-Maxwell                       ## Paris Saint-Germain
-Henrique                      ## Napoli
-
-####################
-# Midfielders
-
-Ramires                       ## Chelsea
-Oscar                         ## Chelsea
-Paulinho                      ## Tottenham Hotspur
-Hernanes                      ## Internazionale
-Luiz Gustavo                  ## VfL Wolfsburg
-Bernard                       ## Shakhtar Donetsk
-Fernandinho                   ## Manchester City
-Willian                       ## Chelsea
-
-####################
-# Forwards
-
-Neymar                        ## Barcelona
-Hulk                          ## Zenit Saint Petersburg
-Fred                          ## Fluminense
-Jô                            ## Atlético Mineiro
+ (7)  FW  Hulk                               ##  34, Zenit Saint Petersburg (RUS)
+ (9)  FW  Fred                               ##  33, Fluminense (BRA)
+(10)  FW  Neymar                             ##  48, Barcelona (ESP)
+(20)  FW  Bernard                            ##  10, Shakhtar Donetsk (UKR)
+(21)  FW  Jô                                 ##  16, Atlético Mineiro (BRA)

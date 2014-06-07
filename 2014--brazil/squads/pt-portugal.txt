@@ -1,45 +1,26 @@
-####################
-# Portugal
-# 
-# Coaching Staff
-# - Head Coach:  Paulo Bento
+ (1)  GK  Eduardo                            ##  33, Braga (POR)
+(12)  GK  Rui Patrício                       ##  29, Sporting (POR)
+(22)  GK  Beto                               ##   7, Sevilla (ESP)
 
+ (2)  DF  Bruno Alves                        ##  71, Fenerbahçe (TUR)
+ (3)  DF  Pepe                               ##  57, Real Madrid (ESP)
+ (5)  DF  Fábio Coentrão                     ##  43, Real Madrid (ESP)
+(13)  DF  Ricardo Costa                      ##  18, Valencia (ESP)
+(14)  DF  Luís Neto                          ##   7, Zenit Saint Petersburg (RUS)
+(19)  DF  André Almeida                      ##   3, Benfica (POR)
+(21)  DF  João Pereira                       ##  35, Valencia (ESP)
 
-####################
-# Goal Keepers
+ (4)  MF  Miguel Veloso                      ##  47, Dynamo Kyiv (UKR)
+ (6)  MF  William Carvalho                   ##   3, Sporting (POR)
+ (8)  MF  João Moutinho                      ##  66, AS Monaco (FRA)
+(10)  MF  Vieirinha                          ##   7, VfL Wolfsburg (GER)
+(15)  MF  Rafa Silva                         ##   2, Braga (POR)
+(16)  MF  Raul Meireles                      ##  73, Fenerbahçe (TUR)
+(17)  MF  Nani                               ##  73, Manchester United (ENG)
+(18)  MF  Silvestre Varela                   ##  22, Porto (POR)
+(20)  MF  Rúben Amorim                       ##  11, Benfica (POR)
 
-Eduardo                       ## Braga
-Rui Patrício                  ## Sporting CP
-Beto                          ## Sevilla
-
-####################
-# Defenders
-
-Bruno Alves                   ## Fenerbahçe
-Pepe                          ## Real Madrid
-Fábio Coentrão                ## Real Madrid
-João Pereira                  ## Valencia
-Ricardo Costa                 ## Valencia
-Luís Neto                     ## Zenit Saint Petersburg
-André Almeida                 ## Benfica
-
-####################
-# Midfielders
-
-Raul Meireles                 ## Fenerbahçe
-Nani                          ## Manchester United
-João Moutinho                 ## Monaco
-Miguel Veloso                 ## Dynamo Kyiv
-Silvestre Varela              ## Porto
-Rúben Amorim                  ## Benfica
-Vieirinha                     ## VfL Wolfsburg
-William Carvalho              ## Sporting CP
-Rafa Silva                    ## Braga
-
-####################
-# Forwards
-
-Cristiano Ronaldo (captain)   ## Real Madrid
-Hélder Postiga                ## Lazio
-Hugo Almeida                  ## Beşiktaş
-Éder                          ## Braga
+ (7)  FW  Cristiano Ronaldo                  ## 110, Real Madrid (ESP)
+ (9)  FW  Hugo Almeida                       ##  54, Beşiktaş (TUR)
+(11)  FW  Éder                               ##   7, Braga (POR)
+(23)  FW  Hélder Postiga                     ##  67, Lazio (ITA)

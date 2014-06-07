@@ -1,52 +1,26 @@
-####################
-# Ecuador
-# 
-# Coaching Staff
-# - Head Coach:  Reinaldo Rueda
+ (1)  GK  Máximo Banguera                    ##  24, Barcelona (ECU)
+(12)  GK  Adrián Bone                        ##   3, El Nacional (ECU)
+(22)  GK  Alexander Domínguez                ##  18, LDU Quito (ECU)
 
+ (2)  DF  Jorge Guagua                       ##  58, Emelec (ECU)
+ (3)  DF  Frickson Erazo                     ##  36, Flamengo (BRA)
+ (4)  DF  Juan Carlos Paredes                ##  37, Barcelona (ECU)
+(10)  DF  Walter Ayoví                       ##  89, Pachuca (MEX)
+(18)  DF  Óscar Bagüí                        ##  21, Emelec (ECU)
+(21)  DF  Gabriel Achilier                   ##  22, Emelec (ECU)
 
-####################
-# Goal Keepers
+ (5)  MF  Renato Ibarra                      ##  17, Vitesse (NED)
+ (6)  MF  Christian Noboa                    ##  41, Dynamo Moscow (RUS)
+ (7)  MF  Jefferson Montero                  ##  39, Morelia (MEX)
+ (8)  MF  Édison Méndez                      ## 109, Santa Fe (COL)
+ (9)  MF  Joao Rojas                         ##  29, Cruz Azul (MEX)
+(14)  MF  Segundo Castillo                   ##  81, Al-Hilal (KSA)
+(15)  MF  Michael Arroyo                     ##  20, Atlante (MEX)
+(16)  MF  Antonio Valencia                   ##  70, Manchester United (ENG)
+(19)  MF  Luis Saritama                      ##  48, Barcelona (ECU)
+(20)  MF  Fidel Martínez                     ##   8, Tijuana (MEX)
+(23)  MF  Carlos Gruezo                      ##   2, VfB Stuttgart (GER)
 
-Máximo Banguera               ## Barcelona
-Alexander Domínguez           ## LDU Quito
-Adrián Bone                   ## El Nacional
-
-####################
-# Defenders
-
-Walter Ayoví                  ## Pachuca
-Jorge Guagua                  ## Emelec
-Juan Carlos Paredes           ## Barcelona
-Frickson Erazo                ## Flamengo
-Gabriel Achilier              ## Emelec
-Óscar Bagüí                   ## Emelec
-Cristian Ramírez              ## Fortuna Düsseldorf
-John Narváez                  ## Emelec
-
-####################
-# Midfielders
-
-Édison Méndez                 ## Santa Fe
-Segundo Castillo              ## Al-Hilal
-Antonio Valencia              ## Manchester United
-Luis Saritama                 ## Barcelona
-Christian Noboa               ## Dynamo Moscow
-Jefferson Montero             ## Morelia
-João Rojas                    ## Cruz Azul
-Michael Arroyo                ## Atlante
-Oswaldo Minda                 ## Chivas USA
-Renato Ibarra                 ## Vitesse
-Pedro Quiñónez                ## Emelec
-Fidel Martínez                ## Tijuana
-Carlos Gruezo                 ## VfB Stuttgart
-Ángel Mena                    ## Emelec
-Cristian Penilla              ## Barcelona
-
-####################
-# Forwards
-
-Felipe Caicedo                ## Al-Jazira
-Jaime Ayoví                   ## Tijuana
-Enner Valencia                ## Pachuca
-Armando Wila                  ## Universidad Católica
+(11)  FW  Felipe Caicedo                     ##  49, Al-Jazira (UAE)
+(13)  FW  Enner Valencia                     ##   9, Pachuca (MEX)
+(17)  FW  Jaime Ayoví                        ##  30, Tijuana (MEX)

@@ -1,31 +1,26 @@
-####################
-# Switzerland
-# 
-# Coaching Staff
-# - Head Coach:  Ottmar Hitzfeld
+ (1)  GK  Diego Benaglio                     ##  56, VfL Wolfsburg (GER)
+(12)  GK  Yann Sommer                        ##   6, Basel (SUI)
+(21)  GK  Roman Bürki                        ##   0, Grasshopper (SUI)
 
+ (2)  DF  Stephan Lichtsteiner               ##  62, Juventus (ITA)
+ (3)  DF  Reto Ziegler                       ##  35, Sassuolo (ITA)
+ (4)  DF  Philippe Senderos                  ##  53, Valencia (ESP)
+ (5)  DF  Steve von Bergen                   ##  40, Young Boys (SUI)
+ (6)  DF  Michael Lang                       ##   5, Grasshopper (SUI)
+(13)  DF  Ricardo Rodríguez                  ##  20, VfL Wolfsburg (GER)
+(20)  DF  Johan Djourou                      ##  44, Hamburger SV (GER)
+(22)  DF  Fabian Schär                       ##   5, Basel (SUI)
 
-####################
-# Goal Keepers
+ (7)  MF  Tranquillo Barnetta                ##  73, Eintracht Frankfurt (GER)
+ (8)  MF  Gökhan Inler                       ##  71, Napoli (ITA)
+(10)  MF  Granit Xhaka                       ##  25, Borussia Mönchengladbach (GER)
+(11)  MF  Valon Behrami                      ##  47, Napoli (ITA)
+(14)  MF  Valentin Stocker                   ##  23, Basel (SUI)
+(15)  MF  Blerim Džemaili                    ##  33, Napoli (ITA)
+(16)  MF  Gelson Fernandes                   ##  47, SC Freiburg (GER)
+(23)  MF  Xherdan Shaqiri                    ##  32, Bayern Munich (GER)
 
-Diego Benaglio                ## VfL Wolfsburg
-
-####################
-# Defenders
-
-Stephan Lichtsteiner          ## Juventus
-Reto Ziegler                  ## Sassuolo
-Philippe Senderos             ## Valencia
-Steve von Bergen              ## Young Boys
-Michael Lang                  ## Grasshopper
-
-####################
-# Midfielders
-
-Tranquillo Barnetta           ## Eintracht Frankfurt
-Gökhan Inler (captain)        ## Napoli
-
-####################
-# Forwards
-
-Haris Seferović               ## Real Sociedad
+ (9)  FW  Haris Seferović                    ##  10, Real Sociedad (ESP)
+(17)  FW  Mario Gavranović                   ##  10, Zürich (SUI)
+(18)  FW  Admir Mehmedi                      ##  20, SC Freiburg (GER)
+(19)  FW  Josip Drmić                        ##   6, 1. FC Nürnberg (GER)

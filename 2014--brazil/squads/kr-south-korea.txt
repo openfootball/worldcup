@@ -1,45 +1,26 @@
-####################
-# South Korea
-# 
-# Coaching Staff
-# - Head Coach:  Hong Myung-Bo
+ (1)  GK  Jung Sung-Ryong                    ##  60, Suwon Bluewings (KOR)
+(21)  GK  Kim Seung-Gyu                      ##   5, Ulsan Hyundai (KOR)
+(23)  GK  Lee Bum-Young                      ##   0, Busan I'Park (KOR)
 
+ (2)  DF  Kim Chang-Soo                      ##   8, Kashiwa Reysol (JPN)
+ (3)  DF  Yun Suk-Young                      ##   3, Queens Park Rangers (ENG)
+ (4)  DF  Kwak Tae-Hwi                       ##  34, Al-Hilal (KSA)
+ (5)  DF  Kim Young-Gwon                     ##  20, Guangzhou Evergrande (CHN)
+ (6)  DF  Hwang Seok-Ho                      ##   3, Sanfrecce Hiroshima (JPN)
+(12)  DF  Lee Yong                           ##  11, Ulsan Hyundai (KOR)
+(20)  DF  Hong Jeong-Ho                      ##  24, FC Augsburg (GER)
+(22)  DF  Park Joo-Ho                        ##  13, Mainz 05 (GER)
 
-####################
-# Goal Keepers
+ (7)  MF  Kim Bo-Kyung                       ##  27, Cardiff City (WAL)
+ (8)  MF  Ha Dae-Sung                        ##  13, Beijing Guoan (CHN)
+(13)  MF  Koo Ja-Cheol                       ##  36, Mainz 05 (GER)
+(14)  MF  Han Kook-Young                     ##   9, Kashiwa Reysol (JPN)
+(15)  MF  Park Jong-Woo                      ##  10, Guangzhou R&F (CHN)
+(16)  MF  Ki Sung-Yueng                      ##  58, Sunderland (ENG)
+(17)  MF  Lee Chung-Yong                     ##  54, Bolton Wanderers (ENG)
 
-Jung Sung-Ryong               ## Suwon Bluewings
-Kim Seung-Gyu                 ## Ulsan Hyundai
-Lee Bum-Young                 ## Busan I'Park
-
-####################
-# Defenders
-
-Kwak Tae-Hwi                  ## Al-Hilal
-Hong Jeong-Ho                 ## FC Augsburg
-Kim Young-Gwon                ## Guangzhou Evergrande
-Lee Yong                      ## Ulsan Hyundai
-Kim Jin-Su                    ## Albirex Niigata
-Kim Chang-Soo                 ## Kashiwa Reysol
-Hwang Seok-Ho                 ## Sanfrecce Hiroshima
-Yun Suk-Young                 ## Queens Park Rangers
-
-####################
-# Midfielders
-
-Ki Sung-Yueng                 ## Sunderland
-Lee Chung-Yong                ## Bolton Wanderers
-Koo Ja-Cheol (captain)        ## Mainz 05
-Kim Bo-Kyung                  ## Cardiff City
-Ha Dae-Sung                   ## Beijing Guoan
-Park Jong-Woo                 ## Guangzhou R&F
-Han Kook-Young                ## Kashiwa Reysol
-
-####################
-# Forwards
-
-Park Chu-Young                ## Watford
-Lee Keun-Ho                   ## Sangju Sangmu
-Kim Shin-Wook                 ## Ulsan Hyundai
-Ji Dong-Won                   ## FC Augsburg
-Son Heung-Min                 ## Bayer Leverkusen
+ (9)  FW  Son Heung-Min                      ##  24, Bayer Leverkusen (GER)
+(10)  FW  Park Chu-Young                     ##  63, Watford (ENG)
+(11)  FW  Lee Keun-Ho                        ##  63, Sangju Sangmu (KOR)
+(18)  FW  Kim Shin-Wook                      ##  26, Ulsan Hyundai (KOR)
+(19)  FW  Ji Dong-Won                        ##  27, FC Augsburg (GER)

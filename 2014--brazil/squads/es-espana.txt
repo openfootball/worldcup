@@ -1,51 +1,26 @@
-####################
-# Spain
-# 
-# Coaching Staff
-# - Head Coach:  Vicente del Bosque
+ (1)  GK  Iker Casillas                      ## 153, Real Madrid (ESP)
+(12)  GK  David de Gea                       ##   0, Manchester United (ENG)
+(23)  GK  Pepe Reina                         ##  31, Napoli (ITA)
 
+ (2)  DF  Raúl Albiol                        ##  46, Napoli (ITA)
+ (3)  DF  Gerard Piqué                       ##  60, Barcelona (ESP)
+ (5)  DF  Juanfran                           ##   6, Atlético Madrid (ESP)
+(15)  DF  Sergio Ramos                       ## 115, Real Madrid (ESP)
+(18)  DF  Jordi Alba                         ##  25, Barcelona (ESP)
+(22)  DF  César Azpilicueta                  ##   6, Chelsea (ENG)
 
-####################
-# Goal Keepers
+ (4)  MF  Javi Martínez                      ##  16, Bayern Munich (GER)
+ (6)  MF  Andrés Iniesta                     ##  95, Barcelona (ESP)
+ (8)  MF  Xavi                               ## 131, Barcelona (ESP)
+(10)  MF  Cesc Fàbregas                      ##  88, Barcelona (ESP)
+(13)  MF  Juan Mata                          ##  32, Manchester United (ENG)
+(14)  MF  Xabi Alonso                        ## 109, Real Madrid (ESP)
+(16)  MF  Sergio Busquets                    ##  64, Barcelona (ESP)
+(17)  MF  Koke                               ##   7, Atlético Madrid (ESP)
+(20)  MF  Santi Cazorla                      ##  62, Arsenal (ENG)
+(21)  MF  David Silva                        ##  79, Manchester City (ENG)
 
-Iker Casillas (captain)       ## Real Madrid
-Pepe Reina                    ## Napoli
-David de Gea                  ## Manchester United
-
-####################
-# Defenders
-
-Sergio Ramos                  ## Real Madrid
-Gerard Piqué                  ## Barcelona
-Raúl Albiol                   ## Napoli
-Jordi Alba                    ## Barcelona
-Juanfran                      ## Atlético Madrid
-César Azpilicueta             ## Chelsea
-Alberto Moreno                ## Sevilla
-Daniel Carvajal               ## Real Madrid
-
-####################
-# Midfielders
-
-Xavi Hernández                ## Barcelona
-Xabi Alonso                   ## Real Madrid
-Andrés Iniesta                ## Barcelona
-Cesc Fàbregas                 ## Barcelona
-David Silva                   ## Manchester City
-Sergio Busquets               ## Barcelona
-Santi Cazorla                 ## Arsenal
-Jesús Navas                   ## Manchester City
-Juan Mata                     ## Manchester United
-Javi Martínez                 ## Bayern Munich
-Koke                          ## Atlético Madrid
-Ander Iturraspe               ## Athletic Bilbao
-
-####################
-# Forwards
-
-Fernando Torres               ## Chelsea
-David Villa                   ## Atlético Madrid
-Pedro Rodríguez               ## Barcelona
-Fernando Llorente             ## Juventus
-Álvaro Negredo                ## Manchester City
-Diego Costa                   ## Atlético Madrid
+ (7)  FW  David Villa                        ##  94, Atlético Madrid (ESP)
+ (9)  FW  Fernando Torres                    ## 107, Chelsea (ENG)
+(11)  FW  Pedro                              ##  38, Barcelona (ESP)
+(19)  FW  Diego Costa                        ##   1, Atlético Madrid (ESP)

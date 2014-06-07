@@ -1,52 +1,26 @@
-####################
-# Italy
-# 
-# Coaching Staff
-# - Head Coach:  Cesare Prandelli
+ (1)  GK  Gianluigi Buffon                   ## 139, Juventus (ITA)
+(12)  GK  Salvatore Sirigu                   ##   8, Paris Saint-Germain (FRA)
+(13)  GK  Mattia Perin                       ##   0, Genoa (ITA)
 
+ (2)  DF  Mattia De Sciglio                  ##  10, Milan (ITA)
+ (3)  DF  Giorgio Chiellini                  ##  67, Juventus (ITA)
+ (4)  DF  Matteo Darmian                     ##   1, Torino (ITA)
+ (7)  DF  Ignazio Abate                      ##  19, Milan (ITA)
+(15)  DF  Andrea Barzagli                    ##  47, Juventus (ITA)
+(19)  DF  Leonardo Bonucci                   ##  36, Juventus (ITA)
+(20)  DF  Gabriel Paletta                    ##   2, Parma (ITA)
 
-####################
-# Goal Keepers
+ (5)  MF  Thiago Motta                       ##  20, Paris Saint-Germain (FRA)
+ (6)  MF  Antonio Candreva                   ##  19, Lazio (ITA)
+ (8)  MF  Claudio Marchisio                  ##  43, Juventus (ITA)
+(14)  MF  Alberto Aquilani                   ##  34, Fiorentina (ITA)
+(16)  MF  Daniele De Rossi                   ##  94, Roma (ITA)
+(18)  MF  Marco Parolo                       ##   3, Parma (ITA)
+(21)  MF  Andrea Pirlo                       ## 108, Juventus (ITA)
+(23)  MF  Marco Verratti                     ##   5, Paris Saint-Germain (FRA)
 
-Gianluigi Buffon              ## Juventus
-Salvatore Sirigu              ## Paris Saint-Germain
-Mattia Perin                  ## Genoa
-
-####################
-# Defenders
-
-Giorgio Chiellini             ## Juventus
-Andrea Barzagli               ## Juventus
-Leonardo Bonucci              ## Juventus
-Christian Maggio              ## Napoli
-Andrea Ranocchia              ## Internazionale
-Ignazio Abate                 ## Milan
-Mattia De Sciglio             ## Milan
-Manuel Pasqual                ## Fiorentina
-Gabriel Paletta               ## Parma
-Matteo Darmian                ## Torino
-
-####################
-# Midfielders
-
-Andrea Pirlo                  ## Juventus
-Daniele De Rossi              ## Roma
-Riccardo Montolivo            ## Milan
-Claudio Marchisio             ## Juventus
-Alberto Aquilani              ## Fiorentina
-Thiago Motta                  ## Paris Saint-Germain
-Antonio Candreva              ## Lazio
-Marco Verratti                ## Paris Saint-Germain
-Marco Parolo                  ## Parma
-Rômulo                        ## Verona
-
-####################
-# Forwards
-
-Antonio Cassano               ## Parma
-Mario Balotelli               ## Milan
-Giuseppe Rossi                ## Fiorentina
-Alessio Cerci                 ## Torino
-Mattia Destro                 ## Roma
-Lorenzo Insigne               ## Napoli
-Ciro Immobile                 ## Torino
+ (9)  FW  Mario Balotelli                    ##  29, Milan (ITA)
+(10)  FW  Antonio Cassano                    ##  36, Parma (ITA)
+(11)  FW  Alessio Cerci                      ##  11, Torino (ITA)
+(17)  FW  Ciro Immobile                      ##   2, Torino (ITA)
+(22)  FW  Lorenzo Insigne                    ##   4, Napoli (ITA)

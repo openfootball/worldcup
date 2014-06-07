@@ -1,45 +1,26 @@
-####################
-# England
-# 
-# Coaching Staff
-# - Head Coach: Roy Hodgson
+ (1)  GK  Joe Hart                           ##  40, Manchester City (ENG)
+(13)  GK  Ben Foster                         ##   6, West Bromwich Albion (ENG)
+(22)  GK  Fraser Forster                     ##   1, Celtic (SCO)
 
+ (2)  DF  Glen Johnson                       ##  51, Liverpool (ENG)
+ (3)  DF  Leighton Baines                    ##  23, Everton (ENG)
+ (5)  DF  Gary Cahill                        ##  23, Chelsea (ENG)
+ (6)  DF  Phil Jagielka                      ##  25, Everton (ENG)
+(12)  DF  Chris Smalling                     ##  11, Manchester United (ENG)
+(16)  DF  Phil Jones                         ##   9, Manchester United (ENG)
+(23)  DF  Luke Shaw                          ##   1, Southampton (ENG)
 
-####################
-# Goal Keepers
+ (4)  MF  Steven Gerrard                     ## 110, Liverpool (ENG)
+ (7)  MF  Jack Wilshere                      ##  16, Arsenal (ENG)
+ (8)  MF  Frank Lampard                      ## 103, Chelsea (ENG)
+(14)  MF  Jordan Henderson                   ##   9, Liverpool (ENG)
+(15)  MF  Alex Oxlade-Chamberlain            ##  14, Arsenal (ENG)
+(17)  MF  James Milner                       ##  46, Manchester City (ENG)
+(19)  MF  Raheem Sterling                    ##   3, Liverpool (ENG)
+(20)  MF  Adam Lallana                       ##   4, Southampton (ENG)
+(21)  MF  Ross Barkley                       ##   4, Everton (ENG)
 
-Joe Hart                      ## Manchester City
-Ben Foster                    ## West Bromwich Albion
-Fraser Forster                ## Celtic
-
-####################
-# Defenders
-
-Glen Johnson                  ## Liverpool
-Leighton Baines               ## Everton
-Gary Cahill                   ## Chelsea
-Phil Jagielka                 ## Everton
-Chris Smalling                ## Manchester United
-Phil Jones                    ## Manchester United
-Luke Shaw                     ## Southampton
-
-####################
-# Midfielders
-
-Steven Gerrard                ## Liverpool
-Jack Wilshere                 ## Arsenal
-Frank Lampard                 ## Chelsea
-Jordan Henderson              ## Liverpool
-Alex Oxlade-Chamberlain       ## Arsenal
-James Milner                  ## Manchester City
-Raheem Sterling               ## Liverpool
-Adam Lallana                  ## Southampton
-Ross Barkley                  ## Everton
-
-####################
-# Forwards
-
-Daniel Sturridge              ## Liverpool
-Wayne Rooney                  ## Manchester United
-Danny Welbeck                 ## Manchester United
-Rickie Lambert                ## Southampton
+ (9)  FW  Daniel Sturridge                   ##  11, Liverpool (ENG)
+(10)  FW  Wayne Rooney                       ##  90, Manchester United (ENG)
+(11)  FW  Danny Welbeck                      ##  22, Manchester United (ENG)
+(18)  FW  Rickie Lambert                     ##   4, Southampton (ENG)

@@ -1,52 +1,26 @@
-####################
-# Australia
-# 
-# Coaching Staff
-# - Head Coach:  Ange Postecoglou
+ (1)  GK  Mathew Ryan                        ##   6, Club Brugge (BEL)
+(12)  GK  Mitchell Langerak                  ##   3, Borussia Dortmund (GER)
+(18)  GK  Eugene Galeković                   ##   8, Adelaide United (AUS)
 
+ (2)  DF  Ivan Franjić                       ##   8, Brisbane Roar (AUS)
+ (3)  DF  Jason Davidson                     ##   6, Heracles Almelo (NED)
+ (6)  DF  Matthew Špiranović                 ##  17, Western Sydney Wanderers (AUS)
+ (8)  DF  Bailey Wright                      ##   0, Preston North End (ENG)
+(19)  DF  Ryan McGowan                       ##   9, Shandong Luneng Taishan (CHN)
+(22)  DF  Alex Wilkinson                     ##   2, Jeonbuk Hyundai Motors 
 
-####################
-# Goal Keepers
+ (5)  MF  Mark Milligan                      ##  28, Melbourne Victory (AUS)
+(10)  MF  Ben Halloran                       ##   1, Fortuna Düsseldorf (GER)
+(11)  MF  Tommy Oar                          ##  14, Utrecht (NED)
+(13)  MF  Oliver Bozanić                     ##   3, Luzern (SUI)
+(14)  MF  James Troisi                       ##  10, Atalanta (ITA)
+(15)  MF  Mile Jedinak                       ##  43, Crystal Palace (ENG)
+(16)  MF  James Holland                      ##  13, Austria Wien (AUT)
+(17)  MF  Matt McKay                         ##  46, Brisbane Roar (AUS)
+(20)  MF  Dario Vidošić                      ##  22, Sion (SWI)
+(21)  MF  Massimo Luongo                     ##   1, Swindon Town (ENG)
+(23)  MF  Mark Bresciano                     ##  73, Al-Gharafa (QAT)
 
-Eugene Galeković              ## Adelaide United
-Mathew Ryan                   ## Club Brugge
-Mitchell Langerak             ## Borussia Dortmund
-Mark Birighitti               ## Newcastle Jets
-
-####################
-# Defenders
-
-Luke Wilkshire                ## Dynamo Moscow
-Matthew Špiranović            ## Western Sydney Wanderers
-Ryan McGowan                  ## Shandong Luneng Taishan
-Ivan Franjić                  ## Brisbane Roar
-Jason Davidson                ## Heracles Almelo
-Curtis Good                   ## Dundee United
-Alex Wilkinson                ## Jeonbuk Hyundai Motors
-Bailey Wright                 ## Preston North End
-
-####################
-# Midfielders
-
-Mark Bresciano                ## Al-Gharafa
-Matt McKay                    ## Brisbane Roar
-Mile Jedinak (captain)        ## Crystal Palace
-Mark Milligan                 ## Melbourne Victory
-Dario Vidošić                 ## Sion
-Tommy Oar                     ## Utrecht
-James Holland                 ## Austria Wien
-James Troisi                  ## Atalanta
-Tom Rogić                     ## Celtic
-Adam Sarota                   ## Utrecht
-Oliver Bozanic                ## Luzern
-Joshua Brillante              ## Newcastle Jets
-Massimo Luongo                ## Swindon Town
-Ben Halloran                  ## Fortuna Düsseldorf
-
-####################
-# Forwards
-
-Tim Cahill                    ## New York Red Bulls
-Joshua Kennedy                ## Nagoya Grampus
-Mathew Leckie                 ## FSV Frankfurt
-Adam Taggart                  ## Newcastle Jets
+ (4)  FW  Tim Cahill                         ##  68, New York Red Bulls (USA)
+ (7)  FW  Mathew Leckie                      ##   7, FSV Frankfurt (GER)
+ (9)  FW  Adam Taggart                       ##   4, Newcastle Jets (AUS)

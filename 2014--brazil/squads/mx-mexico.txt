@@ -1,45 +1,26 @@
-####################
-# Mexico
-# 
-# Coaching Staff
-# - Head Coach:  Miguel Herrera
+ (1)  GK  José de Jesús Corona               ##  33, Cruz Azul (MEX)
+(12)  GK  Alfredo Talavera                   ##  14, Toluca (MEX)
+(13)  GK  Guillermo Ochoa                    ##  58, Ajaccio (FRA)
 
+ (2)  DF  Francisco Javier Rodríguez         ##  94, América (MEX)
+ (3)  DF  Carlos Salcido                     ## 122, UANL (MEX)
+ (4)  DF  Rafael Márquez                     ## 119, León (MEX)
+ (5)  DF  Diego Reyes                        ##  14, Porto (POR)
+ (7)  DF  Miguel Layún                       ##  14, América (MEX)
+(15)  DF  Héctor Moreno                      ##  52, Espanyol (ESP)
+(16)  DF  Miguel Ángel Ponce                 ##   8, Toluca (MEX)
+(18)  DF  Andrés Guardado                    ## 103, Bayer Leverkusen (GER)
+(22)  DF  Paul Aguilar                       ##  29, América (MEX)
 
-####################
-# Goal Keepers
+ (6)  MF  Héctor Herrera                     ##  12, Porto (POR)
+ (8)  MF  Marco Fabián                       ##  14, Cruz Azul (MEX)
+(17)  MF  Isaác Brizuela                     ##   7, Toluca (MEX)
+(20)  MF  Javier Aquino                      ##  21, Villarreal (ESP)
+(21)  MF  Carlos Peña                        ##  16, León (MEX)
+(23)  MF  José Juan Vázquez                  ##   4, León (MEX)
 
-Guillermo Ochoa               ## Ajaccio
-José de Jesús Corona          ## Cruz Azul
-Alfredo Talavera              ## Toluca
-
-####################
-# Defenders
-
-Carlos Salcido                ## UANL
-Rafael Márquez                ## León
-Andrés Guardado               ## Bayer Leverkusen
-Francisco Javier Rodríguez    ## América
-Héctor Moreno                 ## Espanyol
-Paul Aguilar                  ## América
-Diego Reyes                   ## Porto
-Miguel Layún                  ## América
-
-####################
-# Midfielders
-
-Carlos Peña                   ## León
-Marco Fabián                  ## Cruz Azul
-Luis Montes                   ## León
-Héctor Herrera                ## Porto
-Miguel Ángel Ponce            ## Toluca
-Isaác Brizuela                ## Toluca
-José Juan Vázquez             ## León
-
-####################
-# Forwards
-
-Giovani dos Santos            ## Villarreal
-Javier Hernández              ## Manchester United
-Oribe Peralta                 ## Santos Laguna
-Raúl Jiménez                  ## América
-Alan Pulido                   ## UANL
+ (9)  FW  Raúl Jiménez                       ##  25, América (MEX)
+(10)  FW  Giovani dos Santos                 ##  75, Villarreal (ESP)
+(11)  FW  Alan Pulido                        ##   5, UANL (MEX)
+(14)  FW  Javier Hernández                   ##  61, Manchester United (ENG)
+(19)  FW  Oribe Peralta                      ##  32, Santos Laguna (MEX)

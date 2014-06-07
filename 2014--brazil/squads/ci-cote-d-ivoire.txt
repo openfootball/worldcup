@@ -1,50 +1,26 @@
-####################
-# Côte d'Ivoire
-# 
-# Coaching Staff
-# - Head Coach:  Sabri Lamouchi
+ (1)  GK  Boubacar Barry                     ##  79, Lokeren (BEL)
+(16)  GK  Sylvain Gbohouo                    ##   1, Séwé Sport (CIV)
+(23)  GK  Sayouba Mandé                      ##   1, Stabæk (NOR)
 
+ (2)  DF  Ousmane Viera                      ##   3, Çaykur Rizespor (TUR)
+ (3)  DF  Arthur Boka                        ##  79, VfB Stuttgart (GER)
+ (4)  DF  Kolo Touré                         ## 106, Liverpool (ENG)
+ (5)  DF  Didier Zokora                      ## 119, Trabzonspor (TUR)
+ (7)  DF  Jean-Daniel Akpa-Akpro             ##   1, Toulouse (FRA)
+(17)  DF  Serge Aurier                       ##   8, Toulouse (FRA)
+(18)  DF  Constant Djakpa                    ##   4, Eintracht Frankfurt (GER)
+(22)  DF  Sol Bamba                          ##  43, Trabzonspor (TUR)
 
-####################
-# Goal Keepers
+ (9)  MF  Cheick Tioté                       ##  44, Newcastle United (ENG)
+(13)  MF  Didier Ya Konan                    ##  25, Hannover 96 (GER)
+(14)  MF  Ismaël Diomandé                    ##   1, Saint-Étienne (FRA)
+(19)  MF  Yaya Touré                         ##  83, Manchester City (ENG)
+(20)  MF  Serey Die                          ##   6, Basel (SWI)
 
-Boubacar Barry                ## Lokeren
-Sayouba Mandé                 ## Stabæk
-Badra Ali Sangaré             ## ASEC Mimosas
-Sylvain Gbohouo               ## Séwé Sport
-
-####################
-# Defenders
-
-Didier Zokora                 ## Trabzonspor
-Kolo Touré                    ## Liverpool
-Arthur Boka                   ## VfB Stuttgart
-Sol Bamba                     ## Trabzonspor
-Benjamin Angoua               ## Valenciennes
-Serge Aurier                  ## Toulouse
-Ousmane Viera                 ## Çaykur Rizespor
-Constant Djakpa               ## Eintracht Frankfurt
-Jean-Daniel Akpa-Akpro        ## Toulouse
-Brice Dja Djédjé              ## Marseille
-
-####################
-# Midfielders
-
-Yaya Touré                    ## Manchester City
-Cheick Tioté                  ## Newcastle United
-Didier Ya Konan               ## Hannover 96
-Max Gradel                    ## Saint-Étienne
-Serey Die                     ## Basel
-Mathis Bolly                  ## Fortuna Düsseldorf
-Ismaël Diomande               ## Saint-Étienne
-
-####################
-# Forwards
-
-Didier Drogba                 ## Galatasaray
-Salomon Kalou                 ## Lille
-Gervinho                      ## Roma
-Wilfried Bony                 ## Swansea City
-Seydou Doumbia                ## CSKA Moscow
-Lacina Traoré                 ## Everton
-Giovanni Sio                  ## Basel
+ (6)  FW  Mathis Bolly                       ##   3, Fortuna Düsseldorf (GER)
+ (8)  FW  Salomon Kalou                      ##  64, Lille (FRA)
+(10)  FW  Gervinho                           ##  53, Roma (ITA)
+(11)  FW  Didier Drogba                      ## 100, Galatasaray (TUR)
+(12)  FW  Wilfried Bony                      ##  24, Swansea City (WAL)
+(15)  FW  Max Gradel                         ##  25, Saint-Étienne (FRA)
+(21)  FW  Giovanni Sio                       ##   7, Basel (SWI)

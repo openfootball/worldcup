@@ -1,49 +1,26 @@
-####################
-# Colombia
-# 
-# Coaching Staff
-# - Head Coach:  José Pékerman
+ (1)  GK  David Ospina                       ##  42, Nice (FRA)
+(12)  GK  Camilo Vargas                      ##   0, Santa Fe (COL)
+(22)  GK  Faryd Mondragón                    ##  55, Deportivo Cali (COL)
 
+ (2)  DF  Cristián Zapata                    ##  21, Milan (ITA)
+ (3)  DF  Mario Yepes                        ##  96, Atalanta (ITA)
+ (4)  DF  Santiago Arias                     ##   5, PSV (NED)
+ (7)  DF  Pablo Armero                       ##  51, West Ham United (ENG)
+(16)  DF  Éder Álvarez Balanta               ##   2, River Plate (ARG)
+(18)  DF  Juan Camilo Zúñiga                 ##  52, Napoli (ITA)
+(23)  DF  Carlos Valdés                      ##  13, San Lorenzo (ARG)
 
-####################
-# Goal Keepers
+ (5)  MF  Aldo Leão Ramírez                  ##  29, Morelia (MEX)
+ (6)  MF  Carlos Sánchez                     ##  44, Elche (ESP)
+ (8)  MF  Abel Aguilar                       ##  48, Toulouse (FRA)
+(10)  MF  James Rodríguez                    ##  21, AS Monaco (FRA)
+(11)  MF  Juan Guillermo Cuadrado            ##  26, Fiorentina (ITA)
+(13)  MF  Fredy Guarín                       ##  48, Internazionale (ITA)
+(14)  MF  Víctor Ibarbo                      ##   8, Cagliari (ITA)
+(15)  MF  Alexander Mejía                    ##   9, Atlético Nacional (COL)
+(20)  MF  Juan Fernando Quintero             ##   4, Porto (POR)
 
-Faryd Mondragón               ## Deportivo Cali
-David Ospina                  ## Nice
-Camilo Vargas                 ## Santa Fe
-
-####################
-# Defenders
-
-Mario Yepes                   ## Atalanta
-Luis Amaranto Perea           ## Cruz Azul
-Juan Camilo Zúñiga            ## Napoli
-Pablo Armero                  ## West Ham United
-Cristián Zapata               ## Milan
-Carlos Valdés                 ## San Lorenzo
-Santiago Arias                ## PSV Eindhoven
-Éder Álvarez Balanta          ## River Plate
-
-####################
-# Midfielders
-
-Fredy Guarín                  ## Internazionale
-Abel Aguilar                  ## Toulouse
-Carlos Sánchez                ## Elche
-Aldo Leão Ramírez             ## Morelia
-Juan Guillermo Cuadrado       ## Fiorentina
-James Rodríguez               ## Monaco
-Edwin Valencia                ## Fluminense
-Alexander Mejía               ## Atlético Nacional
-Juan Fernando Quintero        ## Porto
-
-####################
-# Forwards
-
-Radamel Falcao                ## Monaco
-Teófilo Gutiérrez             ## River Plate
-Jackson Martínez              ## Porto
-Adrián Ramos                  ## Hertha BSC
-Carlos Bacca                  ## Sevilla
-Víctor Ibarbo                 ## Cagliari
-Luis Muriel                   ## Udinese
+ (9)  FW  Teófilo Gutiérrez                  ##  29, River Plate (ARG)
+(17)  FW  Carlos Bacca                       ##  10, Sevilla (ESP)
+(19)  FW  Adrián Ramos                       ##  24, Hertha BSC (GER)
+(21)  FW  Jackson Martínez                   ##  27, Porto (POR)

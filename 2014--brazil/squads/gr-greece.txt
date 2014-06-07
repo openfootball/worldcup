@@ -1,45 +1,26 @@
-####################
-# Greece
-# 
-# Coaching Staff
-# - Head Coach:  Fernando Santos
+ (1)  GK  Orestis Karnezis                   ##  18, Granada (ESP)
+(12)  GK  Panagiotis Glykos                  ##   2, PAOK (GRE)
+(13)  GK  Stefanos Kapino                    ##   2, Panathinaikos (GRE)
 
+ (2)  DF  Giannis Maniatis                   ##  29, Olympiacos (GRE)
+ (3)  DF  Giorgos Tzavellas                  ##  13, PAOK (GRE)
+ (4)  DF  Kostas Manolas                     ##   8, Olympiacos (GRE)
+ (5)  DF  Vangelis Moras                     ##  18, Verona (ITA)
+(11)  DF  Loukas Vyntra                      ##  49, Levante (ESP)
+(15)  DF  Vasilis Torosidis                  ##  65, Roma (ITA)
+(19)  DF  Sokratis Papastathopoulos          ##  47, Borussia Dortmund (GER)
+(20)  DF  José Holebas                       ##  21, Olympiacos (GRE)
 
-####################
-# Goal Keepers
+ (6)  MF  Alexandros Tziolis                 ##  49, Kayserispor (TUR)
+ (8)  MF  Panagiotis Kone                    ##  15, Bologna (ITA)
+(10)  MF  Giorgos Karagounis                 ## 134, Fulham (ENG)
+(16)  MF  Lazaros Christodoulopoulos         ##  18, Bologna (ITA)
+(18)  MF  Giannis Fetfatzidis                ##  18, Genoa (ITA)
+(21)  MF  Kostas Katsouranis                 ## 110, PAOK (GRE)
+(22)  MF  Andreas Samaris                    ##   4, Olympiacos (GRE)
+(23)  MF  Panagiotis Tachtsidis              ##   5, Torino (ITA)
 
-Orestis Karnezis              ## Granada
-Stefanos Kapino               ## Panathinaikos
-Panagiotis Glykos             ## PAOK
-
-####################
-# Defenders
-
-Vasilis Torosidis             ## Roma
-Loukas Vyntra                 ## Levante
-Sokratis Papastathopoulos     ## Borussia Dortmund
-Giannis Maniatis              ## Olympiacos
-José Holebas                  ## Olympiacos
-Vangelis Moras                ## Hellas Verona
-Giorgos Tzavellas             ## PAOK
-Kostas Manolas                ## Olympiacos
-
-####################
-# Midfielders
-
-Giorgos Karagounis (captain)  ## Fulham
-Kostas Katsouranis            ## PAOK
-Alexandros Tziolis            ## Kayserispor
-Giannis Fetfatzidis           ## Genoa
-Lazaros Christodoulopoulos    ## Bologna
-Panagiotis Kone               ## Bologna
-Panagiotis Tachtsidis         ## Torino
-Andreas Samaris               ## Olympiacos
-
-####################
-# Forwards
-
-Dimitris Salpingidis          ## PAOK
-Giorgos Samaras               ## Celtic
-Theofanis Gekas               ## Konyaspor
-Kostas Mitroglou              ## Fulham
+ (7)  FW  Giorgos Samaras                    ##  73, Celtic (SCO)
+ (9)  FW  Kostas Mitroglou                   ##  31, Fulham (ENG)
+(14)  FW  Dimitris Salpingidis               ##  75, PAOK (GRE)
+(17)  FW  Theofanis Gekas                    ##  71, Konyaspor (TUR)

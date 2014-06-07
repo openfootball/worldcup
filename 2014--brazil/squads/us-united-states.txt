@@ -1,45 +1,26 @@
-####################
-# United States
-# 
-# Coaching Staff
-# - Head Coach:  Jürgen Klinsmann
+ (1)  GK  Tim Howard                         ##  99, Everton (ENG)
+(12)  GK  Brad Guzan                         ##  25, Aston Villa (ENG)
+(22)  GK  Nick Rimando                       ##  14, Real Salt Lake (USA)
 
+ (2)  DF  DeAndre Yedlin                     ##   4, Seattle Sounders FC (USA)
+ (3)  DF  Omar Gonzalez                      ##  19, Los Angeles Galaxy (USA)
+ (5)  DF  Matt Besler                        ##  16, Sporting Kansas City (USA)
+ (6)  DF  John Brooks                        ##   4, Hertha BSC (GER)
+ (7)  DF  DaMarcus Beasley                   ## 115, Puebla (MEX)
+(20)  DF  Geoff Cameron                      ##  26, Stoke City (ENG)
+(21)  DF  Timothy Chandler                   ##  12, 1. FC Nürnberg (GER)
+(23)  DF  Fabian Johnson                     ##  21, 1899 Hoffenheim (GER)
 
-####################
-# Goal Keepers
+ (4)  MF  Michael Bradley                    ##  85, Toronto FC (CAN)
+(10)  MF  Mikkel Diskerud                    ##  19, Rosenborg (NOR)
+(11)  MF  Alejandro Bedoya                   ##  27, Nantes (FRA)
+(13)  MF  Jermaine Jones                     ##  41, Beşiktaş (TUR)
+(14)  MF  Brad Davis                         ##  16, Houston Dynamo (USA)
+(15)  MF  Kyle Beckerman                     ##  36, Real Salt Lake (USA)
+(16)  MF  Julian Green                       ##   2, Bayern Munich (GER)
+(19)  MF  Graham Zusi                        ##  22, Sporting Kansas City (USA)
 
-Tim Howard                    ## Everton
-Brad Guzan                    ## Aston Villa
-Nick Rimando                  ## Real Salt Lake
-
-####################
-# Defenders
-
-DaMarcus Beasley              ## Puebla
-Geoff Cameron                 ## Stoke City
-Fabian Johnson                ## 1899 Hoffenheim
-Omar Gonzalez                 ## Los Angeles Galaxy
-Matt Besler                   ## Sporting Kansas City
-Timothy Chandler              ## 1. FC Nürnberg
-John Brooks                   ## Hertha BSC
-DeAndre Yedlin                ## Seattle Sounders FC
-
-####################
-# Midfielders
-
-Michael Bradley               ## Toronto FC
-Jermaine Jones                ## Beşiktaş
-Kyle Beckerman                ## Real Salt Lake
-Alejandro Bedoya              ## Nantes
-Graham Zusi                   ## Sporting Kansas City
-Mikkel Diskerud               ## Rosenborg
-Brad Davis                    ## Houston Dynamo
-Julian Green                  ## Bayern Munich
-
-####################
-# Forwards
-
-Clint Dempsey                 ## Seattle Sounders FC
-Jozy Altidore                 ## Sunderland
-Chris Wondolowski             ## San Jose Earthquakes
-Aron Jóhannsson               ## AZ
+ (8)  FW  Clint Dempsey                      ## 104, Seattle Sounders FC (USA)
+ (9)  FW  Aron Jóhannsson                    ##   8, AZ (NED)
+(17)  FW  Jozy Altidore                      ##  69, Sunderland (ENG)
+(18)  FW  Chris Wondolowski                  ##  20, San Jose Earthquakes (USA)

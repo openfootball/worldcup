@@ -1,46 +1,26 @@
-####################
-# Russia
-# 
-# Coaching Staff
-# - Head Coach:  Fabio Capello
+ (1)  GK  Igor Akinfeev                      ##  67, CSKA Moscow 
+(12)  GK  Yuri Lodygin                       ##   2, Zenit Saint Petersburg 
+(16)  GK  Sergey Ryzhikov                    ##   1, Rubin Kazan 
 
+ (2)  DF  Aleksei Kozlov                     ##  10, Dynamo Moscow 
+ (3)  DF  Georgi Shchennikov                 ##   3, CSKA Moscow 
+ (4)  DF  Sergei Ignashevich                 ##  95, CSKA Moscow 
+ (5)  DF  Andrei Semyonov                    ##   1, Terek Grozny 
+(13)  DF  Vladimir Granat                    ##   4, Dynamo Moscow 
+(14)  DF  Vasili Berezutski                  ##  77, CSKA Moscow 
+(22)  DF  Andrey Yeshchenko                  ##  11, Anzhi Makhachkala 
+(23)  DF  Dmitri Kombarov                    ##  21, Spartak Moscow 
 
-####################
-# Goal Keepers
+ (7)  MF  Igor Denisov                       ##  42, Dynamo Moscow 
+ (8)  MF  Denis Glushakov                    ##  26, Spartak Moscow 
+(10)  MF  Alan Dzagoev                       ##  31, CSKA Moscow 
+(15)  MF  Roman Shirokov                     ##  40, Krasnodar 
+(17)  MF  Oleg Shatov                        ##   6, Zenit Saint Petersburg 
+(20)  MF  Viktor Fayzulin                    ##  18, Zenit Saint Petersburg 
 
-Igor Akinfeev                 ## CSKA Moscow
-Yuri Lodygin                  ## Zenit Saint Petersburg
-Sergey Ryzhikov               ## Rubin Kazan
-
-####################
-# Defenders
-
-Sergei Ignashevich            ## CSKA Moscow
-Vasili Berezutski             ## CSKA Moscow
-Dmitri Kombarov               ## Spartak Moscow
-Andrey Yeshchenko             ## Anzhi Makhachkala
-Aleksei Kozlov                ## Dynamo Moscow
-Vladimir Granat               ## Dynamo Moscow
-Georgi Shchennikov            ## CSKA Moscow
-Andrei Semyonov               ## Terek Grozny
-
-####################
-# Midfielders
-
-Igor Denisov                  ## Dynamo Moscow
-Aleksei Ionov                 ## Dynamo Moscow
-Yuri Zhirkov                  ## Dynamo Moscow
-Roman Shirokov                ## Krasnodar
-Alan Dzagoev                  ## CSKA Moscow
-Denis Glushakov               ## Spartak Moscow
-Viktor Fayzulin               ## Zenit Saint Petersburg
-Aleksandr Samedov             ## Lokomotiv Moscow
-Oleg Shatov                   ## Zenit Saint Petersburg
-Pavel Mogilevets              ## Rubin Kazan
-
-####################
-# Forwards
-
-Aleksandr Kerzhakov           ## Zenit Saint Petersburg
-Aleksandr Kokorin             ## Dynamo Moscow
-Maksim Kanunnikov             ## Amkar Perm
+ (6)  FW  Maksim Kanunnikov                  ##   2, Rubin Kazan 
+ (9)  FW  Aleksandr Kokorin                  ##  20, Dynamo Moscow 
+(11)  FW  Aleksandr Kerzhakov                ##  79, Zenit Saint Petersburg 
+(18)  FW  Yuri Zhirkov                       ##  59, Dynamo Moscow 
+(19)  FW  Aleksandr Samedov                  ##  16, Lokomotiv Moscow 
+(21)  FW  Aleksei Ionov                      ##   5, Dynamo Moscow 

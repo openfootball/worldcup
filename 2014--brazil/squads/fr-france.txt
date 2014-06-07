@@ -1,45 +1,26 @@
-####################
-# France
-# 
-# Coaching Staff
-# - Head Coach:  Didier Deschamps
+ (1)  GK  Hugo Lloris                        ##  56, Tottenham Hotspur (ENG)
+(16)  GK  Stéphane Ruffier                   ##   2, Saint-Étienne (FRA)
+(23)  GK  Mickaël Landreau                   ##  11, Bastia (FRA)
 
+ (2)  DF  Mathieu Debuchy                    ##  20, Newcastle United (ENG)
+ (3)  DF  Patrice Evra                       ##  57, Manchester United (ENG)
+ (4)  DF  Raphaël Varane                     ##   5, Real Madrid (ESP)
+ (5)  DF  Mamadou Sakho                      ##  18, Liverpool (ENG)
+(13)  DF  Eliaquim Mangala                   ##   3, Porto (POR)
+(15)  DF  Bacary Sagna                       ##  40, Arsenal (ENG)
+(17)  DF  Lucas Digne                        ##   2, Paris Saint-Germain (FRA)
+(21)  DF  Laurent Koscielny                  ##  17, Arsenal (ENG)
 
-####################
-# Goal Keepers
+ (6)  MF  Yohan Cabaye                       ##  29, Paris Saint-Germain (FRA)
+ (8)  MF  Mathieu Valbuena                   ##  33, Marseille (FRA)
+(11)  MF  Antoine Griezmann                  ##   3, Real Sociedad (ESP)
+(12)  MF  Rio Mavuba                         ##  11, Lille (FRA)
+(14)  MF  Blaise Matuidi                     ##  22, Paris Saint-Germain (FRA)
+(18)  MF  Moussa Sissoko                     ##  16, Newcastle United (ENG)
+(19)  MF  Paul Pogba                         ##  10, Juventus (ITA)
+(22)  MF  Morgan Schneiderlin                ##   0, Southampton (ENG)
 
-Hugo Lloris (C)               ## Tottenham Hotspur
-Mickaël Landreau              ## Bastia
-Stéphane Ruffier[34]          ## Saint-Étienne
-
-####################
-# Defenders
-
-Patrice Evra                  ## Manchester United
-Bacary Sagna                  ## Arsenal
-Mathieu Debuchy               ## Newcastle United
-Mamadou Sakho                 ## Liverpool
-Laurent Koscielny             ## Arsenal
-Raphaël Varane                ## Real Madrid
-Eliaquim Mangala              ## Porto
-Lucas Digne                   ## Paris Saint-Germain
-
-####################
-# Midfielders
-
-Franck Ribéry                 ## Bayern Munich
-Mathieu Valbuena              ## Marseille
-Yohan Cabaye                  ## Paris Saint-Germain
-Blaise Matuidi                ## Paris Saint-Germain
-Moussa Sissoko                ## Newcastle United
-Rio Mavuba                    ## Lille
-Paul Pogba                    ## Juventus
-Clément Grenier               ## Lyon
-Antoine Griezmann             ## Real Sociedad
-
-####################
-# Forwards
-
-Karim Benzema                 ## Real Madrid
-Olivier Giroud                ## Arsenal
-Loïc Rémy                     ## Newcastle United
+ (7)  FW  Rémy Cabella                       ##   1, Montpellier (FRA)
+ (9)  FW  Olivier Giroud                     ##  29, Arsenal (ENG)
+(10)  FW  Karim Benzema                      ##  65, Real Madrid (ESP)
+(20)  FW  Loïc Rémy                          ##  24, Newcastle United (ENG)

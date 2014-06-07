@@ -1,52 +1,26 @@
-####################
-# Costa Rica
-# 
-# Coaching Staff
-# - Head Coach:  Jorge Luis Pinto
+ (1)  GK  Keylor Navas                       ##  52, Levante (ESP)
+(18)  GK  Patrick Pemberton                  ##  20, Alajuelense (CRC)
+(23)  GK  Daniel Cambronero                  ##   4, Herediano (CRC)
 
+ (2)  DF  Johnny Acosta                      ##  25, Alajuelense (CRC)
+ (3)  DF  Giancarlo González                 ##  34, Columbus Crew (USA)
+ (4)  DF  Michael Umaña                      ##  82, Saprissa (CRC)
+ (6)  DF  Óscar Duarte                       ##  10, Club Brugge (BEL)
+ (8)  DF  Heiner Mora                        ##  21, Saprissa (CRC)
+(12)  DF  Waylon Francis                     ##   1, Columbus Crew (USA)
+(15)  DF  Júnior Díaz                        ##  61, Mainz 05 (GER)
+(16)  DF  Cristian Gamboa                    ##  25, Rosenborg (NOR)
+(19)  DF  Roy Miller                         ##  48, New York Red Bulls (USA)
 
-####################
-# Goal Keepers
+ (5)  MF  Celso Borges                       ##  62, AIK (SWE)
+ (7)  MF  Christian Bolaños                  ##  54, Copenhagen (DEN)
+(11)  MF  Michael Barrantes                  ##  50, Aalesund (NOR)
+(13)  MF  Esteban Granados                   ##  11, Herediano (CRC)
+(17)  MF  Yeltsin Tejeda                     ##  22, Saprissa (CRC)
+(20)  MF  Diego Calvo                        ##   9, Vålerenga (NOR)
+(22)  MF  José Miguel Cubero                 ##  34, Herediano (CRC)
 
-Keylor Navas                  ## Levante
-Patrick Pemberton             ## Alajuelense
-Daniel Cambronero             ## Herediano
-Esteban Alvarado              ## AZ
-
-####################
-# Defenders
-
-Michael Umaña                 ## Saprissa
-Júnior Díaz                   ## Mainz 05
-Roy Miller                    ## New York Red Bulls
-Giancarlo González            ## Columbus Crew
-Johnny Acosta                 ## Alajuelense
-Cristian Gamboa               ## Rosenborg
-Óscar Duarte                  ## Club Brugge
-Heiner Mora                   ## Saprissa
-Kendall Waston                ## Saprissa
-Waylon Francis                ## Columbus Crew
-
-####################
-# Midfielders
-
-Celso Borges                  ## AIK
-Christian Bolaños             ## Copenhagen
-Michael Barrantes             ## Aalesund
-Carlos Hernández              ## Wellington Phoenix
-José Miguel Cubero            ## Herediano
-Yeltsin Tejeda                ## Saprissa
-Ariel Rodríguez               ## Alajuelense
-Esteban Granados              ## Herediano
-Diego Calvo                   ## Vålerenga
-Hansell Arauz                 ## Saprissa
-
-####################
-# Forwards
-
-Álvaro Saborío                ## Real Salt Lake
-Bryan Ruiz                    ## PSV Eindhoven
-Randall Brenes                ## Cartaginés
-Joel Campbell                 ## Olympiacos
-Marco Ureña                   ## Kuban Krasnodar
-Jairo Arrieta                 ## Columbus Crew
+ (9)  FW  Joel Campbell                      ##  32, Olympiacos (GRE)
+(10)  FW  Bryan Ruiz                         ##  62, PSV (NED)
+(14)  FW  Randall Brenes                     ##  38, Cartaginés (CRC)
+(21)  FW  Marco Ureña                        ##  23, Kuban Krasnodar (RUS)

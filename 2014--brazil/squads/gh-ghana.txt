@@ -1,48 +1,26 @@
-####################
-# Ghana
-# 
-# Coaching Staff
-# - Head Coach:  James Kwesi Appiah
+ (1)  GK  Steven Adams                       ##   7, Aduana Stars (GHA)
+(12)  GK  Adam Kwarasey                      ##  21, Strømsgodset (NOR)
+(16)  GK  Fatau Dauda                        ##  17, Orlando Pirates (SAF)
 
+ (2)  DF  Samuel Inkoom                      ##  46, Platanias (GRE)
+ (4)  DF  Daniel Opare                       ##  16, Standard Liège (BEL)
+(15)  DF  Rashid Sumaila                     ##   6, Mamelodi Sundowns (SAF)
+(19)  DF  Jonathan Mensah                    ##  26, Évian (FRA)
+(21)  DF  John Boye                          ##  29, Rennes (FRA)
+(23)  DF  Harrison Afful                     ##  40, Espérance (TUN)
 
-####################
-# Goal Keepers
+ (5)  MF  Michael Essien                     ##  57, Milan (ITA)
+ (6)  MF  Afriyie Acquah                     ##   4, Parma (ITA)
+ (7)  MF  Christian Atsu                     ##  22, Vitesse (NED)
+ (8)  MF  Emmanuel Agyemang-Badu             ##  48, Udinese (ITA)
+(10)  MF  André Ayew                         ##  48, Marseille (FRA)
+(11)  MF  Sulley Muntari                     ##  81, Milan (ITA)
+(14)  MF  Albert Adomah                      ##  14, Middlesbrough (ENG)
+(17)  MF  Mohammed Rabiu                     ##  16, Kuban Krasnodar (RUS)
+(20)  MF  Kwadwo Asamoah                     ##  61, Juventus (ITA)
+(22)  MF  Wakaso Mubarak                     ##  16, Rubin Kazan (RUS)
 
-Adam Kwarasey                 ## Strømsgodset
-Fatau Dauda                   ## Orlando Pirates
-Steven Adams                  ## Aduana Stars
-
-####################
-# Defenders
-
-Samuel Inkoom                 ## Platanias
-Harrison Afful                ## Espérance
-John Boye                     ## Rennes
-Jonathan Mensah               ## Évian
-Daniel Opare                  ## Standard Liège
-Jerry Akaminko                ## Eskişehirspor
-Rashid Sumaila                ## Mamelodi Sundowns
-Jeff Schlupp                  ## Leicester City
-
-####################
-# Midfielders
-
-Sulley Muntari                ## Milan
-Kwadwo Asamoah                ## Juventus
-Michael Essien                ## Milan
-Emmanuel Agyemang-Badu        ## Udinese
-André Ayew                    ## Marseille
-Christian Atsu                ## Vitesse
-Wakaso Mubarak                ## Rubin Kazan
-Mohammed Rabiu                ## Kuban Krasnodar
-Albert Adomah                 ## Middlesbrough
-Kevin-Prince Boateng          ## Schalke 04
-Afriyie Acquah                ## Parma
-
-####################
-# Forwards
-
-Asamoah Gyan                  ## Al-Ain
-Majeed Waris                  ## Valenciennes
-Jordan Ayew                   ## Sochaux
-David Accam                   ## Helsingborg
+ (3)  FW  Asamoah Gyan                       ##  78, Al-Ain (UAE)
+ (9)  FW  Kevin-Prince Boateng               ##  12, Schalke 04 (GER)
+(13)  FW  Jordan Ayew                        ##  12, Sochaux (FRA)
+(18)  FW  Majeed Waris                       ##   9, Valenciennes (FRA)

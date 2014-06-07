@@ -1,52 +1,26 @@
-####################
-# Iran
-# 
-# Coaching Staff
-# - Head Coach:  Carlos Queiroz
+ (1)  GK  Rahman Ahmadi                      ##  10, Sepahan (IRN)
+(12)  GK  Alireza Haghighi                   ##   5, Sporting Covilhã (POR)
+(22)  GK  Daniel Davari                      ##   4, Eintracht Braunschweig (GER)
 
+ (4)  DF  Jalal Hosseini                     ##  84, Persepolis (IRN)
+ (5)  DF  Amir Hossein Sadeghi               ##  16, Esteghlal (IRN)
+(13)  DF  Hossein Mahini                     ##  21, Persepolis (IRN)
+(15)  DF  Pejman Montazeri                   ##  21, Umm Salal (QAT)
+(17)  DF  Ahmad Alenemeh                     ##   9, Naft Tehran (IRN)
+(19)  DF  Hashem Beikzadeh                   ##  17, Esteghlal (IRN)
+(20)  DF  Steven Beitashour                  ##   6, Vancouver Whitecaps (CAN)
+(23)  DF  Mehrdad Pouladi                    ##  19, Persepolis (IRN)
 
-####################
-# Goal Keepers
+ (2)  MF  Khosro Heydari                     ##  48, Esteghlal (IRN)
+ (3)  MF  Ehsan Hajsafi                      ##  61, Sepahan (IRN)
+ (6)  MF  Javad Nekounam                     ## 139, Al-Kuwait (KUW)
+ (7)  MF  Masoud Shojaei                     ##  49, Las Palmas (ESP)
+ (8)  MF  Reza Haghighi                      ##   7, Persepolis (IRN)
+(11)  MF  Ghasem Haddadifar                  ##  16, Zob Ahan (IRN)
+(14)  MF  Andranik Teymourian                ##  78, Esteghlal (IRN)
+(18)  MF  Bakhtiar Rahmani                   ##   4, Foolad (IRN)
+(21)  MF  Ashkan Dejagah                     ##  13, Fulham (ENG)
 
-Rahman Ahmadi                 ## Sepahan
-Alireza Haghighi              ## Sporting Covilhã
-Daniel Davari                 ## Eintracht Braunschweig
-Sosha Makani                  ## Foolad
-Alireza Beiranvand            ## Naft Tehran
-
-####################
-# Defenders
-
-Jalal Hosseini                ## Persepolis
-Ehsan Hajsafi                 ## Sepahan
-Khosro Heydari                ## Esteghlal
-Pejman Montazeri              ## Umm Salal
-Hossein Mahini                ## Persepolis
-Mehrdad Pouladi               ## Persepolis
-Hashem Beikzadeh              ## Esteghlal
-Amir Hossein Sadeghi          ## Esteghlal
-Ahmad Alenemeh                ## Naft Tehran
-Mohammad Reza Khanzadeh       ## Zob Ahan
-Steven Beitashour             ## Vancouver Whitecaps
-
-####################
-# Midfielders
-
-Javad Nekounam                ## Al-Kuwait
-Andranik Teymourian           ## Esteghlal
-Mohammad Reza Khalatbari      ## Ajman
-Masoud Shojaei                ## Las Palmas
-Ghasem Haddadifar             ## Zob Ahan
-Ashkan Dejagah                ## Fulham
-Reza Haghighi                 ## Persepolis
-Alireza Jahanbakhsh           ## NEC
-Bakhtiar Rahmani              ## Foolad
-
-####################
-# Forwards
-
-Karim Ansarifard              ## Tractor Sazi
-Reza Ghoochannejhad           ## Charlton Athletic
-Reza Norouzi                  ## Naft Tehran
-Mehdi Sharifi                 ## Sepahan
-Sardar Azmoun                 ## Rubin Kazan
+ (9)  FW  Alireza Jahanbakhsh                ##   6, NEC (NED)
+(10)  FW  Karim Ansarifard                   ##  41, Tractor Sazi (IRN)
+(16)  FW  Reza Ghoochannejhad                ##  13, Charlton Athletic (ENG)

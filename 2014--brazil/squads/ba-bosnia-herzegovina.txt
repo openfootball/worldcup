@@ -1,52 +1,26 @@
-####################
-# Bosnia and Herzegovina
-# 
-# Coaching Staff
-# - Head Coach:  Safet Sušić
+ (1)  GK  Asmir Begović                      ##  30, Stoke City (ENG)
+(12)  GK  Jasmin Fejzić                      ##   0, VfR Aalen (GER)
+(22)  GK  Asmir Avdukić                      ##   3, Borac Banja Luka (BIH)
 
+ (2)  DF  Avdija Vršajević                   ##  13, Hajduk Split (CRO)
+ (3)  DF  Ermin Bičakčić                     ##   7, Eintracht Braunschweig (GER)
+ (4)  DF  Emir Spahić                        ##  74, Bayer Leverkusen (GER)
+ (5)  DF  Sead Kolašinac                     ##   4, Schalke 04 (GER)
+ (6)  DF  Ognjen Vranješ                     ##  13, Elazığspor (TUR)
+ (7)  DF  Muhamed Bešić                      ##   9, Ferencváros (HUN)
+(13)  DF  Mensur Mujdža                      ##  24, SC Freiburg (GER)
+(15)  DF  Toni Šunjić                        ##   7, Zorya Luhansk (UKR)
 
-####################
-# Goal Keepers
+ (8)  MF  Miralem Pjanić                     ##  48, Roma (ITA)
+(10)  MF  Zvjezdan Misimović                 ##  82, Guizhou Renhe (CHN)
+(14)  MF  Izet Hajrović                      ##   7, Galatasaray (TUR)
+(16)  MF  Senad Lulić                        ##  33, Lazio (ITA)
+(17)  MF  Senijad Ibričić                    ##  42, Kayseri Erciyesspor (TUR)
+(18)  MF  Haris Medunjanin                   ##  35, Gaziantepspor (TUR)
+(20)  MF  Anel Hadžić                        ##   2, Sturm Graz (AUT)
+(21)  MF  Tino-Sven Sušić                    ##   2, Hajduk Split (CRO)
+(23)  MF  Sejad Salihović                    ##  42, 1899 Hoffenheim (GER)
 
-Asmir Begović                 ## Stoke City
-Asmir Avdukić                 ## Borac Banja Luka
-Jasmin Fejzić                 ## VfR Aalen
-Dejan Bandović                ## Sarajevo
-
-####################
-# Defenders
-
-Emir Spahić                   ## Bayer Leverkusen
-Mensur Mujdža                 ## SC Freiburg
-Avdija Vršajević              ## Hajduk Split
-Ognjen Vranješ                ## Elazığspor
-Ermin Bičakčić                ## Eintracht Braunschweig
-Ervin Zukanović               ## Gent
-Toni Šunjić                   ## Zorya Luhansk
-Sead Kolašinac                ## Schalke 04
-
-####################
-# Midfielders
-
-Zvjezdan Misimović            ## Guizhou Renhe
-Miralem Pjanić                ## Roma
-Senijad Ibričić               ## Kayseri Erciyesspor
-Sejad Salihović               ## 1899 Hoffenheim
-Haris Medunjanin              ## Gaziantepspor
-Senad Lulić                   ## Lazio
-Adnan Zahirović               ## VfL Bochum
-Miroslav Stevanović           ## Alavés
-Muhamed Bešić                 ## Ferencváros
-Izet Hajrović                 ## Galatasaray
-Zoran Kvržić                  ## Rijeka
-Anel Hadžić                   ## Sturm Graz
-Tino-Sven Sušić               ## Hajduk Split
-Srđan Stanić                  ## Željezničar
-
-####################
-# Forwards
-
-Edin Džeko                    ## Manchester City
-Vedad Ibišević                ## VfB Stuttgart
-Ermin Zec                     ## Gençlerbirliği
-Edin Višća                    ## İstanbul BB
+ (9)  FW  Vedad Ibišević                     ##  55, VfB Stuttgart (GER)
+(11)  FW  Edin Džeko                         ##  62, Manchester City (ENG)
+(19)  FW  Edin Višća                         ##  10, İstanbul BB (TUR)

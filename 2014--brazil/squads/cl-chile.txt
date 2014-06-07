@@ -1,48 +1,26 @@
-####################
-# Chile
-# 
-# Coaching Staff
-# - Head Coach:  Jorge Sampaoli
+ (1)  GK  Claudio Bravo                      ##  79, Real Sociedad (ESP)
+(12)  GK  Cristopher Toselli                 ##   4, Universidad Católica (CHI)
+(23)  GK  Johnny Herrera                     ##   7, Universidad de Chile (CHI)
 
+ (2)  DF  Eugenio Mena                       ##  24, Santos (BRA)
+ (3)  DF  Miiko Albornoz                     ##   2, Malmö FF (SWE)
+(13)  DF  José Rojas                         ##  18, Universidad de Chile (CHI)
+(17)  DF  Gary Medel                         ##  60, Cardiff City (WAL)
+(18)  DF  Gonzalo Jara                       ##  65, Nottingham Forest (ENG)
 
-####################
-# Goal Keepers
+ (4)  MF  Mauricio Isla                      ##  46, Juventus (ITA)
+ (5)  MF  Francisco Silva                    ##  11, Osasuna (ESP)
+ (6)  MF  Carlos Carmona                     ##  43, Atalanta (ITA)
+ (8)  MF  Arturo Vidal                       ##  53, Juventus (ITA)
+(10)  MF  Jorge Valdívia                     ##  56, Palmeiras (BRA)
+(14)  MF  Fabián Orellana                    ##  25, Celta Vigo (ESP)
+(15)  MF  Jean Beausejour                    ##  59, Wigan Athletic (ENG)
+(16)  MF  Felipe Gutiérrez                   ##  17, Twente (NED)
+(19)  MF  José Pedro Fuenzalida              ##  23, Colo-Colo (CHI)
+(20)  MF  Charles Aránguiz                   ##  20, Internacional (BRA)
+(21)  MF  Marcelo Díaz                       ##  20, Basel (SWI)
 
-Claudio Bravo                 ## Real Sociedad
-Johnny Herrera                ## Universidad de Chile
-Cristopher Toselli            ## Universidad Católica
-Paulo Garcés                  ## O'Higgins
-
-####################
-# Defenders
-
-Gonzalo Jara                  ## Nottingham Forest
-Gary Medel                    ## Cardiff City
-Mauricio Isla                 ## Juventus
-Marcos González               ## Unión Española
-Eugenio Mena                  ## Santos
-José Rojas                    ## Universidad de Chile
-Miiko Albornoz                ## Malmö
-
-####################
-# Midfielders
-
-Jean Beausejour               ## Wigan Athletic
-Jorge Valdivia                ## Palmeiras
-Arturo Vidal                  ## Juventus
-Carlos Carmona                ## Atalanta
-Rodrigo Millar                ## Atlas
-José Pedro Fuenzalida         ## Colo-Colo
-Charles Aránguiz              ## Internacional
-Marcelo Díaz                  ## Basel
-Felipe Gutiérrez              ## Twente
-Francisco Silva               ## Osasuna
-Pablo Hernández               ## O'Higgins
-
-####################
-# Forwards
-
-Alexis Sánchez                ## Barcelona
-Eduardo Vargas                ## Valencia
-Mauricio Pinilla              ## Cagliari
-Fabián Orellana               ## Celta Vigo
+ (7)  FW  Alexis Sánchez                     ##  66, Barcelona (ESP)
+ (9)  FW  Mauricio Pinilla                   ##  26, Cagliari (ITA)
+(11)  FW  Eduardo Vargas                     ##  29, Valencia (ESP)
+(22)  FW  Esteban Paredes                    ##  34, Colo-Colo (CHI)

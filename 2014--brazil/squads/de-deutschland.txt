@@ -1,49 +1,26 @@
-####################
-# Germany
-# 
-# Coaching Staff
-# - Head Coach:  Joachim Löw
+ (1)  GK  Manuel Neuer                       ##  45, Bayern Munich (GER)
+(12)  GK  Ron-Robert Zieler                  ##   3, Hannover 96 (GER)
+(22)  GK  Roman Weidenfeller                 ##   2, Borussia Dortmund (GER)
 
+ (2)  DF  Kevin Großkreutz                   ##   4, Borussia Dortmund (GER)
+ (4)  DF  Benedikt Höwedes                   ##  20, Schalke 04 (GER)
+ (5)  DF  Mats Hummels                       ##  29, Borussia Dortmund (GER)
+(15)  DF  Erik Durm                          ##   1, Borussia Dortmund (GER)
+(16)  DF  Philipp Lahm                       ## 105, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##  97, Arsenal (ENG)
+(20)  DF  Jérôme Boateng                     ##  38, Bayern Munich (GER)
 
-####################
-# Goal Keepers
+ (3)  MF  Matthias Ginter                    ##   2, SC Freiburg (GER)
+ (6)  MF  Sami Khedira                       ##  45, Real Madrid (ESP)
+ (7)  MF  Bastian Schweinsteiger             ## 101, Bayern Munich (GER)
+ (8)  MF  Mesut Özil                         ##  54, Arsenal (ENG)
+ (9)  MF  André Schürrle                     ##  32, Chelsea (ENG)
+(13)  MF  Thomas Müller                      ##  48, Bayern Munich (GER)
+(14)  MF  Julian Draxler                     ##  11, Schalke 04 (GER)
+(18)  MF  Toni Kroos                         ##  43, Bayern Munich (GER)
+(19)  MF  Mario Götze                        ##  28, Bayern Munich (GER)
+(21)  MF  Marco Reus                         ##  20, Borussia Dortmund (GER)
+(23)  MF  Christoph Kramer                   ##   2, Borussia Mönchengladbach (GER)
 
-Manuel Neuer                  ## Bayern Munich
-Ron-Robert Zieler             ## Hannover 96
-Roman Weidenfeller            ## Borussia Dortmund
-
-####################
-# Defenders
-
-Philipp Lahm                  ## Bayern Munich
-Per Mertesacker               ## Arsenal
-Jérôme Boateng                ## Bayern Munich
-Mats Hummels                  ## Borussia Dortmund
-Benedikt Höwedes              ## Schalke 04
-Marcel Schmelzer              ## Borussia Dortmund
-Kevin Großkreutz              ## Borussia Dortmund
-Matthias Ginter               ## SC Freiburg
-Shkodran Mustafi              ## Sampdoria
-Erik Durm                     ## Borussia Dortmund
-
-####################
-# Midfielders
-
-Bastian Schweinsteiger        ## Bayern Munich
-Mesut Özil                    ## Arsenal
-Sami Khedira                  ## Real Madrid
-Toni Kroos                    ## Bayern Munich
-Mario Götze                   ## Bayern Munich
-Lars Bender                   ## Bayer Leverkusen
-Julian Draxler                ## Schalke 04
-Christoph Kramer              ## Borussia Mönchengladbach
-
-####################
-# Forwards
-
-Miroslav Klose                ## Lazio
-Lukas Podolski                ## Arsenal
-André Schürrle                ## Chelsea
-Marco Reus                    ## Borussia Dortmund
-Thomas Müller                 ## Bayern Munich
-Kevin Volland                 ## 1899 Hoffenheim
+(10)  FW  Lukas Podolski                     ## 113, Arsenal (ENG)
+(11)  FW  Miroslav Klose                     ## 131, Lazio (ITA)

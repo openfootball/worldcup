@@ -1,45 +1,26 @@
-####################
-# Honduras
-# 
-# Coaching Staff
-# - Head Coach:  Luis Fernando Suárez
+ (1)  GK  Luis López                         ##   0, Real España (HON)
+(18)  GK  Noel Valladares                    ## 121, Olimpia (HON)
+(22)  GK  Donis Escober                      ##  26, Olimpia (HON)
 
+ (2)  DF  Osman Chávez                       ##  54, Qingdao Jonoon (CHN)
+ (3)  DF  Maynor Figueroa                    ## 104, Hull City (ENG)
+ (4)  DF  Juan Pablo Montes                  ##  11, Motagua (HON)
+ (5)  DF  Víctor Bernárdez                   ##  77, San Jose Earthquakes (USA)
+ (6)  DF  Juan Carlos García                 ##  33, Wigan Athletic (ENG)
+ (7)  DF  Emilio Izaguirre                   ##  67, Celtic (SCO)
+(23)  DF  Brayan Beckeles                    ##  22, Olimpia (HON)
 
-####################
-# Goal Keepers
+ (8)  MF  Wilson Palacios                    ##  94, Stoke City (ENG)
+(10)  MF  Mario Martínez                     ##  35, Real España (HON)
+(12)  MF  Edder Delgado                      ##  25, Real España (HON)
+(14)  MF  Óscar García                       ##  92, Houston Dynamo (USA)
+(15)  MF  Roger Espinoza                     ##  41, Wigan Athletic (ENG)
+(17)  MF  Marvin Chávez                      ##  41, Chivas USA (USA)
+(19)  MF  Luis Garrido                       ##  19, Olimpia (HON)
+(20)  MF  Jorge Claros                       ##  48, Motagua (HON)
+(21)  MF  Andy Najar                         ##  16, Anderlecht (BEL)
 
-Noel Valladares (captain)     ## Olimpia
-Donis Escober                 ## Olimpia
-Luis López                    ## Real España
-
-####################
-# Defenders
-
-Maynor Figueroa               ## Hull City
-Víctor Bernárdez              ## San Jose Earthquakes
-Emilio Izaguirre              ## Celtic
-Osman Chávez                  ## Qingdao Jonoon
-Juan Carlos García            ## Wigan Athletic
-Brayan Beckeles               ## Olimpia
-Juan Pablo Montes             ## Motagua
-
-####################
-# Midfielders
-
-Wilson Palacios               ## Stoke City
-Óscar García                  ## Houston Dynamo
-Jorge Claros                  ## Motagua
-Marvin Chávez                 ## Chivas USA
-Roger Espinoza                ## Wigan Athletic
-Mario Martínez                ## Real España
-Arnold Peralta                ## Rangers
-Luis Garrido                  ## Olimpia
-Andy Najar                    ## Anderlecht
-
-####################
-# Forwards
-
-Carlo Costly                  ## Real España
-Jerry Bengtson                ## New England Revolution
-Jerry Palacios                ## Alajuelense
-Rony Martínez                 ## Real Sociedad
+ (9)  FW  Jerry Palacios                     ##  23, Alajuelense (CRC)
+(11)  FW  Jerry Bengtson                     ##  43, New England Revolution (USA)
+(13)  FW  Carlo Costly                       ##  69, Real España (HON)
+(16)  FW  Rony Martínez                      ##  12, Real Sociedad (HON)

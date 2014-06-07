@@ -1,50 +1,26 @@
-####################
-# Cameroon
-# 
-# Coaching Staff
-# - Head Coach:  Volker Finke
+ (1)  GK  Loïc Feudjou                       ##   1, Coton Sport (CMR)
+(16)  GK  Charles Itandje                    ##   9, Konyaspor (TUR)
+(23)  GK  Sammy N'Djock                      ##   2, Fethiyespor (TUR)
 
+ (2)  DF  Benoît Assou-Ekotto                ##  21, Queens Park Rangers (ENG)
+ (3)  DF  Nicolas N'Koulou                   ##  47, Marseille (FRA)
+ (4)  DF  Cédric Djeugoué                    ##   3, Coton Sport (CMR)
+ (5)  DF  Dany Nounkeu                       ##  15, Beşiktaş (TUR)
+(12)  DF  Henri Bedimo                       ##  30, Lyon (FRA)
+(14)  DF  Aurélien Chedjou                   ##  30, Galatasaray (TUR)
+(22)  DF  Allan Nyom                         ##   8, Granada (ESP)
 
-####################
-# Goal Keepers
+ (6)  MF  Alex Song                          ##  46, Barcelona (ESP)
+ (7)  MF  Landry N'Guémo                     ##  39, Bordeaux (FRA)
+(11)  MF  Jean Makoun                        ##  66, Rennes (FRA)
+(17)  MF  Stéphane Mbia                      ##  49, Sevilla (ESP)
+(18)  MF  Eyong Enoh                         ##  37, Antalyaspor (TUR)
+(20)  MF  Edgar Salli                        ##   8, Lens (FRA)
+(21)  MF  Joël Matip                         ##  22, Schalke 04 (GER)
 
-Guy N'dy Assembé              ## Guingamp
-Charles Itandje               ## Konyaspor
-Sammy N'Djock                 ## Fethiyespor
-Loïc Feudjou                  ## Coton Sport
-
-####################
-# Defenders
-
-Nicolas N'Koulou              ## Marseille
-Aurélien Chedjou              ## Galatasaray
-Henri Bedimo                  ## Lyon
-Benoit Assou-Ekotto           ## Queens Park Rangers
-Dany Nounkeu                  ## Beşiktaş
-Gaëtan Bong                   ## Olympiacos
-Allan Nyom                    ## Granada
-Jean-Armel Kana-Biyik         ## Rennes
-Cedric Djeugoue               ## Coton Sport
-
-####################
-# Midfielders
-
-Jean Makoun                   ## Rennes
-Stéphane Mbia                 ## Sevilla
-Alex Song                     ## Barcelona
-Landry N'Guémo                ## Bordeaux
-Eyong Enoh                    ## Antalyaspor
-Joël Matip                    ## Schalke 04
-Edgar Salli                   ## Lens
-Raoul Loé                     ## Osasuna
-
-####################
-# Forwards
-
-Samuel Eto'o                  ## Chelsea
-Pierre Webó                   ## Fenerbahçe
-Mohammadou Idrissou           ## 1. FC Kaiserslautern
-Maxim Choupo-Moting           ## Mainz 05
-Vincent Aboubakar             ## Lorient
-Benjamin Moukandjo            ## Nancy
-Fabrice Olinga                ## Zulte Waregem
+ (8)  FW  Benjamin Moukandjo                 ##  16, Nancy (FRA)
+ (9)  FW  Samuel Eto'o                       ## 116, Chelsea (ENG)
+(10)  FW  Vincent Aboubakar                  ##  23, Lorient (FRA)
+(13)  FW  Maxim Choupo-Moting                ##  26, Mainz 05 (GER)
+(15)  FW  Pierre Webó                        ##  55, Fenerbahçe (TUR)
+(19)  FW  Fabrice Olinga                     ##   7, Zulte Waregem (BEL)
