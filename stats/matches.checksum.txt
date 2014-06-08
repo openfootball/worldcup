@@ -1,6 +1,9 @@
 ########################
 # note: only used for checksum (will NOT get loaded into database)
-# source: www.fifa.com/worldfootball/statisticsandrecords/tournaments/worldcup/organisation
+# source:
+#   - www.fifa.com/worldfootball/statisticsandrecords/tournaments/worldcup/organisation
+#    wikipedia - en.wikipedia.org/wiki/<:YEAR>_FIFA_World_Cup (see infobox)
+#   if (*) (double-)checked on wikipedia 
 
 # Fields include
 #  1. World Cup Edition
@@ -8,23 +11,27 @@
 #  3. No of Matches Played
 #  4. No of Goals Scored
 
+#
+# note/check: include replays in early tournaments?
+#     include goals after extra time?  goals in penalty shootout?
+
 ##    World Cup Edition           |Teams |Matches|Goals Scored
-2010 World Cup South Africa       |  32  |   64  |  145
-2006 World Cup Germany            |  32  |   64  |  147
-2002 World Cup South Korea/Japan  |  32  |   64  |  161
-1998 World Cup France             |  32  |   64  |  171
-1994 World Cup United States      |  24  |   52  |  141
-1990 World Cup Italy              |  24  |   52  |  115
-1986 World Cup Mexico             |  24  |   52  |  132
-1982 World Cup Spain              |  24  |   52  |  146
-1978 World Cup Argentina          |  16  |   38  |  102
-1974 World Cup Germany            |  16  |   38  |   97
-1970 World Cup Mexico             |  16  |   32  |   95
-1966 World Cup England            |  16  |   32  |   89
-1962 World Cup Chile              |  16  |   32  |   89
-1958 World Cup Sweden             |  16  |   35  |  126
-1954 World Cup Switzerland        |  16  |   26  |  140
-1950 World Cup Brazil             |  13  |   22  |   88
-1938 World Cup France             |  15  |   18  |   84
-1934 World Cup Italy              |  16  |   17  |   70
-1930 World Cup Uruguay            |  13  |   18  |   70
+2010 World Cup South Africa       |  32  |   64  |  145    *
+2006 World Cup Germany            |  32  |   64  |  147    *
+2002 World Cup South Korea/Japan  |  32  |   64  |  161    *
+1998 World Cup France             |  32  |   64  |  171    *
+1994 World Cup United States      |  24  |   52  |  141    *
+1990 World Cup Italy              |  24  |   52  |  115    *
+1986 World Cup Mexico             |  24  |   52  |  132    *
+1982 World Cup Spain              |  24  |   52  |  146    *
+1978 World Cup Argentina          |  16  |   38  |  102    *
+1974 World Cup Germany            |  16  |   38  |   97    *
+1970 World Cup Mexico             |  16  |   32  |   95    *
+1966 World Cup England            |  16  |   32  |   89    *
+1962 World Cup Chile              |  16  |   32  |   89    *
+1958 World Cup Sweden             |  16  |   35  |  126    *
+1954 World Cup Switzerland        |  16  |   26  |  140    *
+1950 World Cup Brazil             |  13  |   22  |   88    *
+1938 World Cup France             |  15  |   18  |   84    *
+1934 World Cup Italy              |  16  |   17  |   70    *
+1930 World Cup Uruguay            |  13  |   18  |   70    *

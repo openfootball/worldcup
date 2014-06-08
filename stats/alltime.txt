@@ -1,0 +1,88 @@
+#  to generate use:
+#    $ rake alltime_stats
+
+
+####
+# fix!!!!!!!!!!
+#    for penalty shootout - team gets one point each
+#  check italy - missing games???
+#  check for replays ? include?
+
+## dump from Jun/8
+
+ 1  Brazil (BRA)                 97   69  12  16  210:88   219  19
+ 2  Germany (GER)                97   63  15  19  205:114  204  17
+ 3  Italy (ITA)                  78   44  16  18  123:73   148  17
+ 4  Argentina (ARG)              70   40   9  21  123:80   129  15
+ 5  Spain (ESP)                  55   29   8  18   87:58    95  13
+ 6  England (ENG)                57   26  16  15   76:51    94  13
+ 7  France (FRA)                 54   27   7  20   96:68    88  13
+ 8  Netherlands (NED)            43   22   9  12   71:44    75   9
+ 9  Uruguay (URU)                47   19  11  17   76:65    68  11
+10  Sweden (SWE)                 46   17  12  17   74:69    63  11
+11  Serbia (SRB)                 43   17   7  19   64:59    58  11
+12  Russia (RUS)                 37   17   6  14   64:44    57   9
+13  Poland (POL)                 31   15   5  11   44:40    50   7
+14  Hungary (HUN)                32   15   3  14   87:57    48   9
+15  Mexico (MEX)                 49   12  11  26   52:89    47  14
+16  Czech Republic (CZE)         33   12   5  16   47:49    41   9
+17  Belgium (BEL)                36   11   8  17   46:63    41  11
+18  Austria (AUT)                29   12   4  13   43:47    40   7
+19  Portugal (POR)               22   12   2   8   39:22    38   5
+20  Paraguay (PAR)               27    8   9  10   30:38    33   8
+21  Chile (CHI)                  29    9   6  14   34:45    33   8
+22  Switzerland (SUI)            28    9   5  14   38:52    32   9
+23  Romania (ROU)                21    8   3  10   30:32    27   7
+24  Denmark (DEN)                16    8   2   6   27:24    26   4
+25  United States (USA)          29    7   5  17   32:56    26   9
+26  South Korea (KOR)            28    6   7  15   28:61    25   8
+27  Croatia (CRO)                13    6   2   5   15:11    20   3
+28  Scotland (SCO)               23    4   7  12   25:41    19   8
+29  Cameroon (CMR)               20    4   7   9   17:34    19   6
+30  Bulgaria (BUL)               26    4   7  15   22:53    19   7
+31  Turkey (TUR)                 10    5   1   4   20:17    16   2
+32  Ireland (IRL)                13    3   6   4   10:10    15   3
+33  Peru (PER)                   15    4   3   8   19:31    15   4
+34  Nigeria (NGA)                14    4   2   8   17:21    14   4
+35  Japan (JPN)                  14    4   2   8   12:16    14   4
+36  Northern Ireland (NIR)       13    3   5   5   13:23    14   3
+37  Ghana (GHA)                   9    4   1   4    9:10    13   2
+38  Colombia (COL)               13    3   2   8   14:23    11   4
+39  South Africa (RSA)            9    2   4   3   11:16    10   3
+40  Morocco (MAR)                13    2   4   7   12:18    10   4
+41  Costa Rica (CRC)             10    3   1   6   12:21    10   3
+42  Norway (NOR)                  8    2   3   3    7:8      9   3
+43  Ecuador (ECU)                 7    3   0   4    7:8      9   2
+44  Australia (AUS)              10    2   3   5    8:17     9   3
+45  Senegal (SEN)                 5    2   2   1    7:6      8   1
+46  East Germany (-1989) (GDR)    6    2   2   2    5:5      8   1
+47  Algeria (ALG)                 9    2   2   5    6:12     8   3
+48  Saudi Arabia (KSA)           13    2   2   9    9:32     8   4
+49  Côte d'Ivoire (CIV)           6    2   1   3    9:9      7   2
+50  Tunisia (TUN)                12    1   4   7    8:17     7   4
+51  Wales (WAL)                   5    1   3   1    4:4      6   1
+52  Ukraine (UKR)                 4    2   0   2    5:7      6   1
+53  Iran (IRN)                    9    1   2   6    6:18     5   3
+54  Slovakia (SVK)                4    1   1   2    5:7      4   1
+55  Slovenia (SVN)                6    1   1   4    5:10     4   2
+56  Cuba (CUB)                    3    1   1   1    5:12     4   1
+57  North Korea (PRK)             7    1   1   5    6:21     4   2
+58  Honduras (HON)                6    0   3   3    2:6      3   2
+59  Jamaica (JAM)                 3    1   0   2    3:9      3   1
+60  New Zealand (NZL)             6    0   3   3    4:14     3   2
+61  Greece (GRE)                  6    1   0   5    2:15     3   2
+62  Angola (ANG)                  3    0   2   1    1:2      2   1
+63  Israel (ISR)                  3    0   2   1    1:3      2   1
+64  Egypt (EGY)                   4    0   2   2    3:6      2   2
+65  Kuwait (KUW)                  3    0   1   2    2:6      1   1
+66  Trinidad and Tobago (TRI)     3    0   1   2    0:4      1   1
+67  Bolivia (BOL)                 6    0   1   5    1:20     1   3
+68  Iraq (IRQ)                    3    0   0   3    1:4      0   1
+69  Togo (TOG)                    3    0   0   3    1:6      0   1
+70  Canada (CAN)                  3    0   0   3    0:5      0   1
+71  Indonesia (IDN)               1    0   0   1    0:6      0   1
+72  United Arab Emirates (UAE)    3    0   0   3    2:11     0   1
+73  China (CHN)                   3    0   0   3    0:9      0   1
+74  Haiti (HAI)                   3    0   0   3    2:14     0   1
+75  Congo DR (COD)                3    0   0   3    0:14     0   1
+76  El Salvador (SLV)             6    0   0   6    1:22     0   2

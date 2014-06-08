@@ -1,0 +1,33 @@
+#  to generate use:
+#    $ rake assocs
+
+###
+# todo: split CSAFF in asia into SAFF and CAFF ??
+#   move abbreviation 9e.g FIFA/UEFA/etc to its own field (do NOT include in title)
+#  how to print Arab League Assoc ?  (part of AFC and CAF??)
+
+## dump from Jun/8
+
+1 -- Fédération Internationale de Football Association (FIFA) / national assocs 209
+   sub zones 6:
+  2 -- Union of European Football Associations (UEFA) / national assocs 54
+  2 -- Confederación Sudamericana de Fútbol (CONMEBOL) / national assocs 10
+  2 -- Confederation of North, Central American and Caribbean Association Football (CONCACAF) / national assocs 41
+     sub zones 3:
+    3 -- North American Football Union (NAFU) / North American Zone / national assocs 3
+    3 -- Unión Centroamericana de Fútbol (UNCAF) / Central American Zone / national assocs 7
+    3 -- Caribbean Football Union (CFU) / Caribbean Zone / national assocs 31
+  2 -- Confédération Africaine de Football (CAF) / national assocs 56
+     sub zones 5:
+    3 -- Council for East and Central Africa Football Associations (CECAFA) / national assocs 12
+    3 -- Council of Southern Africa Football Associations (COSAFA) / national assocs 14
+    3 -- West African Football Union (WAFU) / national assocs 16
+    3 -- Union of North African Federations (UNAF) / national assocs 5
+    3 -- Union des Fédérations du Football de l'Afrique Centrale (UNIFFAC) / national assocs 8
+  2 -- Asian Football Confederation (AFC) / national assocs 47
+     sub zones 4:
+    3 -- West Asian Football Federation (WAFF) / national assocs 13
+    3 -- East Asian Football Federation (EAFF) / national assocs 10
+    3 -- Central and South Asian Football Federation (CSAFF) / national assocs 12
+    3 -- Association of South East Asian Nations Football Federation (AFF) / national assocs 12
+  2 -- Oceania Football Confederation (OFC) / national assocs 14

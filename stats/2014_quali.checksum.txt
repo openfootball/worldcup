@@ -1,0 +1,10 @@
+
+##
+#
+#
+
+matches total:  820 matches (check if corret??)
+
+todo/fix: add matches per confed (continent
+add teams per confed
+

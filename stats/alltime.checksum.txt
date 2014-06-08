@@ -9,13 +9,19 @@
 #  note: all wins get three points
 #    knockout matches with penalty shootouts will get scored as draw/tie, that is, one point per team
 #    goals from penalty shootouts are NOT included
-#
+# todo/check:
+#  - Early tournaments included replays for drawn matches.
+#   the original match and the replay have been counted as a single match
+#   with three points awarded to the winner???
+
+
 #  [1] Germany includes former West Germany
 #  [2] Serbia includes former Yuguslavia and former Serbia n Montenegro
 #  [3] Russia includes former Soviet Union
 #  [4] Czech Republic includes former Czechoslovakia
 #  [5] Indonesia includes former Dutch East Indies
 #  [6] Congo DR includes former Zaire
+
 
 
 #  Fields
@@ -29,17 +35,18 @@
 #  - Goals Against
 #  - Points
 #  - No of World Cup Participations
+#  - No of World Cup Championships e.g. 3x
 
 
- 1 | Brazil        | 97 | 67 | 15 | 15 | 210:88  | 216 | 19
- 2 | Germany[1]    | 99 | 60 | 19 | 20 | 206:117 | 199 | 17
- 3 | Italy         | 80 | 44 | 21 | 15 | 126:74  | 153 | 17
- 4 | Argentina     | 70 | 37 | 13 | 20 | 123:80  | 124 | 15
- 5 | England       | 59 | 26 | 19 | 14 |  77:52  |  97 | 13
- 6 | Spain         | 56 | 28 | 12 | 16 |  88:59  |  96 | 13
- 7 | France        | 54 | 25 | 11 | 18 |  96:68  |  86 | 13
- 8 | Netherlands   | 43 | 22 | 10 | 11 |  71:44  |  76 |  9
- 9 | Uruguay       | 47 | 18 | 12 | 17 |  76:65  |  66 | 11
+ 1 | Brazil        | 97 | 67 | 15 | 15 | 210:88  | 216 | 19  | 5x
+ 2 | Germany[1]    | 99 | 60 | 19 | 20 | 206:117 | 199 | 17  | 3x
+ 3 | Italy         | 80 | 44 | 21 | 15 | 126:74  | 153 | 17  | 4x
+ 4 | Argentina     | 70 | 37 | 13 | 20 | 123:80  | 124 | 15  | 2x
+ 5 | England       | 59 | 26 | 19 | 14 |  77:52  |  97 | 13  | 1x
+ 6 | Spain         | 56 | 28 | 12 | 16 |  88:59  |  96 | 13  | 1x
+ 7 | France        | 54 | 25 | 11 | 18 |  96:68  |  86 | 13  | 1x
+ 8 | Netherlands   | 43 | 22 | 10 | 11 |  71:44  |  76 |  9  |
+ 9 | Uruguay       | 47 | 18 | 12 | 17 |  76:65  |  66 | 11  | 2x
 10 | Sweden        | 46 | 16 | 13 | 17 |  74:69  |  61 | 11
 11 | Serbia[2]     | 43 | 17 |  8 | 18 |  64:59  |  59 | 11
 12 | Russia[3]     | 37 | 17 |  6 | 14 |  64:44  |  57 |  9

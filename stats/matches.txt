@@ -1,0 +1,27 @@
+#  to generate use:
+#    $ rake matches_stats
+#
+#   teams and match count OK
+#  todo - fix!!! mismatched scores!!!!
+
+## dump from Jun/8
+
+2010 World Cup  |  32  |  64  |  149 (+6 a.e.t.)
+2006 World Cup  |  32  |  64  |  153 (+9 a.e.t.)
+2002 World Cup  |  32  |  64  |  167 (+9 a.e.t.)
+1998 World Cup  |  32  |  64  |  177 (+7 a.e.t.)
+1994 World Cup  |  24  |  52  |  147 (+9 a.e.t.)
+1990 World Cup  |  24  |  52  |  123 (+16 a.e.t.)
+1986 World Cup  |  24  |  52  |  144 (+17 a.e.t.)
+1982 World Cup  |  24  |  52  |  148 (+6 a.e.t.)
+1978 World Cup  |  16  |  38  |  104 (+4 a.e.t.)
+1974 World Cup  |  16  |  38  |   97 (+0 a.e.t.)
+1970 World Cup  |  16  |  32  |  101 (+13 a.e.t.)
+1966 World Cup  |  16  |  32  |   93 (+6 a.e.t.)
+1962 World Cup  |  16  |  32  |   89 (+0 a.e.t.)
+1958 World Cup  |  16  |  35  |  128 (+3 a.e.t.)
+1954 World Cup  |  16  |  26  |  152 (+16 a.e.t.)
+1950 World Cup  |  13  |  22  |   88 (+0 a.e.t.)
+1938 World Cup  |  15  |  18  |  102 (+27 a.e.t.)
+1934 World Cup  |  16  |  17  |   74 (+10 a.e.t.)
+1930 World Cup  |  13  |  18  |   70 (+0 a.e.t.)
