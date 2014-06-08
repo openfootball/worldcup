@@ -10,7 +10,7 @@
 (18)  DF  Juan Camilo Zúñiga                 ##  52, Napoli (ITA)
 (23)  DF  Carlos Valdés                      ##  13, San Lorenzo (ARG)
 
- (5)  MF  Aldo Leão Ramírez                  ##  29, Morelia (MEX)
+ (5)  MF  Carlos Carbonero                   ##  1, River Plate (ARG)
  (6)  MF  Carlos Sánchez                     ##  44, Elche (ESP)
  (8)  MF  Abel Aguilar                       ##  48, Toulouse (FRA)
 (10)  MF  James Rodríguez                    ##  21, AS Monaco (FRA)
