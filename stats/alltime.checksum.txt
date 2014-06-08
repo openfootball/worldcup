@@ -1,0 +1,110 @@
+########################################
+# note: only used for checksum (will NOT get loaded into database)
+# source:
+#  - www.fifa.com/worldfootball/statisticsandrecords/tournaments/worldcup/alltimerankings.html
+#  - en.wikipedia.org/wiki/All-time_table_of_the_FIFA_World_Cup
+
+##
+# calculations notes:
+#  note: all wins get three points
+#    knockout matches with penalty shootouts will get scored as draw/tie, that is, one point per team
+#    goals from penalty shootouts are NOT included
+#
+#  [1] Germany includes former West Germany
+#  [2] Serbia includes former Yuguslavia and former Serbia n Montenegro
+#  [3] Russia includes former Soviet Union
+#  [4] Czech Republic includes former Czechoslovakia
+#  [5] Indonesia includes former Dutch East Indies
+#  [6] Congo DR includes former Zaire
+
+
+#  Fields
+#  - Ranking
+#  - Team
+#  - Matches Played
+#  - Won
+#  - Drawn/Tie
+#  - Lost
+#  - Goals For
+#  - Goals Against
+#  - Points
+#  - No of World Cup Participations
+
+
+ 1 | Brazil        | 97 | 67 | 15 | 15 | 210:88  | 216 | 19
+ 2 | Germany[1]    | 99 | 60 | 19 | 20 | 206:117 | 199 | 17
+ 3 | Italy         | 80 | 44 | 21 | 15 | 126:74  | 153 | 17
+ 4 | Argentina     | 70 | 37 | 13 | 20 | 123:80  | 124 | 15
+ 5 | England       | 59 | 26 | 19 | 14 |  77:52  |  97 | 13
+ 6 | Spain         | 56 | 28 | 12 | 16 |  88:59  |  96 | 13
+ 7 | France        | 54 | 25 | 11 | 18 |  96:68  |  86 | 13
+ 8 | Netherlands   | 43 | 22 | 10 | 11 |  71:44  |  76 |  9
+ 9 | Uruguay       | 47 | 18 | 12 | 17 |  76:65  |  66 | 11
+10 | Sweden        | 46 | 16 | 13 | 17 |  74:69  |  61 | 11
+11 | Serbia[2]     | 43 | 17 |  8 | 18 |  64:59  |  59 | 11
+12 | Russia[3]     | 37 | 17 |  6 | 14 |  64:44  |  57 |  9
+13 | Poland        | 31 | 15 |  5 | 11 |  44:40  |  50 |  7
+14 | Mexico        | 49 | 12 | 13 | 24 |  52:89  |  49 | 14
+15 | Hungary       | 32 | 15 |  3 | 14 |  87:57  |  48 |  9
+16 | Czech Rep.[4] | 33 | 12 |  5 | 16 |  47:49  |  41 |  9
+17 | Austria       | 29 | 12 |  4 | 13 |  43:47  |  40 |  7
+18 | Portugal      | 23 | 12 |  3 |  8 |  39:22  |  39 |  5
+19 | Belgium       | 36 | 10 |  9 | 17 |  46:63  |  39 | 11
+20 | Chile         | 29 |  9 |  6 | 14 |  34:45  |  33 |  8
+21 | Switzerland   | 29 |  9 |  6 | 14 |  38:52  |  33 |  9
+22 | Paraguay      | 27 |  7 | 10 | 10 |  30:38  |  31 |  8
+23 | Romania       | 21 |  8 |  5 |  8 |  30:32  |  29 |  7
+24 | Denmark       | 16 |  8 |  2 |  6 |  27:24  |  26 |  4
+25 | United States | 29 |  7 |  5 | 17 |  32:56  |  26 |  9
+26 | South Korea   | 28 |  5 |  8 | 15 |  28:61  |  23 |  8
+27 | Croatia       | 13 |  6 |  2 |  5 |  15:11  |  20 |  3
+28 | Cameroon      | 20 |  4 |  7 |  9 |  17:34  |  19 |  6
+29 | Scotland      | 23 |  4 |  7 | 12 |  25:41  |  19 |  8
+30 | Bulgaria      | 26 |  3 |  8 | 15 |  22:53  |  17 |  7
+31 | Turkey        | 10 |  5 |  1 |  4 |  20:17  |  16 |  2
+32 | Japan         | 14 |  4 |  3 |  7 |  12:16  |  15 |  4
+33 | Peru          | 15 |  4 |  3 |  8 |  19:31  |  15 |  4
+34 | Ghana         |  9 |  4 |  2 |  3 |   9:10  |  14 |  2
+35 | Ireland       | 13 |  2 |  8 |  3 |  10:10  |  14 |  3
+36 | N. Ireland    | 13 |  3 |  5 |  5 |  13:23  |  14 |  3
+37 | Nigeria       | 14 |  4 |  2 |  8 |  17:21  |  14 |  4
+38 | Colombia      | 13 |  3 |  2 |  8 |  14:23  |  11 |  4
+39 | South Africa  |  9 |  2 |  4 |  3 |  11:16  |  10 |  3
+40 | Costa Rica    | 10 |  3 |  1 |  6 |  12:21  |  10 |  3
+41 | Morocco       | 13 |  2 |  4 |  7 |  12:18  |  10 |  4
+42 | Ecuador       |  7 |  3 |  0 |  4 |   7:8   |   9 |  2
+43 | Norway        |  8 |  2 |  3 |  3 |   7:8   |   9 |  3
+44 | Australia     | 10 |  2 |  3 |  5 |   8:17  |   9 |  3
+45 | Senegal       |  5 |  2 |  2 |  1 |   7:6   |   8 |  1
+46 | East Germany  |  6 |  2 |  2 |  2 |   5:5   |   8 |  1
+47 | Algeria       |  9 |  2 |  2 |  5 |   6:12  |   8 |  3
+48 | Saudi Arabia  | 13 |  2 |  2 |  9 |   9:32  |   8 |  4
+49 | Ukraine       |  5 |  2 |  1 |  2 |   5:7   |   7 |  1
+50 | Ivory Coast   |  6 |  2 |  1 |  3 |   9:9   |   7 |  2
+51 | Tunisia       | 12 |  1 |  4 |  7 |   8:17  |   7 |  4
+52 | Wales         |  5 |  1 |  3 |  1 |   4:4   |   6 |  1
+53 | Iran          |  9 |  1 |  2 |  6 |   6:18  |   5 |  3
+54 | Cuba          |  3 |  1 |  1 |  1 |   5:12  |   4 |  1
+55 | Slovakia      |  4 |  1 |  1 |  2 |   5:7   |   4 |  1
+56 | Slovenia      |  6 |  1 |  1 |  4 |   5:10  |   4 |  2
+57 | North Korea   |  7 |  1 |  1 |  5 |   6:21  |   4 |  2
+58 | Jamaica       |  3 |  1 |  0 |  2 |   3:9   |   3 |  1
+59 | Honduras      |  6 |  0 |  3 |  3 |   2:6   |   3 |  2
+60 | New Zealand   |  6 |  0 |  3 |  3 |   4:14  |   3 |  2
+61 | Greece        |  6 |  1 |  0 |  5 |   2:15  |   3 |  2
+62 | Angola        |  3 |  0 |  2 |  1 |   1:2   |   2 |  1
+63 | Israel        |  3 |  0 |  2 |  1 |   1:3   |   2 |  1
+64 | Egypt         |  4 |  0 |  2 |  2 |   3:6   |   2 |  2
+65 | Kuwait        |  3 |  0 |  1 |  2 |   2:6   |   1 |  1
+66 | Trinidad/Tob. |  3 |  0 |  1 |  2 |   0:4   |   1 |  1
+67 | Bolivia       |  6 |  0 |  1 |  5 |   1:20  |   1 |  3
+68 | Indonesia [5] |  1 |  0 |  0 |  1 |   0:6   |   0 |  1
+69 | Iraq          |  3 |  0 |  0 |  3 |   1:4   |   0 |  1
+70 | Togo          |  3 |  0 |  0 |  3 |   1:6   |   0 |  1
+71 | Canada        |  3 |  0 |  0 |  3 |   0:5   |   0 |  1
+72 | UA Emirates   |  3 |  0 |  0 |  3 |   2:11  |   0 |  1
+73 | China         |  3 |  0 |  0 |  3 |   0:9   |   0 |  1
+74 | Haiti         |  3 |  0 |  0 |  3 |   2:14  |   0 |  1
+75 | Congo DR [6]  |  3 |  0 |  0 |  3 |   0:14  |   0 |  1
+76 | El Salvador   |  6 |  0 |  0 |  6 |   1:22  |   0 |  2
+
