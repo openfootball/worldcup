@@ -70,7 +70,7 @@ Group B:
 
 Group C:
 
-(5) Sat Jun/14 13:00   Colombia - Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(5) Sat Jun/14 13:00   Colombia 3-0 Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
 (6) Sat Jun/14 22:00   Côte d'Ivoire - Japan      @ Arena Pernambuco, Recife (UTC-3)
 
 (21) Thu Jun/19 13:00   Colombia - Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
@@ -82,7 +82,7 @@ Group C:
 
 Group D:
 
-(7) Sat Jun/14 16:00   Uruguay - Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
+(7) Sat Jun/14 16:00   Uruguay 1-2 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
 (8) Sat Jun/14 18:00   England - Italy            @ Arena Amazônia, Manaus (UTC-4)
 
 (23) Thu Jun/19 16:00   Uruguay - England          @ Arena de São Paulo, São Paulo (UTC-3)
