@@ -37,8 +37,8 @@ Matchday 15 |  Thu Jun/26
 
 Group A:
 
-(1) Thu Jun/12 17:00   Brazil 3-1 Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-(2) Fri Jun/13 13:00   Mexico 1-0 Cameroon      @ Estádio das Dunas, Natal (UTC-3)
+(1) Thu Jun/12 17:00   Brazil 3-1 (1-1) Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
+(2) Fri Jun/13 13:00   Mexico 1-0 (0-0) Cameroon      @ Estádio das Dunas, Natal (UTC-3)
 
 (17) Tue Jun/17 16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 (18) Wed Jun/18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
@@ -49,8 +49,8 @@ Group A:
 
 Group B:
 
-(3) Fri Jun/13 16:00   Spain 1-5 Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
-(4) Fri Jun/13 18:00   Chile 3-1 Australia       @ Arena Pantanal, Cuiabá (UTC-4)
+(3) Fri Jun/13 16:00   Spain 1-5 (1-1) Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
+(4) Fri Jun/13 18:00   Chile 3-1 (2-1) Australia       @ Arena Pantanal, Cuiabá (UTC-4)
 
 (19) Wed Jun/18 16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
 (20) Wed Jun/18 13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
