@@ -82,8 +82,8 @@ Group C:
 
 Group D:
 
-(7) Sat Jun/14 16:00   Uruguay 1-2 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
-(8) Sat Jun/14 18:00   England - Italy            @ Arena Amazônia, Manaus (UTC-4)
+(7) Sat Jun/14 16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
+(8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
 
 (23) Thu Jun/19 16:00   Uruguay - England          @ Arena de São Paulo, São Paulo (UTC-3)
 (24) Fri Jun/20 13:00   Italy - Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
