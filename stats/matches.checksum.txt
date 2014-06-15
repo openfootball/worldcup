@@ -12,8 +12,10 @@
 #  4. No of Goals Scored
 
 #
-# note/check: include replays in early tournaments?
-#     include goals after extra time?  goals in penalty shootout?
+# note/check:
+#     include replays in early tournaments? yes
+#     include goals after extra time? yes
+#             goals in penalty shootout? no
 
 ##    World Cup Edition           |Teams |Matches|Goals Scored
 2010 World Cup South Africa       |  32  |   64  |  145    *
