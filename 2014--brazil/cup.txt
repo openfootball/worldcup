@@ -38,11 +38,10 @@ Matchday 15 |  Thu Jun/26
 Group A:
 
 (1) Thu Jun/12 17:00   Brazil 3-1 (1-1) Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-                         # Neymar 29', 71' (pen.), Oscar 90+1' 
-                         # Marcelo 11' (o.g.)
+                         # Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)
 
 (2) Fri Jun/13 13:00   Mexico 1-0 (0-0) Cameroon      @ Estádio das Dunas, Natal (UTC-3)
-                         # Peralta 61' 	
+                         # Peralta 61'
 
 (17) Tue Jun/17 16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 (18) Wed Jun/18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
@@ -54,12 +53,10 @@ Group A:
 Group B:
 
 (3) Fri Jun/13 16:00   Spain 1-5 (1-1) Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
-                          # Alonso 27' (pen.) 	
-                          # Van Persie  44', 72', Robben 53', 80', De Vrij 65'
+                          # Alonso 27' (pen.);  Van Persie  44', 72' Robben 53', 80' De Vrij 65'
 
 (4) Fri Jun/13 18:00   Chile 3-1 (2-1) Australia       @ Arena Pantanal, Cuiabá (UTC-4)
-                          # Sánchez 12', Valdívia 14', Beausejour 90+2'
-                          # Cahill 35'
+                          # Sánchez 12' Valdívia 14' Beausejour 90+2'; Cahill 35'
 
 (19) Wed Jun/18 16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
 (20) Wed Jun/18 13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
@@ -71,7 +68,10 @@ Group B:
 Group C:
 
 (5) Sat Jun/14 13:00   Colombia 3-0 Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
+                         # Armero 5' Gutiérrez 58' Rodríguez 90+3'
+                         
 (6) Sat Jun/14 22:00   Côte d'Ivoire 2-1 Japan      @ Arena Pernambuco, Recife (UTC-3)
+                         # Bony 64' Gervinho 66';  Honda 16'
 
 (21) Thu Jun/19 13:00   Colombia - Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
 (22) Thu Jun/19 19:00   Japan - Greece             @ Estádio das Dunas, Natal (UTC-3)
@@ -83,7 +83,10 @@ Group C:
 Group D:
 
 (7) Sat Jun/14 16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
+                         # Cavani 24' (pen.);  Campbell 54' Duarte 57' Ureña 84'
+
 (8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
+                         # Sturridge 37';  Marchisio 35' Balotelli 50'
 
 (23) Thu Jun/19 16:00   Uruguay - England          @ Arena de São Paulo, São Paulo (UTC-3)
 (24) Fri Jun/20 13:00   Italy - Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
