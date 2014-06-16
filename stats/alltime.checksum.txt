@@ -9,10 +9,7 @@
 #  note: all wins get three points
 #    knockout matches with penalty shootouts will get scored as draw/tie, that is, one point per team
 #    goals from penalty shootouts are NOT included
-# todo/check:
-#  - Early tournaments included replays for drawn matches.
-#   the original match and the replay have been counted as a single match
-#   with three points awarded to the winner???
+#    early tournaments included replays for drawn matches (get counted as two "regular" matches; nothing special)
 
 
 #  [1] Germany includes former West Germany
