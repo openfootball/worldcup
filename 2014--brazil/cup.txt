@@ -111,6 +111,7 @@ Group F:
 
 (11) Sun Jun/15 19:00   Argentina 2-1 Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
                           # Sead Kolašinac (OG) 3' Lionel Messi 65'; Vedad Ibišević 85' 
+
 (12) Mon Jun/16 16:00   Iran - Nigeria                    @ Arena da Baixada, Curitiba (UTC-3)
 
 (27) Sat Jun/21 13:00   Argentina - Iran                  @ Estádio Mineirão, Belo Horizonte (UTC-3)
