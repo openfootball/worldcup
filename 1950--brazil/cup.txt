@@ -49,6 +49,16 @@ Group 4:
 (16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
 
 
+
+
+## yes - use Group F for now for Final
+## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
+## todo: final round (just regular matches; not knock out matches)
+
+Group F |  Uruguay  Brazil  Sweden  Spain
+
+### fix: add group f to final round - how?
+
 Final Round
 
 (17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
