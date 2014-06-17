@@ -43,7 +43,7 @@ Group A:
 (2) Fri Jun/13 13:00   Mexico 1-0 (0-0) Cameroon      @ Estádio das Dunas, Natal (UTC-3)
                          # Peralta 61'
 
-(17) Tue Jun/17 16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
+(17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 (18) Wed Jun/18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
 
 (33) Mon Jun/23 17:00   Cameroon - Brazil      @ Brasília (UTC-3)
@@ -135,7 +135,8 @@ Group G:
 
 Group H:
 
-(15) Tue Jun/17 13:00   Belgium - Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(15) Tue Jun/17 13:00   Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
+                          # Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli (P) 25'
 (16) Tue Jun/17 18:00   Russia - South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
 
 (31) Sun Jun/22 13:00   Belgium - Russia          @ Rio de Janeiro (UTC-3)
