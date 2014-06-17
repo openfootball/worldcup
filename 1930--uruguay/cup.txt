@@ -8,18 +8,18 @@ Group 3  |  Uruguay        Romania    Peru
 Group 4  |  United States  Paraguay   Belgium
 
 
-Matchday 1  | 13 July
-Matchday 2  | 14 July
-Matchday 3  | 15 July
-Matchday 4  | 16 July
-Matchday 5  | 17 July
-Matchday 6  | 18 July
-Matchday 7  | 19 July
-Matchday 8  | 20 July
-Matchday 9  | 21 July
-Matchday 10 | 22 July
-(11) Semi-finals  |  26 July - 27 July
-(12) Final        |  30 July
+Matchday 1   | 13 July
+Matchday 2   | 14 July
+Matchday 3   | 15 July
+Matchday 4   | 16 July
+Matchday 5   | 17 July
+Matchday 6   | 18 July
+Matchday 7   | 19 July
+Matchday 8   | 20 July
+Matchday 9   | 21 July
+Matchday 10  | 22 July
+Semi-finals  | 26 July - 27 July
+Final        | 30 July
 
 
 
@@ -79,7 +79,7 @@ Group 4:
                    # Vargas Peña 40'
 
 
-(11) Semi-finals
+Semi-finals
 
 (16) 26 July     Argentina       6-1 (1-0)  United States  @ Estadio Centenario, Montevideo
                    # Monti 20' Scopelli 56' Stábile 69', 87' Peucelle 80', 85'; Brown 89' 
@@ -88,7 +88,7 @@ Group 4:
                    # Cea 18', 67', 72' Anselmo 20', 31' Iriarte 61';  Vujadinović 4'
 
 
-(12) Final
+Final
 
 (18) 30 July     Uruguay         4-2 (1-2)  Argentina      @ Estadio Centenario, Montevideo
                    # Dorado 12' Cea 57' Iriarte 68' Castro 89';  Peucelle 20' Stábile 37'
