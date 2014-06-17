@@ -9,45 +9,59 @@ Group 4  |   Uruguay  Bolivia  France
 
 
 ## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
+##   - yes, use Group F
 ## todo: final round (just regular matches; not knock out matches)
 
 
 Group 1:
 
-(1)  24 June    Brazil       4-0  Mexico       @ Estádio do Maracanã, Rio de Janeiro
-(5)  25 June    Yugoslavia   3-0  Switzerland  @ Estádio Independência, Belo Horizonte
+(1)  24 June    Brazil       4-0 (1-0) Mexico       @ Estádio do Maracanã, Rio de Janeiro
+                  # Ademir 30', 79' Jair 65' Baltazar 71'
+(5)  25 June    Yugoslavia   3-0 (0-0)  Switzerland  @ Estádio Independência, Belo Horizonte
+                  # Mitić 59' Tomašević 70' Ognjanov 75'
 
-(6)  28 June    Brazil       2-2  Switzerland  @ Estádio do Pacaembu, São Paulo
-(7)  28 June    Yugoslavia   4-1  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+(6)  28 June    Brazil       2-2 (2-1)  Switzerland  @ Estádio do Pacaembu, São Paulo
+                  # Alfredo 3' Baltazar 32';  Fatton 17', 88'
+(7)  28 June    Yugoslavia   4-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+                  # Bobek 19' Ž. Čajkovski 22', 62' Tomašević 81';  Ortiz 89' (pen.)
 
-(11) 1 July     Brazil       2-0  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
-(14) 2 July     Switzerland  2-1  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
-
+(11) 1 July     Brazil       2-0 (1-0)  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
+                  # Ademir 4' Zizinho 69'  
+(14) 2 July     Switzerland  2-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+                  # Bader 10' Antenen 44';  Casarín 89'
 
 Group 2:
 
 (2)  25 June     England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+                   # Mortensen 27' Mannion 51'
 (3)  25 June     Spain          3-1  United States   @ Estádio Durival de Britto, Curitiba
+                   # Igoa 81' Basora 83' Zarra 89';  Pariani 17'
 
 (8)  29 June     Spain          2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+                   # Basora 17' Zarra 30'
 (10) 29 June     United States  1-0  England         @ Estádio Independência, Belo Horizonte
+                   # Gaetjens 38'
 
 (12)  2 July     Spain          1-0  England         @ Estádio do Maracanã, Rio de Janeiro
+                   # Zarra 48'
 (15)  2 July     Chile          5-2  United States   @ Estádio Ilha do Retiro, Recife
+                   # Robledo 16' Riera 32' Cremaschi 54', 82' Prieto 60';  Wallace 47' Maca 48' (pen.)
 
 
 Group 3:
 
 (4)  25 June     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
+                   # Jeppson 25', 68' Andersson 33';  Carapellese 7' Muccinelli 75'
 (9)  29 June     Sweden         2-2  Paraguay        @ Estádio Durival Britto, Curitiba
+                   # Sundqvist 17' Palmér 26';  López 35' López Fretes 74'
 
 (13)  2 July     Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
-
+                   # Carapellese 12' Pandolfini 62'
 
 Group 4:
 
 (16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
-
+                   # Míguez 14', 40', 51' Vidal 18' Schiaffino 23', 54' Pérez 83' Ghiggia 87'
 
 
 
@@ -62,11 +76,17 @@ Group F |  Uruguay  Brazil  Sweden  Spain
 Final Round
 
 (17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
+                   # Ghiggia 29' Varela 73';  Basora 37', 39'
 (18)  9 July     Brazil         7-1  Sweden          @ Estádio do Maracanã, Rio de Janeiro
+                   # Ademir 17', 36', 52', 58' Chico 39', 88' Maneca 85'; Andersson 67' (pen.)
 
 (19) 13 July     Brazil         6-1  Spain           @ Estádio do Maracanã, Rio de Janeiro
+                   # Parra 15' (o.g.) Jair 21' Chico 31', 55' Ademir 57' Zizinho 67';  Igoa 71'
 (20) 13 July     Uruguay        3-2  Sweden          @ Estádio do Pacaembu, São Paulo
+                   # Ghiggia 39' Míguez 77', 85';  Palmér 5' Sundqvist 40'
 
 (21) 16 July     Sweden         3-1  Spain           @ Estádio do Pacaembu, São Paulo
+                   # Sundqvist 15' Mellberg 33' Palmér 80';  Zarra 82'
 (22) 16 July     Uruguay        2-1  Brazil          @ Estádio do Maracanã, Rio de Janeiro
+                   # Schiaffino 66' Ghiggia 79';  Friaça 47'
 
