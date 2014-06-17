@@ -25,43 +25,71 @@ Matchday 10 | 22 July
 
 Group 1:
 
-(1)  13 July     France     4-1   Mexico    @ Estadio Pocitos, Montevideo
-(5)  15 July     Argentina  1-0   France    @ Estadio Parque Central, Montevideo
-(6)  16 July     Chile      3-0   Mexico    @ Estadio Parque Central, Montevideo
-(10) 19 July     Chile      1-0   France    @ Estadio Centenario, Montevideo
-(11) 19 July     Argentina  6-3   Mexico    @ Estadio Centenario, Montevideo
-(15) 22 July     Argentina  3-1   Chile     @ Estadio Centenario, Montevideo
+(1)  13 July     France     4-1 (3-0)  Mexico    @ Estadio Pocitos, Montevideo
+                  # L. Laurent 19' Langiller 40' Maschinot 43', 87'; Carreño 70'
 
+(5)  15 July     Argentina  1-0 (0-0)  France    @ Estadio Parque Central, Montevideo
+                  # Monti 81'
+
+(6)  16 July     Chile      3-0 (1-0)  Mexico    @ Estadio Parque Central, Montevideo
+                  # Vidal 3', 65' M. Rosas 51' (o.g.)
+
+(10) 19 July     Chile      1-0 (0-0)  France    @ Estadio Centenario, Montevideo
+                  # Subiabre 65'
+
+(11) 19 July     Argentina  6-3 (3-1)  Mexico    @ Estadio Centenario, Montevideo
+                  # Stábile 8', 17', 80' Zumelzú 12', 55' Varallo 53';  M. Rosas 42' (pen.), 65'
+Gayón 75'
+
+(15) 22 July     Argentina  3-1 (2-1)  Chile     @ Estadio Centenario, Montevideo
+                  # Stábile 12', 13'  M. Evaristo 81';  Subiabre 15'
 
 Group 2:
 
-(3)  14 July     Yugoslavia   2-1  Brazil   @ Estadio Parque Central, Montevideo
-(7)  17 July     Yugoslavia   4-0  Bolivia  @ Estadio Parque Central, Montevideo
-(12) 20 July     Brazil       4-0  Bolivia  @ Estadio Centenario, Montevideo
+(3)  14 July     Yugoslavia   2-1 (2-0)  Brazil   @ Estadio Parque Central, Montevideo
+                   # Tirnanić 21' Bek 30';  Preguinho 62'
 
+(7)  17 July     Yugoslavia   4-0 (0-0)   Bolivia  @ Estadio Parque Central, Montevideo
+                   # Bek 60', 67' Marjanović 65' Vujadinović 85'
+
+(12) 20 July     Brazil       4-0 (1-0)  Bolivia  @ Estadio Centenario, Montevideo
+                   # Moderato 37', 73' Preguinho 57', 83'
 
 Group 3:
 
-(4)  14 July     Romania      3-1  Peru    @ Estadio Pocitos, Montevideo
-(9)  18 July     Uruguay      1-0  Peru    @ Estadio Centenario, Montevideo
-(14) 21 July     Uruguay      4-0  Romania  @ Estadio Centenario, Montevideo
+(4)  14 July     Romania      3-1 (1-0)  Peru    @ Estadio Pocitos, Montevideo
+                   # Deşu 1' Stanciu 79' Kovács 89';  Souza Ferreira 75' 
+
+(9)  18 July     Uruguay      1-0 (0-0)  Peru    @ Estadio Centenario, Montevideo
+                   # Castro 60'
+
+(14) 21 July     Uruguay      4-0 (4-0)  Romania  @ Estadio Centenario, Montevideo
+                   # Dorado 7' Scarone 24' Anselmo 30' Cea 35'
 
 
 Group 4:
 
-(2)  13 July     United States   3-0  Belgium  @ Estadio Parque Central, Montevideo
-(8)  17 July     United States   3-0  Paraguay @ Estadio Parque Central, Montevideo
-(13) 20 July     Paraguay        1-0  Belgium  @ Estadio Centenario, Montevideo
+(2)  13 July     United States   3-0 (2-0)  Belgium  @ Estadio Parque Central, Montevideo
+                   # McGhee 23' Florie 45' Patenaude 69'
+
+(8)  17 July     United States   3-0 (2-0)  Paraguay @ Estadio Parque Central, Montevideo
+                   # Patenaude 10', 15', 50'
+
+(13) 20 July     Paraguay        1-0 (1-0)  Belgium  @ Estadio Centenario, Montevideo
+                   # Vargas Peña 40'
 
 
 (11) Semi-finals
 
-(16) 26 July     Argentina       6-1  United States  @ Estadio Centenario, Montevideo
-(17) 27 July     Uruguay         6-1  Yugoslavia     @ Estadio Centenario, Montevideo
+(16) 26 July     Argentina       6-1 (1-0)  United States  @ Estadio Centenario, Montevideo
+                   # Monti 20' Scopelli 56' Stábile 69', 87' Peucelle 80', 85'; Brown 89' 
+
+(17) 27 July     Uruguay         6-1 (3-1)  Yugoslavia     @ Estadio Centenario, Montevideo
+                   # Cea 18', 67', 72' Anselmo 20', 31' Iriarte 61';  Vujadinović 4'
 
 
 (12) Final
 
-(18) 30 July     Uruguay         4-2  Argentina      @ Estadio Centenario, Montevideo
-
+(18) 30 July     Uruguay         4-2 (1-2)  Argentina      @ Estadio Centenario, Montevideo
+                   # Dorado 12' Cea 57' Iriarte 68' Castro 89';  Peucelle 20' Stábile 37'
 
