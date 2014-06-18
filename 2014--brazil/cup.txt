@@ -137,8 +137,8 @@ Group H:
 
 (15) Tue Jun/17 13:00   Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
                           # Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli (P) 25'
-(16) Tue Jun/17 18:00   Russia - South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
-
+(16) Tue Jun/17 18:00   Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
+                          # Alexander Kerzhakov 74'; Lee Keunho 68' 
 (31) Sun Jun/22 13:00   Belgium - Russia          @ Rio de Janeiro (UTC-3)
 (32) Sun Jun/22 16:00   South Korea - Algeria     @ Porto Alegre (UTC-3)
 
