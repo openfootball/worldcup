@@ -128,7 +128,10 @@ Group F:
 Group G:
 
 (13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
+                         # Müller 12' (pen.), 45+1', 78', Hummels 32'
+                         
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
+                         # Ayew 82';  Dempsey 1', Brooks 86';
 
 (29) Sat Jun/21 16:00   Germany - Ghana              @ Fortaleza (UTC-3)
 (30) Sun Jun/22 18:00   United States - Portugal     @ Manaus (UTC-4)
