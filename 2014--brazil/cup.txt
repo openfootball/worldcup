@@ -73,7 +73,7 @@ Group C:
 (6) Sat Jun/14 22:00   Côte d'Ivoire 2-1 Japan      @ Arena Pernambuco, Recife (UTC-3)
                          # Bony 64' Gervinho 66';  Honda 16'
 
-(21) Thu Jun/19 13:00   Colombia - Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+(21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
 (22) Thu Jun/19 19:00   Japan - Greece             @ Estádio das Dunas, Natal (UTC-3)
 
 (37) Tue Jun/24 16:00   Japan - Colombia            @ Cuiabá (UTC-4)
