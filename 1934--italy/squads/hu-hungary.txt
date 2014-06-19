@@ -1,0 +1,30 @@
+##############################
+# Hungary (HUN) 
+#   - 22 players
+
+   -  GK  Antal Szabó                        ##   10, Hungária FC 
+   -  GK  József Háda                        ##   11, Ferencváros FC 
+
+   -  DF  Gyula Futó                         ##    0, Újpest FC 
+   -  DF  László Sternberg                   ##    7, Újpest FC 
+   -  DF  Sándor Bíró                        ##   13, Hungária FC 
+   -  DF  József Vágó                        ##    1, Debreceni Bocskai FC 
+
+   -  MF  Gyula Lázár                        ##   19, Ferencváros FC 
+   -  MF  György Szűcs                       ##    3, Újpest FC 
+   -  MF  István Palotás                     ##    4, Debreceni Bocskai FC 
+   -  MF  Gyula Polgár                       ##    5, Ferencváros FC 
+   -  MF  Antal Szalay                       ##    8, Újpest FC 
+   -  MF  János Dudás                        ##    0, Hungária FC 
+   -  MF  Rezső Somlai                       ##    0, Kispest FC 
+
+   -  FW  István Avar                        ##   17, Újpest FC 
+   -  FW  Gábor P. Szabó                     ##   10, Újpest FC 
+   -  FW  György Sárosi                      ##   22, Ferencváros FC 
+   -  FW  Imre Markos                        ##   13, Debreceni Bocskai FC 
+   -  FW  István Tamássy                     ##    1, Újpest FC 
+   -  FW  Pál Teleki                         ##    6, Debreceni Bocskai FC 
+   -  FW  Géza Toldi                         ##   21, Ferencváros FC 
+   -  FW  Tibor Kemény                       ##    5, Ferencváros FC 
+   -  FW  Jenő Vincze                        ##    5, Debreceni Bocskai FC 
+

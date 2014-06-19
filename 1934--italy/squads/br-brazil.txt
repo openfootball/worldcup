@@ -1,0 +1,28 @@
+##############################
+# Brazil (BRA) 
+#   - 20 players
+
+   -  GK  Germano                            ##    -, Botafogo 
+   -  GK  Pedrosa                            ##    -, Botafogo 
+
+   -  DF  Luiz Luz                           ##    -, Americano Rio Grande (BRA)
+   -  DF  Pamplona                           ##    -, Botafogo 
+   -  DF  Octacílio                          ##    -, Botafogo 
+   -  DF  Sylvio Hoffman                     ##    -, São Paulo da Floresta 
+
+   -  MF  Canalli                            ##    -, Botafogo (BRA)
+   -  MF  Bile                               ##    -, Ypiranga (BRA)
+   -  MF  Tinoco                             ##    -, Vasco da Gama 
+   -  MF  Waldyr                             ##    -, Botafogo 
+   -  MF  Almeida                            ##    -, EC Bahia 
+   -  MF  Martim                             ##    -, Botafogo 
+   -  MF  Ariel                              ##    -, Botafogo 
+
+   -  FW  Luisinho                           ##    -, São Paulo da Floresta 
+   -  FW  Patesko                            ##    -, Nacional 
+   -  FW  Leônidas                           ##    -, Vasco da Gama 
+   -  FW  Carvalho Leite                     ##    -, Botafogo 
+   -  FW  Áttila                             ##    -, Botafogo 
+   -  FW  Armandinho                         ##    -, São Paulo da Floresta 
+   -  FW  Waldemar de Britto                 ##    -, São Paulo da Floresta 
+

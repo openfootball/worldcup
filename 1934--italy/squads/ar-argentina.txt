@@ -1,0 +1,26 @@
+##############################
+# Argentina (ARG) 
+#   - 18 players
+
+   -  GK  Héctor Freschi                     ##    -, Sarmiento de Resistencia 
+   -  GK  Ángel Grippa                       ##    -, Club Sportivo Alsina 
+
+   -  DF  Enrique Chimento                   ##    -, Barracas Central 
+   -  DF  Ernesto Belis                      ##    -, Defensores de Belgrano 
+   -  DF  Ramón Astudillo                    ##    -, Colón de Santa Fe 
+   -  DF  Juan Pedevilla                     ##    -, Club Atletico Estudiantil Porteño 
+
+   -  MF  Ernesto Albarracín                 ##    -, Club Sportivo Buenos Aires 
+   -  MF  Constantino Urbieta Sosa           ##    -, Godoy Cruz 
+   -  MF  José Nehin                         ##    -, Sportivo Desamparados 
+   -  MF  Alfonso Lorenzo                    ##    -, Barracas Central 
+   -  MF  Arcadio López                      ##    -, Club Sportivo Buenos Aires 
+
+   -  FW  Luis Izzeta                        ##    -, Defensores de Belgrano 
+   -  FW  Roberto Irañeta                    ##    -, Gimnasia y Esgrima de Mendoza 
+   -  FW  Alberto Galateo                    ##    -, Unión de Santa Fe 
+   -  FW  Francisco Pérez                    ##    -, Almagro 
+   -  FW  Francisco Rúa                      ##    -, Sportivo Dock Sud 
+   -  FW  Alfredo Devincenzi                 ##    -, Club Atlético Estudiantil Porteño 
+   -  FW  Federico Wilde                     ##    -, Unión de Santa Fe 
+

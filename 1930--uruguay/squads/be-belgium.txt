@@ -1,0 +1,24 @@
+##############################
+# Belgium (BEL) 
+#   - 16 players
+
+   -  GK  Arnold Badjou                      ##    3, Daring Club de Bruxelles Societe Royale 
+   -  GK  Jean De Bie                        ##   37, Royal Racing Club de Bruxelles 
+
+   -  DF  Theodore Nouwens                   ##   10, RC de Malines Societe Royale 
+   -  DF  Nic Hoydonckx                      ##   19, FC Excelsior Hasselt 
+   -  DF  Henri De Deken                     ##    0, Royal Antwerp FC 
+
+   -  MF  Jean De Clercq                     ##    5, Royal Antwerp FC 
+   -  MF  Pierre Braine                      ##   42, Royal Beerschot AC 
+   -  MF  Alexis Chantraine                  ##    0, Royal FC Liegeois 
+   -  MF  August Hellemans                   ##    4, Royal FC Malinois 
+
+   -  FW  Jan Diddens                        ##   21, RC de Malines Societe Royale 
+   -  FW  Gérard Delbeke                     ##    0, Royal FC Brugeois 
+   -  FW  Jacques Moeschal                   ##   15, Royal Racing Club de Bruxelles 
+   -  FW  Ferdinand Adams                    ##   21, SC Anderlechtois 
+   -  FW  André Saeys                        ##    0, Royal CS Brugeois 
+   -  FW  Louis Versyp                       ##    7, Royal FC Brugeois 
+   -  FW  Bernard Voorhoof                   ##    6, Liersche Sportkring 
+

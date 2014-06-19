@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+   -  GK  Ángel Bossio                       ##    -, Talleres 
+   -  GK  Juan Botasso                       ##    -, Argentino de Quilmes 
+
+   -  DF  Rodolfo Orlandini                  ##    -, Estudiantil Porteño 
+   -  DF  Alberto Chividini                  ##    -, Estudiantil Porteño 
+   -  DF  Adolfo Zumelzú                     ##    -, Estudiantil Porteño 
+   -  DF  José Della Torre                   ##    -, Racing 
+   -  DF  Juan Evaristo                      ##    -, Sportivo Barracas 
+   -  DF  Edmundo Piaggio                    ##    -, Lanús 
+   -  DF  Ramón Muttis                       ##    -, Boca Juniors 
+   -  DF  Fernando Paternoster               ##    -, Racing 
+
+   -  MF  Luis Monti                         ##    -, San Lorenzo 
+   -  MF  Pedro Suárez                       ##    -, Boca Juniors 
+
+   -  FW  Alejandro Scopelli                 ##    -, Estudiantes de La Plata 
+   -  FW  Natalio Perinetti                  ##    -, Racing 
+   -  FW  Carlos Peucelle                    ##    -, Sportivo Buenos Aires 
+   -  FW  Mario Evaristo                     ##    -, Boca Juniors 
+   -  FW  Manuel Ferreira                    ##    -, Estudiantes de La Plata 
+   -  FW  Carlos Spadaro                     ##    -, Lanús 
+   -  FW  Guillermo Stábile                  ##    -, Huracán 
+   -  FW  Roberto Cherro                     ##    -, Boca Juniors 
+   -  FW  Francisco Varallo                  ##    -, Gimnasia y Esgrima La Plata 
+   -  FW  Attilio Demaría                    ##    -, Gimnasia de La Plata 
+

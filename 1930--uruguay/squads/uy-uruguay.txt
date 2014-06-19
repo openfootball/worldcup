@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+   -  GK  Enrique Ballestrero                ##    1, Rampla Juniors 
+   -  GK  Miguel Capuccini                   ##    6, Peñarol 
+
+   -  DF  Emilio Recoba                      ##    5, Nacional 
+   -  DF  Ernesto Mascheroni                 ##    -, Olimpia 
+   -  DF  Domingo Tejera                     ##   15, Montevideo Wanderers 
+   -  DF  José Nasazzi                       ##   28, Bella Vista 
+
+   -  MF  José Andrade                       ##   30, Nacional 
+   -  MF  Lorenzo Fernández                  ##   20, Peñarol 
+   -  MF  Carlos Riolfo                      ##    2, Peñarol 
+   -  MF  Álvaro Gestido                     ##   10, Peñarol 
+   -  MF  Conduelo Píriz                     ##    7, Nacional 
+   -  MF  Ángel Melogno                      ##    5, Bella Vista 
+
+   -  FW  Pedro Petrone                      ##   28, Nacional 
+   -  FW  Héctor Castro                      ##   17, Nacional 
+   -  FW  Pedro Cea                          ##   21, Nacional 
+   -  FW  Santos Iriarte                     ##    -, Racing Club 
+   -  FW  Juan Carlos Calvo                  ##    -, Miramar Misiones 
+   -  FW  Pablo Dorado                       ##    2, Bella Vista 
+   -  FW  Zoilo Saldombide                   ##   14, Nacional 
+   -  FW  Héctor Scarone                     ##   49, Nacional 
+   -  FW  Peregrino Anselmo                  ##    8, Peñarol 
+   -  FW  Santos Urdinarán                   ##   19, Nacional 
+

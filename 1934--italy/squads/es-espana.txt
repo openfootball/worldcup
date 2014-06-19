@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+   -  GK  Ricardo Zamora                     ##   42, Real Madrid 
+   -  GK  Juan José Nogués                   ##    0, FC Barcelona 
+
+   -  DF  Ramón Zabalo                       ##    5, FC Barcelona 
+   -  DF  Hilario                            ##    1, Real Madrid 
+   -  DF  Jacinto Quincoces                  ##   19, Real Madrid 
+   -  DF  Ciriaco                            ##   11, Real Madrid 
+
+   -  MF  José Muguerza                      ##    1, Athletic Bilbao 
+   -  MF  Leonardo Cilaurren                 ##    8, Athletic Bilbao 
+   -  MF  Martín Marculeta                   ##   13, Real Sociedad 
+
+   -  FW  Simón Lecue                        ##    0, Real Betis 
+   -  FW  Isidro Lángara                     ##    3, Real Oviedo 
+   -  FW  Lafuente                           ##    5, Athletic Bilbao 
+   -  FW  José Iraragorri                    ##    1, Athletic Bilbao 
+   -  FW  Luis Marín                         ##    0, Atletico de Madrid 
+   -  FW  Guillermo Gorostiza                ##    9, Athletic Bilbao 
+   -  FW  Fede                               ##    2, Sevilla FC 
+   -  FW  Chacho                             ##    2, Deportivo de La Coruña 
+   -  FW  Luis Regueiro                      ##   16, Real Madrid 
+   -  FW  Pedro Solé                         ##    3, Espanyol 
+   -  FW  Martí Ventolrà                     ##    5, FC Barcelona 
+   -  FW  Campanal                           ##    0, Sevilla FC 
+   -  FW  Crisant Bosch                      ##    7, Espanyol 
+

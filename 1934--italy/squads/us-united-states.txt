@@ -1,0 +1,27 @@
+##############################
+# United States (USA) 
+#   - 19 players
+
+   -  GK  Julius Hjulian                     ##    1, Chicago Wonderbolts 
+
+   -  DF  George Moorhouse                   ##    6, New York Americans 
+   -  DF  Herman Rapp                        ##    0, Philadelphia German-Americans 
+   -  DF  Ed Czerkiewicz                     ##    1, Pawtucket Rangers 
+   -  DF  Joe Martinelli                     ##    0, Pawtucket Rangers 
+   -  DF  Al Harker                          ##    0, Philadelphia German-Americans 
+
+   -  MF  Tom Amrhein                        ##    0, Baltimore Canton 
+   -  MF  Billy Gonsalves                    ##    5, St. Louis Stix, Baer & Fuller 
+   -  MF  Tom Florie                         ##    7, Pawtucket Rangers 
+   -  MF  Jimmy Gallagher                    ##    7, Cleveland Slavia 
+   -  MF  William Lehman                     ##    1, St. Louis Stix, Baer & Fuller 
+   -  MF  Tom Lynch                          ##    0, Brooklyn Celtic 
+   -  MF  Bill Fiedler                       ##    0, Philadelphia German-Americans 
+   -  MF  Peter Pietras                      ##    1, Philadelphia German-Americans 
+
+   -  FW  Willie McLean                      ##    1, St. Louis Stix, Baer & Fuller 
+   -  FW  Werner Nilsen                      ##    1, St. Louis Stix, Baer & Fuller 
+   -  FW  Aldo Donelli                       ##    1, Pittsburgh Curry Silver Tops 
+   -  FW  Walter Dick                        ##    0, Pawtucket Rangers 
+   -  FW  Francis Ryan                       ##    2, Philadelphia German-Americans 
+

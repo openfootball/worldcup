@@ -1,0 +1,36 @@
+##############################
+# Sweden (SWE) 
+#   - 17 players
+
+   -  GK  Anders Rydberg                     ##   18, IFK Göteborg 
+   -  GK  Eivar Widlund                      ##    5, AIK Solna 
+
+   -  DF  Otto Andersson                     ##    9, Örgryte IS 
+   -  DF  Sven Andersson                     ##   15, AIK Solna 
+   -  DF  Nils Axelsson                      ##    7, Hälsingborgs IF 
+
+   -  MF  Victor Carlund                     ##    6, Örgryte IS 
+   -  MF  Ernst Andersson                    ##   11, IFK Göteborg 
+   -  MF  Rune Carlsson                      ##    5, IFK Eskilstuna 
+   -  MF  Nils Rosén                         ##   20, Hälsingborgs IF 
+   -  MF  Helge Liljebjorn                   ##    -, GAIS 
+
+   -  FW  Ragnar Gustavsson                  ##    6, GAIS 
+   -  FW  Gosta Dunker                       ##    -, Sandvikens IF  
+   -  FW  Sven Jonasson                      ##    2, IF Elfsborg 
+   -  FW  Tore Keller                        ##   18, IK Sleipner 
+   -  FW  Knut Kroon                         ##   31, Hälsingborgs IF 
+   -  FW  Gunnar Olsson                      ##    6, GAIS 
+   -  FW  Arvid Thörn                        ##    2, IFK Grängesberg 
+
+##############################
+# Sweden (SWE) Reserves in Standby 
+#   - 5 players
+
+   -  GK  Sture Hult                         ##    -, IFK Eskilstuna 
+
+   -  FW  Lennart Bunke                      ##    -, Hälsingborgs IF 
+   -  FW  Gunnar Jansson                     ##    1, Gefle IF 
+   -  FW  Carl-Erik Holmberg                 ##   14, Örgryte IS 
+   -  FW  Harry Lundahl                      ##   14, IFK Eskilstuna 
+

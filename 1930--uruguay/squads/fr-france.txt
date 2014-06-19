@@ -1,0 +1,24 @@
+##############################
+# France (FRA) 
+#   - 16 players
+
+   -  GK  Alex Thépot                        ##   12, Red Star Paris 
+   -  GK  André Tassin                       ##    0, Racing Club de France 
+
+   -  DF  Marcel Capelle                     ##    4, Racing Club de France 
+   -  DF  Numa Andoire                       ##    0, FC Antibes 
+   -  DF  Étienne Mattler                    ##    1, FC Sochaux 
+
+   -  MF  Augustin Chantrel                  ##    8, CASG Paris 
+   -  MF  Jean Laurent                       ##    3, FC Sochaux 
+   -  MF  Marcel Pinel                       ##    3, Red Star Paris 
+   -  MF  Célestin Delmer                    ##    2, Amiens AC 
+   -  MF  Alexandre Villaplane               ##   22, Racing Club de France 
+
+   -  FW  André Maschinot                    ##    3, FC Sochaux 
+   -  FW  Lucien Laurent                     ##    2, FC Sochaux 
+   -  FW  Marcel Langiller                   ##    8, Excelsior AC Roubaix 
+   -  FW  Edmond Delfour                     ##    6, Racing Club de France 
+   -  FW  Émile Veinante                     ##    3, Racing Club de France 
+   -  FW  Ernest Libérati                    ##    3, Amiens AC 
+

@@ -1,0 +1,24 @@
+##############################
+# United States (USA) 
+#   - 16 players
+
+   -  GK  Jimmy Douglas                      ##    5, New York Nationals 
+
+   -  DF  Alexander Wood                     ##    0, Detroit Holley Carburetor 
+   -  DF  George Moorhouse                   ##    1, New York Giants 
+   -  DF  Frank Vaughn                       ##    0, Ben Millers 
+   -  DF  Raphael Tracey                     ##    0, Ben Millers 
+   -  DF  James Gentle                       ##    0, Philadelphia Cricket Club 
+   -  DF  Jimmy Gallagher                    ##    2, New York Nationals 
+
+   -  MF  Billy Gonsalves                    ##    0, Fall River Marksmen 
+   -  MF  Philip Slone                       ##    0, New York Giants 
+   -  MF  Jim Brown                          ##    3, New York Giants 
+   -  MF  Arnie Oliver                       ##    0, Providence Gold Bugs 
+   -  MF  Andy Auld                          ##    1, Providence Gold Bugs 
+
+   -  FW  Bert Patenaude                     ##    0, Fall River Marksmen 
+   -  FW  Tom Florie                         ##    2, New Bedford Whalers 
+   -  FW  Mike Bookie                        ##    0, Cleveland Slavia 
+   -  FW  Bart McGhee                        ##    0, New York Nationals 
+

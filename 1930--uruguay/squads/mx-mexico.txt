@@ -1,0 +1,25 @@
+##############################
+# Mexico (MEX) 
+#   - 17 players
+
+   -  GK  Isidoro Sota                       ##    -, América 
+   -  GK  Oscar Bonfiglio                    ##    -, Marte 
+
+   -  DF  Francisco Garza Gutiérrez          ##    -, América 
+   -  DF  Manuel Rosas                       ##    -, Atlante 
+   -  DF  Rafael Garza Gutiérrez             ##    -, América 
+
+   -  MF  Alfredo Sánchez                    ##    -, América 
+   -  MF  Felipe Rosas                       ##    -, Atlante 
+   -  MF  Raymundo Rodríguez                 ##    -, Marte 
+   -  MF  Efraín Amézcua                     ##    -, Atlante 
+
+   -  FW  Felipe Olivares                    ##    -, Atlante 
+   -  FW  Luis Pérez                         ##    -, Necaxa 
+   -  FW  Hilario López                      ##    -, Marte 
+   -  FW  Roberto Gayón                      ##    -, América 
+   -  FW  Jesús Castro                       ##    -, Deportivo Mexico 
+   -  FW  José Ruíz                          ##    -, Necaxa 
+   -  FW  Juan Carreño                       ##    -, Atlante 
+   -  FW  Dionisio Mejía                     ##    -, Atlante 
+

@@ -1,0 +1,27 @@
+##############################
+# Chile (CHI) 
+#   - 19 players
+
+   -  GK  Roberto Cortés                     ##    -, Colo-Colo 
+   -  GK  Cesar Espinoza                     ##    -, Santiago Wanderers 
+
+   -  DF  Víctor Morales                     ##    -, Colo-Colo 
+   -  DF  Guillermo Riveros                  ##    -, La Cruz Valparaiso 
+   -  DF  Ernesto Chaparro                   ##    -, Colo-Colo 
+   -  DF  Ulises Poirier                     ##    -, La Cruz Valparaiso 
+
+   -  MF  Guillermo Saavedra                 ##    -, Colo-Colo 
+   -  MF  Arturo Torres                      ##    -, Colo-Colo 
+   -  MF  Casimiro Torres                    ##    -, Everton 
+   -  MF  Humberto Elgueta                   ##    -, Santiago Wanderers 
+
+   -  FW  Tomás Ojeda                        ##    -, Boca Juniors Antofagasta 
+   -  FW  Horacio Muñoz                      ##    -, Arturo Fernández Vial 
+   -  FW  Arturo Coddou                      ##    -, Arturo Fernández Vial 
+   -  FW  Carlos Schneeberger                ##    -, Colo-Colo 
+   -  FW  Guillermo Subiabre                 ##    -, Colo-Colo 
+   -  FW  Juan Aguilera                      ##    -, Audax Italiano 
+   -  FW  Guillermo Arellano                 ##    -, Colo-Colo 
+   -  FW  Carlos Vidal                       ##    -, Audax Italiano 
+   -  FW  Eberardo Villalobos                ##    -, Rangers 
+

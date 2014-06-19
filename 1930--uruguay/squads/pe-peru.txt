@@ -1,0 +1,28 @@
+##############################
+# Peru (PER) 
+#   - 20 players
+
+   -  GK  Jorge Pardon                       ##    -, Sporting Tabaco 
+   -  GK  Juan Valdivieso                    ##    -, Alianza Lima 
+
+   -  DF  Antonio Maquilón                   ##    -, Tarapacá Ferroviario 
+   -  DF  Mario de las Casas                 ##    -, Lawn Tennis de la Exposición 
+   -  DF  Arturo Fernández                   ##    -, Universitario de Deportes 
+   -  DF  Alberto Soria                      ##    -, Alianza Lima 
+
+   -  MF  Plácido Galindo                    ##    -, Universitario de Deportes 
+   -  MF  Domingo García                     ##    -, Alianza Lima 
+   -  MF  Julio Quintana                     ##    -, Alianza Lima 
+   -  MF  Alberto Denegri                    ##    -, Alianza Lima 
+   -  MF  Eduardo Astengo                    ##    -, Universitario de Deportes 
+
+   -  FW  Demetrio Neyra                     ##    -, Alianza Lima 
+   -  FW  Pablo Pacheco                      ##    -, Universitario de Deportes 
+   -  FW  Julio Lores                        ##    -, Association FBC 
+   -  FW  Lizardo Rodríguez Nue              ##    -, Sport Progreso 
+   -  FW  Jorge Sarmiento                    ##    -, Alianza Lima 
+   -  FW  José María Lavalle                 ##    -, Alianza Lima 
+   -  FW  Luis Souza Ferreira                ##    -, Universitario de Deportes 
+   -  FW  Carlos Cillóniz                    ##    -, Universitario de Deportes 
+   -  FW  Alejandro Villanueva               ##    -, Alianza Lima 
+

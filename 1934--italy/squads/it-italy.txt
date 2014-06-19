@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+   -  GK  Giuseppe Cavanna                   ##    0, Napoli 
+   -  GK  Guido Masetti                      ##    0, Roma 
+   -  GK  Gianpiero Combi                    ##   42, Juventus 
+
+   -  DF  Luigi Allemandi                    ##    9, Ambrosiana-Inter 
+   -  DF  Umberto Caligaris                  ##   59, Juventus 
+   -  DF  Virginio Rosetta                   ##   51, Juventus 
+   -  DF  Eraldo Monzeglio                   ##   12, Bologna 
+
+   -  MF  Luigi Bertolini                    ##   19, Juventus 
+   -  MF  Mario Pizziolo                     ##    8, Fiorentina 
+   -  MF  Luis Monti                         ##   10, Juventus 
+   -  MF  Attilio Ferraris                   ##   22, Roma 
+   -  MF  Armando Castellazzi                ##    2, Ambrosiana-Inter 
+   -  MF  Giuseppe Meazza                    ##   22, Ambrosiana-Inter 
+   -  MF  Mario Varglien                     ##    0, Juventus 
+
+   -  FW  Anfilogino Guarisi                 ##    5, Lazio 
+   -  FW  Giovanni Ferrari                   ##   19, Juventus 
+   -  FW  Attilio Demaria                    ##    1, Ambrosiana-Inter 
+   -  FW  Raimundo Orsi                      ##   27, Juventus 
+   -  FW  Felice Borel                       ##    2, Juventus 
+   -  FW  Pietro Arcari                      ##    0, Milan 
+   -  FW  Angelo Schiavio                    ##   17, Bologna 
+   -  FW  Enrique Guaita                     ##    2, Roma 
+

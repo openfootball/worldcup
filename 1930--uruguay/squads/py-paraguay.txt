@@ -1,0 +1,30 @@
+##############################
+# Paraguay (PAR) 
+#   - 22 players
+
+   -  GK  Pedro Benítez                      ##    -, Libertad 
+   -  GK  Modesto Denis                      ##    -, Nacional 
+
+   -  DF  José Miracca                       ##    -, Nacional 
+   -  DF  Quiterio Olmedo                    ##    -, Nacional 
+   -  DF  Salvador Flores                    ##    -, Cerro Porteño 
+   -  DF  Eustacio Chamorro                  ##    -, Presidente Hayes 
+
+   -  MF  Francisco Aguirre                  ##    -, Olimpia 
+   -  MF  Eusebio Díaz                       ##    -, Guaraní 
+   -  MF  Santiago Benítez                   ##    -, Olimpia 
+   -  MF  Romildo Etcheverry                 ##    -, Olimpia 
+   -  MF  Diego Florentín                    ##    -, River Plate 
+   -  MF  Tranquilino Garcete                ##    -, Libertad 
+
+   -  FW  Delfín Benítez Cáceres             ##    -, Libertad 
+   -  FW  Aurelio González                   ##    -, Olimpia 
+   -  FW  Saguier Carreras                   ##    -, Sportivo Luqueño 
+   -  FW  Lino Nessi                         ##    -, Libertad 
+   -  FW  Diógenes Domínguez                 ##    -, Sportivo Luqueño 
+   -  FW  Amadeo Ortega                      ##    -, River Plate 
+   -  FW  Bernabé Rivera                     ##    -, Sportivo Luqueño 
+   -  FW  Gerardo Romero                     ##    -, Libertad 
+   -  FW  Luis Vargas Peña                   ##    -, Olimpia 
+   -  FW  Jacinto Villalba                   ##    -, Cerro Porteño 
+

@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+   -  GK  Rudolf Raftl                       ##    1, Rapid Wien 
+   -  GK  Peter Platzer                      ##   10, Admira Wien 
+   -  GK  Friederich Franzl                  ##   13, Wiener SC 
+
+   -  DF  Willibald Schmaus                  ##    0, First Vienna 
+   -  DF  Anton Janda                        ##    9, Admira Wien 
+   -  DF  Karl Sesta                         ##   16, Wiener SC 
+   -  DF  Franz Cisar                        ##    5, Wiener SC 
+
+   -  MF  Josef Smistik                      ##   28, Rapid Wien 
+   -  MF  Johann Urbanek                     ##    0, Admira Wien 
+   -  MF  Franz Wagner                       ##    7, Rapid Wien 
+   -  MF  Leopold Hofmann                    ##   19, First Vienna 
+
+   -  FW  Anton Schall                       ##   26, Admira Wien 
+   -  FW  Matthias Kaburek                   ##    2, Rapid Wien 
+   -  FW  Johann Horvath                     ##   41, First Vienna 
+   -  FW  Matthias Sindelar                  ##   29, Austria Wien 
+   -  FW  Josef Hassmann                     ##    0, First Vienna 
+   -  FW  Josef Stroh                        ##    0, Austria Wien 
+   -  FW  Josef Bican                        ##    6, Rapid Wien 
+   -  FW  Rudolf Viertl                      ##    9, Austria Wien 
+   -  FW  Georg Braun                        ##    6, Wiener SC 
+   -  FW  Hans Walzhofer                     ##    4, Wacker Wien 
+   -  FW  Karl Zischek                       ##   20, Wacker Wien 
+

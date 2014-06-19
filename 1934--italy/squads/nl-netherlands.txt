@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+   -  GK  Gejus van der Meulen               ##   53, HFC Haarlem 
+   -  GK  Adri van Male                      ##    4, SC Feijenoord Rotterdam 
+   -  GK  Leo Halle                          ##    2, Go Ahead Eagles Deventer 
+
+   -  DF  Sjef van Run                       ##   19, PSV Eindhoven 
+   -  DF  Mauk Weber                         ##   14, ADO Den Haag 
+   -  DF  Jan van Diepenbeek                 ##    2, Ajax Amsterdam 
+
+   -  MF  Puck van Heel                      ##   41, SC Feijenoord Rotterdam 
+   -  MF  Toon Oprinsen                      ##    1, NOAD Breda 
+   -  MF  Bas Paauwe                         ##    1, SC Feijenoord Rotterdam 
+   -  MF  Henk Pellikaan                     ##   10, Longa Tilburg 
+   -  MF  Wim Anderiesen                     ##   20, Ajax Amsterdam 
+
+   -  FW  Kick Smit                          ##    4, HFC Haarlem 
+   -  FW  Arend Schoemaker                   ##    1, Quick Den Haag 
+   -  FW  Jaap Mol                           ##    5, KFC Koog 
+   -  FW  Kees Mijnders                      ##    3, DFC Dordrecht 
+   -  FW  Wim Langendaal                     ##    0, Xerxes Rotterdam 
+   -  FW  Joop van Nellen                    ##   17, DHC 
+   -  FW  Jan Graafland                      ##    0, HBS Craeyenhout 
+   -  FW  Leen Vente                         ##    5, Neptunus Rotterdam 
+   -  FW  Manus Vrauwdeunt                   ##    0, SC Feijenoord Rotterdam 
+   -  FW  Beb Bakhuys                        ##    7, ZAC 
+   -  FW  Frank Wels                         ##   14, Unitas Gorinchem 
+

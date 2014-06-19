@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+   -  GK  Renato Bizzozero                   ##    -, FC Lugano 
+   -  GK  Willy Huber                        ##    -, Grasshopper Club Zürich 
+   -  GK  Frank Séchehaye                    ##   31, Servette FC 
+
+   -  DF  Arnaldo Ortelli                    ##    -, FC Lugano 
+   -  DF  Severino Minelli                   ##   27, Grasshopper Club Zürich 
+   -  DF  Walter Weiler                      ##    -, Grasshopper Club Zürich 
+   -  DF  Louis Gobet                        ##    -, FC Bern 
+
+   -  MF  Ernst Frick                        ##    -, FC Luzern 
+   -  MF  Edmond Loichot                     ##    -, Servette FC 
+   -  MF  Albert Guinchard                   ##    2, Servette FC 
+   -  MF  Ernst Hufschmid                    ##    6, FC Basel 
+   -  MF  Fernand Jaccard                    ##    0, FC La Tour-de-Peilz 
+
+   -  FW  Alfred Jaeck                       ##   17, FC Basel 
+   -  FW  Willy Jäggi                        ##   15, Lausanne Sports 
+   -  FW  Leopold Kielholz                   ##    4, Servette FC 
+   -  FW  Erwin Hochsträsser                 ##    -, Lausanne Sports 
+   -  FW  Otto Bühler                        ##    -, Grasshopper Club Zürich 
+   -  FW  Albert Büche                       ##    -, FC Nordstern Basel 
+   -  FW  Raymond Passello                   ##   17, Servette FC 
+   -  FW  Joseph Bossi                       ##    3, FC Bern 
+   -  FW  Willy von Känel                    ##   16, FC Bienne-Biel 
+   -  FW  André Abegglen                     ##   30, Grasshopper Club Zürich 
+

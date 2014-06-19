@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+   -  GK  Arnold Badjou                      ##   12, Daring Club de Bruxelles Societe Royale 
+   -  GK  André Vandeweyer                   ##    4, R. Union Saint-Gilloise 
+
+   -  DF  Constant Joacim                    ##    2, Royal Berchem Sport 
+   -  DF  Philibert Smellinckx               ##    5, R. Union Saint-Gilloise 
+   -  DF  Jules Pappaert                     ##    4, R. Union Saint-Gilloise 
+
+   -  MF  Jean Claessens                     ##   12, R. Union Saint-Gilloise 
+   -  MF  Joseph Van Ingelgem                ##   11, Daring Club Bruxelles 
+   -  MF  August Hellemans                   ##   28, Royal FC Malinois 
+   -  MF  Victor Putmans                     ##    -, Union Hutoise  
+   -  MF  Désiré Bourgeois                   ##    2, Royal FC Malinois 
+   -  MF  Frans Peeraer                      ##    2, Royal Antwerp FC 
+   -  MF  Rene Simons                        ##    -, Koninklijke Lierse 
+   -  MF  Félix Welkenhuysen                 ##    3, R. Union Saint-Gilloise 
+
+   -  FW  Robert Lamoot                      ##    1, Daring Club de Bruxelles Societe Royale 
+   -  FW  Albert Heremans                    ##    6, Daring Club de Bruxelles Societe Royale 
+   -  FW  Laurent Grimmonprez                ##    9, Royal Racing Club de Gand 
+   -  FW  François Devries                   ##    0, Royal Antwerp FC 
+   -  FW  Jean Capelle                       ##   14, Royal Standard Club Liege 
+   -  FW  Jean Brichaut                      ##   11, Royal Standard Club Liege 
+   -  FW  Louis Versyp                       ##   33, Royal FC Brugeois 
+   -  FW  Bernard Voorhoof                   ##   31, KSK Liersche 
+   -  FW  Francois Ledent                    ##    -, Royal Standard Club Liege 
+

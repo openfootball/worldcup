@@ -1,0 +1,23 @@
+##############################
+# Romania (ROU) 
+#   - 15 players
+
+   -  GK  Samuel Zauber                      ##    0, Maccabi Bucureşti 
+   -  GK  Ion Lǎpuşneanu                     ##    3, Sportul Studenţesc 
+
+   -  DF  Iosif Czako                        ##    1, UDR Reşiţa 
+   -  DF  Rudolf Bürger                      ##    4,  Chinezul Timişoara 
+   -  DF  Adalbert Steiner                   ##    9, Chinezul Timişoara 
+
+   -  MF  Alfred Eisenbeisser                ##    0, Dragoş Vodă Cernăuţi 
+   -  MF  Emerich Vogl                       ##   10, Juventus Bucureşti 
+   -  MF  Corneliu Robe                      ##    0, Olympia Bucureşti 
+   -  MF  Ladislau Raffinsky                 ##    4, Juventus Bucuresti 
+
+   -  FW  Constantin Stanciu                 ##    4, Venus Bucureşti 
+   -  FW  Miklós Kovács                      ##    3, Banatul Timişoara 
+   -  FW  Ilie Subăşeanu                     ##    2, Olympia Bucureşti 
+   -  FW  Adalbert Deşu                      ##    4, UDR Reşiţa 
+   -  FW  Rudolf Wetzer                      ##   12, Juventus Bucureşti 
+   -  FW  Ştefan Barbu                       ##    4, Gloria Arad 
+

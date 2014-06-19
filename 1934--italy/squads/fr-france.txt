@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+   -  GK  René Llense                        ##    0, FC Sete 
+   -  GK  Robert Défossé                     ##    8, Lille OSC 
+   -  GK  Alex Thépot                        ##   28, Red Star Paris 
+
+   -  DF  Jacques Mairesse                   ##    5, Red Star Paris 
+   -  DF  Jules Vandooren                    ##    7, OC Lillois 
+   -  DF  Étienne Mattler                    ##   22, FC Sochaux 
+   -  DF  Joseph Gonzales                    ##    0, Fives 
+
+   -  MF  Louis Gabrillargues                ##    0, FC Sete 
+   -  MF  Célestin Delmer                    ##   12, Amiens SC 
+   -  MF  Roger Rio                          ##   10, FC Rouen 
+   -  MF  Edmond Delfour                     ##   25, RC Paris 
+   -  MF  Georges Beaucourt                  ##    0, Lille OSC 
+   -  MF  Noël Lietaer                       ##    5, Excelsior Roubaix 
+   -  MF  Georges Verriest                   ##    4, RC Roubaix 
+
+   -  FW  Lucien Laurent                     ##    9, CA Paris 
+   -  FW  Pierre Korb                        ##   12, FC Mulhouse 
+   -  FW  Jean Nicolas                       ##   11, FC Rouen 
+   -  FW  Fritz Keller                       ##    1, Strasbourg 
+   -  FW  Roger Courtois                     ##    1, FC Sochaux 
+   -  FW  Alfred Aston                       ##    4, Red Star Paris 
+   -  FW  Émile Veinante                     ##   11, RC Paris 
+   -  FW  Joseph Alcazar                     ##    9, Olympique de Marseille 
+

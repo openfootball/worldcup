@@ -1,0 +1,25 @@
+##############################
+# Bolivia (BOL) 
+#   - 17 players
+
+   -  GK  Miguel Murillo                     ##    0, Club Bolívar 
+   -  GK  Jesús Bermúdez                     ##    6, Oruro Royal 
+
+   -  DF  Luis Reyes Peñaranda               ##    0, Universitario La Paz 
+   -  DF  Segundo Durandal                   ##    0, CS San Jose Oruro 
+   -  DF  Casiano Chavarría                  ##    6, Calavera La Paz 
+
+   -  MF  Renato Sáinz                       ##    -, The Strongest 
+   -  MF  Miguel Brito                       ##    0, Oruro Royal 
+   -  MF  Juan Argote                        ##    0, Club Bolívar 
+   -  MF  Constantino Noya                   ##    0, Oruro Royal 
+   -  MF  Diógenes Lara                      ##    7, Club Bolívar 
+   -  MF  Jorge Valderrama                   ##    5, Oruro Royal 
+
+   -  FW  Gumersindo Gómez                   ##    0, Oruro Royal 
+   -  FW  Rafael Méndez                      ##    7, Universitario La Paz 
+   -  FW  Eduardo Reyes Ortíz                ##    0, The Strongest 
+   -  FW  René Fernández                     ##    0, Alianza Oruro 
+   -  FW  José Bustamante                    ##    7, Litoral 
+   -  FW  Mario Alborta                      ##    7, Club Bolívar 
+

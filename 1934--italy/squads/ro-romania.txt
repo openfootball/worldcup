@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+   -  GK  Vilmos Zombori                     ##    3, Ripensia Timişoara 
+   -  GK  Stanislau Konrad                   ##    0, CA Timişoara 
+   -  GK  Adalbert Püllöck                   ##    5, Crişana Oradea 
+
+   -  DF  Lazăr Sfera                        ##    2, Venus Bucureşti 
+   -  DF  Rudolf Bürger                      ##   14, Ripensia Timişoara 
+   -  DF  Emerich Vogl                       ##   27, Juventus Bucureşti 
+   -  DF  Alexandru Cuedan                   ##    0, Rapid Bucureşti 
+   -  DF  Gheorghe Albu                      ##   20, Venus Bucureşti 
+
+   -  MF  Rudolf Kotormány                   ##    6, Ripensia Timişoara 
+   -  MF  Gusztáv Juhász                     ##    0, Juventus Bucureşti 
+   -  MF  Károly Weichelt                    ##    1, CAO Oradea 
+   -  MF  Vasile Deheleanu                   ##    1, Ripensia Timişoara 
+   -  MF  József Moravetz                    ##    8, RGM Timişoara 
+
+   -  FW  Iuliu Bodola                       ##   20, CAO Oradea 
+   -  FW  Gheorghe Ciolac                    ##   14, Ripensia Timişoara 
+   -  FW  Nicolae Kovács                     ##   19, CAO Oradea 
+   -  FW  Sándor Schwartz                    ##    4, Ripensia Timişoara 
+   -  FW  Graţian Sepi                       ##   18, Universitatea Cluj 
+   -  FW  Silviu Bindea                      ##    8, Ripensia Timişoara 
+   -  FW  Iuliu Barátky                      ##    1, Crişana Oradea 
+   -  FW  István Klimek                      ##    0, ILSA Timişoara 
+   -  FW  Ştefan Dobay                       ##   12, Ripensia Timişoara 
+

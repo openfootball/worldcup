@@ -1,0 +1,30 @@
+##############################
+# Deutschland (GER) 
+#   - 22 players
+
+   -  GK  Hans Jakob                         ##    8, Jahn Regensburg 
+   -  GK  Willibald Kreß                     ##   13, Rot-Weiss Frankfurt 
+   -  GK  Fritz Buchloh                      ##    5, VfB Speldorf 
+
+   -  DF  Willy Busch                        ##    2, TuS Duisburg 
+   -  DF  Sigmund Haringer                   ##    8, FC Bayern München 
+   -  DF  Hans Schwartz                      ##    0, SpVgg Viktoria Hamburg 
+
+   -  MF  Rudolf Gramlich                    ##    7, Eintracht Frankfurt 
+   -  MF  Fritz Szepan                       ##    4, FC Schalke 04 
+   -  MF  Reinhold Münzenberg                ##    4, Alemannia Aachen 
+   -  MF  Paul Zielinski                     ##    0, SV Union Hamborn 
+   -  MF  Ernst Albrecht                     ##   17, Fortuna Düsseldorf 
+   -  MF  Paul Janes                         ##    5, Fortuna Düsseldorf 
+
+   -  FW  Stanislaus Kobierski               ##   12, Fortuna Düsseldorf 
+   -  FW  Karl Hohmann                       ##    8, VfL Benrath 
+   -  FW  Ernst Lehner                       ##    3, TSV Schwaben Augsburg 
+   -  FW  Matthias Heidemann                 ##    1, SC Bonn 
+   -  FW  Rudolf Noack                       ##    1, SV Hamburg 
+   -  FW  Franz Dienert                      ##    0, VfB Mühlburg 
+   -  FW  Otto Siffling                      ##    0, Waldhof Mannheim 
+   -  FW  Josef Streb                        ##    0, Wacker München 
+   -  FW  Edmund Conen                       ##    1, FV Saarbrücken 
+   -  FW  Jakob Bender                       ##    3, Fortuna Düsseldorf 
+

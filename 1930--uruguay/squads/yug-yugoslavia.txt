@@ -1,0 +1,25 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 17 players
+
+   -  GK  Milan Stojanović                   ##    0, BSK Beograd 
+   -  GK  Milovan Jakšić                     ##    2, SK Soko 
+
+   -  DF  Dragoslav Mihajlović               ##    1, BSK Beograd 
+   -  DF  Dragomir Tošić                     ##    0, BSK Beograd 
+   -  DF  Milutin Ivković                    ##   22, SK Soko 
+
+   -  MF  Milorad Arsenijević                ##   16, SK Beograd 
+   -  MF  Teofilo Spasojević                 ##    1, Jugoslavija Beograd 
+   -  MF  Momčilo Đokić                      ##    2, Jugoslavija Beograd 
+   -  MF  Ljubiša Stefanović                 ##    0, FC Sète 
+
+   -  FW  Blagoje Marjanović                 ##   15, SK Beograd 
+   -  FW  Branislav Sekulić                  ##    3, SC Montpellier 
+   -  FW  Dragutin Najdanović                ##    3, BSK Beograd 
+   -  FW  Branislav Hrnjiček                 ##    4, Jugoslavija Beograd 
+   -  FW  Bozidar Marković                   ##    0, Vojvodina Novi Sad 
+   -  FW  Aleksandar Tirnanić                ##    5, BSK Beograd 
+   -  FW  Ivan Bek                           ##    2, FC Sète 
+   -  FW  Đorđe Vujadinović                  ##    4, BSK Beograd 
+

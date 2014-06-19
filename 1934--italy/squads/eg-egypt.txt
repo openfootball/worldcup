@@ -1,0 +1,28 @@
+##############################
+# Egypt (EGY) 
+#   - 20 players
+
+   -  GK  Aziz Fahmy                         ##    1, Al-Ahly National SC 
+   -  GK  Mustafa Mansour                    ##    -, Al-Ahly National SC 
+
+   -  DF  Hamidu                             ##    2, Al-Olympi Alexandria 
+   -  DF  Ali El-Said                        ##    2, Zamalek Mokhtalat 
+   -  DF  Yacout El-Soury                    ##    4, Al-Ittihad 
+
+   -  MF  Mohammed Bakhati                   ##    1, Zamalek Mokhtalat 
+   -  MF  Hemli Moustafa                     ##    0, Al-Masry AC Port Said 
+   -  MF  Hassan Raghab                      ##    2, Union Recreation Ithad 
+   -  MF  Ismail Rafaat                      ##    0, Zamalek Mokhtalat 
+   -  MF  Ahmed Halim Ibrahim                ##    -, Zamalek Mokhtalat 
+   -  MF  Hassan El-Far                      ##    2, Zamalek Mokhtalat 
+   -  MF  Hafez Kasseb                       ##    0, Al-Olympi Alexandria 
+
+   -  FW  Mohamed Latif                      ##    2, Zamalek Mokhtalat 
+   -  FW  Mohammed Hassan                    ##    -, Al-Masry AC Port Said 
+   -  FW  Hany Kamel Mahmoud                 ##    0, Al-Ahly National SC 
+   -  FW  Mahmoud 'El-Tetsh' Mokhtar         ##    5, Al-Ahly National SC 
+   -  FW  Kamel Mosaoud                      ##    -, Al-Ahly National SC 
+   -  FW  Abdelrahman Fawzi                  ##    2, Al-Masry AC Port Said 
+   -  FW  Mahmoud El-Nigero                  ##    0, Cairo Shourta Police 
+   -  FW  Mostafa Taha                       ##    -, Zamalek Mokhtalat 
+
