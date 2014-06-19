@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+   -  GK  Niek Michel                        ##    0, VSV Velsen 
+   -  GK  Adri van Male                      ##    9, SC Feyenoord Rotterdam 
+
+   -  DF  Mauk Weber                         ##   25, ADO Den Haag 
+   -  DF  Bertus Caldenhove                  ##   18, DWS Amsterdam 
+   -  DF  Dick Been                          ##    0, Ajax Amsterdam 
+   -  DF  Hendrikus Plenter                  ##    0, Quick Groningen 
+
+   -  MF  Puck van Heel                      ##   62, SC Feyenoord Rotterdam 
+   -  MF  Frans Hogenbirk                    ##    0, Quick Groningen 
+   -  MF  Wim Anderiesen                     ##   40, Ajax Amsterdam 
+   -  MF  Bas Paauwe                         ##   21, SC Feyenoord Rotterdam 
+   -  MF  Rene Pijpers                       ##    0, RFC Roermond 
+
+   -  FW  Klaas Ooms                         ##    0, DWV Amsterdam 
+   -  FW  Daaf Drok                          ##    7, RFC Rotterdam 
+   -  FW  Piet Punt                          ##    1, DFC Dordrecht 
+   -  FW  Kick Smit                          ##   21, HFC Haarlem 
+   -  FW  Frans van der Veen                 ##    1, Heracles Almelo 
+   -  FW  Arie de Winter                     ##    0, HFC Haarlem 
+   -  FW  Bertus de Harder                   ##    1, VUC Den Haag 
+   -  FW  Henk van Spaandonck                ##    7, Neptunus Rotterdam 
+   -  FW  Leen Vente                         ##   14, Neptunus Rotterdam 
+   -  FW  Piet de Boer                       ##    1, KFC 
+   -  FW  Frank Wels                         ##   35, Unitas Gorinchem 
+

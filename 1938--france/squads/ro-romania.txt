@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+   -  GK  Dumitru Pavlovici                  ##    8, Ripensia Timişoara 
+   -  GK  Mircea David                       ##    4, Venus Bucureşti 
+   -  GK  Róbert Szádowsky                   ##    1, AMEF Arad 
+
+   -  DF  Lazăr Sfera                        ##    5, Venus Bucureşti 
+   -  DF  Iacob Felecan                      ##    4, Victoria Cluj 
+   -  DF  Vasile Chiroiu                     ##    5, Ripensia Timişoara 
+   -  DF  Rudolf Bürger                      ##   27, Ripensia Timişoara 
+
+   -  MF  Gheorghe Brandabura                ##    4, Juventus Bucureşti 
+   -  MF  Vintilă Cossini                    ##   12, Rapid Bucureşti 
+   -  MF  Gheorghe Rasinaru                  ##    1, Rapid Bucureşti 
+   -  MF  Ladislau Raffinsky                 ##   18, Rapid Bucureşti 
+   -  MF  Andrei Bărbulescu                  ##    2, Venus Bucureşti 
+   -  MF  Stefan Dobra                       ##    -, Gloria Arad 
+
+   -  FW  Nicolae Kovács                     ##   35, CAO Oradea 
+   -  FW  Ioachim Moldoveanu                 ##    3, Rapid Bucureşti 
+   -  FW  Miklós Nagy                        ##    0, Crişana Oradea 
+   -  FW  Ştefan Dobay                       ##   33, Ripensia Timişoara 
+   -  FW  Gyula Prassler                     ##    1, AMEF Arad 
+   -  FW  Ion Bogdan                         ##    1, Rapid Bucureşti 
+   -  FW  Iuliu Bodola                       ##   39, Venus Bucureşti 
+   -  FW  Silviu Bindea                      ##   18, Ripensia Timişoara 
+   -  FW  Iuliu Baratky                      ##   10, Rapid Bucureşti 
+

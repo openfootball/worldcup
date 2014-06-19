@@ -1,0 +1,30 @@
+##############################
+# Hungary (HUN) 
+#   - 22 players
+
+   -  GK  Antal Szabó                        ##   32, MTK Hungária FC 
+   -  GK  József Háda                        ##   15, Ferencváros FC 
+   -  GK  József Pálinkás                    ##    5, Szeged FC 
+
+   -  DF  Sándor Bíró                        ##   26, MTK Hungária FC 
+   -  DF  Lajos Korányi                      ##   30, Ferencváros FC 
+   -  DF  Gyula Polgár                       ##   14, Ferencváros FC 
+
+   -  MF  Antal Szalay                       ##   19, Újpest FC 
+   -  MF  János Dudás                        ##   12, MTK Hungária FC 
+   -  MF  Gyula Lázár                        ##   34, Ferencváros FC 
+   -  MF  György Szűcs                       ##   23, Újpest FC 
+   -  MF  József Turay                       ##   41, MTK Hungária FC 
+   -  MF  István Balogh                      ##    3, Újpest FC 
+   -  MF  Béla Sárosi                        ##    0, Ferencváros FC 
+
+   -  FW  Ferenc Sas                         ##   13, MTK Hungária FC 
+   -  FW  György Sárosi                      ##   42, Ferencváros FC 
+   -  FW  Vilmos Kohut                       ##   24, Olympique Marseille 
+   -  FW  László Cseh                        ##   32, MTK Hungária FC 
+   -  FW  Pál Titkos                         ##   45, MTK Hungária FC 
+   -  FW  Géza Toldi                         ##   39, Ferencváros FC 
+   -  FW  Mihály Bíró                        ##    0, Ferencváros FC 
+   -  FW  Jenő Vincze                        ##   22, Újpest FC 
+   -  FW  Gyula Zsengellér                   ##    9, Újpest FC 
+

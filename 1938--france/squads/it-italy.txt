@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+   -  GK  Aldo Olivieri                      ##    8, Lucchese 
+   -  GK  Guido Masetti                      ##    1, Roma 
+   -  GK  Carlo Ceresoli                     ##    7, Bologna 
+
+   -  DF  Eraldo Monzeglio                   ##   32, Roma 
+   -  DF  Alfredo Foni                       ##    6, Juventus 
+   -  DF  Pietro Rava                        ##   11, Juventus 
+
+   -  MF  Renato Olmi                        ##    0, Ambrosiana-Inter 
+   -  MF  Aldo Donati                        ##    0, Roma 
+   -  MF  Mario Perazzolo                    ##    2, Genoa 
+   -  MF  Bruno Chizzo                       ##    0, Triestina 
+   -  MF  Mario Genta                        ##    0, Genoa 
+   -  MF  Michele Andreolo                   ##   11, Bologna 
+   -  MF  Pietro Serantoni                   ##    9, Roma 
+   -  MF  Giuseppe Meazza                    ##   43, Ambrosiana-Inter 
+   -  MF  Ugo Locatelli                      ##    7, Ambrosiana-Inter 
+
+   -  FW  Pietro Ferraris                    ##    3, Ambrosiana-Inter 
+   -  FW  Giovanni Ferrari                   ##   38, Ambrosiana-Inter 
+   -  FW  Pietro Pasinati                    ##   10, Triestina 
+   -  FW  Gino Colaussi                      ##   12, Triestina 
+   -  FW  Silvio Piola                       ##   14, Lazio 
+   -  FW  Amedeo Biavati                     ##    0, Bologna 
+   -  FW  Sergio Bertoni                     ##    3, Pisa 
+

@@ -1,0 +1,30 @@
+##############################
+# Poland (POL) 
+#   - 22 players
+
+   -  GK  Edward Madejski                    ##    6, Wisła Kraków 
+   -  GK  Walter Brom                        ##    0, Ruch Chorzów 
+
+   -  DF  Edmund Twórz                       ##    2, Warta Poznań 
+   -  DF  Władysław Szczepaniak              ##   22, Polonia Warszawa 
+   -  DF  Antoni Gałecki                     ##   16, ŁKS Łódź 
+   -  DF  Edmund Giemsa                      ##    6, Ruch Chorzów 
+
+   -  MF  Wilhelm Góra                       ##    8, Cracovia 
+   -  MF  Ewald Dytko                        ##   16, Dąb Katowice 
+   -  MF  Jan Wasiewicz                      ##   14, Pogoń Lwów 
+   -  MF  Kazimierz Lis                      ##    0, Warta Poznań 
+   -  MF  Wilhelm Piec                       ##    3, Naprzód Lipiny 
+   -  MF  Erwin Nyc                          ##    4, Polonia Warszawa 
+
+   -  FW  Stanisław Baran                    ##    0, Warszawianka Warszawa 
+   -  FW  Leonard Piątek                     ##    9, AKS Chorzów 
+   -  FW  Ryszard Piec                       ##   18, Naprzód Lipiny 
+   -  FW  Antoni Łyko                        ##    1, Wisła Kraków 
+   -  FW  Fryderyk Scherfke                  ##   12, Warta Poznań 
+   -  FW  Józef Korbas                       ##    1, Cracovia 
+   -  FW  Bolesław Habowski                  ##    1, Wisła Kraków 
+   -  FW  Ewald Cebula                       ##    0, Śląsk Świętochłowice 
+   -  FW  Ernst Wilimowski                   ##   14, Ruch Chorzów 
+   -  FW  Gerard Wodarz                      ##   24, Ruch Chorzów 
+

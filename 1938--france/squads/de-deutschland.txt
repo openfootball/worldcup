@@ -1,0 +1,30 @@
+##############################
+# Deutschland (GER) 
+#   - 22 players
+
+   -  GK  Fritz Buchloh                      ##   17, VfB Speldorf 
+   -  GK  Hans Jakob                         ##   35, Jahn Regensburg 
+   -  GK  Rudolf Raftl                       ##    0, Rapid Wien 
+
+   -  DF  Ludwig Goldbrunner                 ##   31, FC Bayern Munchen 
+   -  DF  Willibald Schmaus                  ##    0, First Vienna 
+   -  DF  Jakob Streitle                     ##    0, FC Bayern Munchen 
+   -  DF  Paul Janes                         ##   34, Fortuna Düsseldorf 
+   -  DF  Reinhold Münzenberg                ##   39, Alemannia Aachen 
+
+   -  MF  Andreas Kupfer                     ##   10, 1. FC Schweinfurt 05 
+   -  MF  Stefan Skoumal                     ##    0, Rapid Wien 
+   -  MF  Hans Mock                          ##    0, Austria Wien 
+   -  MF  Albin Kitzinger                    ##   18, 1. FC Schweinfurt 05 
+   -  MF  Franz Wagner                       ##    0, Rapid Wien 
+
+   -  FW  Hans Pesser                        ##    1, Rapid Wien 
+   -  FW  Wilhelm Hahnemann                  ##    0, Admira Wien 
+   -  FW  Leopold Neumer                     ##    0, Austria Wien 
+   -  FW  Otto Siffling                      ##   31, Waldhof Mannheim 
+   -  FW  Ernst Lehner                       ##   39, Schwaben Augsburg 
+   -  FW  Josef Gauchel                      ##    6, TuS Koblenz-Neuendorf 
+   -  FW  Josef Stroh                        ##    0, Austria Wien 
+   -  FW  Fritz Szepan                       ##   30, FC Schalke 04 
+   -  FW  Rudolf Gellesch                    ##   14, FC Schalke 04 
+

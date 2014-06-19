@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+   -  GK  Julien Darui                       ##    0, Olympique Lillois 
+   -  GK  René Llense                        ##    9, FC Sète 
+   -  GK  Laurent Di Lorto                   ##    9, FC Sochaux-Montbéliard 
+
+   -  DF  Martin Povolny                     ##    0, FC Le Havre 
+   -  DF  Abdelkader Ben Bouali              ##    1, Olympique de Marseille 
+   -  DF  Hector Cazenave                    ##    6, FC Sochaux-Montbéliard 
+   -  DF  Jules Vandooren                    ##   14, Olympique Lillois 
+   -  DF  Étienne Mattler                    ##   38, FC Sochaux-Montbéliard 
+
+   -  MF  Jean Bastien                       ##    0, Olympique de Marseille 
+   -  MF  François Bourbotte                 ##    9, SC Fives 
+   -  MF  Raoul Diagne                       ##   11, RC Paris 
+   -  MF  Auguste Jordan                     ##    3, RC Paris 
+   -  MF  Lucien Jasseron                    ##    0, FC Le Havre 
+
+   -  FW  Oscar Heisserer                    ##    6, RC Strasbourg 
+   -  FW  Ignace Kowalczyk                   ##    5, FC Metz 
+   -  FW  Edmond Delfour                     ##   39, RC Roubaix 
+   -  FW  Roger Courtois                     ##   19, FC Sochaux-Montbéliard 
+   -  FW  Jean Nicolas                       ##   22, FC Rouen 
+   -  FW  Michel Brusseaux                   ##    1, FC Sète 
+   -  FW  Alfred Aston                       ##   15, Red Star Olympique 
+   -  FW  Émile Veinante                     ##   18, RC Paris 
+   -  FW  Mario Zatelli                      ##    0, Olympique de Marseille 
+

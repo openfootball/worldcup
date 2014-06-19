@@ -1,0 +1,23 @@
+##############################
+# Cuba (CUB) 
+#   - 15 players
+
+   -  GK  Juan Ayra                          ##    -, Hispano America 
+   -  GK  Benito Carvajales                  ##    -, Centro Gallego 
+
+   -  DF  Manuel Chorens                     ##    -, CD Centro Gallego 
+   -  DF  Jacinto Barquín                    ##    -, Juventud Aturiana 
+
+   -  MF  Pedro Berges                       ##    -, Iberia Havana 
+   -  MF  José Antonio Rodríguez             ##    -, CD Centro Gallego 
+   -  MF  Joaquín Arias                      ##    -, Juventud Asturiana 
+
+   -  FW  Tomás Fernández                    ##    -, CD Centro Gallego 
+   -  FW  Pedro Ferrer                       ##    -, Iberia Havana 
+   -  FW  José Magriñá                       ##    -, CD Centro Gallego 
+   -  FW  Carlos Oliveira                    ##    -, Hispano America 
+   -  FW  Juan Alonzo                        ##    -, Centro Gallego 
+   -  FW  Héctor Socorro                     ##    -, Iberia Habana 
+   -  FW  Mario Sosa                         ##    -, Iberia Havana 
+   -  FW  Juan Tuñas                         ##    -, Centro Gallego 
+

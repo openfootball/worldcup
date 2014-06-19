@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+   -  GK  Henock Abrahamsson                 ##    0, Gårda BK Göteborg 
+   -  GK  Gustav Sjöberg                     ##    7, AIK 
+
+   -  DF  Harry Nilsson                      ##    0, Landskrona BoIS 
+   -  DF  Erik Nilsson                       ##    0, Malmö FF 
+   -  DF  Ivar Eriksson                      ##    1, Sandvikens IF 
+   -  DF  Olle Källgren                      ##    6, Sandvikens IF 
+
+   -  MF  Karl-Erik Grahn                    ##   15, IF Elfsborg Borås 
+   -  MF  Kurt Svanström                     ##    4, Örgryte IS Göteborg 
+   -  MF  Erik Almgren                       ##    5, AIK 
+   -  MF  Sven Jacobsson                     ##    2, GAIS Göteborg 
+   -  MF  Arne Linderholm                    ##    0, IK Sleipner Norrköping 
+
+   -  FW  Harry Andersson                    ##    0, IK Sleipner Norrköping 
+   -  FW  Tore Keller                        ##   22, IK Sleipner Norrköping 
+   -  FW  Sven Jonasson                      ##   28, IF Elfsborg Borås 
+   -  FW  Curt Bergsten                      ##    6, Landskrona BoIS 
+   -  FW  Åke Andersson                      ##    2, GAIS Göteborg 
+   -  FW  Arne Nyberg                        ##    2, IFK Göteborg 
+   -  FW  Erik Persson                       ##   27, AIK 
+   -  FW  Knut Hansson                       ##    4, Landskrona BoIS 
+   -  FW  Lennart Bunke                      ##    -, Helsingborgs IF 
+   -  FW  Sven Unger                         ##    -, Sleinper IK 
+   -  FW  Gustav Wetterström                 ##    4,  IK Sleipner Norrköping 
+

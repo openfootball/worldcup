@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+   -  GK  Karel Burkert                      ##    1, SK Židenice 
+   -  GK  František Plánička                 ##   71, SK Slavia Prague 
+
+   -  DF  Ferdinand Daučík                   ##   10, SK Slavia Prague 
+   -  DF  Jaroslav Burgr                     ##   51, AC Sparta Prague 
+   -  DF  Karel Černý                        ##    -, SK Slavia Prague 
+   -  DF  Josef Orth                         ##    -, ŠK Slovan Bratislava 
+
+   -  MF  Jaroslav Bouček                    ##   22, AC Sparta Prague 
+   -  MF  Karel Kolský                       ##   10, AC Sparta Prague 
+   -  MF  Vlastimil Kopecký                  ##   13, SK Slavia Prague 
+   -  MF  Josef Košťálek                     ##   36, AC Sparta Prague 
+   -  MF  Otakar Nožíř                       ##    0, SK Slavia Prague 
+
+   -  FW  Josef Ludl                         ##    3, Viktoria Žižkov 
+   -  FW  Oldřich Nejedlý                    ##   38, AC Sparta Prague 
+   -  FW  Arnošt Kreuz                       ##    2, SK Pardubice 
+   -  FW  Václav Horák                       ##    9, SK Slavia Prague 
+   -  FW  Vojtěch Bradáč                     ##    7, SK Slavia Prague 
+   -  FW  Antonín Puč                        ##   59, SK Slavia Prague 
+   -  FW  Jan Říha                           ##    9, AC Sparta Prague 
+   -  FW  Oldřich Rulc                       ##   15, SK Židenice 
+   -  FW  Karel Senecký                      ##    2, AC Sparta Prague 
+   -  FW  Ladislav Šimůnek                   ##    2, SK Slavia Prague 
+   -  FW  Josef Zeman                        ##    3, AC Sparta Prague 
+

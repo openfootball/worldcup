@@ -1,0 +1,30 @@
+##############################
+# Norway (NOR) 
+#   - 22 players
+
+   -  GK  Sverre Nordby                      ##    2, Mjøndalen 
+   -  GK  Anker Kihle                        ##    0, Storm 
+   -  GK  Henry Johansen                     ##   44, Vålerengen 
+
+   -  DF  Øivind Holmsen                     ##   22, Lyn 
+   -  DF  Jørgen Juve                        ##   45, Lyn 
+   -  DF  Roald Amundsen                     ##    0, Mjøndalen 
+   -  DF  Sigurd Hansen                      ##    0, Fram Larvik 
+   -  DF  Nils Eriksen                       ##   34, Odd 
+   -  DF  Rolf Johannessen                   ##   11, Fredrikstad 
+
+   -  MF  Oddmund Andersen                   ##    1, Mjøndalen 
+   -  MF  Gunnar Andreassen                  ##    0, Fredrikstad 
+   -  MF  Rolf Holmberg                      ##   18, Odd 
+   -  MF  Kristian Henriksen                 ##   12, Lyn 
+
+   -  FW  Arne Brustad                       ##   19, Lyn 
+   -  FW  Reidar Kvammen                     ##   29, Viking 
+   -  FW  Magnar Isaksen                     ##   12, Lyn 
+   -  FW  Arne Ileby                         ##    0, Fredrikstad 
+   -  FW  Hjalmar Andresen                   ##    0, Sarpsborg 
+   -  FW  Odd Frantzen                       ##   14, Hardy 
+   -  FW  Knut Brynildsen                    ##    1, Fredrikstad 
+   -  FW  Alf Martinsen                      ##   17, Lillestrøm 
+   -  FW  Sverre Berglie                     ##    -, Drafn 
+

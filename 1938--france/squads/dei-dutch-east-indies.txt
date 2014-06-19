@@ -1,0 +1,25 @@
+##############################
+# Dutch East Indies (DEI) 
+#   - 17 players
+
+   -  GK  Tan "Bing" Mo Heng                 ##    -, HCTNH Soerabaja 
+   -  GK  Van Beusekom L.N.                  ##    -, Hercules Batavia 
+
+   -  DF  Jack Samuels Kolle                 ##    -, Excelsior Soerabaja 
+   -  DF  J. Harting                         ##    -, HBS Soerabaja 
+   -  DF  Frans G. Hu Kon                    ##    -, Sparta Batavia 
+
+   -  MF  Sutan Anwar                        ##    -, VIOS Batavia 
+   -  MF  Achmad Nawir                       ##    -, HBS Soerabaja 
+   -  MF  G. Van Den Burgh                   ##    -, SVV Semarang 
+   -  MF  Frans Alfred Meeng                 ##    -, SVVB Batavia 
+   -  MF  G.H.V.L. Faulhaber                 ##    -, Djocoja Djokjakarta 
+
+   -  FW  Tan Hong Djien                     ##    -, Tiong Hoa Soerabaja 
+   -  FW  M.J. Hans Taihuttu                 ##    -, VV Jong Ambon Batavia 
+   -  FW  Suvarte Soedarmadji                ##    -, HBS Soerabaja 
+   -  FW  Tan See Han                        ##    -, Gie Hoo Soerabaja 
+   -  FW  R. Telwe                           ##    -, HBS Soerabaja 
+   -  FW  Isaak "Tjaak" Pattiwael            ##    -, VV Jong Ambon Batavia 
+   -  FW  Hendrikus V. "Henk" Zomers         ##    -, Hercules Batavia 
+

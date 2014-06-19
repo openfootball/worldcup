@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+   -  GK  Erwin Ballabio                     ##    -, FC Grenchen 
+   -  GK  Renato Bizzozero                   ##    -, FC Lugano 
+   -  GK  Willy Huber                        ##    -, Grasshopper Club Zürich 
+
+   -  DF  Severino Minelli                   ##    -, Grasshopper Club Zürich 
+   -  DF  August Lehmann                     ##    -, Grasshopper Club Zürich 
+   -  DF  Adolf Stelzer                      ##    -, Lausanne Sports 
+
+   -  MF  Ernst Lörtscher                    ##    -, Servette 
+   -  MF  Sirio Vernati                      ##    -, Grasshopper Club Zürich 
+   -  MF  Oscar Rauch                        ##    -, Grasshopper Club Zürich 
+   -  MF  Albert Guinchard                   ##    -, Servette 
+   -  MF  Hermann Springer                   ##    -, Grasshopper Club Zürich 
+
+   -  FW  Leopold Kielholz                   ##    -, SC YF Juventus 
+   -  FW  Tullio Grassi                      ##    -, FC Lugano 
+   -  FW  Alessandro Frigerio                ##    -, Le Havre AC 
+   -  FW  Alfred Bickel                      ##    -, Grasshopper Club Zürich 
+   -  FW  André Abegglen                     ##    -, FC Sochaux-Montbéliard 
+   -  FW  Eugen Rupf                         ##    -, Grasshopper Club Zürich 
+   -  FW  Lauro Amadò                        ##    -, FC Lugano 
+   -  FW  Paul Aeby                          ##    -, Young Boys Bern 
+   -  FW  Georges Aeby                       ##    -, Servette 
+   -  FW  Fritz Wagner                       ##    -, Grasshopper Club Zürich 
+   -  FW  Eugen Walaschek                    ##    -, Servette 
+
