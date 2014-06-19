@@ -44,7 +44,7 @@ Group A:
                          # Peralta 61'
 
 (17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
-(18) Wed Jun/18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
+(18) Wed Jun/18 18:00   Cameroon 0-4 Croatia     @ Arena Amazônia, Manaus (UTC-4)
 
 (33) Mon Jun/23 17:00   Cameroon - Brazil      @ Brasília (UTC-3)
 (34) Mon Jun/23 17:00   Croatia  - Mexico      @ Recife (UTC-3)
@@ -58,8 +58,8 @@ Group B:
 (4) Fri Jun/13 18:00   Chile 3-1 (2-1) Australia       @ Arena Pantanal, Cuiabá (UTC-4)
                           # Sánchez 12' Valdívia 14' Beausejour 90+2'; Cahill 35'
 
-(19) Wed Jun/18 16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-(20) Wed Jun/18 13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+(19) Wed Jun/18 16:00   Spain 0-2 Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+(20) Wed Jun/18 13:00   Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
 
 (35) Mon Jun/23 13:00   Australia - Spain         @ Curitiba (UTC-3)
 (36) Mon Jun/23 13:00   Netherlands - Chile       @ São Paulo (UTC-3)
