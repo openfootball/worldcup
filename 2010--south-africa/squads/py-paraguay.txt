@@ -1,0 +1,31 @@
+##############################
+# Paraguay (PAR) 
+#   - 23 players
+
+ (1)  GK  Justo Villar                       ##   71, Real Valladolid (ESP)
+(12)  GK  Diego Barreto                      ##    2, Cerro Porteño (PAR)
+(22)  GK  Aldo Bobadilla                     ##   18, Independiente Medellín (COL)
+
+ (2)  DF  Darío Verón                        ##   27, UNAM (MEX)
+ (3)  DF  Claudio Morel                      ##   25, Boca Juniors (ARG)
+ (4)  DF  Denis Caniza                       ##   95, León (MEX)
+ (5)  DF  Julio César Cáceres                ##   59, Atlético Mineiro (BRA)
+ (6)  DF  Carlos Bonet                       ##   60, Olimpia (PAR)
+(14)  DF  Paulo da Silva                     ##   67, Sunderland (ENG)
+(17)  DF  Aureliano Torres                   ##   25, San Lorenzo (ARG)
+(21)  DF  Antolín Alcaraz                    ##    5, Club Brugge (BEL)
+
+ (8)  MF  Édgar Barreto                      ##   47, Atalanta (ITA)
+(11)  MF  Jonathan Santana                   ##   21, VfL Wolfsburg (GER)
+(13)  MF  Enrique Vera                       ##   25, LDU Quito (ECU)
+(15)  MF  Víctor Cáceres                     ##   25, Libertad (PAR)
+(16)  MF  Cristian Riveros                   ##   45, Cruz Azul (MEX)
+(20)  MF  Néstor Ortigoza                    ##    3, Argentinos Juniors (ARG)
+
+ (7)  FW  Óscar Cardozo                      ##   29, Benfica (POR)
+ (9)  FW  Roque Santa Cruz                   ##   66, Manchester City (ENG)
+(10)  FW  Édgar Benítez                      ##   12, Pachuca (MEX)
+(18)  FW  Nelson Valdez                      ##   38, Borussia Dortmund (GER)
+(19)  FW  Lucas Barrios                      ##    3, Borussia Dortmund (GER)
+(23)  FW  Rodolfo Gamarra                    ##    2, Libertad (PAR)
+

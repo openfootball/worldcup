@@ -1,0 +1,31 @@
+##############################
+# France (FRA) 
+#   - 23 players
+
+ (1)  GK  Hugo Lloris                        ##   11, Lyon (FRA)
+(16)  GK  Steve Mandanda                     ##   13, Marseille (FRA)
+(23)  GK  Cédric Carrasso                    ##    0, Bordeaux (FRA)
+
+ (2)  DF  Bacary Sagna                       ##   20, Arsenal (ENG)
+ (3)  DF  Éric Abidal                        ##   54, Barcelona (ESP)
+ (4)  DF  Anthony Réveillère                 ##    6, Lyon (FRA)
+ (5)  DF  William Gallas                     ##   81, Arsenal (ENG)
+ (6)  DF  Marc Planus                        ##    1, Bordeaux (FRA)
+(13)  DF  Patrice Evra                       ##   30, Manchester United (ENG)
+(17)  DF  Sébastien Squillaci                ##   20, Arsenal (ENG)
+(22)  DF  Gaël Clichy                        ##    4, Arsenal (ENG)
+
+ (7)  MF  Franck Ribéry                      ##   45, Bayern Munich (GER)
+ (8)  MF  Yoann Gourcuff                     ##   20, Lyon (FRA)
+(14)  MF  Jérémy Toulalan                    ##   34, Lyon (FRA)
+(15)  MF  Florent Malouda                    ##   54, Chelsea (ENG)
+(18)  MF  Alou Diarra                        ##   25, Bordeaux (FRA)
+(19)  MF  Abou Diaby                         ##    5, Arsenal (ENG)
+(20)  MF  Mathieu Valbuena                   ##    2, Marseille (FRA)
+
+ (9)  FW  Djibril Cissé                      ##   39, Panathinaikos (GRE)
+(10)  FW  Sidney Govou                       ##   46, Lyon (FRA)
+(11)  FW  André-Pierre Gignac                ##   13, Marseille (FRA)
+(12)  FW  Thierry Henry                      ##  121, Barcelona (ESP)
+(21)  FW  Nicolas Anelka                     ##   67, Chelsea (ENG)
+

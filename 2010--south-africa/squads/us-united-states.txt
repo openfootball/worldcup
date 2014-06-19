@@ -1,0 +1,31 @@
+##############################
+# United States (USA) 
+#   - 23 players
+
+ (1)  GK  Tim Howard                         ##   51, Everton (ENG)
+(18)  GK  Brad Guzan                         ##   16, Aston Villa (ENG)
+(23)  GK  Marcus Hahnemann                   ##    7, Wolverhampton Wanderers (ENG)
+
+ (2)  DF  Jonathan Spector                   ##   25, West Ham United (ENG)
+ (3)  DF  Carlos Bocanegra                   ##   79, Rennes (FRA)
+ (5)  DF  Oguchi Onyewu                      ##   54, Milan (ITA)
+ (6)  DF  Steve Cherundolo                   ##   60, Hannover 96 (GER)
+(12)  DF  Jonathan Bornstein                 ##   32, Chivas USA (USA)
+(15)  DF  Jay DeMerit                        ##   19, Watford (ENG)
+(21)  DF  Clarence Goodson                   ##   14, Start (NOR)
+
+ (4)  MF  Michael Bradley                    ##   43, Borussia Mönchengladbach (GER)
+ (7)  MF  DaMarcus Beasley                   ##   92, Rangers (SCO)
+ (8)  MF  Clint Dempsey                      ##   62, Fulham (ENG)
+(10)  MF  Landon Donovan                     ##  123, Los Angeles Galaxy (USA)
+(11)  MF  Stuart Holden                      ##   14, Bolton Wanderers (ENG)
+(13)  MF  Ricardo Clark                      ##   29, Eintracht Frankfurt (GER)
+(16)  MF  José Francisco Torres              ##   10, Pachuca (MEX)
+(19)  MF  Maurice Edu                        ##   13, Rangers (SCO)
+(22)  MF  Benny Feilhaber                    ##   32, AGF (DEN)
+
+ (9)  FW  Herculez Gomez                     ##    4, Puebla (MEX)
+(14)  FW  Edson Buddle                       ##    3, Los Angeles Galaxy (USA)
+(17)  FW  Jozy Altidore                      ##   25, Hull City (ENG)
+(20)  FW  Robbie Findley                     ##    6, Real Salt Lake (USA)
+

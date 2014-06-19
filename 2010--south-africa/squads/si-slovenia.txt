@@ -1,0 +1,31 @@
+##############################
+# Slovenia (SVN) 
+#   - 23 players
+
+ (1)  GK  Samir Handanović                   ##   38, Udinese (ITA)
+(12)  GK  Jasmin Handanovič                  ##    3, Mantova (ITA)
+(16)  GK  Aleksander Šeliga                  ##    1, Sparta Rotterdam (NED)
+
+ (2)  DF  Mišo Brečko                        ##   30, 1. FC Köln (GER)
+ (3)  DF  Elvedin Džinić                     ##    0, Maribor (SVN)
+ (4)  DF  Marko Šuler                        ##   16, Gent (BEL)
+ (5)  DF  Boštjan Cesar                      ##   41, Grenoble (FRA)
+ (6)  DF  Branko Ilič                        ##   36, Lokomotiv Moscow (RUS)
+(13)  DF  Bojan Jokić                        ##   33, Chievo (ITA)
+(19)  DF  Suad Filekovič                     ##   14, Maribor (SVN)
+(22)  DF  Matej Mavrič                       ##   32, TuS Koblenz (GER)
+
+ (8)  MF  Robert Koren                       ##   45, West Bromwich Albion (ENG)
+(15)  MF  Rene Krhin                         ##    3, Internazionale (ITA)
+(17)  MF  Andraž Kirm                        ##   25, Wisła Kraków (POL)
+(18)  MF  Aleksandar Radosavljević           ##   14, Larissa (GRE)
+(20)  MF  Andrej Komac                       ##   40, Maccabi Tel Aviv (ISR)
+(21)  MF  Dalibor Stevanovič                 ##   15, Vitesse (NED)
+
+ (7)  FW  Nejc Pečnik                        ##    7, Nacional (POR)
+ (9)  FW  Zlatan Ljubijankič                 ##   16, Gent (BEL)
+(10)  FW  Valter Birsa                       ##   33, Auxerre (FRA)
+(11)  FW  Milivoje Novakovič                 ##   37, 1. FC Köln (GER)
+(14)  FW  Zlatko Dedič                       ##   23, VfL Bochum (GER)
+(23)  FW  Tim Matavž                         ##    0, Groningen (NED)
+

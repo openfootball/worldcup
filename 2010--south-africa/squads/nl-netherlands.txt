@@ -1,0 +1,31 @@
+##############################
+# Netherlands (NED) 
+#   - 23 players
+
+ (1)  GK  Maarten Stekelenburg               ##   25, Ajax (NED)
+(16)  GK  Michel Vorm                        ##    3, Utrecht (NED)
+(22)  GK  Sander Boschker                    ##    1, Twente (NED)
+
+ (2)  DF  Gregory van der Wiel               ##    8, Ajax (NED)
+ (3)  DF  John Heitinga                      ##   51, Everton (ENG)
+ (4)  DF  Joris Mathijsen                    ##   53, Hamburger SV (GER)
+ (5)  DF  Giovanni van Bronckhorst           ##   97, Feyenoord (NED)
+(12)  DF  Khalid Boulahrouz                  ##   28, VfB Stuttgart (GER)
+(13)  DF  André Ooijer                       ##   53, PSV Eindhoven (NED)
+(15)  DF  Edson Braafheid                    ##    5, Celtic (SCO)
+
+ (6)  MF  Mark van Bommel                    ##   54, Bayern Munich (GER)
+ (8)  MF  Nigel de Jong                      ##   40, Manchester City (ENG)
+(10)  MF  Wesley Sneijder                    ##   59, Internazionale (ITA)
+(14)  MF  Demy de Zeeuw                      ##   23, Ajax (NED)
+(18)  MF  Stijn Schaars                      ##   11, AZ (NED)
+(20)  MF  Ibrahim Afellay                    ##   20, PSV Eindhoven (NED)
+(23)  MF  Rafael van der Vaart               ##   75, Real Madrid (ESP)
+
+ (7)  FW  Dirk Kuyt                          ##   60, Liverpool (ENG)
+ (9)  FW  Robin van Persie                   ##   41, Arsenal (ENG)
+(11)  FW  Arjen Robben                       ##   46, Bayern Munich (GER)
+(17)  FW  Eljero Elia                        ##    5, Hamburger SV (GER)
+(19)  FW  Ryan Babel                         ##   38, Liverpool (ENG)
+(21)  FW  Klaas-Jan Huntelaar                ##   30, Milan (ITA)
+

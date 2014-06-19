@@ -1,0 +1,31 @@
+##############################
+# Mexico (MEX) 
+#   - 23 players
+
+ (1)  GK  Óscar Pérez                        ##   52, Chiapas (MEX)
+(13)  GK  Guillermo Ochoa                    ##   37, América (MEX)
+(23)  GK  Luis Ernesto Michel                ##    4, Guadalajara (MEX)
+
+ (2)  DF  Francisco Rodríguez                ##   48, PSV Eindhoven (NED)
+ (3)  DF  Carlos Salcido                     ##   73, PSV Eindhoven (NED)
+ (4)  DF  Rafael Márquez                     ##   91, Barcelona (ESP)
+ (5)  DF  Ricardo Osorio                     ##   76, VfB Stuttgart (GER)
+(12)  DF  Paul Aguilar                       ##   10, Pachuca (MEX)
+(15)  DF  Héctor Moreno                      ##   10, AZ (NED)
+(16)  DF  Efraín Juárez                      ##   19, UNAM (MEX)
+(19)  DF  Jonny Magallón                     ##   52, Guadalajara (MEX)
+(20)  DF  Jorge Torres Nilo                  ##    8, Atlas (MEX)
+
+ (6)  MF  Gerardo Torrado                    ##  114, Cruz Azul (MEX)
+ (7)  MF  Pablo Barrera                      ##   21, UNAM (MEX)
+ (8)  MF  Israel Castro                      ##   31, UNAM (MEX)
+(18)  MF  Andrés Guardado                    ##   56, Deportivo La Coruña (ESP)
+(22)  MF  Alberto Medina                     ##   56, Guadalajara (MEX)
+
+ (9)  FW  Guillermo Franco                   ##   21, West Ham United (ENG)
+(10)  FW  Cuauhtémoc Blanco                  ##  115, Veracruz (MEX)
+(11)  FW  Carlos Vela                        ##   28, Arsenal (ENG)
+(14)  FW  Javier Hernández                   ##   12, Guadalajara (MEX)
+(17)  FW  Giovani dos Santos                 ##   26, Galatasaray (TUR)
+(21)  FW  Adolfo Bautista                    ##   37, Guadalajara (MEX)
+

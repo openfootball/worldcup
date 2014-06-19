@@ -1,0 +1,31 @@
+##############################
+# Spain (ESP) 
+#   - 23 players
+
+ (1)  GK  Iker Casillas                      ##  104, Real Madrid (ESP)
+(12)  GK  Víctor Valdés                      ##    1, Barcelona (ESP)
+(23)  GK  Pepe Reina                         ##   20, Liverpool (ENG)
+
+ (2)  DF  Raúl Albiol                        ##   23, Real Madrid (ESP)
+ (3)  DF  Gerard Piqué                       ##   16, Barcelona (ESP)
+ (4)  DF  Carlos Marchena                    ##   59, Valencia (ESP)
+ (5)  DF  Carles Puyol                       ##   83, Barcelona (ESP)
+(11)  DF  Joan Capdevila                     ##   46, Villarreal (ESP)
+(15)  DF  Sergio Ramos                       ##   60, Real Madrid (ESP)
+(17)  DF  Álvaro Arbeloa                     ##   15, Real Madrid (ESP)
+
+ (6)  MF  Andrés Iniesta                     ##   43, Barcelona (ESP)
+ (8)  MF  Xavi                               ##   87, Barcelona (ESP)
+(10)  MF  Cesc Fàbregas                      ##   49, Arsenal (ENG)
+(13)  MF  Juan Mata                          ##    8, Valencia (ESP)
+(14)  MF  Xabi Alonso                        ##   69, Real Madrid (ESP)
+(16)  MF  Sergio Busquets                    ##   13, Barcelona (ESP)
+(20)  MF  Javi Martínez                      ##    2, Athletic Bilbao (ESP)
+(21)  MF  David Silva                        ##   36, Valencia (ESP)
+(22)  MF  Jesús Navas                        ##    6, Sevilla (ESP)
+
+ (7)  FW  David Villa                        ##   58, Valencia (ESP)
+ (9)  FW  Fernando Torres                    ##   73, Liverpool (ENG)
+(18)  FW  Pedro                              ##    3, Barcelona (ESP)
+(19)  FW  Fernando Llorente                  ##    7, Athletic Bilbao (ESP)
+

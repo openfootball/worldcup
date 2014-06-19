@@ -1,0 +1,31 @@
+##############################
+# Serbia (SRB) 
+#   - 23 players
+
+ (1)  GK  Vladimir Stojković                 ##   33, Wigan Athletic (ENG)
+(12)  GK  Bojan Isailović                    ##    4, Zagłębie Lubin (POL)
+(23)  GK  Anđelko Đuričić                    ##    1, União Leiria (POR)
+
+ (2)  DF  Antonio Rukavina                   ##   20, 1860 Munich (GER)
+ (3)  DF  Aleksandar Kolarov                 ##   13, Lazio (ITA)
+ (5)  DF  Nemanja Vidić                      ##   45, Manchester United (ENG)
+ (6)  DF  Branislav Ivanović                 ##   31, Chelsea (ENG)
+(13)  DF  Aleksandar Luković                 ##   21, Udinese (ITA)
+(16)  DF  Ivan Obradović                     ##   12, Real Zaragoza (ESP)
+(20)  DF  Neven Subotić                      ##   13, Borussia Dortmund (GER)
+
+ (4)  MF  Gojko Kačar                        ##   17, Hertha BSC (GER)
+ (7)  MF  Zoran Tošić                        ##   21, 1. FC Köln (GER)
+(10)  MF  Dejan Stanković                    ##   88, Internazionale (ITA)
+(11)  MF  Nenad Milijaš                      ##   17, Wolverhampton Wanderers (ENG)
+(14)  MF  Milan Jovanović                    ##   26, Standard Liège (BEL)
+(17)  MF  Miloš Krasić                       ##   31, CSKA Moscow (RUS)
+(18)  MF  Miloš Ninković                     ##    9, Dynamo Kyiv (UKR)
+(19)  MF  Radosav Petrović                   ##    9, Partizan (SRB)
+(22)  MF  Zdravko Kuzmanović                 ##   27, VfB Stuttgart (GER)
+
+ (8)  FW  Danko Lazović                      ##   37, Zenit Saint Petersburg (RUS)
+ (9)  FW  Marko Pantelić                     ##   32, Ajax (NED)
+(15)  FW  Nikola Žigić                       ##   45, Valencia (ESP)
+(21)  FW  Dragan Mrđa                        ##    6, Vojvodina (SRB)
+

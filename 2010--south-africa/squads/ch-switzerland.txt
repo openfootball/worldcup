@@ -1,0 +1,31 @@
+##############################
+# Switzerland (SUI) 
+#   - 23 players
+
+ (1)  GK  Diego Benaglio                     ##   25, VfL Wolfsburg (GER)
+(12)  GK  Marco Wölfli                       ##    4, Young Boys (SUI)
+(21)  GK  Johnny Leoni                       ##    0, Zürich (SUI)
+
+ (2)  DF  Stephan Lichtsteiner               ##   26, Lazio (ITA)
+ (3)  DF  Ludovic Magnin                     ##   61, Zürich (SUI)
+ (4)  DF  Philippe Senderos                  ##   38, Everton (ENG)
+ (5)  DF  Steve von Bergen                   ##   10, Hertha BSC (GER)
+(13)  DF  Stéphane Grichting                 ##   33, Auxerre (FRA)
+(17)  DF  Reto Ziegler                       ##   10, Sampdoria (ITA)
+(22)  DF  Mario Eggimann                     ##    8, Hannover 96 (GER)
+
+ (6)  MF  Benjamin Huggel                    ##   36, Basel (SUI)
+ (7)  MF  Tranquillo Barnetta                ##   50, Bayer Leverkusen (GER)
+ (8)  MF  Gökhan Inler                       ##   34, Udinese (ITA)
+(11)  MF  Valon Behrami                      ##   26, West Ham United (ENG)
+(14)  MF  Marco Padalino                     ##    7, Sampdoria (ITA)
+(15)  MF  Hakan Yakin                        ##   80, Luzern (SUI)
+(16)  MF  Gelson Fernandes                   ##   22, Saint-Étienne (FRA)
+(20)  MF  Pirmin Schwegler                   ##    3, Eintracht Frankfurt (GER)
+(23)  MF  Xherdan Shaqiri                    ##    1, Basel (SUI)
+
+ (9)  FW  Alexander Frei                     ##   73, Basel (SUI)
+(10)  FW  Blaise Nkufo                       ##   29, Twente (NED)
+(18)  FW  Albert Bunjaku                     ##    1, 1. FC Nürnberg (GER)
+(19)  FW  Eren Derdiyok                      ##   19, Bayer Leverkusen (GER)
+

@@ -1,0 +1,31 @@
+##############################
+# Ghana (GHA) 
+#   - 23 players
+
+ (1)  GK  Daniel Adjei                       ##    2, Liberty Professionals (GHA)
+(16)  GK  Stephen Ahorlu                     ##    0, Heart of Lions (GHA)
+(22)  GK  Richard Kingson                    ##   58, Wigan Athletic (ENG)
+
+ (2)  DF  Hans Sarpei                        ##   23, Bayer Leverkusen (GER)
+ (4)  DF  John Paintsil                      ##   65, Fulham (ENG)
+ (5)  DF  John Mensah                        ##   58, Sunderland (ENG)
+ (7)  DF  Samuel Inkoom                      ##   15, Basel (SUI)
+ (8)  DF  Jonathan Mensah                    ##    3, Granada (ESP)
+(15)  DF  Isaac Vorsah                       ##    6, 1899 Hoffenheim (GER)
+(17)  DF  Abdul Rahim Ayew                   ##    6, Zamalek (EGY)
+(19)  DF  Lee Addy                           ##    3, Bechem Chelsea (GHA)
+
+ (6)  MF  Anthony Annan                      ##   38, Rosenborg (NOR)
+ (9)  MF  Derek Boateng                      ##   19, Getafe (ESP)
+(10)  MF  Stephen Appiah                     ##   56, Bologna (ITA)
+(11)  MF  Sulley Muntari                     ##   52, Internazionale (ITA)
+(13)  MF  André Ayew                         ##   15, Arles-Avignon (FRA)
+(20)  MF  Quincy Owusu-Abeyie                ##   12, Al-Sadd (QAT)
+(21)  MF  Kwadwo Asamoah                     ##   29, Udinese (ITA)
+(23)  MF  Kevin-Prince Boateng               ##    0, Portsmouth (ENG)
+
+ (3)  FW  Asamoah Gyan                       ##   32, Rennes (FRA)
+(12)  FW  Prince Tagoe                       ##   17, 1899 Hoffenheim (GER)
+(14)  FW  Matthew Amoah                      ##   31, NAC (NED)
+(18)  FW  Dominic Adiyiah                    ##    4, Milan (ITA)
+

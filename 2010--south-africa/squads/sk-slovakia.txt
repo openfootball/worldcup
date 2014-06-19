@@ -1,0 +1,31 @@
+##############################
+# Slovakia (SVK) 
+#   - 23 players
+
+ (1)  GK  Ján Mucha                          ##   14, Legia Warszawa (POL)
+(12)  GK  Dušan Perniš                       ##    1, Dundee United (SCO)
+(23)  GK  Dušan Kuciak                       ##    2, FC Vaslui (ROU)
+
+ (2)  DF  Peter Pekarík                      ##   21, VfL Wolfsburg (GER)
+ (3)  DF  Martin Škrtel                      ##   37, Liverpool (ENG)
+ (4)  DF  Marek Čech                         ##   38, West Bromwich Albion (ENG)
+ (5)  DF  Radoslav Zabavník                  ##   42, Mainz 05 (GER)
+(16)  DF  Ján Ďurica                         ##   35, Hannover 96 (GER)
+(21)  DF  Kornel Saláta                      ##    3, Slovan Bratislava (SVK)
+(22)  DF  Martin Petráš                      ##   38, Cesena (ITA)
+
+ (6)  MF  Zdeno Štrba                        ##   20, Skoda Xanthi (GRE)
+ (7)  MF  Vladimír Weiss                     ##    7, Bolton Wanderers (ENG)
+ (8)  MF  Ján Kozák                          ##   22, Timişoara (ROU)
+ (9)  MF  Stanislav Šesták                   ##   29, VfL Bochum (GER)
+(10)  MF  Marek Sapara                       ##   24, Ankaragücü (TUR)
+(15)  MF  Miroslav Stoch                     ##   10, Twente (NED)
+(17)  MF  Marek Hamšík                       ##   30, Napoli (ITA)
+(19)  MF  Juraj Kucka                        ##    5, Sparta Prague (CZE)
+(20)  MF  Kamil Kopúnek                      ##    7, Spartak Trnava (SVK)
+
+(11)  FW  Róbert Vittek                      ##   69, Ankaragücü (TUR)
+(13)  FW  Filip Hološko                      ##   37, Beşiktaş (TUR)
+(14)  FW  Martin Jakubko                     ##   21, Saturn Moscow Oblast (RUS)
+(18)  FW  Erik Jendrišek                     ##   13, 1. FC Kaiserslautern (GER)
+

@@ -1,0 +1,31 @@
+##############################
+# Denmark (DEN) 
+#   - 23 players
+
+ (1)  GK  Thomas Sørensen                    ##   86, Stoke City (ENG)
+(16)  GK  Stephan Andersen                   ##    5, Brøndby (DEN)
+(22)  GK  Jesper Christiansen                ##   11, København (DEN)
+
+ (3)  DF  Simon Kjær                         ##    9, Palermo (ITA)
+ (4)  DF  Daniel Agger                       ##   30, Liverpool (ENG)
+ (5)  DF  William Kvist                      ##   13, København (DEN)
+ (6)  DF  Lars Jacobsen                      ##   29, Blackburn Rovers (ENG)
+(13)  DF  Per Krøldrup                       ##   28, Fiorentina (ITA)
+(15)  DF  Simon Poulsen                      ##    4, AZ (NED)
+(23)  DF  Patrick Mtiliga                    ##    2, Málaga (ESP)
+
+ (2)  MF  Christian Poulsen                  ##   72, Juventus (ITA)
+ (7)  MF  Daniel Jensen                      ##   47, Werder Bremen (GER)
+ (8)  MF  Jesper Grønkjær                    ##   76, København (DEN)
+(10)  MF  Martin Jørgensen                   ##   94, AGF (DEN)
+(12)  MF  Thomas Kahlenberg                  ##   30, VfL Wolfsburg (GER)
+(14)  MF  Jakob Poulsen                      ##   11, AGF (DEN)
+(17)  MF  Mikkel Beckmann                    ##    3, Randers (DEN)
+(19)  MF  Dennis Rommedahl                   ##   94, Ajax (NED)
+(20)  MF  Thomas Enevoldsen                  ##    4, Groningen (NED)
+(21)  MF  Christian Eriksen                  ##    2, Ajax (NED)
+
+ (9)  FW  Jon Dahl Tomasson                  ##  108, Feyenoord (NED)
+(11)  FW  Nicklas Bendtner                   ##   32, Arsenal (ENG)
+(18)  FW  Søren Larsen                       ##   17, MSV Duisburg (GER)
+

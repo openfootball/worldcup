@@ -1,0 +1,31 @@
+##############################
+# Japan (JPN) 
+#   - 23 players
+
+ (1)  GK  Seigo Narazaki                     ##   76, Nagoya Grampus (JPN)
+(21)  GK  Eiji Kawashima                     ##   10, Kawasaki Frontale (JPN)
+(23)  GK  Yoshikatsu Kawaguchi               ##  116, Júbilo Iwata (JPN)
+
+ (3)  DF  Yūichi Komano                      ##   53, Júbilo Iwata (JPN)
+ (4)  DF  Marcus Tulio Tanaka                ##   39, Nagoya Grampus (JPN)
+ (5)  DF  Yuto Nagatomo                      ##   26, FC Tokyo (JPN)
+ (6)  DF  Atsuto Uchida                      ##   31, Kashima Antlers (JPN)
+(13)  DF  Daiki Iwamasa                      ##    2, Kashima Antlers (JPN)
+(15)  DF  Yasuyuki Konno                     ##   37, FC Tokyo (JPN)
+(22)  DF  Yuji Nakazawa                      ##  105, Yokohama F. Marinos (JPN)
+
+ (2)  MF  Yuki Abe                           ##   45, Urawa Red Diamonds (JPN)
+ (7)  MF  Yasuhito Endō                      ##   94, Gamba Osaka (JPN)
+(10)  MF  Shunsuke Nakamura                  ##   97, Yokohama F. Marinos (JPN)
+(14)  MF  Kengo Nakamura                     ##   47, Kawasaki Frontale (JPN)
+(17)  MF  Makoto Hasebe                      ##   31, VfL Wolfsburg (GER)
+(18)  MF  Keisuke Honda                      ##   15, CSKA Moscow (RUS)
+(20)  MF  Junichi Inamoto                    ##   80, Kawasaki Frontale (JPN)
+
+ (8)  FW  Daisuke Matsui                     ##   23, Grenoble (FRA)
+ (9)  FW  Shinji Okazaki                     ##   28, Shimizu S-Pulse (JPN)
+(11)  FW  Keiji Tamada                       ##   70, Nagoya Grampus (JPN)
+(12)  FW  Kisho Yano                         ##   18, Albirex Niigata (JPN)
+(16)  FW  Yoshito Ōkubo                      ##   49, Vissel Kobe (JPN)
+(19)  FW  Takayuki Morimoto                  ##    6, Catania (ITA)
+

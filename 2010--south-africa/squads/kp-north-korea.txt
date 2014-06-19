@@ -1,0 +1,31 @@
+##############################
+# North Korea (PRK) 
+#   - 23 players
+
+ (1)  GK  Ri Myong-Guk                       ##   28, Pyongyang City (PRK)
+(18)  GK  Kim Myong-Gil                      ##   10, Amrokgang (PRK)
+(20)  GK  Kim Myong-Won                      ##    9, Amrokgang (PRK)
+
+ (2)  DF  Cha Jong-Hyok                      ##   31, Amrokgang (PRK)
+ (3)  DF  Ri Jun-Il                          ##   26, Sobaeksu (PRK)
+ (5)  DF  Ri Kwang-Chon                      ##   41, April 25 (PRK)
+ (8)  DF  Ji Yun-Nam                         ##   23, April 25 (PRK)
+(13)  DF  Pak Chol-Jin                       ##   34, Amrokgang (PRK)
+(14)  DF  Pak Nam-Chol                       ##   12, Amrokgang (PRK)
+(16)  DF  Nam Song-Chol                      ##   41, April 25 (PRK)
+(21)  DF  Ri Kwang-Hyok                      ##   15, Kyonggongop (PRK)
+
+ (4)  MF  Pak Nam-Chol                       ##   35, April 25 (PRK)
+ (6)  MF  Kim Kum-Il                         ##   11, April 25 (PRK)
+(11)  MF  Mun In-Guk                         ##   42, April 25 (PRK)
+(15)  MF  Kim Yong-Jun                       ##   52, Pyongyang City (PRK)
+(17)  MF  An Yong-Hak                        ##   24, Omiya Ardija (JPN)
+(19)  MF  Ri Chol-Myong                      ##   10, Pyongyang City (PRK)
+(22)  MF  Kim Kyong-Il                       ##    7, Rimyongsu (PRK)
+(23)  MF  Pak Sung-Hyok                      ##    3, Sobaeksu (PRK)
+
+ (7)  FW  An Chol-Hyok                       ##   16, Rimyongsu (PRK)
+ (9)  FW  Jong Tae-Se                        ##   20, Kawasaki Frontale (JPN)
+(10)  FW  Hong Yong-Jo                       ##   40, Rostov (RUS)
+(12)  FW  Choe Kum-Chol                      ##   16, April 25 (PRK)
+

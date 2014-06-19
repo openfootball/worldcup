@@ -1,0 +1,31 @@
+##############################
+# Greece (GRE) 
+#   - 23 players
+
+ (1)  GK  Kostas Chalkias                    ##   27, PAOK (GRE)
+(12)  GK  Alexandros Tzorvas                 ##    6, Panathinaikos (GRE)
+(13)  GK  Michalis Sifakis                   ##    1, Aris (GRE)
+
+ (2)  DF  Giourkas Seitaridis                ##   67, Panathinaikos (GRE)
+ (3)  DF  Christos Patsatzoglou              ##   41, Omonia (CYP)
+ (5)  DF  Vangelis Moras                     ##   10, Bologna (ITA)
+ (8)  DF  Avraam Papadopoulos                ##   12, Olympiakos (GRE)
+(11)  DF  Loukas Vyntra                      ##   27, Panathinaikos (GRE)
+(15)  DF  Vasilis Torosidis                  ##   25, Olympiakos (GRE)
+(16)  DF  Sotirios Kyrgiakos                 ##   56, Liverpool (ENG)
+(19)  DF  Sokratis Papastathopoulos          ##   10, Genoa (ITA)
+(22)  DF  Stelios Malezas                    ##    0, PAOK (GRE)
+
+ (4)  MF  Nikos Spiropoulos                  ##   17, Panathinaikos (GRE)
+ (6)  MF  Alexandros Tziolis                 ##   17, Siena (ITA)
+(10)  MF  Giorgos Karagounis                 ##   91, Panathinaikos (GRE)
+(18)  MF  Sotiris Ninis                      ##    3, Panathinaikos (GRE)
+(21)  MF  Kostas Katsouranis                 ##   67, Panathinaikos (GRE)
+(23)  MF  Sakis Prittas                      ##    0, Aris (GRE)
+
+ (7)  FW  Georgios Samaras                   ##   32, Celtic (SCO)
+ (9)  FW  Angelos Charisteas                 ##   82, 1. FC Nürnberg (GER)
+(14)  FW  Dimitris Salpingidis               ##   34, Panathinaikos (GRE)
+(17)  FW  Theofanis Gekas                    ##   46, Hertha BSC (GER)
+(20)  FW  Pantelis Kapetanos                 ##    3, Steaua Bucureşti (ROM)
+

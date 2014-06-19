@@ -1,0 +1,31 @@
+##############################
+# Uruguay (URU) 
+#   - 23 players
+
+ (1)  GK  Fernando Muslera                   ##    6, Lazio (ITA)
+(12)  GK  Juan Castillo                      ##   11, Deportivo Cali (COL)
+(23)  GK  Martín Silva                       ##    1, Defensor Sporting (URU)
+
+ (2)  DF  Diego Lugano                       ##   42, Fenerbahçe (TUR)
+ (3)  DF  Diego Godín                        ##   38, Villarreal (ESP)
+ (4)  DF  Jorge Fucile                       ##   24, Porto (POR)
+ (6)  DF  Mauricio Victorino                 ##    4, Universidad de Chile (CHI)
+(16)  DF  Maxi Pereira                       ##   37, Benfica (POR)
+(19)  DF  Andrés Scotti                      ##   26, Colo-Colo (CHI)
+(22)  DF  Martín Cáceres                     ##   19, Sevilla (ESP)
+
+ (5)  MF  Walter Gargano                     ##   28, Napoli (ITA)
+ (8)  MF  Sebastián Eguren                   ##   27, AIK (SWE)
+(11)  MF  Álvaro Pereira                     ##   15, Porto (POR)
+(14)  MF  Nicolás Lodeiro                    ##    4, Ajax (NED)
+(15)  MF  Diego Pérez                        ##   50, AS Monaco (FRA)
+(17)  MF  Egidio Arévalo Ríos                ##    6, Peñarol (URU)
+(18)  MF  Ignacio González                   ##   17, Valencia (ESP)
+(20)  MF  Álvaro Fernández                   ##    7, Universidad de Chile (CHI)
+
+ (7)  FW  Edinson Cavani                     ##   14, Palermo (ITA)
+ (9)  FW  Luis Suárez                        ##   30, Ajax (NED)
+(10)  FW  Diego Forlán                       ##   62, Atlético Madrid (ESP)
+(13)  FW  Sebastián Abreu                    ##   56, Botafogo (BRA)
+(21)  FW  Sebastián Fernández                ##    6, Banfield (ARG)
+

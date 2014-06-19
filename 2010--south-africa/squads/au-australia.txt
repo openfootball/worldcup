@@ -1,0 +1,31 @@
+##############################
+# Australia (AUS) 
+#   - 23 players
+
+ (1)  GK  Mark Schwarzer                     ##   75, Fulham (ENG)
+(12)  GK  Adam Federici                      ##    1, Reading (ENG)
+(18)  GK  Eugene Galeković                   ##    4, Adelaide United (AUS)
+
+ (2)  DF  Lucas Neill                        ##   56, Galatasaray (TUR)
+ (3)  DF  Craig Moore                        ##   50,  
+ (6)  DF  Michael Beauchamp                  ##   21, Al-Jazira (UAE)
+ (8)  DF  Luke Wilkshire                     ##   42, Dynamo Moscow (RUS)
+(11)  DF  Scott Chipperfield                 ##   65, Basel (SUI)
+(20)  DF  Mark Milligan                      ##   10, JEF United (JPN)
+(21)  DF  David Carney                       ##   25, Twente (NED)
+
+ (4)  MF  Tim Cahill                         ##   40, Everton (ENG)
+ (5)  MF  Jason Čulina                       ##   49, Gold Coast United (AUS)
+ (7)  MF  Brett Emerton                      ##   72, Blackburn Rovers (ENG)
+(13)  MF  Vince Grella                       ##   45, Blackburn Rovers (ENG)
+(15)  MF  Mile Jedinak                       ##   11, Antalyaspor (TUR)
+(16)  MF  Carl Valeri                        ##   22, Sassuolo (ITA)
+(19)  MF  Richard Garcia                     ##    7, Hull City (ENG)
+(22)  MF  Dario Vidošić                      ##    7, MSV Duisburg (GER)
+(23)  MF  Mark Bresciano                     ##   55, Palermo (ITA)
+
+ (9)  FW  Joshua Kennedy                     ##   19, Nagoya Grampus (JPN)
+(10)  FW  Harry Kewell                       ##   45, Galatasaray (TUR)
+(14)  FW  Brett Holman                       ##   31, AZ (NED)
+(17)  FW  Nikita Rukavytsya                  ##    3, Roeselare (BEL)
+
