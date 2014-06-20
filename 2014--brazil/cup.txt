@@ -74,13 +74,9 @@ Group C:
                          # Bony 64' Gervinho 66';  Honda 16'
 
 (21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-<<<<<<< HEAD
-(22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
-=======
                          # Rodríguez 64', Quintero 70';  Gervinho 73'
-                         
-(22) Thu Jun/19 19:00   Japan - Greece             @ Estádio das Dunas, Natal (UTC-3)
->>>>>>> 7ccdee922a123cd8083f68c4188694598d29d750
+
+(22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
 
 (37) Tue Jun/24 16:00   Japan - Colombia            @ Cuiabá (UTC-4)
 (38) Tue Jun/24 17:00   Côte d'Ivoire - Greece      @ Fortaleza (UTC-3)
@@ -155,4 +151,3 @@ Group H:
 
 (47) Thu Jun/26 17:00   South Korea - Belgium     @ São Paulo (UTC-3)
 (48) Thu Jun/26 17:00   Algeria - Russia          @ Curitiba (UTC-3)
-
