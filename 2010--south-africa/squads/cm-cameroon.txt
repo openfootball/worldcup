@@ -1,0 +1,31 @@
+##############################
+# Cameroon (CMR) 
+#   - 23 players
+
+ (1)  GK  Carlos Kameni                      ##   58, Espanyol (ESP)
+(16)  GK  Souleymanou Hamidou                ##   40, Kayserispor (TUR)
+(22)  GK  Guy N'dy Assembé                   ##    0, Valenciennes (FRA)
+
+ (2)  DF  Benoît Assou-Ekotto                ##    4, Tottenham Hotspur (ENG)
+ (3)  DF  Nicolas N'Koulou                   ##    6, AS Monaco (FRA)
+ (4)  DF  Rigobert Song                      ##  133, Trabzonspor (TUR)
+ (5)  DF  Sébastien Bassong                  ##    3, Tottenham Hotspur (ENG)
+ (8)  DF  Geremi                             ##  109, Ankaragücü (TUR)
+(12)  DF  Gaëtan Bong                        ##    0, Valenciennes (FRA)
+(14)  DF  Aurélien Chedjou                   ##    8, Lille (FRA)
+(19)  DF  Stéphane Mbia                      ##   29, Marseille (FRA)
+
+ (6)  MF  Alex Song                          ##   20, Arsenal (ENG)
+ (7)  MF  Landry N'Guémo                     ##   17, Celtic (SCO)
+(10)  MF  Achille Emana                      ##   32, Real Betis (ESP)
+(11)  MF  Jean Makoun                        ##   46, Lyon (FRA)
+(18)  MF  Eyong Enoh                         ##   12, Ajax (NED)
+(20)  MF  Georges Mandjeck                   ##    4, 1. FC Kaiserslautern (GER)
+(21)  MF  Joël Matip                         ##    1, Schalke 04 (GER)
+
+ (9)  FW  Samuel Eto'o                       ##   92, Internazionale (ITA)
+(13)  FW  Eric Choupo-Moting                 ##    0, 1. FC Nürnberg (GER)
+(15)  FW  Pierre Webó                        ##   39, Mallorca (ESP)
+(17)  FW  Mohammadou Idrissou                ##   28, SC Freiburg (GER)
+(23)  FW  Vincent Aboubakar                  ##    0, Cotonsport Garoua (CMR)
+

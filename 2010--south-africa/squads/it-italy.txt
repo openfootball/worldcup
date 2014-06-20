@@ -1,0 +1,31 @@
+##############################
+# Italy (ITA) 
+#   - 23 players
+
+ (1)  GK  Gianluigi Buffon                   ##  101, Juventus (ITA)
+(12)  GK  Federico Marchetti                 ##    5, Cagliari (ITA)
+(14)  GK  Morgan De Sanctis                  ##    3, Napoli (ITA)
+
+ (2)  DF  Christian Maggio                   ##    5, Napoli (ITA)
+ (3)  DF  Domenico Criscito                  ##    7, Genoa (ITA)
+ (4)  DF  Giorgio Chiellini                  ##   29, Juventus (ITA)
+ (5)  DF  Fabio Cannavaro                    ##  133, Juventus (ITA)
+(13)  DF  Salvatore Bocchetti                ##    5, Genoa (ITA)
+(19)  DF  Gianluca Zambrotta                 ##   94, Milan (ITA)
+(23)  DF  Leonardo Bonucci                   ##    2, Bari (ITA)
+
+ (6)  MF  Daniele De Rossi                   ##   54, Roma (ITA)
+ (7)  MF  Simone Pepe                        ##   15, Udinese (ITA)
+ (8)  MF  Gennaro Gattuso                    ##   72, Milan (ITA)
+(15)  MF  Claudio Marchisio                  ##    4, Juventus (ITA)
+(16)  MF  Mauro Camoranesi                   ##   53, Juventus (ITA)
+(17)  MF  Angelo Palombo                     ##   17, Sampdoria (ITA)
+(21)  MF  Andrea Pirlo                       ##   66, Milan (ITA)
+(22)  MF  Riccardo Montolivo                 ##   13, Fiorentina (ITA)
+
+ (9)  FW  Vincenzo Iaquinta                  ##   37, Juventus (ITA)
+(10)  FW  Antonio Di Natale                  ##   33, Udinese (ITA)
+(11)  FW  Alberto Gilardino                  ##   41, Fiorentina (ITA)
+(18)  FW  Fabio Quagliarella                 ##   20, Napoli (ITA)
+(20)  FW  Giampaolo Pazzini                  ##    8, Sampdoria (ITA)
+

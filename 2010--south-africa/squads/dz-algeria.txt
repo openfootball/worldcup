@@ -1,0 +1,31 @@
+##############################
+# Algeria (ALG) 
+#   - 23 players
+
+ (1)  GK  Lounès Gaouaoui                    ##   48, ASO Chlef (ALG)
+(16)  GK  Faouzi Chaouchi                    ##    9, ES Sétif (ALG)
+(23)  GK  Raïs M'Bohli                       ##    1, Slavia Sofia (BUL)
+
+ (2)  DF  Madjid Bougherra                   ##   40, Rangers (SCO)
+ (3)  DF  Nadir Belhadj                      ##   44, Portsmouth (ENG)
+ (4)  DF  Antar Yahia                        ##   43, VfL Bochum (GER)
+ (5)  DF  Rafik Halliche                     ##   15, Nacional (POR)
+(12)  DF  Habib Bellaïd                      ##    1, Eintracht Frankfurt (GER)
+(14)  DF  Abdelkader Laïfaoui                ##    6, ES Sétif (ALG)
+(18)  DF  Carl Medjani                       ##    0, Ajaccio (FRA)
+(20)  DF  Djamel Mesbah                      ##    1, Lecce (ITA)
+
+ (6)  MF  Yazid Mansouri                     ##   66, Lorient (FRA)
+ (7)  MF  Ryad Boudebouz                     ##    1, Sochaux (FRA)
+ (8)  MF  Medhi Lacen                        ##    2, Racing Santander (ESP)
+(15)  MF  Karim Ziani                        ##   54, VfL Wolfsburg (GER)
+(17)  MF  Adlène Guedioura                   ##    1, Wolverhampton Wanderers (ENG)
+(19)  MF  Hassan Yebda                       ##    9, Portsmouth (ENG)
+(21)  MF  Foued Kadir                        ##    1, Valenciennes (FRA)
+(22)  MF  Djamel Abdoun                      ##    6, Nantes (FRA)
+
+ (9)  FW  Abdelkader Ghezzal                 ##   18, Siena (ITA)
+(10)  FW  Rafik Saïfi                        ##   59, Istres (FRA)
+(11)  FW  Rafik Djebbour                     ##   15, AEK (GRE)
+(13)  FW  Karim Matmour                      ##   21, Borussia Mönchengladbach (GER)
+

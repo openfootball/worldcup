@@ -1,0 +1,31 @@
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Diego Pozo                         ##    3, Colón (ARG)
+(21)  GK  Mariano Andújar                    ##    4, Catania (ITA)
+(22)  GK  Sergio Romero                      ##    5, AZ (NED)
+
+ (2)  DF  Martín Demichelis                  ##   25, Bayern Munich (GER)
+ (3)  DF  Clemente Rodríguez                 ##   11, Estudiantes (ARG)
+ (4)  DF  Nicolás Burdisso                   ##   28, Roma (ITA)
+ (6)  DF  Gabriel Heinze                     ##   63, Marseille (FRA)
+(12)  DF  Ariel Garcé                        ##    3, Colón (ARG)
+(13)  DF  Walter Samuel                      ##   54, Internazionale (ITA)
+(15)  DF  Nicolás Otamendi                   ##    6, Vélez Sársfield (ARG)
+
+ (5)  MF  Mario Bolatti                      ##    4, Fiorentina (ITA)
+ (7)  MF  Ángel di María                     ##    7, Benfica (POR)
+ (8)  MF  Juan Sebastián Verón               ##   69, Estudiantes (ARG)
+(14)  MF  Javier Mascherano                  ##   56, Liverpool (ENG)
+(17)  MF  Jonás Gutiérrez                    ##   15, Newcastle United (ENG)
+(20)  MF  Maxi Rodríguez                     ##   35, Liverpool (ENG)
+(23)  MF  Javier Pastore                     ##    0, Palermo (ITA)
+
+ (9)  FW  Gonzalo Higuaín                    ##    4, Real Madrid (ESP)
+(10)  FW  Lionel Messi                       ##   44, Barcelona (ESP)
+(11)  FW  Carlos Tévez                       ##   51, Manchester City (ENG)
+(16)  FW  Sergio Agüero                      ##   20, Atlético Madrid (ESP)
+(18)  FW  Martín Palermo                     ##   14, Boca Juniors (ARG)
+(19)  FW  Diego Milito                       ##   20, Internazionale (ITA)
+

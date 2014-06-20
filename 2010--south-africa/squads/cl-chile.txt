@@ -1,0 +1,31 @@
+##############################
+# Chile (CHI) 
+#   - 23 players
+
+ (1)  GK  Claudio Bravo                      ##   41, Real Sociedad (ESP)
+(12)  GK  Miguel Pinto                       ##   13, Universidad de Chile (CHI)
+(23)  GK  Luis Marín                         ##    2, Unión Española (CHI)
+
+ (2)  DF  Ismael Fuentes                     ##   25, Universidad Católica (CHI)
+ (3)  DF  Waldo Ponce                        ##   23, Universidad Católica (CHI)
+ (5)  DF  Pablo Contreras                    ##   49, PAOK (GRE)
+ (8)  DF  Arturo Vidal                       ##   21, Bayer Leverkusen (GER)
+(17)  DF  Gary Medel                         ##   23, Boca Juniors (ARG)
+(18)  DF  Gonzalo Jara                       ##   31, West Bromwich Albion (ENG)
+
+ (4)  MF  Mauricio Isla                      ##   10, Udinese (ITA)
+ (6)  MF  Carlos Carmona                     ##   18, Reggina (ITA)
+(10)  MF  Jorge Valdivia                     ##   36, Al-Ain (UAE)
+(13)  MF  Marco Estrada                      ##   20, Universidad de Chile (CHI)
+(14)  MF  Matías Fernández                   ##   35, Sporting CP (POR)
+(19)  MF  Gonzalo Fierro                     ##   16, Flamengo (BRA)
+(20)  MF  Rodrigo Millar                     ##   19, Colo-Colo (CHI)
+(21)  MF  Rodrigo Tello                      ##   32, Beşiktaş (TUR)
+
+ (7)  FW  Alexis Sánchez                     ##   26, Udinese (ITA)
+ (9)  FW  Humberto Suazo                     ##   41, Real Zaragoza (ESP)
+(11)  FW  Mark González                      ##   38, CSKA Moscow (RUS)
+(15)  FW  Jean Beausejour                    ##   23, América (MEX)
+(16)  FW  Fabián Orellana                    ##   13, Xerez (ESP)
+(22)  FW  Esteban Paredes                    ##   12, Colo-Colo (CHI)
+

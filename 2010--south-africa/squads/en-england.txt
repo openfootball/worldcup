@@ -1,0 +1,31 @@
+##############################
+# England (ENG) 
+#   - 23 players
+
+ (1)  GK  David James                        ##   50, Portsmouth (ENG)
+(12)  GK  Robert Green                       ##   10, West Ham United (ENG)
+(23)  GK  Joe Hart                           ##    3, Birmingham City (ENG)
+
+ (2)  DF  Glen Johnson                       ##   22, Liverpool (ENG)
+ (3)  DF  Ashley Cole                        ##   78, Chelsea (ENG)
+ (5)  DF  Michael Dawson                     ##    0, Tottenham Hotspur (ENG)
+ (6)  DF  John Terry                         ##   60, Chelsea (ENG)
+(13)  DF  Stephen Warnock                    ##    1, Aston Villa (ENG)
+(15)  DF  Matthew Upson                      ##   19, West Ham United (ENG)
+(18)  DF  Jamie Carragher                    ##   36, Liverpool (ENG)
+(20)  DF  Ledley King                        ##   20, Tottenham Hotspur (ENG)
+
+ (4)  MF  Steven Gerrard                     ##   80, Liverpool (ENG)
+ (7)  MF  Aaron Lennon                       ##   17, Tottenham Hotspur (ENG)
+ (8)  MF  Frank Lampard                      ##   78, Chelsea (ENG)
+(11)  MF  Joe Cole                           ##   54, Chelsea (ENG)
+(14)  MF  Gareth Barry                       ##   36, Manchester City (ENG)
+(16)  MF  James Milner                       ##    8, Aston Villa (ENG)
+(17)  MF  Shaun Wright-Phillips              ##   31, Manchester City (ENG)
+(22)  MF  Michael Carrick                    ##   22, Manchester United (ENG)
+
+ (9)  FW  Peter Crouch                       ##   38, Tottenham Hotspur (ENG)
+(10)  FW  Wayne Rooney                       ##   60, Manchester United (ENG)
+(19)  FW  Jermain Defoe                      ##   39, Tottenham Hotspur (ENG)
+(21)  FW  Emile Heskey                       ##   58, Aston Villa (ENG)
+

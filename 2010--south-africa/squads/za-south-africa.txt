@@ -1,0 +1,31 @@
+##############################
+# South Africa (RSA) 
+#   - 23 players
+
+ (1)  GK  Moeneeb Josephs                    ##   17, Orlando Pirates (RSA)
+(16)  GK  Itumeleng Khune                    ##   27, Kaizer Chiefs (RSA)
+(22)  GK  Shu-Aib Walters                    ##    0, Maritzburg United (RSA)
+
+ (2)  DF  Siboniso Gaxa                      ##   37, Mamelodi Sundowns (RSA)
+ (3)  DF  Tsepo Masilela                     ##   31, Maccabi Haifa (ISR)
+ (4)  DF  Aaron Mokoena                      ##  101, Portsmouth (ENG)
+ (5)  DF  Anele Ngcongca                     ##    5, Racing Genk (BEL)
+(14)  DF  Matthew Booth                      ##   27, Mamelodi Sundowns (RSA)
+(15)  DF  Lucas Thwala                       ##   24, Orlando Pirates (RSA)
+(20)  DF  Bongani Khumalo                    ##   14, Supersport United (RSA)
+(21)  DF  Siyabonga Sangweni                 ##    8, Golden Arrows (RSA)
+
+ (6)  MF  MacBeth Sibaya                     ##   58, Rubin Kazan (RUS)
+ (7)  MF  Lance Davids                       ##   22, Ajax Cape Town (RSA)
+ (8)  MF  Siphiwe Tshabalala                 ##   48, Kaizer Chiefs (RSA)
+(10)  MF  Steven Pienaar                     ##   50, Everton (ENG)
+(11)  MF  Teko Modise                        ##   52, Orlando Pirates (RSA)
+(12)  MF  Reneilwe Letsholonyane             ##   13, Kaizer Chiefs (RSA)
+(13)  MF  Kagisho Dikgacoi                   ##   37, Fulham (ENG)
+(19)  MF  Surprise Moriri                    ##   34, Mamelodi Sundowns (RSA)
+(23)  MF  Thanduyise Khuboni                 ##    9, Golden Arrows (RSA)
+
+ (9)  FW  Katlego Mphela                     ##   31, Mamelodi Sundowns (RSA)
+(17)  FW  Bernard Parker                     ##   28, Twente (NED)
+(18)  FW  Siyabonga Nomvethe                 ##   76, Moroka Swallows (RSA)
+

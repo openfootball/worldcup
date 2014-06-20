@@ -1,0 +1,31 @@
+##############################
+# Deutschland (GER) 
+#   - 23 players
+
+ (1)  GK  Manuel Neuer                       ##    5, Schalke 04 (GER)
+(12)  GK  Tim Wiese                          ##    2, Werder Bremen (GER)
+(22)  GK  Hans-Jörg Butt                     ##    3, Bayern Munich (GER)
+
+ (2)  DF  Marcell Jansen                     ##   31, Hamburger SV (GER)
+ (3)  DF  Arne Friedrich                     ##   72, Hertha BSC (GER)
+ (4)  DF  Dennis Aogo                        ##    2, Hamburger SV (GER)
+ (5)  DF  Serdar Tasci                       ##   12, VfB Stuttgart (GER)
+(14)  DF  Holger Badstuber                   ##    2, Bayern Munich (GER)
+(16)  DF  Philipp Lahm                       ##   65, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##   62, Werder Bremen (GER)
+(20)  DF  Jérôme Boateng                     ##    5, Hamburger SV (GER)
+
+ (6)  MF  Sami Khedira                       ##    5, VfB Stuttgart (GER)
+ (7)  MF  Bastian Schweinsteiger             ##   74, Bayern Munich (GER)
+ (8)  MF  Mesut Özil                         ##   10, Werder Bremen (GER)
+(10)  MF  Lukas Podolski                     ##   73, 1. FC Köln (GER)
+(13)  MF  Thomas Müller                      ##    2, Bayern Munich (GER)
+(15)  MF  Piotr Trochowski                   ##   31, Hamburger SV (GER)
+(18)  MF  Toni Kroos                         ##    4, Bayer Leverkusen (GER)
+(21)  MF  Marko Marin                        ##    9, Werder Bremen (GER)
+
+ (9)  FW  Stefan Kießling                    ##    4, Bayer Leverkusen (GER)
+(11)  FW  Miroslav Klose                     ##   96, Bayern Munich (GER)
+(19)  FW  Cacau                              ##    8, VfB Stuttgart (GER)
+(23)  FW  Mario Gómez                        ##   34, Bayern Munich (GER)
+

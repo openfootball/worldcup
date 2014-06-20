@@ -74,7 +74,13 @@ Group C:
                          # Bony 64' Gervinho 66';  Honda 16'
 
 (21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+<<<<<<< HEAD
 (22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
+=======
+                         # Rodríguez 64', Quintero 70';  Gervinho 73'
+                         
+(22) Thu Jun/19 19:00   Japan - Greece             @ Estádio das Dunas, Natal (UTC-3)
+>>>>>>> 7ccdee922a123cd8083f68c4188694598d29d750
 
 (37) Tue Jun/24 16:00   Japan - Colombia            @ Cuiabá (UTC-4)
 (38) Tue Jun/24 17:00   Côte d'Ivoire - Greece      @ Fortaleza (UTC-3)
@@ -88,7 +94,9 @@ Group D:
 (8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
                          # Sturridge 37';  Marchisio 35' Balotelli 50'
 
-(23) Thu Jun/19 16:00   Uruguay - England          @ Arena de São Paulo, São Paulo (UTC-3)
+(23) Thu Jun/19 16:00   Uruguay 2-1 England          @ Arena de São Paulo, São Paulo (UTC-3)
+                         # Suárez 39', 85';  Rooney 75'
+
 (24) Fri Jun/20 13:00   Italy - Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
 
 (39) Tue Jun/24 13:00   Italy - Uruguay             @ Natal (UTC-3)
@@ -124,7 +132,10 @@ Group F:
 Group G:
 
 (13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
+                         # Müller 12' (pen.), 45+1', 78', Hummels 32'
+                         
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
+                         # Ayew 82';  Dempsey 1', Brooks 86';
 
 (29) Sat Jun/21 16:00   Germany - Ghana              @ Fortaleza (UTC-3)
 (30) Sun Jun/22 18:00   United States - Portugal     @ Manaus (UTC-4)

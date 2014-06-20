@@ -1,0 +1,31 @@
+##############################
+# Portugal (POR) 
+#   - 23 players
+
+ (1)  GK  Eduardo                            ##   12, Braga (POR)
+(12)  GK  Beto                               ##    1, Porto (POR)
+(22)  GK  Daniel Fernandes                   ##    2, Iraklis (GRE)
+
+ (2)  DF  Bruno Alves                        ##   28, Porto (POR)
+ (3)  DF  Paulo Ferreira                     ##   59, Chelsea (ENG)
+ (4)  DF  Rolando                            ##    7, Porto (POR)
+ (5)  DF  Duda                               ##   14, Málaga (ESP)
+ (6)  DF  Ricardo Carvalho                   ##   60, Chelsea (ENG)
+(13)  DF  Miguel                             ##   53, Valencia (ESP)
+(15)  DF  Pepe                               ##   24, Real Madrid (ESP)
+(21)  DF  Ricardo Costa                      ##    6, Lille (FRA)
+(23)  DF  Fábio Coentrão                     ##    3, Benfica (POR)
+
+ (8)  MF  Pedro Mendes                       ##    5, Sporting CP (POR)
+(10)  MF  Danny                              ##    8, Zenit Saint Petersburg (RUS)
+(11)  MF  Simão                              ##   79, Atlético Madrid (ESP)
+(14)  MF  Miguel Veloso                      ##   10, Sporting CP (POR)
+(16)  MF  Raul Meireles                      ##   31, Porto (POR)
+(17)  MF  Rúben Amorim                       ##    0, Benfica (POR)
+(19)  MF  Tiago                              ##   49, Atlético Madrid (ESP)
+(20)  MF  Deco                               ##   71, Chelsea (ENG)
+
+ (7)  FW  Cristiano Ronaldo                  ##   69, Real Madrid (ESP)
+ (9)  FW  Liédson                            ##    7, Sporting CP (POR)
+(18)  FW  Hugo Almeida                       ##   23, Werder Bremen (GER)
+

@@ -1,0 +1,31 @@
+##############################
+# Brazil (BRA) 
+#   - 23 players
+
+ (1)  GK  Júlio César                        ##   47, Internazionale (ITA)
+(12)  GK  Gomes                              ##    9, Tottenham Hotspur (ENG)
+(22)  GK  Doni                               ##   10, Roma (ITA)
+
+ (2)  DF  Maicon                             ##   56, Internazionale (ITA)
+ (3)  DF  Lúcio                              ##   89, Internazionale (ITA)
+ (4)  DF  Juan                               ##   73, Roma (ITA)
+ (6)  DF  Michel Bastos                      ##    3, Lyon (FRA)
+(13)  DF  Daniel Alves                       ##   33, Barcelona (ESP)
+(14)  DF  Luisão                             ##   40, Benfica (POR)
+(15)  DF  Thiago Silva                       ##    4, Milan (ITA)
+(16)  DF  Gilberto                           ##   32, Cruzeiro (BRA)
+
+ (5)  MF  Felipe Melo                        ##   16, Juventus (ITA)
+ (7)  MF  Elano                              ##   41, Galatasaray (TUR)
+ (8)  MF  Gilberto Silva                     ##   86, Panathinaikos (GRE)
+(10)  MF  Kaká                               ##   76, Real Madrid (ESP)
+(17)  MF  Josué                              ##   26, VfL Wolfsburg (GER)
+(18)  MF  Ramires                            ##   11, Benfica (POR)
+(19)  MF  Júlio Baptista                     ##   45, Roma (ITA)
+(20)  MF  Kléberson                          ##   31, Flamengo (BRA)
+
+ (9)  FW  Luís Fabiano                       ##   36, Sevilla (ESP)
+(11)  FW  Robinho                            ##   73, Santos (BRA)
+(21)  FW  Nilmar                             ##   15, Villarreal (ESP)
+(23)  FW  Grafite                            ##    2, VfL Wolfsburg (GER)
+

@@ -1,0 +1,31 @@
+##############################
+# New Zealand (NZL) 
+#   - 23 players
+
+ (1)  GK  Mark Paston                        ##   23, Wellington Phoenix (NZL)
+(12)  GK  Glen Moss                          ##   15, Melbourne Victory (AUS)
+(23)  GK  James Bannatyne                    ##    3, Team Wellington (NZL)
+
+ (2)  DF  Ben Sigmund                        ##   14, Wellington Phoenix (NZL)
+ (3)  DF  Tony Lochhead                      ##   30, Wellington Phoenix (NZL)
+ (4)  DF  Winston Reid                       ##    3, Midtjylland (DEN)
+ (5)  DF  Ivan Vicelich                      ##   66, Auckland City (NZL)
+ (6)  DF  Ryan Nelsen                        ##   41, Blackburn Rovers (ENG)
+(18)  DF  Andrew Boyens                      ##   15, New York Red Bulls (USA)
+(19)  DF  Tommy Smith                        ##    4, Ipswich Town (ENG)
+
+ (7)  MF  Simon Elliott                      ##   63,  
+ (8)  MF  Tim Brown                          ##   25, Wellington Phoenix (NZL)
+(11)  MF  Leo Bertos                         ##   34, Wellington Phoenix (NZL)
+(13)  MF  Andy Barron                        ##   11, Team Wellington (NZL)
+(15)  MF  Michael McGlinchey                 ##    5, Motherwell (SCO)
+(16)  MF  Aaron Clapham                      ##    0, Canterbury United (NZL)
+(17)  MF  David Mulligan                     ##   25,  
+(21)  MF  Jeremy Christie                    ##   22, Tampa Bay (USA)
+(22)  MF  Jeremy Brockie                     ##   18, Newcastle Jets (AUS)
+
+ (9)  FW  Shane Smeltz                       ##   30, Gold Coast United (AUS)
+(10)  FW  Chris Killen                       ##   31, Middlesbrough (ENG)
+(14)  FW  Rory Fallon                        ##    7, Plymouth Argyle (ENG)
+(20)  FW  Chris Wood                         ##    9, West Bromwich Albion (ENG)
+

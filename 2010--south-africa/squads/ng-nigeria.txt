@@ -1,0 +1,31 @@
+##############################
+# Nigeria (NGA) 
+#   - 23 players
+
+ (1)  GK  Vincent Enyeama                    ##   51, Hapoel Tel Aviv (ISR)
+(16)  GK  Austin Ejide                       ##   16, Hapoel Petah Tikva (ISR)
+(23)  GK  Dele Aiyenugba                     ##    9, Bnei Yehuda (ISR)
+
+ (2)  DF  Joseph Yobo                        ##   64, Everton (ENG)
+ (3)  DF  Taye Taiwo                         ##   35, Marseille (FRA)
+ (5)  DF  Rabiu Afolabi                      ##   12, Red Bull Salzburg (AUT)
+ (6)  DF  Danny Shittu                       ##   23, Bolton Wanderers (ENG)
+(17)  DF  Chidi Odiah                        ##   21, CSKA Moscow (RUS)
+(21)  DF  Uwa Echiéjilé                      ##    9, Rennes (FRA)
+(22)  DF  Dele Adeleye                       ##    5, Sparta Rotterdam (NED)
+
+(13)  MF  Ayila Yussuf                       ##   24, Dynamo Kyiv (UKR)
+(14)  MF  Sani Kaita                         ##   16, Alania Vladikavkaz (RUS)
+(15)  MF  Lukman Haruna                      ##    5, AS Monaco (FRA)
+(20)  MF  Dickson Etuhu                      ##   11, Fulham (ENG)
+
+ (4)  FW  Nwankwo Kanu                       ##   72, Portsmouth (ENG)
+ (7)  FW  John Utaka                         ##   41, Portsmouth (ENG)
+ (8)  FW  Yakubu Aiyegbeni                   ##   47, Everton (ENG)
+ (9)  FW  Obafemi Martins                    ##   27, VfL Wolfsburg (GER)
+(10)  FW  Brown Ideye                        ##    0, Sochaux (FRA)
+(11)  FW  Peter Odemwingie                   ##   43, Lokomotiv Moscow (RUS)
+(12)  FW  Kalu Uche                          ##   18, Almería (ESP)
+(18)  FW  Victor Obinna                      ##   30, Málaga (ESP)
+(19)  FW  Chinedu Obasi                      ##   17, 1899 Hoffenheim (GER)
+

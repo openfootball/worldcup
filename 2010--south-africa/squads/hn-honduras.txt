@@ -1,0 +1,31 @@
+##############################
+# Honduras (HON) 
+#   - 23 players
+
+ (1)  GK  Ricardo Canales                    ##    2, Motagua (HON)
+(18)  GK  Noel Valladares                    ##   71, Olimpia (HON)
+(22)  GK  Donis Escober                      ##   11, Olimpia (HON)
+
+ (2)  DF  Osman Chávez                       ##   26, Platense (HON)
+ (3)  DF  Maynor Figueroa                    ##   66, Wigan Athletic (ENG)
+ (4)  DF  Johnny Palacios                    ##    4, Olimpia (HON)
+ (5)  DF  Víctor Bernárdez                   ##   40, Anderlecht (BEL)
+(14)  DF  Oscar García                       ##   42, Olimpia (HON)
+(16)  DF  Mauricio Sabillón                  ##   25, Hangzhou Greentown (CHN)
+(21)  DF  Emilio Izaguirre                   ##   39, Motagua (HON)
+(23)  DF  Sergio Mendoza                     ##   46, Motagua (HON)
+
+ (6)  MF  Hendry Thomas                      ##   39, Wigan Athletic (ENG)
+ (7)  MF  Ramón Núñez                        ##   16, Olimpia (HON)
+ (8)  MF  Wilson Palacios                    ##   69, Tottenham Hotspur (ENG)
+(17)  MF  Edgar Álvarez                      ##   46, Bari 
+(19)  MF  Danilo Turcios                     ##   82, Olimpia (HON)
+(20)  MF  Amado Guevara                      ##  133, Motagua (HON)
+
+ (9)  FW  Carlos Pavón                       ##   98, Real España (HON)
+(10)  FW  Jerry Palacios                     ##   11, Hangzhou Greentown (CHN)
+(11)  FW  David Suazo                        ##   50, Genoa (ITA)
+(12)  FW  Georgie Welcome                    ##   11, Motagua (HON)
+(13)  FW  Roger Espinoza                     ##   10, Kansas City Wizards (USA)
+(15)  FW  Walter Martínez                    ##   34, Marathón (HON)
+
