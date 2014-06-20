@@ -93,7 +93,8 @@ Group D:
 (23) Thu Jun/19 16:00   Uruguay 2-1 England          @ Arena de São Paulo, São Paulo (UTC-3)
                          # Suárez 39', 85';  Rooney 75'
 
-(24) Fri Jun/20 13:00   Italy - Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
+(24) Fri Jun/20 13:00   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
+                         # Bryan Ruiz 44'
 
 (39) Tue Jun/24 13:00   Italy - Uruguay             @ Natal (UTC-3)
 (40) Tue Jun/24 13:00   Costa Rica - England        @ Belo Horizonte (UTC-3)
