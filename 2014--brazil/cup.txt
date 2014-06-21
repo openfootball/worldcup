@@ -88,7 +88,7 @@ Group C:
 Group D:
 
 (7) Sat Jun/14 16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
-                         # Cavani 24' (pen.);  Campbell 54' Duarte 57' Ureña 84'
+                         # Cavani 24' (P);  Campbell 54' Duarte 57' Ureña 84'
 
 (8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
                          # Sturridge 37';  Marchisio 35' Balotelli 50'
@@ -107,6 +107,8 @@ Group E:
 
 (9)  Sun Jun/15 13:00   Switzerland 2-1 Ecuador      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
 (10) Sun Jun/15 16:00   France 3-0 Honduras          @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+                         # Noel Valladares 48' (OG) Karim Benzema 45' (P), 72'
+
 
 (25) Fri Jun/20 16:00   Switzerland 2-5 France       @ Arena Fonte Nova, Salvador (UTC-3)
                          # Blerim Džemaili 81' Granit Xhaka 87'; Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73'
