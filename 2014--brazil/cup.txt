@@ -137,7 +137,9 @@ Group G:
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
                          # Ayew 82';  Dempsey 1', Brooks 86';
 
-(29) Sat Jun/21 16:00   Germany - Ghana              @ Fortaleza (UTC-3)
+(29) Sat Jun/21 16:00   Germany 2-2 Ghana              @ Fortaleza (UTC-3)
+                         # Mario Götze 51' Miroslav Klose 71; André Ayew  54' Asamoah Gyan 63'
+
 (30) Sun Jun/22 18:00   United States - Portugal     @ Manaus (UTC-4)
 
 (45) Thu Jun/26 13:00   United States - Germany       @ Recife (UTC-3)
