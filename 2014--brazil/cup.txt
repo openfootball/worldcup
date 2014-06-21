@@ -60,6 +60,8 @@ Group B:
                           # Sánchez 12' Valdívia 14' Beausejour 90+2'; Cahill 35'
 
 (19) Wed Jun/18 16:00   Spain 0-2 Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+                          # Eduardo Vargas 20' Charles Aránguiz 43'
+
 (20) Wed Jun/18 13:00   Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
 
 (35) Mon Jun/23 13:00   Australia - Spain         @ Curitiba (UTC-3)
