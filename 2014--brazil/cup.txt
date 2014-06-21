@@ -45,6 +45,7 @@ Group A:
 
 (17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 (18) Wed Jun/18 18:00   Cameroon 0-4 Croatia     @ Arena Amazônia, Manaus (UTC-4)
+                         # Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73'
 
 (33) Mon Jun/23 17:00   Cameroon - Brazil      @ Brasília (UTC-3)
 (34) Mon Jun/23 17:00   Croatia  - Mexico      @ Recife (UTC-3)
