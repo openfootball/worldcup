@@ -129,6 +129,8 @@ Group F:
                           # Lionel Messi 90'
 
 (28) Sat Jun/21 18:00   Nigeria 1-0 Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
+                          # Peter Odemwingie 29'
+
 
 (43) Wed Jun/25 13:00   Nigeria - Argentina               @ Porto Alegre (UTC-3)
 (44) Wed Jun/25 13:00   Bosnia-Herzegovina - Iran         @ Salvador (UTC-3)
