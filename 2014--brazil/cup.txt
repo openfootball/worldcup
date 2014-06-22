@@ -160,6 +160,8 @@ Group H:
 (16) Tue Jun/17 18:00   Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
                           # Alexander Kerzhakov 74'; Lee Keunho 68' 
 (31) Sun Jun/22 13:00   Belgium - Russia          @ Rio de Janeiro (UTC-3)
+                          # Divock Origi 88'
+                          
 (32) Sun Jun/22 16:00   South Korea - Algeria     @ Porto Alegre (UTC-3)
 
 (47) Thu Jun/26 17:00   South Korea - Belgium     @ São Paulo (UTC-3)
