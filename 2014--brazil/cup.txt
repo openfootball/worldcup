@@ -128,7 +128,7 @@ Group F:
 (27) Sat Jun/21 13:00   Argentina 1-0 Iran                  @ Estádio Mineirão, Belo Horizonte (UTC-3)
                           # Lionel Messi 90'
 
-(28) Sat Jun/21 18:00   Nigeria - Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
+(28) Sat Jun/21 18:00   Nigeria 1-0 Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
 
 (43) Wed Jun/25 13:00   Nigeria - Argentina               @ Porto Alegre (UTC-3)
 (44) Wed Jun/25 13:00   Bosnia-Herzegovina - Iran         @ Salvador (UTC-3)
