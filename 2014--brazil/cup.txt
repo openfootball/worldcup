@@ -145,9 +145,10 @@ Group G:
                          # Ayew 82';  Dempsey 1', Brooks 86';
 
 (29) Sat Jun/21 16:00   Germany 2-2 Ghana              @ Fortaleza (UTC-3)
-                         # Mario Götze 51' Miroslav Klose 71; André Ayew  54' Asamoah Gyan 63'
+                         # Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63'
 
-(30) Sun Jun/22 18:00   United States - Portugal     @ Manaus (UTC-4)
+(30) Sun Jun/22 18:00   United States 2-2 Portugal     @ Manaus (UTC-4)
+                         # Jermaine Jones 64', Clint Dempsey 81'; Nani 5', Varela 90+5'
 
 (45) Thu Jun/26 13:00   United States - Germany       @ Recife (UTC-3)
 (46) Thu Jun/26 13:00   Portugal - Ghana              @ Brasília (UTC-3)
