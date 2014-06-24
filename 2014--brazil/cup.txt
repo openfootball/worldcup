@@ -47,8 +47,8 @@ Group A:
 (18) Wed Jun/18 18:00   Cameroon 0-4 Croatia     @ Arena Amazônia, Manaus (UTC-4)
                          # Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73'
 
-(33) Mon Jun/23 17:00   Cameroon - Brazil      @ Brasília (UTC-3)
-(34) Mon Jun/23 17:00   Croatia  - Mexico      @ Recife (UTC-3)
+(33) Mon Jun/23 17:00   Cameroon 1-4 Brazil      @ Brasília (UTC-3)
+(34) Mon Jun/23 17:00   Croatia  1-3 Mexico      @ Recife (UTC-3)
 
 
 Group B:
@@ -64,8 +64,8 @@ Group B:
 
 (20) Wed Jun/18 13:00   Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
 
-(35) Mon Jun/23 13:00   Australia - Spain         @ Curitiba (UTC-3)
-(36) Mon Jun/23 13:00   Netherlands - Chile       @ São Paulo (UTC-3)
+(35) Mon Jun/23 13:00   Australia 0-3 Spain         @ Curitiba (UTC-3)
+(36) Mon Jun/23 13:00   Netherlands 2-0 Chile       @ São Paulo (UTC-3)
 
 
 Group C:
