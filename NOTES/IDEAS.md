@@ -1,7 +1,5 @@
-# Notes
 
-
-# Alternative (New) Folder Structure ?
+## Alternative (New) Folder Structure ?
 
 Use
 
