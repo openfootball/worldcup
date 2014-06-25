@@ -81,8 +81,8 @@ Group C:
 
 (22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
 
-(37) Tue Jun/24 16:00   Japan - Colombia            @ Cuiabá (UTC-4)
-(38) Tue Jun/24 17:00   Côte d'Ivoire - Greece      @ Fortaleza (UTC-3)
+(37) Tue Jun/24 16:00   Japan 1-4 Colombia            @ Cuiabá (UTC-4)
+(38) Tue Jun/24 17:00   Côte d'Ivoire 1-2 Greece      @ Fortaleza (UTC-3)
 
 
 Group D:
@@ -99,8 +99,10 @@ Group D:
 (24) Fri Jun/20 13:00   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
                          # Bryan Ruiz 44'
 
-(39) Tue Jun/24 13:00   Italy - Uruguay             @ Natal (UTC-3)
-(40) Tue Jun/24 13:00   Costa Rica - England        @ Belo Horizonte (UTC-3)
+(39) Tue Jun/24 13:00   Italy 0-1 Uruguay             @ Natal (UTC-3)
+                         # Godín 81'
+                         
+(40) Tue Jun/24 13:00   Costa Rica 0-0 England        @ Belo Horizonte (UTC-3)
 
 
 Group E:
