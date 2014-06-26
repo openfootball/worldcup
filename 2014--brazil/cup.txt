@@ -82,7 +82,10 @@ Group C:
 (22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
 
 (37) Tue Jun/24 16:00   Japan 1-4 Colombia            @ Cuiabá (UTC-4)
-(38) Tue Jun/24 17:00   Côte d'Ivoire 1-2 Greece      @ Fortaleza (UTC-3)
+                         # Shinji Okazaki 45+1'; Juan Cuadrado 17' (P)Jackson Martínez 55', 82' James Rodríguez 90'
+
+(38) Tue Jun/24 17:00   Greece 2-1 Côte d'Ivoire      @ Fortaleza (UTC-3)
+                         # Andreas Samaris 42' Georgios Samaras 90+3' (P); Wilfried Bony 74'
 
 
 Group D:
@@ -118,7 +121,7 @@ Group E:
                          # Carlo Costly 31'; Enner Valencia 34', 65'
 (41) Wed Jun/25 16:00   Honduras 0-3 Switzerland     @ Manaus (UTC-4)
                          # Xherdan Shaqiri 6', 31', 71'
-                         
+
 (42) Wed Jun/25 17:00   Ecuador  0-0 France          @ Rio de Janeiro (UTC-3)
 
 
