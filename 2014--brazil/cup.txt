@@ -117,6 +117,8 @@ Group E:
 (26) Fri Jun/20 19:00   Honduras 1-2 Ecuador         @ Arena da Baixada, Curitiba (UTC-3)
                          # Carlo Costly 31'; Enner Valencia 34', 65'
 (41) Wed Jun/25 16:00   Honduras 0-3 Switzerland     @ Manaus (UTC-4)
+                         # Xherdan Shaqiri 6', 31', 71'
+                         
 (42) Wed Jun/25 17:00   Ecuador  0-0 France          @ Rio de Janeiro (UTC-3)
 
 
@@ -135,8 +137,10 @@ Group F:
 
 
 (43) Wed Jun/25 13:00   Nigeria 2-3 Argentina               @ Porto Alegre (UTC-3)
-(44) Wed Jun/25 13:00   Bosnia-Herzegovina 3-1 Iran         @ Salvador (UTC-3)
+                         # Ahmed Musa 4', 47'; Lionel Messi 3', 45+1' Marcos Rojo 50'
 
+(44) Wed Jun/25 13:00   Bosnia-Herzegovina 3-1 Iran         @ Salvador (UTC-3)
+                         # Edin Džeko 23' Miralem Pjanić 59' Avdija Vršajević 83'; Reza Ghoochannejhad 82'
 
 Group G:
 
