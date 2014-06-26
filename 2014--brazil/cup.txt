@@ -116,8 +116,8 @@ Group E:
                          # Blerim Džemaili 81' Granit Xhaka 87'; Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73'
 (26) Fri Jun/20 19:00   Honduras 1-2 Ecuador         @ Arena da Baixada, Curitiba (UTC-3)
                          # Carlo Costly 31'; Enner Valencia 34', 65'
-(41) Wed Jun/25 16:00   Honduras - Switzerland     @ Manaus (UTC-4)
-(42) Wed Jun/25 17:00   Ecuador  - France          @ Rio de Janeiro (UTC-3)
+(41) Wed Jun/25 16:00   Honduras 0-3 Switzerland     @ Manaus (UTC-4)
+(42) Wed Jun/25 17:00   Ecuador  0-0 France          @ Rio de Janeiro (UTC-3)
 
 
 Group F:
