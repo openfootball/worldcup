@@ -159,8 +159,8 @@ Group G:
 (30) Sun Jun/22 18:00   United States 2-2 Portugal     @ Manaus (UTC-4)
                          # Jermaine Jones 64', Clint Dempsey 81'; Nani 5', Varela 90+5'
 
-(45) Thu Jun/26 13:00   United States - Germany       @ Recife (UTC-3)
-(46) Thu Jun/26 13:00   Portugal - Ghana              @ Brasília (UTC-3)
+(45) Thu Jun/26 13:00   United States 0-1 Germany       @ Recife (UTC-3)
+(46) Thu Jun/26 13:00   Portugal 2-1 Ghana              @ Brasília (UTC-3)
 
 
 Group H:
