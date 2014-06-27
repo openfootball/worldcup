@@ -160,8 +160,10 @@ Group G:
                          # Jermaine Jones 64', Clint Dempsey 81'; Nani 5', Varela 90+5'
 
 (45) Thu Jun/26 13:00   United States 0-1 Germany       @ Recife (UTC-3)
-(46) Thu Jun/26 13:00   Portugal 2-1 Ghana              @ Brasília (UTC-3)
+                         # Thomas Müller 55'
 
+(46) Thu Jun/26 13:00   Portugal 2-1 Ghana              @ Brasília (UTC-3)
+                         # John Boye 31' (OG) Cristiano Ronaldo 80'; Asamoah Gyan 57'
 
 Group H:
 
