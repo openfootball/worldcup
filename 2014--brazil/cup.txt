@@ -175,5 +175,8 @@ Group H:
 (32) Sun Jun/22 16:00   South Korea 2-4 Algeria     @ Porto Alegre (UTC-3)
                           # Son Heung Min 50' Koo Jacheol 72'; Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62'
 
-(47) Thu Jun/26 17:00   South Korea - Belgium     @ São Paulo (UTC-3)
-(48) Thu Jun/26 17:00   Algeria - Russia          @ Curitiba (UTC-3)
+(47) Thu Jun/26 17:00   South Korea 0-1 Belgium     @ São Paulo (UTC-3)
+                          # Jan Vertonghen 78'
+
+(48) Thu Jun/26 17:00   Algeria 1-1 Russia          @ Curitiba (UTC-3)
+                          # Islam Slimani 60'; Alexander Kokorin 6'
