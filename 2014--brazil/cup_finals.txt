@@ -3,17 +3,18 @@
 
 (16) Round of 16
 
-## (49) Sat Jun/28   1A - 2B     @ Belo Horizonte
-## (50) Sat Jun/28   1C - 2D     @ Rio de Janeiro
+(49) Sat Jun/28 13:00   Brazil      - Chile          @ Belo Horizonte   # 1A - 2B
+(50) Sat Jun/28 17:00   Colombia    - Uruguay        @ Rio de Janeiro   # 1C - 2D
 
-## (51) Sun Jun/29   1B - 2A     @ Fortaleza
-## (52) Sun Jun/29   1D - 2C     @ Recife
+(51) Sun Jun/29 13:00   Netherlands - Mexico         @ Fortaleza        # 1B - 2A    
+(52) Sun Jun/29 17:00   Costa Rica  - Greece         @ Recife           # 1D - 2C   
 
-## (53) Mon Jun/30   1E - 2F     @ Brasília
-## (54) Mon Jun/30   1G - 2H     @ Porto Alegre
+(53) Mon Jun/30 13:00   France      - Nigeria        @ Brasília         # 1E - 2F 
+(54) Mon Jun/30 17:00   Germany     - Algeria        @ Porto Alegre     # 1G - 2H  
 
-## (55) Tue Jul/1    1F - 2E     @ São Paulo
-## (56) Tue Jul/1    1H - 2G     @ Salvador
+(55) Tue Jul/1 13:00    Argentina   - Switzerland    @ São Paulo        # 1F - 2E
+(56) Tue Jul/1 17:00    Belgium     - United States  @ Salvador         # 1H - 2G 
+
 
 
 (17) Quarter-finals
