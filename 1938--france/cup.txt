@@ -17,25 +17,25 @@
 First round
 
 (1) 4 June     Switzerland     1-1aet (1-1, 1-1)   Germany            @ Parc des Princes, Paris
-                 # Abegglen 43';  Gauchel 29'
+                 [Abegglen 43';  Gauchel 29']
 
 (2) 5 June     Hungary         6-0 (4-0)         Dutch East Indies  @ Vélodrome Municipal, Reims
-                 # Kohut 14' Toldi 16' Sárosi 25', 88' Zsengellér 30', 67'
+                 [Kohut 14' Toldi 16' Sárosi 25', 88' Zsengellér 30', 67']
 
 (3) 5 June     France          3-1 (2-1)         Belgium            @ Stade Olympique de Colombes, Paris
-                 # Veinante 1' Nicolas 16', 69';  Isemborghs 38'
+                 [Veinante 1' Nicolas 16', 69';  Isemborghs 38']
 
 (4) 5 June     Cuba            3-3aet (2-2, 1-1)   Romania            @ Stade Chapou, Toulouse
-                 # Socorro 44' Fernández 87' Tuñas 117';  Bindea 35' Baratky 88' Dobay 105'
+                 [Socorro 44' Fernández 87' Tuñas 117';  Bindea 35' Baratky 88' Dobay 105']
 
 (5) 5 June     Italy           2-1aet (1-1, 1-0)   Norway             @ Stade Vélodrome, Marseille
-                 # Ferraris 2' Piola 94';  Brustad 83'
+                 [Ferraris 2' Piola 94';  Brustad 83']
 
 (6) 5 June     Brazil          6-5aet (4-4, 3-1)   Poland             @ Stade de la Meinau, Strasbourg
-                 # Leônidas 18', 93', 104' Romeu 25' Perácio 44', 71';  Scherfke 23' (pen.) Wilimowski 53', 59', 89', 118'
+                 [Leônidas 18', 93', 104' Romeu 25' Perácio 44', 71';  Scherfke 23' (pen.) Wilimowski 53', 59', 89', 118']
 
 (7) 5 June     Czechoslovakia  3-0aet (0-0, 0-0)  Netherlands        @ Stade municipal, Le Havre
-                 # Košťálek 93' Nejedlý 111' Zeman 118'
+                 [Košťálek 93' Nejedlý 111' Zeman 118']
 
 # include walkout? why? why not?
 #  what match number to use?  - same as replay? 24+3 ?
@@ -47,48 +47,48 @@ First round
 First round replays
 
 (8) 9 June     Cuba        2-1 (0-1)   Romania             @ Stade Chapou, Toulouse
-                 # Socorro 51' Oliveira 57';  Dobay 35'
+                 [Socorro 51' Oliveira 57';  Dobay 35']
 
 (9) 9 June     Germany     2-4 (2-1)  Switzerland         @ Parc des Princes, Paris
-                 # Hahnemann 8' Lörtscher 22' (o.g.);  Walaschek 42' Bickel 64' Abegglen 75', 78'
+                 [Hahnemann 8' Lörtscher 22' (o.g.);  Walaschek 42' Bickel 64' Abegglen 75', 78']
 
 
 Quarter-finals
 
 (10) 12 June   Brazil        1-1aet (1-1, 1-0)  Czechoslovakia  @ Parc Lescure, Bordeaux
-                 # Leônidas 30';  Nejedlý 65' (pen.)
+                 [Leônidas 30';  Nejedlý 65' (pen.)]
 
 (11) 12 June   Switzerland   0-2 (0-1)  Hungary           @ Stade Victor Boucquey, Lille
-                 # -;  Sárosi 40' Zsengellér 89'
+                 [ -;  Sárosi 40' Zsengellér 89']
 
 (12) 12 June   Sweden        8-0 (4-0)  Cuba              @ Stade du Fort Carré, Antibes
-                 # H. Andersson 9', 81', 90' Wetterström 32', 37', 44' Keller 80' Nyberg 84'
+                 [H. Andersson 9', 81', 90' Wetterström 32', 37', 44' Keller 80' Nyberg 84']
 
 (13) 12 June   France        1-3 (1-1)  Italy             @ Stade Olympique de Colombes, Paris
-                 # Heisserer 10'; Colaussi 9' Piola 51', 72'
+                 [Heisserer 10'; Colaussi 9' Piola 51', 72']
 
 Quarter-finals replays
 
 (14) 14 June   Brazil        2-1 (0-1)   Czechoslovakia    @ Parc Lescure, Bordeaux
-                 # Leônidas 57' Roberto 62';  Kopecký 25'
+                 [Leônidas 57' Roberto 62';  Kopecký 25']
 
 
 Semi-finals
 
 (15) 16 June   Hungary    5-1 (3-1)   Sweden      @ Parc des Princes, Paris
-                 # Jacobsson 19' (o.g.) Titkos 37' Zsengellér 39', 85' Sárosi 65';  Nyberg 1'
+                 [Jacobsson 19' (o.g.) Titkos 37' Zsengellér 39', 85' Sárosi 65';  Nyberg 1']
 
 (16) 16 June   Italy      2-1 (0-0)   Brazil      @ Stade Vélodrome, Marseille
-                 # Colaussi 51' Meazza 60' (pen.);  Romeu 87'
+                 [Colaussi 51' Meazza 60' (pen.);  Romeu 87']
 
 Match for third place
 
 (17) 19 June   Sweden     2-4 (2-1)   Brazil     @ Parc Lescure, Bordeaux
-                 # Jonasson 28' Nyberg 38';  Romeu 44' Leônidas 63', 74' Perácio 80'
+                 [Jonasson 28' Nyberg 38';  Romeu 44' Leônidas 63', 74' Perácio 80']
 
 
 Final
 
 (18) 19 June   Hungary   2-4 (1-3)   Italy        @ Stade Olympique de Colombes, Paris
-                 # Titkos 8' Sárosi 70';  Colaussi 6', 35' Piola 16', 82'
+                 [Titkos 8' Sárosi 70';  Colaussi 6', 35' Piola 16', 82']
 
