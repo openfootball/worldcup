@@ -2,7 +2,12 @@
 
 Example queries to get started with the football.db database.
 
+
+Note: The event key for the world cup in Brazil 2014 is `world.2014`
+
+
 ## List World Cup 2014 Games
+
 ```sql
 select t1.title, t2.title, g.*
 from games g
@@ -13,18 +18,20 @@ inner join events e on e.id = r.event_id
 where e.key = 'world.2014'
 ```
 
+
 ## List World Cup 2014 Teams
 
 ```sql
 select t.*
 from teams t
-inner join groups_teams gt on gt.team_id = t.id
-inner join groups g on gt.group_id = g.id
-inner join events e on e.id = g.event_id
+inner join event_teams et on et.team_id = t.id
+inner join events e on e.id = et.event_id
 where e.key = 'world.2014'
 ```
 
+
 ## List World Cup 2014 Rounds
+
 ```sql
 select *
 from rounds r
