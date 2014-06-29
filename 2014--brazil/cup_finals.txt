@@ -3,8 +3,8 @@
 
 (16) Round of 16
 
-(49) Sat Jun/28 13:00   Brazil      - Chile          @ Belo Horizonte   # 1A - 2B
-(50) Sat Jun/28 17:00   Colombia    - Uruguay        @ Rio de Janeiro   # 1C - 2D
+(49) Sat Jun/28 13:00   Brazil      3-2 Chile        @ Belo Horizonte   # 1A - 2B
+(50) Sat Jun/28 17:00   Colombia    2-0 Uruguay      @ Rio de Janeiro   # 1C - 2D
 
 (51) Sun Jun/29 13:00   Netherlands - Mexico         @ Fortaleza        # 1B - 2A    
 (52) Sun Jun/29 17:00   Costa Rica  - Greece         @ Recife           # 1D - 2C   
