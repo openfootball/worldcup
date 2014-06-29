@@ -187,3 +187,8 @@ Group H:
 
 (48) Thu Jun/26 17:00   Algeria 1-1 Russia          @ Curitiba (UTC-3)
                           [Islam Slimani 60'; Alexander Kokorin 6']
+
+Round of 16:
+
+(49) Sat Jun/28 13:00   Brazil 3-2 Chile            @ Estádio Mineirão, Belo Horizonte (UTC-3)
+(50) Sat Jun/28 17:00   Colombia 2-0 Uruguay        @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
