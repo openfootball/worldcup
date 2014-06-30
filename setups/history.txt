@@ -7,6 +7,27 @@ world-cup!/seasons_history
 
 
 world-cup!/1930--uruguay/cup
+
+## note: need to load squads before matches (e.g. players for goals depend on squads!!!)
+##  how can we set the event ref ??
+#  use   ? for flags in names e.g.
+#   world-cup!/1930--uruguay/cup?setevent
+
+
+world-cup!/1930--uruguay/squads/ar-argentina
+world-cup!/1930--uruguay/squads/be-belgium
+world-cup!/1930--uruguay/squads/bo-bolivia
+world-cup!/1930--uruguay/squads/br-brazil
+world-cup!/1930--uruguay/squads/cl-chile
+world-cup!/1930--uruguay/squads/fr-france
+world-cup!/1930--uruguay/squads/mx-mexico
+world-cup!/1930--uruguay/squads/pe-peru
+world-cup!/1930--uruguay/squads/py-paraguay
+world-cup!/1930--uruguay/squads/ro-romania
+world-cup!/1930--uruguay/squads/us-united-states
+world-cup!/1930--uruguay/squads/uy-uruguay
+world-cup!/1930--uruguay/squads/yug-yugoslavia
+
 world-cup!/1934--italy/cup
 world-cup!/1938--france/cup
 world-cup!/1950--brazil/cup
