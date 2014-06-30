@@ -3,16 +3,16 @@
 
 (16) Round of 16
 
-(49) Sat Jun/28 13:00   Brazil      1-1 (3-2) Chile        @ Belo Horizonte   # 1A - 2B
+(49) Sat Jun/28 13:00   Brazil      3-2pen 1-1aet (1-1, 1-1)  Chile        @ Belo Horizonte   # 1A - 2B
                           [David Luiz 18'; Alexis Sánchez 32']
 
-(50) Sat Jun/28 17:00   Colombia    2-0 Uruguay      @ Rio de Janeiro   # 1C - 2D
+(50) Sat Jun/28 17:00   Colombia    2-0 (1-0)  Uruguay      @ Rio de Janeiro   # 1C - 2D
                           [James Rodríguez 28', 50']
 
-(51) Sun Jun/29 13:00   Netherlands 2-1 Mexico         @ Fortaleza        # 1B - 2A 
-                          [Wesley Sneijder 88' Klaas Jan Huntelaar 90' (P); Giovani dos Santos 48']
+(51) Sun Jun/29 13:00   Netherlands  2-1 (0-0)  Mexico         @ Fortaleza        # 1B - 2A 
+                          [Wesley Sneijder 88' Klaas Jan Huntelaar 90' (pen); Giovani dos Santos 48']
                              
-(52) Sun Jun/29 17:00   Costa Rica  1-1 (5-3) Greece         @ Recife           # 1D - 2C   
+(52) Sun Jun/29 17:00   Costa Rica  5-3pen 1-1aet (1-1, 0-0)  Greece         @ Recife           # 1D - 2C   
                           [Bryan Ruiz 52'; Socratis Papastathopoulos 90']
 
 (53) Mon Jun/30 13:00   France      - Nigeria        @ Brasília         # 1E - 2F 
