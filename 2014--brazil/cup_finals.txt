@@ -18,7 +18,8 @@
 (53) Mon Jun/30 13:00   France      2-0 (0-0) Nigeria        @ Brasília         # 1E - 2F 
                           [Paul Pogba 79' Joseph Yobo 90+2' (OG)]
 
-(54) Mon Jun/30 17:00   Germany     - Algeria        @ Porto Alegre     # 1G - 2H  
+(54) Mon Jun/30 17:00   Germany     2-1 (0-0) Algeria        @ Porto Alegre     # 1G - 2H
+                          [André Schürrle 92' Mesut Özil 120'; Abdelmoumene Djabou 121']
 
 (55) Tue Jul/1 13:00    Argentina   - Switzerland    @ São Paulo        # 1F - 2E
 (56) Tue Jul/1 17:00    Belgium     - United States  @ Salvador         # 1H - 2G 
