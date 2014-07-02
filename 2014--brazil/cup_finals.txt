@@ -21,8 +21,11 @@
 (54) Mon Jun/30 17:00   Germany     2-1 (0-0) Algeria        @ Porto Alegre     # 1G - 2H
                           [André Schürrle 92' Mesut Özil 120'; Abdelmoumene Djabou 121']
 
-(55) Tue Jul/1 13:00    Argentina   - Switzerland    @ São Paulo        # 1F - 2E
-(56) Tue Jul/1 17:00    Belgium     - United States  @ Salvador         # 1H - 2G 
+(55) Tue Jul/1 13:00    Argentina   1-0 (0-0) Switzerland    @ São Paulo        # 1F - 2E
+                          [Ángel di María 118']
+                          
+(56) Tue Jul/1 17:00    Belgium     2-1 (0-0) United States  @ Salvador         # 1H - 2G 
+                          [Kevin De Bruyne 93' Romelu Lukaku 105'; Julian Green 107']
 
 
 
