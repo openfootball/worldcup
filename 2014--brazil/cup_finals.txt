@@ -31,17 +31,22 @@
 
 (17) Quarter-finals
 
-(57) Fri Jul/4 17:00   Brazil  2-1  Colombia          @ Fortaleza       # W49 - W50 
-(58) Fri Jul/4 13:00   France  0-1  Germany           @ Rio de Janeiro  # W53 - W54
+(57) Fri Jul/4 17:00   Brazil  2-1 (1-0)  Colombia          @ Fortaleza       # W49 - W50 
+                         [Thiago Silva 7' David Luiz 69'; Rodríguez 80' (pen.)]
+
+(58) Fri Jul/4 13:00   France  0-1 (0-1)  Germany           @ Rio de Janeiro  # W53 - W54
+                         [-; Hummels 13']
 
 (59) Sat Jul/5 17:00   Netherlands  4-3pen 0-0aet (0-0, 0-0)  Costa Rica    @ Salvador        # W51 - W52 
+
 (60) Sat Jul/5 13:00   Argentina    1-0 (1-0)  Belgium       @ Brasília        # W55 - W56 
+                         [Higuaín 8']
 
 
 (18) Semi-finals
 
-## (61) Tue Jul/8      W57 - W58      @ Belo Horizonte
-## (62) Wed Jul/9      W59 - W69      @ São Paulo
+(61) Tue Jul/8 17:00  Brazil      - Germany          @ Belo Horizonte    # W57 - W58
+(62) Wed Jul/9 17:00  Netherlands - Argentina        @ São Paulo         # W59 - W69  
 
 
 (19) Match for third place
