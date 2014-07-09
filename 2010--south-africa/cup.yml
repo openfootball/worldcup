@@ -11,8 +11,8 @@ start_at: 2010-06-11
 
 
 fixtures:
-- cup
-- cup_finals
+- group
+- knockout
 
 
 ##############
