@@ -55,9 +55,11 @@
 
 (19) Match for third place
 
-(63) Sat Jul/12 17:00  Brazil 0-3 Netherlands    @ Brasília  # L61 - L62
+(63) Sat Jul/12 17:00  Brazil 0-3 (0-2) Netherlands    @ Brasília  # L61 - L62
+                         [-; Van Persie 3' (pen.) Blind 17' Wijnaldum 90+1']
 
 
 (20) Final
 
-(64) Sun Jul/13 16:00  Germany - Argentina     @ Rio de Janeiro   # W61 - W62
+(64) Sun Jul/13 16:00  Germany 1-0aet (0-0, 0-0) Argentina     @ Rio de Janeiro   # W61 - W62
+                          [Götze 113']
