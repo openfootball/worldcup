@@ -41,47 +41,47 @@ Group A:
                          [Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)]
 
 (2) Fri Jun/13 13:00   Mexico 1-0 (0-0) Cameroon      @ Estádio das Dunas, Natal (UTC-3)
-                         [Peralta 61']
+                         [Oribe Peralta 61']
 
 (17) Tue Jun/17 16:00   Brazil 0-0 Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
 (18) Wed Jun/18 18:00   Cameroon 0-4 Croatia     @ Arena Amazônia, Manaus (UTC-4)
                           [-; Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73']
 
 (33) Mon Jun/23 17:00   Cameroon 1-4 Brazil      @ Brasília (UTC-3)
-                          [Matip 26'; Neymar 17', 35' Fred 49' Fernandinho 84']
+                          [Joel Matip 26'; Neymar 17', 35' Fred 49' Fernandinho 84']
 (34) Mon Jun/23 17:00   Croatia  1-3 Mexico      @ Recife (UTC-3)
-                          [Perišić 87';  Márquez 72' Guardado 75' Hernández 82']
+                          [Ivan Perišić 87';  Rafael Márquez 72' Andres Guardado 75' Javier Hernández 82']
 
 Group B:
 
 (3) Fri Jun/13 16:00   Spain 1-5 (1-1) Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Alonso 27' (pen.);  Van Persie  44', 72' Robben 53', 80' De Vrij 65']
+                          [Xabi Alonso 27' (pen.);  Robin Van Persie  44', 72' Arjen Robben 53', 80' Stefan De Vrij 65']
 
 (4) Fri Jun/13 18:00   Chile 3-1 (2-1) Australia       @ Arena Pantanal, Cuiabá (UTC-4)
-                          [Sánchez 12' Valdívia 14' Beausejour 90+2'; Cahill 35']
+                          [Alexis Sánchez 12' Jorge Valdívia 14' Jean Beausejour 90+2'; Cahill 35']
 
 (19) Wed Jun/18 16:00   Spain 0-2 Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
                           [-; Eduardo Vargas 20' Charles Aránguiz 43']
 
 (20) Wed Jun/18 13:00   Australia 2-3 Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-                          [Cahill 21' Jedinak 54' (pen.);  Robben 20' Van Persie 58' Memphis 68']
+                          [Tim Cahill 21' Mile Jedinak 54' (pen.);  Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68']
 
 (35) Mon Jun/23 13:00   Australia 0-3 Spain         @ Curitiba (UTC-3)
-                          [-; Villa 36' Torres 69' Mata 82']
+                          [-; David Villa 36' Fernando Torres 69' Juan Mata 82']
 
 (36) Mon Jun/23 13:00   Netherlands 2-0 Chile       @ São Paulo (UTC-3)
-                          [Fer 77' Memphis 90+2']
+                          [Leroy Fer 77' Memphis Depay 90+2']
 
 Group C:
 
 (5) Sat Jun/14 13:00   Colombia 3-0 Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
-                         [Armero 5' Gutiérrez 58' Rodríguez 90+3']
+                         [Pablo Armero 5' Teofilo Gutiérrez 58' James Rodríguez 90+3']
                          
 (6) Sat Jun/14 22:00   Côte d'Ivoire 2-1 Japan      @ Arena Pernambuco, Recife (UTC-3)
-                         [Bony 64' Gervinho 66';  Honda 16']
+                         [Wilfried Bony 64' Gervinho 66';  Keisuke Honda 16']
 
 (21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                         [Rodríguez 64', Quintero 70';  Gervinho 73']
+                         [James Rodríguez 64', Juan Quintero 70';  Gervinho 73']
 
 (22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
 
@@ -95,19 +95,19 @@ Group C:
 Group D:
 
 (7) Sat Jun/14 16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
-                         [Cavani 24' (pen.);  Campbell 54' Duarte 57' Ureña 84']
+                         [Edinson Cavani 24' (pen.);  Joel Campbell 54' Oscar Duarte 57' Marcos Ureña 84']
 
 (8) Sat Jun/14 18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
-                         [Sturridge 37';  Marchisio 35' Balotelli 50']
+                         [Daniel Sturridge 37';  Claudio Marchisio 35' Mario Balotelli 50']
 
 (23) Thu Jun/19 16:00   Uruguay 2-1 England          @ Arena de São Paulo, São Paulo (UTC-3)
-                         [Suárez 39', 85';  Rooney 75']
+                         [Luis Suárez 39', 85';  Wayne Rooney 75']
 
 (24) Fri Jun/20 13:00   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
                          [-; Bryan Ruiz 44']
 
 (39) Tue Jun/24 13:00   Italy 0-1 Uruguay             @ Natal (UTC-3)
-                         [-; Godín 81']
+                         [-; Diego Godín 81']
                          
 (40) Tue Jun/24 13:00   Costa Rica 0-0 England        @ Belo Horizonte (UTC-3)
 
@@ -115,7 +115,7 @@ Group D:
 Group E:
 
 (9)  Sun Jun/15 13:00   Switzerland 2-1 Ecuador      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                          [Mehmedi 48' Seferović 90+3'; E. Valencia 22']
+                          [Admir Mehmedi 48' Haris Seferović 90+3'; Enner Valencia 22']
 (10) Sun Jun/15 16:00   France 3-0 Honduras          @ Estádio Beira-Rio, Porto Alegre (UTC-3)
                           [Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72']
 
@@ -133,7 +133,7 @@ Group E:
 Group F:
 
 (11) Sun Jun/15 19:00   Argentina 2-1 Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-                          [Sead Kolašinac 3' (o.g) Lionel Messi 65'; Vedad Ibišević 85'] 
+                          [Sead Kolašinac 3' (o.g.) Lionel Messi 65'; Vedad Ibišević 85']
 
 (12) Mon Jun/16 16:00   Iran 0-0 Nigeria                    @ Arena da Baixada, Curitiba (UTC-3)
 
@@ -153,10 +153,10 @@ Group F:
 Group G:
 
 (13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Müller 12' (pen.), 45+1', 78', Hummels 32']
+                          [Thomas Müller 12' (pen.), 45+1', 78', Mats Hummels 32']
                          
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
-                          [Ayew 82';  Dempsey 1', Brooks 86']
+                          [André Ayew 82';  Clint Dempsey 1', John Brooks 86']
 
 (29) Sat Jun/21 16:00   Germany 2-2 Ghana              @ Fortaleza (UTC-3)
                           [Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63']
