@@ -2,9 +2,8 @@
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
-for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+A free open public domain football database & schema
+for use in any (programming) language (e.g. uses plain text data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -32,13 +31,6 @@ Matchday 3  |  Sat Jun/14
 
 ...
 
-Round of 16            |  Sat Jun/28 - Tue Jul/1
-Quarter-finals         |  Fri Jul/4 - Sat Jul/5
-Semi-finals            |  Tue Jul/8 - Wed Jul/9
-Match for third place  |  Sat Jul/12
-Final                  |  Sun Jul/13
-
-
 Group A:
 
 (1) Thu Jun/12 17:00   Brazil   3-1 (1-1)  Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
@@ -46,18 +38,25 @@ Group A:
 (2) Fri Jun/13 13:00   Mexico   1-0 (0-0)  Cameroon      @ Estádio das Dunas, Natal (UTC-3)
                          [Peralta 61'] 
 
-(17) Tue Jun/17 16:00  Brazil   0-0        Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
-(18) Wed Jun/18 18:00  Cameroon 0-4 (0-1)  Croatia       @ Arena Amazônia, Manaus (UTC-4)
-                         [-; Olić 11' Perišić 48' Mandžukić 61', 73']
-
 ...
+
+Match for third place
+
+(63) Sat Jul/12 17:00   Brazil  0-3 (0-2)  Netherlands   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+                         [-; Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1']
+
+Final
+
+(64) Sun Jul/13 16:00   Germany  1-0 a.e.t. (0-0, 0-0)  Argentina   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+                          [Mario Götze 113']
+
 ~~~
 
 
 ## Build Your Own `worldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
 
 ## Questions? Comments?
