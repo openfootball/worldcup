@@ -3,63 +3,63 @@
 
 (16) Round of 16
 
-(49) Sat Jun/28 13:00   Brazil      3-2pen 1-1aet (1-1, 1-1)  Chile        @ Belo Horizonte   # 1A - 2B
+(49) Sat Jun/28 13:00   Brazil      3-2pen 1-1aet (1-1, 1-1)  Chile    @ Estádio Mineirão, Belo Horizonte (UTC-3)  # 1A - 2B
                           [David Luiz 18'; Alexis Sánchez 32']
 
-(50) Sat Jun/28 17:00   Colombia    2-0 (1-0)  Uruguay      @ Rio de Janeiro   # 1C - 2D
+(50) Sat Jun/28 17:00   Colombia    2-0 (1-0)  Uruguay       @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # 1C - 2D
                           [James Rodríguez 28', 50']
 
-(51) Sun Jun/29 13:00   Netherlands  2-1 (0-0)  Mexico         @ Fortaleza        # 1B - 2A 
+(51) Sun Jun/29 13:00   Netherlands  2-1 (0-0)  Mexico         @ Estádio Castelão, Fortaleza (UTC-3)        # 1B - 2A 
                           [Wesley Sneijder 88' Klaas Jan Huntelaar 90' (pen); Giovani dos Santos 48']
                              
-(52) Sun Jun/29 17:00   Costa Rica  5-3pen 1-1aet (1-1, 0-0)  Greece         @ Recife           # 1D - 2C   
+(52) Sun Jun/29 17:00   Costa Rica  5-3pen 1-1aet (1-1, 0-0)  Greece         @ Arena Pernambuco, Recife (UTC-3)     # 1D - 2C   
                           [Bryan Ruiz 52'; Socratis Papastathopoulos 90']
 
-(53) Mon Jun/30 13:00   France      2-0 (0-0) Nigeria        @ Brasília         # 1E - 2F 
+(53) Mon Jun/30 13:00   France      2-0 (0-0) Nigeria        @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)     # 1E - 2F 
                           [Paul Pogba 79' Joseph Yobo 90+2' (o.g.)]
 
-(54) Mon Jun/30 17:00   Germany     2-1aet (0-0, 0-0) Algeria        @ Porto Alegre     # 1G - 2H
+(54) Mon Jun/30 17:00   Germany     2-1aet (0-0, 0-0) Algeria        @ Estádio Beira-Rio, Porto Alegre (UTC-3)    # 1G - 2H
                           [André Schürrle 92' Mesut Özil 120'; Abdelmoumene Djabou 121']
 
-(55) Tue Jul/1 13:00    Argentina   1-0aet (0-0, 0-0) Switzerland    @ São Paulo        # 1F - 2E
+(55) Tue Jul/1 13:00    Argentina   1-0aet (0-0, 0-0) Switzerland    @ Arena de São Paulo, São Paulo    # 1F - 2E
                           [Ángel di María 118']
                           
-(56) Tue Jul/1 17:00    Belgium     2-1aet (0-0, 0-0) United States  @ Salvador         # 1H - 2G 
+(56) Tue Jul/1 17:00    Belgium     2-1aet (0-0, 0-0) United States  @ Arena Fonte Nova, Salvador     # 1H - 2G 
                           [Kevin De Bruyne 93' Romelu Lukaku 105'; Julian Green 107']
 
 
 
 (17) Quarter-finals
 
-(57) Fri Jul/4 17:00   Brazil  2-1 (1-0)  Colombia          @ Fortaleza       # W49 - W50 
+(57) Fri Jul/4 17:00   Brazil  2-1 (1-0)  Colombia          @ Estádio Castelão, Fortaleza    # W49 - W50 
                          [Thiago Silva 7' David Luiz 69'; Rodríguez 80' (pen.)]
 
-(58) Fri Jul/4 13:00   France  0-1 (0-1)  Germany           @ Rio de Janeiro  # W53 - W54
+(58) Fri Jul/4 13:00   France  0-1 (0-1)  Germany           @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # W53 - W54
                          [-; Mats Hummels 13']
 
-(59) Sat Jul/5 17:00   Netherlands  4-3pen 0-0aet (0-0, 0-0)  Costa Rica    @ Salvador        # W51 - W52 
+(59) Sat Jul/5 17:00   Netherlands  4-3pen 0-0aet (0-0, 0-0)  Costa Rica    @ Arena Fonte Nova, Salvador (UTC-3)    # W51 - W52 
 
-(60) Sat Jul/5 13:00   Argentina    1-0 (1-0)  Belgium       @ Brasília        # W55 - W56 
+(60) Sat Jul/5 13:00   Argentina    1-0 (1-0)  Belgium       @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)    # W55 - W56 
                          [Gonzalo Higuaín 8']
 
 
 
 (18) Semi-finals
 
-(61) Tue Jul/8 17:00  Brazil  1-7 (0-5)  Germany          @ Belo Horizonte    # W57 - W58
+(61) Tue Jul/8 17:00  Brazil  1-7 (0-5)  Germany          @ Estádio Mineirão, Belo Horizonte (UTC-3)   # W57 - W58
                        [Oscar 90'; Thomas Müller 11' Miroslav Klose 23' Toni Kroos 24', 26' Sami Khedira 29' Andre Schürrle 69', 79']
 
-(62) Wed Jul/9 17:00  Netherlands  2-4pen 0-0aet (0-0, 0-0)  Argentina        @ São Paulo         # W59 - W69  
+(62) Wed Jul/9 17:00  Netherlands  2-4pen 0-0aet (0-0, 0-0)  Argentina        @ Arena de São Paulo, São Paulo (UTC-3)    # W59 - W69  
 
 
 
 (19) Match for third place
 
-(63) Sat Jul/12 17:00  Brazil 0-3 (0-2) Netherlands    @ Brasília  # L61 - L62
+(63) Sat Jul/12 17:00  Brazil 0-3 (0-2) Netherlands    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)   # L61 - L62
                          [-; Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1']
 
 
 (20) Final
 
-(64) Sun Jul/13 16:00  Germany 1-0aet (0-0, 0-0) Argentina     @ Rio de Janeiro   # W61 - W62
+(64) Sun Jul/13 16:00  Germany 1-0aet (0-0, 0-0) Argentina     @ Estádio do Maracanã, Rio de Janeiro (UTC-3)   # W61 - W62
                           [Mario Götze 113']
