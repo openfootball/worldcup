@@ -56,7 +56,7 @@ Final
 ## Build Your Own `worldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
-from the plain text data sets. [More »](http://openfootball.github.io/build.html)
+from the plain text data sets. [More »](https://github.com/openfootball/datafile)
 
 
 ## Questions? Comments?
