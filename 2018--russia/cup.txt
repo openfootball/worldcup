@@ -1,10 +1,15 @@
 ############################
 # World Cup 2018 Russia
 
+Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
+Group B  |  Portugal     Spain                Morocco        Iran
+Group C  |  France       Australia            Peru           Denmark
+Group D  |  Argentina    Iceland              Croatia        Nigeria
+Group E  |  Brazil       Switzerland          Costa Rica     Serbia
+Group F  |  Germany      Mexico               Sweden         South Korea
+Group G  |  Belgium      Panama               Tunisia        England
+Group H  |  Poland       Senegal              Colombia       Japan
 
-## todo: add to num: 21
-
-##  21st World Cup 
 
 ####
 # todo add to cites:
