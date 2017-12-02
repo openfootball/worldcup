@@ -8,10 +8,41 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the World Cup (e.g. Brazil 2014, Russia 2018, etc.)
+Free open public domain football data for the World Cup (e.g. Russia 2018, Brazil 2014, etc.)
 and the World Cup Quali(fiers). Example:
 
-~~~
+```
+############################
+# World Cup 2018 Russia
+
+Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
+Group B  |  Portugal     Spain                Morocco        Iran
+Group C  |  France       Australia            Peru           Denmark
+Group D  |  Argentina    Iceland              Croatia        Nigeria
+Group E  |  Brazil       Switzerland          Costa Rica     Serbia
+Group F  |  Germany      Mexico               Sweden         South Korea
+Group G  |  Belgium      Panama               Tunisia        England
+Group H  |  Poland       Senegal              Colombia       Japan
+
+
+Matchday 1  |  Thu Jun/14
+Matchday 2  |  Fri Jun/15
+Matchday 3  |  Sat Jun/16
+
+...
+
+Group A:
+
+ (1) Thu Jun/14 18:00      Russia        -  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
+ (2) Fri Jun/15 17:00      Egypt         -  Uruguay          @ Central Stadium, Yekaterinburg (UTC+5)
+
+...
+
+```
+
+or
+
+```
 ############################
 # World Cup 2014 Brazil
 
@@ -50,8 +81,7 @@ Final
 (64) Sun Jul/13 16:00   Germany  1-0 a.e.t. (0-0, 0-0)  Argentina   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
                           [Mario Götze 113']
 
-~~~
-
+```
 
 ## Build Your Own `worldcup.db` Copy
 
