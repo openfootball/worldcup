@@ -14,66 +14,78 @@ start_at: 2018-06-14     # 14 June - 15 July
 ######
 # 32 Teams
 # 
-# Europe (UEFA): 13 places
+# Europe (UEFA): 14 places
 # Africa (CAF): 5 places
-# Asia (AFC): 4 places
+# Asia (AFC): 5 places
 # South America (CONMEBOL) 5 places (+ Brazil qualified automatically as host nation for a total of 5 or 6 places)
-# North, Central American and Caribbean (CONCACAF): 4 places
+# North, Central American and Caribbean (CONCACAF): 3 places
 # Oceania (OFC): 0
 #
-# see en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification
+# see en.wikipedia.org/wiki/2018_FIFA_World_Cup_qualification
 
 teams:
-- nga    # Nigeria    -- Africa (5)
-- civ    # Côte d'Ivoire
-- cmr    # Cameroon
-- gha    # Ghana
-- alg    # Algeria
-- aus    # Australia   -- Asia (4) includes Australia
-- irn    # Iran
-- jpn    # Japan
-- kor    # South Korea
-- crc    # Costa Rica   -- North, Central American and Caribbean (4)
-- usa    # United States
-- hon    # Honduras
-- mex    # Mexico
-- bra    # Brazil -- South America (5+1)
-- arg    # Argentina
-- col    # Colombia
-- chi    # Chile
-- ecu    # Ecuador
-- uru    # Uruguay
-- bel    # Belgium  -- Europe (13)
-- ger    # Germany
-- ita    # Italy
-- ned    # Netherlands
-- sui    # Switzerland
-- bih    # Bosnia and Herzegovina
-- rus    # Russia
-- esp    # Spain
-- eng    # England
-- gre    # Greece
-- cro    # Croatia
-- por    # Portugal
-- fra    # France
+- Australia    # Asia - AFC (5)
+- Iran
+- Japan
+- Saudi Arabia
+- South Korea
+- Egypt        # Afica - CAF (5)
+- Morocco
+- Nigeria
+- Senegal
+- Tunisia
+- Costa Rica   # North, Central American and Caribbean - CONCACAF (3)
+- Mexico
+- Panama
+- Argentina    # South America - CONMEBOL (5)
+- Brazil
+- Colombia
+- Peru
+- Uruguay
+- Belgium      # Europe - UEFA (14)
+- Croatia
+- Denmark
+- England
+- France
+- Germany
+- Iceland
+- Poland
+- Portugal
+- Russia 
+- Serbia
+- Spain
+- Sweden
+- Switzerland
 
 
-# grounds:   # add 12 stadiums/grounds
-# - maracana            # Rio de Janeiro, RJ
-# - nacionaldebrasilia  # Brasília, DF
-# - corinthians         # São Paulo, SP
-# - castelao            # Fortaleza, CE
-# - mineirao            # Belo Horizonte, MG
-# - fontenova           # Salvador, BA
-# - pantanal            # Cuiabá, MT
-# - amazonia            # Manaus, AM
-# - dasdunas            # Natal, RN
-# - beirario            # Porto Alegre, RS
-# - pernambuco          # Recife, PE
-# - dabaixada           # Curitiba, PR
+
+#############
+# grounds:   # add 12 stadiums/grounds	
+# - Luzhniki Stadium, Moscow
+# -	Otkrytiye Arena (Spartak Stadium), Moscow
+# -	Krestovsky Stadium (Saint Petersburg Stadium), Saint Petersburg
+# -	Kaliningrad Stadium, Kaliningrad
+# - Kazan Arena, Kazan
+# - Nizhny Novgorod Stadium, Nizhny Novgorod
+# - Cosmos Arena (Samara Arena), Samara
+# - Volgograd Arena, Volgograd
+# - Mordovia Arena, Saransk
+# - Rostov Arena, Rostov-on-Don
+# - Fisht Olympic Stadium (Fisht Stadium), Sochi 
+# - Central Stadium (Ekaterinburg Arena), Yekaterinburg
+
 
 ###
 ##
-## todo: add 12 cities:
-#  - barsilia  etc
-#  
+## todo: add 11 cities:
+# - Moscow
+# -	Saint Petersburg
+# -	Kaliningrad
+# - Kazan
+# - Nizhny Novgorod
+# - Samara
+# - Volgograd
+# - Saransk
+# - Rostov-on-Don
+# - Sochi 
+# - Yekaterinburg
