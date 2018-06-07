@@ -38,19 +38,19 @@ Matchday 15 |  Thu Jun/28
 Group A:
 
  (1) Thu Jun/14 18:00      Russia        -  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
- (2) Fri Jun/15 17:00      Egypt         -  Uruguay          @ Central Stadium, Yekaterinburg (UTC+5)
+ (2) Fri Jun/15 17:00      Egypt         -  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 
-(17) Tue Jun/19 21:00      Russia        -  Egypt            @ Krestovsky Stadium, Saint Petersburg (UTC+3)
+(17) Tue Jun/19 21:00      Russia        -  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
 (18) Wed Jun/20 18:00      Uruguay       -  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
 
-(33) Mon Jun/25 18:00      Uruguay       -  Russia           @ Cosmos Arena, Samara (UTC+4)
+(33) Mon Jun/25 18:00      Uruguay       -  Russia           @ Samara Arena, Samara (UTC+4)
 (34) Mon Jun/25 17:00      Saudi Arabia  -  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
 
 
 Group B:
 
- (4) Fri Jun/15 18:00     Morocco       -  Iran    @ Krestovsky Stadium, Saint Petersburg (UTC+3)
- (3) Fri Jun/15 21:00     Portugal      -  Spain   @ Fisht Olympic Stadium, Sochi (UTC+3)
+ (4) Fri Jun/15 18:00     Morocco       -  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+ (3) Fri Jun/15 21:00     Portugal      -  Spain   @ Fisht Stadium, Sochi (UTC+3)
 
 (19) Wed Jun/20 15:00     Portugal      -  Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
 (20) Wed Jun/20 21:00     Iran          -  Spain    @ Kazan Arena, Kazan (UTC+3)
@@ -64,34 +64,34 @@ Group C:
  (5) Sat Jun/16 13:00     France        -  Australia  @ Kazan Arena, Kazan (UTC+3)
  (6) Sat Jun/16 19:00     Peru          -  Denmark    @ Mordovia Arena, Saransk (UTC+3)
 
-(22) Thu Jun/21 16:00     Denmark       -  Australia  @ Cosmos Arena, Samara (UTC+4)
-(21) Thu Jun/21 20:00     France        -  Peru       @ Central Stadium, Yekaterinburg (UTC+5)
+(22) Thu Jun/21 16:00     Denmark       -  Australia  @ Samara Arena, Samara (UTC+4)
+(21) Thu Jun/21 20:00     France        -  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 
 (37) Tue Jun/26 17:00     Denmark       -  France    @ Luzhniki Stadium, Moscow (UTC+3)
-(38) Tue Jun/26 17:00     Australia     -  Peru      @ Fisht Olympic Stadium, Sochi (UTC+3)
+(38) Tue Jun/26 17:00     Australia     -  Peru      @ Fisht Stadium, Sochi (UTC+3)
 
 
 Group D:
 
- (7) Sat Jun/16 16:00      Argentina   -   Iceland    @ Otkrytiye Arena, Moscow (UTC+3)
+ (7) Sat Jun/16 16:00      Argentina   -   Iceland    @ Spartak Stadium, Moscow (UTC+3)
  (8) Sat Jun/16 21:00      Croatia     -   Nigeria    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
 
 (23) Thu Jun/21 21:00      Argentina   -   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 (24) Fri Jun/22 18:00      Nigeria     -   Iceland    @ Volgograd Arena, Volgograd (UTC+3)
 
-(39) Tue Jun/26 21:00      Nigeria     -   Argentina    @ Krestovsky Stadium, Saint Petersburg (UTC+3)
+(39) Tue Jun/26 21:00      Nigeria     -   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
 (40) Tue Jun/26 21:00      Iceland     -   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
 
 
 Group E:
 
-(10) Sun Jun/17 16:00       Costa Rica   -  Serbia          @ Cosmos Arena, Samara (UTC+4)
+(10) Sun Jun/17 16:00       Costa Rica   -  Serbia          @ Samara Arena, Samara (UTC+4)
  (9) Sun Jun/17 21:00       Brazil       -  Switzerland     @ Rostov Arena, Rostov-on-Don (UTC+3)
 
-(25) Fri Jun/22 15:00       Brazil   -   Costa Rica     @ Krestovsky Stadium, Saint Petersburg (UTC+3)
+(25) Fri Jun/22 15:00       Brazil   -   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
 (26) Fri Jun/22 20:00       Serbia   -    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
 
-(41) Wed Jun/27 21:00       Serbia         -   Brazil         @ Otkrytiye Arena, Moscow (UTC+3)
+(41) Wed Jun/27 21:00       Serbia         -   Brazil         @ Spartak Stadium, Moscow (UTC+3)
 (42) Wed Jun/27 21:00       Switzerland    -   Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 
@@ -101,18 +101,18 @@ Group F:
 (12) Mon Jun/18 15:00        Sweden    -   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 (28) Sat Jun/23 18:00        South Korea   -   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
-(27) Sat Jun/23 21:00        Germany       -   Sweden       @ Fisht Olympic Stadium, Sochi (UTC+3)
+(27) Sat Jun/23 21:00        Germany       -   Sweden       @ Fisht Stadium, Sochi (UTC+3)
 
 (43) Wed Jun/27 17:00        South Korea   -   Germany      @ Kazan Arena, Kazan (UTC+3)
-(44) Wed Jun/27 19:00        Mexico        -   Sweden       @ Central Stadium, Yekaterinburg (UTC+5)
+(44) Wed Jun/27 19:00        Mexico        -   Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 
 
 Group G:
 
-(13) Mon Jun/18 18:00          Belgium   -   Panama     @ Fisht Olympic Stadium, Sochi (UTC+3)
+(13) Mon Jun/18 18:00          Belgium   -   Panama     @ Fisht Stadium, Sochi (UTC+3)
 (14) Mon Jun/18 21:00          Tunisia   -   England    @ Volgograd Arena, Volgograd (UTC+3)
 
-(29) Sat Jun/23 15:00          Belgium   -   Tunisia    @ Otkrytiye Arena, Moscow (UTC+3)
+(29) Sat Jun/23 15:00          Belgium   -   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
 (30) Sun Jun/24 15:00          England   -   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 (45) Thu Jun/28 20:00          England   -   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
@@ -122,10 +122,10 @@ Group G:
 Group H:
 
 (16) Tue Jun/19 15:00          Colombia   -   Japan      @ Mordovia Arena, Saransk (UTC+3)
-(15) Tue Jun/19 18:00          Poland     -   Senegal    @ Otkrytiye Arena, Moscow (UTC+3)
+(15) Tue Jun/19 18:00          Poland     -   Senegal    @ Spartak Stadium, Moscow (UTC+3)
 
-(32) Sun Jun/24 20:00          Japan      -   Senegal      @ Central Stadium, Yekaterinburg (UTC+5)
+(32) Sun Jun/24 20:00          Japan      -   Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 (31) Sun Jun/24 21:00          Poland     -   Colombia     @ Kazan Arena, Kazan (UTC+3)
 
 (47) Thu Jun/28 17:00          Japan     -   Poland       @ Volgograd Arena, Volgograd (UTC+3)
-(48) Thu Jun/28 18:00          Senegal   -   Colombia     @ Cosmos Arena, Samara (UTC+4)
+(48) Thu Jun/28 18:00          Senegal   -   Colombia     @ Samara Arena, Samara (UTC+4)

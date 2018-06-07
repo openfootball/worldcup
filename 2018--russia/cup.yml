@@ -59,19 +59,20 @@ teams:
 
 
 
-grounds:           # 12 stadiums/grounds
+grounds:           # -- 12 stadiums/grounds
 - luzhniki         # Luzhniki Stadium, Moscow
--	spartak          # Otkrytiye Arena (Spartak Stadium), Moscow
--	saintpetersburg  # Krestovsky Stadium (Saint Petersburg Stadium), Saint Petersburg
+-	spartak          # Spartak Stadium (Otkrytiye Arena, Moscow
+-	saintpetersburg  # Saint Petersburg Stadium (Krestovsky Stadium), Saint Petersburg
 -	kaliningrad      # Kaliningrad Stadium, Kaliningrad
 - kazan            # Kazan Arena, Kazan
 - nizhnynovgorod   # Nizhny Novgorod Stadium, Nizhny Novgorod
-- samara           # Cosmos Arena (Samara Arena), Samara
+- samara           # Samara Arena (Cosmos Arena), Samara
 - volgograd        # Volgograd Arena, Volgograd
 - mordovia         # Mordovia Arena, Saransk
 - rostov           # Rostov Arena, Rostov-on-Don
-- fisht            # Fisht Olympic Stadium (Fisht Stadium), Sochi
-- ekaterinburg     # Central Stadium (Ekaterinburg Arena), Yekaterinburg
+- fisht            # Fisht Stadium (Fisht Olympic Stadium), Sochi
+- ekaterinburg     # Ekaterinburg Arena (Central Stadium), Ekaterinburg
+
 
 
 ###
