@@ -13,11 +13,11 @@ start_at: 2018-06-14     # 14 June - 15 July
 
 ######
 # 32 Teams
-# 
+#
 # Europe (UEFA): 14 places
 # Africa (CAF): 5 places
 # Asia (AFC): 5 places
-# South America (CONMEBOL) 5 places 
+# South America (CONMEBOL) 5 places
 # North, Central American and Caribbean (CONCACAF): 3 places
 # Oceania (OFC): 0
 #
@@ -51,7 +51,7 @@ teams:
 - Iceland
 - Poland
 - Portugal
-- Russia 
+- Russia
 - Serbia
 - Spain
 - Sweden
@@ -59,20 +59,19 @@ teams:
 
 
 
-#############
-# grounds:   # add 12 stadiums/grounds	
-# - Luzhniki Stadium, Moscow
-# -	Otkrytiye Arena (Spartak Stadium), Moscow
-# -	Krestovsky Stadium (Saint Petersburg Stadium), Saint Petersburg
-# -	Kaliningrad Stadium, Kaliningrad
-# - Kazan Arena, Kazan
-# - Nizhny Novgorod Stadium, Nizhny Novgorod
-# - Cosmos Arena (Samara Arena), Samara
-# - Volgograd Arena, Volgograd
-# - Mordovia Arena, Saransk
-# - Rostov Arena, Rostov-on-Don
-# - Fisht Olympic Stadium (Fisht Stadium), Sochi 
-# - Central Stadium (Ekaterinburg Arena), Yekaterinburg
+grounds:           # 12 stadiums/grounds
+- luzhniki         # Luzhniki Stadium, Moscow
+-	spartak          # Otkrytiye Arena (Spartak Stadium), Moscow
+-	saintpetersburg  # Krestovsky Stadium (Saint Petersburg Stadium), Saint Petersburg
+-	kaliningrad      # Kaliningrad Stadium, Kaliningrad
+- kazan            # Kazan Arena, Kazan
+- nizhnynovgorod   # Nizhny Novgorod Stadium, Nizhny Novgorod
+- samara           # Cosmos Arena (Samara Arena), Samara
+- volgograd        # Volgograd Arena, Volgograd
+- mordovia         # Mordovia Arena, Saransk
+- rostov           # Rostov Arena, Rostov-on-Don
+- fisht            # Fisht Olympic Stadium (Fisht Stadium), Sochi
+- ekaterinburg     # Central Stadium (Ekaterinburg Arena), Yekaterinburg
 
 
 ###
@@ -87,5 +86,5 @@ teams:
 # - Volgograd
 # - Saransk
 # - Rostov-on-Don
-# - Sochi 
+# - Sochi
 # - Yekaterinburg
