@@ -34,9 +34,9 @@ Matchday 3  |  Sat Jun/16
 Group A:
 
  (1) Thu Jun/14 18:00      Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
-        [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
+                             [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
  (2) Fri Jun/15 17:00      Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-        [-; Giménez 89']
+                             [-; Giménez 89']
 ...
 
 ```
