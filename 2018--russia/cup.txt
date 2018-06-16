@@ -68,7 +68,7 @@ Group C:
  (5) Sat Jun/16 13:00     France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan (UTC+3)
              [Griezmann 58' (pen.) Pogba 81'; Jedinak 62' (pen.)]               
  (6) Sat Jun/16 19:00     Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk (UTC+3)
-             [-;	Poulsen 59']
+             [-; Poulsen 59']
  
 (22) Thu Jun/21 16:00     Denmark       -  Australia  @ Samara Arena, Samara (UTC+4)
 (21) Thu Jun/21 20:00     France        -  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
