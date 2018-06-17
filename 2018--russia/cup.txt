@@ -106,7 +106,8 @@ Group E:
 
 Group F:
 
-(11) Sun Jun/17 18:00        Germany   -   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
+(11) Sun Jun/17 18:00        Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
+            [-;H. Lozano 35']
 (12) Mon Jun/18 15:00        Sweden    -   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 (28) Sat Jun/23 18:00        South Korea   -   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
