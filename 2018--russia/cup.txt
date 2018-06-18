@@ -94,9 +94,9 @@ Group D:
 Group E:
 
 (10) Sun Jun/17 16:00       Costa Rica   0-1 (0-0)  Serbia          @ Samara Arena, Samara (UTC+4)
-            [Kolarov 56']
+            [-; Kolarov 56']
  (9) Sun Jun/17 21:00       Brazil       1-1 (1-0)  Switzerland     @ Rostov Arena, Rostov-on-Don (UTC+3)
-            [P. Coutinho 20'; Zuber 50']
+            [Coutinho 20'; Zuber 50']
 
 (25) Fri Jun/22 15:00       Brazil   -   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
 (26) Fri Jun/22 20:00       Serbia   -    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
@@ -108,7 +108,7 @@ Group E:
 Group F:
 
 (11) Sun Jun/17 18:00        Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
-            [-;H. Lozano 35']
+            [-; Lozano 35']
 (12) Mon Jun/18 15:00        Sweden    -   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 (28) Sat Jun/23 18:00        South Korea   -   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
