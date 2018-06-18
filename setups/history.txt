@@ -46,3 +46,5 @@ world-cup!/1998--france/cup
 world-cup!/2002--south-korea-n-japan/cup
 world-cup!/2006--germany/cup
 world-cup!/2010--south-africa/cup
+world-cup!/2014--brazil/cup
+world-cup!/2018--russia/cup
