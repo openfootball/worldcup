@@ -122,7 +122,7 @@ Group F:
 Group G:
 
 (13) Mon Jun/18 18:00          Belgium   3-0 (0-0)   Panama     @ Fisht Stadium, Sochi (UTC+3)
-            [Mertens 47', R. Lukaku 69', 75']
+            [Mertens 47' Lukaku 69', 75']
 (14) Mon Jun/18 21:00          Tunisia   1-2 (1-1)   England    @ Volgograd Arena, Volgograd (UTC+3)
             [Sassi 35' (pen.); Kane 11', 90+1']
 
