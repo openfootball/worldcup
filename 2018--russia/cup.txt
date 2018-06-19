@@ -137,7 +137,8 @@ Group H:
 
 (16) Tue Jun/19 15:00          Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk (UTC+3)
             [J. Quintero 39'; Kagawa 6' (pen), Osako 73']
-(15) Tue Jun/19 18:00          Poland     -   Senegal    @ Spartak Stadium, Moscow (UTC+3)
+(15) Tue Jun/19 18:00          Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow (UTC+3)
+            [Krychowiak 86'; Cionek 37' (o.g.), Niang 60']
 
 (32) Sun Jun/24 20:00          Japan      -   Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 (31) Sun Jun/24 21:00          Poland     -   Colombia     @ Kazan Arena, Kazan (UTC+3)
