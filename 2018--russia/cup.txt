@@ -43,7 +43,7 @@ Group A:
         [-; Giménez 89']
     
 (17) Tue Jun/19 21:00      Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-        [A. Fathi 47' (o.g.), Cheryshev 59', Dzyuba 62'; M. Salah 73' (pen.)]
+        [A. Fathi 47' (o.g.) Cheryshev 59' Dzyuba 62'; M. Salah 73' (pen.)]
 (18) Wed Jun/20 18:00      Uruguay       -  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
 
 (33) Mon Jun/25 18:00      Uruguay       -  Russia           @ Samara Arena, Samara (UTC+4)
@@ -137,9 +137,9 @@ Group G:
 Group H:
 
 (16) Tue Jun/19 15:00          Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk (UTC+3)
-            [J. Quintero 39'; Kagawa 6' (pen), Osako 73']
+            [J. Quintero 39'; Kagawa 6' (pen.) Osako 73']
 (15) Tue Jun/19 18:00          Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow (UTC+3)
-            [Krychowiak 86'; Cionek 37' (o.g.), Niang 60']
+            [Krychowiak 86'; Cionek 37' (o.g.) Niang 60']
 
 (32) Sun Jun/24 20:00          Japan      -   Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
 (31) Sun Jun/24 21:00          Poland     -   Colombia     @ Kazan Arena, Kazan (UTC+3)
