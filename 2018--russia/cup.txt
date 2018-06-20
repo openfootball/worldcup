@@ -44,7 +44,8 @@ Group A:
     
 (17) Tue Jun/19 21:00      Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
         [A. Fathi 47' (o.g.) Cheryshev 59' Dzyuba 62'; M. Salah 73' (pen.)]
-(18) Wed Jun/20 18:00      Uruguay       -  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
+(18) Wed Jun/20 18:00      Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
+        [L. Suarez 23']
 
 (33) Mon Jun/25 18:00      Uruguay       -  Russia           @ Samara Arena, Samara (UTC+4)
 (34) Mon Jun/25 17:00      Saudi Arabia  -  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
