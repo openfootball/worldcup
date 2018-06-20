@@ -57,7 +57,8 @@ Group B:
  (3) Fri Jun/15 21:00     Portugal     3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
         [Ronaldo 4' (pen.), 44', 88'; Costa 24', 55' Nacho 58']
 
-(19) Wed Jun/20 15:00     Portugal      -  Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
+(19) Wed Jun/20 15:00     Portugal      1-0 (1-0)   Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
+        [Ronaldo 4']
 (20) Wed Jun/20 21:00     Iran          -  Spain    @ Kazan Arena, Kazan (UTC+3)
 
 (35) Mon Jun/25 21:00     Iran          -  Portugal @ Mordovia Arena, Saransk (UTC+3)
