@@ -60,7 +60,8 @@ Group B:
 
 (19) Wed Jun/20 15:00     Portugal      1-0 (1-0)   Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
         [Ronaldo 4']
-(20) Wed Jun/20 21:00     Iran          -  Spain    @ Kazan Arena, Kazan (UTC+3)
+(20) Wed Jun/20 21:00     Iran          0-1 (0-0)  Spain    @ Kazan Arena, Kazan (UTC+3)
+        [-; Diego Costa 54']
 
 (35) Mon Jun/25 21:00     Iran          -  Portugal @ Mordovia Arena, Saransk (UTC+3)
 (36) Mon Jun/25 20:00     Spain         -  Morocco  @ Kaliningrad Stadium, Kaliningrad (UTC+2)
