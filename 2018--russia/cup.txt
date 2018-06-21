@@ -74,8 +74,10 @@ Group C:
  (6) Sat Jun/16 19:00     Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk (UTC+3)
              [-; Poulsen 59']
  
-(22) Thu Jun/21 16:00     Denmark       -  Australia  @ Samara Arena, Samara (UTC+4)
-(21) Thu Jun/21 20:00     France        -  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+(22) Thu Jun/21 16:00     Denmark       1-1 (1-1)  Australia  @ Samara Arena, Samara (UTC+4)
+             [Eriksen 7'; Jedinak 38' (pen.)]
+(21) Thu Jun/21 20:00     France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+             [Mbappe 34']
 
 (37) Tue Jun/26 17:00     Denmark       -  France    @ Luzhniki Stadium, Moscow (UTC+3)
 (38) Tue Jun/26 17:00     Australia     -  Peru      @ Fisht Stadium, Sochi (UTC+3)
