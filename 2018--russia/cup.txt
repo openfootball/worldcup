@@ -105,7 +105,8 @@ Group E:
  (9) Sun Jun/17 21:00       Brazil       1-1 (1-0)  Switzerland     @ Rostov Arena, Rostov-on-Don (UTC+3)
             [Coutinho 20'; Zuber 50']
 
-(25) Fri Jun/22 15:00       Brazil   -   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+(25) Fri Jun/22 15:00       Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+            [P. Coutinho 90+1 Neymar Jr 90+7']
 (26) Fri Jun/22 20:00       Serbia   -    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
 
 (41) Wed Jun/27 21:00       Serbia         -   Brazil         @ Spartak Stadium, Moscow (UTC+3)
