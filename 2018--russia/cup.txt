@@ -92,7 +92,8 @@ Group D:
 
 (23) Thu Jun/21 21:00      Argentina   0-3 (0-0)   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
             [-;Rebic 53' Modric 80' Rakitic 90+1']
-(24) Fri Jun/22 18:00      Nigeria     -   Iceland    @ Volgograd Arena, Volgograd (UTC+3)
+(24) Fri Jun/22 18:00      Nigeria     2-0 (0-0)  Iceland    @ Volgograd Arena, Volgograd (UTC+3)
+            [Musa 49', 75']
 
 (39) Tue Jun/26 21:00      Nigeria     -   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
 (40) Tue Jun/26 21:00      Iceland     -   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
@@ -107,7 +108,8 @@ Group E:
 
 (25) Fri Jun/22 15:00       Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
             [P. Coutinho 90+1 Neymar Jr 90+7']
-(26) Fri Jun/22 20:00       Serbia   -    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+(26) Fri Jun/22 20:00       Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+            [Mitrovic 5'; Xhaka 52' Shaqiri 90']
 
 (41) Wed Jun/27 21:00       Serbia         -   Brazil         @ Spartak Stadium, Moscow (UTC+3)
 (42) Wed Jun/27 21:00       Switzerland    -   Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
