@@ -122,7 +122,8 @@ Group F:
 (12) Mon Jun/18 15:00        Sweden    1-0 (0-0)   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
             [Granqvist 65' (pen.)]
 
-(28) Sat Jun/23 18:00        South Korea   -   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
+(28) Sat Jun/23 18:00        South Korea   1-2 (0-1)   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
+            [H. M. Son 90+3'; Carlos V. 26' (pen.) J. Hernández 66']
 (27) Sat Jun/23 21:00        Germany       -   Sweden       @ Fisht Stadium, Sochi (UTC+3)
 
 (43) Wed Jun/27 17:00        South Korea   -   Germany      @ Kazan Arena, Kazan (UTC+3)
@@ -136,7 +137,8 @@ Group G:
 (14) Mon Jun/18 21:00          Tunisia   1-2 (1-1)   England    @ Volgograd Arena, Volgograd (UTC+3)
             [Sassi 35' (pen.); Kane 11', 90+1']
 
-(29) Sat Jun/23 15:00          Belgium   -   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
+(29) Sat Jun/23 15:00          Belgium   5-2 (3-1)   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
+            [E. Hazard 6' (pen.), 51' R. Lukaku 16', 45+3', Batshuayi 90'; Bronn 18' Khazri 90+3']
 (30) Sun Jun/24 15:00          England   -   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
 (45) Thu Jun/28 20:00          England   -   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
