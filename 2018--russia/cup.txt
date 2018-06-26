@@ -47,24 +47,28 @@ Group A:
 (18) Wed Jun/20 18:00      Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
         [L. Suarez 23']
 
-(33) Mon Jun/25 18:00      Uruguay       -  Russia           @ Samara Arena, Samara (UTC+4)
-(34) Mon Jun/25 17:00      Saudi Arabia  -  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
+(33) Mon Jun/25 18:00      Uruguay       3-0 (2-0)  Russia           @ Samara Arena, Samara (UTC+4)
+        [L. Suarez 10' Cheryshev 23' (o.g.) E. Cavani 90']
+(34) Mon Jun/25 17:00      Saudi Arabia  2-1 (1-1)  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
+        [Salman 45+6' (pen.) Salem 90+5'; M. Salah 22']
 
 
 Group B:
 
- (4) Fri Jun/15 18:00     Morocco      0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+ (4) Fri Jun/15 18:00     Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
         [-; Bouhaddouz 90+5' (o.g.)]  
- (3) Fri Jun/15 21:00     Portugal     3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
+ (3) Fri Jun/15 21:00     Portugal      3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
         [Ronaldo 4' (pen.), 44', 88'; Costa 24', 55' Nacho 58']
 
-(19) Wed Jun/20 15:00     Portugal      1-0 (1-0)   Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
+(19) Wed Jun/20 15:00     Portugal      1-0 (1-0)  Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
         [Ronaldo 4']
 (20) Wed Jun/20 21:00     Iran          0-1 (0-0)  Spain    @ Kazan Arena, Kazan (UTC+3)
         [-; Diego Costa 54']
 
-(35) Mon Jun/25 21:00     Iran          -  Portugal @ Mordovia Arena, Saransk (UTC+3)
-(36) Mon Jun/25 20:00     Spain         -  Morocco  @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+(35) Mon Jun/25 21:00     Iran          1-1 (0-1)  Portugal @ Mordovia Arena, Saransk (UTC+3)
+        [Karim 90+3' (pen.); Quaresma 45']
+(36) Mon Jun/25 20:00     Spain         2-2 (1-1)  Morocco  @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+        [Isco 19' Iago Aspas 90+1'; Boutaib 14' En-Nesyri 81']
 
 
 Group C:
