@@ -83,8 +83,9 @@ Group C:
 (21) Thu Jun/21 20:00     France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
              [Mbappe 34']
 
-(37) Tue Jun/26 17:00     Denmark       -  France    @ Luzhniki Stadium, Moscow (UTC+3)
-(38) Tue Jun/26 17:00     Australia     -  Peru      @ Fisht Stadium, Sochi (UTC+3)
+(37) Tue Jun/26 17:00     Denmark       0-0 (0-0) France    @ Luzhniki Stadium, Moscow (UTC+3)
+(38) Tue Jun/26 17:00     Australia     0-2 (0-1)  Peru      @ Fisht Stadium, Sochi (UTC+3)
+             [-; Carrillo 18' Guerrero 50']
 
 
 Group D:
