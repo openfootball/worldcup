@@ -97,11 +97,13 @@ Group D:
 
 (23) Thu Jun/21 21:00      Argentina   0-3 (0-0)   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
             [-;Rebic 53' Modric 80' Rakitic 90+1']
-(24) Fri Jun/22 18:00      Nigeria     2-0 (0-0)  Iceland    @ Volgograd Arena, Volgograd (UTC+3)
+(24) Fri Jun/22 18:00      Nigeria     2-0 (0-0)   Iceland    @ Volgograd Arena, Volgograd (UTC+3)
             [Musa 49', 75']
 
-(39) Tue Jun/26 21:00      Nigeria     -   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-(40) Tue Jun/26 21:00      Iceland     -   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
+(39) Tue Jun/26 21:00      Nigeria     1-2 (0-1)   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+            [Moses 51' (pen.); Messi 14' Marcos Rojo 86']
+(40) Tue Jun/26 21:00      Iceland     1-2 (0-0)   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
+            [G. Sigurdsson 76' (pen.); Badelj 53' Perisic 90']
 
 
 Group E:
