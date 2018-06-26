@@ -144,7 +144,8 @@ Group G:
 
 (29) Sat Jun/23 15:00          Belgium   5-2 (3-1)   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
             [E. Hazard 6' (pen.), 51' R. Lukaku 16', 45+3', Batshuayi 90'; Bronn 18' Khazri 90+3']
-(30) Sun Jun/24 15:00          England   -   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+(30) Sun Jun/24 15:00          England   6-1 (5-0)   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+            [Stones 8', 40' Kane 22' (pen.), 45+1' (pen.), 62' Lingard 36'; Baloy 78']
 
 (45) Thu Jun/28 20:00          England   -   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
 (46) Thu Jun/28 21:00          Panama    -   Tunisia    @ Mordovia Arena, Saransk (UTC+3)
@@ -157,8 +158,10 @@ Group H:
 (15) Tue Jun/19 18:00          Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow (UTC+3)
             [Krychowiak 86'; Cionek 37' (o.g.) Niang 60']
 
-(32) Sun Jun/24 20:00          Japan      -   Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-(31) Sun Jun/24 21:00          Poland     -   Colombia     @ Kazan Arena, Kazan (UTC+3)
+(32) Sun Jun/24 20:00          Japan      2-2 (1-1)  Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+            [Inui 34' Honda 78'; Mane 11' M. Wague 71']
+(31) Sun Jun/24 21:00          Poland     0-3 (0-1)  Colombia     @ Kazan Arena, Kazan (UTC+3)
+            [-;Y. Mina 40' Falcao 70' Cuadrado 75']
 
 (47) Thu Jun/28 17:00          Japan     -   Poland       @ Volgograd Arena, Volgograd (UTC+3)
 (48) Thu Jun/28 18:00          Senegal   -   Colombia     @ Samara Arena, Samara (UTC+4)
