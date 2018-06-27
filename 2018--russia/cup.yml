@@ -6,9 +6,9 @@ season: 2018
 start_at: 2018-06-14     # 14 June - 15 July
 
 
-# fixtures:
-# - cup
-# - cup_finals
+fixtures:
+- cup
+- cup_finals
 
 
 ######
