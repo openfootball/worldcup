@@ -118,9 +118,10 @@ Group E:
 (26) Fri Jun/22 20:00       Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
             [Mitrovic 5'; Xhaka 52' Shaqiri 90']
 
-(41) Wed Jun/27 21:00       Serbia         -   Brazil         @ Spartak Stadium, Moscow (UTC+3)
-(42) Wed Jun/27 21:00       Switzerland    -   Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-
+(41) Wed Jun/27 21:00       Serbia   0-2 (0-1) Brazil         @ Spartak Stadium, Moscow (UTC+3)
+            [Paulinho 36' Silva 68']
+(42) Wed Jun/27 21:00       Switzerland 2-2 (1-0) Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+            [Dzemaili 31' Drmic 88'; Waston 56' Sommer 90+3' (o.g.)]
 
 Group F:
 
@@ -134,9 +135,10 @@ Group F:
 (27) Sat Jun/23 21:00        Germany       2-1 (0-1)   Sweden       @ Fisht Stadium, Sochi (UTC+3)
             [Reus 48' Kroos 90+5'; Toivonen 32']
 
-(43) Wed Jun/27 17:00        South Korea   -   Germany      @ Kazan Arena, Kazan (UTC+3)
-(44) Wed Jun/27 19:00        Mexico        -   Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-
+(43) Wed Jun/27 17:00        South Korea 2-0 (0-0) Germany      @ Kazan Arena, Kazan (UTC+3)
+            [Kim 90+2' Son 90+6']
+(44) Wed Jun/27 19:00        Mexico 0-3 (0-0)         Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+            [Augustinsson 50' Granqvist 62' (pen.) Alvarez 74' (o.g.)
 
 Group G:
 
