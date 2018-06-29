@@ -9,11 +9,11 @@
 (51) Sun Jul/1  17:00        Spain       -   Russia         @ Luzhniki Stadium, Moscow (UTC+3)                      
 (52) Sun Jul/1  21:00        Croatia     -   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
 
-(53) Mon Jul/2  18:00        Brazil     -   Mexico          @ Samara Arena, Samara (UTC+4)                  
-## (54)
+(53) Mon Jul/2  18:00        Brazil      -   Mexico         @ Samara Arena, Samara (UTC+4)                  
+(54) Mon Jul/2  21:00        Belgium     -   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)                  
 
-(55) Tue Jul/3  17:00        Sweden     -   Switzerland      @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)                  
-## (56) 
+(55) Tue Jul/3  17:00        Sweden      -   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)                  
+(56) Tue Jul/3  21:00        Colombia    -   England        @ Spartak Stadium, Moscow (UTC+3)                  
 
 
 (17) Quarter-finals
