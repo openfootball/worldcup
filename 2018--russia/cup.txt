@@ -152,8 +152,10 @@ Group G:
 (30) Sun Jun/24 15:00          England   6-1 (5-0)   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
             [Stones 8', 40' Kane 22' (pen.), 45+1' (pen.), 62' Lingard 36'; Baloy 78']
 
-(45) Thu Jun/28 20:00          England   -   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
-(46) Thu Jun/28 21:00          Panama    -   Tunisia    @ Mordovia Arena, Saransk (UTC+3)
+(45) Thu Jun/28 20:00          England   0-1 (0-0)   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
+            [-; Adnan Januzaj 51']
+(46) Thu Jun/28 21:00          Panama    1-2 (1-0)   Tunisia    @ Mordovia Arena, Saransk (UTC+3)
+            [Yassine Meriah 33' (o.g.); Fakhereedine Ben Youssef 51' Wahbi Khazri 66']
 
 
 Group H:
