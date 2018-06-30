@@ -3,7 +3,8 @@
 
 (16) Round of 16
 
-(49) Sat Jun/30 21:00        Uruguay     -   Portugal       @ Fisht Stadium, Sochi (UTC+3)
+(49) Sat Jun/30 21:00        Uruguay     2-1 (1-0)   Portugal       @ Fisht Stadium, Sochi (UTC+3)
+        [Edinson Cavani 7', 62'; Pepe 55']
 (50) Sat Jun/30 17:00        France      4-3 (1-1)   Argentina      @ Kazan Arena, Kazan (UTC+3)
         [Antoine Griezmann 13' (pen.) Benjamin Pavard 57' Kylian Mbappé 64', 68'; Ángel Di María 41' Gabriel Mercado 48' Sergio Agüero 90+3']
 
