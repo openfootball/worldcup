@@ -8,8 +8,10 @@
 (50) Sat Jun/30 17:00        France      4-3 (1-1)   Argentina      @ Kazan Arena, Kazan (UTC+3)
         [Antoine Griezmann 13' (pen.) Benjamin Pavard 57' Kylian Mbappé 64', 68'; Ángel Di María 41' Gabriel Mercado 48' Sergio Agüero 90+3']
 
-(51) Sun Jul/1  17:00        Spain       -   Russia         @ Luzhniki Stadium, Moscow (UTC+3)                      
-(52) Sun Jul/1  21:00        Croatia     -   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+(51) Sun Jul/1  17:00        Spain       3-4 pen. 1-1 a.e.t. (1-1, 0-0)   Russia         @ Luzhniki Stadium, Moscow (UTC+3)
+        [Sergei Ignashevich 12' (o.g.); Artem Dzyuba 41' (pen.)]
+(52) Sun Jul/1  21:00        Croatia     3-2 pen. 1-1 a.e.t. (1-1, 0-0)   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+        [Mario Mandžukić 4'; Mathias Jørgensen 1']
 
 (53) Mon Jul/2  18:00        Brazil      -   Mexico         @ Samara Arena, Samara (UTC+4)                  
 (54) Mon Jul/2  21:00        Belgium     -   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)                  
