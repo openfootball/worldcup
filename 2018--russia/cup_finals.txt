@@ -13,7 +13,8 @@
 (52) Sun Jul/1  21:00        Croatia     3-2 pen. 1-1 a.e.t. (1-1, 0-0)   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
         [Mario Mandžukić 4'; Mathias Jørgensen 1']
 
-(53) Mon Jul/2  18:00        Brazil      -   Mexico         @ Samara Arena, Samara (UTC+4)                  
+(53) Mon Jul/2  18:00        Brazil      2-0 (0-0)   Mexico         @ Samara Arena, Samara (UTC+4)                  
+        [Neymar 51' Roberto Firmino 88']
 (54) Mon Jul/2  21:00        Belgium     -   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)                  
 
 (55) Tue Jul/3  17:00        Sweden      -   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)                  
