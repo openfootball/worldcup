@@ -24,8 +24,8 @@
 
 (17) Quarter-finals
 
-(57) Fri Jul/6  17:00        Uruguay     -   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod 
-## (58) 
+(57) Fri Jul/6  17:00        Uruguay     -   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+(58) Fri Jul/6  21:00        Brazil      -   Belgium        @ Kazan Arena, Kazan (UTC+3)
 (59) Sat Jul/7  21:00        Russia      -   Croatia        @ Fisht Stadium, Sochi (UTC+3)
 ## (60) 
 
