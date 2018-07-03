@@ -18,8 +18,10 @@
 (54) Mon Jul/2  21:00        Belgium     3-2 (0-0)   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)                  
         [Jan Vertonghen 69' Marouane Fellaini 74' Nacer Chadli 90+4'; Genki Haraguchi 48' Takashi Inui 52']
 
-(55) Tue Jul/3  17:00        Sweden      -   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)                  
-(56) Tue Jul/3  21:00        Colombia    -   England        @ Spartak Stadium, Moscow (UTC+3)                  
+(55) Tue Jul/3  17:00        Sweden      1-0 (0-0)   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
+        [Emil Forsberg 66']
+(56) Tue Jul/3  21:00        Colombia    3-4 pen. 1-1 a.e.t. (1-1, 0-0)   England        @ Spartak Stadium, Moscow (UTC+3)
+        [Yerry Mina 90+3'; Harry Kane 57' (pen.)]
 
 
 (17) Quarter-finals
