@@ -26,8 +26,10 @@
 
 (17) Quarter-finals
 
-(57) Fri Jul/6  17:00        Uruguay     -   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-(58) Fri Jul/6  21:00        Brazil      -   Belgium        @ Kazan Arena, Kazan (UTC+3)
+(57) Fri Jul/6  17:00        Uruguay     0-2 (0-1)   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
+        [-; Raphaël Varane 40' Antoine Griezmann 61']
+(58) Fri Jul/6  21:00        Brazil      1-2 (0-2)   Belgium        @ Kazan Arena, Kazan (UTC+3)
+        [Renato Augusto 76'; Fernandinho 13' (o.g.) Kevin De Bruyne 31']
 (59) Sat Jul/7  21:00        Russia      -   Croatia        @ Fisht Stadium, Sochi (UTC+3)
 (60) Sat Jul/7  18:00        Sweden      -   England        @ Samara Arena, Samara (UTC+4) 
 
