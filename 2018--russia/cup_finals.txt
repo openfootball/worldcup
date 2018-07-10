@@ -38,7 +38,7 @@
 
 (18) Semi-finals
 
-(61) Tue Jul/10  21:00        France     1-0 (0-0)   Belgium        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+(61) Tue Jul/10  21:00       France      1-0 (0-0)   Belgium        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
         [Samuel Umtiti 51']
 (62) Wed Jul/11  21:00        Croatia    -   England        @ Luzhniki Stadium, Moscow (UTC+3)
 
