@@ -46,7 +46,7 @@
 
 (19) Match for third place
 
-(63) Sat Jul/14  17:00       Belgium    2-0 (1-0)       England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+(63) Sat Jul/14  17:00        Belgium    2-0 (1-0)  England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
         [Thomas Meunier 4' Eden Hazard 82']
 
 (20) Final
