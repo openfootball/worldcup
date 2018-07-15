@@ -39,6 +39,16 @@ Group A:
                              [-; Giménez 89']
 ...
 
+Match for third place
+
+(63) Sat Jul/14  17:00        Belgium    2-0 (1-0)  England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+                                [Thomas Meunier 4' Eden Hazard 82']
+
+Final
+
+(64) Sun Jul/15  18:00       France     4-2 (2-1)   Croatia         @ Luzhniki Stadium, Moscow (UTC+3)
+                                [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
+
 ```
 
 or
@@ -83,6 +93,7 @@ Final
                           [Mario Götze 113']
 
 ```
+
 
 ## Build Your Own `worldcup.db` Copy
 
