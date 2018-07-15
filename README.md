@@ -47,7 +47,7 @@ Match for third place
 Final
 
 (64) Sun Jul/15  18:00   France     4-2 (2-1)   Croatia     @ Luzhniki Stadium, Moscow (UTC+3)
-                           [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
+                   [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
 
 ```
 
