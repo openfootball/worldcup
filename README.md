@@ -33,21 +33,21 @@ Matchday 3  |  Sat Jun/16
 
 Group A:
 
- (1) Thu Jun/14 18:00      Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
-                             [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
- (2) Fri Jun/15 17:00      Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-                             [-; Giménez 89']
+ (1) Thu Jun/14 18:00   Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
+                          [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
+ (2) Fri Jun/15 17:00   Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+                          [-; Giménez 89']
 ...
 
 Match for third place
 
-(63) Sat Jul/14  17:00        Belgium    2-0 (1-0)  England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
-                                [Thomas Meunier 4' Eden Hazard 82']
+(63) Sat Jul/14  17:00   Belgium    2-0 (1-0)  England      @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+                           [Thomas Meunier 4' Eden Hazard 82']
 
 Final
 
-(64) Sun Jul/15  18:00       France     4-2 (2-1)   Croatia         @ Luzhniki Stadium, Moscow (UTC+3)
-                                [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
+(64) Sun Jul/15  18:00   France     4-2 (2-1)   Croatia     @ Luzhniki Stadium, Moscow (UTC+3)
+                           [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
 
 ```
 
