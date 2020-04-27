@@ -1,0 +1,127 @@
+31 datafiles:
+[1/31] >1930--uruguay/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[2/31] >1934--italy/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[3/31] >1938--france/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[4/31] >1950--brazil/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[5/31] >1954--switzerland/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[6/31] >1958--sweden/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[7/31] >1962--chile/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[8/31] >1966--england/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[9/31] >1970--mexico/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[10/31] >1974--west-germany/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[11/31] >1978--argentina/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[12/31] >1982--spain/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[13/31] >1986--mexico/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[14/31] >1986--mexico/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[15/31] >1990--italy/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[16/31] >1990--italy/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[17/31] >1994--united-states/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[18/31] >1994--united-states/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[19/31] >1998--france/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[20/31] >1998--france/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[21/31] >2002--south-korea-n-japan/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[22/31] >2002--south-korea-n-japan/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[23/31] >2006--germany/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[24/31] >2006--germany/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[25/31] >2010--south-africa/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[26/31] >2010--south-africa/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[27/31] >2014--brazil/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[28/31] >2014--brazil/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[29/31] >2018--russia/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[30/31] >2018--russia/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[31/31] >2022--qatar/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+
+
+[1/31] >1930--uruguay/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[2/31] >1934--italy/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[3/31] >1938--france/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[4/31] >1950--brazil/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[5/31] >1954--switzerland/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[6/31] >1958--sweden/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[7/31] >1962--chile/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[8/31] >1966--england/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[9/31] >1970--mexico/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[10/31] >1974--west-germany/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[11/31] >1978--argentina/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[12/31] >1982--spain/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[13/31] >1986--mexico/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[14/31] >1986--mexico/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[15/31] >1990--italy/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[16/31] >1990--italy/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[17/31] >1994--united-states/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[18/31] >1994--united-states/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[19/31] >1998--france/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[20/31] >1998--france/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[21/31] >2002--south-korea-n-japan/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[22/31] >2002--south-korea-n-japan/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[23/31] >2006--germany/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[24/31] >2006--germany/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[25/31] >2010--south-africa/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[26/31] >2010--south-africa/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[27/31] >2014--brazil/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[28/31] >2014--brazil/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[29/31] >2018--russia/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[30/31] >2018--russia/cup_finals.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
+[31/31] >2022--qatar/cup.txt<
+  !!! ERROR !!! - NO sections found; 0 sections
