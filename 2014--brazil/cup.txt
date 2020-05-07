@@ -1,5 +1,5 @@
-############################
-# World Cup 2014 Brazil
+= World Cup 2014        # in Brazil
+
 
 Group A  |  Brazil       Croatia              Mexico         Cameroon
 Group B  |  Spain        Netherlands          Chile          Australia
@@ -15,7 +15,7 @@ Matchday 1  |  Thu Jun/12
 Matchday 2  |  Fri Jun/13
 Matchday 3  |  Sat Jun/14
 Matchday 4  |  Sun Jun/15
-Matchday 5  |  Mon Jun/16 
+Matchday 5  |  Mon Jun/16
 Matchday 6  |  Tue Jun/17
 Matchday 7  |  Wed Jun/18
 Matchday 8  |  Thu Jun/19
@@ -27,11 +27,6 @@ Matchday 13 |  Tue Jun/24
 Matchday 14 |  Wed Jun/25
 Matchday 15 |  Thu Jun/26
 
-(16) Round of 16            |  Sat Jun/28 - Tue Jul/1
-(17) Quarter-finals         |  Fri Jul/4 - Sat Jul/5
-(18) Semi-finals            |  Tue Jul/8 - Wed Jul/9
-(19) Match for third place  |  Sat Jul/12
-(20) Final                  |  Sun Jul/13
 
 
 
@@ -76,7 +71,7 @@ Group C:
 
 (5) Sat Jun/14 13:00   Colombia 3-0 Greece          @ Estádio Mineirão, Belo Horizonte (UTC-3)
                          [Pablo Armero 5' Teofilo Gutiérrez 58' James Rodríguez 90+3']
-                         
+
 (6) Sat Jun/14 22:00   Côte d'Ivoire 2-1 Japan      @ Arena Pernambuco, Recife (UTC-3)
                          [Wilfried Bony 64' Gervinho 66';  Keisuke Honda 16']
 
@@ -108,7 +103,7 @@ Group D:
 
 (39) Tue Jun/24 13:00   Italy 0-1 Uruguay             @ Estádio das Dunas, Natal (UTC-3)
                          [-; Diego Godín 81']
-                         
+
 (40) Tue Jun/24 13:00   Costa Rica 0-0 England        @ Estádio Mineirão, Belo Horizonte (UTC-3)
 
 
@@ -154,7 +149,7 @@ Group G:
 
 (13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
                           [Thomas Müller 12' (pen.), 45+1', 78', Mats Hummels 32']
-                         
+
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
                           [André Ayew 82';  Clint Dempsey 1', John Brooks 86']
 
@@ -175,7 +170,7 @@ Group H:
 (15) Tue Jun/17 13:00   Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
                           [Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli 25' (pen.)]
 (16) Tue Jun/17 18:00   Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
-                          [Alexander Kerzhakov 74'; Lee Keunho 68'] 
+                          [Alexander Kerzhakov 74'; Lee Keunho 68']
 (31) Sun Jun/22 13:00   Belgium 1-0 Russia          @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
                           [Divock Origi 88']
 
