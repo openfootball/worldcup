@@ -3,17 +3,16 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text data sets).
+for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the World Cup (e.g. Russia 2018, Brazil 2014, etc.)
+Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia 2018, Brazil 2014, etc.)
 and the World Cup Quali(fiers). Example:
 
 ```
-############################
-# World Cup 2018 Russia
+= World Cup 2018        # in Russia
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
 Group B  |  Portugal     Spain                Morocco        Iran
@@ -36,7 +35,7 @@ Group A:
  (1) Thu Jun/14 18:00   Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
                           [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
  (2) Fri Jun/15 17:00   Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-                          [-; Giménez 89']
+                          [Giménez 89']
 ...
 
 Match for third place
@@ -54,8 +53,7 @@ Final
 or
 
 ```
-############################
-# World Cup 2014 Brazil
+= World Cup 2014        # in Brazil
 
 Group A  |  Brazil       Croatia              Mexico         Cameroon
 Group B  |  Spain        Netherlands          Chile          Australia
@@ -78,14 +76,14 @@ Group A:
 (1) Thu Jun/12 17:00   Brazil   3-1 (1-1)  Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
                          [Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)]
 (2) Fri Jun/13 13:00   Mexico   1-0 (0-0)  Cameroon      @ Estádio das Dunas, Natal (UTC-3)
-                         [Peralta 61'] 
+                         [Peralta 61']
 
 ...
 
 Match for third place
 
 (63) Sat Jul/12 17:00   Brazil  0-3 (0-2)  Netherlands   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                         [-; Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1']
+                         [Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1']
 
 Final
 
@@ -98,7 +96,7 @@ Final
 ## Build Your Own `worldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
-from the plain text data sets. [More »](https://github.com/openfootball/datafile)
+from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
 
 
 ## Questions? Comments?
