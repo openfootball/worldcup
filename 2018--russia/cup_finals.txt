@@ -1,7 +1,13 @@
-######################
-# Finals
+= World Cup 2018      # Finals
 
-(16) Round of 16
+Round of 16            |  Sat Jun/30 - Tue Jul/3
+Quarter-finals         |  Fri Jul/6 - Sat Jul/7
+Semi-finals            |  Tue Jul/10 - Wed Jul/11
+Match for third place  |  Sat Jul/14
+Final                  |  Sun Jul/15
+
+
+Round of 16
 
 (49) Sat Jun/30 21:00        Uruguay     2-1 (1-0)   Portugal       @ Fisht Stadium, Sochi (UTC+3)
         [Edinson Cavani 7', 62'; Pepe 55']
@@ -13,9 +19,9 @@
 (52) Sun Jul/1  21:00        Croatia     3-2 pen. 1-1 a.e.t. (1-1, 1-1)   Denmark        @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
         [Mario Mandžukić 4'; Mathias Jørgensen 1']
 
-(53) Mon Jul/2  18:00        Brazil      2-0 (0-0)   Mexico         @ Samara Arena, Samara (UTC+4)                  
+(53) Mon Jul/2  18:00        Brazil      2-0 (0-0)   Mexico         @ Samara Arena, Samara (UTC+4)
         [Neymar 51' Roberto Firmino 88']
-(54) Mon Jul/2  21:00        Belgium     3-2 (0-0)   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)                  
+(54) Mon Jul/2  21:00        Belgium     3-2 (0-0)   Japan          @ Rostov Arena, Rostov-on-Don (UTC+3)
         [Jan Vertonghen 69' Marouane Fellaini 74' Nacer Chadli 90+4'; Genki Haraguchi 48' Takashi Inui 52']
 
 (55) Tue Jul/3  17:00        Sweden      1-0 (0-0)   Switzerland    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
@@ -24,7 +30,7 @@
         [Yerry Mina 90+3'; Harry Kane 57' (pen.)]
 
 
-(17) Quarter-finals
+Quarter-finals
 
 (57) Fri Jul/6  17:00        Uruguay     0-2 (0-1)   France         @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
         [-; Raphaël Varane 40' Antoine Griezmann 61']
@@ -36,7 +42,7 @@
         [-; Harry Maguire 30' Dele Alli 58']
 
 
-(18) Semi-finals
+Semi-finals
 
 (61) Tue Jul/10  21:00       France      1-0 (0-0)   Belgium        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
         [Samuel Umtiti 51']
@@ -44,12 +50,12 @@
         [Ivan Perišić 68' Mario Mandžukić 109'; Kieran Trippier 5']
 
 
-(19) Match for third place
+Match for third place
 
 (63) Sat Jul/14  17:00        Belgium    2-0 (1-0)  England         @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
         [Thomas Meunier 4' Eden Hazard 82']
 
-(20) Final
+Final
 
 (64) Sun Jul/15  18:00       France     4-2 (2-1)   Croatia         @ Luzhniki Stadium, Moscow (UTC+3)
         [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']

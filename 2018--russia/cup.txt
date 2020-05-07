@@ -1,5 +1,5 @@
-############################
-# World Cup 2018 Russia
+= World Cup 2018       # in Russia
+
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
 Group B  |  Portugal     Spain                Morocco        Iran
@@ -27,12 +27,6 @@ Matchday 13 |  Tue Jun/26
 Matchday 14 |  Wed Jun/27
 Matchday 15 |  Thu Jun/28
 
-(16) Round of 16            |  Sat Jun/30 - Tue Jul/3
-(17) Quarter-finals         |  Fri Jul/6 - Sat Jul/7
-(18) Semi-finals            |  Tue Jul/10 - Wed Jul/11
-(19) Match for third place  |  Sat Jul/14
-(20) Final                  |  Sun Jul/15
-
 
 
 Group A:
@@ -41,7 +35,7 @@ Group A:
         [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
  (2) Fri Jun/15 17:00      Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
         [-; Giménez 89']
-    
+
 (17) Tue Jun/19 21:00      Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
         [A. Fathi 47' (o.g.) Cheryshev 59' Dzyuba 62'; M. Salah 73' (pen.)]
 (18) Wed Jun/20 18:00      Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
@@ -56,7 +50,7 @@ Group A:
 Group B:
 
  (4) Fri Jun/15 18:00     Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-        [-; Bouhaddouz 90+5' (o.g.)]  
+        [-; Bouhaddouz 90+5' (o.g.)]
  (3) Fri Jun/15 21:00     Portugal      3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
         [Ronaldo 4' (pen.), 44', 88'; Costa 24', 55' Nacho 58']
 
@@ -74,10 +68,10 @@ Group B:
 Group C:
 
  (5) Sat Jun/16 13:00     France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan (UTC+3)
-             [Griezmann 58' (pen.) Behich 81' (o.g.); Jedinak 62' (pen.)]               
+             [Griezmann 58' (pen.) Behich 81' (o.g.); Jedinak 62' (pen.)]
  (6) Sat Jun/16 19:00     Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk (UTC+3)
              [-; Poulsen 59']
- 
+
 (22) Thu Jun/21 16:00     Denmark       1-1 (1-1)  Australia  @ Samara Arena, Samara (UTC+4)
              [Eriksen 7'; Jedinak 38' (pen.)]
 (21) Thu Jun/21 20:00     France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)

@@ -3,7 +3,7 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format).
+for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format.
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -12,7 +12,7 @@ Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia
 and the World Cup Quali(fiers). Example:
 
 ```
-= World Cup 2018        # in Russia
+= World Cup 2018
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
 Group B  |  Portugal     Spain                Morocco        Iran
@@ -53,7 +53,7 @@ Final
 or
 
 ```
-= World Cup 2014        # in Brazil
+= World Cup 2014
 
 Group A  |  Brazil       Croatia              Mexico         Cameroon
 Group B  |  Spain        Netherlands          Chile          Australia
