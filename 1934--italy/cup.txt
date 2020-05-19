@@ -1,4 +1,4 @@
-= World Cup 1934       # in Italy, 27 May – 10 June
+= World Cup 1934       # in Italy, 27 May - 10 June
 
 
 ## fix: add Replay to round too!!!
@@ -7,49 +7,49 @@
 
 Preliminary round
 
-(1) 27 May   Sweden         3–2 (1-1)  Argentina      @ Stadio Littoriale, Bologna
+(1) 27 May   Sweden         3-2 (1-1)  Argentina      @ Stadio Littoriale, Bologna
                [Jonasson 9', 67' Kroon 79';  Belis 4' Galateo 48']
 
-(2) 27 May   Austria        3–2 a.e.t. (1-1, 1-1) France   @ Stadio Benito Mussolini, Turin
+(2) 27 May   Austria        3-2 a.e.t. (1-1, 1-1) France   @ Stadio Benito Mussolini, Turin
                [Sindelar 44' Schall 93' Bican 109';  Nicolas 18' Verriest 116' (pen.)]
 
-(3) 27 May   Germany        5–2 (1-2)  Belgium        @ Stadio Giovanni Berta, Florence
+(3) 27 May   Germany        5-2 (1-2)  Belgium        @ Stadio Giovanni Berta, Florence
                [Kobierski 25' Siffling 49' Conen 66', 70', 87';  Voorhoof 29', 43']
 
-(4) 27 May   Spain          3–1 (3-0)  Brazil   @ Stadio Luigi Ferraris, Genoa
+(4) 27 May   Spain          3-1 (3-0)  Brazil   @ Stadio Luigi Ferraris, Genoa
                [Iraragorri 18' (pen.), 25' Lángara 29'; Leônidas 55']
 
-(5) 27 May   Hungary        4–2 (2-2)  Egypt          @ Stadio Giorgio Ascarelli, Naples
+(5) 27 May   Hungary        4-2 (2-2)  Egypt          @ Stadio Giorgio Ascarelli, Naples
               [Teleki 11' Toldi 27', 61' Vincze 53';  Fawzi 31', 39']
 
-(6) 27 May   Switzerland    3–2 (2-1)  Netherlands    @ Stadio San Siro, Milan
+(6) 27 May   Switzerland    3-2 (2-1)  Netherlands    @ Stadio San Siro, Milan
               [Kielholz 7', 43' Abegglen 69';  Smit 19' Vente 84']
 
-(7) 27 May   Italy          7–1 (3-0)  United States  @ Stadio Nazionale PNF, Rome
+(7) 27 May   Italy          7-1 (3-0)  United States  @ Stadio Nazionale PNF, Rome
               [Schiavio 18', 29', 64' Orsi 20', 69' Ferrari 63' Meazza 90';  Donelli 57']
 
-(8) 27 May   Czechoslovakia 2–1 (0-1)  Romania        @ Stadio Littorio, Trieste
+(8) 27 May   Czechoslovakia 2-1 (0-1)  Romania        @ Stadio Littorio, Trieste
               [Puč 50' Nejedlý 67';  Dobay 11']
 
 
 
 Quarter-finals
 
-(9)  31 May   Czechoslovakia 3–2 (1-1)   Switzerland @ Stadio Benito Mussolini, Turin
+(9)  31 May   Czechoslovakia 3-2 (1-1)   Switzerland @ Stadio Benito Mussolini, Turin
                  [Svoboda 24' Sobotka  49' Nejedlý 82'; Kielholz 18' Jäggi 78']
 
-(10) 31 May   Germany        2–1 (0-0)   Sweden      @ Stadio San Siro, Milan
+(10) 31 May   Germany        2-1 (0-0)   Sweden      @ Stadio San Siro, Milan
                  [Hohmann 60', 63';  Dunker 82']
 
-(11) 31 May   Italy        1–1 a.e.t. (1-1, 1-1)  Spain  @ Stadio Giovanni Berta, Florence
+(11) 31 May   Italy        1-1 a.e.t. (1-1, 1-1)  Spain  @ Stadio Giovanni Berta, Florence
                  [Ferrari 44';  Regueiro 30']
 
-(12) 31 May   Austria        2–1 (1-0)  Hungary     @ Stadio Littoriale, Bologna
+(12) 31 May   Austria        2-1 (1-0)  Hungary     @ Stadio Littoriale, Bologna
                  [Horvath 8' Zischek 51'; Sárosi 60' (pen.)]
 
 Quarter-finals replays     ## Quarter-finals Replayfix- add Replay to round too!!!
 
-(13) 1 June   Italy           1–0 (1-0)  Spain   @ Stadio Giovanni Berta, Florence
+(13) 1 June   Italy           1-0 (1-0)  Spain   @ Stadio Giovanni Berta, Florence
                  [Meazza 11']
 
 Semi-finals
@@ -57,16 +57,16 @@ Semi-finals
 (14) 3 June   Italy           1-0 (1-0)   Austria  @ Stadio San Siro, Milan
                  [Guaita 19']
 
-(15) 3 June   Czechoslovakia  3–1 (1-0)  Germany  @ Stadio Nazionale PNF, Rome
+(15) 3 June   Czechoslovakia  3-1 (1-0)  Germany  @ Stadio Nazionale PNF, Rome
                  [Nejedlý 19', 71', 80'; Noack 62']
 
 Third-place match
 
-(16) 7 June   Germany          3–2 (3-1) Austria    @ Stadio Giorgio Ascarelli, Naples
+(16) 7 June   Germany          3-2 (3-1) Austria    @ Stadio Giorgio Ascarelli, Naples
                  [Lehner 1', 42' Conen 27';  Horvath 28' Sesta 54']
 
 Final
 
-(17) 10 June   Italy 2–1 a.e.t. (1-1, 0-0)  Czechoslovakia  @ Stadio Nazionale PNF, Rome
+(17) 10 June   Italy 2-1 a.e.t. (1-1, 0-0)  Czechoslovakia  @ Stadio Nazionale PNF, Rome
                  [Orsi 81' Schiavio 95';  Puč 71']
 
