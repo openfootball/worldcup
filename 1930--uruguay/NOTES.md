@@ -1,17 +1,11 @@
-##############################################
 # World Cup 1930 Uruguay, 13 July - 30 July
 
-league: world
-season: 1930
-start_at: 1930-07-13
+- start_at: 1930-07-13
+
+fix: add edition: or num:  e.g. num: 1 or edition: 1
 
 
-##
-# fix: add edition: or num:  e.g. num: 1 or edition: 1
-
-# 13 Teams
-
-teams:
+## 13 Teams
 - arg    # Argentina
 - bra    # Brazil
 - bol    # Bolivia
@@ -26,10 +20,3 @@ teams:
 - bel    # Belgium
 - rou    # Romania
 
-# todo:
-#
-# grounds:   # add grounds e.g
-# - maracana            # Rio de Janeiro, RJ
-#
-# todo: add cities
-#  - barsilia  etc

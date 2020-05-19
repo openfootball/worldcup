@@ -1,17 +1,11 @@
-###########################################
 # World Cup 1934 Italy, 27 May – 10 June
 
+- start_at: 1934-05-27
 
-league: world
-season: 1934
-start_at: 1934-05-27
 
-##
-# fix: add edition: or num:  e.g. num: 2 or edition: 2
+fix: add edition: or num:  e.g. num: 2 or edition: 2
 
 # 16 Teams
-
-teams:
 - arg # Argentina
 - bra # Brazil
 - usa # United States
@@ -28,11 +22,3 @@ teams:
 - tch # Czechoslovakia
 - rou # Romania
 - egy # Egypt
-
-# todo:
-#
-# grounds:   # add grounds e.g
-# - maracana            # Rio de Janeiro, RJ
-#
-# todo: add cities
-#  - barsilia  etc

@@ -1,5 +1,4 @@
-###########################################
-# World Cup 1934 Italy, 27 May – 10 June
+= World Cup 1934       # in Italy, 27 May – 10 June
 
 
 ## fix: add Replay to round too!!!

@@ -1,5 +1,4 @@
-##############################################
-# World Cup 1930 Uruguay, 13 July - 30 July
+= World Cup 1930    # in Uruguay, 13 July - 30 July
 
 
 Group 1  |  Argentina      Chile      France     Mexico
@@ -18,8 +17,8 @@ Matchday 7   | 19 July
 Matchday 8   | 20 July
 Matchday 9   | 21 July
 Matchday 10  | 22 July
-(11) Semi-finals  | 26 July - 27 July
-(12) Final        | 30 July
+Semi-finals  | 26 July - 27 July
+Final        | 30 July
 
 
 

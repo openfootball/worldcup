@@ -1,0 +1,4 @@
+####
+#  exclude all databases e.g. sport.db
+
+*.db
