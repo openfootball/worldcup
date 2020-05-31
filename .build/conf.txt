@@ -1,127 +1,416 @@
-31 datafiles:
-[1/31] >1930--uruguay/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[2/31] >1934--italy/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[3/31] >1938--france/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[4/31] >1950--brazil/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[5/31] >1954--switzerland/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[6/31] >1958--sweden/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[7/31] >1962--chile/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[8/31] >1966--england/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[9/31] >1970--mexico/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[10/31] >1974--west-germany/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[11/31] >1978--argentina/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[12/31] >1982--spain/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[13/31] >1986--mexico/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[14/31] >1986--mexico/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[15/31] >1990--italy/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[16/31] >1990--italy/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[17/31] >1994--united-states/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[18/31] >1994--united-states/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[19/31] >1998--france/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[20/31] >1998--france/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[21/31] >2002--south-korea-n-japan/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[22/31] >2002--south-korea-n-japan/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[23/31] >2006--germany/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[24/31] >2006--germany/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[25/31] >2010--south-africa/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[26/31] >2010--south-africa/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[27/31] >2014--brazil/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[28/31] >2014--brazil/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[29/31] >2018--russia/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[30/31] >2018--russia/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[31/31] >2022--qatar/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
+58 datafiles:
+[1/58] >1930--uruguay/cup.txt< - 1 section(s):
+    58 lines, 18 matches - World Cup (worldcup) 1930, 13 team refs, 4 group defs, 4 group refs, 12 round defs, 2 round defs
+[2/58] >1934--italy/cup.txt< - 1 section(s):
+    40 lines, 17 matches - World Cup (worldcup) 1934, 16 team refs, 6 round defs
+[3/58] >1938--france/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[4/58] >1950--brazil/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[5/58] >1954--switzerland/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[6/58] >1958--sweden/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[7/58] >1962--chile/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[8/58] >1966--england/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[9/58] >1970--mexico/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[10/58] >1974--west-germany/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[11/58] >1978--argentina/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[12/58] >1982--spain/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[13/58] >1986--mexico/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[14/58] >1986--mexico/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[15/58] >1990--italy/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[16/58] >1990--italy/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[17/58] >1994--united-states/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[18/58] >1994--united-states/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[19/58] >1998--france/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[20/58] >1998--france/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[21/58] >2002--south-korea-n-japan/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[22/58] >2002--south-korea-n-japan/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[23/58] >2006--germany/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[24/58] >2006--germany/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[25/58] >2010--south-africa/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[26/58] >2010--south-africa/cup_finals.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[27/58] >2014--brazil/cup.txt< - 1 section(s):
+    122 lines, 48 matches - World Cup (worldcup) 2014, 32 team refs, 8 group defs, 8 group refs, 15 round defs, 0 round defs
+[28/58] >2014--brazil/cup_finals.txt< - 1 section(s):
+    40 lines, 16 matches - World Cup (worldcup) 2014, 16 team refs, 5 round defs, 5 round defs
+[29/58] >2014--brazil_quali/africa_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[30/58] >2014--brazil_quali/africa_ii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[31/58] >2014--brazil_quali/africa_playoffs.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[32/58] >2014--brazil_quali/asia_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[33/58] >2014--brazil_quali/asia_ii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[34/58] >2014--brazil_quali/asia_iii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[35/58] >2014--brazil_quali/asia_iv.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[36/58] >2014--brazil_quali/europe.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[37/58] >2014--brazil_quali/europe_a.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[38/58] >2014--brazil_quali/europe_b.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[39/58] >2014--brazil_quali/europe_c.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[40/58] >2014--brazil_quali/europe_d.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[41/58] >2014--brazil_quali/europe_e.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[42/58] >2014--brazil_quali/europe_f.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[43/58] >2014--brazil_quali/europe_g.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[44/58] >2014--brazil_quali/europe_h.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[45/58] >2014--brazil_quali/europe_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[46/58] >2014--brazil_quali/europe_playoffs.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[47/58] >2014--brazil_quali/north_america_hex.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[48/58] >2014--brazil_quali/north_america_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[49/58] >2014--brazil_quali/north_america_ii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[50/58] >2014--brazil_quali/north_america_iii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[51/58] >2014--brazil_quali/pacific_i.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[52/58] >2014--brazil_quali/pacific_ii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[53/58] >2014--brazil_quali/pacific_iii.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[54/58] >2014--brazil_quali/playoffs.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[55/58] >2014--brazil_quali/south_america.txt< - 0 section(s):
+  !! ERROR: NO sections found
+[56/58] >2018--russia/cup.txt< - 1 section(s):
+    126 lines, 48 matches - World Cup (worldcup) 2018, 32 team refs, 8 group defs, 8 group refs, 15 round defs, 0 round defs
+[57/58] >2018--russia/cup_finals.txt< - 1 section(s):
+    42 lines, 16 matches - World Cup (worldcup) 2018, 16 team refs, 5 round defs, 5 round defs
+[58/58] >2022--qatar/cup.txt< - 0 section(s):
+  !! ERROR: NO sections found
 
 
-[1/31] >1930--uruguay/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[2/31] >1934--italy/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[3/31] >1938--france/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[4/31] >1950--brazil/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[5/31] >1954--switzerland/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[6/31] >1958--sweden/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[7/31] >1962--chile/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[8/31] >1966--england/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[9/31] >1970--mexico/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[10/31] >1974--west-germany/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[11/31] >1978--argentina/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[12/31] >1982--spain/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[13/31] >1986--mexico/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[14/31] >1986--mexico/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[15/31] >1990--italy/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[16/31] >1990--italy/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[17/31] >1994--united-states/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[18/31] >1994--united-states/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[19/31] >1998--france/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[20/31] >1998--france/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[21/31] >2002--south-korea-n-japan/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[22/31] >2002--south-korea-n-japan/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[23/31] >2006--germany/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[24/31] >2006--germany/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[25/31] >2010--south-africa/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[26/31] >2010--south-africa/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[27/31] >2014--brazil/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[28/31] >2014--brazil/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[29/31] >2018--russia/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[30/31] >2018--russia/cup_finals.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
-[31/31] >2022--qatar/cup.txt<
-  !!! ERROR !!! - NO sections found; 0 sections
+[1/58] >1930--uruguay/cup.txt< - 1 section(s):
+    58 lines, 18 matches - World Cup (worldcup) 1930
+      13 teams (referenced):
+        5× Argentina
+        4× Uruguay
+        3× Chile
+        3× France
+        3× Mexico
+        3× United States
+        3× Yugoslavia ⇒ Yugoslavia (-2003)
+        2× Belgium
+        2× Bolivia
+        2× Brazil
+        2× Paraguay
+        2× Peru
+        2× Romania
+      4 groups (referenced):
+        Group 1:, 6 matches
+        Group 2:, 3 matches
+        Group 3:, 3 matches
+        Group 4:, 6 matches
+      12 rounds (defined):
+        Matchday 1   | 13 July
+        Matchday 2   | 14 July
+        Matchday 3   | 15 July
+        Matchday 4   | 16 July
+        Matchday 5   | 17 July
+        Matchday 6   | 18 July
+        Matchday 7   | 19 July
+        Matchday 8   | 20 July
+        Matchday 9   | 21 July
+        Matchday 10  | 22 July
+        Semi-finals  | 26 July - 27 July
+        Final        | 30 July
+      2 rounds (referenced):
+        Semi-finals, 2 matches
+        Final, 1 matches
+[2/58] >1934--italy/cup.txt< - 1 section(s):
+    40 lines, 17 matches - World Cup (worldcup) 1934
+      16 teams (referenced):
+        5× Italy
+        4× Austria
+        4× Czechoslovakia ⇒ Czechoslovakia (-1992)
+        4× Germany
+        3× Spain
+        2× Hungary
+        2× Sweden
+        2× Switzerland
+        Argentina
+        Belgium
+        Brazil
+        Egypt
+        France
+        Netherlands
+        Romania
+        United States
+      6 rounds (referenced):
+        Preliminary round, 8 matches
+        Quarter-finals, 4 matches
+        Quarter-finals replays, 1 matches
+        Semi-finals, 2 matches
+        Third-place match, 1 matches
+        Final, 1 matches
+[3/58] >1938--france/cup.txt< - 0 section(s):
+[4/58] >1950--brazil/cup.txt< - 0 section(s):
+[5/58] >1954--switzerland/cup.txt< - 0 section(s):
+[6/58] >1958--sweden/cup.txt< - 0 section(s):
+[7/58] >1962--chile/cup.txt< - 0 section(s):
+[8/58] >1966--england/cup.txt< - 0 section(s):
+[9/58] >1970--mexico/cup.txt< - 0 section(s):
+[10/58] >1974--west-germany/cup.txt< - 0 section(s):
+[11/58] >1978--argentina/cup.txt< - 0 section(s):
+[12/58] >1982--spain/cup.txt< - 0 section(s):
+[13/58] >1986--mexico/cup.txt< - 0 section(s):
+[14/58] >1986--mexico/cup_finals.txt< - 0 section(s):
+[15/58] >1990--italy/cup.txt< - 0 section(s):
+[16/58] >1990--italy/cup_finals.txt< - 0 section(s):
+[17/58] >1994--united-states/cup.txt< - 0 section(s):
+[18/58] >1994--united-states/cup_finals.txt< - 0 section(s):
+[19/58] >1998--france/cup.txt< - 0 section(s):
+[20/58] >1998--france/cup_finals.txt< - 0 section(s):
+[21/58] >2002--south-korea-n-japan/cup.txt< - 0 section(s):
+[22/58] >2002--south-korea-n-japan/cup_finals.txt< - 0 section(s):
+[23/58] >2006--germany/cup.txt< - 0 section(s):
+[24/58] >2006--germany/cup_finals.txt< - 0 section(s):
+[25/58] >2010--south-africa/cup.txt< - 0 section(s):
+[26/58] >2010--south-africa/cup_finals.txt< - 0 section(s):
+[27/58] >2014--brazil/cup.txt< - 1 section(s):
+    122 lines, 48 matches - World Cup (worldcup) 2014
+      32 teams (referenced):
+        3× Algeria
+        3× Argentina
+        3× Australia
+        3× Belgium
+        3× Bosnia-Herzegovina ⇒ Bosnia and Herzegovina
+        3× Brazil
+        3× Cameroon
+        3× Chile
+        3× Colombia
+        3× Costa Rica
+        3× Croatia
+        3× Côte d'Ivoire
+        3× Ecuador
+        3× England
+        3× France
+        3× Germany
+        3× Ghana
+        3× Greece
+        3× Honduras
+        3× Iran
+        3× Italy
+        3× Japan
+        3× Mexico
+        3× Netherlands
+        3× Nigeria
+        3× Portugal
+        3× Russia
+        3× South Korea
+        3× Spain
+        3× Switzerland
+        3× United States
+        3× Uruguay
+      8 groups (referenced):
+        Group A:, 6 matches
+        Group B:, 6 matches
+        Group C:, 6 matches
+        Group D:, 6 matches
+        Group E:, 6 matches
+        Group F:, 6 matches
+        Group G:, 6 matches
+        Group H:, 6 matches
+      15 rounds (defined):
+        Matchday 1  |  Thu Jun/12
+        Matchday 2  |  Fri Jun/13
+        Matchday 3  |  Sat Jun/14
+        Matchday 4  |  Sun Jun/15
+        Matchday 5  |  Mon Jun/16
+        Matchday 6  |  Tue Jun/17
+        Matchday 7  |  Wed Jun/18
+        Matchday 8  |  Thu Jun/19
+        Matchday 9  |  Fri Jun/20
+        Matchday 10 |  Sat Jun/21
+        Matchday 11 |  Sun Jun/22
+        Matchday 12 |  Mon Jun/23
+        Matchday 13 |  Tue Jun/24
+        Matchday 14 |  Wed Jun/25
+        Matchday 15 |  Thu Jun/26
+[28/58] >2014--brazil/cup_finals.txt< - 1 section(s):
+    40 lines, 16 matches - World Cup (worldcup) 2014
+      16 teams (referenced):
+        4× Argentina
+        4× Brazil
+        4× Germany
+        4× Netherlands
+        2× Belgium
+        2× Colombia
+        2× Costa Rica
+        2× France
+        Algeria
+        Chile
+        Greece
+        Mexico
+        Nigeria
+        Switzerland
+        United States
+        Uruguay
+      5 rounds (defined):
+        Round of 16            |  Sat Jun/28 - Tue Jul/1
+        Quarter-finals         |  Fri Jul/4 - Sat Jul/5
+        Semi-finals            |  Tue Jul/8 - Wed Jul/9
+        Match for third place  |  Sat Jul/12
+        Final                  |  Sun Jul/13
+      5 rounds (referenced):
+        Round of 16, 8 matches
+        Quarter-finals, 4 matches
+        Semi-finals, 2 matches
+        Match for third place, 1 matches
+        Final, 1 matches
+[29/58] >2014--brazil_quali/africa_i.txt< - 0 section(s):
+[30/58] >2014--brazil_quali/africa_ii.txt< - 0 section(s):
+[31/58] >2014--brazil_quali/africa_playoffs.txt< - 0 section(s):
+[32/58] >2014--brazil_quali/asia_i.txt< - 0 section(s):
+[33/58] >2014--brazil_quali/asia_ii.txt< - 0 section(s):
+[34/58] >2014--brazil_quali/asia_iii.txt< - 0 section(s):
+[35/58] >2014--brazil_quali/asia_iv.txt< - 0 section(s):
+[36/58] >2014--brazil_quali/europe.txt< - 0 section(s):
+[37/58] >2014--brazil_quali/europe_a.txt< - 0 section(s):
+[38/58] >2014--brazil_quali/europe_b.txt< - 0 section(s):
+[39/58] >2014--brazil_quali/europe_c.txt< - 0 section(s):
+[40/58] >2014--brazil_quali/europe_d.txt< - 0 section(s):
+[41/58] >2014--brazil_quali/europe_e.txt< - 0 section(s):
+[42/58] >2014--brazil_quali/europe_f.txt< - 0 section(s):
+[43/58] >2014--brazil_quali/europe_g.txt< - 0 section(s):
+[44/58] >2014--brazil_quali/europe_h.txt< - 0 section(s):
+[45/58] >2014--brazil_quali/europe_i.txt< - 0 section(s):
+[46/58] >2014--brazil_quali/europe_playoffs.txt< - 0 section(s):
+[47/58] >2014--brazil_quali/north_america_hex.txt< - 0 section(s):
+[48/58] >2014--brazil_quali/north_america_i.txt< - 0 section(s):
+[49/58] >2014--brazil_quali/north_america_ii.txt< - 0 section(s):
+[50/58] >2014--brazil_quali/north_america_iii.txt< - 0 section(s):
+[51/58] >2014--brazil_quali/pacific_i.txt< - 0 section(s):
+[52/58] >2014--brazil_quali/pacific_ii.txt< - 0 section(s):
+[53/58] >2014--brazil_quali/pacific_iii.txt< - 0 section(s):
+[54/58] >2014--brazil_quali/playoffs.txt< - 0 section(s):
+[55/58] >2014--brazil_quali/south_america.txt< - 0 section(s):
+[56/58] >2018--russia/cup.txt< - 1 section(s):
+    126 lines, 48 matches - World Cup (worldcup) 2018
+      32 teams (referenced):
+        3× Argentina
+        3× Australia
+        3× Belgium
+        3× Brazil
+        3× Colombia
+        3× Costa Rica
+        3× Croatia
+        3× Denmark
+        3× Egypt
+        3× England
+        3× France
+        3× Germany
+        3× Iceland
+        3× Iran
+        3× Japan
+        3× Mexico
+        3× Morocco
+        3× Nigeria
+        3× Panama
+        3× Peru
+        3× Poland
+        3× Portugal
+        3× Russia
+        3× Saudi Arabia
+        3× Senegal
+        3× Serbia
+        3× South Korea
+        3× Spain
+        3× Sweden
+        3× Switzerland
+        3× Tunisia
+        3× Uruguay
+      8 groups (referenced):
+        Group A:, 6 matches
+        Group B:, 6 matches
+        Group C:, 6 matches
+        Group D:, 6 matches
+        Group E:, 6 matches
+        Group F:, 6 matches
+        Group G:, 6 matches
+        Group H:, 6 matches
+      15 rounds (defined):
+        Matchday 1  |  Thu Jun/14
+        Matchday 2  |  Fri Jun/15
+        Matchday 3  |  Sat Jun/16
+        Matchday 4  |  Sun Jun/17
+        Matchday 5  |  Mon Jun/18
+        Matchday 6  |  Tue Jun/19
+        Matchday 7  |  Wed Jun/20
+        Matchday 8  |  Thu Jun/21
+        Matchday 9  |  Fri Jun/22
+        Matchday 10 |  Sat Jun/23
+        Matchday 11 |  Sun Jun/24
+        Matchday 12 |  Mon Jun/25
+        Matchday 13 |  Tue Jun/26
+        Matchday 14 |  Wed Jun/27
+        Matchday 15 |  Thu Jun/28
+[57/58] >2018--russia/cup_finals.txt< - 1 section(s):
+    42 lines, 16 matches - World Cup (worldcup) 2018
+      16 teams (referenced):
+        4× Belgium
+        4× Croatia
+        4× England
+        4× France
+        2× Brazil
+        2× Russia
+        2× Sweden
+        2× Uruguay
+        Argentina
+        Colombia
+        Denmark
+        Japan
+        Mexico
+        Portugal
+        Spain
+        Switzerland
+      5 rounds (defined):
+        Round of 16            |  Sat Jun/30 - Tue Jul/3
+        Quarter-finals         |  Fri Jul/6 - Sat Jul/7
+        Semi-finals            |  Tue Jul/10 - Wed Jul/11
+        Match for third place  |  Sat Jul/14
+        Final                  |  Sun Jul/15
+      5 rounds (referenced):
+        Round of 16, 8 matches
+        Quarter-finals, 4 matches
+        Semi-finals, 2 matches
+        Match for third place, 1 matches
+        Final, 1 matches
+[58/58] >2022--qatar/cup.txt< - 0 section(s):

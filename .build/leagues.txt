@@ -1,0 +1,63 @@
+# Leagues
+
+  World Cup - 4 records
+    World Cup 1930  - teams: 13, matches: 18, rounds: 12
+    World Cup 1934  - teams: 16, matches: 17, rounds: 6
+    World Cup 2014  - teams: 32, matches: 64, rounds: 20
+    World Cup 2018  - teams: 32, matches: 64, rounds: 20
+
+World Cup  - 4 seasons
+
+  1. Argentina                  4  (2018, 2014, 1934, 1930)
+  2. Belgium                    4  (2018, 2014, 1934, 1930)
+  3. Brazil                     4  (2018, 2014, 1934, 1930)
+  4. France                     4  (2018, 2014, 1934, 1930)
+  5. Germany                    3  (2018, 2014, 1934)
+  6. Mexico                     3  (2018, 2014, 1930)
+  7. Spain                      3  (2018, 2014, 1934)
+  8. Switzerland                3  (2018, 2014, 1934)
+  9. United States              3  (2014, 1934, 1930)
+ 10. Uruguay                    3  (2018, 2014, 1930)
+ 11. Australia                  2  (2018, 2014)
+ 12. Chile                      2  (2014, 1930)
+ 13. Colombia                   2  (2018, 2014)
+ 14. Costa Rica                 2  (2018, 2014)
+ 15. Croatia                    2  (2018, 2014)
+ 16. Egypt                      2  (2018, 1934)
+ 17. England                    2  (2018, 2014)
+ 18. Iran                       2  (2018, 2014)
+ 19. Italy                      2  (2014, 1934)
+ 20. Japan                      2  (2018, 2014)
+ 21. Netherlands                2  (2014, 1934)
+ 22. Nigeria                    2  (2018, 2014)
+ 23. Peru                       2  (2018, 1930)
+ 24. Portugal                   2  (2018, 2014)
+ 25. Romania                    2  (1934, 1930)
+ 26. Russia                     2  (2018, 2014)
+ 27. South Korea                2  (2018, 2014)
+ 28. Sweden                     2  (2018, 1934)
+ 29. Algeria                    1  (2014)
+ 30. Austria                    1  (1934)
+ 31. Bolivia                    1  (1930)
+ 32. Bosnia and Herzegovina     1  (2014)
+ 33. Cameroon                   1  (2014)
+ 34. Czechoslovakia (-1992)     1  (1934)
+ 35. Côte d'Ivoire              1  (2014)
+ 36. Denmark                    1  (2018)
+ 37. Ecuador                    1  (2014)
+ 38. Ghana                      1  (2014)
+ 39. Greece                     1  (2014)
+ 40. Honduras                   1  (2014)
+ 41. Hungary                    1  (1934)
+ 42. Iceland                    1  (2018)
+ 43. Morocco                    1  (2018)
+ 44. Panama                     1  (2018)
+ 45. Paraguay                   1  (1930)
+ 46. Poland                     1  (2018)
+ 47. Saudi Arabia               1  (2018)
+ 48. Senegal                    1  (2018)
+ 49. Serbia                     1  (2018)
+ 50. Tunisia                    1  (2018)
+ 51. Yugoslavia (-2003)         1  (1930)
+
+
