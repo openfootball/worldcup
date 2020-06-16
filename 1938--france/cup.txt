@@ -1,5 +1,4 @@
-############################################
-# World Cup 1938 France, 4 June - 19 June
+= World Cup 1938      # in France, 4 June - 19 June
 
 
 ### todo/fix:
@@ -42,7 +41,7 @@ First round
 # - use no match number?  (add new num for match number?) use pos only for internal-use (e.g sort order)?
 #
 # 5 June     Sweden         - (*)        Austria            @ Stade Gerland, Lyon
-# (*) w/o - walkout 
+# (*) w/o - walkout
 
 First round replays
 

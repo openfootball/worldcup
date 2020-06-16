@@ -1,5 +1,4 @@
-################################################
-# World Cup 1950 Brazil, 24 June - 16 July
+= World Cup 1950       # in Brazil, 24 June - 16 July
 
 
 Group 1  |   Brazil   Mexico   Switzerland    Yugoslavia
@@ -7,6 +6,8 @@ Group 2  |   England  Chile    Spain          United States
 Group 3  |   Italy    India    Paraguay       Sweden
 Group 4  |   Uruguay  Bolivia  France
 
+
+First round |   24 June - 2 July
 
 ## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
 ##   - yes, use Group F
@@ -68,12 +69,13 @@ Group 4:
 ## yes - use Group F for now for Final
 ## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
 ## todo: final round (just regular matches; not knock out matches)
+### fix: add group f to final round - how?
 
 Group F |  Uruguay  Brazil  Sweden  Spain
 
-### fix: add group f to final round - how?
+Final Round | 9 July - 16 July
 
-Final Round
+Group F:
 
 (17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
                    [Ghiggia 29' Varela 73';  Basora 37', 39']

@@ -1,11 +1,15 @@
-###########################################
-# World Cup 1962 Chile, 30 May - 17 June
+= World Cup 1962     # in Chile, 30 May - 17 June
 
 
 Group 1  |  Soviet Union    Yugoslavia      Uruguay    Colombia
-Group 2  |  West Germany    Chile           Italy      Switzerland 
+Group 2  |  West Germany    Chile           Italy      Switzerland
 Group 3  |  Brazil          Czechoslovakia  Mexico     Spain
 Group 4  |  Hungary         England         Argentina  Bulgaria
+
+Matchday 1 |   30 May - 31 May
+Matchday 2 |    2 June - 3 June
+Matchday 3 |    6 June - 7 June
+
 
 
 Group 1:

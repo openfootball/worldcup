@@ -1,16 +1,11 @@
-################################################
 # World Cup 1950 Brazil, 24 June - 16 July
 
-league: world
-season: 1950
-start_at: 1950-06-24
+- start_at: 1950-06-24
+- fix: add edition: or num:  e.g. num: 4 or edition: 4
 
-##
-# fix: add edition: or num:  e.g. num: 4 or edition: 4
+## 13 Teams
 
-# 13 Teams
-
-teams:
+```
 ## Europe
 - eng # England
 - ita # Italy
@@ -27,4 +22,5 @@ teams:
 - chi # Chile
 - par # Paraguay
 - uru # Uruguay
+```
 

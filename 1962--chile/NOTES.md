@@ -1,15 +1,11 @@
-###########################################
 # World Cup 1962 Chile, 30 May - 17 June
 
-league: world
-season: 1962
-start_at: 1962-05-30
+- start_at: 1962-05-30
+- fix: add edition: or num:  e.g. num: 7 or edition: 7
 
-##
-# fix: add edition: or num:  e.g. num: 7 or edition: 7
+## 16 Teams
 
-# 16 Teams
-teams:
+```
 ## Europe
 - bul # Bulgaria
 - tch # Czechoslovakia
@@ -29,4 +25,5 @@ teams:
 - chi # Chile
 - col # Colombia
 - uru # Uruguay
+```
 

@@ -1,15 +1,11 @@
-##########################################
 # World Cup 1958 Sweden, 8 - 29 June
 
-league: world
-season: 1958
-start_at: 1958-06-08
+- start_at: 1958-06-08
+- fix: add edition: or num:  e.g. num: 6 or edition: 6
 
-##
-# fix: add edition: or num:  e.g. num: 6 or edition: 6
+## 16 Teams
 
-# 16 Teams
-teams:
+```
 ## Europe
 - aut # Austria
 - tch # Czechoslovakia
@@ -29,3 +25,5 @@ teams:
 - arg # Argentina
 - bra # Brazil
 - par # Paraguay
+```
+

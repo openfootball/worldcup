@@ -1,12 +1,10 @@
-#############################################
 # World Cup 1970 Mexico, 31 May - 21 June
 
-league: world
-season: 1970
-start_at: 1970-05-31
+- start_at: 1970-05-31
 
-# 16 Teams
-teams:
+## 16 Teams
+
+```
 # -- Africa
 - mar # Morocco
 # -- Europe
@@ -27,4 +25,5 @@ teams:
 - bra # Brazil
 - per # Peru
 - uru # Uruguay
+```
 

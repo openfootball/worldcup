@@ -1,16 +1,11 @@
-##################################################
 # World Cup 1954 Switzerland, 16 June - 4 July
 
-league: world
-season: 1954
-start_at: 1954-06-16
+- start_at: 1954-06-16
+- fix: add edition: or num:  e.g. num: 5 or edition: 5
 
-##
-# fix: add edition: or num:  e.g. num: 5 or edition: 5
+## 16 Teams
 
-# 16 Teams
-
-teams:
+```
 ## Asia
 - kor # Korea Republic
 ## Europe
@@ -31,3 +26,5 @@ teams:
 ## South America
 - bra # Brazil
 - uru # Uruguay
+```
+

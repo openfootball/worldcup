@@ -1,16 +1,11 @@
-############################################
 # World Cup 1938 France, 4 June - 19 June
 
-league: world
-season: 1938
-start_at: 1938-06-04
+- start_at: 1938-06-04
+- fix: add edition: or num:  e.g. num: 3 or edition: 3
 
-##
-# fix: add edition: or num:  e.g. num: 3 or edition: 3
+## 15 Teams
 
-# 15 Teams
-
-teams:
+```
 ## Asia
 - dei  # Dutch East Indies
 ## Europe
@@ -30,4 +25,7 @@ teams:
 - cub  # Cuba
 ## South America
 - bra  # Brazil
+```
+
+
 

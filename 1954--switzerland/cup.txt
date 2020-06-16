@@ -1,5 +1,4 @@
-##################################################
-# World Cup 1954 Switzerland, 16 June - 4 July
+= World Cup 1954     # in Switzerland, 16 June - 4 July
 
 
 Group 1  |  Brazil   Yugoslavia    France          Mexico
@@ -9,6 +8,9 @@ Group 4  |  England  Switzerland   Italy           Belgium
 
 ### todo: add match day
 ##  todo: check if group header clear round in reader (e.g  Group 2 play-off and Group 3:)!!
+
+Matchday 1  | 16 June - 17 June
+Matchday 2  | 19 June - 20 June
 
 
 Group 1:
@@ -76,7 +78,7 @@ Semi-finals
 (22) 30 June    Hungary      4-2 a.e.t. 2-2  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
 
 
-Third-place match
+Third-place match         ## use just Third-place  - why? why not?
 
 (23) 3 July     Uruguay         1-3    Austria   @ Hardturm Stadium, Zürich
 
