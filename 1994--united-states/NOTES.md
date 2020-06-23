@@ -1,16 +1,11 @@
-########################################################
 # World Cup 1994 United States, 17 June - 17 July 1994
 
-league: world
-season: 1994
-start_at: 1994-06-17
+- start_at: 1994-06-17
 
-fixtures:
-- cup
-- cup_finals
 
-# 24 Teams
-teams:
+## 24 Teams
+
+```
 # -- Africa
 - cmr # Cameroon
 - mar # Morocco
@@ -40,3 +35,5 @@ teams:
 - bol # Bolivia
 - bra # Brazil
 - col # Colombia
+```
+

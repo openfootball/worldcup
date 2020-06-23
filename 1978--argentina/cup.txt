@@ -1,5 +1,4 @@
-###########################################
-# World Cup 1978 Argentina, 1 - 25 June
+= World Cup 1978         # in Argentina, 1 - 25 June
 
 
 Group 1  |   Italy    Argentina     France     Hungary
@@ -7,6 +6,9 @@ Group 2  |   Poland   West Germany  Tunisia    Mexico
 Group 3  |   Austria  Brazil        Spain      Sweden
 Group 4  |   Peru     Netherlands   Scotland   Iran
 
+Matchday 1 |   1 June - 3 June
+Matchday 2 |   6 June - 7 June
+Matchday 3 |  10 June - 11 June
 
 
 Group 1:
@@ -60,15 +62,17 @@ Group 4:
 #### Second Round
 ## todo/fix: add stage/add stage key to rounds
 
-#
-# Group A -> I
-# Group B -> J   - fix: use Group A,B etc.
+Group A  |  Netherlands   Italy     West Germany   Austria
+Group B  |  Argentina     Brazil    Poland         Peru
 
-Group I  |  Netherlands   Italy     West Germany   Austria
-Group J  |  Argentina     Brazil    Poland         Peru
+## todo/check: use Matchday 2.1, 2.2, 2.3 or such - why? why not?
+
+Matchday 4 |  14 June
+Matchday 5 |  18 June
+Matchday 6 |  21 June
 
 
-Group I:
+Group A:
 
 (25) 14 June   Italy          0-0    West Germany  @ Estadio Monumental, Buenos Aires
 (27) 14 June   Austria        1-5    Netherlands   @ Estadio Chateau Carreras, Córdoba
@@ -80,7 +84,7 @@ Group I:
 (35) 21 June   Austria        3-2    West Germany   @ Estadio Chateau Carreras, Córdoba
 
 
-Group J:
+Group B:
 
 (26) 14 June   Argentina      2-0    Poland    @ Estadio Gigante de Arroyito, Rosario
 (28) 14 June   Peru           0-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
@@ -90,6 +94,7 @@ Group J:
 
 (34) 21 June   Argentina      6-0    Peru      @ Estadio Gigante de Arroyito, Rosario
 (36) 21 June   Poland         1-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza
+
 
 Third place match
 

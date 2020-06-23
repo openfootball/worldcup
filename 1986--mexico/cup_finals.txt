@@ -1,5 +1,4 @@
-##############################################
-# World Cup 1986 Mexico, 31 May-29 June
+= World Cup 1986        # in Mexico, 31 May-29 June
 
 
 ### --- Knockout stage

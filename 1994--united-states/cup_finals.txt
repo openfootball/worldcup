@@ -1,5 +1,4 @@
-########################################################
-# World Cup 1994 United States, 17 June - 17 July 1994
+= World Cup 1994      # in United States, 17 June - 17 July 1994
 
 
 # --- Knockout stage

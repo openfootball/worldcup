@@ -1,50 +1,45 @@
-#############################################
-# World Cup 1998 France, 10 June - 12 July
+# World Cup 2002 in Korea n Japan, 31 May - 30 June
 
-league: world
-season: 1998
-start_at: 1998-06-10
+- start_at: 2002-05-31
 
-fixtures:
-- cup
-- cup_finals
+## 32 Teams
 
-# 32 Teams
-teams:
+```
 # -- Africa
 - cmr # Cameroon
-- mar # Morocco
 - nga # Nigeria
+- sen # Senegal
 - rsa # South Africa
 - tun # Tunisia
 # -- Asia
-- irn # Iran
+- chn # China
 - jpn # Japan
 - kor # South Korea
 - ksa # Saudi Arabia
 # -- Europe
-- aut # Austria
 - bel # Belgium
-- bul # Bulgaria
 - cro # Croatia
 - den # Denmark
 - eng # England
 - fra # France
 - ger # Germany
 - ita # Italy
-- ned # Netherlands
-- nor # Norway
-- rou # Romania
-- sco # Scotland
+- pol # Poland
+- por # Portugal
+- irl # Ireland
+- rus # Russia
+- svn # Slovenia
 - esp # Spain
-- yug # Yugoslavia
+- swe # Sweden
+- tur # Turkey
 # -- North and Central America
-- jam # Jamaica
+- crc # Costa Rica
 - mex # Mexico
-- usa # USA
+- usa # United States
 # -- South America
 - arg # Argentina
 - bra # Brazil
-- chi # Chile
-- col # Colombia
+- ecu # Ecuador
 - par # Paraguay
+- uru # Uruguay
+```

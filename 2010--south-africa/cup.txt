@@ -1,5 +1,4 @@
-################################
-# World Cup 2010 South Africa
+= World Cup 2010          # in South Africa
 
 
 Group A  |  South Africa    Mexico              Uruguay          France
@@ -33,7 +32,7 @@ Group A:
 
 (1) Fri Jun/11 16:00    South Africa  1-1  Mexico      @ Soccer City, Johannesburg
 (2) Fri Jun/11 20:30    Uruguay       0-0  France      @ Cape Town Stadium, Cape Town
- 
+
 (17) Wed Jun/16 20:30    South Africa  0-3  Uruguay    @ Loftus Versfeld Stadium, Pretoria
 
 (18) Thu Jun/17 20:30    France        0-2  Mexico     @ Peter Mokaba Stadium, Polokwane

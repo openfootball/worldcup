@@ -1,5 +1,4 @@
-##########################################
-# World Cup 2006 Germany / Deutschland
+= World Cup 2006        # in Germany / Deutschland
 
 Group A  | Germany      Ecuador       Poland          Costa Rica
 Group B  | England      Sweden        Paraguay        Trinidad and Tobago

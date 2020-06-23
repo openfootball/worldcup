@@ -1,3 +1,6 @@
+= World Cup 2006        # in Germany / Deutschland
+
+
 #############
 # Finals
 

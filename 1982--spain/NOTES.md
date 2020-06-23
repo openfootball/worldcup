@@ -1,13 +1,11 @@
-#############################################
 # World Cup 1982 Spain 13 June - 11 July
 
-league: world
-season: 1982
-start_at: 1982-06-13
+- start_at: 1982-06-13
 
 
-# 24 Teams
-teams:
+## 24 Teams
+
+```
 ## -- Africa
 - alg # Algeria
 - cmr # Cameroon
@@ -38,4 +36,6 @@ teams:
 - bra # Brazil
 - chi # Chile
 - per # Peru
+```
+
 

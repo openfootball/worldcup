@@ -1,5 +1,4 @@
-#######################################################
-# World Cup 1990 Italy, 8 June - 8 July 1990
+= World Cup 1990       # in Italy, 8 June - 8 July 1990
 
 
 # --- Knockout stage

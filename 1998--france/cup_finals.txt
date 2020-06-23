@@ -1,5 +1,4 @@
-#############################################
-# World Cup 1998 France, 10 June - 12 July
+= World Cup 1998        # in France, 10 June - 12 July
 
 # --- Knockout stage
 

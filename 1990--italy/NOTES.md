@@ -1,16 +1,12 @@
-#######################################################
 # World Cup 1990 Italy, 8 June - 8 July 1990
 
-league: world
-season: 1990
-start_at: 1990-06-08
+- start_at: 1990-06-08
 
-fixtures:
-- cup
-- cup_finals
 
-# 24 Teams
-teams:
+
+## 24 Teams
+
+```
 # -- Africa
 - cmr # Cameroon
 - egy # Egypt
@@ -40,3 +36,6 @@ teams:
 - bra # Brazil
 - col # Colombia
 - uru # Uruguay
+```
+
+

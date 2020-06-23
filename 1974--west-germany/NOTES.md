@@ -1,13 +1,11 @@
-##################################################
 # World Cup 1974 West Germany, 13 June - 7 July
 
-league: world
-season: 1974
-start_at: 1974-06-13
+- start_at: 1974-06-13
 
 
-# 16 Teams
-teams:
+## 16 Teams
+
+```
 # -- Africa
 - zai # Zaire
 # -- Asia
@@ -29,3 +27,4 @@ teams:
 - bra # Brazil
 - chi # Chile
 - uru # Uruguay
+```

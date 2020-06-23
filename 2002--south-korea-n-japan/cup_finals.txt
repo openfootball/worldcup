@@ -1,5 +1,4 @@
-####################################################
-# World Cup 2002 Korea n Japan, 31 May - 30 June
+= World Cup 2002      # in Korea n Japan, 31 May - 30 June
 
 
 # --- Knockout stage

@@ -1,10 +1,14 @@
-##################################################
-# World Cup 1974 West Germany, 13 June - 7 July
+= World Cup 1974        # in West Germany, 13 June - 7 July
 
 Group 1  |  East Germany   West Germany    Chile         Australia
 Group 2  |  Yugoslavia     Brazil          Scotland      Zaire
 Group 3  |  Netherlands    Sweden          Bulgaria      Uruguay
 Group 4  |  Poland         Argentina       Italy         Haiti
+
+
+Matchday 1 |  13 June - 15 June
+Matchday 2 |  18 June - 19 June
+Matchday 3 |  22 June - 23 June
 
 
 Group 1:
@@ -57,14 +61,19 @@ Group 4:
 
 #### Second Round
 ## todo/fix: add stage/add stage key to rounds
-#
-# Group A -> I
-# Group B -> J   - fix: use Group A,B etc.
 
-Group I  |  Netherlands     Brazil     East Germany     Argentina
-Group J  |  West Germany    Poland     Sweden           Yugoslavia
+Group A  |  Netherlands     Brazil     East Germany     Argentina
+Group B  |  West Germany    Poland     Sweden           Yugoslavia
 
-Group I:
+
+## todo/check: use Matchday 2.1, 2.2, 2.3 or such - why? why not?
+
+Matchday 4 |  26 June
+Matchday 5 |  30 June
+Matchday 6 |  3 July
+
+
+Group A:
 
 (25) 26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
 (26) 26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
@@ -75,7 +84,7 @@ Group I:
 (33) 3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
 (34) 3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
 
-Group J:
+Group B:
 
 (27) 26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
 (28) 26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart
@@ -87,9 +96,10 @@ Group J:
 (36) 3 July     Sweden        2-1   Yugoslavia     @ Rheinstadion, Düsseldorf
 
 
+
 Match for third place
 
-# fix: use Muenchen not Munich 
+# fix: use Muenchen not Munich
 (37) 6 July     Brazil        0-1  Poland        @ Olympiastadion, Munich
 
 Final
