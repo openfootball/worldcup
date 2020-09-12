@@ -7,7 +7,7 @@
 Round of 16
 
 (49) Sat Jun/26 16:00   Uruguay        2-1              South Korea   @ Nelson Mandela Bay Stadium, Port Elizabeth
-(50) Sat Jun/26 20:30   United States  1-1 1-2nV        Ghana         @ Royal Bafokeng Stadium, Rustenburg
+(50) Sat Jun/26 20:30   United States  1-2 a.e.t. (1-1)        Ghana         @ Royal Bafokeng Stadium, Rustenburg
 
 (51) Sun Jun/27 16:00   Germany        4-1              England       @ Free State Stadium, Bloemfontein
 (52) Sun Jun/27 20:30   Argentina      3-1              Mexico        @ Soccer City, Johannesburg
@@ -15,14 +15,14 @@ Round of 16
 (53) Mon Jun/28 16:00   Netherlands    2-1              Slovakia      @ Moses Mabhida Stadium, Durban
 (54) Mon Jun/28 20:30   Brazil         3-0              Chile         @ Ellis Park Stadium, Johannesburg
 
-(55) Tue Jun/29 16:00   Paraguay       0-0 0-0nV 5-3iE  Japan         @ Loftus Versfeld Stadium, Pretoria
+(55) Tue Jun/29 16:00   Paraguay       5-3 pen. 0-0 a.e.t. (0-0)  Japan         @ Loftus Versfeld Stadium, Pretoria
 (56) Tue Jun/29 20:30   Spain          1-0              Portugal      @ Cape Town Stadium, Cape Town
 
 
 Quarterfinals
 
 (57) Fri Jul/2 16:00   Netherlands    2-1               Brazil        @ Nelson Mandela Bay Stadium, Port Elizabeth
-(58) Fri Jul/2 20:30   Uruguay        1-1 1-1nV 4-2iE   Ghana         @ Soccer City, Johannesburg
+(58) Fri Jul/2 20:30   Uruguay        4-2 pen. 1-1 a.e.t. (1-1)   Ghana         @ Soccer City, Johannesburg
 
 (59) Sat Jul/3 16:00   Argentina      0-4               Germany       @ Cape Town Stadium, Cape Town
 (60) Sat Jul/3 20:30   Paraguay       0-1               Spain         @ Ellis Park Stadium, Johannesburg
@@ -41,6 +41,6 @@ Third-place play-off
 
 Final
 
-(64) Sun Jul/11 20:30  Netherlands  0-0 0-1nV  Spain     @ Soccer City, Johannesburg
+(64) Sun Jul/11 20:30  Netherlands  0-1 a.e.t. (0-0)  Spain     @ Soccer City, Johannesburg
 
 
