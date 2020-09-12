@@ -11,7 +11,7 @@ Round of 16
 (51)  Sun Jun/25    England      1-0 (0-0)  Ecuador         @ Gottlieb-Daimler-Stadion, Stuttgart
 (52)  Sun Jun/25    Portugal     1-0 (1-0)  Netherlands     @ Frankenstadion, Nürnberg
 (53)  Mon Jun/26    Italy        1-0 (0-0)  Australia       @ Fritz-Walter-Stadion, Kaiserslautern
-(54)  Mon Jun/26    Switzerland  0-3iE 0-0nV 0-0   Ukraine  @ RheinEnergieStadion, Köln
+(54)  Mon Jun/26    Switzerland  0-3iE 0-0nV (0-0)   Ukraine  @ RheinEnergieStadion, Köln
 (55)  Tue Jun/27    Brazil       3-0 (2-0)  Ghana           @ Signal Iduna Park, Dortmund
 (56)  Tue Jun/27    Spain        1-3 (1-1)  France          @ AWD-Arena, Hannover
 
@@ -20,13 +20,13 @@ Quarterfinals
 
 (57)  Fri Jun/30    Germany  4-2iE 1-1nV (1-1, 0-0)  Argentina   @ Olympiastadion, Berlin
 (58)  Fri Jun/30    Italy    3-0 (1-0)  Ukraine                  @ AOL Arena, Hamburg
-(59)  Sat Jul/1     England   1-3iE 0-0nV 0-0  Portugal          @ Veltins-Arena, Gelsenkirchen
+(59)  Sat Jul/1     England   1-3iE 0-0nV (0-0)  Portugal          @ Veltins-Arena, Gelsenkirchen
 (60)  Sat Jul/1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
 
 
 Semifinals
 
-(61)  Tue Jul/4    Germany   0-2nV  0-0  Italy              @ Signal Iduna Park, Dortmund
+(61)  Tue Jul/4    Germany   0-2nV  (0-0)  Italy              @ Signal Iduna Park, Dortmund
                      # -; Grosso 119' Del Piero 120+1'
 
 (62)  Wed Jul/5    Portugal  0-1 (0-1)  France         @ Allianz Arena, München
