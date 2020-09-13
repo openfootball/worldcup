@@ -1,113 +1,196 @@
 # Clubs
 
-  World Cup - 4 records
+  World Cup - 21 records
     World Cup 1930  -- teams: 13, matches: 18, rounds: 12
     World Cup 1934  -- teams: 16, matches: 17, rounds: 6
+    World Cup 1938  -- teams: 15, matches: 18, rounds: 7
+    World Cup 1950  -- teams: 13, matches: 22, rounds: 2
+    World Cup 1954  -- teams: 16, matches: 26, rounds: 8
+    World Cup 1958  -- teams: 16, matches: 35, rounds: 10
+    World Cup 1962  -- teams: 16, matches: 32, rounds: 7
+    World Cup 1966  -- teams: 16, matches: 32, rounds: 7
+    World Cup 1970  -- teams: 16, matches: 32, rounds: 7
+    World Cup 1974  -- teams: 16, matches: 38, rounds: 8
+    World Cup 1978  -- teams: 16, matches: 38, rounds: 8
+    World Cup 1982  -- teams: 24, matches: 52, rounds: 9
+    World Cup 1986  -- teams: 24, matches: 52, rounds: 8
+    World Cup 1990  -- teams: 24, matches: 52, rounds: 8
+    World Cup 1994  -- teams: 24, matches: 52, rounds: 8
+    World Cup 1998  -- teams: 32, matches: 64, rounds: 8
+    World Cup 2002  -- teams: 32, matches: 64, rounds: 8
+    World Cup 2006  -- teams: 32, matches: 64, rounds: 20
+    World Cup 2010  -- teams: 32, matches: 64, rounds: 20
     World Cup 2014  -- teams: 32, matches: 64, rounds: 20
     World Cup 2018  -- teams: 32, matches: 64, rounds: 20
 
 
-51 Clubs
+84 Clubs
 
-   1. Argentina               
-      - World Cup                  4  (2018, 2014, 1934, 1930)
-   2. Belgium                 
-      - World Cup                  4  (2018, 2014, 1934, 1930)
-   3. Brazil                  
-      - World Cup                  4  (2018, 2014, 1934, 1930)
-   4. France                  
-      - World Cup                  4  (2018, 2014, 1934, 1930)
-   5. Germany                 
-      - World Cup                  3  (2018, 2014, 1934)
-   6. Mexico                  
-      - World Cup                  3  (2018, 2014, 1930)
+   1. Brazil                  
+      - World Cup                 21  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1990, 1986, 1982, 1978, 1974, 1970, 1966, 1962, 1958, 1954, 1950, 1938, 1934, 1930)
+   2. Italy                   
+      - World Cup                 18  (2014, 2010, 2006, 2002, 1998, 1994, 1990, 1986, 1982, 1978, 1974, 1970, 1966, 1962, 1954, 1950, 1938, 1934)
+   3. Argentina               
+      - World Cup                 17  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1990, 1986, 1982, 1978, 1974, 1966, 1962, 1958, 1934, 1930)
+   4. Mexico                  
+      - World Cup                 16  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1986, 1978, 1970, 1966, 1962, 1958, 1954, 1950, 1930)
+   5. England                 
+      - World Cup                 15  (2018, 2014, 2010, 2006, 2002, 1998, 1990, 1986, 1982, 1970, 1966, 1962, 1958, 1954, 1950)
+   6. France                  
+      - World Cup                 15  (2018, 2014, 2010, 2006, 2002, 1998, 1986, 1982, 1978, 1966, 1958, 1954, 1938, 1934, 1930)
    7. Spain                   
-      - World Cup                  3  (2018, 2014, 1934)
-   8. Switzerland             
-      - World Cup                  3  (2018, 2014, 1934)
-   9. United States           
-      - World Cup                  3  (2014, 1934, 1930)
-  10. Uruguay                 
-      - World Cup                  3  (2018, 2014, 1930)
-  11. Australia               
-      - World Cup                  2  (2018, 2014)
-  12. Chile                   
-      - World Cup                  2  (2014, 1930)
-  13. Colombia                
-      - World Cup                  2  (2018, 2014)
-  14. Costa Rica              
-      - World Cup                  2  (2018, 2014)
-  15. Croatia                 
-      - World Cup                  2  (2018, 2014)
-  16. Egypt                   
-      - World Cup                  2  (2018, 1934)
-  17. England                 
-      - World Cup                  2  (2018, 2014)
-  18. Iran                    
-      - World Cup                  2  (2018, 2014)
-  19. Italy                   
-      - World Cup                  2  (2014, 1934)
-  20. Japan                   
-      - World Cup                  2  (2018, 2014)
-  21. Netherlands             
-      - World Cup                  2  (2014, 1934)
-  22. Nigeria                 
-      - World Cup                  2  (2018, 2014)
-  23. Peru                    
-      - World Cup                  2  (2018, 1930)
-  24. Portugal                
-      - World Cup                  2  (2018, 2014)
-  25. Romania                 
-      - World Cup                  2  (1934, 1930)
-  26. Russia                  
-      - World Cup                  2  (2018, 2014)
-  27. South Korea             
-      - World Cup                  2  (2018, 2014)
-  28. Sweden                  
-      - World Cup                  2  (2018, 1934)
-  29. Algeria                 
-      - World Cup                  1  (2014)
-  30. Austria                 
-      - World Cup                  1  (1934)
-  31. Bolivia                 
-      - World Cup                  1  (1930)
-  32. Bosnia and Herzegovina  
-      - World Cup                  1  (2014)
-  33. Cameroon                
-      - World Cup                  1  (2014)
-  34. Czechoslovakia (-1992)  
-      - World Cup                  1  (1934)
-  35. Côte d'Ivoire           
-      - World Cup                  1  (2014)
+      - World Cup                 15  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1990, 1986, 1982, 1978, 1966, 1962, 1950, 1934)
+   8. Belgium                 
+      - World Cup                 13  (2018, 2014, 2002, 1998, 1994, 1990, 1986, 1982, 1970, 1954, 1938, 1934, 1930)
+   9. Uruguay                 
+      - World Cup                 13  (2018, 2014, 2010, 2002, 1990, 1986, 1974, 1970, 1966, 1962, 1954, 1950, 1930)
+  10. Sweden                  
+      - World Cup                 12  (2018, 2006, 2002, 1994, 1990, 1978, 1974, 1970, 1958, 1950, 1938, 1934)
+  11. Switzerland             
+      - World Cup                 11  (2018, 2014, 2010, 2006, 1994, 1966, 1962, 1954, 1950, 1938, 1934)
+  12. Netherlands             
+      - World Cup                 10  (2014, 2010, 2006, 1998, 1994, 1990, 1978, 1974, 1938, 1934)
+  13. South Korea             
+      - World Cup                 10  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1990, 1986, 1954)
+  14. United States           
+      - World Cup                 10  (2014, 2010, 2006, 2002, 1998, 1994, 1990, 1950, 1934, 1930)
+  15. West Germany (-1989)    
+      - World Cup                 10  (1990, 1986, 1982, 1978, 1974, 1970, 1966, 1962, 1958, 1954)
+  16. Chile                   
+      - World Cup                  9  (2014, 2010, 1998, 1982, 1974, 1966, 1962, 1950, 1930)
+  17. Germany                 
+      - World Cup                  9  (2018, 2014, 2010, 2006, 2002, 1998, 1994, 1938, 1934)
+  18. Hungary                 
+      - World Cup                  9  (1986, 1982, 1978, 1966, 1962, 1958, 1954, 1938, 1934)
+  19. Yugoslavia (-2003)      
+      - World Cup                  9  (1998, 1990, 1982, 1974, 1962, 1958, 1954, 1950, 1930)
+  20. Czechoslovakia (-1992)  
+      - World Cup                  8  (1990, 1982, 1970, 1962, 1958, 1954, 1938, 1934)
+  21. Paraguay                
+      - World Cup                  8  (2010, 2006, 2002, 1998, 1986, 1958, 1950, 1930)
+  22. Poland                  
+      - World Cup                  8  (2018, 2006, 2002, 1986, 1982, 1978, 1974, 1938)
+  23. Scotland                
+      - World Cup                  8  (1998, 1990, 1986, 1982, 1978, 1974, 1958, 1954)
+  24. Austria                 
+      - World Cup                  7  (1998, 1990, 1982, 1978, 1958, 1954, 1934)
+  25. Bulgaria                
+      - World Cup                  7  (1998, 1994, 1986, 1974, 1970, 1966, 1962)
+  26. Cameroon                
+      - World Cup                  7  (2014, 2010, 2002, 1998, 1994, 1990, 1982)
+  27. Portugal                
+      - World Cup                  7  (2018, 2014, 2010, 2006, 2002, 1986, 1966)
+  28. Romania                 
+      - World Cup                  7  (1998, 1994, 1990, 1970, 1938, 1934, 1930)
+  29. Soviet Union (-1991)    
+      - World Cup                  7  (1990, 1986, 1982, 1970, 1966, 1962, 1958)
+  30. Colombia                
+      - World Cup                  6  (2018, 2014, 1998, 1994, 1990, 1962)
+  31. Japan                   
+      - World Cup                  6  (2018, 2014, 2010, 2006, 2002, 1998)
+  32. Nigeria                 
+      - World Cup                  6  (2018, 2014, 2010, 2002, 1998, 1994)
+  33. Australia               
+      - World Cup                  5  (2018, 2014, 2010, 2006, 1974)
+  34. Costa Rica              
+      - World Cup                  5  (2018, 2014, 2006, 2002, 1990)
+  35. Croatia                 
+      - World Cup                  5  (2018, 2014, 2006, 2002, 1998)
   36. Denmark                 
-      - World Cup                  1  (2018)
-  37. Ecuador                 
+      - World Cup                  5  (2018, 2010, 2002, 1998, 1986)
+  37. Iran                    
+      - World Cup                  5  (2018, 2014, 2006, 1998, 1978)
+  38. Morocco                 
+      - World Cup                  5  (2018, 1998, 1994, 1986, 1970)
+  39. Peru                    
+      - World Cup                  5  (2018, 1982, 1978, 1970, 1930)
+  40. Saudi Arabia            
+      - World Cup                  5  (2018, 2006, 2002, 1998, 1994)
+  41. Tunisia                 
+      - World Cup                  5  (2018, 2006, 2002, 1998, 1978)
+  42. Algeria                 
+      - World Cup                  4  (2014, 2010, 1986, 1982)
+  43. Russia                  
+      - World Cup                  4  (2018, 2014, 2002, 1994)
+  44. Bolivia                 
+      - World Cup                  3  (1994, 1950, 1930)
+  45. Côte d'Ivoire           
+      - World Cup                  3  (2014, 2010, 2006)
+  46. Ecuador                 
+      - World Cup                  3  (2014, 2006, 2002)
+  47. Egypt                   
+      - World Cup                  3  (2018, 1990, 1934)
+  48. Ghana                   
+      - World Cup                  3  (2014, 2010, 2006)
+  49. Greece                  
+      - World Cup                  3  (2014, 2010, 1994)
+  50. Honduras                
+      - World Cup                  3  (2014, 2010, 1982)
+  51. Ireland                 
+      - World Cup                  3  (2002, 1994, 1990)
+  52. Northern Ireland        
+      - World Cup                  3  (1986, 1982, 1958)
+  53. Norway                  
+      - World Cup                  3  (1998, 1994, 1938)
+  54. South Africa            
+      - World Cup                  3  (2010, 2002, 1998)
+  55. El Salvador             
+      - World Cup                  2  (1982, 1970)
+  56. New Zealand             
+      - World Cup                  2  (2010, 1982)
+  57. North Korea             
+      - World Cup                  2  (2010, 1966)
+  58. Senegal                 
+      - World Cup                  2  (2018, 2002)
+  59. Serbia                  
+      - World Cup                  2  (2018, 2010)
+  60. Slovenia                
+      - World Cup                  2  (2010, 2002)
+  61. Turkey                  
+      - World Cup                  2  (2002, 1954)
+  62. Angola                  
+      - World Cup                  1  (2006)
+  63. Bosnia and Herzegovina  
       - World Cup                  1  (2014)
-  38. Ghana                   
-      - World Cup                  1  (2014)
-  39. Greece                  
-      - World Cup                  1  (2014)
-  40. Honduras                
-      - World Cup                  1  (2014)
-  41. Hungary                 
-      - World Cup                  1  (1934)
-  42. Iceland                 
+  64. Canada                  
+      - World Cup                  1  (1986)
+  65. China                   
+      - World Cup                  1  (2002)
+  66. Cuba                    
+      - World Cup                  1  (1938)
+  67. Czech Republic          
+      - World Cup                  1  (2006)
+  68. Dutch East Indies (-1945)
+      - World Cup                  1  (1938)
+  69. East Germany (-1989)    
+      - World Cup                  1  (1974)
+  70. Haiti                   
+      - World Cup                  1  (1974)
+  71. Iceland                 
       - World Cup                  1  (2018)
-  43. Morocco                 
+  72. Iraq                    
+      - World Cup                  1  (1986)
+  73. Israel                  
+      - World Cup                  1  (1970)
+  74. Jamaica                 
+      - World Cup                  1  (1998)
+  75. Kuwait                  
+      - World Cup                  1  (1982)
+  76. Panama                  
       - World Cup                  1  (2018)
-  44. Panama                  
-      - World Cup                  1  (2018)
-  45. Paraguay                
-      - World Cup                  1  (1930)
-  46. Poland                  
-      - World Cup                  1  (2018)
-  47. Saudi Arabia            
-      - World Cup                  1  (2018)
-  48. Senegal                 
-      - World Cup                  1  (2018)
-  49. Serbia                  
-      - World Cup                  1  (2018)
-  50. Tunisia                 
-      - World Cup                  1  (2018)
-  51. Yugoslavia (-2003)      
-      - World Cup                  1  (1930)
+  77. Serbia and Montenegro (-2006)
+      - World Cup                  1  (2006)
+  78. Slovakia                
+      - World Cup                  1  (2010)
+  79. Togo                    
+      - World Cup                  1  (2006)
+  80. Trinidad and Tobago     
+      - World Cup                  1  (2006)
+  81. Ukraine                 
+      - World Cup                  1  (2006)
+  82. United Arab Emirates    
+      - World Cup                  1  (1990)
+  83. Wales                   
+      - World Cup                  1  (1958)
+  84. Zaire (-1997)           
+      - World Cup                  1  (1974)

@@ -1,37 +1,139 @@
 # Stats
 
-51 teams, 163 matches
+84 teams, 900 matches
 
 
 1 leagues
-worldcup - World Cup |  4 events
+world - World Cup |  21 events
 
 
-4 seasons
+21 seasons
 2018 |  1 events
 2014 |  1 events
+2010 |  1 events
+2006 |  1 events
+2002 |  1 events
+1998 |  1 events
+1994 |  1 events
+1990 |  1 events
+1986 |  1 events
+1982 |  1 events
+1978 |  1 events
+1974 |  1 events
+1970 |  1 events
+1966 |  1 events
+1962 |  1 events
+1958 |  1 events
+1954 |  1 events
+1950 |  1 events
+1938 |  1 events
 1934 |  1 events
 1930 |  1 events
 
 
-4 events:
+21 events:
   2018 (1):
-== worldcup - World Cup 2018 |  32 Teams, 64 Matches, 166 Goals (+0 a.e.t.)
+== world - World Cup 2018 |  32 Teams, 64 Matches, 179 Goals (+13 a.e.t.)
     8 Groups, 20 Rounds (20 Matchdays, 0 K.O.s)
 
 
   2014 (1):
-== worldcup - World Cup 2014 |  32 Teams, 64 Matches, 163 Goals (+0 a.e.t.)
+== world - World Cup 2014 |  32 Teams, 64 Matches, 175 Goals (+12 a.e.t.)
     8 Groups, 20 Rounds (20 Matchdays, 0 K.O.s)
 
 
+  2010 (1):
+== world - World Cup 2010 |  32 Teams, 64 Matches, 149 Goals (+6 a.e.t.)
+    8 Groups, 20 Rounds (20 Matchdays, 0 K.O.s)
+
+
+  2006 (1):
+== world - World Cup 2006 |  32 Teams, 64 Matches, 153 Goals (+9 a.e.t.)
+    8 Groups, 20 Rounds (20 Matchdays, 0 K.O.s)
+
+
+  2002 (1):
+== world - World Cup 2002 |  32 Teams, 64 Matches, 167 Goals (+9 a.e.t.)
+    8 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1998 (1):
+== world - World Cup 1998 |  32 Teams, 64 Matches, 177 Goals (+7 a.e.t.)
+    8 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1994 (1):
+== world - World Cup 1994 |  24 Teams, 52 Matches, 147 Goals (+9 a.e.t.)
+    6 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1990 (1):
+== world - World Cup 1990 |  24 Teams, 52 Matches, 125 Goals (+16 a.e.t.)
+    6 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1986 (1):
+== world - World Cup 1986 |  24 Teams, 52 Matches, 144 Goals (+17 a.e.t.)
+    6 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1982 (1):
+== world - World Cup 1982 |  24 Teams, 52 Matches, 148 Goals (+6 a.e.t.)
+    10 Groups, 9 Rounds (9 Matchdays, 0 K.O.s)
+
+
+  1978 (1):
+== world - World Cup 1978 |  16 Teams, 38 Matches, 104 Goals (+4 a.e.t.)
+    6 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1974 (1):
+== world - World Cup 1974 |  16 Teams, 38 Matches, 97 Goals (+0 a.e.t.)
+    6 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1970 (1):
+== world - World Cup 1970 |  16 Teams, 32 Matches, 101 Goals (+13 a.e.t.)
+    4 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+
+
+  1966 (1):
+== world - World Cup 1966 |  16 Teams, 32 Matches, 93 Goals (+6 a.e.t.)
+    4 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+
+
+  1962 (1):
+== world - World Cup 1962 |  16 Teams, 32 Matches, 89 Goals (+0 a.e.t.)
+    4 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+
+
+  1958 (1):
+== world - World Cup 1958 |  16 Teams, 35 Matches, 128 Goals (+3 a.e.t.)
+    4 Groups, 10 Rounds (10 Matchdays, 0 K.O.s)
+
+
+  1954 (1):
+== world - World Cup 1954 |  16 Teams, 26 Matches, 152 Goals (+16 a.e.t.)
+    4 Groups, 8 Rounds (8 Matchdays, 0 K.O.s)
+
+
+  1950 (1):
+== world - World Cup 1950 |  13 Teams, 22 Matches, 88 Goals (+0 a.e.t.)
+    5 Groups, 2 Rounds (2 Matchdays, 0 K.O.s)
+
+
+  1938 (1):
+== world - World Cup 1938 |  15 Teams, 18 Matches, 102 Goals (+27 a.e.t.)
+    0 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+1 (7)  2 (2)  3 (4)  4 (1)  5 (2)  6 (1)  7 (1)  
+
   1934 (1):
-== worldcup - World Cup 1934 |  16 Teams, 17 Matches, 66 Goals (+0 a.e.t.)
+== world - World Cup 1934 |  16 Teams, 17 Matches, 76 Goals (+10 a.e.t.)
     0 Groups, 6 Rounds (6 Matchdays, 0 K.O.s)
 1 (8)  2 (4)  3 (1)  4 (2)  5 (1)  6 (1)  
 
   1930 (1):
-== worldcup - World Cup 1930 |  13 Teams, 18 Matches, 70 Goals (+0 a.e.t.)
+== world - World Cup 1930 |  13 Teams, 18 Matches, 70 Goals (+0 a.e.t.)
     4 Groups, 12 Rounds (12 Matchdays, 0 K.O.s)
 
 
@@ -39,4 +141,6 @@ worldcup - World Cup |  4 events
 
 ## Logs
 
-1 logs:
+2 logs:
+[warn] hello build - 2020-09-13 11:06:51 +0200
+[warn] hello build - 2020-09-13 11:08:39 +0200
