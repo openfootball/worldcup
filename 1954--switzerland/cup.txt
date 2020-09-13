@@ -18,7 +18,7 @@ Group 1:
 (3)  16 June    Brazil       5-0   Mexico    @ Charmilles Stadium, Geneva
 (4)  16 June    Yugoslavia   1-0   France    @ Stade Olympique de la Pontaise, Lausanne
 
-(10) 19 June    Brazil     1-1 a.e.t. 1-1  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
+(10) 19 June    Brazil     1-1 a.e.t. (1-1)  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
 (11) 19 June    France     3-2             Mexico      @ Charmilles Stadium, Geneva
 
 
@@ -49,7 +49,7 @@ Group 3:
 
 Group 4:
 
-(6)  17 June    England          4-4 a.e.t. 3-3  Belgium    @ St. Jakob Stadium, Basel
+(6)  17 June    England          4-4 a.e.t. (3-3)  Belgium    @ St. Jakob Stadium, Basel
 (7)  17 June    Switzerland      2-1  Italy                 @ Stade Olympique de la Pontaise, Lausanne
 
 (13) 20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
@@ -75,7 +75,7 @@ Quarter-finals
 Semi-finals
 
 (21) 30 June    West Germany     6-1         Austria        @ St. Jakob Stadium, Basel
-(22) 30 June    Hungary      4-2 a.e.t. 2-2  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
+(22) 30 June    Hungary      4-2 a.e.t. (2-2)  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
 
 
 Third-place match         ## use just Third-place  - why? why not?
