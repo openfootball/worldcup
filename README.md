@@ -93,10 +93,44 @@ Final
 ```
 
 
+
+
 ## Build Your Own `worldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
-from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
+from the datasets in (structured) text in the Football.TXT format. 
+
+### Alternative I - Use the Quick Starter Templates
+
+Use the quick starter datafile templates to start from scratch. Examples:
+
+Build the database for all world cups:
+
+    $ sportdb new worldcup
+
+[More »](https://github.com/openfootball/quick-starter)
+
+
+
+### Alternative II - Do-It-Yourself (DIY) - Downlad and Unpack Zip Archive or Git Clone
+
+Download and unpack the zip archive with the datasets or if you have git installed use the `git clone` command to
+get a local copy.
+
+Try in your working folder (that is, `/world-cup`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db` and
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
 
 
 ## Questions? Comments?
