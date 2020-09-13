@@ -12,7 +12,7 @@ Group F  |  Netherlands  Saudi Arabia   Belgium          Morocco
 ## todo/fix:  use more matchdays - one matchday per "real" day !!!
 ##   26 June is played 2nd and 3rd games
 
-Matchday 1 | 18 June - 21 June
+Matchday 1 | 17 June - 21 June
 Matchday 2 | 22 June - 26 June
 Matchday 3 | 27 June - 30 June
 
