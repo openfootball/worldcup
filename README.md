@@ -32,7 +32,8 @@ Matchday 3  |  Tue Nov/22
 
 Group A:
 
-(1) Sun Nov/20 19:00      Qatar  -  Ecuador    @ Al Bayt Stadium, Al Khor
+(1) Sun Nov/20 19:00      Qatar  0-2 (0-2)  Ecuador    @ Al Bayt Stadium, Al Khor
+                              [-; Enner Valencia 16' (pen.), 31']
 (2) Mon Nov/21 19:00     Senegal  -  Netherlands  @ Al Thumama Stadium, Doha
 
 ...
