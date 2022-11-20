@@ -1,0 +1,50 @@
+= World Cup 2022      # Finals
+
+Round of 16            |  Sat Dec/3 - Tue Dec/6
+Quarter-finals         |  Fri Dec/9 - Sat Dec/10
+Semi-finals            |  Tue Dec/13 - Wed Dec/14
+Match for third place  |  Sat Dec/17
+Final                  |  Sun Dec/18
+
+
+
+Round of 16
+
+# (49)  Sat Dec/3 18:00  Winners Group A	- 	Runners-up Group B  @ Khalifa International Stadium, Al Rayyan
+# (50)  Sat Dec/3 22:00  Winners Group C	- 	Runners-up Group D  @ Ahmad bin Ali Stadium, Al Rayyan
+
+# (52)  Sun Dec/4 18:00  Winners Group D	- 	Runners-up Group C  @ Al Thumama Stadium, Doha
+# (51)  Sun Dec/4 22:00  Winners Group B	-  	Runners-up Group A  @ Al Bayt Stadium, Al Khor
+
+# (53)  Mon Dec/5 18:00  Winners Group E  - 	Runners-up Group F  @ Al Janoub Stadium, Al Wakrah
+# (54)  Mon Dec/5 22:00  Winners Group G  - 	Runners-up Group H  @ Stadium 974, Doha
+
+# (55)  Tue Dec/6 18:00  Winners Group F	- 	Runners-up Group E  @ Education City Stadium, Al Rayyan
+# (56)  Tue Dec/6 22:00  Winners Group H	-  	Runners-up Group G  @ Lusail Iconic Stadium, Lusail
+
+
+
+Quarter-finals
+
+# (58)  Fri Dec/9 18:00   Winners Match 53	- 	Winners Match 54  @ Education City Stadium, Al Rayyan
+# (57)  Fri Dec/9 22:00   Winners Match 49	- 	Winners Match 50  @ Lusail Iconic Stadium, Lusail
+
+# (60)  Sat Dec/10 18:00   Winners Match 55	  - 	Winners Match 56  @ Al Thumama Stadium, Doha
+# (59)  Sat Dec/10 22:00   Winners Match 51	  - 	Winners Match 52  @ Al Bayt Stadium, Al Khor
+
+
+Semi-finals
+
+# (61)   Tue Dec/13 22:00   Winners Match 57	- 	Winners Match 58  @ Lusail Iconic Stadium, Lusail
+# (62)   Wed Dec/14 22:00   Winners Match 59	- 	Winners Match 60  @ Al Bayt Stadium, Al Khor
+
+
+
+Match for third place
+
+# (63) Sat Dec/17 18:00   Losers Match 61	  - 	Losers Match 62  @ Khalifa International Stadium, Al Rayyan
+
+
+Final
+
+# (64) Sun Dec/18 18:00   Winners Match 61	-	Winners Match 62 @ Lusail Iconic Stadium, Lusail

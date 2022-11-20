@@ -2,3 +2,15 @@
 #  exclude all databases e.g. sport.db
 
 *.db
+
+
+##
+#  exclude for testing   sandbox/ and tmp/
+
+sandbox/
+tmp/
+
+
+
+
+

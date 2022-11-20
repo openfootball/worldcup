@@ -4,9 +4,116 @@ Group A  | Qatar      Ecuador        Senegal        Netherlands
 Group B  | England    Iran           United States  Wales
 Group C  | Argentina  Saudi Arabia   Mexico         Poland
 Group D  | France     Australia      Denmark        Tunisia
-Group E  | Spain	    Costa Rica     Germany	      Japan
+Group E  | Spain     Costa Rica      Germany        Japan
+Group F  | Belgium    Canada   Morocco    Croatia
+Group G  | Brazil    Serbia  Switzerland   Cameroon
+Group H  | Portugal   Ghana   Uruguay    South Korea
 
 
+Matchday 1  |  Sun Nov/20
+Matchday 2  |  Mon Nov/21
+Matchday 3  |  Tue Nov/22
+Matchday 4  |  Wed Nov/23
+Matchday 5  |  Thu Nov/24
+Matchday 6  |  Fri Nov/25
+Matchday 7  |  Sat Nov/26
+Matchday 8  |  Sun Nov/27
+Matchday 9  |  Mon Nov/28
+Matchday 10 |  Tue Nov/29
+Matchday 11 |  Wed Nov/30
+Matchday 12 |  Thu Dec/1
+Matchday 13 |  Fri Dec/2
+
+
+
+
+Group A:
+(1) Sun Nov/20 19:00      Qatar  -  Ecuador    @ Al Bayt Stadium, Al Khor
+(2) Mon Nov/21 19:00     Senegal  -  Netherlands  @ Al Thumama Stadium, Doha
+
+(18) Fri Nov/25 16:00     Qatar  -  Senegal   @ Al Thumama Stadium, Doha
+(19) Fri Nov/25 19:00     Netherlands  -  Ecuador  @ Khalifa International Stadium, Al Rayyan
+
+(35) Tue Nov/29 18:00     Ecuador  -  Senegal   @ Khalifa International Stadium, Al Rayyan
+(36) Tue Nov/29 18:00     Netherlands -  Qatar   @ Al Bayt Stadium, Al Khor
+
+
+Group B:
+(3) Mon Nov/21 16:00     England  -   Iran      @ Khalifa International Stadium, Al Rayyan
+(4) Mon Nov/21 22:00     United States  -  Wales  @ Ahmad bin Ali Stadium, Al Rayyan
+
+(17)  Fri Nov/25 13:00    Wales  -  Iran    @  Ahmad bin Ali Stadium, Al Rayyan
+(20)  Fri Nov/25 22:00    England  -  United States  @ Al Bayt Stadium, Al Khor
+
+(33)  Tue Nov/29 22:00     Wales  -  England  @ Ahmad bin Ali Stadium, Al Rayyan
+(34)  Tue Nov/29 22:00    Iran  -  United States   @ Al Thumama Stadium, Doha
+
+
+Group C:
+(8)  Tue Nov/22 13:00      Argentina  -   Saudi Arabia   @ Lusail Iconic Stadium, Lusail
+(7)  Tue Nov/22 19:00      Mexico  -  Poland   @ Stadium 974, Doha
+
+(22)  Sat Nov/26 16:00     Poland   -  Saudi Arabia  @ Education City Stadium, Al Rayyan
+(24)  Sat Nov/26 22:00     Argentina  -  Mexico   @ Lusail Iconic Stadium, Lusail
+
+(39)   Wed Nov/30 22:00    Poland  -  Argentina  @ Stadium 974, Doha
+(40)   Wed Nov/30 22:00     Saudi Arabia  -   Mexico  @ Lusail Iconic Stadium, Lusail
+
+
+Group D:
+(6)  Tue Nov/22 16:00       Denmark  -  Tunisia    @ Education City Stadium, Al Rayyan
+(5)  Tue Nov/22 22:00       France   -  Australia  @ Al Janoub Stadium, Al Wakrah
+
+(21) Sat Nov/26 13:00      Tunisia  -  Australia  @ Al Janoub Stadium, Al Wakrah
+(23) Sat Nov/26 19:00      France    -  Denmark   @ Stadium 974, Doha
+
+(37) Wed Nov/30 18:00      Australia  -  Denmark   @ Al Janoub Stadium, Al Wakrah
+(38) Wed Nov/30 18:00      Tunisia    -  France   @ Education City Stadium, Al Rayyan
+
+
+Group E:
+(11) Wed Nov/23 16:00     Germany  -   Japan   @ Khalifa International Stadium, Al Rayyan
+(10) Wed Nov/23 19:00     Spain  -   Costa Rica   @ Al Thumama Stadium, Doha
+
+(25) Sun Nov/27 13:00     Japan  -   Costa Rica   @ Ahmad bin Ali Stadium, Al Rayyan
+(28) Sun Nov/27 22:00     Spain  -  Germany    @ Al Bayt Stadium, Al Khor
+
+(43) Thu Dec/1 22:00       Japan  -  Spain   @ Khalifa International Stadium, Al Rayyan
+(44) Thu Dec/1 22:00      Costa Rica   -  Germany  @ Al Bayt Stadium, Al Khor
+
+
+
+Group F:
+(12)  Wed Nov/23 13:00     Morocco   -   Croatia   @ Al Bayt Stadium, Al Khor
+(9)  Wed Nov/23 22:00     Belgium   -  Canada    @ Ahmad bin Ali Stadium, Al Rayyan
+
+(26)  Sun Nov/27 16:00    Belgium   -  Morocco    @ Al Thumama Stadium, Doha
+(27)  Sun Nov/27 19:00     Croatia   -   Canada   @ Khalifa International Stadium, Al Rayyan
+
+(41) Thu Dec/1 18:00      Croatia  -   Belgium   @ Ahmad bin Ali Stadium, Al Rayyan
+(42) Thu Dec/1 18:00     Canada    -   Morocco  @ Al Thumama Stadium, Doha
+
+
+Group G:
+(13) Thu Nov/24 13:00     Switzerland  -   Cameroon   @ Al Janoub Stadium, Al Wakrah
+(16) Thu Nov/24 22:00      Brazil   -   Serbia   @ Lusail Iconic Stadium, Lusail
+
+(29) Mon Nov/28 13:00     Cameroon   -   Serbia   @ Al Janoub Stadium, Al Wakrah
+(31) Mon Nov/28 19:00     Brazil     -   Switzerland  @ Stadium 974, Doha
+
+(47) Fri Dec/2 22:00     Serbia  -   Switzerland  @ Stadium 974, Doha
+(48) Fri Dec/2 22:00     Cameroon -   Brazil   @ Lusail Iconic Stadium, Lusail
+
+
+Group H:
+(14) Thu Nov/24 16:00     Uruguay   -   South Korea   @ Education City Stadium, Al Rayyan
+(15) Thu Nov/24 19:00     Portugal    -   Ghana      @ Stadium 974, Doha
+
+(30) Mon Nov/28 16:00     South Korea  -   Ghana   @ Education City Stadium, Al Rayyan
+(32) Mon Nov/28 22:00     Portugal    -   Uruguay  @ Lusail Iconic Stadium, Lusail
+
+(45) Fri Dec/2 18:00    Ghana  -   Uruguay   @ Al Janoub Stadium, Al Wakrah
+(46) Fri Dec/2 18:00    South Korea  -   Portugal  @ Lusail Iconic Stadium, Lusail
 
 
 

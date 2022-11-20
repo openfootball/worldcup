@@ -14,8 +14,30 @@ and the World Cup Quali(fiers). Example:
 ```
 = World Cup 2022
 
+Group A  | Qatar      Ecuador        Senegal        Netherlands
+Group B  | England    Iran           United States  Wales
+Group C  | Argentina  Saudi Arabia   Mexico         Poland
+Group D  | France     Australia      Denmark        Tunisia
+Group E  | Spain     Costa Rica      Germany        Japan
+Group F  | Belgium    Canada   Morocco    Croatia
+Group G  | Brazil    Serbia  Switzerland   Cameroon
+Group H  | Portugal   Ghana   Uruguay    South Korea
+
+
+Matchday 1  |  Sun Nov/20
+Matchday 2  |  Mon Nov/21
+Matchday 3  |  Tue Nov/22
+
+...
+
+Group A:
+
+(1) Sun Nov/20 19:00      Qatar  -  Ecuador    @ Al Bayt Stadium, Al Khor
+(2) Mon Nov/21 19:00     Senegal  -  Netherlands  @ Al Thumama Stadium, Doha
+
 ...
 ```
+
 
 or
 
