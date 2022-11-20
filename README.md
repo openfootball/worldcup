@@ -12,6 +12,16 @@ Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia
 and the World Cup Quali(fiers). Example:
 
 ```
+= World Cup 2022
+
+...
+```
+
+or
+
+
+
+```
 = World Cup 2018
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
@@ -98,7 +108,7 @@ Final
 ## Build Your Own `worldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
-from the datasets in (structured) text in the Football.TXT format. 
+from the datasets in (structured) text in the Football.TXT format.
 
 ### Alternative I - Use the Quick Starter Templates
 

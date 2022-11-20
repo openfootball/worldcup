@@ -1,18 +1,12 @@
-############################
-# World Cup 2022 Qatar
+= World Cup 2022       # in Qatar
 
-###
-# 12 stadiums (proposed)
+Group A  | Qatar      Ecuador        Senegal        Netherlands
+Group B  | England    Iran           United States  Wales
+Group C  | Argentina  Saudi Arabia   Mexico         Poland
+Group D  | France     Australia      Denmark        Tunisia
+Group E  | Spain	    Costa Rica     Germany	      Japan
 
-# Lusail Iconic Stadium
-# Khalifa International Stadium
-# Al-Shamal Stadium
-# Al-Khor Stadium
-# Umm Salal Stadium
-# Al-Wakrah Stadium
-# Ahmed bin Ali Stadium
-# Doha Port Stadium - Doha
-# Al-Gharafa Stadium - Doha
-# Sports City Stadium - Doha
-# Education City Stadium - Doha
-# Qatar University Stadium - Doha
+
+
+
+
