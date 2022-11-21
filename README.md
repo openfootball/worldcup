@@ -35,7 +35,7 @@ Group A:
 (1) Sun Nov/20 19:00      Qatar  0-2 (0-2)  Ecuador    @ Al Bayt Stadium, Al Khor
                               [-; Enner Valencia 16' (pen.), 31']
 (2) Mon Nov/21 19:00     Senegal  0-2 (0-0)  Netherlands  @ Al Thumama Stadium, Doha
-                              [-; Gakpo 84'  Klaassen 90+9']
+                              [-; Cody Gakpo 84' Davy Klaassen 90+9']
 
 
 ...
