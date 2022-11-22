@@ -54,8 +54,9 @@ Group B:
 
 
 Group C:
-(8)  Tue Nov/22 13:00      Argentina  -   Saudi Arabia   @ Lusail Iconic Stadium, Lusail
-(7)  Tue Nov/22 19:00      Mexico  -  Poland   @ Stadium 974, Doha
+(8)  Tue Nov/22 13:00      Argentina  1-2 (1-0)   Saudi Arabia   @ Lusail Iconic Stadium, Lusail
+                               [Lionel Messi 10'(pen.); Saleh Al Shehri 48'  Salem Al Dawsari 53']
+(7)  Tue Nov/22 19:00      Mexico  0-0  Poland   @ Stadium 974, Doha
 
 (22)  Sat Nov/26 16:00     Poland   -  Saudi Arabia  @ Education City Stadium, Al Rayyan
 (24)  Sat Nov/26 22:00     Argentina  -  Mexico   @ Lusail Iconic Stadium, Lusail
@@ -65,7 +66,7 @@ Group C:
 
 
 Group D:
-(6)  Tue Nov/22 16:00       Denmark  -  Tunisia    @ Education City Stadium, Al Rayyan
+(6)  Tue Nov/22 16:00       Denmark  0-0  Tunisia    @ Education City Stadium, Al Rayyan
 (5)  Tue Nov/22 22:00       France   -  Australia  @ Al Janoub Stadium, Al Wakrah
 
 (21) Sat Nov/26 13:00      Tunisia  -  Australia  @ Al Janoub Stadium, Al Wakrah
