@@ -67,8 +67,9 @@ Group C:
 
 Group D:
 (6)  Tue Nov/22 16:00       Denmark  0-0  Tunisia    @ Education City Stadium, Al Rayyan
-(5)  Tue Nov/22 22:00       France   -  Australia  @ Al Janoub Stadium, Al Wakrah
-
+(5)  Tue Nov/22 22:00       France   4-1 (2-1)  Australia  @ Al Janoub Stadium, Al Wakrah
+                    [Adrien Rabiot 27' Olivier Giroud 32', 71' Kylian Mbappé 68'; Craig Goodwin 9']
+                    
 (21) Sat Nov/26 13:00      Tunisia  -  Australia  @ Al Janoub Stadium, Al Wakrah
 (23) Sat Nov/26 19:00      France    -  Denmark   @ Stadium 974, Doha
 
@@ -77,9 +78,11 @@ Group D:
 
 
 Group E:
-(11) Wed Nov/23 16:00     Germany  -   Japan   @ Khalifa International Stadium, Al Rayyan
-(10) Wed Nov/23 19:00     Spain  -   Costa Rica   @ Al Thumama Stadium, Doha
-
+(11) Wed Nov/23 16:00     Germany  1-2 (1-0)   Japan   @ Khalifa International Stadium, Al Rayyan
+                        [Ilkay Gündogan 33'(pen.); Ritsu Doan 75' Takuma Asano 83']
+(10) Wed Nov/23 19:00     Spain  7-0 (3-0)  Costa Rica   @ Al Thumama Stadium, Doha
+         [Dani Olmo 11' Marco Asensio 21' Ferran Torres 31'(pen.), 54' Gavi 74' Carlos Soler 90' Álvaro Morata 90+2']
+                    
 (25) Sun Nov/27 13:00     Japan  -   Costa Rica   @ Ahmad bin Ali Stadium, Al Rayyan
 (28) Sun Nov/27 22:00     Spain  -  Germany    @ Al Bayt Stadium, Al Khor
 
@@ -89,7 +92,7 @@ Group E:
 
 
 Group F:
-(12)  Wed Nov/23 13:00     Morocco   -   Croatia   @ Al Bayt Stadium, Al Khor
+(12)  Wed Nov/23 13:00     Morocco   0-0   Croatia   @ Al Bayt Stadium, Al Khor
 (9)  Wed Nov/23 22:00     Belgium   -  Canada    @ Ahmad bin Ali Stadium, Al Rayyan
 
 (26)  Sun Nov/27 16:00    Belgium   -  Morocco    @ Al Thumama Stadium, Doha
