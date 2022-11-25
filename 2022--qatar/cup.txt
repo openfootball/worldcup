@@ -33,7 +33,8 @@ Group A:
 (2) Mon Nov/21 19:00     Senegal  0-2 (0-0)  Netherlands  @ Al Thumama Stadium, Doha
               [-; Cody Gakpo 84' Davy Klaassen 90+9']
 
-(18) Fri Nov/25 16:00     Qatar  -  Senegal   @ Al Thumama Stadium, Doha
+(18) Fri Nov/25 16:00     Qatar  1-3 (0-1)  Senegal   @ Al Thumama Stadium, Doha
+             [Mohammed Muntari 78'; Boulaye Dia 41' Famara Diédhiou 48' Bamba Dieng 84']
 (19) Fri Nov/25 19:00     Netherlands  -  Ecuador  @ Khalifa International Stadium, Al Rayyan
 
 (35) Tue Nov/29 18:00     Ecuador  -  Senegal   @ Khalifa International Stadium, Al Rayyan
@@ -46,7 +47,8 @@ Group B:
 (4) Mon Nov/21 22:00     United States  1-1 (1-0)  Wales  @ Ahmad bin Ali Stadium, Al Rayyan
                             [Timothy Weah 36'; Gareth Bale 82' (pen.)]
                             
-(17)  Fri Nov/25 13:00    Wales  -  Iran    @  Ahmad bin Ali Stadium, Al Rayyan
+(17)  Fri Nov/25 13:00    Wales  0-2 (0-0) Iran    @  Ahmad bin Ali Stadium, Al Rayyan
+                             [-; Roozbeh Cheshmi 90+8'  Ramin Rezaeian 90+11']
 (20)  Fri Nov/25 22:00    England  -  United States  @ Al Bayt Stadium, Al Khor
 
 (33)  Tue Nov/29 22:00     Wales  -  England  @ Ahmad bin Ali Stadium, Al Rayyan
@@ -106,7 +108,8 @@ Group F:
 Group G:
 (13) Thu Nov/24 13:00     Switzerland  1-0 (0-0)   Cameroon   @ Al Janoub Stadium, Al Wakrah
                                [Breel Embolo 48']
-(16) Thu Nov/24 22:00      Brazil   -   Serbia   @ Lusail Iconic Stadium, Lusail
+(16) Thu Nov/24 22:00      Brazil   2-0 (0-0)   Serbia   @ Lusail Iconic Stadium, Lusail
+                               [Richarlison 62', 73']
 
 (29) Mon Nov/28 13:00     Cameroon   -   Serbia   @ Al Janoub Stadium, Al Wakrah
 (31) Mon Nov/28 19:00     Brazil     -   Switzerland  @ Stadium 974, Doha
@@ -117,7 +120,8 @@ Group G:
 
 Group H:
 (14) Thu Nov/24 16:00     Uruguay   0-0   South Korea   @ Education City Stadium, Al Rayyan
-(15) Thu Nov/24 19:00     Portugal    -   Ghana      @ Stadium 974, Doha
+(15) Thu Nov/24 19:00     Portugal    3-2 (0-0)  Ghana      @ Stadium 974, Doha
+       [Cristiano Ronaldo 65'(pen.) João Félix 78' Rafael Leão 80'; André Ayew 73' Osman Bukari 89']
 
 (30) Mon Nov/28 16:00     South Korea  -   Ghana   @ Education City Stadium, Al Rayyan
 (32) Mon Nov/28 22:00     Portugal    -   Uruguay  @ Lusail Iconic Stadium, Lusail
