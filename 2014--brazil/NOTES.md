@@ -51,19 +51,30 @@ teams:
 
 
 ## Grounds  - 12 stadiums/grounds
-- maracana            , Rio de Janeiro, RJ
-- nacionaldebrasilia  , Brasília, DF
-- corinthians         , São Paulo, SP
-- castelao            , Fortaleza, CE
-- mineirao            , Belo Horizonte, MG
-- fontenova           , Salvador, BA
-- pantanal            , Cuiabá, MT
-- amazonia            , Manaus, AM
-- dasdunas            , Natal, RN
-- beirario            , Porto Alegre, RS
-- pernambuco          , Recife, PE
-- dabaixada           , Curitiba, PR
+- Estádio do Maracanã               , Rio de Janeiro, RJ
+- Estádio Nacional Mané Garrincha   , Brasília, DF
+- Arena Corinthians                 , São Paulo, SP
+- Estádio Castelão                  , Fortaleza, CE
+- Estádio Mineirão                  , Belo Horizonte, MG
+- Arena Fonte Nova                  , Salvador, BA
+- Arena Pantanal                    , Cuiabá, MT
+- Arena da Amazônia                 , Manaus, AM
+- Arena das Dunas                   , Natal, RN
+- Estádio Beira-Rio                 , Porto Alegre, RS
+- Arena Pernambuco                  , Recife, PE
+- Arena da Baixada                  , Curitiba, PR
 
 ## 12 cities:
-- barsilia  etc
 
+- Brasília, DF
+- Rio de Janeiro, RJ
+- São Paulo, SP
+- Fortaleza, CE
+- Belo Horizonte, MG
+- Salvador, BA
+- Manaus, AM
+- Natal, RN
+- Porto Alegre, RS
+- Recife, PE
+- Curitiba, PR
+- Cuiabá, MT

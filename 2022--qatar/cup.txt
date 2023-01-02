@@ -1,13 +1,13 @@
 = World Cup 2022       # in Qatar
 
-Group A  | Qatar      Ecuador        Senegal        Netherlands
-Group B  | England    Iran           United States  Wales
-Group C  | Argentina  Saudi Arabia   Mexico         Poland
-Group D  | France     Australia      Denmark        Tunisia
-Group E  | Spain     Costa Rica      Germany        Japan
-Group F  | Belgium    Canada   Morocco    Croatia
-Group G  | Brazil    Serbia  Switzerland   Cameroon
-Group H  | Portugal   Ghana   Uruguay    South Korea
+Group A  | Qatar      Ecuador       Senegal        Netherlands
+Group B  | England    Iran          United States  Wales
+Group C  | Argentina  Saudi Arabia  Mexico         Poland
+Group D  | France     Australia     Denmark        Tunisia
+Group E  | Spain      Costa Rica    Germany        Japan
+Group F  | Belgium    Canada        Morocco        Croatia
+Group G  | Brazil     Serbia        Switzerland    Cameroon
+Group H  | Portugal   Ghana         Uruguay        South Korea
 
 
 Matchday 1  |  Sun Nov/20
@@ -29,112 +29,129 @@ Matchday 13 |  Fri Dec/2
 
 Group A:
 (1) Sun Nov/20 19:00      Qatar   0-2 (0-2)   Ecuador    @ Al Bayt Stadium, Al Khor
-              [-; Enner Valencia 16' (pen.), 31']
+       [-; Enner Valencia 16' (pen.), 31']
+
 (2) Mon Nov/21 19:00     Senegal  0-2 (0-0)  Netherlands  @ Al Thumama Stadium, Doha
-              [-; Cody Gakpo 84' Davy Klaassen 90+9']
+       [-; Cody Gakpo 84' Davy Klaassen 90+9']
 
 (18) Fri Nov/25 16:00     Qatar  1-3 (0-1)  Senegal   @ Al Thumama Stadium, Doha
-             [Mohammed Muntari 78'; Boulaye Dia 41' Famara Diédhiou 48' Bamba Dieng 84']
+       [Mohammed Muntari 78'; Boulaye Dia 41' Famara Diédhiou 48' Bamba Dieng 84']
+
 (19) Fri Nov/25 19:00     Netherlands  1-1 (1-0)  Ecuador  @ Khalifa International Stadium, Al Rayyan
-                             [Cody Gakpo 6'; Enner Valencia 49']
+       [Cody Gakpo 6'; Enner Valencia 49']
                              
 (35) Tue Nov/29 18:00     Ecuador  1-2 (0-1) Senegal   @ Khalifa International Stadium, Al Rayyan
-              [Moisés Caicedo 67'; Ismaila Sarr 44'(pen.)  Koulibaly 70']
+       [Moisés Caicedo 67'; Ismaila Sarr 44'(pen.)  Koulibaly 70']
 
 (36) Tue Nov/29 18:00     Netherlands 2-0 (1-0)  Qatar   @ Al Bayt Stadium, Al Khor
-              [Cody Gakpo 26'  Frenkie de Jong 49']
+       [Cody Gakpo 26'  Frenkie de Jong 49']
 
 Group B:
 (3) Mon Nov/21 16:00     England  6-2 (3-0)   Iran      @ Khalifa International Stadium, Al Rayyan
-          [Jude Bellingham 35' Bukayo Saka 43', 62' Raheem Sterling 45+1' Marcus Rashford 71' Jack Grealish 90'; Mehdi Taremi 65', 90+13' (pen.)]
+       [Jude Bellingham 35' Bukayo Saka 43', 62' Raheem Sterling 45+1' Marcus Rashford 71' Jack Grealish 90'; Mehdi Taremi 65', 90+13' (pen.)]
+
 (4) Mon Nov/21 22:00     United States  1-1 (1-0)  Wales  @ Ahmad bin Ali Stadium, Al Rayyan
-                            [Timothy Weah 36'; Gareth Bale 82' (pen.)]
+       [Timothy Weah 36'; Gareth Bale 82' (pen.)]
                             
 (17)  Fri Nov/25 13:00    Wales  0-2 (0-0) Iran    @  Ahmad bin Ali Stadium, Al Rayyan
-                             [-; Roozbeh Cheshmi 90+8'  Ramin Rezaeian 90+11']
+       [-; Roozbeh Cheshmi 90+8'  Ramin Rezaeian 90+11']
+
 (20)  Fri Nov/25 22:00    England  0-0  United States  @ Al Bayt Stadium, Al Khor
 
 (33)  Tue Nov/29 22:00     Wales  0-3 (0-0)  England  @ Ahmad bin Ali Stadium, Al Rayyan
-              [-; Rashford 50'  Foden 51'  Rashford 68']
+       [-; Rashford 50'  Foden 51'  Rashford 68']
+
 (34)  Tue Nov/29 22:00    Iran  0-1 (0-1)  United States   @ Al Thumama Stadium, Doha
-              [-; Pulisic 38']
+       [-; Pulisic 38']
 
 Group C:
 (8)  Tue Nov/22 13:00      Argentina  1-2 (1-0)   Saudi Arabia   @ Lusail Iconic Stadium, Lusail
-                               [Lionel Messi 10'(pen.); Saleh Al Shehri 48'  Salem Al Dawsari 53']
+       [Lionel Messi 10'(pen.); Saleh Al Shehri 48'  Salem Al Dawsari 53']
+
 (7)  Tue Nov/22 19:00      Mexico  0-0  Poland   @ Stadium 974, Doha
 
 (22)  Sat Nov/26 16:00     Poland   2-0 (1-0)  Saudi Arabia  @ Education City Stadium, Al Rayyan
-                               [Piotr Zielinski 39' Robert Lewandowski 82']
+       [Piotr Zielinski 39' Robert Lewandowski 82']
+       
 (24)  Sat Nov/26 22:00     Argentina  2-0 (0-0)  Mexico   @ Lusail Iconic Stadium, Lusail
-                               [Lionel Messi 64' Enzo Fernández 87']
+       [Lionel Messi 64' Enzo Fernández 87']
 
 (39)   Wed Nov/30 22:00    Poland  0-2 (0-0)  Argentina  @ Stadium 974, Doha
-                               [-; Mac Allister 46'  Julián Álvarez 67']
+       [-; Mac Allister 46'  Julián Álvarez 67']
 
 (40)   Wed Nov/30 22:00     Saudi Arabia  1-2 (0-0)   Mexico  @ Lusail Iconic Stadium, Lusail
-                     [Salem Al Dawasari 90+5'; Henry Martín 47'  Luis Chávez 52']
+       [Salem Al Dawasari 90+5'; Henry Martín 47'  Luis Chávez 52']
 
 Group D:
 (6)  Tue Nov/22 16:00       Denmark  0-0  Tunisia    @ Education City Stadium, Al Rayyan
+
 (5)  Tue Nov/22 22:00       France   4-1 (2-1)  Australia  @ Al Janoub Stadium, Al Wakrah
-                    [Adrien Rabiot 27' Olivier Giroud 32', 71' Kylian Mbappé 68'; Craig Goodwin 9']
+       [Adrien Rabiot 27' Olivier Giroud 32', 71' Kylian Mbappé 68'; Craig Goodwin 9']
                     
 (21) Sat Nov/26 13:00      Tunisia  0-1 (0-1)  Australia  @ Al Janoub Stadium, Al Wakrah
-                         [-; Mitchell Duke 23']
+       [-; Mitchell Duke 23']
+       
 (23) Sat Nov/26 19:00      France    2-1 (0-0)  Denmark   @ Stadium 974, Doha
-                  [Kylian Mbappé 61' 86'; Andreas Christensen 68']
+       [Kylian Mbappé 61' 86'; Andreas Christensen 68']
 
 (37) Wed Nov/30 18:00      Australia  1-0 (0-0)  Denmark   @ Al Janoub Stadium, Al Wakrah
-                            [Mathew Leckie 60']
+       [Mathew Leckie 60']
 
 (38) Wed Nov/30 18:00      Tunisia    1-0 (0-0)  France   @ Education City Stadium, Al Rayyan
-                            [Wahbi Khazri 58']
+       [Wahbi Khazri 58']
 
 Group E:
 (11) Wed Nov/23 16:00     Germany  1-2 (1-0)   Japan   @ Khalifa International Stadium, Al Rayyan
-                        [Ilkay Gündogan 33'(pen.); Ritsu Doan 75' Takuma Asano 83']
+       [Ilkay Gündogan 33'(pen.); Ritsu Doan 75' Takuma Asano 83']
+
 (10) Wed Nov/23 19:00     Spain  7-0 (3-0)  Costa Rica   @ Al Thumama Stadium, Doha
-         [Dani Olmo 11' Marco Asensio 21' Ferran Torres 31'(pen.), 54' Gavi 74' Carlos Soler 90' Álvaro Morata 90+2']
+       [Dani Olmo 11' Marco Asensio 21' Ferran Torres 31'(pen.), 54' Gavi 74' Carlos Soler 90' Álvaro Morata 90+2']
                     
 (25) Sun Nov/27 13:00     Japan  0-1 (0-0)  Costa Rica   @ Ahmad bin Ali Stadium, Al Rayyan
-                      [-; Keysher Fuller 81']
+       [-; Keysher Fuller 81']
+
 (28) Sun Nov/27 22:00     Spain  1-1 (0-0)  Germany    @ Al Bayt Stadium, Al Khor
-                      [Álvaro Morata 62'; Niclas Füllkrug 83']
+       [Álvaro Morata 62'; Niclas Füllkrug 83']
+
 (43) Thu Dec/1 22:00       Japan  2-1 (0-0) Spain   @ Khalifa International Stadium, Al Rayyan
-                      [Ritsu Dōan 48'  Ao Tanaka 51'; Álvaro Morata 11']
+       [Ritsu Dōan 48'  Ao Tanaka 51'; Álvaro Morata 11']
+
 (44) Thu Dec/1 22:00      Costa Rica   2-4 (0-1)  Germany  @ Al Bayt Stadium, Al Khor
-       [Yeltsin Tejeda 58'  Juan Vargas 70'; Serge Gnabry 10'  Kai Lukas Havertz 73'  Kai Lukas Havertz 73'  Niclas Füllkrug 89']
+       [Yeltsin Tejeda 58'  Juan Vargas 70'; Serge Gnabry 10'  Kai Lukas Havertz 73', 85'  Niclas Füllkrug 89']
 
 
 Group F:
 (12)  Wed Nov/23 13:00     Morocco   0-0   Croatia   @ Al Bayt Stadium, Al Khor
+
 (9)  Wed Nov/23 22:00     Belgium   1-0 (1-0)  Canada    @ Ahmad bin Ali Stadium, Al Rayyan
-                             [Michy Batshuayi 44']
+       [Michy Batshuayi 44']
                   
 (26)  Sun Nov/27 16:00    Belgium   0-2 (0-0)  Morocco    @ Al Thumama Stadium, Doha
-                             [-; Romain Saïss 73' Zakaria Aboukhlal 90+2']
+       [-; Romain Saïss 73' Zakaria Aboukhlal 90+2']
+
 (27)  Sun Nov/27 19:00     Croatia   4-1 (2-1)   Canada   @ Khalifa International Stadium, Al Rayyan
-                            [Andrej Kramarić 36'  Marko Livaja 44'  Andrej Kramarić 70'  Lovro Majer  90+4'; Alphonso Davies 2']
+       [Andrej Kramarić 36'  Marko Livaja 44'  Andrej Kramarić 70'  Lovro Majer  90+4'; Alphonso Davies 2']
+
 (41) Thu Dec/1 18:00      Croatia  0-0   Belgium   @ Ahmad bin Ali Stadium, Al Rayyan
+
 (42) Thu Dec/1 18:00     Canada    1-2 (1-2)  Morocco  @ Al Thumama Stadium, Doha
-                            [Nayef Aguerd 40'(o.g.); Hakim Zyiech 4'  Youssef En-Nesyri 23']
+       [Nayef Aguerd 40'(o.g.); Hakim Zyiech 4'  Youssef En-Nesyri 23']
 
 
 Group G:
 (13) Thu Nov/24 13:00     Switzerland  1-0 (0-0)   Cameroon   @ Al Janoub Stadium, Al Wakrah
-                               [Breel Embolo 48']
+       [Breel Embolo 48']
 (16) Thu Nov/24 22:00      Brazil   2-0 (0-0)   Serbia   @ Lusail Iconic Stadium, Lusail
-                               [Richarlison 62', 73']
+       [Richarlison 62', 73']
 
 (29) Mon Nov/28 13:00     Cameroon   3-3 (1-2)  Serbia   @ Al Janoub Stadium, Al Wakrah
-              [Jean-Charles Castelletto 29'  Vincent Aboubakar 63'  Jean-Eric Choupo-Moting 66'; Strahinja Pavlović 45+1'  Sergej Milinković-Savić 45+3'  Aleksandar Mitrović 53']
+       [Jean-Charles Castelletto 29'  Vincent Aboubakar 63'  Jean-Eric Choupo-Moting 66'; Strahinja Pavlović 45+1'  Sergej Milinković-Savić 45+3'  Aleksandar Mitrović 53']
 (31) Mon Nov/28 19:00     Brazil     1-0 (0-0)   Switzerland  @ Stadium 974, Doha
-              [Casemiro 83']
+       [Casemiro 83']
 (47) Fri Dec/2 22:00     Serbia  2-3 (2-1)   Switzerland  @ Stadium 974, Doha
-              [Aleksandar Mitrović 26' Dušan Vlahović 35'; Xherdan Shaqiri 20' Breel Embolo 44' Freuler 48']
+       [Aleksandar Mitrović 26' Dušan Vlahović 35'; Xherdan Shaqiri 20' Breel Embolo 44' Freuler 48']
 (48) Fri Dec/2 22:00     Cameroon 1-0 (0-0)  Brazil   @ Lusail Iconic Stadium, Lusail
-              [Vincent Aboubakar 90+2']
+       [Vincent Aboubakar 90+2']
 
 
 Group H:
@@ -145,10 +162,10 @@ Group H:
 (30) Mon Nov/28 16:00     South Korea  2-3 (0-2)  Ghana   @ Education City Stadium, Al Rayyan
        [Cho Gue-sung 58', 61'; Mohammed Salisu 24' Mohammed Kudus 34', 68']
 (32) Mon Nov/28 22:00     Portugal    2-0 (0-0)  Uruguay  @ Lusail Iconic Stadium, Lusail
-              [Bruno Fernandes 54', 90+3'(pen.)]
+       [Bruno Fernandes 54', 90+3'(pen.)]
 (45) Fri Dec/2 18:00    Ghana  0-2   Uruguay   @ Al Janoub Stadium, Al Wakrah
-              [-; Giorgian De Arrascaeta 26', 32']
+       [-; Giorgian De Arrascaeta 26', 32']
 (46) Fri Dec/2 18:00    South Korea  2-1 (1-1)   Portugal  @ Lusail Iconic Stadium, Lusail
-              [Kim Young-gwon 27' Hwang Hee-chan 90+1'; Ricardo Horta 5']
+       [Kim Young-gwon 27' Hwang Hee-chan 90+1'; Ricardo Horta 5']
 
 
