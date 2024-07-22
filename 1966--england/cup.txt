@@ -11,7 +11,7 @@ Matchday 2 |  15 July - 16 July
 Matchday 3 |  19 July - 20 July
 
 
-Group 1:
+Group 1
 
 (1)  11 July   England    0-0    Uruguay   @ Wembley Stadium, London
 (5)  13 July   France     1-1    Mexico    @ Wembley Stadium, London
@@ -23,7 +23,7 @@ Group 1:
 (21) 20 July   England    2-0    France    @ Wembley Stadium, London
 
 
-Group 2:
+Group 2
 
 (2)  12 July   West Germany    5-0   Switzerland   @ Hillsborough Stadium, Sheffield
 (6)  13 July   Argentina       2-1   Spain         @ Villa Park, Birmingham
@@ -35,7 +35,7 @@ Group 2:
 (22) 20 July   West Germany    2-1   Spain         @ Villa Park, Birmingham
 
 
-Group 3:
+Group 3
 
 (3)  12 July   Brazil      2-0    Bulgaria         @ Goodison Park, Liverpool
 (7)  13 July   Portugal    3-1    Hungary          @ Old Trafford, Manchester
@@ -47,7 +47,7 @@ Group 3:
 (23) 20 July   Hungary     3-1    Bulgaria         @ Old Trafford, Manchester
 
 
-Group 4:
+Group 4
 
 (4)  12 July   Soviet Union    3-0  North Korea   @ Ayresome Park, Middlesbrough
 (8)  13 July   Italy           2-0  Chile         @ Roker Park, Sunderland

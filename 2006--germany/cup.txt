@@ -28,7 +28,7 @@ Matchday 15 | Fri Jun/23
 
 
 
-Group A:
+Group A
 
 (1)  Fri Jun/9     Germany     4-2 (2-1)  Costa Rica   @ Allianz Arena, München
 (2)  Fri Jun/9     Poland      0-2 (0-1)  Ecuador      @ Veltins-Arena, Gelsenkirchen
@@ -41,7 +41,7 @@ Group A:
 (34)  Tue Jun/20   Costa Rica  1-2 (1-1)  Poland       @ AWD-Arena, Hannover
 
 
-Group B:
+Group B
 
 (3)  Sat Jun/10    England  1-0 (1-0)  Paraguay          @ Commerzbank-Arena, Frankfurt
 (4)  Sat Jun/10    Trinidad and Tobago  0-0  Sweden      @ Signal Iduna Park, Dortmund
@@ -53,7 +53,7 @@ Group B:
 (36)  Tue Jun/20   Paraguay  2-0 (1-0)  Trinidad and Tobago   @ Fritz-Walter-Stadion, Kaiserslautern
 
 
-Group C:
+Group C
 
 (5)  Sat Jun/10    Argentina  2-1 (2-0)  Côte d'Ivoire         @ AOL Arena, Hamburg
 
@@ -66,7 +66,7 @@ Group C:
 (38)  Wed Jun/21   Côte d'Ivoire  3-2 (1-2)  Serbia and Montenegro   @ Allianz Arena, München
 
 
-Group D:
+Group D
 
 (7)  Sun Jun/11     Mexico    3-1 (1-1)  Iran        @ Frankenstadion, Nürnberg
 (8)  Sun Jun/11     Angola    0-1 (0-1)  Portugal    @ RheinEnergieStadion, Köln
@@ -79,7 +79,7 @@ Group D:
 (40)  Wed Jun/21    Iran      1-1 (0-0)  Angola      @ Zentralstadion, Leipzig
 
 
-Group E:
+Group E
 
 (9)  Mon Jun/12    Italy           2-0 (1-0)  Ghana           @ AWD-Arena, Hannover
 (10) Mon Jun/12    United States   0-3 (0-2)  Czech Republic  @ Veltins-Arena, Gelsenkirchen
@@ -91,7 +91,7 @@ Group E:
 (42) Thu Jun/22    Ghana           2-1 (2-1)  United States    @ Frankenstadion, Nürnberg
 
 
-Group F:
+Group F
 
 (11)  Tue Jun/13    Brazil     1-0 (1-0)  Croatia       @ Olympiastadion, Berlin
 
@@ -104,7 +104,7 @@ Group F:
 (44)  Thu Jun/22    Croatia    2-2 (1-1)  Australia     @ Gottlieb-Daimler-Stadion, Stuttgart
 
 
-Group G:
+Group G
 
 (13)  Tue Jun/13    France          0-0        Switzerland     @ Gottlieb-Daimler-Stadion, Stuttgart
 (14)  Tue Jun/13    South Korea     2-1 (0-1)  Togo            @ Commerzbank-Arena, Frankfurt
@@ -117,7 +117,7 @@ Group G:
 (46)  Fri Jun/23    Switzerland     2-0 (1-0)  South Korea     @ AWD-Arena, Hannover
 
 
-Group H:
+Group H
 
 (15)  Wed Jun/14    Spain         4-0 (2-0)  Ukraine         @ Zentralstadion, Leipzig
 (16)  Wed Jun/14    Tunisia       2-2 (1-0)  Saudi Arabia    @ Allianz Arena, München

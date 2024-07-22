@@ -10,7 +10,7 @@ Matchday 2 |   6 June - 7 June
 Matchday 3 |  10 June - 11 June
 
 
-Group 1:
+Group 1
 
 (1)  31 May     Mexico          0-0    Soviet Union   @ Estadio Azteca, Mexico City
 (5)   3 June    Belgium         3-0    El Salvador    @ Estadio Azteca, Mexico City
@@ -22,7 +22,7 @@ Group 1:
 (21) 11 June    Mexico          1-0    Belgium        @ Estadio Azteca, Mexico City
 
 
-Group 2:
+Group 2
 
 (2)   2 June   Uruguay    2-0    Israel      @ Estadio Cuauhtémoc, Puebla
 (6)   3 June   Italy      1-0    Sweden      @ Estadio Luis Dosal, Toluca
@@ -34,7 +34,7 @@ Group 2:
 (22) 11 June   Israel     0-0    Italy       @ Estadio Luis Dosal, Toluca
 
 
-Group 3:
+Group 3
 
 (3)   2 June   Romania    0-1    England          @ Estadio Jalisco, Guadalajara
 (7)   3 June   Czechoslovakia    1-4    Brazil     @ Estadio Jalisco, Guadalajara
@@ -46,7 +46,7 @@ Group 3:
 (23) 11 June   England    1-0    Czechoslovakia   @ Estadio Jalisco, Guadalajara
 
 
-Group 4:
+Group 4
 
 (4)   2 June   Peru        3-2   Bulgaria       @ Estadio Nou Camp, León
 (8)   3 June   Morocco     1-2   West Germany   @ Estadio Nou Camp, León

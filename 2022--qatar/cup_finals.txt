@@ -10,50 +10,50 @@ Final                  |  Sun Dec/18
 
 Round of 16
 
-(49)  Sat Dec/3 18:00     Netherlands	    3-1 (2-0) 	United States  @ Khalifa International Stadium, Al Rayyan
+(49)  Sat Dec/3 18:00     Netherlands      3-1 (2-0)   United States  @ Khalifa International Stadium, Al Rayyan
     [Memphis Depay 10' Daley Blind 45+1' Denzel Dumfries 81'; Haji Wright 76']
 
-(50)  Sat Dec/3 22:00     Argentina	        2-1 (1-0)	Australia  @ Ahmad bin Ali Stadium, Al Rayyan
+(50)  Sat Dec/3 22:00     Argentina          2-1 (1-0)  Australia  @ Ahmad bin Ali Stadium, Al Rayyan
     [Lionel Messi 35' Julián Álvarez 57'; Enzo Fernández 77'(o.g.)]
 
-(52)  Sun Dec/4 18:00     France	        3-1 (1-0)	Poland  @ Al Thumama Stadium, Doha
+(52)  Sun Dec/4 18:00     France          3-1 (1-0)  Poland  @ Al Thumama Stadium, Doha
     [Olivier Giroud 44' Mbappé 74', 90+1'; Robert Lewandowski 90+9'(pen.)]
 
-(51)  Sun Dec/4 22:00     England	        3-0 (2-0)  	Senegal  @ Al Bayt Stadium, Al Khor
+(51)  Sun Dec/4 22:00     England          3-0 (2-0)    Senegal  @ Al Bayt Stadium, Al Khor
     [Jordan Henderson 38' Harry Kane 45+3' Bukayo Saka 57']
 
-(53)  Mon Dec/5 18:00     Japan             1-3 pen. 1-1 a.e.t (1-1, 1-0)	Croatia  @ Al Janoub Stadium, Al Wakrah
+(53)  Mon Dec/5 18:00     Japan             1-3 pen. 1-1 a.e.t (1-1, 1-0)  Croatia  @ Al Janoub Stadium, Al Wakrah
     [Daizen Maeda 43'; Ivan Perišić 55']
 
-(54)  Mon Dec/5 22:00     Brazil            4-1 (4-0) 	South Korea  @ Stadium 974, Doha
+(54)  Mon Dec/5 22:00     Brazil            4-1 (4-0)   South Korea  @ Stadium 974, Doha
     [Vinícius Jr. 7' Neymar 13'(pen.) Richarlison 29' Lucas Paquetá 36'; Paik Seung-ho 76']
 
-(55)  Tue Dec/6 18:00     Morocco	        3-0 pen. 0-0 a.e.t. (0-0, 0-0) 	Spain  @ Education City Stadium, Al Rayyan
+(55)  Tue Dec/6 18:00     Morocco          3-0 pen. 0-0 a.e.t. (0-0, 0-0)   Spain  @ Education City Stadium, Al Rayyan
 
-(56)  Tue Dec/6 22:00     Portugal	        6-1 (2-0)   Switzerland  @ Lusail Iconic Stadium, Lusail
+(56)  Tue Dec/6 22:00     Portugal          6-1 (2-0)   Switzerland  @ Lusail Iconic Stadium, Lusail
     [Gonçalo Ramos 17', 51', 67' Pepe 33' Raphaël Guerreiro 55' Rafael Leão 90+2'; Manuel Akanji 58']
 
 
 Quarter-finals
 
-(58)  Fri Dec/9 18:00     Croatia	        4-2 pen. 1-1 a.e.t. (0-0, 0-0) 	Brazil  @ Education City Stadium, Al Rayyan
+(58)  Fri Dec/9 18:00     Croatia          4-2 pen. 1-1 a.e.t. (0-0, 0-0)   Brazil  @ Education City Stadium, Al Rayyan
     [Bruno Petković 117'; Neymar 105+1']
 
-(57)  Fri Dec/9 22:00     Netherlands	    3-4 pen. 2-2 a.e.t. (2-2, 1-0)      	Argentina  @ Lusail Iconic Stadium, Lusail
+(57)  Fri Dec/9 22:00     Netherlands      3-4 pen. 2-2 a.e.t. (2-2, 1-0)        Argentina  @ Lusail Iconic Stadium, Lusail
     [Wout Werghost 83', 90+11'; Nahuel Molina 35' Lionel Messi 73'(pen.)]
 
-(60)  Sat Dec/10 18:00    Morocco	        1-0 (1-0)	Portugal  @ Al Thumama Stadium, Doha
+(60)  Sat Dec/10 18:00    Morocco          1-0 (1-0)  Portugal  @ Al Thumama Stadium, Doha
     [Youssef En-Nesyri 42']
 
-(59)  Sat Dec/10 22:00    England	        1-2 (0-1) 	France  @ Al Bayt Stadium, Al Khor
+(59)  Sat Dec/10 22:00    England          1-2 (0-1)   France  @ Al Bayt Stadium, Al Khor
     [Harry Kane 54'(pen.); Aurelién Tchouaméni 17' Olivier Giroud 78']
 
 Semi-finals
 
-(61)   Tue Dec/13 22:00   Argentina         3-0 (2-0) 	Croatia  @ Lusail Iconic Stadium, Lusail
+(61)   Tue Dec/13 22:00   Argentina         3-0 (2-0)   Croatia  @ Lusail Iconic Stadium, Lusail
     [Lionel Messi 34'(pen.) Julián Álvarez 39', 69']
 
-(62)   Wed Dec/14 22:00   France	        2-0 (1-0)   Morocco  @ Al Bayt Stadium, Al Khor
+(62)   Wed Dec/14 22:00   France          2-0 (1-0)   Morocco  @ Al Bayt Stadium, Al Khor
     [Théo Hernandez 5' Kolo Muani 79']
 
 
@@ -64,5 +64,5 @@ Match for third place
 
 Final
 
-(64) Sun Dec/18 18:00     Argentina	        4-2 pen. 3-3 a.e.t. (2-2, 2-0)	 France @ Lusail Iconic Stadium, Lusail
+(64) Sun Dec/18 18:00     Argentina          4-2 pen. 3-3 a.e.t. (2-2, 2-0)   France @ Lusail Iconic Stadium, Lusail
     [Lionel Messi 23'(pen.), 108' Ángel Di María 36'; Kylian Mbappé 80' (pen.), 81', 118' (pen.)]

@@ -11,7 +11,7 @@ Matchday 2  |   11 June - 12 June
 Matchday 3  |   15 June
 
 
-Group 1:
+Group 1
 
 (7)  8 June     West Germany      3-1  Argentina       @ Malmö Stadion, Malmö
 (8)  8 June     Northern Ireland  1-0  Czechoslovakia  @ Örjans Vall, Halmstad
@@ -30,7 +30,7 @@ Group-1 Play-off
 (35) 17 June   Northern Ireland   2-1 a.e.t. (1-1)   Czechoslovakia  @ Malmö Stadion, Malmö
 
 
-Group 2:
+Group 2
 
 (3)   8 June      France       7-3  Paraguay   @ Idrottsparken, Norrköping
 (4)   8 June      Yugoslavia   1-1  Scotland   @ Arosvallen, Västerås
@@ -42,7 +42,7 @@ Group 2:
 (19) 15 June     Paraguay     3-3  Yugoslavia   @ Tunavallen, Eskilstuna
 
 
-Group 3:
+Group 3
 
 (1)  8 June      Sweden     3-0  Mexico    @ Råsunda Stadium, Solna
 (2)  8 June      Hungary    1-1  Wales     @ Jernvallen, Sandviken
@@ -60,7 +60,7 @@ Group-3 Play-off
 (33) 17 June     Wales      2-1  Hungary     @ Råsunda Stadium, Solna
 
 
-Group 4:
+Group 4
 
 (6)  8 June     Brazil         3-0  Austria     @ Rimnersvallen, Uddevalla
 (5)  8 June     Soviet Union   2-2  England     @ Ullevi, Gothenburg

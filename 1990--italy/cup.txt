@@ -15,7 +15,7 @@ Matchday 2 |  14 June - 17 June
 Matchday 3 |  18 June - 21 June
 
 
-Group A:
+Group A
 
 (3)   9 June   Italy      1-0    Austria   @ Stadio Olimpico, Rome
 (5)  10 June  United States    1-5    Czechoslovakia  @ Stadio Comunale, Florence
@@ -26,7 +26,7 @@ Group A:
 (29) 19 June  Italy      2-0    Czechoslovakia    @ Stadio Olimpico, Rome
 (30) 19 June  Austria    2-1    United States   @ Stadio Comunale, Florence
 
-Group B:
+Group B
 
 (1)   8 June   Argentina       0-1    Cameroon   @ San Siro, Milan
 (2)   9 June   Soviet Union    0-2    Romania  @ Stadio San Nicola, Bari
@@ -37,7 +37,7 @@ Group B:
 (25) 18 June  Argentina       1-1    Romania  @ Stadio San Paolo, Naples
 (26) 18 June  Cameroon        0-4    Soviet Union   @ Stadio San Nicola, Bari
 
-Group C:
+Group C
 
 (6)  10 June   Brazil        2-1    Sweden    @ Stadio Delle Alpi, Turin
 (8)  11 June   Costa Rica    1-0    Scotland  @ Stadio Luigi Ferraris, Genoa
@@ -48,7 +48,7 @@ Group C:
 (31) 20 June   Brazil        1-0    Scotland   @ Stadio Delle Alpi, Turin
 (32) 20 June   Sweden        1-2    Costa Rica  @ Stadio Luigi Ferraris, Genoa
 
-Group D:
+Group D
 
 (4)   9 June    United Arab Emirates    0-2    Colombia  @ Stadio Renato Dall'Ara, Bologna
 (7)  10 June   West Germany    4-1    Yugoslavia  @ San Siro, Milan
@@ -59,7 +59,7 @@ Group D:
 (27) 19 June   West Germany    1-1    Colombia   @ San Siro, Milan
 (28) 19 June   Yugoslavia      4-1    United Arab Emirates  @ Stadio Renato Dall'Ara, Bologna
 
-Group E:
+Group E
 
 (10)  12 June    Belgium       2-0    South Korea  @ Stadio Marc'Antonio Bentegodi, Verona
 (12)  13 June    Uruguay       0-0    Spain   @ Stadio Friuli, Udine
@@ -70,7 +70,7 @@ Group E:
 (33)  21 June    Belgium       1-2    Spain    @ Stadio Marc'Antonio Bentegodi, Verona
 (34)  21 June    South Korea   0-1    Uruguay  @ Stadio Friuli, Udine
 
-Group F:
+Group F
 
 (9)  11 June    England      1-1    Ireland     @ Stadio Sant'Elia, Cagliari
 (11) 12 June    Netherlands  1-1    Egypt   @ Stadio La Favorita, Palermo

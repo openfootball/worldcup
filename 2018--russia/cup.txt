@@ -3,7 +3,7 @@
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
 Group B  |  Portugal     Spain                Morocco        Iran
-Group C  |  France       Australia            Peru           Denmark
+Group C  |  France       Australia            Peru           Denmark
 Group D  |  Argentina    Iceland              Croatia        Nigeria
 Group E  |  Brazil       Switzerland          Costa Rica     Serbia
 Group F  |  Germany      Mexico               Sweden         South Korea
@@ -29,7 +29,7 @@ Matchday 15 |  Thu Jun/28
 
 
 
-Group A:
+Group A
 
  (1) Thu Jun/14 18:00      Russia       5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
         [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
@@ -47,7 +47,7 @@ Group A:
         [Salman Al-Faraj 45+6' (pen.) Salem Al-Dawsari 90+5'; M. Salah 22']
 
 
-Group B:
+Group B
 
  (4) Fri Jun/15 18:00     Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
         [-; Bouhaddouz 90+5' (o.g.)]
@@ -65,7 +65,7 @@ Group B:
         [Isco 19' Iago Aspas 90+1'; Boutaib 14' En-Nesyri 81']
 
 
-Group C:
+Group C
 
  (5) Sat Jun/16 13:00     France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan (UTC+3)
              [Griezmann 58' (pen.) Behich 81' (o.g.); Jedinak 62' (pen.)]
@@ -82,7 +82,7 @@ Group C:
              [-; Carrillo 18' Guerrero 50']
 
 
-Group D:
+Group D
 
  (7) Sat Jun/16 16:00      Argentina   1-1 (1-1)   Iceland    @ Spartak Stadium, Moscow (UTC+3)
             [Agüero 19'; Finnbogason 23']
@@ -100,7 +100,7 @@ Group D:
             [G. Sigurðsson 76' (pen.); Badelj 53' Perišić 90']
 
 
-Group E:
+Group E
 
 (10) Sun Jun/17 16:00       Costa Rica   0-1 (0-0)  Serbia          @ Samara Arena, Samara (UTC+4)
             [-; Kolarov 56']
@@ -108,7 +108,7 @@ Group E:
             [Coutinho 20'; Zuber 50']
 
 (25) Fri Jun/22 15:00       Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-            [P. Coutinho 90+1 Neymar Jr 90+7']
+            [P. Coutinho 90+1' Neymar Jr 90+7']
 (26) Fri Jun/22 20:00       Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
             [Mitrović 5'; Xhaka 52' Shaqiri 90']
 
@@ -117,7 +117,7 @@ Group E:
 (42) Wed Jun/27 21:00       Switzerland 2-2 (1-0) Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
             [Džemaili 31' Drmić 88'; Waston 56' Sommer 90+3' (o.g.)]
 
-Group F:
+Group F
 
 (11) Sun Jun/17 18:00        Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
             [-; Lozano 35']
@@ -132,9 +132,9 @@ Group F:
 (43) Wed Jun/27 17:00        South Korea 2-0 (0-0) Germany      @ Kazan Arena, Kazan (UTC+3)
             [Kim Young-gwon 90+2' Son Heung-min 90+6']
 (44) Wed Jun/27 19:00        Mexico 0-3 (0-0)         Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-            [-; Augustinsson 50' Granqvist 62' (pen.) Álvarez 74' (o.g.)
+            [-; Augustinsson 50' Granqvist 62' (pen.) Álvarez 74' (o.g.)]
 
-Group G:
+Group G
 
 (13) Mon Jun/18 18:00          Belgium   3-0 (0-0)   Panama     @ Fisht Stadium, Sochi (UTC+3)
             [Mertens 47' Lukaku 69', 75']
@@ -152,7 +152,7 @@ Group G:
             [Yassine Meriah 33' (o.g.); Fakhereedine Ben Youssef 51' Wahbi Khazri 66']
 
 
-Group H:
+Group H
 
 (16) Tue Jun/19 15:00          Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk (UTC+3)
             [J. Quintero 39'; Kagawa 6' (pen.) Osako 73']

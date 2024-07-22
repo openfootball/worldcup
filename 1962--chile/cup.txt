@@ -12,7 +12,7 @@ Matchday 3 |    6 June - 7 June
 
 
 
-Group 1:
+Group 1
 
 (1)  30 May    Uruguay         2-1  Colombia      @ Estadio Carlos Dittborn, Arica
 (5)  31 May    Soviet Union    2-0  Yugoslavia    @ Estadio Carlos Dittborn, Arica
@@ -24,7 +24,7 @@ Group 1:
 (21) 7 June    Yugoslavia      5-0  Colombia     @ Estadio Carlos Dittborn, Arica
 
 
-Group 2:
+Group 2
 
 (2)  30 May    Chile           3-1  Switzerland   @ Estadio Nacional, Santiago
 (6)  31 May    West Germany    0-0  Italy         @ Estadio Nacional, Santiago
@@ -36,7 +36,7 @@ Group 2:
 (22)  7 June    Italy           3-0  Switzerland   @ Estadio Nacional, Santiago
 
 
-Group 3:
+Group 3
 
 (3)  30 May    Brazil           2-0  Mexico    @ Estadio Sausalito, Viña del Mar
 (7)  31 May    Czechoslovakia   1-0  Spain     @ Estadio Sausalito, Viña del Mar
@@ -48,7 +48,7 @@ Group 3:
 (23)  7 June    Mexico           3-1  Czechoslovakia   @ Estadio Sausalito, Viña del Mar
 
 
-Group 4:
+Group 4
 
 (4)  30 May    Argentina  1-0  Bulgaria    @ Estadio El Teniente, Rancagua
 (8)  31 May    Hungary    2-1  England     @ Estadio El Teniente, Rancagua

@@ -14,7 +14,7 @@ First round |   24 June - 2 July
 ## todo: final round (just regular matches; not knock out matches)
 
 
-Group 1:
+Group 1
 
 (1)  24 June    Brazil       4-0 (1-0) Mexico       @ Estádio do Maracanã, Rio de Janeiro
                   [Ademir 30', 79' Jair 65' Baltazar 71']
@@ -31,7 +31,7 @@ Group 1:
 (14) 2 July     Switzerland  2-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
                   [Bader 10' Antenen 44';  Casarín 89']
 
-Group 2:
+Group 2
 
 (2)  25 June     England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
                    [Mortensen 27' Mannion 51']
@@ -49,7 +49,7 @@ Group 2:
                    [Robledo 16' Riera 32' Cremaschi 54', 82' Prieto 60';  Wallace 47' Maca 48' (pen.)]
 
 
-Group 3:
+Group 3
 
 (4)  25 June     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
                    [Jeppson 25', 68' Andersson 33';  Carapellese 7' Muccinelli 75']
@@ -59,7 +59,7 @@ Group 3:
 (13)  2 July     Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
                    [Carapellese 12' Pandolfini 62']
 
-Group 4:
+Group 4
 
 (16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
                    [Míguez 14', 40', 51' Vidal 18' Schiaffino 23', 54' Pérez 83' Ghiggia 87']
@@ -75,7 +75,7 @@ Group F |  Uruguay  Brazil  Sweden  Spain
 
 Final Round | 9 July - 16 July
 
-Group F:
+Group F
 
 (17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
                    [Ghiggia 29' Varela 73';  Basora 37', 39']

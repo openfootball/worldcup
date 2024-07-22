@@ -22,7 +22,7 @@ Final        | 30 July
 
 
 
-Group 1:
+Group 1
 
 (1)  13 July     France     4-1 (3-0)  Mexico    @ Estadio Pocitos, Montevideo
                    [L. Laurent 19' Langiller 40' Maschinot 43', 87'; Carreño 70']
@@ -42,7 +42,7 @@ Group 1:
 (15) 22 July     Argentina  3-1 (2-1)  Chile     @ Estadio Centenario, Montevideo
                    [Stábile 12', 13'  M. Evaristo 81';  Subiabre 15']
 
-Group 2:
+Group 2
 
 (3)  14 July     Yugoslavia   2-1 (2-0)  Brazil   @ Estadio Parque Central, Montevideo
                    [Tirnanić 21' Bek 30';  Preguinho 62']
@@ -53,7 +53,7 @@ Group 2:
 (12) 20 July     Brazil       4-0 (1-0)  Bolivia  @ Estadio Centenario, Montevideo
                    [Moderato 37', 73' Preguinho 57', 83']
 
-Group 3:
+Group 3
 
 (4)  14 July     Romania      3-1 (1-0)  Peru    @ Estadio Pocitos, Montevideo
                    [Deşu 1' Stanciu 79' Kovács 89';  Souza Ferreira 75']
@@ -65,7 +65,7 @@ Group 3:
                    [Dorado 7' Scarone 24' Anselmo 30' Cea 35']
 
 
-Group 4:
+Group 4
 
 (2)  13 July     United States   3-0 (2-0)  Belgium  @ Estadio Parque Central, Montevideo
                    [McGhee 23' Florie 45' Patenaude 69']

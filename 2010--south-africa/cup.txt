@@ -28,7 +28,7 @@ Matchday 14 |  Thu Jun/24
 Matchday 15 |  Fri Jun/25
 
 
-Group A:
+Group A
 
 (1) Fri Jun/11 16:00    South Africa  1-1  Mexico      @ Soccer City, Johannesburg
 (2) Fri Jun/11 20:30    Uruguay       0-0  France      @ Cape Town Stadium, Cape Town
@@ -41,7 +41,7 @@ Group A:
 (34) Tue Jun/22 16:00    France        1-2  South Africa   @ Free State Stadium, Bloemfontein
 
 
-Group B:
+Group B
 
 (4) Sat Jun/12 13:30    South Korea     2-0  Greece       @ Nelson Mandela Bay Stadium, Port Elizabeth
 (3) Sat Jun/12 16:00    Argentina       1-0  Nigeria      @ Ellis Park Stadium, Johannesburg
@@ -53,7 +53,7 @@ Group B:
 (36) Tue Jun/22 20:30    Greece         0-2  Argentina     @ Peter Mokaba Stadium, Polokwane
 
 
-Group C:
+Group C
 
 (5) Sat Jun/12 20:30    England         1-1  United States    @ Royal Bafokeng Stadium, Rustenburg
 
@@ -66,7 +66,7 @@ Group C:
 (37) Wed Jun/23 16:00    Slovenia       0-1  England      @ Nelson Mandela Bay Stadium, Port Elizabeth
 
 
-Group D:
+Group D
 
 (8) Sun Jun/13 16:00    Serbia         0-1  Ghana         @ Loftus Versfeld Stadium, Pretoria
 (7) Sun Jun/13 20:30    Germany        4-0  Australia     @ Moses Mabhida Stadium, Durban
@@ -79,7 +79,7 @@ Group D:
 (39) Wed Jun/23 20:30    Ghana         0-1 Germany         @ Soccer City, Johannesburg
 
 
-Group E:
+Group E
 
 (9)  Mon Jun/14 13:30   Netherlands    2-0  Denmark       @ Soccer City, Johannesburg
 (10) Mon Jun/14 16:00   Japan          1-0  Cameroon      @ Free State Stadium, Bloemfontein
@@ -91,7 +91,7 @@ Group E:
 (44) Thu Jun/24 20:30   Cameroon  1-2  Netherlands        @ Cape Town Stadium, Cape Town
 
 
-Group F:
+Group F
 
 (11) Mon Jun/14 20:30   Italy  1-1  Paraguay              @ Cape Town Stadium, Cape Town
 
@@ -104,7 +104,7 @@ Group F:
 (42) Thu Jun/24 16:00   Paraguay  0-0  New Zealand        @ Peter Mokaba Stadium, Polokwane
 
 
-Group G:
+Group G
 
 (13) Tue Jun/15 16:00   Côte d'Ivoire  0-0  Portugal       @ Nelson Mandela Bay Stadium, Port Elizabeth
 (14) Tue Jun/15 20:30   Brazil         2-1  North Korea    @ Ellis Park Stadium, Johannesburg
@@ -117,7 +117,7 @@ Group G:
 (46) Fri Jun/25 16:00   North Korea  0-3  Côte d'Ivoire   @ Mbombela Stadium, Nelspruit
 
 
-Group H:
+Group H
 
 (15) Wed Jun/16 13:30   Honduras  0-1  Chile             @ Mbombela Stadium, Nelspruit
 (16) Wed Jun/16 16:00   Spain     0-1  Switzerland       @ Moses Mabhida Stadium, Durban

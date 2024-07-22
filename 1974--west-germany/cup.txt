@@ -11,7 +11,7 @@ Matchday 2 |  18 June - 19 June
 Matchday 3 |  22 June - 23 June
 
 
-Group 1:
+Group 1
 
 (1)  14 June    West Germany  1-0   Chile        @ Olympiastadion, West Berlin
 (2)  14 June    East Germany  2-0   Australia    @ Volksparkstadion, Hamburg
@@ -23,7 +23,7 @@ Group 1:
 (18) 22 June    East Germany  1-0   West Germany   @ Volksparkstadion, Hamburg
 
 
-Group 2:
+Group 2
 
 (3)  13 June    Brazil      0-0   Yugoslavia      @ Waldstadion, Frankfurt
 (4)  14 June    Zaire       0-2   Scotland        @ Westfalenstadion, Dortmund
@@ -35,7 +35,7 @@ Group 2:
 (20) 22 June    Zaire       0-3   Brazil          @ Parkstadion, Gelsenkirchen
 
 
-Group 3:
+Group 3
 
 (5)  15 June    Uruguay      0-2    Netherlands    @ Niedersachsenstadion, Hanover
 (6)  15 June    Sweden       0-0    Bulgaria       @ Rheinstadion, Düsseldorf
@@ -47,7 +47,7 @@ Group 3:
 (22) 23 June    Sweden       3-0    Uruguay        @ Rheinstadion, Düsseldorf
 
 
-Group 4:
+Group 4
 
 (7)  15 June    Italy       3-1    Haiti          @ Olympiastadion, Munich
 (8)  15 June    Poland      3-2    Argentina      @ Neckarstadion, Stuttgart
@@ -73,7 +73,7 @@ Matchday 5 |  30 June
 Matchday 6 |  3 July
 
 
-Group A:
+Group A
 
 (25) 26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
 (26) 26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
@@ -84,7 +84,7 @@ Group A:
 (33) 3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
 (34) 3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
 
-Group B:
+Group B
 
 (27) 26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
 (28) 26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart

@@ -11,7 +11,7 @@ Matchday 2 |   6 June - 7 June
 Matchday 3 |  10 June - 11 June
 
 
-Group 1:
+Group 1
 
 (2)  2 June   Argentina    2-1    Hungary  @ Estadio Monumental, Buenos Aires
 (3)  2 June   Italy        2-1    France   @ Estadio José María Minella, Mar del Plata
@@ -23,7 +23,7 @@ Group 1:
 (18) 10 June  France       3-1    Hungary   @ Estadio José María Minella, Mar del Plata
 
 
-Group 2:
+Group 2
 
 (1)  1 June   West Germany    0-0    Poland   @ Estadio Monumental, Buenos Aires
 (4)  2 June   Tunisia         3-1    Mexico   @ Estadio Gigante de Arroyito, Rosario
@@ -35,7 +35,7 @@ Group 2:
 (20) 10 June  West Germany    0-0    Tunisia  @ Estadio Olímpico Chateau Carreras, Córdoba
 
 
-Group 3:
+Group 3
 
 (5)  3 June   Austria      2-1    Spain     @ Estadio José Amalfitani, Buenos Aires
 (6)  3 June   Brazil       1-1    Sweden    @ Estadio José Maria Minella, Mar del Plata
@@ -47,7 +47,7 @@ Group 3:
 (22) 11 June  Brazil       1-0    Austria   @ Estadio José Maria Minella, Mar del Plata
 
 
-Group 4:
+Group 4
 
 (7)  3 June   Peru           3-1    Scotland     @ Estadio Chateau Carreras, Córdoba
 (8)  3 June   Netherlands    3-0    Iran         @ Estadio Ciudad de Mendoza, Mendoza
@@ -72,7 +72,7 @@ Matchday 5 |  18 June
 Matchday 6 |  21 June
 
 
-Group A:
+Group A
 
 (25) 14 June   Italy          0-0    West Germany  @ Estadio Monumental, Buenos Aires
 (27) 14 June   Austria        1-5    Netherlands   @ Estadio Chateau Carreras, Córdoba
@@ -84,7 +84,7 @@ Group A:
 (35) 21 June   Austria        3-2    West Germany   @ Estadio Chateau Carreras, Córdoba
 
 
-Group B:
+Group B
 
 (26) 14 June   Argentina      2-0    Poland    @ Estadio Gigante de Arroyito, Rosario
 (28) 14 June   Peru           0-3    Brazil    @ Estadio Ciudad de Mendoza, Mendoza

@@ -27,7 +27,7 @@ Matchday 13 |  Fri Dec/2
 
 
 
-Group A:
+Group A
 (1) Sun Nov/20 19:00      Qatar   0-2 (0-2)   Ecuador    @ Al Bayt Stadium, Al Khor
        [-; Enner Valencia 16' (pen.), 31']
 
@@ -46,7 +46,7 @@ Group A:
 (36) Tue Nov/29 18:00     Netherlands 2-0 (1-0)  Qatar   @ Al Bayt Stadium, Al Khor
        [Cody Gakpo 26'  Frenkie de Jong 49']
 
-Group B:
+Group B
 (3) Mon Nov/21 16:00     England  6-2 (3-0)   Iran      @ Khalifa International Stadium, Al Rayyan
        [Jude Bellingham 35' Bukayo Saka 43', 62' Raheem Sterling 45+1' Marcus Rashford 71' Jack Grealish 90'; Mehdi Taremi 65', 90+13' (pen.)]
 
@@ -64,7 +64,7 @@ Group B:
 (34)  Tue Nov/29 22:00    Iran  0-1 (0-1)  United States   @ Al Thumama Stadium, Doha
        [-; Pulisic 38']
 
-Group C:
+Group C
 (8)  Tue Nov/22 13:00      Argentina  1-2 (1-0)   Saudi Arabia   @ Lusail Iconic Stadium, Lusail
        [Lionel Messi 10'(pen.); Saleh Al Shehri 48'  Salem Al Dawsari 53']
 
@@ -82,7 +82,7 @@ Group C:
 (40)   Wed Nov/30 22:00     Saudi Arabia  1-2 (0-0)   Mexico  @ Lusail Iconic Stadium, Lusail
        [Salem Al Dawasari 90+5'; Henry Martín 47'  Luis Chávez 52']
 
-Group D:
+Group D
 (6)  Tue Nov/22 16:00       Denmark  0-0  Tunisia    @ Education City Stadium, Al Rayyan
 
 (5)  Tue Nov/22 22:00       France   4-1 (2-1)  Australia  @ Al Janoub Stadium, Al Wakrah
@@ -100,7 +100,7 @@ Group D:
 (38) Wed Nov/30 18:00      Tunisia    1-0 (0-0)  France   @ Education City Stadium, Al Rayyan
        [Wahbi Khazri 58']
 
-Group E:
+Group E
 (11) Wed Nov/23 16:00     Germany  1-2 (1-0)   Japan   @ Khalifa International Stadium, Al Rayyan
        [Ilkay Gündogan 33'(pen.); Ritsu Doan 75' Takuma Asano 83']
 
@@ -120,7 +120,7 @@ Group E:
        [Yeltsin Tejeda 58'  Juan Vargas 70'; Serge Gnabry 10'  Kai Lukas Havertz 73', 85'  Niclas Füllkrug 89']
 
 
-Group F:
+Group F
 (12)  Wed Nov/23 13:00     Morocco   0-0   Croatia   @ Al Bayt Stadium, Al Khor
 
 (9)  Wed Nov/23 22:00     Belgium   1-0 (1-0)  Canada    @ Ahmad bin Ali Stadium, Al Rayyan
@@ -138,7 +138,7 @@ Group F:
        [Nayef Aguerd 40'(o.g.); Hakim Zyiech 4'  Youssef En-Nesyri 23']
 
 
-Group G:
+Group G
 (13) Thu Nov/24 13:00     Switzerland  1-0 (0-0)   Cameroon   @ Al Janoub Stadium, Al Wakrah
        [Breel Embolo 48']
 (16) Thu Nov/24 22:00      Brazil   2-0 (0-0)   Serbia   @ Lusail Iconic Stadium, Lusail
@@ -154,7 +154,7 @@ Group G:
        [Vincent Aboubakar 90+2']
 
 
-Group H:
+Group H
 (14) Thu Nov/24 16:00     Uruguay   0-0   South Korea   @ Education City Stadium, Al Rayyan
 (15) Thu Nov/24 19:00     Portugal    3-2 (0-0)  Ghana      @ Stadium 974, Doha
        [Cristiano Ronaldo 65'(pen.) João Félix 78' Rafael Leão 80'; André Ayew 73' Osman Bukari 89']

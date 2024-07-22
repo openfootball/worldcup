@@ -16,7 +16,7 @@ Matchday 2 | 16 June - 22 June
 Matchday 3 | 23 June - 26 June
 
 
-Group A:
+Group A
 
 (1)  10 June    Brazil      2-1    Scotland    @ Stade de France, Saint-Denis
 (2)  10 June    Morocco     2-2    Norway      @ Stade de la Mosson, Montpellier
@@ -27,7 +27,7 @@ Group A:
 (34) 23 June    Scotland    0-3    Morocco     @ Stade Geoffroy-Guichard, Saint-Étienne
 (35) 23 June    Brazil      1-2    Norway      @ Stade Vélodrome, Marseille
 
-Group B:
+Group B
 
 (3)  11 June   Cameroon    1-1    Austria    @ Stade de Toulouse, Toulouse
 (4)  11 June   Italy       2-2    Chile    @ Parc Lescure, Bordeaux
@@ -38,7 +38,7 @@ Group B:
 (33) 23 June   Italy       2-1    Austria   @ Stade de France, Saint-Denis
 (36) 23 June   Chile       1-1    Cameroon   @ Stade de la Beaujoire, Nantes
 
-Group C:
+Group C
 
 (5)  12 June   Saudi Arabia   0-1    Denmark   @ Stade Félix Bollaert, Lens
 (6)  12 June   France         3-0    South Africa   @ Stade Vélodrome, Marseille
@@ -49,7 +49,7 @@ Group C:
 (38) 24 June   France         2-1    Denmark         @ Stade Gerland, Lyon
 (40) 24 June   South Africa   2-2    Saudi Arabia   @ Parc Lescure, Bordeaux
 
-Group D:
+Group D
 
 (7)  12 June   Paraguay   0-0    Bulgaria    @ Stade de la Mosson, Montpellier
 (10) 13 June   Spain      2-3    Nigeria    @ Stade de la Beaujoire, Nantes
@@ -60,7 +60,7 @@ Group D:
 (37) 24 June   Spain      6-1    Bulgaria   @ Stade Félix Bollaert, Lens
 (39) 24 June   Nigeria    1-3    Paraguay   @ Stade de Toulouse, Toulouse
 
-Group E:
+Group E
 
 (8)  13 June   Netherlands    0-0    Belgium   @ Stade de France, Saint-Denis
 (9)  13 June   South Korea    1-3    Mexico   @ Stade Gerland, Lyon
@@ -71,7 +71,7 @@ Group E:
 (41) 25 June   Belgium        1-1    South Korea   @ Parc des Princes, Paris
 (42) 25 June   Netherlands    2-2    Mexico   @ Stade Geoffroy-Guichard, Saint-Étienne
 
-Group F:
+Group F
 
 (12) 14 June   Yugoslavia       1-0    Iran   @ Stade Geoffroy-Guichard, Saint-Étienne
 (14) 15 June   Germany          2-0    United States   @ Parc des Princes, Paris
@@ -82,7 +82,7 @@ Group F:
 (43) 25 June   Germany          2-0    Iran   @ Stade de la Mosson, Montpellier
 (44) 25 June   United States    0-1    Yugoslavia   @ Stade de la Beaujoire, Nantes
 
-Group G:
+Group G
 
 (15) 15 June   Romania     1-0    Colombia   @ Stade Gerland, Lyon
 (16) 15 June   England     2-0    Tunisia   @ Stade Vélodrome, Marseille
@@ -93,7 +93,7 @@ Group G:
 (45) 26 June   Romania     1-1    Tunisia   @ Stade de France, Saint-Denis
 (46) 26 June   Colombia    0-2    England   @ Stade Félix Bollaert, Lens
 
-Group H:
+Group H
 
 (11) 14 June   Jamaica      1-3    Croatia   @ Stade Félix Bollaert, Lens
 (13) 14 June   Argentina    1-0    Japan   @ Stade de Toulouse, Toulouse

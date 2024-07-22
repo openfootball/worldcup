@@ -14,7 +14,7 @@ Matchday 3 |   9 June - 13 June
 
 
 
-Group A:
+Group A
 
 (1)  31 May   Bulgaria       1-1    Italy   @ Estadio Azteca, Mexico City
 (4)   2 June   Argentina      3-1    South Korea  @ Estadio Olímpico Universitario, Mexico City
@@ -26,7 +26,7 @@ Group A:
 (28) 10 June  Argentina      2-0    Bulgaria @ Estadio Olímpico Universitario, Mexico City
 
 
-Group B:
+Group B
 
 (7)  3 June   Belgium       1-2    Mexico   @ Estadio Azteca, Mexico City
 (10) 4 June   Paraguay      1-0    Iraq     @ Estadio Nemesio Díez, Toluca
@@ -37,7 +37,7 @@ Group B:
 (29) 11 June  Iraq          0-1    Mexico       @ Estadio Azteca, Mexico City
 (30) 11 June  Paraguay      2-2    Belgium  @ Estadio Nemesio Díez, Toluca
 
-Group C:
+Group C
 
 (2)  1 June   Canada          0-1    France         @ Estadio Nou Camp, León
 (5)  2 June   Soviet Union    6-0    Hungary  @ Estadio Sergio León Chavez, Irapuato
@@ -48,7 +48,7 @@ Group C:
 (25) 9 June   Hungary         0-3    France       @ Estadio Nou Camp, León
 (26) 9 June   Soviet Union    2-0    Canada   @ Estadio Sergio León Chavez, Irapuato
 
-Group D:
+Group D
 
 (3)  1 June   Spain               0-1    Brazil   @ Estadio Jalisco, Guadalajara
 (8)  3 June   Algeria             1-1    Northern Ireland  @ Estadio Tres de Marzo, Guadalajara
@@ -59,7 +59,7 @@ Group D:
 (33) 12 June  Northern Ireland    0-3    Brazil  @ Estadio Jalisco, Guadalajara
 (34) 12 June  Algeria             0-3    Spain   @ Estadio Tecnológico, Monterrey
 
-Group E:
+Group E
 
 (11) 4 June  Uruguay         1-1    West Germany    @ Estadio La Corregidora, Querétaro
 (12) 4 June  Scotland        0-1    Denmark       @ Estadio Neza 86, Nezahualcóyotl
@@ -70,7 +70,7 @@ Group E:
 (35) 13 June Denmark         2-0    West Germany    @ Estadio La Corregidora, Querétaro
 (36) 13 June Scotland        0-0    Uruguay       @ Estadio Neza 86, Nezahualcóyotl
 
-Group F:
+Group F
 
 (6)  2 June   Morocco     0-0    Poland     @ Estadio Universitario, Monterrey
 (9)  3 June   Portugal    1-0    England    @ Estadio Tecnológico, Monterrey

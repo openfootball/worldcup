@@ -17,7 +17,7 @@ Matchday 2 | 22 June - 26 June
 Matchday 3 | 27 June - 30 June
 
 
-Group A:
+Group A
 
 (3)  18 June    United States    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
 (5)  18 June    Colombia         1-3    Romania  @ Rose Bowl, Pasadena
@@ -29,7 +29,7 @@ Group A:
 (26) 26 June    Switzerland      0-2    Colombia    @ Stanford Stadium, Stanford
 
 
-Group B:
+Group B
 
 (8)  19 June   Cameroon    2-2    Sweden   @ Rose Bowl, Pasadena
 (9)  20 June   Brazil      2-0    Russia   @ Stanford Stadium, Stanford
@@ -40,7 +40,7 @@ Group B:
 (31) 28 June   Russia      6-1    Cameroon   @ Stanford Stadium, Stanford
 (32) 28 June   Brazil      1-1    Sweden   @ Pontiac Silverdome, Pontiac
 
-Group C:
+Group C
 
 (1)  17 June   Germany      1-0    Bolivia    @ Soldier Field, Chicago
 (2)  17 June   Spain        2-2    South Korea    @ Cotton Bowl, Dallas
@@ -51,7 +51,7 @@ Group C:
 (27) 27 June   Bolivia      1-3    Spain     @ Soldier Field, Chicago
 (28) 27 June   Germany      3-2    South Korea    @ Cotton Bowl, Dallas
 
-Group D:
+Group D
 
 (11) 21 June   Argentina    4-0    Greece   @ Foxboro Stadium, Foxborough
 (13) 21 June   Nigeria      3-0    Bulgaria   @ Cotton Bowl, Dallas
@@ -62,7 +62,7 @@ Group D:
 (35) 30 June   Greece       0-2    Nigeria   @ Foxboro Stadium, Foxborough
 (36) 30 June   Argentina    0-2    Bulgaria   @ Cotton Bowl, Dallas
 
-Group E:
+Group E
 
 (4)  18 June   Italy     0-1    Ireland   @ Giants Stadium, East Rutherford
 (7)  19 June   Norway    1-0    Mexico   @ RFK Stadium, Washington
@@ -73,7 +73,7 @@ Group E:
 (29) 28 June   Ireland   0-0    Norway   @ Giants Stadium, East Rutherford
 (30) 28 June   Italy     1-1    Mexico   @ RFK Stadium, Washington
 
-Group F:
+Group F
 
 (6)  19 June   Belgium        1-0    Morocco    @ Citrus Bowl, Orlando
 (10) 20 June   Netherlands    2-1    Saudi Arabia   @ RFK Stadium, Washington
