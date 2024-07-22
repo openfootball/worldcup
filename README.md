@@ -30,7 +30,7 @@ Matchday 3  |  Tue Nov/22
 
 ...
 
-Group A:
+Group A
 
 (1) Sun Nov/20 19:00      Qatar  0-2 (0-2)  Ecuador    @ Al Bayt Stadium, Al Khor
                               [-; Enner Valencia 16' (pen.), 31']
@@ -65,7 +65,7 @@ Matchday 3  |  Sat Jun/16
 
 ...
 
-Group A:
+Group A
 
  (1) Thu Jun/14 18:00   Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
                           [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
@@ -106,7 +106,7 @@ Matchday 3  |  Sat Jun/14
 
 ...
 
-Group A:
+Group A
 
 (1) Thu Jun/12 17:00   Brazil   3-1 (1-1)  Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
                          [Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)]
@@ -170,6 +170,5 @@ That's it.
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
