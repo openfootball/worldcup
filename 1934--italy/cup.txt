@@ -1,8 +1,6 @@
 = World Cup 1934       # in Italy, 27 May - 10 June
 
 
-## fix: add Replay to round too!!!
-
 ## todo: change to Round of 16 - why? why not?
 
 Preliminary round
@@ -47,7 +45,7 @@ Quarter-finals
 (12) 31 May   Austria        2-1 (1-0)  Hungary     @ Stadio Littoriale, Bologna
                  [Horvath 8' Zischek 51'; Sárosi 60' (pen.)]
 
-Quarter-finals replays     ## Quarter-finals Replayfix- add Replay to round too!!!
+Quarter-finals replays
 
 (13) 1 June   Italy           1-0 (1-0)  Spain   @ Stadio Giovanni Berta, Florence
                  [Meazza 11']

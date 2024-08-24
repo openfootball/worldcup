@@ -22,7 +22,7 @@ Group 1
 (23) 15 June    West Germany      2-2  Northern Ireland  @ Malmö Stadion, Malmö
 (24) 15 June    Czechoslovakia    6-1  Argentina         @ Olympiastadion, Helsingborg
 
-Group-1 Play-off
+Group 1 Play-off
 
 ### check match day - fifa uses 39?  why not 35? use 35 e.g. 32+3
 # note: use Group-1 Play-off e.g. Group-1 instead of Group 1 to avoid group match in round header - fix!!!
@@ -54,8 +54,7 @@ Group 3
 (18) 15 June     Hungary    4-0  Mexico    @ Jernvallen, Sandviken
 
 
-Group-3 Play-off
-# note: use Group-3 Play-off e.g. Group-3 instead of Group 3 to avoid group match in round header - fix!!!
+Group 3 Play-off
 
 (33) 17 June     Wales      2-1  Hungary     @ Råsunda Stadium, Solna
 
@@ -71,7 +70,7 @@ Group 4
 (22) 15 June    England       2-2  Austria        @ Ryavallen, Borås
 (21) 15 June    Brazil        2-0  Soviet Union   @ Ullevi, Gothenburg
 
-Group-4 Play-off
+Group 4 Play-off
 
 ### check match day - fifa uses 37?  why not 34? use 34 - 32+2
 # note: use Group-4 Play-off e.g. Group-4 instead of Group 4 to avoid group match in round header - fix!!!

@@ -1,8 +1,6 @@
 = World Cup 1938      # in France, 4 June - 19 June
 
 
-### todo/fix:
-#  add replays to round parser
 
 # todo: use match number - why? why not?
 #  use match number (match total+offset)
