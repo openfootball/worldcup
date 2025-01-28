@@ -76,7 +76,7 @@ Group C
                          [Wilfried Bony 64' Gervinho 66';  Keisuke Honda 16']
 
 (21) Thu Jun/19 13:00   Colombia 2-1 Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                         [James Rodríguez 64', Juan Quintero 70';  Gervinho 73']
+                         [James Rodríguez 64' Juan Quintero 70';  Gervinho 73']
 
 (22) Thu Jun/19 19:00   Japan 0-0 Greece             @ Estádio das Dunas, Natal (UTC-3)
 
@@ -148,16 +148,16 @@ Group F
 Group G
 
 (13) Mon Jun/16 13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Thomas Müller 12' (pen.), 45+1', 78', Mats Hummels 32']
+                          [Thomas Müller 12' (pen.), 45+1', 78' Mats Hummels 32']
 
 (14) Mon Jun/16 19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
-                          [André Ayew 82';  Clint Dempsey 1', John Brooks 86']
+                          [André Ayew 82';  Clint Dempsey 1' John Brooks 86']
 
 (29) Sat Jun/21 16:00   Germany 2-2 Ghana              @ Estádio Castelão, Fortaleza (UTC-3)
                           [Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63']
 
 (30) Sun Jun/22 18:00   United States 2-2 Portugal     @ Arena Amazônia, Manaus (UTC-4)
-                          [Jermaine Jones 64', Clint Dempsey 81'; Nani 5', Varela 90+5']
+                          [Jermaine Jones 64' Clint Dempsey 81'; Nani 5' Varela 90+5']
 
 (45) Thu Jun/26 13:00   United States 0-1 Germany       @ Arena Pernambuco, Recife (UTC-3)
                           [-; Thomas Müller 55']
