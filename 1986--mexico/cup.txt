@@ -8,9 +8,9 @@ Group E  |  Denmark       West Germany  Uruguay       Scotland
 Group F  |  Morocco       England   Poland            Portugal
 
 
-Matchday 1 |  31 May - 4 June
-Matchday 2 |   5 June - 8 June
-Matchday 3 |   9 June - 13 June
+Matchday 1 |   May 31 - June 4
+Matchday 2 |   June 5-8 
+Matchday 3 |   June 9-13 
 
 
 

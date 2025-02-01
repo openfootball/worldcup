@@ -6,9 +6,9 @@ Group 2  |   Poland   West Germany  Tunisia    Mexico
 Group 3  |   Austria  Brazil        Spain      Sweden
 Group 4  |   Peru     Netherlands   Scotland   Iran
 
-Matchday 1 |   1 June - 3 June
-Matchday 2 |   6 June - 7 June
-Matchday 3 |  10 June - 11 June
+Matchday 1 |  June 1-3 
+Matchday 2 |  June 6-7 
+Matchday 3 |  June 10-11 
 
 
 Group 1
@@ -67,9 +67,9 @@ Group B  |  Argentina     Brazil    Poland         Peru
 
 ## todo/check: use Matchday 2.1, 2.2, 2.3 or such - why? why not?
 
-Matchday 4 |  14 June
-Matchday 5 |  18 June
-Matchday 6 |  21 June
+Matchday 4 |  June 14
+Matchday 5 |  June 18
+Matchday 6 |  June 21
 
 
 Group A

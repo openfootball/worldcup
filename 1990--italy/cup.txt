@@ -10,9 +10,9 @@ Group F  |  England       Ireland          Netherlands  Egypt
 ## todo/fix:  use more matchdays - one matchday per "real" day !!!
 ##   13 June is played 2nd and 3rd games
 
-Matchday 1 |   8 June - 13 June
-Matchday 2 |  14 June - 17 June
-Matchday 3 |  18 June - 21 June
+Matchday 1 |  June 8-13 
+Matchday 2 |  June 14-17 
+Matchday 3 |  June 18-21 
 
 
 Group A

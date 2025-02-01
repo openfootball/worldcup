@@ -9,9 +9,9 @@ Group 5  |  Northern Ireland   Spain   Yugoslavia     Honduras
 Group 6  |  Brazil        Soviet Union  Scotland      New Zealand
 
 
-Matchday 1 |  13 June - 17 June
-Matchday 2 |  18 June - 21 June
-Matchday 3 |  22 June - 25 June
+Matchday 1 |  June 13-17 
+Matchday 2 |  June 18-21 
+Matchday 3 |  June 22-25 
 
 
 Group 1
@@ -98,9 +98,9 @@ Group D  |  France         Austria         Northern Ireland
 
 ## todo/check: use Matchday 2.1, 2.2, 2.3 or such - why? why not?
 
-Matchday 4 |  28 June - 29 June
-Matchday 5 |  1 July - 2 July
-Matchday 6 |  4 July - 5 July
+Matchday 4 |  June 28-29 
+Matchday 5 |  July 1-2 
+Matchday 6 |  July 4-5 
 
 
 Group A

@@ -6,9 +6,9 @@ Group 3  |  Portugal      Hungary       Brazil     Bulgaria
 Group 4  |  Soviet Union  North Korea   Italy      Chile
 
 
-Matchday 1 |  11 July - 13 July
-Matchday 2 |  15 July - 16 July
-Matchday 3 |  19 July - 20 July
+Matchday 1 |  July 11-13 
+Matchday 2 |  July 15-16 
+Matchday 3 |  July 19-20 
 
 
 Group 1

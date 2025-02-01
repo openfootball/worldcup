@@ -11,9 +11,9 @@ Group H  |  Argentina    Croatia     Jamaica        Japan
 
 
 ## todo/fix:  use more matchdays - one matchday per "real" day !!!
-Matchday 1 | 10 June - 15 June
-Matchday 2 | 16 June - 22 June
-Matchday 3 | 23 June - 26 June
+Matchday 1 |  June 10-15 
+Matchday 2 |  June 16-22 
+Matchday 3 |  June 23-26 
 
 
 Group A

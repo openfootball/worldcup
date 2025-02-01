@@ -7,18 +7,18 @@ Group 3  |  Uruguay        Romania    Peru
 Group 4  |  United States  Paraguay   Belgium
 
 
-Matchday 1   | 13 July
-Matchday 2   | 14 July
-Matchday 3   | 15 July
-Matchday 4   | 16 July
-Matchday 5   | 17 July
-Matchday 6   | 18 July
-Matchday 7   | 19 July
-Matchday 8   | 20 July
-Matchday 9   | 21 July
-Matchday 10  | 22 July
-Semi-finals  | 26 July - 27 July
-Final        | 30 July
+Matchday 1   | July 13
+Matchday 2   | July 14
+Matchday 3   | July 15
+Matchday 4   | July 16
+Matchday 5   | July 17
+Matchday 6   | July 18
+Matchday 7   | July 19
+Matchday 8   | July 20
+Matchday 9   | July 21
+Matchday 10  | July 22
+Semi-finals  | July 26-27
+Final        | July 30
 
 
 

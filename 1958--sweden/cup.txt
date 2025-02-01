@@ -6,9 +6,9 @@ Group 2  |  France          Yugoslavia         Paraguay          Scotland
 Group 3  |  Sweden          Wales              Hungary           Mexico
 Group 4  |  Brazil          Soviet Union       England           Austria
 
-Matchday 1  |   8 June
-Matchday 2  |   11 June - 12 June
-Matchday 3  |   15 June
+Matchday 1  |   June 8
+Matchday 2  |   June 11-12 
+Matchday 3  |   June 15
 
 
 Group 1

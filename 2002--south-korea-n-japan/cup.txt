@@ -11,9 +11,9 @@ Group H  |  Japan        Belgium        Russia         Tunisia
 
 
 ## todo/fix:  use more matchdays - one matchday per "real" day !!!
-Matchday 1 |  31 May - 5 June
-Matchday 2 |   6 June - 10 June
-Matchday 3 |  11 June - 14 June
+Matchday 1 |  May 31 - June 5
+Matchday 2 |  June 6-10 
+Matchday 3 |  June 11-14 
 
 
 Group A

@@ -5,9 +5,9 @@ Group 2  |  Italy           Uruguay    Sweden      Israel
 Group 3  |  Brazil          England    Romania     Czechoslovakia
 Group 4  |  West Germany    Peru       Bulgaria    Morocco
 
-Matchday 1 |  31 May - 3 June
-Matchday 2 |   6 June - 7 June
-Matchday 3 |  10 June - 11 June
+Matchday 1 |  May 31 - June 3
+Matchday 2 |  June 6-7 
+Matchday 3 |  June 10-11 
 
 
 Group 1

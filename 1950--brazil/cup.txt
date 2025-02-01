@@ -7,7 +7,7 @@ Group 3  |   Italy    India    Paraguay       Sweden
 Group 4  |   Uruguay  Bolivia  France
 
 
-First round |   24 June - 2 July
+First round |   June 24 - July 2
 
 ## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
 ##   - yes, use Group F
@@ -73,7 +73,7 @@ Group 4
 
 Group F |  Uruguay  Brazil  Sweden  Spain
 
-Final Round | 9 July - 16 July
+Final Round | July 9-16
 
 Group F
 
