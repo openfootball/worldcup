@@ -1,0 +1,77 @@
+= World Cup 2026       # in in Canada, Mexico and USA
+
+Round of 32
+Sun Jun 28 2026
+(73)   Group A runners-up v Group B runners-up   @ Los Angeles Stadium
+
+Mon Jun 29
+(74)   Group E winners v Group A/B/C/D/F third place  @ Boston Stadium
+(75)   Group F winners v Group C runners-up           @ Estadio Monterrey
+(76)   Group C winners v Group F runners-up           @ Houston Stadium
+
+Tue Jun 30 
+(77)    Group I winners v Group C/D/F/G/H third place  @ New York New Jersey Stadium
+(78)    Group E runners up v Group I runners-up        @ Dallas Stadium
+(79)    Group A winners v Group C/E/F/H/I third place  @ Estadio Azteca Mexico City
+
+Wed Jul 1 
+(80)   Group L winners v Group E/H/I/J/K third place  @ Atlanta Stadium
+(81)   Group D winners v Group B/E/F/I/J third place  @ San Francisco Bay Area Stadium
+(82)   Group G winners v Group A/E/H/I/J third place  @ Seattle Stadium
+
+Thu Jul 2 
+(83)   Group K runners-up v Group L runners-up   @ Toronto Stadium
+(84)   Group H winners v Group J runners-up    @ Los Angeles Stadium
+(85)   Group B winners v Group E/F/G/I/J third place  @ BC Place Vancouver
+
+Fri Jul 3 
+(86)   Group J winners v Group H runners-up   @ Miami Stadium
+(87)   Group K winners v Group D/E/I/J/L third place   @ Kansas City Stadium
+(88)   Group D runners-up v Group G runners-up  @ Dallas Stadium
+
+
+Round of 16 
+Sat Jul 4 
+(89)    Winner match 74 v Winner match 77   @ Philadelphia Stadium
+(90)    Winner match 73 v Winner match 75   @ Houston Stadium
+
+Sun Jul 5 
+(91)    Winner match 76 v Winner match 78   @ New York New Jersey Stadium
+(92)    Winner match 79 v Winner match 80   @ Estadio Azteca Mexico City
+
+Mon Jul 6 
+(93)    Winner match 83 v Winner match 84   @ Dallas Stadium
+(94)    Winner match 81 v Winner match 82   @ Seattle Stadium
+
+Tue Jul 7 
+(95)    Winner match 86 v Winner match 88   @ Atlanta Stadium
+(96)    Winner match 85 v Winner match 87   @ BC Place Vancouver
+
+
+Quarter-final 
+Thu Jul 9 
+(97)    Winner match 89 v Winner match 90   @ Boston Stadium
+
+Fri Jul 10 
+(98)    Winner match 93 v Winner match 94   @ Los Angeles Stadium
+
+Sat Jul 11 
+(99)    Winner match 91 v Winner match 92   @ Miami Stadium
+(100)   Winner match 95 v Winner match 96   @ Kansas City Stadium
+
+
+Semi-final 
+Tue Jul 14 
+(101)    Winner match 97 v Winner match 98   @ Dallas Stadium
+
+Wed Jul 15 
+(102)    Winner match 99 v Winner match 100   @ Atlanta Stadium
+
+Match for third place     # Bronze final
+Sat Jul 18 
+(103)   Loser match 101 v Loser match 102   @ Miami Stadium
+
+Final
+Sun Jul 19 
+(104)   Winner match 101 v Winner match 102   @ New York New Jersey Stadium
+

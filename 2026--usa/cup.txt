@@ -1,0 +1,115 @@
+= World Cup 2026       # in in Canada, Mexico and USA
+
+#  104 matches featuring 48 teams played across 16 host cities in three countries
+
+#######
+## Group Stage
+
+Thu Jun 11 2026
+(1)  Group A (Mexico #1)    @ Estadio Azteca Mexico City
+(2)  Group A                @ Estadio Guadalajara
+
+Fri Jun 12
+(3)  Group B (Canada #1)    @ Toronto Stadium
+(4)  Group D (USA #1)       @ Los Angeles Stadium
+
+Sat Jun 13 
+Match 5    Group C    @ Boston Stadium
+Match 6    Group D    @ BC Place Vancouver
+Match 7    Group C    @ New York New Jersey Stadium
+Match 8    Group B    @ San Francisco Bay Area Stadium
+
+Sun Jun 14
+Match 9    Group E    @ Philadelphia Stadium
+Match 10    Group E   @ Houston Stadium
+Match 11    Group F   @ Dallas Stadium
+Match 12    Group F   @ Estadio Monterrey
+
+
+Mon Jun 15 
+Match 13    Group H @ Miami Stadium
+Match 14    Group H @ Atlanta Stadium
+Match 15    Group G @ Los Angeles Stadium
+Match 16    Group G @ Seattle Stadium
+
+Tue Jun 16  
+Match 17    Group I @ New York New Jersey Stadium
+Match 18    Group I @ Boston Stadium
+Match 19    Group J @ Kansas City Stadium
+Match 20    Group J @ San Francisco Bay Area Stadium
+
+Wed Jun 17 
+Match 21    Group L @ Toronto Stadium
+Match 22    Group L @ Dallas Stadium
+Match 23    Group K @ Houston Stadium
+Match 24    Group K @ Estadio Azteca Mexico City
+
+
+Thu Jun 18 
+Match 25    Group A @ Atlanta Stadium
+Match 26    Group B @ Los Angeles Stadium
+Match 27   Group B  (Canada #2)  @ BC Place Vancouver
+Match 28    Group A  (Mexico #2)  @ Estadio Guadalajara
+
+Fri Jun 19 
+Match 29    Group C @ Philadelphia Stadium
+Match 30    Group C @ Boston Stadium
+Match 31    Group D @ San Francisco Bay Area Stadium
+Match 32    Group D (USA #2)  @ Seattle Stadium
+
+Sat Jun 20 
+Match 33    Group E @ Toronto Stadium
+Match 34    Group E @ Kansas City Stadium
+Match 35    Group F @ Houston Stadium
+Match 36    Group F @ Estadio Monterrey
+
+Sun Jun 21 
+Match 37    Group H @ Miami Stadium
+Match 38    Group H @ Atlanta Stadium
+Match 39    Group G @ Los Angeles Stadium
+Match 40    Group G @ BC Place Vancouver
+
+Mon Jun 22 
+Match 41    Group I @ New York New Jersey Stadium
+Match 42    Group I @ Philadelphia Stadium
+Match 43    Group J @ Dallas Stadium
+Match 44    Group J @ San Francisco Bay Area Stadium
+
+Tue Jun 23 
+Match 45    Group L @ Boston Stadium
+Match 46    Group L @ Toronto Stadium
+Match 47    Group K @ Houston Stadium
+Match 48    Group K @ Estadio Guadalajara
+
+
+Wed Jun 24 
+Match 49    Group C @ Miami Stadium
+Match 50    Group C @ Atlanta Stadium
+Match 51   Group B (Canada #3) @ BC Place Vancouver
+Match 52    Group B @ Seattle Stadium
+Match 53   Group A (Mexico #3) @ Estadio Azteca Mexico City
+Match 54    Group A @ Estadio Monterrey
+
+Thu Jun 25 
+Match 55    Group E @ Philadelphia Stadium
+Match 56    Group E @ New York New Jersey Stadium
+Match 57    Group F @ Dallas Stadium
+Match 58    Group F @ Kansas City Stadium
+Match 59   Group D (USA #3)  @ Los Angeles Stadium
+Match 60    Group D @ San Francisco Bay Area Stadium
+
+Fri Jun 26 
+Match 61    Group I @ Boston Stadium
+Match 62    Group I @ Toronto Stadium
+Match 63    Group G @ Seattle Stadium
+Match 64    Group G @ BC Place Vancouver
+Match 65    Group H @ Houston Stadium
+Match 66    Group H @ Estadio Guadalajara
+
+Sat Jun 27 
+(67)    Group L @ New York New Jersey Stadium
+(68)    Group L @ Philadelphia Stadium
+(69)    Group J @ Kansas City Stadium
+(70)    Group J @ Dallas Stadium
+(71)    Group K @ Miami Stadium
+(72)    Group K @ Atlanta Stadium
