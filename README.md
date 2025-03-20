@@ -168,6 +168,13 @@ That's it.
 
 
 
+---
+
+NOTE - For an alternative world cup dataset using the Football.TXT format that incl. lineups, subs, sent offs, and more, 
+see [openfootball/worldcup.more](https://github.com/openfootball/worldcup.more).
+
+
+
 ## Questions? Comments?
 
 Yes, you can. More than welcome.
