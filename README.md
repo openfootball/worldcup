@@ -53,29 +53,27 @@ Group G  |  Belgium      Panama               Tunisia        England
 Group H  |  Poland       Senegal              Colombia       Japan
 
 
-Matchday 1  |  Thu Jun/14
-Matchday 2  |  Fri Jun/15
-Matchday 3  |  Sat Jun/16
+» Group A
 
+Thu Jun/14
+  18:00   Russia        v Saudi Arabia  5-0 (2-0)     @ Luzhniki Stadium, Moscow (UTC+3)
+             (Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4')
+Fri Jun/15
+  17:00   Egypt         v Uruguay  0-1 (0-0)         @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
+             (-; Giménez 89')
 ...
 
-Group A
+» Match for third place
 
- (1) Thu Jun/14 18:00   Russia        5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
-                          [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
- (2) Fri Jun/15 17:00   Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-                          [Giménez 89']
-...
+Sat Jul/14
+  17:00   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
+             (Thomas Meunier 4' Eden Hazard 82')
 
-Match for third place
+» Final
 
-(63) Sat Jul/14  17:00   Belgium    2-0 (1-0)  England      @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
-                           [Thomas Meunier 4' Eden Hazard 82']
-
-Final
-
-(64) Sun Jul/15  18:00   France     4-2 (2-1)   Croatia     @ Luzhniki Stadium, Moscow (UTC+3)
-                   [Mandžukić 18' (o.g.) Griezmann 38' (pen.) Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69']
+Sun Jul/15
+   18:00   France     v Croatia  4-2 (2-1)     @ Luzhniki Stadium, Moscow (UTC+3)
+             (Mandžukić 18'og Griezmann 38'pen Pogba 59' Mbappé 65'; Perišić 28' Mandžukić 69')
 
 ```
 
@@ -94,30 +92,28 @@ Group G  |  Germany      Portugal             Ghana          United States
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
-Matchday 1  |  Thu Jun/12
-Matchday 2  |  Fri Jun/13
-Matchday 3  |  Sat Jun/14
+» Group A
+
+Thu Jun/12
+  17:00   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo (UTC-3)
+            (Neymar 29', 71'pen Oscar 90+1';  Marcelo 11'og)
+Fri Jun/13
+  13:00   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal (UTC-3)
+             (Peralta 61')
 
 ...
 
-Group A
+» Match for third place
 
-(1) Thu Jun/12 17:00   Brazil   3-1 (1-1)  Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-                         [Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)]
-(2) Fri Jun/13 13:00   Mexico   1-0 (0-0)  Cameroon      @ Estádio das Dunas, Natal (UTC-3)
-                         [Peralta 61']
+Sat Jul/12
+  17:00   Brazil   v Netherlands  0-3 (0-2)    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+             (Robin Van Persie 3'pen Daley Blind 17' Georginio Wijnaldum 90+1')
 
-...
+» Final
 
-Match for third place
-
-(63) Sat Jul/12 17:00   Brazil  0-3 (0-2)  Netherlands   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                         [Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1']
-
-Final
-
-(64) Sun Jul/13 16:00   Germany  1-0 a.e.t. (0-0, 0-0)  Argentina   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-                          [Mario Götze 113']
+Sun Jul/13
+  16:00   Germany   v Argentina   1-0 aet (0-0, 0-0)   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+             (Mario Götze 113')
 
 ```
 
