@@ -3,13 +3,13 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format.
+for use in any (programming) language - with (structured) text datasets using the (future-proof and evergreen) Football.TXT format.
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
 Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia 2018, Brazil 2014, etc.)
-and the World Cup Quali(fiers). Example:
+and the World Cup Quali(fiers). Football.TXT example:
 
 ```
 = World Cup 2022
@@ -23,20 +23,14 @@ Group F  | Belgium    Canada   Morocco    Croatia
 Group G  | Brazil    Serbia  Switzerland   Cameroon
 Group H  | Portugal   Ghana   Uruguay    South Korea
 
+» Group A
 
-Matchday 1  |  Sun Nov/20
-Matchday 2  |  Mon Nov/21
-Matchday 3  |  Tue Nov/22
-
-...
-
-Group A
-
-(1) Sun Nov/20 19:00      Qatar  0-2 (0-2)  Ecuador    @ Al Bayt Stadium, Al Khor
-                              [-; Enner Valencia 16' (pen.), 31']
-(2) Mon Nov/21 19:00     Senegal  0-2 (0-0)  Netherlands  @ Al Thumama Stadium, Doha
-                              [-; Cody Gakpo 84' Davy Klaassen 90+9']
-
+Sun Nov/20
+  19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
+               (-; Enner Valencia 16'pen, 31')
+Mon Nov/21
+  19:00     Senegal  v Netherlands   0-2 (0-0)   @ Al Thumama Stadium, Doha
+               (-; Cody Gakpo 84' Davy Klaassen 90+9')
 
 ...
 ```
