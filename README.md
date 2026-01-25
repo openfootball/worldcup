@@ -23,7 +23,7 @@ Group F  | Belgium    Canada   Morocco    Croatia
 Group G  | Brazil    Serbia  Switzerland   Cameroon
 Group H  | Portugal   Ghana   Uruguay    South Korea
 
-» Group A
+▪ Group A
 
 Sun Nov/20
   19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
@@ -53,7 +53,7 @@ Group G  |  Belgium      Panama               Tunisia        England
 Group H  |  Poland       Senegal              Colombia       Japan
 
 
-» Group A
+▪ Group A
 
 Thu Jun/14
   18:00   Russia        v Saudi Arabia  5-0 (2-0)     @ Luzhniki Stadium, Moscow (UTC+3)
@@ -63,13 +63,13 @@ Fri Jun/15
              (-; Giménez 89')
 ...
 
-» Match for third place
+▪ Match for third place
 
 Sat Jul/14
   17:00   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
              (Thomas Meunier 4' Eden Hazard 82')
 
-» Final
+▪ Final
 
 Sun Jul/15
    18:00   France     v Croatia  4-2 (2-1)     @ Luzhniki Stadium, Moscow (UTC+3)
@@ -93,7 +93,7 @@ Group G  |  Germany      Portugal             Ghana          United States
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
-» Group A
+▪ Group A
 
 Thu Jun/12
   17:00   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo (UTC-3)
@@ -104,13 +104,13 @@ Fri Jun/13
 
 ...
 
-» Match for third place
+▪ Match for third place
 
 Sat Jul/12
   17:00   Brazil   v Netherlands  0-3 (0-2)    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
              (Robin Van Persie 3'pen Daley Blind 17' Georginio Wijnaldum 90+1')
 
-» Final
+▪ Final
 
 Sun Jul/13
   16:00   Germany   v Argentina   1-0 aet (0-0, 0-0)   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
