@@ -26,12 +26,22 @@ Group H  | Portugal   Ghana   Uruguay    South Korea
 ▪ Group A
 Sun Nov 20
   19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
-               (Enner Valencia 16'pen, 31')
+               (Enner Valencia 16'(p), 31')
 Mon Nov 21
   19:00     Senegal  v Netherlands   0-2 (0-0)   @ Al Thumama Stadium, Doha
-               (Cody Gakpo 84' Davy Klaassen 90+9')
+               (Cody Gakpo 84', Davy Klaassen 90'+9)
 
 ...
+
+▪ Match for third place
+Sat Dec 17
+  18:00     Croatia  v Morocco    2-1 (2-1)  @ Khalifa International Stadium, Al Rayyan
+              (Joško Gvardiol 7', Mislav Oršić 42'; Achraf Dari 9')
+▪ Final
+Sun Dec 18
+  18:00     Argentina  v France   3-3 a.e.t. (2-2, 2-0) 4-2 pen.  @ Lusail Iconic Stadium, Lusail
+              (Lionel Messi 23'(p), 108', Ángel Di María 36';
+               Kylian Mbappé 80'(p), 81', 118'(p))
 ```
 
 
@@ -65,13 +75,11 @@ Fri Jun 15
 Sat Jul 14
   17:00 UTC+3   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg 
                   (Thomas Meunier 4' Eden Hazard 82')
-
 ▪ Final
 Sun Jul 15
    18:00 UTC+3   France     v Croatia  4-2 (2-1)       @ Luzhniki Stadium, Moscow 
-                  (Mandžukić 18'og Griezmann 38'pen Pogba 59' Mbappé 65';
+                  (Mandžukić 18'(og) Griezmann 38'(p) Pogba 59' Mbappé 65';
                    Perišić 28' Mandžukić 69')
-
 ```
 
 or
@@ -92,7 +100,7 @@ Group H  |  Belgium      Algeria              Russia         South Korea
 ▪ Group A
 Thu Jun 12
   17:00 UTC-3   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo 
-                 (Neymar 29', 71'pen Oscar 90+1';  Marcelo 11'og)
+                 (Neymar 29', 71'(p) Oscar 90+1';  Marcelo 11'(og))
 Fri Jun 13
   13:00 UTC-3   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal 
                  (Peralta 61')
@@ -102,8 +110,7 @@ Fri Jun 13
 ▪ Match for third place
 Sat Jul 12
   17:00 UTC-3  Brazil   v Netherlands  0-3 (0-2)    @ Estádio Nacional Mané Garrincha, Brasília
-                (Robin Van Persie 3'pen Daley Blind 17' Georginio Wijnaldum 90+1')
-
+                (Robin Van Persie 3'(p) Daley Blind 17' Georginio Wijnaldum 90+1')
 ▪ Final
 Sun Jul 13
   16:00 UTC-3  Germany   v Argentina   1-0 a.e.t. (0-0)   @ Estádio do Maracanã, Rio de Janeiro 
