@@ -24,13 +24,12 @@ Group G  | Brazil    Serbia  Switzerland   Cameroon
 Group H  | Portugal   Ghana   Uruguay    South Korea
 
 ▪ Group A
-
-Sun Nov/20
+Sun Nov 20
   19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
-               (-; Enner Valencia 16'pen, 31')
-Mon Nov/21
+               (Enner Valencia 16'pen, 31')
+Mon Nov 21
   19:00     Senegal  v Netherlands   0-2 (0-0)   @ Al Thumama Stadium, Doha
-               (-; Cody Gakpo 84' Davy Klaassen 90+9')
+               (Cody Gakpo 84' Davy Klaassen 90+9')
 
 ...
 ```
@@ -54,27 +53,24 @@ Group H  |  Poland       Senegal              Colombia       Japan
 
 
 ▪ Group A
-
-Thu Jun/14
-  18:00   Russia        v Saudi Arabia  5-0 (2-0)     @ Luzhniki Stadium, Moscow (UTC+3)
-             (Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4')
-Fri Jun/15
-  17:00   Egypt         v Uruguay  0-1 (0-0)         @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-             (-; Giménez 89')
+Thu Jun 14
+  18:00 UTC+3   Russia        v Saudi Arabia  5-0 (2-0)     @ Luzhniki Stadium, Moscow
+                  (Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4')
+Fri Jun 15
+  17:00 UTC+5   Egypt         v Uruguay  0-1 (0-0)          @ Ekaterinburg Arena, Ekaterinburg 
+                  (Giménez 89')
 ...
 
 ▪ Match for third place
-
-Sat Jul/14
-  17:00   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg (UTC+3)
-             (Thomas Meunier 4' Eden Hazard 82')
+Sat Jul 14
+  17:00 UTC+3   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg 
+                  (Thomas Meunier 4' Eden Hazard 82')
 
 ▪ Final
-
-Sun Jul/15
-   18:00   France     v Croatia  4-2 (2-1)     @ Luzhniki Stadium, Moscow (UTC+3)
-             (Mandžukić 18'og Griezmann 38'pen Pogba 59' Mbappé 65';
-              Perišić 28' Mandžukić 69')
+Sun Jul 15
+   18:00 UTC+3   France     v Croatia  4-2 (2-1)       @ Luzhniki Stadium, Moscow 
+                  (Mandžukić 18'og Griezmann 38'pen Pogba 59' Mbappé 65';
+                   Perišić 28' Mandžukić 69')
 
 ```
 
@@ -94,27 +90,24 @@ Group H  |  Belgium      Algeria              Russia         South Korea
 
 
 ▪ Group A
-
-Thu Jun/12
-  17:00   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo (UTC-3)
-            (Neymar 29', 71'pen Oscar 90+1';  Marcelo 11'og)
-Fri Jun/13
-  13:00   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal (UTC-3)
-             (Peralta 61')
+Thu Jun 12
+  17:00 UTC-3   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo 
+                 (Neymar 29', 71'pen Oscar 90+1';  Marcelo 11'og)
+Fri Jun 13
+  13:00 UTC-3   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal 
+                 (Peralta 61')
 
 ...
 
 ▪ Match for third place
-
-Sat Jul/12
-  17:00   Brazil   v Netherlands  0-3 (0-2)    @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-             (Robin Van Persie 3'pen Daley Blind 17' Georginio Wijnaldum 90+1')
+Sat Jul 12
+  17:00 UTC-3  Brazil   v Netherlands  0-3 (0-2)    @ Estádio Nacional Mané Garrincha, Brasília
+                (Robin Van Persie 3'pen Daley Blind 17' Georginio Wijnaldum 90+1')
 
 ▪ Final
-
-Sun Jul/13
-  16:00   Germany   v Argentina   1-0 aet (0-0, 0-0)   @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-             (Mario Götze 113')
+Sun Jul 13
+  16:00 UTC-3  Germany   v Argentina   1-0 a.e.t. (0-0)   @ Estádio do Maracanã, Rio de Janeiro 
+                 (Mario Götze 113')
 
 ```
 
