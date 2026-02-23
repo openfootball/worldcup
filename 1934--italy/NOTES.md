@@ -1,4 +1,4 @@
-# World Cup 1934 Italy, 27 May – 10 June
+# World Cup 1934 Italy, May 27 – June 10
 
 - start_at: 1934-05-27
 
@@ -22,3 +22,4 @@ fix: add edition: or num:  e.g. num: 2 or edition: 2
 - tch # Czechoslovakia
 - rou # Romania
 - egy # Egypt
+
