@@ -1,9 +1,8 @@
 = World Cup 1938      # in France, June 4-19
 
 
-#  how to deal w/ walkout ??
-#
 ## use Round of 16 (instead off First round) -why? why not?
+
 
 ▪ First round
 June 4     
@@ -30,12 +29,8 @@ June 5
   Czechoslovakia  3-0 a.e.t. (0-0, 0-0)  Netherlands        @ Stade municipal, Le Havre
                      (Košťálek 93' Nejedlý 111' Zeman 118')
 
-# include walkover? why? why not?
-#  what match number to use?  - same as replay? 24+3 ?
-# - use no match number?  (add new num for match number?) use pos only for internal-use (e.g sort order)?
-#
-# June 5    Sweden         - (*)        Austria            @ Stade Gerland, Lyon
-# (*) w/o - walkover     
+  Sweden - Austria   [cancelled; Austria withdrew because of Anschluss]  @ Stade Gerland, Lyon
+
 
 ▪ First round, Replays
 June 9

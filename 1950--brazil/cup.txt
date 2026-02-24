@@ -1,4 +1,4 @@
-= World Cup 1950       # in Brazil, 24 June - 16 July
+= World Cup 1950       # in Brazil, June 24 - July 16
 
 
 Group 1  |   Brazil   Mexico   Switzerland    Yugoslavia
@@ -7,88 +7,90 @@ Group 3  |   Italy    India    Paraguay       Sweden
 Group 4  |   Uruguay  Bolivia  France
 
 
-First round |   June 24 - July 2
-
-## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
-##   - yes, use Group F
-## todo: final round (just regular matches; not knock out matches)
+▪ First round |   June 24 - July 2
 
 
-Group 1
+▪ Group 1
+June 24
+    Brazil       4-0 (1-0) Mexico       @ Estádio do Maracanã, Rio de Janeiro
+                  (Ademir 30', 79' Jair 65' Baltazar 71')
+June 25
+    Yugoslavia   3-0 (0-0)  Switzerland  @ Estádio Independência, Belo Horizonte
+                  (Mitić 59' Tomašević 70' Ognjanov 75')
 
-(1)  24 June    Brazil       4-0 (1-0) Mexico       @ Estádio do Maracanã, Rio de Janeiro
-                  [Ademir 30', 79' Jair 65' Baltazar 71']
-(5)  25 June    Yugoslavia   3-0 (0-0)  Switzerland  @ Estádio Independência, Belo Horizonte
-                  [Mitić 59' Tomašević 70' Ognjanov 75']
+June 28
+    Brazil       2-2 (2-1)  Switzerland  @ Estádio do Pacaembu, São Paulo
+                  (Alfredo 3' Baltazar 32';  Fatton 17', 88')
+    Yugoslavia   4-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+                  (Bobek 19' Ž. Čajkovski 22', 62' Tomašević 81';  Ortiz 89' (pen.))
 
-(6)  28 June    Brazil       2-2 (2-1)  Switzerland  @ Estádio do Pacaembu, São Paulo
-                  [Alfredo 3' Baltazar 32';  Fatton 17', 88']
-(7)  28 June    Yugoslavia   4-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
-                  [Bobek 19' Ž. Čajkovski 22', 62' Tomašević 81';  Ortiz 89' (pen.)]
+ July 1
+    Brazil       2-0 (1-0)  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
+                  (Ademir 4' Zizinho 69')
+ July 2
+      Switzerland  2-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
+                  (Bader 10' Antenen 44';  Casarín 89')
 
-(11) 1 July     Brazil       2-0 (1-0)  Yugoslavia   @ Estádio do Maracanã, Rio de Janeiro
-                  [Ademir 4' Zizinho 69']
-(14) 2 July     Switzerland  2-1 (2-0)  Mexico       @ Estádio dos Eucaliptos, Porto Alegre
-                  [Bader 10' Antenen 44';  Casarín 89']
+▪ Group 2
+  June 25
+    England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+                   (Mortensen 27' Mannion 51')
+    Spain          3-1  United States   @ Estádio Durival de Britto, Curitiba
+                   (Igoa 81' Basora 83' Zarra 89';  Pariani 17')
 
-Group 2
+  June 29
+     Spain          2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
+                   (Basora 17' Zarra 30')
+     United States  1-0  England         @ Estádio Independência, Belo Horizonte
+                   (Gaetjens 38')
 
-(2)  25 June     England        2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
-                   [Mortensen 27' Mannion 51']
-(3)  25 June     Spain          3-1  United States   @ Estádio Durival de Britto, Curitiba
-                   [Igoa 81' Basora 83' Zarra 89';  Pariani 17']
-
-(8)  29 June     Spain          2-0  Chile           @ Estádio do Maracanã, Rio de Janeiro
-                   [Basora 17' Zarra 30']
-(10) 29 June     United States  1-0  England         @ Estádio Independência, Belo Horizonte
-                   [Gaetjens 38']
-
-(12)  2 July     Spain          1-0  England         @ Estádio do Maracanã, Rio de Janeiro
-                   [Zarra 48']
-(15)  2 July     Chile          5-2  United States   @ Estádio Ilha do Retiro, Recife
-                   [Robledo 16' Riera 32' Cremaschi 54', 82' Prieto 60';  Wallace 47' Maca 48' (pen.)]
-
-
-Group 3
-
-(4)  25 June     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
-                   [Jeppson 25', 68' Andersson 33';  Carapellese 7' Muccinelli 75']
-(9)  29 June     Sweden         2-2  Paraguay        @ Estádio Durival Britto, Curitiba
-                   [Sundqvist 17' Palmér 26';  López 35' López Fretes 74']
-
-(13)  2 July     Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
-                   [Carapellese 12' Pandolfini 62']
-
-Group 4
-
-(16)  2 July     Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
-                   [Míguez 14', 40', 51' Vidal 18' Schiaffino 23', 54' Pérez 83' Ghiggia 87']
+  July 2
+     Spain          1-0  England         @ Estádio do Maracanã, Rio de Janeiro
+                   (Zarra 48')
+     Chile          5-2  United States   @ Estádio Ilha do Retiro, Recife
+                   (Robledo 16' Riera 32' Cremaschi 54', 82' Prieto 60';  Wallace 47' Maca 48' (pen.))
 
 
+▪ Group 3
+  June 25
+     Sweden         3-2  Italy           @ Estádio do Pacaembu, São Paulo
+                   (Jeppson 25', 68' Andersson 33';  Carapellese 7' Muccinelli 75')
+  June 29
+     Sweden         2-2  Paraguay        @ Estádio Durival Britto, Curitiba
+                   (Sundqvist 17' Palmér 26';  López 35' López Fretes 74')
 
-## yes - use Group F for now for Final
-## todo: use group for final round w/ (Uruguay, Brazil, Sweden, Spain)  - why? why not?
-## todo: final round (just regular matches; not knock out matches)
-### fix: add group f to final round - how?
+  July 2
+    Italy          2-0  Paraguay        @ Estádio do Pacaembu, São Paulo
+                   (Carapellese 12' Pandolfini 62')
 
-Group F |  Uruguay  Brazil  Sweden  Spain
+▪ Group 4
+  July 2     
+    Uruguay        8-0  Bolivia         @ Estádio Independência, Belo Horizonte
+                   (Míguez 14', 40', 51' Vidal 18' Schiaffino 23', 54' Pérez 83' Ghiggia 87')
 
-Final Round | July 9-16
 
-Group F
 
-(17)  9 July     Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
-                   [Ghiggia 29' Varela 73';  Basora 37', 39']
-(18)  9 July     Brazil         7-1  Sweden          @ Estádio do Maracanã, Rio de Janeiro
-                   [Ademir 17', 36', 52', 58' Chico 39', 88' Maneca 85'; Andersson 67' (pen.)]
 
-(19) 13 July     Brazil         6-1  Spain           @ Estádio do Maracanã, Rio de Janeiro
-                   [Parra 15' (o.g.) Jair 21' Chico 31', 55' Ademir 57' Zizinho 67';  Igoa 71']
-(20) 13 July     Uruguay        3-2  Sweden          @ Estádio do Pacaembu, São Paulo
-                   [Ghiggia 39' Míguez 77', 85';  Palmér 5' Sundqvist 40']
+▪ Final Round | July 9-16
 
-(21) 16 July     Sweden         3-1  Spain           @ Estádio do Pacaembu, São Paulo
-                   [Sundqvist 15' Mellberg 33' Palmér 80';  Zarra 82']
-(22) 16 July     Uruguay        2-1  Brazil          @ Estádio do Maracanã, Rio de Janeiro
-                   [Schiaffino 66' Ghiggia 79';  Friaça 47']
+# note -  final round (just regular matches; not knock out matches)
+
+
+  July 9
+       Uruguay        2-2  Spain           @ Estádio do Pacaembu, São Paulo
+                   (Ghiggia 29' Varela 73';  Basora 37', 39')
+       Brazil         7-1  Sweden          @ Estádio do Maracanã, Rio de Janeiro
+                   (Ademir 17', 36', 52', 58' Chico 39', 88' Maneca 85'; Andersson 67' (pen.))
+
+  July 13
+       Brazil         6-1  Spain           @ Estádio do Maracanã, Rio de Janeiro
+                   (Parra 15' (og) Jair 21' Chico 31', 55' Ademir 57' Zizinho 67';  Igoa 71')
+       Uruguay        3-2  Sweden          @ Estádio do Pacaembu, São Paulo
+                   (Ghiggia 39' Míguez 77', 85';  Palmér 5' Sundqvist 40')
+
+ July 16
+      Sweden         3-1  Spain           @ Estádio do Pacaembu, São Paulo
+                   (Sundqvist 15' Mellberg 33' Palmér 80';  Zarra 82')
+      Uruguay        2-1  Brazil          @ Estádio do Maracanã, Rio de Janeiro
+                   (Schiaffino 66' Ghiggia 79';  Friaça 47')
 
