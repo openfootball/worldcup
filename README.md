@@ -8,7 +8,7 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia 2018, Brazil 2014, etc.)
+Free open public domain football data for the World Cup (e.g. Canada/United States/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.)
 and the World Cup Quali(fiers). Football.TXT example:
 
 ```
