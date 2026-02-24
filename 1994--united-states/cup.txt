@@ -1,4 +1,4 @@
-= World Cup 1994          # in United States, 17 June - 17 July 1994
+= World Cup 1994          # in United States, June 17 - July 17 
 
 
 Group A  |  Romania      Switzerland    United States    Colombia
@@ -10,77 +10,95 @@ Group F  |  Netherlands  Saudi Arabia   Belgium          Morocco
 
 
 ## todo/fix:  use more matchdays - one matchday per "real" day !!!
-##   26 June is played 2nd and 3rd games
+##   June 26 is played 2nd and 3rd games
 
-Matchday 1 |  June 17-21 
-Matchday 2 |  June 22-26 
-Matchday 3 |  June 27-30 
-
-
-Group A
-
-(3)  18 June    United States    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
-(5)  18 June    Colombia         1-3    Romania  @ Rose Bowl, Pasadena
-
-(14) 22 June    Romania          1-4     Switzerland   @ Pontiac Silverdome, Pontiac
-(15) 22 June    United States    2-1    Colombia   @ Rose Bowl, Pasadena
-
-(25) 26 June    United States    0-1    Romania    @ Rose Bowl, Pasadena
-(26) 26 June    Switzerland      0-2    Colombia    @ Stanford Stadium, Stanford
+▪ Matchday 1 |  June 17-21 
+▪ Matchday 2 |  June 22-26 
+▪ Matchday 3 |  June 27-30 
 
 
-Group B
+▪ Group A
+June 18
+  United States    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
+  Colombia         1-3     Romania       @ Rose Bowl, Pasadena
 
-(8)  19 June   Cameroon    2-2    Sweden   @ Rose Bowl, Pasadena
-(9)  20 June   Brazil      2-0    Russia   @ Stanford Stadium, Stanford
+June 22    
+   Romania          1-4     Switzerland   @ Pontiac Silverdome, Pontiac
+   United States    2-1    Colombia   @ Rose Bowl, Pasadena
 
-(19) 24 June   Brazil      3-0    Cameroon   @ Stanford Stadium, Stanford
-(20) 24 June   Sweden      3-1    Russia   @ Pontiac Silverdome, Pontiac
+June 26
+   United States    0-1    Romania    @ Rose Bowl, Pasadena
+   Switzerland      0-2    Colombia    @ Stanford Stadium, Stanford
 
-(31) 28 June   Russia      6-1    Cameroon   @ Stanford Stadium, Stanford
-(32) 28 June   Brazil      1-1    Sweden   @ Pontiac Silverdome, Pontiac
 
-Group C
+▪ Group B
+June 19   
+   Cameroon    2-2    Sweden   @ Rose Bowl, Pasadena
+June 20   
+   Brazil      2-0    Russia   @ Stanford Stadium, Stanford
 
-(1)  17 June   Germany      1-0    Bolivia    @ Soldier Field, Chicago
-(2)  17 June   Spain        2-2    South Korea    @ Cotton Bowl, Dallas
+June 24   
+   Brazil      3-0    Cameroon   @ Stanford Stadium, Stanford
+   Sweden      3-1    Russia   @ Pontiac Silverdome, Pontiac
 
-(12) 21 June   Germany      1-1    Spain    @ Soldier Field, Chicago
-(17) 23 June   South Korea  0-0    Bolivia    @ Foxboro Stadium, Foxborough
+June 28   
+   Russia      6-1    Cameroon   @ Stanford Stadium, Stanford
+   Brazil      1-1    Sweden   @ Pontiac Silverdome, Pontiac
 
-(27) 27 June   Bolivia      1-3    Spain     @ Soldier Field, Chicago
-(28) 27 June   Germany      3-2    South Korea    @ Cotton Bowl, Dallas
+▪ Group C
+June 17   
+  Germany      1-0    Bolivia    @ Soldier Field, Chicago
+  Spain        2-2    South Korea    @ Cotton Bowl, Dallas
 
-Group D
+ June 21   
+    Germany      1-1    Spain    @ Soldier Field, Chicago
+ June 23   
+    South Korea  0-0    Bolivia    @ Foxboro Stadium, Foxborough
 
-(11) 21 June   Argentina    4-0    Greece   @ Foxboro Stadium, Foxborough
-(13) 21 June   Nigeria      3-0    Bulgaria   @ Cotton Bowl, Dallas
+ June 27   
+    Bolivia      1-3    Spain     @ Soldier Field, Chicago
+    Germany      3-2    South Korea    @ Cotton Bowl, Dallas
 
-(23) 25 June   Argentina    2-1    Nigeria   @ Foxboro Stadium, Foxborough
-(24) 26 June   Greece       0-4    Bulgaria   @ Soldier Field, Chicago
+▪ Group D
+June 21   
+  Argentina    4-0    Greece   @ Foxboro Stadium, Foxborough
+  Nigeria      3-0    Bulgaria   @ Cotton Bowl, Dallas
 
-(35) 30 June   Greece       0-2    Nigeria   @ Foxboro Stadium, Foxborough
-(36) 30 June   Argentina    0-2    Bulgaria   @ Cotton Bowl, Dallas
+ June 25
+    Argentina    2-1    Nigeria   @ Foxboro Stadium, Foxborough
+ June 26   
+    Greece       0-4    Bulgaria   @ Soldier Field, Chicago
 
-Group E
+ June 30   
+   Greece       0-2    Nigeria   @ Foxboro Stadium, Foxborough
+   Argentina    0-2    Bulgaria   @ Cotton Bowl, Dallas
 
-(4)  18 June   Italy     0-1    Ireland   @ Giants Stadium, East Rutherford
-(7)  19 June   Norway    1-0    Mexico   @ RFK Stadium, Washington
+▪ Group E
+June 18   
+  Italy     0-1    Ireland   @ Giants Stadium, East Rutherford
+June 19  
+  Norway    1-0    Mexico   @ RFK Stadium, Washington
 
-(16) 23 June   Italy     1-0    Norway   @ Giants Stadium, East Rutherford
-(18) 24 June   Mexico    2-1    Ireland   @ Citrus Bowl, Orlando
+June 23   
+   Italy     1-0    Norway   @ Giants Stadium, East Rutherford
+June 24   
+   Mexico    2-1    Ireland   @ Citrus Bowl, Orlando
 
-(29) 28 June   Ireland   0-0    Norway   @ Giants Stadium, East Rutherford
-(30) 28 June   Italy     1-1    Mexico   @ RFK Stadium, Washington
+June 28   
+   Ireland   0-0    Norway   @ Giants Stadium, East Rutherford
+   Italy     1-1    Mexico   @ RFK Stadium, Washington
 
-Group F
+▪ Group F
+June 19 
+   Belgium        1-0    Morocco    @ Citrus Bowl, Orlando
+June 20
+   Netherlands    2-1    Saudi Arabia   @ RFK Stadium, Washington
 
-(6)  19 June   Belgium        1-0    Morocco    @ Citrus Bowl, Orlando
-(10) 20 June   Netherlands    2-1    Saudi Arabia   @ RFK Stadium, Washington
+June 25
+   Belgium        1-0    Netherlands   @ Citrus Bowl, Orlando
+   Saudi Arabia   2-1    Morocco   @ Giants Stadium, East Rutherford
 
-(21) 25 June   Belgium        1-0    Netherlands   @ Citrus Bowl, Orlando
-(22) 25 June   Saudi Arabia   2-1    Morocco   @ Giants Stadium, East Rutherford
-
-(33) 29 June   Morocco        1-2    Netherlands   @ Citrus Bowl, Orlando
-(34) 29 June   Belgium        0-1    Saudi Arabia   @ RFK Stadium, Washington
+June 29   
+   Morocco        1-2    Netherlands   @ Citrus Bowl, Orlando
+   Belgium        0-1    Saudi Arabia   @ RFK Stadium, Washington
 
