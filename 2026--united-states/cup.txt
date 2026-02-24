@@ -1,115 +1,185 @@
-= World Cup 2026       # in in Canada, Mexico and USA
+= World Cup 2026      # in Canada, United States, and Mexico 
 
 #  104 matches featuring 48 teams played across 16 host cities in three countries
 
-#######
-## Group Stage
-
-Thu Jun 11 2026
-(1)  Group A (Mexico #1)    @ Estadio Azteca Mexico City
-(2)  Group A                @ Estadio Guadalajara
-
-Fri Jun 12
-(3)  Group B (Canada #1)    @ Toronto Stadium
-(4)  Group D (USA #1)       @ Los Angeles Stadium
-
-Sat Jun 13 
-Match 5    Group C    @ Boston Stadium
-Match 6    Group D    @ BC Place Vancouver
-Match 7    Group C    @ New York New Jersey Stadium
-Match 8    Group B    @ San Francisco Bay Area Stadium
-
-Sun Jun 14
-Match 9    Group E    @ Philadelphia Stadium
-Match 10    Group E   @ Houston Stadium
-Match 11    Group F   @ Dallas Stadium
-Match 12    Group F   @ Estadio Monterrey
+Group A | Mexico 	      South Africa    South Korea	   UEFA Path D winner
+Group B | Canada          UEFA Path A winner  Qatar    Switzerland
+Group C | Brazil          Morocco      Haiti   Scotland
+Group D | United States   Paraguay     Australia   UEFA Path C winner
+Group E | Germany         Curaçao      Ivory Coast   Ecuador
+Group F | Netherlands	  Japan        UEFA Path B winner  Tunisia
+Group G | Belgium         Egypt        Iran        New Zealand
+Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
+Group I | France      Senegal   IC Path 2 winner   Norway
+Group J | Argentina	   Algeria   Austria   Jordan
+Group K | Portugal   IC Path 1 winner   Uzbekistan  Colombia
+Group L | England    Croatia     Ghana   Panama	
 
 
-Mon Jun 15 
-Match 13    Group H @ Miami Stadium
-Match 14    Group H @ Atlanta Stadium
-Match 15    Group G @ Los Angeles Stadium
-Match 16    Group G @ Seattle Stadium
-
-Tue Jun 16  
-Match 17    Group I @ New York New Jersey Stadium
-Match 18    Group I @ Boston Stadium
-Match 19    Group J @ Kansas City Stadium
-Match 20    Group J @ San Francisco Bay Area Stadium
-
-Wed Jun 17 
-Match 21    Group L @ Toronto Stadium
-Match 22    Group L @ Dallas Stadium
-Match 23    Group K @ Houston Stadium
-Match 24    Group K @ Estadio Azteca Mexico City
-
-
-Thu Jun 18 
-Match 25    Group A @ Atlanta Stadium
-Match 26    Group B @ Los Angeles Stadium
-Match 27   Group B  (Canada #2)  @ BC Place Vancouver
-Match 28    Group A  (Mexico #2)  @ Estadio Guadalajara
-
-Fri Jun 19 
-Match 29    Group C @ Philadelphia Stadium
-Match 30    Group C @ Boston Stadium
-Match 31    Group D @ San Francisco Bay Area Stadium
-Match 32    Group D (USA #2)  @ Seattle Stadium
-
-Sat Jun 20 
-Match 33    Group E @ Toronto Stadium
-Match 34    Group E @ Kansas City Stadium
-Match 35    Group F @ Houston Stadium
-Match 36    Group F @ Estadio Monterrey
-
-Sun Jun 21 
-Match 37    Group H @ Miami Stadium
-Match 38    Group H @ Atlanta Stadium
-Match 39    Group G @ Los Angeles Stadium
-Match 40    Group G @ BC Place Vancouver
-
-Mon Jun 22 
-Match 41    Group I @ New York New Jersey Stadium
-Match 42    Group I @ Philadelphia Stadium
-Match 43    Group J @ Dallas Stadium
-Match 44    Group J @ San Francisco Bay Area Stadium
-
-Tue Jun 23 
-Match 45    Group L @ Boston Stadium
-Match 46    Group L @ Toronto Stadium
-Match 47    Group K @ Houston Stadium
-Match 48    Group K @ Estadio Guadalajara
+▪ Matchday 1 | Thu Jun 11
+▪ Matchday 2 | Fri Jun 12
+▪ Matchday 3 | Sat Jun 13
+▪ Matchday 4 | Sun Jun 14
+▪ Matchday 5 | Mon Jun 15 
+▪ Matchday 6 | Tue Jun 16  
+▪ Matchday 7 | Wed Jun 17 
+▪ Matchday 8 | Thu Jun 18 
+▪ Matchday 9 | Fri Jun 19 
+▪ Matchday 10 | Sat Jun 20 
+▪ Matchday 11 | Sun Jun 21 
+▪ Matchday 12 | Mon Jun 22 
+▪ Matchday 13 | Tue Jun 23 
+▪ Matchday 14 | Wed Jun 24 
+▪ Matchday 15 | Thu Jun 25 
+▪ Matchday 16 | Fri Jun 26 
+▪ Matchday 17 | Sat Jun 27 
 
 
-Wed Jun 24 
-Match 49    Group C @ Miami Stadium
-Match 50    Group C @ Atlanta Stadium
-Match 51   Group B (Canada #3) @ BC Place Vancouver
-Match 52    Group B @ Seattle Stadium
-Match 53   Group A (Mexico #3) @ Estadio Azteca Mexico City
-Match 54    Group A @ Estadio Monterrey
 
-Thu Jun 25 
-Match 55    Group E @ Philadelphia Stadium
-Match 56    Group E @ New York New Jersey Stadium
-Match 57    Group F @ Dallas Stadium
-Match 58    Group F @ Kansas City Stadium
-Match 59   Group D (USA #3)  @ Los Angeles Stadium
-Match 60    Group D @ San Francisco Bay Area Stadium
+▪ Group A
+Thu June 11 
+  13:00 UTC−6     Mexico       v South Africa        @ Mexico City
+  20:00 UTC−6     South Korea  v UEFA Path D winner  @ Guadalajara (Zapopan)
+Thu June 18
+  12:00 UTC−4     UEFA Path D winner  v South Africa   @ Atlanta
+  19:00 UTC−6     Mexico 	          v South Korea    @ Guadalajara (Zapopan)
+June 24
+  19:00 UTC−6     UEFA Path D winner 	v Mexico       @ Mexico City
+  19:00 UTC−6     South Africa 	        v South Korea  @ Monterrey (Guadalupe)
 
-Fri Jun 26 
-Match 61    Group I @ Boston Stadium
-Match 62    Group I @ Toronto Stadium
-Match 63    Group G @ Seattle Stadium
-Match 64    Group G @ BC Place Vancouver
-Match 65    Group H @ Houston Stadium
-Match 66    Group H @ Estadio Guadalajara
 
-Sat Jun 27 
-(67)    Group L @ New York New Jersey Stadium
-(68)    Group L @ Philadelphia Stadium
-(69)    Group J @ Kansas City Stadium
-(70)    Group J @ Dallas Stadium
-(71)    Group K @ Miami Stadium
-(72)    Group K @ Atlanta Stadium
+▪ Group B
+Fri June 12
+  15:00 UTC−4     Canada   v UEFA Path A winner    @ Toronto
+Sat June 13
+  12:00 UTC−7     Qatar    v Switzerland        @ San Francisco Bay Area (Santa Clara)
+Thu June 18
+  12:00 UTC−7     Switzerland  v UEFA Path A winner   @ Los Angeles (Inglewood)
+  15:00 UTC−7     Canada 	   v Qatar                @ Vancouver
+June 24
+  12:00 UTC−7     Switzerland 	v Canada             @ Vancouver
+  12:00 UTC−7      UEFA Path A winner 	 v Qatar     @ Seattle
+
+
+▪ Group C
+Sat June 13
+  18:00 UTC−4        Brazil   v Morocco    @ New York/New Jersey (East Rutherford)
+  21:00 UTC−4        Haiti 	  v Scotland   @ Boston (Foxborough)
+June 19
+  18:00 UTC−4        Scotland  v Morocco    @ Boston (Foxborough)
+  21:00 UTC−4        Brazil    v Haiti      @ Philadelphia
+June 24
+  18:00 UTC−4         Scotland 	 v Brazil   @ Miami (Miami Gardens)
+  18:00 UTC−4         Morocco 	 v Haiti    @ Atlanta
+
+
+▪ Group D
+Fri June 12
+  18:00 UTC−7    United States   v Paraguay    @ Los Angeles (Inglewood)
+Sat June 13
+  21:00 UTC−7    Australia 	     v UEFA Path C winner  @ Vancouver
+June 19
+  12:00 UTC−7    United States 	  v Australia   @ Seattle
+  21:00 UTC−7    UEFA Path C winner   v Paraguay   @ San Francisco Bay Area (Santa Clara)
+June 25
+  19:00 UTC−7    UEFA Path C winner 	v United States   @ Los Angeles (Inglewood)
+  19:00 UTC−7    Paraguay 	        v Australia     @ San Francisco Bay Area (Santa Clara)
+
+
+▪ Group E
+Sun June 14
+  12:00 UTC−5    Germany 	v Curaçao         @ Houston
+  19:00 UTC−4    Ivory Coast 	v Ecuador    @  Philadelphia
+June 20
+  16:00 UTC−4    Germany 	v Ivory Coast    @ Toronto
+  19:00 UTC−5    Ecuador 	v Curaçao        @ Kansas City
+June 25
+  16:00 UTC−4    Curaçao 	v Ivory Coast     @ Philadelphia
+  16:00 UTC−4    Ecuador 	v Germany        @  New York/New Jersey (East Rutherford)
+
+
+▪ Group F
+Sun June 14
+  15:00 UTC−5    Netherlands 	v Japan          @ Dallas (Arlington)
+  20:00 UTC−6    UEFA Path B winner   v Tunisia  @ Monterrey (Guadalupe)
+June 20
+  12:00 UTC−5    Netherlands 	v UEFA Path B winner   @ Houston
+  22:00 UTC−6    Tunisia 	    v Japan              @ Monterrey (Guadalupe)
+June 25
+  18:00 UTC−5    Japan 	        v UEFA Path B winner  @ Dallas (Arlington)
+  18:00 UTC−5   Tunisia 	    v Netherlands         @ Kansas City
+
+
+▪ Group G
+Mon June 15
+  12:00 UTC−7    Belgium 	v Egypt        @ Seattle
+  18:00 UTC−7    Iran       v New Zealand  @ Los Angeles (Inglewood)
+June 21
+  12:00 UTC−7    Belgium 	    v Iran    @ Los Angeles (Inglewood)
+  18:00 UTC−7    New Zealand 	v Egypt   @ Vancouver
+June 26
+  20:00 UTC−7    Egypt 	       v Iran      @ Seattle
+  20:00 UTC−7    New Zealand   v Belgium   @ Vancouver
+
+
+▪ Group H
+Mon June 15
+  12:00 UTC−4   Spain 	v Cape Verde   @ Atlanta
+  18:00 UTC−4   Saudi Arabia   v Uruguay  @ Miami (Miami Gardens)
+June 21
+  12:00 UTC−4    Spain   v Saudi Arabia   @ Atlanta
+  18:00 UTC−4    Uruguay v Cape Verde     @ Miami (Miami Gardens)
+June 26
+  19:00 UTC−5    Cape Verde 	v Saudi Arabia   @ Houston
+  18:00 UTC−6    Uruguay 	    v Spain          @ Guadalajara (Zapopan)
+
+
+▪ Group I
+June 16
+  15:00 UTC−4    France 	v Senegal    @ New York/New Jersey (East Rutherford)
+  18:00 UTC−4    IC Path 2 winner 	v Norway  @ Boston (Foxborough)
+June 22
+  17:00 UTC−4    France 	v IC Path 2 winner  @ Philadelphia
+  20:00 UTC−4    Norway 	v Senegal    @ New York/New Jersey (East Rutherford)
+June 26
+  15:00 UTC−4     Norway 	v France            @ Boston (Foxborough)
+  15:00 UTC−4    Senegal 	v IC Path 2 winner  @ Toronto
+
+
+▪ Group J
+June 16
+  20:00 UTC−5    Argentina 	v Algeria   @ Kansas City
+  21:00 UTC−7    Austria 	v Jordan    @ San Francisco Bay Area (Santa Clara)
+June 22
+  12:00 UTC−5    Argentina 	v Austria   @ Dallas (Arlington)
+  20:00 UTC−7    Jordan 	v Algeria   @ San Francisco Bay Area (Santa Clara)
+June 27
+  21:00 UTC−5    Algeria 	v Austria   @ Kansas City
+  21:00 UTC−5    Jordan 	v Argentina @ Dallas (Arlington)
+
+
+▪ Group K
+June 17
+  12:00 UTC−5    Portugal 	 v IC Path 1 winner   @ Houston
+  20:00 UTC−6    Uzbekistan  v Colombia           @ Mexico City
+June 23
+  12:00 UTC−5    Portugal 	 v Uzbekistan        @ Houston
+  20:00 UTC−6    Colombia 	 v IC Path 1 winner  @ Guadalajara (Zapopan)
+June 27
+  19:30 UTC−4   Colombia 	 v Portugal            @ Miami (Miami Gardens)
+  19:30 UTC−4   IC Path 1 winner 	v Uzbekistan   @ Atlanta
+
+
+▪ Group L
+June 17
+  15:00 UTC−5   England 	v Croatia    @ Dallas (Arlington)
+  19:00 UTC−4   Ghana 	    v Panama     @ Toronto
+June 23
+  16:00 UTC−4   England 	v Ghana     @ Boston (Foxborough)
+  19:00 UTC−4   Panama 	    v Croatia   @ Toronto
+June 27
+  17:00 UTC−4    Panama 	v England   @ New York/New Jersey (East Rutherford)
+  17:00 UTC−4    Croatia 	v Ghana     @ Philadelphia
+
+
+

@@ -1,77 +1,70 @@
-= World Cup 2026       # in in Canada, Mexico and USA
+= World Cup 2026       # in Canada, United States, and Mexico 
 
-Round of 32
-Sun Jun 28 2026
-(73)   Group A runners-up v Group B runners-up   @ Los Angeles Stadium
 
+
+▪ Round of 32
+Sun Jun 28 
+  (73) 12:00 UTC−7  Group A runners-up v Group B runners-up        @ Los Angeles (Inglewood)
 Mon Jun 29
-(74)   Group E winners v Group A/B/C/D/F third place  @ Boston Stadium
-(75)   Group F winners v Group C runners-up           @ Estadio Monterrey
-(76)   Group C winners v Group F runners-up           @ Houston Stadium
-
+  (74) 16:30 UTC−4  Group E winners v Group A/B/C/D/F third place  @ Boston (Foxborough) 
+  (75) 19:00 UTC−6  Group F winners v Group C runners-up           @ Monterrey (Guadalupe)
+  (76) 12:00 UTC−5  Group C winners v Group F runners-up           @ Houston
 Tue Jun 30 
-(77)    Group I winners v Group C/D/F/G/H third place  @ New York New Jersey Stadium
-(78)    Group E runners up v Group I runners-up        @ Dallas Stadium
-(79)    Group A winners v Group C/E/F/H/I third place  @ Estadio Azteca Mexico City
-
+  (77) 17:00 UTC−4  Group I winners v Group C/D/F/G/H third place  @ New York/New Jersey (East Rutherford) 
+  (78) 12:00 UTC−5  Group E runners up v Group I runners-up        @ Dallas (Arlington)
+  (79) 19:00 UTC−6  Group A winners v Group C/E/F/H/I third place  @ Mexico City
 Wed Jul 1 
-(80)   Group L winners v Group E/H/I/J/K third place  @ Atlanta Stadium
-(81)   Group D winners v Group B/E/F/I/J third place  @ San Francisco Bay Area Stadium
-(82)   Group G winners v Group A/E/H/I/J third place  @ Seattle Stadium
-
+  (80) 12:00 UTC−4  Group L winners v Group E/H/I/J/K third place  @ Atlanta
+  (81) 17:00 UTC−7  Group D winners v Group B/E/F/I/J third place  @ San Francisco Bay Area (Santa Clara)
+  (82) 13:00 UTC−7  Group G winners v Group A/E/H/I/J third place  @ Seattle
 Thu Jul 2 
-(83)   Group K runners-up v Group L runners-up   @ Toronto Stadium
-(84)   Group H winners v Group J runners-up    @ Los Angeles Stadium
-(85)   Group B winners v Group E/F/G/I/J third place  @ BC Place Vancouver
-
+  (83) 19:00 UTC−4  Group K runners-up v Group L runners-up        @ Toronto 
+  (84) 12:00 UTC−7  Group H winners v Group J runners-up           @ Los Angeles (Inglewood)
+  (85) 20:00 UTC−7  Group B winners v Group E/F/G/I/J third place  @ Vancouver
 Fri Jul 3 
-(86)   Group J winners v Group H runners-up   @ Miami Stadium
-(87)   Group K winners v Group D/E/I/J/L third place   @ Kansas City Stadium
-(88)   Group D runners-up v Group G runners-up  @ Dallas Stadium
+  (86) 18:00 UTC−4  Group J winners v Group H runners-up           @ Miami (Miami Gardens)
+  (87) 20:30 UTC−5  Group K winners v Group D/E/I/J/L third place  @ Kansas City
+  (88) 13:00 UTC−5  Group D runners-up v Group G runners-up        @ Dallas (Arlington)
 
 
-Round of 16 
+▪ Round of 16 
 Sat Jul 4 
-(89)    Winner match 74 v Winner match 77   @ Philadelphia Stadium
-(90)    Winner match 73 v Winner match 75   @ Houston Stadium
-
+  (89) 17:00 UTC−4  Winner match 74 v Winner match 77   @ Philadelphia 
+  (90) 12:00 UTC−5  Winner match 73 v Winner match 75   @ Houston 
 Sun Jul 5 
-(91)    Winner match 76 v Winner match 78   @ New York New Jersey Stadium
-(92)    Winner match 79 v Winner match 80   @ Estadio Azteca Mexico City
-
+  (91) 16:00 UTC−4  Winner match 76 v Winner match 78   @ New York/New Jersey (East Rutherford) 
+  (92) 18:00 UTC−6  Winner match 79 v Winner match 80   @ Mexico City
 Mon Jul 6 
-(93)    Winner match 83 v Winner match 84   @ Dallas Stadium
-(94)    Winner match 81 v Winner match 82   @ Seattle Stadium
-
+  (93) 14:00 UTC−5  Winner match 83 v Winner match 84   @ Dallas (Arlington) 
+  (94) 17:00 UTC−7  Winner match 81 v Winner match 82   @ Seattle 
 Tue Jul 7 
-(95)    Winner match 86 v Winner match 88   @ Atlanta Stadium
-(96)    Winner match 85 v Winner match 87   @ BC Place Vancouver
+  (95) 12:00 UTC−4  Winner match 86 v Winner match 88   @ Atlanta
+  (96) 13:00 UTC−7  Winner match 85 v Winner match 87   @ Vancouver
 
 
-Quarter-final 
+▪ Quarter-final 
 Thu Jul 9 
-(97)    Winner match 89 v Winner match 90   @ Boston Stadium
-
+  (97) 16:00 UTC−4  Winner match 89 v Winner match 90   @ Boston (Foxborough) 
 Fri Jul 10 
-(98)    Winner match 93 v Winner match 94   @ Los Angeles Stadium
-
+  (98) 12:00 UTC−7  Winner match 93 v Winner match 94   @ Los Angeles (Inglewood)
 Sat Jul 11 
-(99)    Winner match 91 v Winner match 92   @ Miami Stadium
-(100)   Winner match 95 v Winner match 96   @ Kansas City Stadium
+  (99) 17:00 UTC−4  Winner match 91 v Winner match 92   @ Miami (Miami Gardens) 
+ (100) 20:00 UTC−5  Winner match 95 v Winner match 96   @ Kansas City
 
 
-Semi-final 
+▪ Semi-final 
 Tue Jul 14 
-(101)    Winner match 97 v Winner match 98   @ Dallas Stadium
-
+ (101) 14:00 UTC−5  Winner match 97 v Winner match 98   @ Dallas (Arlington)
 Wed Jul 15 
-(102)    Winner match 99 v Winner match 100   @ Atlanta Stadium
+ (102) 15:00 UTC−4  Winner match 99 v Winner match 100   @ Atlanta 
 
-Match for third place     # Bronze final
+
+▪ Match for third place   
 Sat Jul 18 
-(103)   Loser match 101 v Loser match 102   @ Miami Stadium
+  17:00 UTC−4    Loser match 101 v Loser match 102    @ Miami (Miami Gardens)
 
-Final
+▪ Final
 Sun Jul 19 
-(104)   Winner match 101 v Winner match 102   @ New York New Jersey Stadium
+  15:00 UTC−4    Winner match 101 v Winner match 102   @ New York/New Jersey (East Rutherford)
+
 
