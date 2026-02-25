@@ -1,0 +1,57 @@
+##
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/30full.html
+
+
+=World Cup 1930=
+
+
+▪ Semifinals
+
+26.07.30 14:45 @ Montevideo, Centenario
+ARG v USA 6-1 (1-0)
+
+ (1-0 Monti 20,    2-0 Scopelli 56, 
+  3-0 Stábile 69,  4-0 Peucelle 80, 
+  5-0 Peucelle 85, 6-0 Stábile 87, 
+  6-1 Brown 89)
+
+ARG: Botasso - Della Tore, Paternoster - J.Evaristo, Monti,
+     Orlandini - Peucelle, Scopelli, Stábile, Ferreira (c), M.Evaristo
+USA: Douglas - Wood, Moorhouse - Gallagher, Tracey, Auld -
+     Brown, Florie (c), Patenaude, Gonsalves, McGhee
+
+## (+60000) Langenus BEL, Vallejo MEX, Warnken CHI
+
+
+27.07.30 14:45 @ Montevideo, Centenario
+URU v JUG 6-1 (3-1)
+
+ (0-1 Vujadinović 4, 1-1 Cea 19, 
+  2-1 Anselmo 21 h,  3-1 Anselmo 23, 
+  4-1 Iriarte 63,    5-1 Cea 66, 
+  6-1 Cea 72)
+
+URU: Ballestero - Mascheroni, Nasazzi (c) - Andrade, Fernández, Gestido -
+     Dorado, Scarone, Anselmo, Cea, Iriarte
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+     Djokić - Tirnanić, Marjanović, Bek, Vujadinović, Sekulić
+
+## (+80000) Rego BRA, Saucedo BOL, Balway FRA
+
+
+▪ Final
+
+30.07.30 15:30 @ Montevideo, Centenario
+URU v ARG  4-2 (1-2)
+
+  (1-0 Dorado 12, 1-1 Peucelle 20, 
+   1-2 Stábile 38, 2-2 Cea 58, 
+   3-2 Iriarte 68, 4-2 Castro 89)
+
+URU: Ballestero - Mascheroni, Nasazzi (c) - Andrade, Fernández, Gestido -
+     Dorado, Scarone, Castro, Cea, Iriarte
+ARG: Botasso - Della Torre, Paternoster - J.Evaristo, Monti, Arico Suárez - 
+     Peucelle, Varallo, Stábile, Ferreira (c), M.Evaristo
+
+## (-80000) Langenus BEL, Christophe BEL, Saucedo BOL

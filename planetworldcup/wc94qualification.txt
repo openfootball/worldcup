@@ -9,6 +9,20 @@
 # Total goals              1431   Goals per game average   2.88
 
 
+# structure from wikipedia
+#
+# 1994 FIFA World Cup qualification
+# AFC	| First round Final round (Japan 2–2 Iraq)
+# CAF	| First round Second round (Zambia national team plane crash)
+# CONCACAF	| Caribbean Zone Central American Zone Second round Final round
+# CONMEBOL	| Group 1 (Argentina 0–5 Colombia) Group 2
+# OFC	| First round  Second round
+# UEFA	| Group 1 Group 2 Group 3 Group 4 Group 5 Group 6
+# Play-offs	| First round: CONCACAF v OFC  Second round: OFC v CONMEBOL
+
+
+
+
 
 ==Europe==
 
@@ -317,11 +331,7 @@
            #   Oceania and North/Central America runner-up for one
            #   spot in the World Cup.
 
-## todo/check - move to playoffs ????
-▪ Intercontinental Play-off
-              31 Oct 93 @ Sydney          Australia        1-1 Argentina
-              17 Nov 93 @ Buenos Aires    Argentina        1-0 Australia
-
+           ## see play-offs for more !!!
 
 
 ▪ CONMEBOL Group 2
@@ -500,12 +510,7 @@
 
               # Canada required to play off with winner of Oceania.
 
-## todo/check - move to playoffs ????
-▪ Intercontinental Play-off
-              31 Jul 93 @ Edmonton        Canada           2-1 Australia
-              15 Aug 93 @ Sydney          Australia        2-1 Canada
-              # (Australia won 4-1 on penalties.)
-
+              ## see play-offs for more !!!
 
               # QUALIFIED FROM NORTH/CENTRAL AMERICA:
               # Mexico + USA as host nation.
@@ -1009,17 +1014,29 @@
               06 Jun 93 @ Melbourne       Australia        3-0 New Zealand
               
 
+              ## Australia required to play off with runner up of North 
+              ## and Central America.
 
-## todo/check - move to playoffs ????
-▪ Intercontinental Play-off
-      
+              ## see play-offs for more !!!
+
+              ## QUALIFIED FROM OCEANIA:
+              ## None
+
+
+==Play-offs==
+
+
+
+▪ Inter-confederation Play-offs
+▪▪ First round - CONCACAF/OFC Play-off
               ## Australia required to play off with runner up of North 
               ## and Central America.
 
               31 Jul 93 @ Edmonton        Canada           2-1 Australia
               15 Aug 93 @ Sydney          Australia        2-1 Canada 
-              # (Australia won 4-1 on penalties)
+              # (aet, Australia won 4-1 on penalties)
 
+▪▪ Second round - OFC/CONMEBOL Play-off
               ## Australia required to play off with runner-up of South 
               ## America Group 1 for one spot in the World Cup.
 
@@ -1027,7 +1044,4 @@
               17 Nov 93 @ Buenos Aires    Argentina        1-0 Australia
 
 
-
-              ## QUALIFIED FROM OCEANIA:
-              ## None
 

@@ -1,0 +1,182 @@
+##
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/2014f.html
+
+
+=World Cup 2014=
+
+## Automatically qualified: Brazil (hosts)
+
+
+▪ FIRST PHASE
+▪▪ Group A
+<!--
+ 1.BRAZIL            3  2  1  0   7- 2  7
+ 2.MEXICO            3  2  1  0   4- 1  7
+ 3.Croatia           3  1  0  2   6- 6  3
+ 4.Cameroon          3  0  0  3   1- 9  0 -->
+
+12.6. @ São Paulo       Brazil            3-1 Croatia
+13.6. @ Natal           Mexico            1-0 Cameroon
+17.6. @ Fortaleza       Brazil            0-0 Mexico
+18.6. @ Manaus          Cameroon          0-4 Croatia
+23.6. @ Brasília        Brazil            4-1 Cameroon
+23.6. @ Recife          Croatia           1-3 Mexico
+
+
+▪▪ Group B
+<!--
+ 1.NETHERLANDS       3  3  0  0  10- 3  9
+ 2.CHILE             3  2  0  1   5- 3  6
+ 3.Spain             3  1  0  2   4- 7  3
+ 4.Australia         3  0  0  3   3- 9  0 -->
+
+13.6. @ Salvador        Spain             1-5 Netherlands
+13.6. @ Cuiabá          Chile             3-1 Australia
+18.6. @ Porto Alegre    Australia         2-3 Netherlands
+18.6. @ Rio de Janeiro  Spain             0-2 Chile
+23.6. @ Curitiba        Australia         0-3 Spain
+23.6. @ São Paulo       Netherlands       2-0 Chile
+
+
+▪▪ Group C
+<!--
+ 1.COLOMBIA          3  3  0  0   9- 2  9
+ 2.GREECE            3  1  1  1   2- 4  4
+ 3.Ivory Coast       3  1  0  2   4- 5  3
+ 4.Japan             3  0  1  2   2- 6  1 -->
+
+14.6. @ Belo Horizonte  Colombia          3-0 Greece
+14.6. @ Recife          Ivory Coast       2-1 Japan
+19.6. @ Brasília        Colombia          2-1 Ivory Coast
+19.6. @ Natal           Japan             0-0 Greece
+24.6. @ Fortaleza       Greece            2-1 Ivory Coast
+24.6. @ Cuiabá          Japan             1-4 Colombia
+
+
+▪▪ Group D
+<!--
+ 1.COSTA RICA        3  2  1  0   4- 1  7
+ 2.URUGUAY           3  2  0  1   4- 4  6
+ 3.Italy             3  1  0  2   2- 3  3
+ 4.England           3  0  1  2   2- 4  1 -->
+
+14.6. @ Fortaleza       Uruguay           1-3 Costa Rica
+14.6. @ Manaus          England           1-2 Italy
+19.6. @ São Paulo       Uruguay           2-1 England
+20.6. @ Recife          Italy             0-1 Costa Rica
+24.6. @ Belo Horizonte  Costa Rica        0-0 England
+24.6. @ Natal           Italy             0-1 Uruguay
+
+
+▪▪ Group E
+<!--
+ 1.FRANCE            3  2  1  0   8- 2  7
+ 2.SWITZERLAND       3  2  0  1   7- 6  6
+ 3.Ecuador           3  1  1  1   3- 3  4
+ 4.Honduras          3  0  0  3   1- 8  0 -->
+
+15.6. @ Brasília        Switzerland       2-1 Ecuador
+15.6. @ Porto Alegre    France            3-0 Honduras
+20.6. @ Salvador        Switzerland       2-5 France
+20.6. @ Cuiabá          Honduras          1-2 Ecuador
+25.6. @ Rio de Janeiro  Ecuador           0-0 France
+25.6. @ Manaus          Honduras          0-3 Switzerland
+
+
+▪▪ Group F
+<!--
+ 1.ARGENTINA         3  3  0  0   6- 3  9
+ 2.NIGERIA           3  1  1  1   3- 3  4
+ 3.Bosnia-Herzegov.  3  1  0  2   4- 4  3
+ 4.Iran              3  0  1  2   1- 4  1 -->
+
+15.6. @ Rio de Janeiro  Argentina         2-1 Bosnia-Herzegovina
+16.6. @ Curitiba        Iran              0-0 Nigeria
+21.6. @ Belo Horizonte  Argentina         1-0 Iran
+21.6. @ Cuiabá          Nigeria           1-0 Bosnia-Herzegovina
+25.6. @ Salvador        Bosnia-Herzegov.  3-1 Iran
+25.6. @ Porto Alegre    Nigeria           2-3 Argentina
+
+
+▪▪ Group G
+<!--
+ 1.GERMANY           3  2  1  0   7- 2  7
+ 2.USA               3  1  1  1   4- 4  4
+ 3.Portugal          3  1  1  1   4- 7  4
+ 4.Ghana             3  0  1  2   4- 6  1 -->
+
+16.6. @ Salvador       Germany           4-0 Portugal
+16.6. @ Natal          Ghana             1-2 USA
+21.6. @ Fortaleza      Germany           2-2 Ghana
+22.6. @ Manaus         USA               2-2 Portugal
+26.6. @ Brasília       Portugal          2-1 Ghana
+26.6. @ Recife         USA               0-1 Germany
+
+
+▪▪ Group H
+<!--
+ 1.BELGIUM           3  3  0  0   4- 1  9
+ 2.ALGERIA           3  1  1  1   6- 5  4
+ 3.Russia            3  0  2  1   2- 3  2
+ 4.South Korea       3  0  1  2   3- 6  1 -->
+
+17.6. @ Belo Horizonte  Belgium           2-1 Algeria
+17.6. @ Cuiabá          Russia            1-1 South Korea
+22.6. @ Rio de Janeiro  Belgium           1-0 Russia
+22.6. @ Porto Alegre    South Korea       2-4 Algeria
+26.6. @ Curitiba        Algeria           1-1 Russia
+26.6. @ São Paulo       South Korea       0-1 Belgium
+
+
+
+▪ 1/8 FINALS
+
+28.6. @ Belo Horizonte   Brazil            1-1 Chile     (aet, win 3-2 on pens)
+28.6. @ Rio de Janeiro   Colombia          2-0 Uruguay
+
+29.6. @ Fortaleza      Netherlands       2-1 Mexico
+29.6. @ Recife         Costa Rica        1-1 Greece       (aet, win 5-3 on pens)
+
+30.6. @ Brasília       France            2-0 Nigeria
+30.6. @ Porto Alegre   Germany           2-1 Algeria          (aet)
+
+ 1.7. @ São Paulo      Argentina         1-0 Switzerland      (aet)
+ 1.7. @ Salvador       Belgium           2-1 USA              (aet)
+
+
+▪ QUARTERFINALS
+
+ 4.7. @ Rio de Janeiro France            0-1 Germany
+ 4.7. @ Fortaleza      Brazil            2-1 Colombia
+
+ 5.7. @ Brasília       Argentina         1-0 Belgium
+ 5.7. @ Salvador       Netherlands       0-0 Costa Rica       (aet, win 4-3 on pens)
+
+
+▪ SEMIFINALS
+
+ 8.7. @ Belo Horizonte  Brazil            1-7 Germany            
+ 9.7. @ São Paulo       Argentina         0-0 Netherlands     (aet, win 4-2 on pens)
+
+
+▪ THIRD PLACE MATCH
+
+12.7. @ Brasília        Brazil            0-3 Netherlands
+
+
+▪ FINAL
+
+13.7. @ Rio de Janeiro     Att: 74738
+  Germany           1-0 Argentina        (aet)
+     (1-0 Götze 113')
+
+Germany: Neuer, Lahm, Boateng, Hummels, Höwedes, Kramer (Schürrle 32'),
+         Schweinsteiger, Kroos, Th. Müller, Klose (Götze 88'), 
+         Özil (Mertesacker 120')
+Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'), 
+           Biglia, Mascherano, E. Pérez (Gago 86'),
+           Messi, Higuain (Palacio 78')
+
+## Referee: Rizzoli (Italy)
+

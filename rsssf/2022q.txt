@@ -1,0 +1,1400 @@
+##
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/2022q.html
+
+
+# structure from wikipedia
+#
+# 2022 FIFA World Cup qualification
+# AFC | First round Second round Third round Fourth round (play-off)
+# CAF | First round Second round Third round
+# CONCACAF	| First round Second round Third round (Canada v Mexico)
+# CONMEBOL	| Round robin
+# OFC	 | Qualification tournament
+# UEFA	 | First round( 
+#        |  Group A Group B Group C Group D Group E Group F Group G
+#        |   Group H Group I Group J)
+#        |   Second round (play-offs) 
+# Play-offs	 | AFC v CONMEBOL   CONCACAF v OFC
+
+
+
+=World Cup Qualifying=
+
+==Europe==
+
+▪ Group A
+<!--
+ 1.SERBIA        8  6  2  0 18- 9 20
+ 2.Portugal      8  5  2  1 17- 6 17  Playoff 
+ 3.Ireland       8  2  3  3 11- 8  9
+ 4.Luxembourg    8  3  0  5  8-18  9
+ 5.Azerbaijan    8  0  1  7  5-18  1 -->
+
+24.3.21 @ Torino          Portugal      1-0 Azerbaijan
+24.3.21 @ Beograd         Serbia        3-2 Ireland
+27.3.21 @ Dublin          Ireland       0-1 Luxembourg
+27.3.21 @ Beograd         Serbia        2-2 Portugal
+30.3.21 @ Baku            Azerbaijan    1-2 Serbia
+30.3.21 @ Luxembourg      Luxembourg    1-3 Portugal
+ 1.9.21 @ Luxembourg      Luxembourg    2-1 Azerbaijan
+ 1.9.21 @ Faro/Loulé      Portugal      2-1 Ireland
+ 4.9.21 @ Dublin          Ireland       1-1 Azerbaijan
+ 4.9.21 @ Beograd         Serbia        4-1 Luxembourg
+ 7.9.21 @ Baku            Azerbaijan    0-3 Portugal
+ 7.9.21 @ Dublin          Ireland       1-1 Serbia
+ 9.10.21 @ Baku            Azerbaijan    0-3 Ireland
+ 9.10.21 @ Luxembourg      Luxembourg    0-1 Serbia
+12.10.21 @ Faro/Loulé      Portugal      5-0 Luxembourg
+12.10.21 @ Beograd         Serbia        3-1 Azerbaijan
+11.11.21 @ Baku            Azerbaijan    1-3 Luxembourg
+11.11.21 @ Dublin          Ireland       0-0 Portugal
+14.11.21 @ Luxembourg      Luxembourg    0-3 Ireland
+14.11.21 @ Lisboa          Portugal      1-2 Serbia
+
+▪ Group B
+<!--
+ 1.SPAIN         8  6  1  1 15- 5 19 
+ 2.Sweden        8  5  0  3 12- 6 15  Playoff
+ 3.Greece        8  2  4  2  8- 8 10 
+ 4.Georgia       8  2  1  5  6- 12 7
+ 5.Kosovo        8  1  2  5  5- 15 5  -->
+
+25.3.21 @ Granada         Spain         1-1 Greece
+25.3.21 @ Solna           Sweden        1-0 Georgia
+28.3.21 @ Tbilisi         Georgia       1-2 Spain
+28.3.21 @ Prishtinë       Kosovo        0-3 Sweden
+31.3.21 @ Thessaloniki    Greece        1-1 Georgia
+31.3.21 @ Sevilla         Spain         3-1 Kosovo
+ 2.9.21 @ Batumi          Georgia       0-1 Kosovo
+ 2.9.21 @ Solna           Sweden        2-1 Spain
+ 5.9.21 @ Prishtinë       Kosovo        1-1 Greece
+ 5.9.21 @ Badajoz         Spain         4-0 Georgia
+ 8.9.21 @ Athens          Greece        2-1 Sweden
+ 8.9.21 @ Prishtinë       Kosovo        0-2 Spain
+ 9.10.21 @ Batumi          Georgia       0-2 Greece
+ 9.10.21 @ Solna           Sweden        3-0 Kosovo
+12.10.21 @ Prishtinë       Kosovo        1-2 Georgia
+12.10.21 @ Solna           Sweden        2-0 Greece
+11.11.21 @ Batumi          Georgia       2-0 Sweden
+11.11.21 @ Athens          Greece        0-1 Spain
+14.11.21 @ Athens          Greece        1-1 Kosovo
+14.11.21 @ Sevilla         Spain         1-0 Sweden
+
+▪ Group C
+<!--
+ 1.SWITZERLAND   8  5  3  0 15- 2 18 
+ 2.Italy         8  4  4  0 13- 2 16  Playoff
+ 3.N. Ireland    8  2  3  3  6- 7  9 
+ 4.Bulgaria      8  2  2  4  6-14  8
+ 5.Lithuania     8  1  0  7  4-19  3 -->
+
+25.3.21 @ Sofia           Bulgaria      1-3 Switzerland
+25.3.21 @ Parma           Italy         2-0 Northern Ireland
+28.3.21 @ Sofia           Bulgaria      0-2 Italy
+28.3.21 @ St. Gallen      Switzerland   1-0 Lithuania
+31.3.21 @ Vilnius         Lithuania     0-2 Italy
+31.3.21 @ Belfast         N. Ireland    0-0 Bulgaria
+ 2.9.21 @ Firenze         Italy         1-1 Bulgaria
+ 2.9.21 @ Vilnius         Lithuania     1-4 Northern Ireland
+ 5.9.21 @ Sofia           Bulgaria      1-0 Lithuania
+ 5.9.21 @ Basel           Switzerland   0-0 Italy
+ 8.9.21 @ Reggio Emilia   Italy         5-0 Lithuania
+ 8.9.21 @ Belfast         N. Ireland    0-0 Switzerland
+ 9.10.21 @ Vilnius         Lithuania     3-1 Bulgaria
+ 9.10.21 @ Genève          Switzerland   2-0 Northern Ireland
+12.10.21 @ Sofia           Bulgaria      2-1 Northern Ireland
+12.10.21 @ Vilnius         Lithuania     0-4 Switzerland
+12.11.21 @ Roma            Italy         1-1 Switzerland
+12.11.21 @ Belfast         N. Ireland    1-0 Lithuania
+15.11.21 @ Belfast         N. Ireland    0-0 Italy
+15.11.21 @ Luzern          Switzerland   4-0 Bulgaria
+
+▪ Group D
+<!--
+ 1.FRANCE        8  5  3  0 18- 3 18
+ 2.Ukraine       8  2  6  0 11- 8 12  Playoff
+ 3.Finland       8  3  2  3 10-10 11
+ 4.Bosnia Herz.  8  1  4  3  9-12  7
+ 5.Kazakhstan    8  0  3  5  5-20  3 -->
+
+24.3.21 @ Helsinki        Finland       2-2 Bosnia Herzegovina
+24.3.21 @ Saint-Denis     France        1-1 Ukraine
+28.3.21 @ Nur Sultan      Kazakhstan    0-2 France
+28.3.21 @ Kyiv            Ukraine       1-1 Finland
+31.3.21 @ Sarajevo        Bosnia Herz.  0-1 France
+31.3.21 @ Kyiv            Ukraine       1-1 Kazakhstan
+ 1.9.21 @ Nur Sultan      Kazakhstan    2-2 Ukraine
+ 1.9.21 @ Strasbourg      France        1-1 Bosnia Herzegovina
+ 4.9.21 @ Helsinki        Finland       1-0 Kazakhstan
+ 4.9.21 @ Kyiv            Ukraine       1-1 France
+ 7.9.21 @ Zenica          Bosnia Herz.  2-2 Kazakhstan
+ 7.9.21 @ Lyon            France        2-0 Finland
+ 9.10.21 @ Nur Sultan      Kazakhstan    0-2 Bosnia Herzegovina
+ 9.10.21 @ Helsinki        Finland       1-2 Ukraine
+12.10.21 @ Nur Sultan      Kazakhstan    0-2 Finland
+12.10.21 @ Lviv            Ukraine       1-1 Bosnia Herzegovina
+13.11.21 @ Zenica          Bosnia Herz.  1-3 Finland
+13.11.21 @ Paris           France        8-0 Kazakhstan
+16.11.21 @ Zenica          Bosnia Herz.  0-2 Ukraine
+16.11.21 @ Helsinki        Finland       0-2 France
+
+▪ Group E
+<!--
+ 1.BELGIUM       8  6  2  0 25- 6 20 
+ 2.Wales         8  4  3  1 14- 9 15  Playoff
+ 3.Czech Rep.    8  4  2  2 14- 9 14  Playoff via Nations League
+ 4.Estonia       8  1  1  6  9-21  4 
+ 5.Belarus       8  1  0  7  7-24  3  -->
+
+24.3.21 @ Leuven          Belgium       3-1 Wales
+24.3.21 @ Lublin          Estonia       2-6 Czech Republic
+27.3.21 @ Minsk           Belarus       4-2 Estonia
+27.3.21 @ Praha           Czech Rep.    1-1 Belgium
+30.3.21 @ Leuven          Belgium       8-0 Belarus
+30.3.21 @ Cardiff         Wales         1-0 Czech Republic
+ 2.9.21 @ Ostrava         Czech Rep.    1-0 Belarus
+ 2.9.21 @ Tallinn         Estonia       2-5 Belgium
+ 5.9.21 @ Kazan           Belarus       2-3 Wales
+ 5.9.21 @ Brussels        Belgium       3-0 Czech Republic
+ 8.9.21 @ Kazan           Belarus       0-1 Belgium
+ 8.9.21 @ Cardiff         Wales         0-0 Estonia
+ 8.10.21 @ Praha           Czech Rep.    2-2 Wales
+ 8.10.21 @ Tallinn         Estonia       2-0 Belarus
+11.10.21 @ Kazan           Belarus       0-2 Czech Republic
+11.10.21 @ Tallinn         Estonia       0-1 Wales
+13.11.21 @ Brussels        Belgium       3-1 Estonia
+13.11.21 @ Cardiff         Wales         5-1 Belarus
+16.11.21 @ Praha           Czech Rep.    2-0 Estonia
+16.11.21 @ Cardiff         Wales         1-1 Belgium
+
+▪ Group F
+<!--
+ 1.DENMARK      10  9  0  1 30- 3 27
+ 2.Scotland     10  7  2  1 17- 7 23  Playoff
+ 3.Israel       10  5  1  4 23-21 16 
+ 4.Austria      10  5  1  4 19-17 16  Playoff via Nations League 
+ 5.Faroe Isl.   10  1  1  8  7-23  4 
+ 6.Moldova      10  0  1  9  5-30  1  -->
+
+25.3.21 @ Tel Aviv        Israel        0-2 Denmark
+25.3.21 @ Chisinau        Moldova       1-1 Faroe Islands
+25.3.21 @ Glasgow         Scotland      2-2 Austria
+28.3.21 @ Herning         Denmark       8-0 Moldova
+28.3.21 @ Wien            Austria       3-1 Faroe Islands
+28.3.21 @ Tel Aviv        Israel        1-1 Scotland
+31.3.21 @ Wien            Austria       0-4 Denmark
+31.3.21 @ Chisinau        Moldova       1-4 Israel
+31.3.21 @ Glasgow         Scotland      4-0 Faroe Islands
+ 1.9.21 @ København       Denmark       2-0 Scotland
+ 1.9.21 @ Tórshavn        Faroe Islands 0-4 Israel
+ 1.9.21 @ Chisinau        Moldova       0-2 Austria
+ 4.9.21 @ Tórshavn        Faroe Islands 0-1 Denmark
+ 4.9.21 @ Haifa           Israel        5-2 Austria
+ 4.9.21 @ Glasgow         Scotland      1-0 Moldova
+ 7.9.21 @ Wien            Austria       0-1 Scotland
+ 7.9.21 @ København       Denmark       5-0 Israel
+ 7.9.21 @ Tórshavn        Faroe Islands 2-1 Moldova
+ 9.10.21 @ Glasgow         Scotland      3-2 Israel
+ 9.10.21 @ Tórshavn        Faroe Islands 0-2 Austria
+ 9.10.21 @ Chisinau        Moldova       0-4 Denmark
+12.10.21 @ København       Denmark       1-0 Austria
+12.10.21 @ Tórshavn        Faroe Islands 0-1 Scotland
+12.10.21 @ Be'er Sheva     Israel        2-1 Moldova
+12.11.21 @ Chisinau        Moldova       0-2 Scotland
+12.11.21 @ Klagenfurt      Austria       4-2 Israel
+12.11.21 @ København       Denmark       3-1 Faroe Islands
+15.11.21 @ Klagenfurt      Austria       4-1 Moldova
+15.11.21 @ Netanya         Israel        3-2 Faroe Islands
+15.11.21 @ Glasgow         Scotland      2-0 Denmark
+
+▪ Group G
+<!-- 
+ 1.NETHERLANDS  10  7  2  1 33- 8 23
+ 2.Turkey       10  6  3  1 27-16 21  Playoff
+ 3.Norway       10  5  3  2 15- 8 18 
+ 4.Montenegro   10  3  3  4 14-15 12
+ 5.Latvia       10  2  3  5 11-14  9
+ 6.Gibraltar    10  0  0 10  4-43  0 -->
+
+24.3.21 @ Istanbul        Turkey        4-2 Netherlands
+24.3.21 @ Gibraltar       Gibraltar     0-3 Norway
+24.3.21 @ Riga            Latvia        1-2 Montenegro
+27.3.21 @ Podgorica       Montenegro    4-1 Gibraltar
+27.3.21 @ Amsterdam       Netherlands   2-0 Latvia
+27.3.21 @ Málaga          Norway        0-3 Turkey
+30.3.21 @ Gibraltar       Gibraltar     0-7 Netherlands
+30.3.21 @ Podgorica       Montenegro    0-1 Norway
+30.3.21 @ Istanbul        Turkey        3-3 Latvia
+ 1.9.21 @ Riga            Latvia        3-1 Gibraltar
+ 1.9.21 @ Oslo            Norway        1-1 Netherlands
+ 1.9.21 @ Istanbul        Turkey        2-2 Montenegro
+ 4.9.21 @ Riga            Latvia        0-2 Norway
+ 4.9.21 @ Gibraltar       Gibraltar     0-3 Turkey
+ 4.9.21 @ Eindhoven       Netherlands   4-0 Montenegro
+ 7.9.21 @ Podgorica       Montenegro    0-0 Latvia
+ 7.9.21 @ Amsterdam       Netherlands   6-1 Turkey
+ 7.9.21 @ Oslo            Norway        5-1 Gibraltar
+ 8.10.21 @ Gibraltar       Gibraltar     0-3 Montenegro
+ 8.10.21 @ Riga            Latvia        0-1 Netherlands
+ 8.10.21 @ Istanbul        Turkey        1-1 Norway
+11.10.21 @ Riga            Latvia        1-2 Turkey
+11.10.21 @ Rotterdam       Netherlands   6-0 Gibraltar
+11.10.21 @ Oslo            Norway        2-0 Montenegro
+13.11.21 @ Oslo            Norway        0-0 Latvia
+13.11.21 @ Istanbul        Turkey        6-0 Gibraltar
+13.11.21 @ Podgorica       Montenegro    2-2 Netherlands
+16.11.21 @ Gibraltar       Gibraltar     1-3 Latvia
+16.11.21 @ Podgorica       Montenegro    1-2 Turkey
+16.11.21 @ Rotterdam       Netherlands   2-0 Norway
+
+▪ Group H
+<!--
+ 1.CROATIA      10  7  2  1 21- 4 23
+ 2.Russia       10  7  1  2 19- 6 22  Playoff 
+ 3.Slovakia     10  3  5  2 17-10 14
+ 4.Slovenia     10  4  2  4 13-12 14
+ 5.Cyprus       10  1  2  7  4-21  5 
+ 6.Malta        10  1  2  7  9-30  5  -->
+
+24.3.21 @ Nicosia         Cyprus        0-0 Slovakia
+24.3.21 @ Valletta        Malta         1-3 Russia
+24.3.21 @ Ljubljana       Slovenia      1-0 Croatia
+27.3.21 @ Sochi           Russia        2-1 Slovenia
+27.3.21 @ Rijeka          Croatia       1-0 Cyprus
+27.3.21 @ Trnava          Slovakia      2-2 Malta
+30.3.21 @ Nicosia         Cyprus        1-0 Slovenia
+30.3.21 @ Rijeka          Croatia       3-0 Malta
+30.3.21 @ Trnava          Slovakia      2-1 Russia
+ 1.9.21 @ Valletta        Malta         3-0 Cyprus
+ 1.9.21 @ Moskva          Russia        0-0 Croatia
+ 1.9.21 @ Ljubljana       Slovenia      1-1 Slovakia
+ 4.9.21 @ Nicosia         Cyprus        0-2 Russia
+ 4.9.21 @ Ljubljana       Slovenia      1-0 Malta
+ 4.9.21 @ Bratislava      Slovakia      0-1 Croatia
+ 7.9.21 @ Split           Croatia       3-0 Slovenia
+ 7.9.21 @ Moskva          Russia        2-0 Malta
+ 7.9.21 @ Bratislava      Slovakia      2-0 Cyprus
+ 8.10.21 @ Larnaca         Cyprus        0-3 Croatia
+ 8.10.21 @ Valletta        Malta         0-4 Slovenia
+ 8.10.21 @ Kazan           Russia        1-0 Slovakia
+11.10.21 @ Larnaca         Cyprus        2-2 Malta
+11.10.21 @ Osijek          Croatia       2-2 Slovakia
+11.10.21 @ Maribor         Slovenia      1-2 Russia
+11.11.21 @ Skt. Peterburg  Russia        6-0 Cyprus
+11.11.21 @ Valletta        Malta         1-7 Croatia
+11.11.21 @ Trnava          Slovakia      2-2 Slovenia
+14.11.21 @ Split           Croatia       1-0 Russia
+14.11.21 @ Valletta        Malta         0-6 Slovakia
+14.11.21 @ Ljubljana       Slovenia      2-1 Cyprus
+
+▪ Group I
+<!--
+ 1.ENGLAND      10  8  2  0 39- 3 26
+ 2.Poland       10  6  2  2 30-11 20  Playoff 
+ 3.Albania      10  6  0  4 12-12 18
+ 4.Hungary      10  5  2  3 19-13 17 
+ 5.Andorra      10  2  0  8  8-24  6 
+ 6.San Marino   10  0  0 10  1-46  0 -->
+
+25.3.21 @ Andorra la V.   Andorra       0-1 Albania
+25.3.21 @ London          England       5-0 San Marino
+25.3.21 @ Budapest        Hungary       3-3 Poland
+28.3.21 @ Tiranë          Albania       0-2 England
+28.3.21 @ Warszawa        Poland        3-0 Andorra
+28.3.21 @ Serravalle      San Marino    0-3 Hungary
+31.3.21 @ Andorra la V.   Andorra       1-4 Hungary
+31.3.21 @ London          England       2-1 Poland
+31.3.21 @ Serravalle      San Marino    0-2 Albania
+ 2.9.21 @ Andorra la V.   Andorra       2-0 San Marino
+ 2.9.21 @ Budapest        Hungary       0-4 England
+ 2.9.21 @ Warszawa        Poland        4-1 Albania
+ 5.9.21 @ Tiranë          Albania       1-0 Hungary
+ 5.9.21 @ London          England       4-0 Andorra
+ 5.9.21 @ Serravalle      San Marino    1-7 Poland
+ 8.9.21 @ Elbasan         Albania       5-0 San Marino
+ 8.9.21 @ Budapest        Hungary       2-1 Andorra
+ 8.9.21 @ Warszawa        Poland        1-1 England
+ 9.10.21 @ Andorra la V.   Andorra       0-5 England
+ 9.10.21 @ Budapest        Hungary       0-1 Albania
+ 9.10.21 @ Warszawa        Poland        5-0 San Marino
+12.10.21 @ Tiranë          Albania       0-1 Poland
+12.10.21 @ London          England       1-1 Hungary
+12.10.21 @ Serravalle      San Marino    0-3 Andorra
+12.11.21 @ Andorra la V.   Andorra       1-4 Poland
+12.11.21 @ London          England       5-0 Albania
+12.11.21 @ Budapest        Hungary       4-0 San Marino
+15.11.21 @ Tiranë          Albania       1-0 Andorra
+15.11.21 @ Warszawa        Poland        1-2 Hungary
+15.11.21 @ Serravalle      San Marino   0-10 England
+
+▪ Group J
+<!--
+ 1.GERMANY      10  9  0  1 36- 4 27 
+ 2.N. Macedonia 10  5  3  2 23-11 18  Playoff 
+ 3.Romania      10  5  2  3 13- 8 17 
+ 4.Armenia      10  3  3  4  9-20 12
+ 5.Iceland      10  2  3  5 12-18  9
+ 6.Liechtenst.  10  0  1  9  2-34  1 -->
+
+25.3.21 @ Duisburg        Germany       3-0 Iceland
+25.3.21 @ Vaduz           Liechtenstein 0-1 Armenia
+25.3.21 @ Bucuresti       Romania       3-2 North Macedonia
+28.3.21 @ Yerevan         Armenia       2-0 Iceland
+28.3.21 @ Skopje          N. Macedonia  5-0 Liechtenstein
+28.3.21 @ Bucuresti       Romania       0-1 Germany
+31.3.21 @ Yerevan         Armenia       3-2 Romania
+31.3.21 @ Duisburg        Germany       1-2 North Macedonia
+31.3.21 @ Vaduz           Liechtenstein 1-4 Iceland
+ 2.9.21 @ Reykjavík       Iceland       0-2 Romania
+ 2.9.21 @ St. Gallen      Liechtenstein 0-2 Germany
+ 2.9.21 @ Skopje          N. Macedonia  0-0 Armenia
+ 5.9.21 @ Reykjavík       Iceland       2-2 North Macedonia
+ 5.9.21 @ Stuttgart       Germany       6-0 Armenia
+ 5.9.21 @ Bucuresti       Romania       2-0 Liechtenstein
+ 8.9.21 @ Yerevan         Armenia       1-1 Liechtenstein
+ 8.9.21 @ Reykjavík       Iceland       0-4 Germany
+ 8.9.21 @ Skopje          N. Macedonia  0-0 Romania
+ 8.10.21 @ Hamburg         Germany       2-1 Romania
+ 8.10.21 @ Reykjavík       Iceland       1-1 Armenia
+ 8.10.21 @ Vaduz           Liechtenstein 0-4 North Macedonia
+11.10.21 @ Reykjavík       Iceland       4-0 Liechtenstein
+11.10.21 @ Skopje          N. Macedonia  0-4 Germany
+11.10.21 @ Bucuresti       Romania       1-0 Armenia
+11.11.21 @ Yerevan         Armenia       0-5 North Macedonia
+11.11.21 @ Wolfsburg       Germany       9-0 Liechtenstein
+11.11.21 @ Bucuresti       Romania       0-0 Iceland
+14.11.21 @ Yerevan         Armenia       1-4 Germany
+14.11.21 @ Vaduz           Liechtenstein 0-2 Romania
+14.11.21 @ Skopje          N. Macedonia  3-1 Icelan
+
+
+▪ Playoff Stage
+
+▪▪ Path A
+▪▪▪ Semifinals
+24.3.22 @ Cardiff         Wales         2-1 Austria
+ 1.6.22 @ Glasgow         Scotland      1-3 Ukrain
+
+▪▪▪ Final
+ 5.6.22 @ Cardiff         Wales         1-0 Ukraine
+
+▪▪ Path B
+▪▪▪ Semifinals
+24.3.22 @ Moskva          Russia        awd Poland        [awarded 0-3 because of suspension Russia]
+24.3.22 @ Solna           Sweden        1-0 Czech Rep.    (aet)
+
+▪▪▪ Final
+29.3.22 @ Chorzów         Poland        2-0 Sweden
+
+▪▪ Path C
+
+▪▪▪ Semifinals
+24.3.22 @ Palermo        Italy         0-1 North Macedonia
+24.3.22 @ Oporto         Portugal      3-1 Turkey
+
+▪▪▪ Final
+29.3.22 @ Oporto         Portugal      2-0 North Macedonia
+
+## NB: Wales, Poland and Portugal qualified
+
+
+
+==South America==
+
+## NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
+
+<!--
+ 1.BRAZIL       17 14  3  0 40- 5 45 
+ 2.ARGENTINA    17 11  6  0 27- 8 39 
+ 3.URUGUAY      18  8  4  6 22-22 28 
+ 4.ECUADOR      18  7  5  6 27-19 26 
+ 5.Peru         18  7  3  8 19-22 24  Playoff
+ 6.Colombia     18  5  8  5 20-19 23 
+ 7.Chile        18  5  4  9 19-26 19 
+ 8.Paraguay     18  3  7  8 12-26 16 
+ 9.Bolivia      18  4  3 11 23-42 15
+10.Venezuela    18  3  1 14 14-34 10 -->
+
+
+## todo/fix - add round here - why? why not????
+
+ 8.10.20 @ Asunción        Paraguay      2-2 Peru
+ 8.10.20 @ Montevideo      Uruguay       2-1 Chile
+ 8.10.20 @ Buenos Aires    Argentina     1-0 Ecuador
+ 9.10.20 @ Barranquilla    Colombia      3-0 Venezuela
+ 9.10.20 @ São Paulo       Brazil        5-0 Bolivia
+13.10.20 @ La Paz          Bolivia       1-2 Argentina
+13.10.20 @ Quito           Ecuador       4-2 Uruguay
+13.10.20 @ Mérida          Venezuela     0-1 Paraguay
+13.10.20 @ Lima            Peru          2-4 Brazil
+13.10.20 @ Santiago        Chile         2-2 Colombia
+12.11.20 @ La Paz          Bolivia       2-3 Ecuador
+12.11.20 @ Buenos Aires    Argentina     1-1 Paraguay
+13.11.20 @ Barranquilla    Colombia      0-3 Uruguay
+13.11.20 @ Santiago        Chile         2-0 Peru
+13.11.20 @ São Paulo       Brazil        1-0 Venezuela
+17.11.20 @ Caracas         Venezuela     2-1 Chile
+17.11.20 @ Quito           Ecuador       6-1 Colombia
+17.11.20 @ Montevideo      Uruguay       0-2 Brazil
+17.11.20 @ Asunción        Paraguay      2-2 Bolivia
+17.11.20 @ Lima            Peru          0-2 Argentina
+ 3.6.21 @ La Paz           Bolivia       3-1 Venezuela
+ 3.6.21 @ Montevideo       Uruguay       0-0 Paraguay
+ 3.6.21 @ Santiago del E.  Argentina     1-1 Chile
+ 3.6.21 @ Lima             Peru          0-3 Colombia
+ 4.6.21 @ Porto Alegre    Brazil        2-0 Ecuador
+ 8.6.21 @ Quito           Ecuador       1-2 Peru
+ 8.6.21 @ Caracas         Venezuela     0-0 Uruguay
+ 8.6.21 @ Barranquilla    Colombia      2-2 Argentina
+ 8.6.21 @ Asunción        Paraguay      0-2 Brazil
+ 8.6.21 @ Santiago        Chile         1-1 Bolivia
+ 2.9.21 @ La Paz          Bolivia       1-1 Colombia
+ 2.9.21 @ Quito           Ecuador       2-0 Paraguay
+ 2.9.21 @ Caracas         Venezuela     1-3 Argentina
+ 2.9.21 @ Lima            Peru          1-1 Uruguay
+ 2.9.21 @ Santiago        Chile         0-1 Brazil
+ 5.9.21 @ Quito           Ecuador       0-0 Chile
+ 5.9.21 @ Montevideo      Uruguay       4-2 Bolivia
+ 5.9.21 @ Asunción        Paraguay      1-1 Colombia
+ 5.9.21 @ Lima            Peru          1-0 Venezuela
+ 9.9.21 @ Montevideo      Uruguay       1-0 Ecuador
+ 9.9.21 @ Asunción        Paraguay      2-1 Venezuela
+ 9.9.21 @ Barranquilla    Colombia      3-1 Chile
+ 9.9.21 @ Buenos Aires    Argentina     3-0 Bolivia
+ 9.9.21 @ São Lourenço M.  Brazil        2-0 Peru
+ 7.10.21 @ Montevideo      Uruguay       0-0 Colombia
+ 7.10.21 @ Asunción        Paraguay      0-0 Argentina
+ 7.10.21 @ Caracas         Venezuela     1-3 Brazil
+ 7.10.21 @ Guayaquil       Ecuador       3-0 Bolivia
+ 7.10.21 @ Lima            Peru          2-0 Chile
+10.10.21 @ La Paz          Bolivia       1-0 Peru
+10.10.21 @ Caracas         Venezuela     2-1 Ecuador
+10.10.21 @ Barranquilla    Colombia      0-0 Brazil
+10.10.21 @ Buenos Aires    Argentina     3-0 Uruguay
+10.10.21 @ Santiago        Chile         2-0 Paraguay
+14.10.21 @ La Paz          Bolivia       4-0 Paraguay
+14.10.21 @ Barranquilla    Colombia      0-0 Ecuador
+14.10.21 @ Buenos Aires    Argentina     1-0 Peru
+14.10.21 @ Santiago        Chile         3-0 Venezuela
+14.10.21 @ Manaus          Brazil        4-1 Uruguay
+11.11.21 @ Quito           Ecuador       1-0 Venezuela
+11.11.21 @ Asunción        Paraguay      0-1 Chile
+11.11.21 @ São Paulo       Brazil        1-0 Colombia
+11.11.21 @ Lima            Peru          3-0 Bolivia
+12.11.21 @ Montevideo      Uruguay       0-1 Argentina
+16.11.21 @ La Paz          Bolivia       3-0 Uruguay
+16.11.21 @ Caracas         Venezuela     1-2 Peru
+16.11.21 @ Barranquilla    Colombia      0-0 Paraguay
+16.11.21 @ San Juan        Argentina     0-0 Brazil
+16.11.21 @ Santiago        Chile         0-2 Ecuador
+27.1.22 @ Quito           Ecuador       1-1 Brazil
+27.1.22 @ Asunción        Paraguay      0-1 Uruguay
+27.1.22 @ Calama          Chile         1-2 Argentina
+28.1.22 @ Barranquilla    Colombia      0-1 Peru
+28.1.22 @ Barinas         Venezuela     4-1 Bolivia
+ 1.2.22 @ La Paz          Bolivia       2-3 Chile
+ 1.2.22 @ Montevideo      Uruguay       4-1 Venezuela
+ 1.2.22 @ Córdoba         Argentina     1-0 Colombia
+ 1.2.22 @ Belo Horizonte  Brazil        4-0 Paraguay
+ 1.2.22 @ Lima            Peru          1-1 Ecuador
+24.3.22 @ Montevideo      Uruguay       1-0 Peru
+24.3.22 @ Barranquilla    Colombia      3-0 Bolivia
+24.3.22 @ Rio de Janeiro   Brazil        4-0 Chile
+24.3.22 @ Ciudad del Este  Paraguay      3-1 Ecuador
+25.3.22 @ Buenos Aires     Argentina     3-0 Venezuela
+29.3.22 @ Lima             Peru          2-0 Paraguay
+29.3.22 @ Ciudad Guayana   Venezuela     0-1 Colombia
+29.3.22 @ La Paz          Bolivia       0-4 Brazil
+29.3.22 @ Santiago        Chile         0-2 Uruguay
+29.3.22 @ Guayaquil       Ecuador       1-1 Argentina
+21.9.22 @ São Paulo       Brazil        n/p Argentina     [declared void]
+
+
+##   Peru qualified for inter-confederation play-off
+## see play-offs for more !!!
+
+
+
+
+==Africa==
+
+▪First Round
+▪▪First Legs
+ 4.9.19 @ Bahir Dar       Ethiopia      0-0 Lesotho
+ 4.9.19 @ Asmara          Eritrea       1-2 Namibia
+ 4.9.19 @ Bujumbura       Burundi       1-1 Tanzania
+ 4.9.19 @ Djibouti        Djibouti      2-1 Swaziland
+ 4.9.19 @ Paynesville     Liberia       3-1 Sierra Leone
+ 4.9.19 @ Belle Vue       Mauritius     0-1 Mozambique
+ 4.9.19 @ São Tomé        São Tomé/Pr.  0-1 Guinea-Bissau
+ 4.9.19 @ Omdurman        South Sudan   1-1 Equatorial Guinea
+ 5.9.19 @ N'Djamena       Chad          1-3 Sudan
+ 5.9.19 @ Victoria        Seychelles    0-3 Rwanda
+ 5.9.19 @ Djibouti        Somalia       1-0 Zimbabwe
+ 6.9.19 @ Bakau           Gambia        0-1 Angola
+ 6.9.19 @ Moroni          Comoros       1-1 Togo
+ 7.9.19 @ Francistown     Botswana      0-0 Malawi
+
+▪▪ Second Legs
+ 8.9.19 @ Maseru          Lesotho       1-1 Ethiopia
+ 8.9.19 @ Dar es Salaam   Tanzania      1-1 Burundi       (aet, 3-0 pen.)
+ 8.9.19 @ Freetown        Sierra Leone  1-0 Liberia
+ 8.9.19 @ Malabo          Equatorial G. 1-0 South Sudan
+10.9.19 @ Harare          Zimbabwe      3-1 Somalia
+10.9.19 @ Windhoek        Namibia       2-0 Eritrea
+10.9.19 @ Manzini         Swaziland     0-0 Djibouti
+10.9.19 @ Blantyre        Malawi        1-0 Botswana
+10.9.19 @ Luanda          Angola        2-1 Gambia
+10.9.19 @ Maputo          Mozambique    2-0 Mauritius
+10.9.19 @ Bissau          Guinea-Bissau 2-1 São Tomé & Príncipe
+10.9.19 @ Lomé            Togo          2-0 Comoros
+10.9.19 @ Omrurman        Sudan         0-0 Chad
+10.9.19 @ Kigali          Rwanda        7-0 Seychelles
+
+▪ Second Round
+▪▪ Group A
+<!--
+ 1.ALGERIA       6  4  2  0 25- 4 14
+ 2.Burkina Faso  6  3  3  0 12- 4 12
+ 3.Niger         6  2  1  3 13-17  7
+ 4.Djibouti      6  0  0  6  4-29  0  -->
+
+ 2.9.21 @ Marrakesh       Niger         0-2 Burkina Faso
+ 2.9.21 @ Blida           Algeria       8-0 Djibouti
+ 6.9.21 @ Rabat           Djibouti      2-4 Niger
+ 7.9.21 @ Marrakesh       Burkina Faso  1-1 Algeria
+ 8.10.21 @ Blida           Algeria       6-1 Niger
+ 8.10.21 @ Marrakesh       Djibouti      0-4 Burkina Faso
+11.10.21 @ Marrakesh       Burkina Faso  2-0 Djibouti
+12.10.21 @ Niamey          Niger         0-4 Algeria
+12.11.21 @ Marrakesh       Burkina Faso  1-1 Niger
+12.11.21 @ Cairo           Djibouti      0-4 Algeria
+15.11.21 @ Niamey          Niger         7-2 Djibouti
+16.11.21 @ Blida           Algeria       2-2 Burkina Faso
+
+▪▪ Group B
+<!--
+ 1.TUNISIA       6  4  1  1 11- 2 13
+ 2.Equatorial G. 6  3  2  1  6- 5 11
+ 3.Zambia        6  2  1  3  8- 9  7
+ 4.Mauritania    6  0  2  4  2-11  2 -->
+
+ 3.9.21 @ Nouakchott      Mauritania    1-2 Zambia
+ 3.9.21 @ Tunis           Tunisia       3-0 Equatorial Guinea
+ 7.9.21 @ Ndola           Zambia        0-2 Tunisia
+ 7.9.21 @ Malabo          Equatorial G. 1-0 Mauritania
+ 7.10.21 @ Malabo          Equatorial G. 2-0 Zambia
+ 7.10.21 @ Tunis           Tunisia       3-0 Mauritania
+10.10.21 @ Lusaka          Zambia        1-1 Equatorial Guinea
+10.10.21 @ Nouakchott      Mauritania    0-0 Tunisia
+13.11.21 @ Lusaka          Zambia        4-0 Mauritania
+13.11.21 @ Malabo          Equatorial G. 1-0 Tunisia
+16.11.21 @ Tunis           Tunisia       3-1 Zambia
+16.11.21 @ Nouakchott      Mauritania    1-1 Equatorial Guinea
+
+▪▪ Group C
+<!-- 
+ 1.NIGERIA       6  4  1  1  9- 3 13
+ 2.Cape Verde    6  3  2  1  8- 6 11
+ 3.Liberia       6  2  0  4  5- 8  6
+ 4.Centr.Afr. R. 6  1  1  4  4- 9  4 -->
+
+ 1.9.21 @ Douala          Centr.Afr. R. 1-1 Cape Verde
+ 3.9.21 @ Lagos           Nigeria       2-0 Liberia
+ 6.9.21 @ Douala          Centr.Afr. R. 0-1 Liberia
+ 7.9.21 @ Mindelo         Cape Verde    1-2 Nigeria
+ 7.10.21 @ Accra           Liberia       1-2 Cape Verde
+ 7.10.21 @ Lagos           Nigeria       0-1 Central African Republic
+10.10.21 @ Douala          Centr.Afr. R. 0-2 Nigeria
+10.10.21 @ Mindelo         Cape Verde    1-0 Liberia
+13.11.21 @ Tangier         Liberia       0-2 Nigeria
+13.11.21 @ Mindelo         Cape Verde    2-1 Central African Republic
+16.11.21 @ Lagos           Nigeria       1-1 Cape Verde
+16.11.21 @ Tanger          Liberia       3-1 Central African Republic
+
+▪▪ Group D
+<!--
+ 1.CAMEROON      6  5  0  1 12- 3 15
+ 2.Ivory Coast   6  4  1  1 10- 3 13
+ 3.Mozambique    6  1  1  4  2- 8  4
+ 4.Malawi        6  1  0  5  2-12  3 -->
+
+ 3.9.21 @ Maputo          Mozambique    0-0 Ivory Coast
+ 3.9.21 @ Yaoundé         Cameroon      2-0 Malawi
+ 6.9.21 @ Abidjan         Ivory Coast   2-1 Cameroon
+ 7.9.21 @ Johannesburg    Malawi        1-0 Mozambique
+ 8.10.21 @ Johannesburg    Malawi        0-3 Ivory Coast
+ 8.10.21 @ Douala          Cameroon      3-1 Mozambique
+11.10.21 @ Tanger          Mozambique    0-1 Cameroon
+11.10.21 @ Cotonou         Ivory Coast   2-1 Malawi
+13.11.21 @ Johannesburg    Malawi        0-4 Cameroon
+13.11.21 @ Cotonou         Ivory Coast   3-0 Mozambique
+16.11.21 @ Cotonou         Mozambique    1-0 Malawi
+16.11.21 @ Douala          Cameroon      1-0 Ivory Coast
+
+▪▪ Group E
+<!--
+ 1.MALI          6  5  1  0 11- 0 16
+ 2.Uganda        6  2  3  1  3- 2  9
+ 3.Kenya         6  1  3  2  4- 9  6
+ 4.Rwanda        6  0  1  5  2- 9  1   -->
+
+ 1.9.21 @ Agadir          Mali          1-0 Rwanda
+ 2.9.21 @ Nairobi         Kenya         0-0 Uganda
+ 5.9.21 @ Kigali          Rwanda        1-1 Kenya
+ 6.9.21 @ Entebbe         Uganda        0-0 Mali
+ 7.10.21 @ Kigali          Rwanda        0-1 Uganda
+ 7.10.21 @ Agadir          Mali          5-0 Kenya
+10.10.21 @ Nairobi         Kenya         0-1 Mali
+10.10.21 @ Entebbe         Uganda        1-0 Rwanda
+11.11.21 @ Entebbe         Uganda        1-1 Kenya
+11.11.21 @ Kigali          Rwanda        0-3 Mali
+14.11.21 @ Agadir          Mali          1-0 Uganda
+15.11.21 @ Nairobi         Kenya         2-1 Rwanda
+
+▪▪ Group F
+<!--
+ 1.EGYPT         6  4  2  0 10- 4 14
+ 2.Gabon         6  2  1  3  7- 8  7
+ 3.Libya         6  2  1  3  4- 7  7
+ 4.Angola        6  1  2  3  6- 8  5  -->
+
+ 1.9.21 @ Cairo           Egypt         1-0 Angola
+ 1.9.21 @ Benghazi        Libya         2-1 Gabon
+ 5.9.21 @ Franceville     Gabon         1-1 Egypt
+ 7.9.21 @ Luanda          Angola        0-1 Libya
+ 8.10.21 @ Luanda          Angola        3-1 Gabon
+ 8.10.21 @ Alexandria      Egypt         1-0 Libya
+11.10.21 @ Franceville     Gabon         2-0 Angola
+11.10.21 @ Benghazi        Libya         0-3 Egypt
+12.11.21 @ Franceville     Gabon         1-0 Libya
+12.11.21 @ Luanda          Angola        2-2 Egypt
+16.11.21 @ Alexandria      Egypt         2-1 Gabon
+16.11.21 @ Benghazi        Libya         1-1 Angola
+
+▪▪ Group G
+<!--
+ 1.GHANA         6  4  1  1  7- 3 13
+ 2.South Africa  6  4  1  1  6- 2 13
+ 3.Ethiopia      6  1  2  3  4- 7  5
+ 4.Zimbabwe      6  0  2  4  2- 7  2 -->
+
+ 3.9.21 @ Harare          Zimbabwe      0-0 South Africa
+ 3.9.21 @ Cape Coast      Ghana         1-0 Ethiopia
+ 6.9.21 @ Johannesburg    South Africa  1-0 Ghana
+ 7.9.21 @ Bahir Dar       Ethiopia      1-0 Zimbabwe
+ 9.10.21 @ Bahir Dar       Ethiopia      1-3 South Africa
+ 9.10.21 @ Cape Coast      Ghana         3-1 Zimbabwe
+12.10.21 @ Harare          Zimbabwe      0-1 Ghana
+12.10.21 @ Johannesburg    South Africa  1-0 Ethiopia
+11.11.21 @ Johannesburg    Ethiopia      1-1 Ghana
+11.11.21 @ Johannesburg    South Africa  1-0 Zimbabwe
+14.11.21 @ Harare          Zimbabwe      1-1 Ethiopia
+14.11.21 @ Cape Coast      Ghana         1-0 South Africa
+
+▪▪ Group H
+<!--
+ 1.SENEGAL       6  5  1  0 15- 4 16
+ 2.Togo          6  2  2  2  5- 6  8
+ 3.Namibia       6  1  2  3  5-10  5
+ 4.Congo         6  0  3  3  5-10  3  -->
+
+ 1.9.21 @ Thiès           Senegal       2-0 Togo
+ 2.9.21 @ Johannesburg    Namibia       1-1 Congo
+ 5.9.21 @ Lomé            Togo          0-1 Namibia
+ 7.9.21 @ Brazzaville     Congo         1-3 Senegal
+ 9.10.21 @ Lomé            Togo          1-1 Congo
+ 9.10.21 @ Thiès           Senegal       4-1 Namibia
+12.10.21 @ Johannesburg    Namibia       1-3 Senegal
+12.10.21 @ Brazzaville     Congo         1-2 Togo
+11.11.21 @ Brazzaville     Congo         1-1 Namibia
+11.11.21 @ Lomé            Togo          1-1 Senegal
+14.11.21 @ Thiès           Senegal       2-0 Congo
+15.11.21 @ Joahhnesburg    Namibia       0-1 Togo
+
+▪▪ Group I
+<!-- 
+ 1.MOROCCO       6  6  0  0 20- 1 18
+ 2.Guinea-Bis.   6  1  3  2  5-11  6
+ 3.Guinea        6  0  4  2  5-11  4
+ 4.Sudan         6  0  3  3  5-12  3 -->
+
+ 1.9.21 @ Nouakchott      Guinea-Bissau 1-1 Guinea
+ 2.9.21 @ Rabat           Morocco       2-0 Sudan
+ 7.9.21 @ Omdurman        Sudan         2-4 Guinea-Bissau
+ 6.10.21 @ Marrakech       Sudan         1-1 Guinea
+ 6.10.21 @ Rabat           Morocco       5-0 Guinea-Bissau
+ 9.10.21 @ Agadir          Guinea        2-2 Sudan
+ 9.10.21 @ Casablanca      Guinea-Bissau 0-3 Morocco
+12.10.21 @ Rabat           Guinea        1-4 Morocco
+12.11.21 @ Conakry         Guinea        0-0 Guinea-Bissau
+12.11.21 @ Rabat           Sudan         0-3 Morocco
+15.11.21 @ Marrakech       Guinea-Bissau 0-0 Sudan
+16.11.21 @ Casablanca      Morocco       3-0 Guinea
+
+▪▪ Group J
+<!--
+ 1.CONGO-KINSH.  6  3  2  1  9- 3 11
+ 2.Benin         6  3  1  2  5- 4 10
+ 3.Tanzania      6  2  2  2  6- 8  8
+ 4.Madagascar    6  1  1  4  4- 9  4 -->
+
+ 2.9.21 @ Lubumbashi      Congo-Kinsh.  1-1 Tanzania
+ 2.9.21 @ Antananarivo    Madagascar    0-1 Benin
+ 6.9.21 @ Cotonou         Benin         1-1 Congo-Kinshasa
+ 7.9.21 @ Dar es Salaam   Tanzania      3-2 Madagascar
+ 7.10.21 @ Kinshasa        Congo-Kinsh.  2-0 Madagascar
+ 7.10.21 @ Dar es Salaam   Tanzania      0-1 Benin
+10.10.21 @ Cotonou         Benin         0-1 Tanzania
+10.10.21 @ Antananarivo    Madagascar    1-0 Congo-Kinshasa
+11.11.21 @ Dar es Salaam   Tanzania      0-3 Congo-Kinshasa
+11.11.21 @ Cotonou         Benin         2-0 Madagascar
+14.11.21 @ Kinshasa        Congo-Kinsh.  2-0 Benin
+14.11.21 @ Antananarivo    Madagascar    1-1 Tanzania
+ 
+▪ Third Round
+▪▪ First Legs
+25.3.22 @ Cairo           Egypt         1-0 Senegal
+25.3.22 @ Douala          Cameroon      0-1 Algeria
+25.3.22 @ Kumasi          Ghana         0-0 Nigeria
+25.3.22 @ Kinshasa        Congo-Kinsh.  1-1 Morocco
+25.3.22 @ Bamako          Mali          0-1 Tunisia
+ 
+▪▪ Second Legs
+29.3.22 @ Dakar           Senegal       1-0 Egypt         (aet, 3-1 pen.)
+29.3.22 @ Blida           Algeria       1-2 Cameroon      (aet)
+29.3.22 @ Abuja           Nigeria       1-1 Ghana
+29.3.22 @ Casablanca      Morocco       4-1 Congo-Kinshasa
+29.3.22 @ Tunis           Tunisia       0-0 Mali
+
+## NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
+
+
+==Asia==
+
+▪ First Round
+
+## NB: the first stage also served as qualifying stage for the 2023 Asian Cup
+##     (with the losers being eliminated)
+
+▪▪ First Legs
+ 6.6.19 @ Ulaanbaatar     Mongolia      2-0 Brunei
+ 6.6.19 @ Zhuhai          Macao         1-0 Sri Lanka
+ 6.6.19 @ Vientiane       Laos          0-1 Bangladesh
+ 6.6.19 @ Phnom Penh      Cambodia      2-0 Pakistan
+ 6.6.19 @ Thimphu         Bhutan        1-0 Guam
+ 7.6.19 @ Kuala Lumpur    Malaysia      7-1 East Timor
+
+▪▪ Second Legs
+11.6.19 @ Bandar Seri B.  Brunei        2-1 Mongolia
+11.6.19 @ Colombo         Sri Lanka     awd Macao         [awarded 3-0]
+11.6.19 @ Dhaka           Bangladesh    0-0 Laos
+11.6.19 @ Kuala Lumpur    East Timor    1-5 Malaysia
+11.6.19 @ Doha            Pakistan      1-2 Cambodia
+11.6.19 @ Dededo          Guam          5-0 Bhutan
+
+▪ Second Round
+
+## NB: the second stage also served as qualifying stage for the 2023 Asian Cup
+##    (with the group winners and five best runners-up qualifying for the final tournament and the
+##    other teams entering the qualifying tournament at various stages (remaining runners-up, third
+##    placed teams, fourth placed teams and three best fifth placed teams at group stage, 
+##    the others entering a playoff round)
+
+▪▪ Group A
+<!--
+ 1.SYRIA         8  7  0  1 22- 7 21 
+ 2.CHINA         8  6  1  1 30- 3 19
+ 3.Philippines   8  3  2  3 12-11 11 
+ 4.Maldives      8  2  1  5  7-20  7
+ 5.Guam          8  0  0  8  2-32  0 -->
+
+ 5.9.19 @ Dededo          Guam          0-1 Maldives
+ 5.9.19 @ Bacolod         Philippines   2-5 Syria
+10.9.19 @ Dededo          Guam          1-4 Philippines
+10.9.19 @ Malé            Maldives      0-5 China
+10.10.19 @ Guangzhou       China         7-0 Guam
+10.10.19 @ Dubai           Syria         2-1 Maldives
+15.10.19 @ Bacolod         Philippines   0-0 China
+15.10.19 @ Dubai           Syria         4-0 Guam
+14.11.19 @ Malé            Maldives      1-2 Philippines
+14.11.19 @ Dubai           Syria         2-1 China
+19.11.19 @ Malé            Maldives      3-1 Guam
+19.11.19 @ Dubai           Syria         1-0 Philippines
+30.5.20 @ Suzhou          Guam          0-7 China
+ 4.6.20 @ Sharjah         Maldives      0-4 Syria
+ 7.6.20 @ Sharjah         Guam          0-3 Syria
+ 7.6.20 @ Sharjah         China         2-0 Philippines
+11.6.20 @ Sharjah         Philippines   3-0 Guam
+11.6.20 @ Sharjah         China         5-0 Maldives
+15.6.20 @ Sharjah         Philippines   1-1 Maldives
+15.6.20 @ Sharjah         China         3-1 Syria
+
+▪▪ Group B
+<!--
+ 1.AUSTRALIA     8  8  0  0 28- 2 24
+ 2.Kuwait        8  4  2  2 19- 7 14
+ 3.Jordan        8  4  2  2 13- 3 14
+ 4.Nepal         8  2  0  6  4-22  6
+ 5.Taiwan        8  0  0  8  4-34  0 -->
+
+ 5.9.19 @ Taipei          Taiwan        1-2 Jordan
+ 5.9.19 @ Kuwait City     Kuwait        7-0 Nepal
+10.9.19 @ Taipei          Taiwan        0-2 Nepal
+10.9.19 @ Kuwait City     Kuwait        0-3 Australia
+10.10.19 @ Canberra        Australia     5-0 Nepal
+10.10.19 @ Amman           Jordan        0-0 Kuwait
+15.10.19 @ Kaohsiung       Taiwan        1-7 Australia
+15.10.19 @ Amman           Jordan        3-0 Nepal
+14.11.19 @ Kuwait City     Kuwait        9-0 Taiwan
+14.11.19 @ Amman           Jordan        0-1 Australia
+19.11.19 @ Thimphu         Nepal         0-1 Kuwait
+19.11.19 @ Amman           Jordan        5-0 Taiwan
+ 3.6.20 @ Kuwait City     Nepal         2-0 Taiwan
+ 3.6.20 @ Kuwait City     Australia     3-0 Kuwait
+ 7.6.20 @ Kuwait City     Nepal         0-3 Jordan
+ 7.6.20 @ Kuwait City     Australia     5-1 Taiwan
+11.6.20 @ Kuwait City     Nepal         0-3 Australia
+11.6.20 @ Kuwait City     Kuwait        0-0 Jordan
+15.6.20 @ Kuwait City     Australia     1-0 Jordan
+15.6.20 @ Kuwait City     Taiwan        1-2 Kuwait
+
+▪▪ Group C
+<!--
+ 1.IRAN          8  6  0  2 34- 4 18
+ 2.IRAQ          8  5  2  1 14- 4 17
+ 3.Bahrain       8  4  3  1 15- 4 15
+ 4.Hong Kong     8  1  2  5  4-13  5
+ 5.Cambodia      8  0  1  7  2-44  1 -->
+
+ 5.9.19 @ Phnom Penh      Cambodia      1-1 Hong Kong
+ 5.9.19 @ Riffa           Bahrain       1-1 Iraq
+10.9.19 @ Phnom Penh      Cambodia      0-1 Bahrain
+10.9.19 @ Hong Kong       Hong Kong     0-2 Iran
+10.10.19 @ Tehran          Iran         14-0 Cambodia
+10.10.19 @ Basra           Iraq          2-0 Hong Kong
+15.10.19 @ Phnom Penh      Cambodia      0-4 Iraq
+15.10.19 @ Riffa           Bahrain       1-0 Iran
+14.11.19 @ Hong Kong       Hong Kong     0-0 Bahrain
+14.11.19 @ Amman           Iraq          2-1 Iran
+19.11.19 @ Hong Kong       Hong Kong     2-0 Cambodia
+19.11.19 @ Amman           Iraq          0-0 Bahrain
+ 3.6.20 @ Arad            Iran          3-1 Hong Kong
+ 3.6.20 @ Riffa           Bahrain       8-0 Cambodia
+ 7.6.20 @ Arad            Iraq          4-1 Cambodia
+ 7.6.20 @ Riffa           Iran          3-0 Bahrain
+11.6.20 @ Riffa           Cambodia     0-10 Iran
+11.6.20 @ Arad            Hong Kong     0-1 Iraq
+15.6.20 @ Arad            Iran          1-0 Iraq
+15.6.20 @ Riffa           Bahrain       4-0 Hong Kong
+
+▪▪ Group D
+<!--
+ 1.SAUDI ARABIA  8  6  2  0 22- 4 20 
+ 2.Uzbekistan    8  5  0  3 18- 9 15 
+ 3.Palestine     8  3  1  4 10-10 10 
+ 4.Singapore     8  2  1  5  7-22  7
+ 5.Yemen         8  1  2  5  6-18  5 -->
+
+ 5.9.19 @ Singapore       Singapore     2-2 Yemen
+ 5.9.19 @ Al-Ram          Palestine     2-0 Uzbekistan
+10.9.19 @ Singapore       Singapore     2-1 Palestine
+10.9.19 @ Riffa           Yemen         2-2 Saudi Arabia
+10.10.19 @ Tashkent        Uzbekistan    5-0 Yemen
+10.10.19 @ Buraidah        Saudi Arabia  3-0 Singapore
+15.10.19 @ Singapore       Singapore     1-3 Uzbekistan
+15.10.19 @ Al-Ram          Palestine     0-0 Saudi Arabia
+14.11.19 @ Tashkent        Uzbekistan    2-3 Saudi Arabia
+14.11.19 @ Muharraq        Yemen         1-0 Palestine
+19.11.19 @ Tashkent        Uzbekistan    2-0 Palestine
+19.11.19 @ Muharraq        Yemen         1-2 Singapore
+30.3.20 @ Riyadh          Saudi Arabia  5-0 Palestine
+ 3.6.20 @ Riyadh          Palestine     4-0 Singapore
+ 5.6.20 @ Riyadh          Saudi Arabia  3-0 Yemen
+ 7.6.20 @ Riyadh          Uzbekistan    5-0 Singapore
+11.6.20 @ Riyadh          Yemen         0-1 Uzbekistan
+11.6.20 @ Riyadh          Singapore     0-3 Saudi Arabia
+15.6.20 @ Riyadh          Saudi Arabia  3-0 Uzbekistan
+15.6.20 @ Riyadh          Palestine     3-0 Yemen
+
+▪▪ Group E
+<!--
+ 1.Qatar         8  7  1  0 18- 1 22  [played hors concours]
+ 2.OMAN          8  6  0  2 16- 6 18
+ 3.India         8  1  4  3  6- 7  7
+ 4.Afghanistan   8  1  3  4  5-15  6
+ 5.Bangladesh    8  0  2  6  3-19  2  -->
+
+ 5.9.19 @ Guwahati        India         1-2 Oman
+ 5.9.19 @ Doha            Qatar         6-0 Afghanistan
+10.9.19 @ Dushanbe        Afghanistan   1-0 Bangladesh
+10.9.19 @ Doha            Qatar         0-0 India
+10.10.19 @ Dhaka           Bangladesh    0-2 Qatar
+10.10.19 @ Seeb            Oman          3-0 Afghanistan
+15.10.19 @ Kolkata         India         1-1 Bangladesh
+15.10.19 @ Al-Wakrah       Qatar         2-1 Oman
+14.11.19 @ Dushanbe        Afghanistan   1-1 India
+14.11.19 @ Muscat          Oman          4-1 Bangladesh
+19.11.19 @ Dushanbe        Afghanistan   0-1 Qatar
+19.11.19 @ Muscat          Oman          1-0 India
+ 4-12-19 Doha            Qatar         5-0 Bangladesh
+ 3.6.20 @ Doha            Bangladesh    1-1 Afghanistan
+ 3.6.20 @ Doha            India         0-1 Qatar
+ 7.6.20 @ Doha            Bangladesh    0-2 India
+ 7.6.20 @ Doha            Oman          0-1 Qatar
+11.6.20 @ Doha            Afghanistan   1-2 Oman
+15.6.20 @ Doha            India         1-1 Afghanistan
+15.6.20 @ Doha            Bangladesh    0-3 Oman
+
+▪▪ Group F
+<!--
+ 1.JAPAN         8  8  0  0 46- 2 24 
+ 2.Tajikistan    8  4  1  3 14-12 13 
+ 3.Kyrgyzstan    8  3  1  4 19-12 10 
+ 4.Mongolia      8  2  0  6  3-27  6
+ 5.Myanmar       8  2  0  6  6-35  6 -->
+
+ 5.9.19 @ Ulaanbaatar     Mongolia      1-0 Myanmar
+ 5.9.19 @ Dushanbe        Tajikistan    1-0 Kyrgyzstan
+10.9.19 @ Ulaanbaatar     Mongolia      0-1 Tajikistan
+10.9.19 @ Yangon          Myanmar       0-2 Japan
+10.10.19 @ Saitama         Japan         6-0 Mongolia
+10.10.19 @ Bishkek         Kyrgyzstan    7-0 Myanmar
+15.10.19 @ Ulaanbaatar     Mongolia      1-2 Kyrgyzstan
+15.10.19 @ Dushanbe        Tajikistan    0-3 Japan
+14.11.19 @ Mandalay        Myanmar       4-3 Tajikistan
+14.11.19 @ Bishkek         Kyrgyzstan    0-2 Japan
+19.11.19 @ Mandalay        Myanmar       1-0 Mongolia
+19.11.19 @ Bishkek         Kyrgyzstan    1-1 Tajikistan
+25.3.20 @ Dushanbe        Tajikistan    3-0 Mongolia
+30.3.20 @ Chiba           Mongolia     0-14 Japan
+28.5.20 @ Chiba           Japan        10-0 Myanmar
+ 7.6.20 @ Osaka           Kyrgyzstan    0-1 Mongolia
+ 7.6.20 @ Suita           Japan         4-1 Tajikistan
+11.6.20 @ Osaka           Myanmar       1-8 Kyrgyzstan
+15.6.20 @ Suita           Japan         5-1 Kyrgyzstan
+15.6.20 @ Osaka           Tajikistan    4-0 Myanmar
+
+▪▪ Group G
+<!--
+ 1.UA EMIRATES   8  6  0  2 23- 7 18
+ 2.VIETNAM       8  5  2  1 13- 5 17
+ 3.Malaysia      8  4  0  4 10-12 12
+ 4.Thailand      8  2  3  3  9- 9  9
+ 5.Indonesia     8  0  1  7  5-27  1 -->
+
+ 5.9.19 @ Pathum Thani    Thailand      0-0 Vietnam
+ 5.9.19 @ Jakarta         Indonesia     2-3 Malaysia
+10.9.19 @ Jakarta         Indonesia     0-3 Thailand
+10.9.19 @ Kuala Lumpur    Malaysia      1-2 United Arab Emirates
+10.10.19 @ Hanoi           Vietnam       1-0 Malaysia
+10.10.19 @ Dubai           UA Emirates   5-0 Indonesia
+15.10.19 @ Gianyar         Indonesia     1-3 Vietnam
+15.10.19 @ Pathum Thani    Thailand      2-1 United Arab Emirates
+14.11.19 @ Kuala Lumpur    Malaysia      2-1 Thailand
+14.11.19 @ Hanoi           Vietnam       1-0 United Arab Emirates
+19.11.19 @ Kuala Lumpur    Malaysia      2-0 Indonesia
+19.11.19 @ Hanoi           Vietnam       0-0 Thailand
+ 3.6.20 @ Dubai           Thailand      2-2 Indonesia
+ 3.6.20 @ Dubai           UA Emirates   4-0 Malaysia
+ 7.6.20 @ Dubai           UA Emirates   3-1 Thailand
+ 7.6.20 @ Dubai           Vietnam       4-0 Indonesia
+11.6.20 @ Dubai           Indonesia     0-5 United Arab Emirates
+11.6.20 @ Dubai           Malaysia      1-2 Vietnam
+15.6.20 @ Dubai           UA Emirates   3-2 Vietnam
+15.6.20 @ Dubai           Thailand      0-1 Malaysia
+
+▪▪ Group H
+<!--
+ 1.SOUTH KOREA   6  5  1  0 22- 1 16  [0-0]
+ 2.LEBANON       6  3  1  2 11- 8 10  [0-2, 0-0]
+ 3.Turkmenistan  6  3  0  3  8-11  9  [3-1]
+ 4.Sri Lanka     6  0  0  6  2-23  0  [0-1]
+ -.North Korea   withdrew after playing 5 matches due to safety concerns in
+                 connection with the Covid-19 pandemic; all results annulled
+NB: annulled results against North Korea between square brackets  -->
+
+ 5.9.19 @ Colombo         Sri Lanka     0-2 Turkmenistan
+ 5.9.19 @ Pyongyang       North Korea   2-0 Lebanon       [annulled]
+10.9.19 @ Ashgabat        Turkmenistan  0-2 South Korea
+10.9.19 @ Colombo         Sri Lanka     0-1 North Korea   [annulled]
+10.10.19 @ Hwaseong        South Korea   8-0 Sri Lanka
+10.10.19 @ Beirut          Lebanon       2-1 Turkmenistan
+15.10.19 @ Pyongyang       North Korea   0-0 South Korea   [annulled]
+15.10.19 @ Colombo         Sri Lanka     0-3 Lebanon
+14.11.19 @ Ashgabat        Turkmenistan  3-1 North Korea   [annulled]
+14.11.19 @ Beirut          Lebanon       0-0 South Korea
+19.11.19 @ Ashgabat        Turkmenistan  2-0 Sri Lanka
+19.11.19 @ Beirut          Lebanon       0-0 North Korea   [annulled]
+ 5.6.20 @ Goyang          Lebanon       3-2 Sri Lanka
+ 5.6.20 @ Goyang          South Korea   5-0 Turkmenistan
+ 9.6.20 @ Goyang          Turkmenistan  3-2 Lebanon
+ 9.6.20 @ Goyang          Sri Lanka     0-5 South Korea
+13.6.20 @ Goyang          South Korea   2-1 Lebanon
+
+## NB: Group winners and the five best runners-up teams qualified for third round.
+##    Qatar (first placed team) did not participate to third round.
+##    The same teams (including Qatar) qualified to 2023 Asian Cup.
+
+▪ Third Round
+
+▪▪ Group A
+<!--
+ 1.IRAN         10  8  1  1 15- 4 25 
+ 2.SOUTH KOREA  10  7  2  1 13- 3 23 
+ 3.UA Emirates  10  3  3  4  7- 7 12  Playoff
+ 4.Iraq         10  1  6  3  6-12  9 
+ 5.Syria        10  1  3  6  9-16  6
+ 6.Lebanon      10  1  3  6  5-13  6  -->
+
+ 2.9.21 @ Seoul           South Korea   0-0 Iraq
+ 2.9.21 @ Tehran          Iran          1-0 Syria
+ 2.9.21 @ Dubai           UA Emirates   0-0 Lebanon
+ 7.9.21 @ Suwon           South Korea   1-0 Lebanon
+ 7.9.21 @ Amman           Syria         1-1 United Arab Emirates
+ 7.9.21 @ Doha            Iraq          0-3 Iran
+ 7.10.21 @ Ansan           South Korea   2-1 Syria
+ 7.10.21 @ Doha            Iraq          0-0 Lebanon
+ 7.10.21 @ Dubai           UA Emirates   0-1 Iran
+12.10.21 @ Tehran          Iran          1-1 South Korea
+12.10.21 @ Dubai           UA Emirates   2-2 Iraq
+12.10.21 @ Amman           Syria         2-3 Lebanon
+11.11.21 @ Goyang          South Korea   1-0 United Arab Emirates
+11.11.21 @ Sidon           Lebanon       1-2 Iran
+11.11.21 @ Doha            Iraq          1-1 Syria
+16.11.21 @ Doha            Iraq          0-3 South Korea
+16.11.21 @ Amman           Syria         0-3 Iran
+16.11.21 @ Sidon           Lebanon       0-1 United Arab Emirates
+27.1.22 @ Sidon           Lebanon       0-1 South Korea
+27.1.22 @ Tehran          Iran          1-0 Iraq
+27.1.22 @ Dubai           UA Emirates   2-0 Syria
+ 1.2.22 @ Sidon           Lebanon       1-1 Iraq
+ 1.2.22 @ Dubai           Syria         0-2 South Korea
+ 1.2.22 @ Tehran          Iran          1-0 United Arab Emirates
+24.3.22 @ Seoul           South Korea   2-0 Iran
+24.3.22 @ Sidon           Lebanon       0-3 Syria
+24.3.22 @ Riyadh          Iraq          1-0 United Arab Emirates
+29.3.22 @ Mashhad         Iran          2-0 Lebanon
+29.3.22 @ Dubai           UA Emirates   1-0 South Korea
+29.3.22 @ Dubai           Syria         1-1 Iraq
+
+▪▪ Group B
+<!--
+ 1.SAUDI ARABIA 10  7  2  1 12- 6 23
+ 2.JAPAN        10  7  1  2 12- 4 22
+ 3.Australia    10  4  3  3 15- 9 15  Playoff 
+ 4.Oman         10  4  2  4 11-10 14 
+ 5.China        10  1  3  6  9-19  6
+ 6.Vietnam      10  1  1  8  8-19  4  -->
+
+ 2.9.21 @ Suita           Japan         0-1 Oman
+ 2.9.21 @ Doha            Australia     3-0 China
+ 2.9.21 @ Riyadh          Saudi Arabia  3-1 Vietnam
+ 7.9.21 @ Hanoi           Vietnam       0-1 Australia
+ 7.9.21 @ Doha            China         0-1 Japan
+ 7.9.21 @ Muscat          Oman          0-1 Saudi Arabia
+ 7.10.21 @ Jeddah          Saudi Arabia  1-0 Japan
+ 7.10.21 @ Sharjah         China         3-2 Vietnam
+ 7.10.21 @ Doha            Australia     3-1 Oman
+12.10.21 @ Saitama         Japan         2-1 Australia
+12.10.21 @ Muscat          Oman          3-1 Vietnam
+12.10.21 @ Jeddah          Saudi Arabia  3-2 China
+11.11.21 @ Sydney          Australia     0-0 Saudi Arabia
+11.11.21 @ Hanoi           Vietnam       0-1 Japan
+11.11.21 @ Sharjah         China         1-1 Oman
+16.11.21 @ Sharjah         China         1-1 Australia
+16.11.21 @ Muscat          Oman          0-1 Japan
+16.11.21 @ Hanoi           Vietnam       0-1 Saudi Arabia
+27.1.22 @ Melbourne       Australia     4-0 Vietnam
+27.1.22 @ Saitama         Japan         2-0 China
+27.1.22 @ Jeddah          Saudi Arabia  1-0 Oman
+ 1.2.22 @ Saitama         Japan         2-0 Saudi Arabia
+ 1.2.22 @ Hanoi           Vietnam       3-1 China
+ 1.2.22 @ Muscat          Oman          2-2 Australia
+24.3.22 @ Sydney          Australia     0-2 Japan
+24.3.22 @ Hanoi           Vietnam       0-1 Oman
+24.3.22 @ Sharjah         China         1-1 Saudi Arabia
+29.3.22 @ Saitama         Japan         1-1 Vietnam
+29.3.22 @ Muscat          Oman          2-0 China
+29.3.22 @ Jeddah          Saudi Arabia  1-0 Australia
+ 
+▪▪ Fifth Place Playoff
+ 
+ 7.6.22 @ Al-Rayyan       Australia     2-1 United Arab Emirates
+ 
+## NB: Australia qualify for playoff against 5th placed team in South America (Peru)
+ 
+## see play-offs for more !!!
+
+## NB: Australia qualified
+
+
+
+==North and Central America==
+
+## Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
+
+▪ First Round
+▪▪ Group A
+<!--
+ 1.EL SALVADOR   4  3  1  0 13- 1 10
+ 2.Montserrat    4  2  2  0  9- 4  8 
+ 3.Antigua/Barb. 4  2  1  1  6- 5  7
+ 4.Grenada       4  1  0  3  2- 5  3
+ 5.US Virgin I.  4  0  0  4  0-15  0 -->
+
+24.3.21 @ Willemstad      Antigua/Barb. 2-2 Montserrat
+25.3.21 @ San Salvador    El Salvador   2-0 Grenada
+27.3.21 @ Bethlehem       US Virgin I.  0-3 Antigua and Barbuda
+28.3.21 @ Willemstad      Montserrat    1-1 El Salvador
+30.3.21 @ St. George's    Grenada       1-0 US Virgin Islands
+ 2.6.21 @ San Cristóbal   Montserrat    4-0 US Virgin Islands
+ 4.6.21 @ North Sound     Antigua/Barb. 1-0 Grenada
+ 5.6.21 @ Bethlehem       US Virgin I.  0-7 El Salvador
+ 8.6.21 @ St. George's    Grenada       1-2 Montserrat
+ 8.6.21 @ San Salvador    El Salvador   3-0 Antigua and Barbuda
+
+▪▪ Group B
+<!--
+ 1.CANADA        4  4  0  0 27- 1 12
+ 2.Suriname      4  3  0  1 15- 4  9
+ 3.Bermuda       4  1  1  2  7-12  4
+ 4.Aruba         4  1  0  3  3-19  3
+ 5.Cayman Isl.   4  0  1  3  2-18  1 -->
+
+24.3.21 @ Paramaribo      Suriname      3-0 Cayman Islands
+25.3.21 @ Orlando         Canada        5-1 Bermuda
+27.3.21 @ Bradenton       Aruba         0-6 Suriname
+29.3.21 @ Bradenton       Cayman Isl.  0-11 Canada
+30.3.21 @ Bradenton       Bermuda       5-0 Aruba
+ 2.6.21 @ Bradenton       Cayman Isl.   1-3 Aruba
+ 4.6.21 @ Paramaribo      Suriname      6-0 Bermuda
+ 5.6.21 @ Bradenton       Aruba         0-7 Canada
+ 8.6.21 @ Bradenton       Bermuda       1-1 Cayman Islands
+ 8.6.21 @ Bridgeview      Canada        4-0 Suriname
+
+▪▪ Group C
+<!--
+ 1.CURAÇAO       4  3  1  0 15- 1 10 
+ 2.Guatemala     4  3  1  0 14- 0 10 
+ 3.Cuba          4  2  0  2  7- 3  6 
+ 4.St.Vincent/G. 4  1  0  3  3-16  3 
+ 5.Br. Virgin I. 4  0  0  4  0-19  0 -->
+
+24.3.21 @ Guatemala City  Guatemala     1-0 Cuba
+25.3.21 @ Willemstad      Curaçao       5-0 Saint Vincent and the Grenadines
+27.3.21 @ Willemstad      Br. Virgin I. 0-3 Guatemala
+28.3.21 @ Guatemala City  Cuba          1-2 Curaçao
+30.3.21 @ Willemstad      St.Vincent/G. 3-0 British Virgin Islands
+ 2.6.21 @ Guatemala City  Cuba          5-0 British Virgin Islands
+ 4.6.21 @ Guatemala City  Guatemala    10-0 Saint Vincent and the Grenadines
+ 5.6.21 @ Guatemala City  Br. Virgin I. 0-8 Curaçao
+ 8.6.21 @ St. George's    St.Vincent/G. 0-1 Cuba
+ 8.6.21 @ Willemstad      Curaçao       0-0 Guatemala
+
+▪▪ Group D
+<!--
+ 1.PANAMA        4  4  0  0 19- 1 12 
+ 2.Dominican R.  4  2  1  1  8- 4  7 
+ 3.Barbados      4  1  2  1  3- 3  5 
+ 4.Dominica      4  1  1  2  5- 4  4 
+ 5.Anguilla      4  0  0  4  0-23  0 -->
+
+24.3.21 @ Santo Domingo   Dominican R.  1-0 Dominica
+25.3.21 @ Santo Domingo   Panama        1-0 Barbados
+27.3.21 @ Fort Lauderdale Anguilla      0-6 Dominican Republic
+28.3.21 @ Santo Domingo   Dominica      1-2 Panama
+30.3.21 @ Santo Domingo   Barbados      1-0 Anguilla
+ 2.6.21 @ Santo Domingo   Dominica      3-0 Anguilla
+ 4.6.21 @ Santo Domingo   Dominican R.  1-1 Barbados
+ 5.6.21 @ Panama City     Anguilla     0-13 Panama
+ 8.6.21 @ Santo Domingo   Barbados      1-1 Dominica
+ 8.6.21 @ Panama City     Panama        3-0 Dominican Republic
+
+▪▪ Group E
+<!--
+ 1.HAITI         3  3  0  0 13- 0  9 
+ 2.Nicaragua     3  2  0  1 10- 1  6 
+ 3.Belize        3  1  0  2  5- 5  3 
+ 4.Turks/Caicos  3  0  0  3  0-22  0 
+ -.Saint Lucia   withdrew  -->
+
+25.3.21 @ Port-au-Prince  Haiti         2-0 Belize
+27.3.21 @ San Cristóbal   Turks/Caicos  0-7 Nicaragua
+30.3.21 @ San Cristóbal   Belize        5-0 Turks and Caicos Islands
+ 4.6.21 @ Managua         Nicaragua     3-0 Belize
+ 5.6.21 @ Providenciales  Turks/Caicos 0-10 Haiti
+ 8.6.21 @ Port-au-Prince  Haiti         1-0 Nicaragua
+
+▪▪ Group F
+<!--
+ 1.ST. KITTS/N.  4  3  0  1  8- 2  9
+ 2.Trinidad/T.   4  2  2  0  6- 1  8
+ 3.Puerto Rico   4  2  1  1 10- 2  7
+ 4.Guyana        4  1  0  3  4- 8  3
+ 5.Bahamas       4  0  1  3  0-15  1 -->
+
+24.3.21 @ San Cristóbal   St. Kitts/N.  1-0 Puerto Rico
+25.3.21 @ San Cristóbal   Trinidad/T.   3-0 Guyana
+27.3.21 @ Nassau          Bahamas       0-4 Saint Kitts and Nevis
+28.3.21 @ Mayagüez        Puerto Rico   1-1 Trinidad and Tobago
+30.3.21 @ Santo Domingo   Guyana        4-0 Bahamas
+ 2.6.21 @ Mayagüez        Puerto Rico   7-0 Bahamas
+ 4.6.21 @ Basseterre      St. Kitts/N.  3-0 Guyana
+ 5.6.21 @ Nassau          Bahamas       0-0 Trinidad and Tobago
+ 8.6.21 @ Basseterre      Guyana        0-2 Puerto Rico
+ 8.6.21 @ Santo Domingo   Trinidad/T.   2-0 Saint Kitts and Nevis
+
+
+▪ Second Round
+▪▪ First Legs
+12.6.21 @ Basseterre      St. Kitts/N.  0-4 El Salvador
+12.6.21 @ Port-au-Prince  Haiti         0-1 Canada
+12.6.21 @ Panama City     Panama        2-1 Curaçao
+
+▪▪ Second Legs
+15.6.21 @ San Salvador    El Salvador   2-0 Saint Kitts and Nevis
+15.6.21 @ Bridgeview      Canada        3-0 Haiti
+15.6.21 @ Willemstad      Curaçao       0-0 Panama
+
+▪ Third Round
+<!--
+ 1.CANADA       14  8  4  2 23- 7 28 
+ 2.MEXICO       14  8  4  2 17- 8 28 
+ 3.USA          14  7  4  3 21-10 25
+ 4.Costa Rica   14  7  4  3 13- 8 25  Playoff 
+ 5.Panama       14  6  3  5 17-19 21 
+ 6.Jamaica      14  2  5  7 12-22 11 
+ 7.El Salvador  14  2  4  8  8-18 10 
+ 8.Honduras     14  0  4 10  7-26  4 -->
+
+ 2.9.21 @ Toronto         Canada        1-1 Honduras
+ 2.9.21 @ Cd. de Panamá   Panama        0-0 Costa Rica
+ 2.9.21 @ Cd. de México   Mexico        2-1 Jamaica
+ 2.9.21 @ San Salvador    El Salvador   0-0 United States
+ 5.9.21 @ Kingston        Jamaica       0-3 Panama
+ 5.9.21 @ San Salvador    El Salvador   0-0 Honduras
+ 5.9.21 @ San José        Costa Rica    0-1 Mexico
+ 5.9.21 @ Nashville       United States 1-1 Canada
+ 8.9.21 @ Toronto         Canada        3-0 El Salvador
+ 8.9.21 @ Cd. de Panamá   Panama        1-1 Mexico
+ 8.9.21 @ San José        Costa Rica    1-1 Jamaica
+ 8.9.21 @ San Pedro Sula  Honduras      1-4 United States
+ 7.10.21 @ Austin          United States 2-0 Jamaica
+ 7.10.21 @ San Pedro Sula  Honduras      0-0 Costa Rica
+ 7.10.21 @ Cd. de México   Mexico        1-1 Canada
+ 7.10.21 @ San Salvador    El Salvador   1-0 Panama
+10.10.21 @ Kingston        Jamaica       0-0 Canada
+10.10.21 @ San José        Costa Rica    2-1 El Salvador
+10.10.21 @ Cd. de Panamá   Panama        1-0 United States
+10.10.21 @ Cd. de México   Mexico        3-0 Honduras
+13.10.21 @ Columbus        United States 2-1 Costa Rica
+13.10.21 @ Toronto         Canada        4-1 Panama
+13.10.21 @ San Pedro Sula  Honduras      0-2 Jamaica
+13.10.21 @ San Salvador    El Salvador   0-2 Mexico
+12.11.21 @ San Pedro Sula  Honduras      2-3 Panama
+12.11.21 @ San Salvador    El Salvador   1-1 Jamaica
+12.11.21 @ Edmonton        Canada        1-0 Costa Rica
+12.11.21 @ Cincinnati      United States 2-0 Mexico
+16.11.21 @ Kingston        Jamaica       1-1 United States
+16.11.21 @ San José        Costa Rica    2-1 Honduras
+16.11.21 @ Cd. de Panamá   Panama        2-1 El Salvador
+16.11.21 @ Edmonton        Canada        2-1 Mexico
+27.1.22 @ Columbus        United States 1-0 El Salvador
+27.1.22 @ Kingston        Jamaica       1-2 Mexico
+27.1.22 @ San Pedro Sula  Honduras      0-2 Canada
+27.1.22 @ San José        Costa Rica    1-0 Panama
+30.1.22 @ Hamilton        Canada        2-0 United States
+30.1.22 @ Cd. de Panamá   Panama        3-2 Jamaica
+30.1.22 @ Cd. de México   Mexico        0-0 Costa Rica
+30.1.22 @ San Pedro Sula  Honduras      0-2 El Salvador
+ 2.2.22 @ Kingston        Jamaica       0-1 Costa Rica
+ 2.2.22 @ Saint Paul      United States 3-0 Honduras
+ 2.2.22 @ San Salvador    El Salvador   0-2 Canada
+ 2.2.22 @ Cd. de México   Mexico        1-0 Panama
+24.3.22 @ Kingston        Jamaica       1-1 El Salvador
+24.3.22 @ Cd. de Panamá   Panama        1-1 Honduras
+24.3.22 @ Cd. de México   Mexico        0-0 United States
+24.3.22 @ San José        Costa Rica    1-0 Canada
+27.3.22 @ Toronto         Canada        4-0 Jamaica
+27.3.22 @ San Salvador    El Salvador   1-2 Costa Rica
+27.3.22 @ Orlando         United States 5-1 Panama
+27.3.22 @ San Pedro Sula  Honduras      0-1 Mexico
+30.3.22 @ Cd. de Panamá   Panama        1-0 Canada
+30.3.22 @ Kingston        Jamaica       2-1 Honduras
+30.3.22 @ Cd. de México   Mexico        2-0 El Salvador
+30.3.22 @ San José        Costa Rica    2-0 United States
+
+
+##  Costa Rica qualified for the inter-confederation play-off
+## see play-offs for more !!!
+
+## NB: Costa Rica qualified
+
+
+
+==Oceania==
+
+▪ Preliminary Round
+
+13.3.22 @ Doha            Tonga         n/p Cook Islands  [Tonga withdrew due to aftermath volcanic eruption]
+
+▪ First Round
+▪▪ Group A
+<!--
+ 1.SOLOMON I.    1  1  0  0  3- 1  3
+ 2.TAHITI        1  0  0  1  1- 3  0
+ -.Cook Islands  withdrew after first match (annulled) due to Covid-19 outbreak in squad
+ -.Vanuatu       withdrew before playing any matches due to Covid-19 outbreak in squad  -->
+
+17.3.22 @ Doha            Cook Islands  0-2 Solomon I.    [annulled]
+17.3.22 @ Doha            Tahiti        n/p Vanuatu       
+20.3.22 @ Doha            Cook Islands  n/p Tahiti        
+20.3.22 @ Doha            Solomon I.    n/p Vanuatu       
+24.3.22 @ Doha            Vanuatu       n/p Cook Islands  
+24.3.22 @ Doha            Solomon I.    3-1 Tahiti        
+
+▪▪ Group B
+<!--
+ 1.NEW ZEALAND   3  3  0  0 12- 1  9
+ 2.PAPUA NEW G.  3  2  0  1  3- 2  6
+ 3.Fiji          3  1  0  2  3- 7  3
+ 4.New Caledonia 3  0  0  3  2-10  0  -->
+
+18.3.22 @ Doha            Papua New G.  0-1 New Zealand
+18.3.22 @ Doha            New Caledonia 1-2 Fiji
+21.3.22 @ Doha            Papua New G.  1-0 New Caledonia
+21.3.22 @ Doha            New Zealand   4-0 Fiji
+24.3.22 @ Doha            New Zealand   7-1 New Caledonia
+24.3.22 @ Doha            Fiji          1-2 Papua New Guinea
+
+▪ Semifinals
+27.3.22 @ Doha            Solomon I.    3-2 Papua New Guinea
+27.3.22 @ Doha            New Zealand   1-0 Tahiti
+
+▪ Final
+30.3.22 @ Doha            New Zealand   5-0 Solomon Islands
+
+## NB: New Zealand qualify for playoff against 4th placed team in CONCACAF (Costa Rica)
+
+## see play-offs for more !!!
+
+
+
+==Play-offs==
+
+▪ Inter-confederation Play-offs
+▪▪ AFC/CONMEBOL Playoff
+
+13.6.22 @ Al-Rayyan       Australia     0-0 Peru          (aet, 5-4 pen.)
+
+## NB: Australia qualified
+
+
+▪▪ OFC/CONCACAF Playoff
+14.6.22 @ Al-Rayyan       Costa Rica    1-0 New Zealand
+
+## NB: Costa Rica qualified
+
+
