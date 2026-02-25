@@ -1,0 +1,1033 @@
+##
+#  converted from the planet world cup page/style to Football.TXT
+#    for source, see https://www.planetworldcup.com/CUPS/1994/wc94qualification.html
+
+
+=World Cup 1994 Qualification=
+
+# Participating countries   147   Total matches             497
+# Total goals              1431   Goals per game average   2.88
+
+
+
+==Europe==
+
+▪ UEFA Group 1
+
+              16 Aug 92 @ Tallinn         Estonia          0-6 Switzerland
+              09 Sep 92 @ Berne           Switzerland      3-1 Scotland
+              14 Oct 92 @ Cagliari        Italy            2-2 Switzerland
+              14 Oct 92 @ Glasgow         Scotland         0-0 Portugal
+              25 Oct 92 @ La Valletta     Malta            0-0 Estonia
+              18 Nov 92 @ Glasgow         Scotland         0-0 Italy
+              18 Nov 92 @ Berne           Switzerland      3-0 Malta
+              19 Dec 92 @ La Valletta     Malta            1-2 Italy
+              24.Jan 93 @ La Valletta     Malta            0-1 Portugal
+              17 Feb 93 @ Glasgow         Scotland         3-0 Malta
+              24 Feb 93 @ Porto           Portugal         1-3 Italy
+              24 Mar 93 @ Palermo         Italy            6-1 Malta
+              31 Mar 93 @ Berne           Switzerland      1-1 Portugal
+              14 Apr 93 @ Trieste         Italy            2-0 Estonia
+              17 Apr 93 @ La Valletta     Malta            0-2 Switzerland
+              28 Apr 93 @ Lisbon          Portugal         5-0 Scotland
+              01 May 93 @ Berne           Switzerland      1-0 Italy
+              12 May 93 @ Tallinn         Estonia          0-1 Malta
+              19 May 93 @ Tallinn         Estonia          0-3 Scotland
+              02 Jun 93 @ Aberdeen        Scotland         3-1 Estonia
+              19 Jun 93 @ Porto           Portugal         4-0 Malta
+              05 Sep 93 @ Tallinn         Estonia          0-2 Portugal
+              08 Sep 93 @ Aberdeen        Scotland         1-1 Switzerland
+              22 Sep 93 @ Tallinn         Estonia          0-3 Italy
+              13 Oct 93 @ Porto           Portugal         1-0 Switzerland
+              13 Oct 93 @ Rome            Italy            3-1 Scotland
+              10 Nov 93 @ Porto           Portugal         3-0 Estonia
+              17 Nov 93 @ Milan           Italy            1-0 Portugal
+              17 Nov 93 @ La Valletta     Malta            0-2 Scotland
+              17 Nov 93 @ Zürich          Switzerland      4-0 Estonia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Italy           10  7  2  1  22- 7  16
+2.Switzerland     10  6  3  1  23- 6  15
+3.Portugal        10  6  2  2  18- 5  14
+4.Scotland        10  4  3  3  14-13  11
+5.Malta           10  1  1  8   3-23   3
+6.Estonia         10  0  1  9   1-27   1 -->
+
+
+
+
+▪ UEFA Group 2
+
+              09 Sep 92 @ Oslo            Norway          10-0 San Marino
+              23 Sep 92 @ Poznán          Poland           1-0 Turkey
+              23 Sep 92 @ Oslo            Norway           2-1 Netherlands
+              07 Oct 92 @ Serravalle      San Marino       0-2 Norway
+              14 Oct 92 @ London          England          1-1 Norway
+              14 Oct 92 @ Rotterdam       Netherlands      2-2 Poland
+              28 Oct 92 @ Ankara          Turkey           4-1 San Marino
+              18 Nov 92 @ London          England          4-0 Turkey
+              16 Dec 92 @ Istanbul        Turkey           1-3 Netherlands
+              17 Feb 93 @ London          England          6-0 San Marino
+              24 Feb 93 @ Utrecht         Netherlands      3-1 Turkey
+              10 Mar 93 @ Serravalle      San Marino       0-0 Turkey
+              24 Mar 93 @ Utrecht         Netherlands      6-0 San Marino
+              31 Mar 93 @ Izmir           Turkey           0-2 England
+              28 Apr 93 @ London          England          2-2 Netherlands
+              28 Apr 93 @ Oslo            Norway           3-1 Turkey
+              28 Apr 93 @ Lódz            Poland           1-0 San Marino
+              19 May 93 @ Serravalle      San Marino       0-3 Poland
+              29 May 93 @ Chorzów         Poland           1-1 England
+              02 Jun 93 @ Oslo            Norway           2-0 England
+              09 Jun 93 @ Rotterdam       Netherlands      0-0 Norway
+              08 Sep 93 @ London          England          3-0 Poland
+              22 Sep 93 @ Oslo            Norway           1-0 Poland
+              22 Sep 93 @ Bologna         San Marino       0-7 Netherlands
+              13 Oct 93 @ Rotterdam       Netherlands      2-0 England
+              13 Oct 93 @ Poznán          Poland           0-3 Norway
+              27 Oct 93 @ Istanbul        Turkey           2-1 Poland
+              10 Nov 93 @ Istanbul        Turkey           2-1 Norway
+              17 Nov 93 @ Bologna         San Marino       1-7 England
+              17 Nov 93 @ Poznán          Poland           1-3 Netherlands
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Norway          10  7  2  1  25- 5  16
+2.Netherlands     10  6  3  1  29- 9  15
+3.England         10  5  3  2  26- 9  13
+4.Poland          10  3  2  5  10-15   8
+5.Turkey          10  3  1  6  11-19   7
+6.San Marino      10  0  1  9   2-46   1 -->
+
+
+
+
+▪ UEFA Group 3
+
+              22 Apr 92 @ Seville         Spain            3-0 Albania
+              28 Apr 92 @ Belfast         Northern Ireland 2-2 Lithuania
+              26 May 92 @ Dublin          Rep. of Ireland  2-0 Albania
+              03 Jun 92 @ Tiranë          Albania          1-0 Lithuania
+              12 Aug 92 @ Riga            Latvia           1-2 Lithuania
+              26 Aug 92 @ Riga            Latvia           0-0 Denmark
+              09 Sep 92 @ Dublin          Rep. of Ireland  4-0 Latvia
+              09 Sep 92 @ Belfast         Northern Ireland 3-0 Albania
+              23 Sep 92 @ Vilnius         Lithuania        0-0 Denmark
+              23 Sep 92 @ Riga            Latvia           0-0 Spain
+              14 Oct 92 @ Copenhagen      Denmark          0-0 Rep. of Ireland
+              14 Oct 92 @ Belfast         Northern Ireland 0-0 Spain
+              28 Oct 92 @ Vilnius         Lithuania        1-1 Latvia
+              11 Nov 92 @ Tiranë          Albania          1-1 Latvia
+              18 Nov 92 @ Belfast         Northern Ireland 0-1 Denmark
+              18 Nov 92 @ Seville         Spain            0-0 Rep. of Ireland
+              16 Dec 92 @ Seville         Spain            5-0 Latvia
+              17 Feb 93 @ Tiranë          Albania          1-2 Northern Ireland
+              24 Feb 93 @ Seville         Spain            5-0 Lithuania
+              31 Mar 93 @ Copenhagen      Denmark          1-0 Spain
+              31 Mar 93 @ Dublin          Rep. of Ireland  3-0 Northern Ireland
+              14 Apr 93 @ Copenhagen      Denmark          2-0 Latvia
+              14 Apr 93 @ Vilnius         Lithuania        3-1 Albania
+              28 Apr 93 @ Dublin          Rep. of Ireland  1-1 Denmark
+              28 Apr 93 @ Seville         Spain            3-1 Northern Ireland
+              15 May 93 @ Riga            Latvia           0-0 Albania
+              25 May 93 @ Vilnius         Lithuania        0-1 Northern Ireland
+              26 May 93 @ Tiranë          Albania          1-2 Rep. of Ireland  
+              02 Jun 93 @ Copenhagen      Denmark          4-0 Albania
+              02 Jun 93 @ Riga            Latvia           1-2 Northern Ireland
+              02 Jun 93 @ Vilnius         Lithuania        0-2 Spain
+              09 Jun 93 @ Riga            Latvia           0-2 Rep. of Ireland
+              16 Jun 93 @ Vilnius         Lithuania        0-1 Rep. of Ireland
+              25 Aug 93 @ Copenhagen      Denmark          4-0 Lithuania
+              08 Sep 93 @ Tiranë          Albania          0-1 Denmark
+              08 Sep 93 @ Dublin          Rep. of Ireland  2-0 Lithuania
+              08 Sep 93 @ Belfast         Northern Ireland 2-0 Latvia
+              22 Sep 93 @ Tiranë          Albania          1-5 Spain
+              13 Oct 93 @ Copenhagen      Denmark          1-0 Northern Ireland
+              13 Oct 93 @ Dublin          Rep. of Ireland  1-3 Spain
+              17 Nov 93 @ Belfast         Northern Ireland 1-1 Rep. of Ireland
+              17 Nov 93 @ Seville         Spain            1-0 Denmark
+
+<!--
+                    P  W  D  L   Gls  Pts
+1.Spain            12  8  3  1  27- 4  19
+2.Rep. of Ireland  12  7  4  1  19- 6  18
+3.Denmark          12  7  4  1  15- 2  18
+4.Northern Ireland 12  5  3  4  14-13  13
+5.Lithuania        12  2  3  7   8-21   7
+6.Latvia           12  0  5  7   4-21   5
+7.Albania          12  1  2  9   6-26   4 -->
+
+
+
+
+▪ UEFA Group 4
+
+              22 Apr 92 @ Brussels        Belgium          1-0 Cyprus
+              06 May 92 @ Bucharest       Romania          7-0 Faroe Islands
+              20 May 92 @ Bucharest       Romania          5-1 Wales
+              03 Jun 92 @ Toftir          Faroe Islands    0-3 Belgium
+              16 Jun 92 @ Toftir          Faroe Islands    0-2 Cyprus
+              02 Sep 92 @ Prague          Czechoslovakia   1-2 Belgium
+              09 Sep 92 @ Cardiff         Wales            6-0 Faroe Islands
+              23 Sep 92 @ Kosice          Czechoslovakia   4-0 Faroe Islands
+              14 Oct 92 @ Brussels        Belgium          1-0 Romania
+              14 Oct 92 @ Nicosia         Cyprus           0-1 Wales
+              14 Nov 92 @ Bucharest       Romania          1-1 Czechoslovakia
+              18 Nov 92 @ Brussels        Belgium          2-0 Wales
+              29 Nov 92 @ Larnaca         Cyprus           1-4 Romania
+              13 Feb 93 @ Nicosia         Cyprus           0-3 Belgium
+              24 Mar 93 @ Limassol        Cyprus           1-1 Czechoslovakia
+              31 Mar 93 @ Cardiff         Wales            2-0 Belgium
+              14 Apr 93 @ Bucharest       Romania          2-1 Cyprus
+              25 Apr 93 @ Limassol        Cyprus           3-1 Faroe Islands
+              28 Apr 93 @ Ostrava         Czechoslovakia   1-1 Wales
+              22 May 93 @ Brussels        Belgium          3-0 Faroe Islands
+              02 Jun 93 @ Kosice          Czechoslovakia   5-2 Romania
+              06 Jun 93 @ Toftir          Faroe Islands    0-3 Wales
+              16 Jun 93 @ Toftir          Faroe Islands    0-3 Czechoslovakia
+              08 Sep 93 @ Cardiff         Wales            2-2 Czechoslovakia
+              08 Sep 93 @ Toftir          Faroe Islands    0-4 Romania
+              13 Oct 93 @ Bucharest       Romania          2-1 Belgium
+              13 Oct 93 @ Cardiff         Wales            2-0 Cyprus
+              27 Oct 93 @ Kosice          Czechoslovakia   3-0 Cyprus
+              17 Nov 93 @ Cardiff         Wales            1-2 Romania
+              17 Nov 93 @ Brussels        Belgium          0-0 Czechoslovakia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Romania         10  7  1  2  29-12  15
+2.Belgium         10  7  1  2  16- 5  15
+3.Czechoslovakia  10  4  5  1  21- 9  13
+4.Wales           10  5  2  3  19-12  12
+5.Cyprus          10  2  1  7   8-18   5
+6.Faroe Islands   10  0  0 10   1-38   0 -->
+
+
+
+
+▪ UEFA Group 5
+
+              ## Yugoslavia disqualified.
+              13 May 92 @ Athens          Greece           1-0 Iceland
+              03 Jun 92 @ Budapest        Hungary          1-2 Iceland
+              09 Sep 92 @ Luxembourg      Luxembourg       0-3 Hungary
+              07 Oct 92 @ Reykjavik       Iceland          0-1 Greece
+              14 Oct 92 @ Moscow          Russia           1-0 Iceland
+              28 Oct 92 @ Moscow          Russia           2-0 Luxembourg
+              11 Nov 92 @ Thessaloniki    Greece           0-0 Hungary
+              17 Feb 93 @ Athens          Greece           2-0 Luxembourg
+              31 Mar 93 @ Budapest        Hungary          0-1 Greece
+              14 Apr 93 @ Luxembourg      Luxembourg       0-4 Russia
+              28 Apr 93 @ Moscow          Russia           3-0 Hungary
+              20 May 93 @ Luxembourg      Luxembourg       1-1 Iceland 
+              23 May 93 @ Moscow          Russia           1-1 Greece 
+              02 Jun 93 @ Reykjavik       Iceland          1-1 Russia
+              16 Jun 93 @ Reykjavik       Iceland          2-0 Hungary
+              08 Sep 93 @ Budapest        Hungary          1-3 Russia
+              08 Sep 93 @ Reykjavik       Iceland          1-0 Luxembourg
+              12 Oct 93 @ Luxembourg      Luxembourg       1-3 Greece
+              27 Oct 93 @ Budapest        Hungary          1-0 Luxembourg
+              17 Nov 93 @ Athens          Greece           1-0 Russia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Greece           8  6  2  0  10- 2  14
+2.Russia           8  5  2  1  15- 4  12
+3.Iceland          8  3  2  3   7- 6   8
+4.Hungary          8  2  1  5   6-11   5
+5.Luxembourg       8  0  1  7   2-17   1 -->
+
+
+
+
+▪ UEFA Group 6
+
+              14 May 92 @ Helsinki        Finland          0-3 Bulgaria
+              09 Sep 92 @ Helsinki        Finland          0-1 Sweden
+              09 Sep 92 @ Sofia           Bulgaria         2-0 France
+              07 Oct 92 @ Stockholm       Sweden           2-0 Bulgaria
+              14 Oct 92 @ Paris           France           2-0 Austria
+              28 Oct 92 @ Vienna          Austria          5-2 Israel
+              11 Nov 92 @ Ramat Gan       Israel           1-3 Sweden
+              14 Nov 92 @ Paris           France           2-1 Finland
+              02 Dec 92 @ Ramat Gan       Israel           0-2 Bulgaria
+              17 Feb 93 @ Ramat Gan       Israel           0-4 France
+              27 Mar 93 @ Vienna          Austria          0-1 France
+              14 Apr 93 @ Vienna          Austria          3-1 Bulgaria
+              28 Apr 93 @ Paris           France           2-1 Sweden
+              28 Apr 93 @ Sofia           Bulgaria         2-0 Finland
+              12 May 93 @ Sofia           Bulgaria         2-2 Israel
+              13 May 93 @ Pori            Finland          3-1 Austria
+              19 May 93 @ Stockholm       Sweden           1-0 Austria 
+              02 Jun 93 @ Stockholm       Sweden           5-0 Israel
+              16 Jun 93 @ Helsinki        Finland          0-0 Israel
+              22 Aug 93 @ Stockholm       Sweden           1-1 France
+              25 Aug 93 @ Vienna          Austria          3-0 Finland
+              08 Sep 93 @ Tampere         Finland          0-2 France
+              08 Sep 93 @ Sofia           Bulgaria         1-1 Sweden
+              13 Oct 93 @ Sofia           Bulgaria         4-1 Austria
+              13 Oct 93 @ Paris           France           2-3 Israel
+              13 Oct 93 @ Stockholm       Sweden           3-2 Finland
+              27 Oct 93 @ Ramat Gan       Israel           1-1 Austria
+              10 Nov 93 @ Vienna          Austria          1-1 Sweden
+              10 Nov 93 @ Ramat Gan       Israel           1-3 Finland
+              17 Nov 93 @ Paris           France           1-2 Bulgaria
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Sweden          10  6  3  1  19- 8  15
+2.Bulgaria        10  6  2  2  19-10  14
+3.France          10  6  1  3  17-10  13
+4.Austria         10  3  2  5  15-16   8
+5.Finland         10  2  1  7   9-18   5
+6.Israel          10  1  3  6  10-27   5 -->
+
+
+#              QUALIFIED FROM EUROPE:
+#              Italy, Switzerland, Norway, Holland, Spain, Rep. of Ireland,
+#              Romania, Belgium, Greece, Russia, Sweden and Bulgaria
+#              + Germany as defending champions.
+
+
+==South America==
+
+▪ CONMEBOL Group 1
+
+              01 Aug 93 @ Barranquilla    Colombia         0-0 Paraguay
+              01 Aug 93 @ Lima            Peru             0-1 Argentina
+              08 Aug 93 @ Asunción        Paraguay         1-3 Argentina
+              08 Aug 93 @ Lima            Peru             0-1 Colombia
+              15 Aug 93 @ Asunción        Paraguay         2-1 Peru
+              18 Aug 93 @ Barranquilla    Colombia         2-1 Argentina
+              22 Aug 93 @ Buenos Aires    Argentina        2-1 Peru
+              22 Aug 93 @ Asunción        Paraguay         1-1 Colombia
+              29 Aug 93 @ Buenos Aires    Argentina        0-0 Paraguay
+              29 Aug 93 @ Barranquilla    Colombia         4-0 Peru
+              05 Sep 93 @ Lima            Peru             2-2 Paraguay
+              05 Sep 93 @ Buenos Aires    Argentina        0-5 Colombia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Colombia         6  4  2  0  13- 2  10
+2.Argentina        6  3  1  2   7- 9   7
+3.Paraguay         6  1  4  1   6- 7   6
+4.Peru             6  0  1  5   4-12   1 -->
+
+           #   Argentina required to play off against winner of 
+           #   Oceania and North/Central America runner-up for one
+           #   spot in the World Cup.
+
+## todo/check - move to playoffs ????
+▪ Intercontinental Play-off
+              31 Oct 93 @ Sydney          Australia        1-1 Argentina
+              17 Nov 93 @ Buenos Aires    Argentina        1-0 Australia
+
+
+
+▪ CONMEBOL Group 2
+
+              18 Jul 93 @ Guayaquil       Ecuador          0-0 Brazil
+              18 Jul 93 @ Puerto Ordaz    Venezuela        1-7 Bolivia
+              25 Jul 93 @ La Paz          Bolivia          2-0 Brazil
+              25 Jul 93 @ San Cristóbal   Venezuela        0-1 Uruguay
+              01 Aug 93 @ San Cristóbal   Venezuela        1-5 Brazil
+              01 Aug 93 @ Montevideo      Uruguay          0-0 Ecuador
+              08 Aug 93 @ Quito           Ecuador          5-0 Venezuela
+              08 Aug 93 @ La Paz          Bolivia          3-1 Uruguay
+              15 Aug 93 @ La Paz          Bolivia          1-0 Ecuador
+              15 Aug 93 @ Montevideo      Uruguay          1-1 Brazil
+              22 Aug 93 @ La Paz          Bolivia          7-0 Venezuela
+              22 Aug 93 @ São Paulo       Brazil           2-0 Ecuador
+              29 Aug 93 @ Montevideo      Uruguay          4-0 Venezuela
+              29 Aug 93 @ Recife          Brazil           6-0 Bolivia
+              05 Sep 93 @ Belo Horizonte  Brazil           4-0 Venezuela
+              05 Sep 93 @ Guayaquil       Ecuador          0-1 Uruguay
+              12 Sep 93 @ Montevideo      Uruguay          2-1 Bolivia
+              12 Sep 93 @ Ciudad Guayana  Venezuela        2-1 Ecuador
+              19 Sep 93 @ Guayaquil       Ecuador          1-1 Bolivia
+              19 Sep 93 @ Rio de Janeiro  Brazil           2-0 Uruguay
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Brazil           8  5  2  1  20- 4  12
+2.Bolivia          8  5  1  2  22-11  11
+3.Uruguay          8  4  2  2  10- 7  10
+4.Ecuador          8  1  3  4   7- 7   5
+5.Venezuela        8  1  0  7   4-34   2 -->
+
+
+
+
+#              QUALIFIED FROM SOUTH AMERICA:
+#              Colombia, Argentina, Brazil and Bolivia.
+
+
+
+
+
+
+==North/Central America==
+
+▪ CONCACAF Preliminary round
+
+              ▪▪ 1st preliminary round
+              22 Mar 92 @ Castries        St Lucia         1-0 St Vincent
+              29 Mar 92 @ Kingstown       St Vincent       3-1 St Lucia
+
+              21 Mar 92 @ Santo Domingo   Dominican Rep.   1-2 Puerto Rico
+              29 Mar 92 @ Hato Rey        Puerto Rico      1-1 Dominican Rep.
+
+
+              ▪▪ 2nd preliminary round
+              26 Apr 92 @ Hamilton        Bermuda          1-0 Haiti
+              25 May 92 @ Port-au-Prince  Haiti            2-1 Bermuda
+
+              23 May 92 @ Kingston        Jamaica          2-1 Puerto Rico
+              30 May 92 @ Hato Rey        Puerto Rico      0-1 Jamaica
+
+              ## Cuba withdrew so St Vincent had a walkover.
+
+              19 Apr 92 @ Willemstad      Dutch Antilles   1-1 Antigua
+              26 Apr 92 @ St. John's      Antigua          3-0 Dutch Antilles
+
+              24 Apr 92 @ Georgetown      Guyana           1-2 Surinam
+              25 May 92 @ Paramaribo      Surinam          1-1 Guyana
+
+              19 Apr 92 @ Bridgetown      Barbados         1-2 Trinidad/Tobago
+              31 May 92 @ Port of Spain   Trinidad/Tobago  3-0 Barbados
+
+
+
+▪ CONCACAF First round
+
+              ▪▪ Central American Zone
+              19 Jul 92 @ Cd. Guatemala   Guatemala        0-0 Honduras
+              26 Jul 92 @ Tegucigalpa     Honduras         2-0 Guatemala
+
+              16 Aug 92 @ Panama          Panama           1-0 Costa Rica
+              23 Aug 92 @ San José        Costa Rica       5-1 Panama
+
+              19 Jul 92 @ Managua         Nicaragua        0-5 El Salvador
+              23 Jul 92 @ San Salvador    El Salvador      5-1 Nicaragua
+
+
+              ▪▪ Caribbean Zone
+              02 Aug 92 @ Paramaribo      Surinam          0-0 St Vincent
+              30 Aug 92 @ Kingstown       St Vincent       2-1 Surinam
+
+              04 Jun 92 @ St. John's      Antigua          0-3 Bermuda
+              06 Jun 92 @ Hamilton        Bermuda          2-1 Antigua
+
+              05 Jul 92 @ Port of Spain   Trinidad/Tobago  1-2 Jamaica
+              16 Aug 92 @ Kingston        Jamaica          1-1 Trinidad/Tobago
+
+              ## Mexico and Canada received a bye.
+
+
+
+▪ CONCACAF Second round
+
+              ▪▪ Group A
+              08 Nov 92 @ Kingstown       St Vincent       0-4 Mexico
+              08 Nov 92 @ San José        Costa Rica       2-3 Honduras
+              15 Nov 92 @ Mexico City     Mexico           2-0 Honduras
+              15 Nov 92 @ Kingstown       St Vincent       0-1 Costa Rica
+              22 Nov 92 @ Mexico City     Mexico           4-0 Costa Rica
+              22 Nov 92 @ Kingstown       St Vincent       0-4 Honduras 
+              28 Nov 92 @ Tegucigalpa     Honduras         4-0 St Vincent 
+              29 Nov 92 @ San José        Costa Rica       2-0 Mexico
+              05 Dec 92 @ Tegucigalpa     Honduras         2-1 Costa Rica
+              06 Dec 92 @ Mexico City     Mexico          11-0 St Vincent 
+              13 Dec 92 @ Tegucigalpa     Honduras         1-1 Mexico 
+              13 Dec 92 @ San José        Costa Rica       5-0 St Vincent
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Mexico           6  4  1  1  22- 3   9
+2.Honduras         6  4  1  1  14- 6   9
+3.Costa Rica       6  3  0  3  11- 9   6
+4.Saint Vincent    6  0  0  6   0-29   0 -->
+
+
+
+
+              ▪▪ Group B
+              18 Oct 92 @ Kingston        Jamaica          1-1 Canada
+              18 Oct 92 @ Hamilton        Bermuda          1-0 El Salvador
+              25 Oct 92 @ San Salvador    El Salvador      1-1 Canada
+              25 Oct 92 @ Hamilton        Bermuda          1-1 Jamaica
+              01 Nov 92 @ Toronto         Canada           1-0 Jamaica 
+              01 Nov 92 @ San Salvador    El Salvador      4-1 Bermuda
+              08 Nov 92 @ Vancouver       Canada           2-3 El Salvador
+              08 Nov 92 @ Kingston        Jamaica          3-2 Bermuda 
+              15 Nov 92 @ Burnaby         Canada           4-2 Bermuda 
+              22 Nov 92 @ Kingston        Jamaica          0-2 El Salvador
+              06 Dec 92 @ Hamilton        Bermuda          0-0 Canada 
+              06 Dec 92 @ San Salvador    El Salvador      2-1 Jamaica
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.El Salvador      6  4  1  1  12- 6   9
+2.Canada           6  2  3  1   9- 7   7
+3.Jamaica          6  1  2  3   6- 9   4
+4.Bermuda          6  1  2  3   7-12   4 -->
+
+
+
+
+▪ CONCACAF Final round
+
+              04 Apr 93 @ San Salvador    El Salvador      2-1 Mexico
+              04 Apr 93 @ Tegucigalpa     Honduras         2-2 Canada
+              11 Apr 93 @ Vancouver       Canada           2-0 El Salvador
+              11 Apr 93 @ Mexico City     Mexico           3-0 Honduras
+              18 Apr 93 @ Vancouver       Canada           3-1 Honduras 
+              18 Apr 93 @ Mexico City     Mexico           3-1 El Salvador
+              25 Apr 93 @ Tegucigalpa     Honduras         2-0 El Salvador
+              25 Apr 93 @ Mexico City     Mexico           4-0 Canada 
+              02 May 93 @ San Salvador    El Salvador      1-2 Canada
+              02 May 93 @ Tegucigalpa     Honduras         1-4 Mexico 
+              09 May 93 @ Toronto         Canada           1-2 Mexico 
+              09 May 93 @ San Salvador    El Salvador      2-1 Honduras
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Mexico           6  5  0  1  17- 5  10
+2.Canada           6  3  1  2  10-10   7
+3.El Salvador      6  2  0  4   6-11   4
+4.Honduras         6  1  1  4   7-14   3 -->
+
+
+              # Canada required to play off with winner of Oceania.
+
+## todo/check - move to playoffs ????
+▪ Intercontinental Play-off
+              31 Jul 93 @ Edmonton        Canada           2-1 Australia
+              15 Aug 93 @ Sydney          Australia        2-1 Canada
+              # (Australia won 4-1 on penalties.)
+
+
+              # QUALIFIED FROM NORTH/CENTRAL AMERICA:
+              # Mexico + USA as host nation.
+
+
+==Africa==
+
+▪ CAF First round
+
+              ▪▪ Sub-group A
+              # Uganda withdrew.
+              09 Oct 92 @ Tlemcen         Algeria          3-1 Burundi
+              25 Oct 92 @ Bujumbura       Burundi          1-0 Ghana
+              20 Dec 92 @ Accra           Ghana            2-0 Algeria
+              17.Jan 93 @ Bujumbura       Burundi          0-0 Algeria
+              31.Jan 93 @ Kumasi          Ghana            1-0 Burundi
+              26 Feb 93 @ Tlemcen         Algeria          2-1 Ghana      
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Algeria          4  2  1  1   5- 4   5
+2.Ghana            4  2  0  2   4- 3   4
+3.Burundi          4  1  1  2   2- 4   3  -->
+
+
+
+
+              ▪▪ Sub-group B
+              11 Oct 92 @ Kinshasa        Zaire            4-2 Liberia
+              18 Oct 92 @ Yaoundé         Cameroon         5-0 Swaziland
+              25 Oct 92 @ Lobamba         Swaziland        1-0 Zaire
+              25 Oct 92 @ Monrovia        Liberia          0-0 Cameroon
+              ## Liberia withdrew. Their matches cancelled.
+              10.Jan 93 @ Kinshasa        Zaire            1-2 Cameroon
+              17.Jan 93 @ Sanholo         Swaziland        0-0 Cameroon
+              31.Jan 93 @ Kinshasa        Zaire            n/p Swaziland
+              01 Mar 93 @ Yaoundé         Cameroon         0-0 Zaire
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Cameroon         4  2  2  0   7- 1   6
+2.Swaziland        3  1  1  1   1- 5   3
+3.Zaire            3  0  1  2   1- 3   1 -->
+
+
+
+
+              ▪▪ Sub-group C
+              ## Sierra Leone withdrew. Togo took over their place.
+              09 Oct 92 @ Harare          Zimbabwe         1-0 Togo
+              11 Oct 92 @ Cairo           Egypt            1-0 Angola
+              25 Oct 92 @ Lomé            Togo             1-4 Egypt
+              20 Dec 92 @ Harare          Zimbabwe         2-1 Egypt
+              10.Jan 93 @ Luanda          Angola           1-1 Zimbabwe
+              17.Jan 93 @ Lomé            Togo             1-2 Zimbabwe
+              18.Jan 93 @ Luanda          Angola           0-0 Egypt
+              31.Jan 93 @ Cairo           Egypt            3-0 Togo
+              31.Jan 93 @ Harare          Zimbabwe         2-1 Angola
+              14 Feb 93 @ Luanda          Angola           n/p Togo
+              28 Feb 93 @ Lomé            Togo             0-1 Angola
+              28 Feb 93 @ Cairo           Egypt            x-x Zimbabwe 
+              ## (Stopped and cancelled at 2-1 due to crowd violence.)
+              15 Apr 93 @ Lyon            Egypt            0-0 Zimbabwe
+              ## (Replayed on neutral ground in France.)
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Zimbabwe         6  4  2  0   8- 4  10
+2.Egypt            6  3  2  1   9- 3   8
+3.Angola           5  1  2  2   3- 4   4
+4.Togo             5  0  0  5   2-11   0  -->
+
+
+
+
+              ▪▪ Sub-group D
+              # Sao Tomé & Principe withdrew. South Africa took over
+              # their place. Libya also withdrew.
+              10 Oct 92 @ Lagos           Nigeria          4-0 South Africa
+              25 Oct 92 @ Johannesburg    South Africa     1-0 Congo
+              20 Dec 92 @ Brazzaville     Congo            0-1 Nigeria
+              16.Jan 93 @ Johannesburg    South Africa     0-0 Nigeria
+              31.Jan 93 @ Brazzaville     Congo            0-1 South Africa
+              27 Feb 93 @ Enugu           Nigeria          2-0 Congo
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Nigeria          4  3  1  0   7- 0   7
+2.South Africa     4  2  1  1   2- 4   5
+3.Congo            4  0  0  4   0- 5   0 -->
+
+
+
+
+              ▪▪ Sub-group E
+              ## Sudan withdrew.
+              10 Oct 92 @ Abidjan         Ivory Coast      6-0 Botswana
+              25 Oct 92 @ Niamey          Niger            0-0 Ivory Coast
+              20 Dec 92 @ Gaborone        Botswana         0-1 Niger      
+              17.Jan 93 @ Gaborone        Botswana         0-0 Ivory Coast
+              31.Jan 93 @ Abidjan         Ivory Coast      1-0 Niger
+              28 Feb 93 @ Niamey          Niger            2-1 Botswana
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Ivory Coast      4  2  2  0   7- 0   6
+2.Niger            4  2  1  1   3- 2   5
+3.Botswana         4  0  1  3   1- 9   1 -->
+
+
+
+
+              ▪▪ Sub-group F
+              ## Malawi withdrew. Benin took over their place.
+              11 Oct 92 @ Casablanca      Morocco          5-0 Ethiopia
+              11 Oct 92 @ Tunis           Tunisia          5-1 Benin
+              25 Oct 92 @ Addis Abeba     Ethiopia         0-0 Tunisia
+              25 Oct 92 @ Cotonou         Benin            0-1 Morocco
+              20 Dec 92 @ Tunis           Tunisia          1-1 Morocco
+              20 Dec 92 @ Addis Abeba     Ethiopia         3-1 Benin
+              17.Jan 93 @ Addis Abeba     Ethiopia         0-1 Morocco
+              17.Jan 93 @ Cotonou         Benin            0-5 Tunisia
+              31.Jan 93 @ Rabat           Morocco          5-0 Benin
+              31.Jan 93 @ Tunis           Tunisia          3-0 Ethiopia
+              28 Feb 93 @ Cotonou         Benin            1-0 Ethiopia
+              28 Feb 93 @ Casablanca      Morocco          0-0 Tunisia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Morocco          6  4  2  0  13- 1  10
+2.Tunisia          6  3  3  0  14- 2   9
+3.Ethiopia         6  1  1  4   3-11   3
+4.Benin            6  1  0  5   3-19   2 -->
+
+
+
+
+              ▪▪ Sub-group G
+              # Mauritania withdrew.
+              11 Oct 92 @ Libreville      Gabon            3-1 Mozambique
+              25 Oct 92 @ Maputo          Mozambique       0-1 Senegal
+              19 Dec 92 @ Libreville      Gabon            3-2 Senegal
+              17.Jan 93 @ Maputo          Mozambique       1-1 Gabon
+              30.Jan 93 @ Dakar           Senegal          6-1 Mozambique
+              27 Feb 93 @ Dakar           Senegal          1-0 Gabon      
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Senegal          4  3  0  1  10- 4   6
+2.Gabon            4  2  1  1   7- 5   5
+3.Mozambique       4  0  1  3   3-11   1  -->
+
+
+
+
+              ▪▪ Sub-group H
+              # Burkina Faso withdrew. Namibia took over their place.
+              11 Oct 92 @ Lusaka          Zambia           2-0 Tanzania
+              11 Oct 92 @ Tananarive      Madagascar       3-0 Namibia
+              25 Oct 92 @ Mwanza          Tanzania         0-0 Madagascar
+              25 Oct 92 @ Windhoek        Namibia          0-4 Zambia
+              19 Dec 92 @ Mwanza          Tanzania         2-0 Namibia
+              20 Dec 92 @ Tananarive      Madagascar       2-0 Zambia
+              16.Jan 93 @ Mwanza          Tanzania         1-3 Zambia
+              # Tanzania withdrew. All their matches cancelled.
+              17.Jan 93 @ Windhoek        Namibia          0-1 Madagascar
+              30.Jan 93 @ Lusaka          Zambia           4-0 Namibia
+              27 Feb 93 @ Lusaka          Zambia           3-1 Madagascar
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Zambia           4  3  0  1  11- 3   6
+2.Madagascar       4  3  0  1   7- 3   6
+3.Namibia          4  0  0  4   0-12   0 -->
+
+
+
+
+              ▪▪ Sub-group I
+              # Mali and Gambia withdrew.
+              20 Dec 92 @ Conakry         Guinea           4-0 Kenya
+              27 Feb 93 @ Nairobi         Kenya            2-0 Guinea
+
+
+
+▪ CAF Final round
+
+              ▪▪ Group A
+              16 Apr 93 @ Tlemcen         Algeria          1-1 Ivory Coast
+              02 May 93 @ Abidjan         Ivory Coast      2-1 Nigeria
+              03 Jul 93 @ Lagos           Nigeria          4-1 Algeria
+              18 Jul 93 @ Abidjan         Ivory Coast      1-0 Algeria
+              25 Sep 93 @ Lagos           Nigeria          4-1 Ivory Coast
+              08 Oct 93 @ Alger           Algeria          1-1 Nigeria
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Nigeria          4  2  1  1  10- 5   5
+2.Ivory Coast      4  2  1  1   5- 6   5
+3.Algeria          4  0  2  2   3- 7   2 -->
+
+
+              ▪▪ Group B
+              18 Apr 93 @ Casablanca      Morocco          1-0 Senegal
+              04 Jul 93 @ Lusaka          Zambia           2-1 Morocco
+              17 Jul 93 @ Dakar           Senegal          1-3 Morocco
+              07 Aug 93 @ Dakar           Senegal          0-0 Zambia
+              26 Sep 93 @ Lusaka          Zambia           4-0 Senegal
+              10 Oct 93 @ Casablanca      Morocco          1-0 Zambia
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Morocco          4  3  0  1   6- 3   6
+2.Zambia           4  2  1  1   6- 2   5
+3.Senegal          4  0  1  3   1- 8   1 -->
+
+
+
+
+              ▪▪ Group C
+              18 Apr 93 @ Yaoundé         Cameroon         3-1 Guinea
+              02 May 93 @ Conakry         Guinea           3-0 Zimbabwe
+              04 Jul 93 @ Harare          Zimbabwe         1-0 Cameroon
+              18 Jul 93 @ Conakry         Guinea           0-1 Cameroon
+              26 Sep 93 @ Harare          Zimbabwe         1-0 Guinea
+              10 Oct 93 @ Yaoundé         Cameroon         3-1 Zimbabwe
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Cameroon         4  3  0  1   7- 3   6
+2.Zimbabwe         4  2  0  2   3- 6   4
+3.Guinea           4  1  0  3   4- 5   2 -->
+
+
+
+
+#              QUALIFIED FROM AFRICA:
+#              Nigeria, Morocco and Cameroon.
+
+
+==Asia==
+
+▪ AFC First round
+
+              ▪▪ Group A
+              22 May 93 @ Amman           Jordan           1-1 Yemen
+              22 May 93 @ Amman           Pakistan         0-5 China
+              24 May 93 @ Amman           Jordan           1-1 Iraq
+              24 May 93 @ Amman           Yemen            5-1 Pakistan
+              26 May 93 @ Amman           Jordan           0-3 China
+              26 May 93 @ Amman           Yemen            1-6 Iraq
+              28 May 93 @ Amman           Pakistan         0-8 Iraq
+              28 May 93 @ Amman           Yemen            1-0 China
+              30 May 93 @ Amman           Jordan           3-1 Pakistan
+              30 May 93 @ Amman           Iraq             1-0 China
+              12 Jun 93 @ Chengdu         Yemen            1-1 Jordan
+              12 Jun 93 @ Chengdu         China            3-0 Pakistan
+              14 Jun 93 @ Chengdu         Iraq             4-0 Jordan
+              14 Jun 93 @ Chengdu         Pakistan         0-3 Yemen
+              16 Jun 93 @ Chengdu         China            4-1 Jordan
+              16 Jun 93 @ Chengdu         Iraq             3-0 Yemen
+              18 Jun 93 @ Chengdu         Iraq             4-0 Pakistan
+              18 Jun 93 @ Chengdu         China            1-0 Yemen
+              20 Jun 93 @ Chengdu         Pakistan         0-5 Jordan
+              20 Jun 93 @ Chengdu         China            2-1 Iraq
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Iraq             8  6  1  1  28- 4  13
+2.China            8  6  0  2  18- 4  12
+3.Yemen            8  3  2  3  12-13   8
+4.Jordan           8  2  3  3  12-15   7
+5.Pakistan         8  0  0  8   2-36   0 -->
+
+
+
+
+              ▪▪ Group B
+              # Myanmar withdrew.
+              23 Jun 93 @ Tehran          Iran             0-0 Oman
+              23 Jun 93 @ Tehran          Taiwan           0-2 Syria
+              25 Jun 93 @ Tehran          Oman             0-0 Syria
+              25 Jun 93 @ Tehran          Iran             6-0 Taiwan
+              27 Jun 93 @ Tehran          Oman             2-1 Taiwan
+              27 Jun 93 @ Tehran          Iran             1-1 Syria
+              02 Jul 93 @ Damascus        Oman             0-1 Iran
+              02 Jul 93 @ Damascus        Syria            8-1 Taiwan
+              04 Jul 93 @ Damascus        Syria            2-1 Oman
+              04 Jul 93 @ Damascus        Taiwan           0-6 Iran
+              17 Jul 93 @ Damascus        Taiwan           1-7 Oman
+              17 Jul 93 @ Damascus        Syria            1-1 Iran
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Iran             6  3  3  0  15- 2   9
+2.Syria            6  3  3  0  14- 4   9
+3.Oman             6  2  2  2  10- 5   6
+4.Taiwan           6  0  0  6   3-31   0 -->
+
+
+
+
+              ▪▪ Group C
+              09 Apr 93 @ Doha            Qatar            3-1 Indonesia
+              09 Apr 93 @ Doha            North Korea      3-0 Vietnam
+              11 Apr 93 @ Doha            North Korea      2-1 Singapore
+              11 Apr 93 @ Doha            Qatar            4-0 Vietnam
+              13 Apr 93 @ Doha            North Korea      4-0 Indonesia
+              13 Apr 93 @ Doha            Vietnam          2-3 Singapore
+              16 Apr 93 @ Doha            Qatar            4-1 Singapore
+              16 Apr 93 @ Doha            Vietnam          1-0 Indonesia
+              18 Apr 93 @ Doha            Indonesia        0-2 Singapore
+              18 Apr 93 @ Doha            Qatar            1-2 North Korea
+              24 Apr 93 @ Singapore       Indonesia        1-4 Qatar
+              24 Apr 93 @ Singapore       Vietnam          0-1 North Korea
+              26 Apr 93 @ Singapore       Singapore        1-3 North Korea
+              26 Apr 93 @ Singapore       Vietnam          0-4 Qatar
+              28 Apr 93 @ Singapore       Indonesia        1-2 North Korea
+              28 Apr 93 @ Singapore       Singapore        1-0 Vietnam
+              30 Apr 93 @ Singapore       Singapore        1-0 Qatar
+              30 Apr 93 @ Singapore       Indonesia        2-1 Vietnam
+              02 May 93 @ Singapore       Singapore        2-1 Indonesia
+              02 May 93 @ Singapore       North Korea      2-2 Qatar
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.North Korea      8  7  1  0  19- 6  15
+2.Qatar            8  5  1  2  22- 8  11
+3.Singapore        8  5  0  3  12-12  10
+4.Indonesia        8  1  0  7   6-19   2
+5.Vietnam          8  1  0  7   4-18   2 -->
+
+
+
+
+              ▪▪ Group D
+              07 May 93 @ Beirut          Lebanon          2-2 India
+              07 May 93 @ Beirut          Hongkong         2-1 Bahrain
+              09 May 93 @ Beirut          Bahrain          0-0 South Korea
+              09 May 93 @ Beirut          Lebanon          2-2 Hongkong
+              11 May 93 @ Beirut          India            1-2 Hongkong
+              11 May 93 @ Beirut          Lebanon          0-1 South Korea
+              13 May 93 @ Beirut          Lebanon          0-0 Bahrain
+              13 May 93 @ Beirut          India            0-3 South Korea
+              15 May 93 @ Beirut          Hongkong         0-3 South Korea
+              15 May 93 @ Beirut          Bahrain          2-1 India
+              05 Jun 93 @ Seoul           South Korea      4-1 Hongkong
+              05 Jun 93 @ Seoul           Bahrain          0-0 Lebanon
+              07 Jun 93 @ Seoul           India            0-3 Bahrain
+              07 Jun 93 @ Seoul           South Korea      2-0 Lebanon
+              09 Jun 93 @ Seoul           Hongkong         1-2 Lebanon
+              09 Jun 93 @ Seoul           South Korea      7-0 India
+              11 Jun 93 @ Seoul           India            1-2 Lebanon
+              11 Jun 93 @ Seoul           Bahrain          3-0 Hongkong
+              13 Jun 93 @ Seoul           South Korea      3-0 Bahrain
+              13 Jun 93 @ Seoul           Hongkong         1-3 India
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.South Korea      8  7  1  0  23- 1  15
+2.Bahrain          8  3  3  2   9- 6   9
+3.Lebanon          8  2  4  2   8- 9   8
+4.Hongkong         8  2  1  5   9-19   5
+5.India            8  1  1  6   8-22   3  -->
+
+
+
+
+              ▪▪ Group E
+              01 May 93 @ Kuala Lumpur    Macao            0-6  Saudi Arabia
+              01 May 93 @ Kuala Lumpur    Malaysia         1-1  Kuwait
+              03 May 93 @ Kuala Lumpur    Macao            1-10 Kuwait
+              03 May 93 @ Kuala Lumpur    Malaysia         1-1  Saudi Arabia
+              05 May 93 @ Kuala Lumpur    Kuwait           0-0  Saudi Arabia
+              05 May 93 @ Kuala Lumpur    Malaysia         9-0  Macao
+              14 May 93 @ Riyadh          Kuwait           2-0  Malaysia
+              14 May 93 @ Riyadh          Saudi Arabia     8-0  Macao
+              16 May 93 @ Riyadh          Kuwait           8-0  Macao
+              16 May 93 @ Riyadh          Saudi Arabia     3-0  Malaysia
+              18 May 93 @ Riyadh          Macao            0-5  Malaysia
+              18 May 93 @ Riyadh          Saudi Arabia     2-0  Kuwait
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Saudi Arabia     6  4  2  0  20- 1  10
+2.Kuwait           6  3  2  1  21- 4   8
+3.Malaysia         6  2  2  2  16- 7   6
+4.Macao            6  0  0  6   1-46   0  -->
+
+
+
+
+              ▪▪ Group F
+              08 Apr 93 @ Tokyo           Japan            1-0 Thailand
+              08 Apr 93 @ Tokyo           Sri Lanka        0-4 UAE
+              11 Apr 93 @ Tokyo           Japan            8-0 Bangladesh
+              11 Apr 93 @ Tokyo           Thailand         1-0 Sri Lanka
+              13 Apr 93 @ Tokyo           Sri Lanka        0-1 Bangladesh
+              13 Apr 93 @ Tokyo           Thailand         0-1 UAE
+              15 Apr 93 @ Tokyo           Japan            5-0 Sri Lanka
+              15 Apr 93 @ Tokyo           Bangladesh       0-1 UAE
+              18 Apr 93 @ Tokyo           Japan            2-0 UAE
+              18 Apr 93 @ Tokyo           Thailand         4-1 Bangladesh
+              28 Apr 93 @ Dubai           Thailand         0-1 Japan
+              28 Apr 93 @ Dubai           UAE              3-0 Sri Lanka   
+              30 Apr 93 @ Dubai           Bangladesh       1-4 Japan
+              30 Apr 93 @ Dubai           UAE              2-1 Thailand
+              03 May 93 @ Dubai           UAE              7-0 Bangladesh
+              03 May 93 @ Dubai           Sri Lanka        0-3 Thailand
+              05 May 93 @ Dubai           Bangladesh       1-4 Thailand
+              05 May 93 @ Dubai           Sri Lanka        0-6 Japan
+              07 May 93 @ Dubai           Bangladesh       3-0 Sri Lanka
+              07 May 93 @ Dubai           UAE              1-1 Japan
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Japan            8  7  1  0  28- 2  15
+2.UAE              8  6  1  1  19- 4  13
+3.Thailand         8  4  0  4  13- 7   8
+4.Bangladesh       8  2  0  6   7-28   4
+5.Sri Lanka        8  0  0  8   0-26   0  -->
+
+
+
+
+▪ AFC Final round
+
+              15 Oct 93 @ Doha            North Korea      3-2 Iraq
+              15 Oct 93 @ Doha            Saudi Arabia     0-0 Japan
+              16 Oct 93 @ Doha            Iran             0-3 South Korea
+              18 Oct 93 @ Doha            North Korea      1-2 Saudi Arabia
+              18 Oct 93 @ Doha            Japan            1-2 Iran
+              19 Oct 93 @ Doha            Iraq             2-2 South Korea
+              21 Oct 93 @ Doha            North Korea      0-3 Japan
+              22 Oct 93 @ Doha            Iran             1-2 Iraq
+              22 Oct 93 @ Doha            South Korea      1-1 Saudi Arabia
+              24 Oct 93 @ Doha            Iraq             1-1 Saudi Arabia
+              25 Oct 93 @ Doha            Japan            1-0 South Korea
+              25 Oct 93 @ Doha            Iran             2-1 North Korea
+              28 Oct 93 @ Doha            South Korea      3-0 North Korea
+              28 Oct 93 @ Doha            Saudi Arabia     4-3 Iran
+              28 Oct 93 @ Doha            Iraq             2-2 Japan
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Saudi Arabia     5  2  3  0   8- 6   7
+2.South Korea      5  2  2  1   9- 4   6
+3.Japan            5  2  2  1   7- 4   6
+4.Iraq             5  1  3  1   9- 9   5
+5.Iran             5  2  0  3   8-11   4
+6.North Korea      5  1  0  4   5-12   2 -->
+
+
+
+
+#              QUALIFIED FROM ASIA:
+#              Saudi Arabia and South Korea.
+
+
+
+
+==Oceania==
+
+▪ OFC First round
+
+              ▪▪ Sub-group A
+              11 Jul 92 @ Honiara         Solomon Islands  1-1 Tahiti
+              04 Sep 92 @ Honiara         Solomon Islands  1-2 Australia
+              11 Sep 92 @ Papeete         Tahiti           0-3 Australia
+              20 Sep 92 @ Brisbane        Australia        2-0 Tahiti     
+              26 Sep 92 @ Newcastle       Australia        6-1 Solomon Islands
+              09 Oct 92 @ Papeete         Tahiti           4-2 Solomon Islands
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.Australia        4  4  0  0  13- 2   8
+2.Tahiti           4  1  1  2   5- 8   3
+3.Solomon Islands  4  0  1  3   5-13   1 -->
+
+
+
+              ▪▪ Sub-group B
+              07 Jun 92 @ Christchurch    New Zealand      3-0 Fiji
+              27 Jun 92 @ Port Vila       Vanuatu          1-4 New Zealand
+              01 Jul 92 @ Auckland        New Zealand      8-0 Vanuatu
+              12 Sep 92 @ Suva            Fiji             3-0 Vanuatu    
+              19 Sep 92 @ Suva            Fiji             0-0 New Zealand
+              26 Sep 92 @ Port Vila       Vanuatu          0-3 Fiji  
+
+<!--
+                   P  W  D  L   Gls  Pts
+1.New Zealand      4  3  1  0  15- 1   7
+2.Fiji             4  2  1  1   6- 3   5
+3.Vanuatu          4  0  0  4   1-18   0 -->
+
+
+
+▪ OFC Final round
+
+              30 May 93 @ Auckland        New Zealand      0-1 Australia
+              06 Jun 93 @ Melbourne       Australia        3-0 New Zealand
+              
+
+
+## todo/check - move to playoffs ????
+▪ Intercontinental Play-off
+      
+              ## Australia required to play off with runner up of North 
+              ## and Central America.
+
+              31 Jul 93 @ Edmonton        Canada           2-1 Australia
+              15 Aug 93 @ Sydney          Australia        2-1 Canada 
+              # (Australia won 4-1 on penalties)
+
+              ## Australia required to play off with runner-up of South 
+              ## America Group 1 for one spot in the World Cup.
+
+              31 Oct 93 @ Sydney          Australia        1-1 Argentina
+              17 Nov 93 @ Buenos Aires    Argentina        1-0 Australia
+
+
+
+              ## QUALIFIED FROM OCEANIA:
+              ## None
+

@@ -1,0 +1,182 @@
+##
+#  converted from the planet world cup page/style to Football.TXT
+#    for source, see https://www.planetworldcup.com/CUPS/2014/wc14index.html
+
+
+
+=World Cup 2014=
+
+▪ GROUP A
+
+Jun 12  @ Sao Paulo        Brazil          v Croatia           3-1
+Jun 13  @ Natal            Mexico          v Cameroon          1-0
+Jun 17  @ Fortaleza        Brazil          v Mexico            0-0
+Jun 18  @ Manaus           Cameroon        v Croatia           0-4
+Jun 23  @ Brasilia         Cameroon        v Brazil            1-4
+Jun 23  @ Recife           Croatia         v Mexico            1-3
+
+<!--
+           P  W  D  L   Gls  Pts
+BRAZIL     3  2  1  0   7-2    7
+MEXICO     3  2  1  0   4-1    7
+Croatia    3  1  0  2   6-6    3
+Cameroon   3  0  0  3   1-9    0 -->
+
+
+▪ GROUP B
+
+Jun 13  @ Salvador         Spain           v Netherlands       1-5
+Jun 13  @ Cuiaba           Chile           v Australia         3-1
+Jun 18  @ Porto Alegre     Australia       v Netherlands       2-3
+Jun 18  @ Rio de Janeiro   Spain           v Chile             0-2
+Jun 23  @ Curitiba         Australia       v Spain             0-3
+Jun 23  @ Sao Paulo        Netherlands     v Chile             2-0
+
+<!--
+              P  W  D  L   Gls  Pts
+NETHERLANDS   3  3  0  0  10-3    9
+CHILE         3  2  0  1   5-3    6
+Spain         3  1  0  2   4-7    3
+Australia     3  0  0  3   3-9    0  -->
+
+
+
+▪ GROUP C
+
+Jun 14  @ Belo Horizonte   Colombia        v Greece            3-0
+Jun 14  @ Recife           Côte d'Ivoire   v Japan             2-1
+Jun 19  @ Brasilia         Colombia        v Côte d'Ivoire     2-1
+Jun 19  @ Natal            Japan           v Greece            0-0
+Jun 24  @ Cuiaba           Japan           v Colombia          1-4
+Jun 24  @ Fortaleza        Greece          v Côte d'Ivoire     2-1
+
+<!--
+               P  W  D  L   Gls  Pts
+COLOMBIA       3  3  0  0   9-2    9
+GREECE         3  1  1  1   2-4    4
+Côte d'Ivoire  3  1  0  2   4-5    3
+Japan          3  0  1  2   2-6    1  -->
+
+
+
+▪ GROUP D
+
+Jun 14  @ Fortaleza        Uruguay         v Costa Rica        1-3
+Jun 14  @ Manaus           England         v Italy             1-2
+Jun 19  @ Sao Paulo        Uruguay         v England           2-1
+Jun 20  @ Recife           Italy           v Costa Rica        0-1
+Jun 24  @ Natal            Italy           v Uruguay           0-1
+Jun 24  @ Belo Horizonte   Costa Rica      v England           0-0
+
+<!--
+              P  W  D  L   Gls  Pts
+COSTA RICA    3  2  1  0   4-1    7
+URUGUAY       3  2  0  1   4-4    6
+Italy         3  1  0  2   2-3    3
+England       3  0  1  2   2-4    1  -->
+
+
+
+▪ GROUP E
+
+Jun 15  @ Brasilia         Switzerland     v Ecuador           2-1
+Jun 15  @ Porto Alegre     France          v Honduras          3-0
+Jun 20  @ Salvador         Switzerland     v France            2-5
+Jun 20  @ Curitiba         Honduras        v Ecuador           1-2
+Jun 25  @ Manaus           Honduras        v Switzerland       0-3
+Jun 25  @ Rio de Janeiro   Ecuador         v France            0-0
+
+<!--
+             P  W  D  L   Gls  Pts
+FRANCE       3  2  1  0   8-2    7
+SWITZERLAND  3  2  0  1   7-6    6
+Ecuador      3  1  1  1   3-3    4
+Honduras     3  0  0  3   1-8    0 -->
+
+
+
+▪ GROUP F
+
+Jun 15  @ Rio de Janeiro   Argentina       v Bosnia-Herzegov.  2-1
+Jun 16  @ Curitiba         Iran            v Nigeria           0-0
+Jun 21  @ Belo Horizonte   Argentina       v Iran              1-0
+Jun 21  @ Cuiaba           Nigeria         v Bosnia-Herzegov.  1-0
+Jun 25  @ Porto Alegre     Nigeria         v Argentina         2-3
+Jun 25  @ Salvador         Bosnia-Herzego. v Iran              3-1
+
+<!--
+                   P  W  D  L   Gls  Pts
+ARGENTINA          3  3  0  0   6-3    9
+NIGERIA            3  1  1  1   3-3    4
+Bosnia-Herzegovina 3  1  0  2   4-4    3
+Iran               3  0  1  2   1-4    1 -->
+
+
+
+▪ GROUP G
+
+Jun 16  @ Salvador         Germany         v Portugal          4-0
+Jun 16  @ Natal            Ghana           v United States     1-2
+Jun 21  @ Fortaleza        Germany         v Ghana             2-2
+Jun 22  @ Manaus           United States   v Portugal          2-2
+Jun 26  @ Recife           United States   v Germany           0-1
+Jun 26  @ Brasilia         Portugal        v Ghana             2-1
+
+<!--
+               P  W  D  L   Gls  Pts
+GERMANY        3  2  1  0   7-2    7
+UNITED STATES  3  1  1  1   4-4    4
+Portugal       3  1  1  1   4-7    4
+Ghana          3  0  1  2   4-6    1  -->
+
+
+
+▪ GROUP H
+
+Jun 17  @ Belo Horizonte   Belgium         v Algeria           2-1
+Jun 17  @ Cuiaba           Russia          v South Korea       1-1
+Jun 22  @ Rio de Janeiro   Belgium         v Russia            1-0
+Jun 22  @ Porto Alegre     South Korea     v Algeria           2-4
+Jun 26  @ Sao Paulo        South Korea     v Belgium           0-1
+Jun 26  @ Curitiba         Algeria         v Russia            1-1
+
+<!--
+               P  W  D  L   Gls  Pts
+BELGIUM        3  3  0  0   4-1    9
+ALGERIA        3  1  1  1   6-5    4
+Russia         3  0  2  1   2-3    2
+South Korea    3  0  1  2   3-6    1 -->
+
+
+
+
+▪ SECOND ROUND
+
+Jun 28  @ Belo Horizonte   Brazil          v Chile             1-1 aet, 3-2 pen
+Jun 28  @ Rio de Janeiro   Colombia        v Uruguay           2-0
+Jun 29  @ Fortaleza        Netherlands     v Mexico            2-1
+Jun 29  @ Recife           Costa Rica      v Greece            1-1 aet, 5-3 pen
+Jun 30  @ Brasilia         France          v Nigeria           2-0
+Jun 30  @ Porto Alegre     Germany         v Algeria           2-1 aet
+Jul 01  @ Sao Paulo        Argentina       v Switzerland       1-0 aet
+Jul 01  @ Salvador         Belgium         v United States     2-1 aet
+
+▪ QUARTERFINALS
+
+Jul 04  @ Fortaleza        Brazil          v Colombia          2-1
+Jul 04  @ Rio de Janeiro   France          v Germany           0-1
+Jul 05  @ Salvador         Netherlands     v Costa Rica        0-0 aet, 4-3 pen
+Jul 05  @ Brasilia         Argentina       v Belgium           1-0
+
+▪ SEMIFINALS
+
+Jul 08  @ Belo Horizonte   Brazil          v Germany           1-7
+Jul 09  @ Sao Paulo        Netherlands     v Argentina         0-0 aet, 2-4 pen
+
+▪ 3rd/4th PLACE PLAY-OFF
+
+Jul 12  @ Brasilia         Brazil          v Netherlands       0-3
+
+▪ WORLD CUP FINAL
+
+Jul 13  @ Rio de Janeiro   Germany         v Argentina         1-0 aet
