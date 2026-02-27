@@ -21,15 +21,15 @@
 
 =World Cup Qualifying=
 
-==Europe==
+==Europe (UEFA)==
 
 ▪ Group A
-<!--
+
  1.SERBIA        8  6  2  0 18- 9 20
  2.Portugal      8  5  2  1 17- 6 17  Playoff 
  3.Ireland       8  2  3  3 11- 8  9
  4.Luxembourg    8  3  0  5  8-18  9
- 5.Azerbaijan    8  0  1  7  5-18  1 -->
+ 5.Azerbaijan    8  0  1  7  5-18  1 
 
 24.3.21 @ Torino          Portugal      1-0 Azerbaijan
 24.3.21 @ Beograd         Serbia        3-2 Ireland
@@ -53,12 +53,12 @@
 14.11.21 @ Lisboa          Portugal      1-2 Serbia
 
 ▪ Group B
-<!--
+
  1.SPAIN         8  6  1  1 15- 5 19 
  2.Sweden        8  5  0  3 12- 6 15  Playoff
  3.Greece        8  2  4  2  8- 8 10 
  4.Georgia       8  2  1  5  6- 12 7
- 5.Kosovo        8  1  2  5  5- 15 5  -->
+ 5.Kosovo        8  1  2  5  5- 15 5  
 
 25.3.21 @ Granada         Spain         1-1 Greece
 25.3.21 @ Solna           Sweden        1-0 Georgia
@@ -82,12 +82,12 @@
 14.11.21 @ Sevilla         Spain         1-0 Sweden
 
 ▪ Group C
-<!--
+
  1.SWITZERLAND   8  5  3  0 15- 2 18 
  2.Italy         8  4  4  0 13- 2 16  Playoff
  3.N. Ireland    8  2  3  3  6- 7  9 
  4.Bulgaria      8  2  2  4  6-14  8
- 5.Lithuania     8  1  0  7  4-19  3 -->
+ 5.Lithuania     8  1  0  7  4-19  3 
 
 25.3.21 @ Sofia           Bulgaria      1-3 Switzerland
 25.3.21 @ Parma           Italy         2-0 Northern Ireland
@@ -111,12 +111,12 @@
 15.11.21 @ Luzern          Switzerland   4-0 Bulgaria
 
 ▪ Group D
-<!--
+
  1.FRANCE        8  5  3  0 18- 3 18
  2.Ukraine       8  2  6  0 11- 8 12  Playoff
  3.Finland       8  3  2  3 10-10 11
  4.Bosnia Herz.  8  1  4  3  9-12  7
- 5.Kazakhstan    8  0  3  5  5-20  3 -->
+ 5.Kazakhstan    8  0  3  5  5-20  3 
 
 24.3.21 @ Helsinki        Finland       2-2 Bosnia Herzegovina
 24.3.21 @ Saint-Denis     France        1-1 Ukraine
@@ -140,12 +140,12 @@
 16.11.21 @ Helsinki        Finland       0-2 France
 
 ▪ Group E
-<!--
+
  1.BELGIUM       8  6  2  0 25- 6 20 
  2.Wales         8  4  3  1 14- 9 15  Playoff
  3.Czech Rep.    8  4  2  2 14- 9 14  Playoff via Nations League
  4.Estonia       8  1  1  6  9-21  4 
- 5.Belarus       8  1  0  7  7-24  3  -->
+ 5.Belarus       8  1  0  7  7-24  3  
 
 24.3.21 @ Leuven          Belgium       3-1 Wales
 24.3.21 @ Lublin          Estonia       2-6 Czech Republic
@@ -169,13 +169,13 @@
 16.11.21 @ Cardiff         Wales         1-1 Belgium
 
 ▪ Group F
-<!--
+
  1.DENMARK      10  9  0  1 30- 3 27
  2.Scotland     10  7  2  1 17- 7 23  Playoff
  3.Israel       10  5  1  4 23-21 16 
  4.Austria      10  5  1  4 19-17 16  Playoff via Nations League 
  5.Faroe Isl.   10  1  1  8  7-23  4 
- 6.Moldova      10  0  1  9  5-30  1  -->
+ 6.Moldova      10  0  1  9  5-30  1  
 
 25.3.21 @ Tel Aviv        Israel        0-2 Denmark
 25.3.21 @ Chisinau        Moldova       1-1 Faroe Islands
@@ -209,13 +209,13 @@
 15.11.21 @ Glasgow         Scotland      2-0 Denmark
 
 ▪ Group G
-<!-- 
+
  1.NETHERLANDS  10  7  2  1 33- 8 23
  2.Turkey       10  6  3  1 27-16 21  Playoff
  3.Norway       10  5  3  2 15- 8 18 
  4.Montenegro   10  3  3  4 14-15 12
  5.Latvia       10  2  3  5 11-14  9
- 6.Gibraltar    10  0  0 10  4-43  0 -->
+ 6.Gibraltar    10  0  0 10  4-43  0 
 
 24.3.21 @ Istanbul        Turkey        4-2 Netherlands
 24.3.21 @ Gibraltar       Gibraltar     0-3 Norway
@@ -249,13 +249,13 @@
 16.11.21 @ Rotterdam       Netherlands   2-0 Norway
 
 ▪ Group H
-<!--
+
  1.CROATIA      10  7  2  1 21- 4 23
  2.Russia       10  7  1  2 19- 6 22  Playoff 
  3.Slovakia     10  3  5  2 17-10 14
  4.Slovenia     10  4  2  4 13-12 14
  5.Cyprus       10  1  2  7  4-21  5 
- 6.Malta        10  1  2  7  9-30  5  -->
+ 6.Malta        10  1  2  7  9-30  5  
 
 24.3.21 @ Nicosia         Cyprus        0-0 Slovakia
 24.3.21 @ Valletta        Malta         1-3 Russia
@@ -289,13 +289,13 @@
 14.11.21 @ Ljubljana       Slovenia      2-1 Cyprus
 
 ▪ Group I
-<!--
+
  1.ENGLAND      10  8  2  0 39- 3 26
  2.Poland       10  6  2  2 30-11 20  Playoff 
  3.Albania      10  6  0  4 12-12 18
  4.Hungary      10  5  2  3 19-13 17 
  5.Andorra      10  2  0  8  8-24  6 
- 6.San Marino   10  0  0 10  1-46  0 -->
+ 6.San Marino   10  0  0 10  1-46  0 
 
 25.3.21 @ Andorra la V.   Andorra       0-1 Albania
 25.3.21 @ London          England       5-0 San Marino
@@ -329,13 +329,13 @@
 15.11.21 @ Serravalle      San Marino   0-10 England
 
 ▪ Group J
-<!--
+
  1.GERMANY      10  9  0  1 36- 4 27 
  2.N. Macedonia 10  5  3  2 23-11 18  Playoff 
  3.Romania      10  5  2  3 13- 8 17 
  4.Armenia      10  3  3  4  9-20 12
  5.Iceland      10  2  3  5 12-18  9
- 6.Liechtenst.  10  0  1  9  2-34  1 -->
+ 6.Liechtenst.  10  0  1  9  2-34  1 
 
 25.3.21 @ Duisburg        Germany       3-0 Iceland
 25.3.21 @ Vaduz           Liechtenstein 0-1 Armenia
@@ -396,15 +396,14 @@
 ▪▪▪ Final
 29.3.22 @ Oporto         Portugal      2-0 North Macedonia
 
-## NB: Wales, Poland and Portugal qualified
+NB: Wales, Poland and Portugal qualified
 
 
 
-==South America==
+==South America (CONMEBOL)==
 
-## NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
+NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
 
-<!--
  1.BRAZIL       17 14  3  0 40- 5 45 
  2.ARGENTINA    17 11  6  0 27- 8 39 
  3.URUGUAY      18  8  4  6 22-22 28 
@@ -414,7 +413,7 @@
  7.Chile        18  5  4  9 19-26 19 
  8.Paraguay     18  3  7  8 12-26 16 
  9.Bolivia      18  4  3 11 23-42 15
-10.Venezuela    18  3  1 14 14-34 10 -->
+10.Venezuela    18  3  1 14 14-34 10 
 
 
 ## todo/fix - add round here - why? why not????
@@ -517,7 +516,7 @@
 
 
 
-==Africa==
+==Africa (CAF)==
 
 ▪First Round
 ▪▪First Legs
@@ -554,11 +553,11 @@
 
 ▪ Second Round
 ▪▪ Group A
-<!--
+
  1.ALGERIA       6  4  2  0 25- 4 14
  2.Burkina Faso  6  3  3  0 12- 4 12
  3.Niger         6  2  1  3 13-17  7
- 4.Djibouti      6  0  0  6  4-29  0  -->
+ 4.Djibouti      6  0  0  6  4-29  0  
 
  2.9.21 @ Marrakesh       Niger         0-2 Burkina Faso
  2.9.21 @ Blida           Algeria       8-0 Djibouti
@@ -574,11 +573,11 @@
 16.11.21 @ Blida           Algeria       2-2 Burkina Faso
 
 ▪▪ Group B
-<!--
+
  1.TUNISIA       6  4  1  1 11- 2 13
  2.Equatorial G. 6  3  2  1  6- 5 11
  3.Zambia        6  2  1  3  8- 9  7
- 4.Mauritania    6  0  2  4  2-11  2 -->
+ 4.Mauritania    6  0  2  4  2-11  2 
 
  3.9.21 @ Nouakchott      Mauritania    1-2 Zambia
  3.9.21 @ Tunis           Tunisia       3-0 Equatorial Guinea
@@ -594,11 +593,11 @@
 16.11.21 @ Nouakchott      Mauritania    1-1 Equatorial Guinea
 
 ▪▪ Group C
-<!-- 
+
  1.NIGERIA       6  4  1  1  9- 3 13
  2.Cape Verde    6  3  2  1  8- 6 11
  3.Liberia       6  2  0  4  5- 8  6
- 4.Centr.Afr. R. 6  1  1  4  4- 9  4 -->
+ 4.Centr.Afr. R. 6  1  1  4  4- 9  4 
 
  1.9.21 @ Douala          Centr.Afr. R. 1-1 Cape Verde
  3.9.21 @ Lagos           Nigeria       2-0 Liberia
@@ -614,11 +613,11 @@
 16.11.21 @ Tanger          Liberia       3-1 Central African Republic
 
 ▪▪ Group D
-<!--
+
  1.CAMEROON      6  5  0  1 12- 3 15
  2.Ivory Coast   6  4  1  1 10- 3 13
  3.Mozambique    6  1  1  4  2- 8  4
- 4.Malawi        6  1  0  5  2-12  3 -->
+ 4.Malawi        6  1  0  5  2-12  3 
 
  3.9.21 @ Maputo          Mozambique    0-0 Ivory Coast
  3.9.21 @ Yaoundé         Cameroon      2-0 Malawi
@@ -634,11 +633,11 @@
 16.11.21 @ Douala          Cameroon      1-0 Ivory Coast
 
 ▪▪ Group E
-<!--
+
  1.MALI          6  5  1  0 11- 0 16
  2.Uganda        6  2  3  1  3- 2  9
  3.Kenya         6  1  3  2  4- 9  6
- 4.Rwanda        6  0  1  5  2- 9  1   -->
+ 4.Rwanda        6  0  1  5  2- 9  1   
 
  1.9.21 @ Agadir          Mali          1-0 Rwanda
  2.9.21 @ Nairobi         Kenya         0-0 Uganda
@@ -654,11 +653,11 @@
 15.11.21 @ Nairobi         Kenya         2-1 Rwanda
 
 ▪▪ Group F
-<!--
+
  1.EGYPT         6  4  2  0 10- 4 14
  2.Gabon         6  2  1  3  7- 8  7
  3.Libya         6  2  1  3  4- 7  7
- 4.Angola        6  1  2  3  6- 8  5  -->
+ 4.Angola        6  1  2  3  6- 8  5  
 
  1.9.21 @ Cairo           Egypt         1-0 Angola
  1.9.21 @ Benghazi        Libya         2-1 Gabon
@@ -674,11 +673,11 @@
 16.11.21 @ Benghazi        Libya         1-1 Angola
 
 ▪▪ Group G
-<!--
+
  1.GHANA         6  4  1  1  7- 3 13
  2.South Africa  6  4  1  1  6- 2 13
  3.Ethiopia      6  1  2  3  4- 7  5
- 4.Zimbabwe      6  0  2  4  2- 7  2 -->
+ 4.Zimbabwe      6  0  2  4  2- 7  2 
 
  3.9.21 @ Harare          Zimbabwe      0-0 South Africa
  3.9.21 @ Cape Coast      Ghana         1-0 Ethiopia
@@ -694,11 +693,11 @@
 14.11.21 @ Cape Coast      Ghana         1-0 South Africa
 
 ▪▪ Group H
-<!--
+
  1.SENEGAL       6  5  1  0 15- 4 16
  2.Togo          6  2  2  2  5- 6  8
  3.Namibia       6  1  2  3  5-10  5
- 4.Congo         6  0  3  3  5-10  3  -->
+ 4.Congo         6  0  3  3  5-10  3  
 
  1.9.21 @ Thiès           Senegal       2-0 Togo
  2.9.21 @ Johannesburg    Namibia       1-1 Congo
@@ -714,11 +713,11 @@
 15.11.21 @ Joahhnesburg    Namibia       0-1 Togo
 
 ▪▪ Group I
-<!-- 
+
  1.MOROCCO       6  6  0  0 20- 1 18
  2.Guinea-Bis.   6  1  3  2  5-11  6
  3.Guinea        6  0  4  2  5-11  4
- 4.Sudan         6  0  3  3  5-12  3 -->
+ 4.Sudan         6  0  3  3  5-12  3 
 
  1.9.21 @ Nouakchott      Guinea-Bissau 1-1 Guinea
  2.9.21 @ Rabat           Morocco       2-0 Sudan
@@ -734,11 +733,11 @@
 16.11.21 @ Casablanca      Morocco       3-0 Guinea
 
 ▪▪ Group J
-<!--
+
  1.CONGO-KINSH.  6  3  2  1  9- 3 11
  2.Benin         6  3  1  2  5- 4 10
  3.Tanzania      6  2  2  2  6- 8  8
- 4.Madagascar    6  1  1  4  4- 9  4 -->
+ 4.Madagascar    6  1  1  4  4- 9  4 
 
  2.9.21 @ Lubumbashi      Congo-Kinsh.  1-1 Tanzania
  2.9.21 @ Antananarivo    Madagascar    0-1 Benin
@@ -768,15 +767,15 @@
 29.3.22 @ Casablanca      Morocco       4-1 Congo-Kinshasa
 29.3.22 @ Tunis           Tunisia       0-0 Mali
 
-## NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
+NB: Senegal, Cameroon, Ghana, Morocco and Tunisia qualified
 
 
-==Asia==
+==Asia (AFC)==
 
 ▪ First Round
 
-## NB: the first stage also served as qualifying stage for the 2023 Asian Cup
-##     (with the losers being eliminated)
+NB: the first stage also served as qualifying stage for the 2023 Asian Cup
+    (with the losers being eliminated)
 
 ▪▪ First Legs
  6.6.19 @ Ulaanbaatar     Mongolia      2-0 Brunei
@@ -796,19 +795,19 @@
 
 ▪ Second Round
 
-## NB: the second stage also served as qualifying stage for the 2023 Asian Cup
-##    (with the group winners and five best runners-up qualifying for the final tournament and the
-##    other teams entering the qualifying tournament at various stages (remaining runners-up, third
-##    placed teams, fourth placed teams and three best fifth placed teams at group stage, 
-##    the others entering a playoff round)
+NB: the second stage also served as qualifying stage for the 2023 Asian Cup
+    (with the group winners and five best runners-up qualifying for the final tournament and the
+    other teams entering the qualifying tournament at various stages (remaining runners-up, third
+    placed teams, fourth placed teams and three best fifth placed teams at group stage, 
+    the others entering a playoff round)
 
 ▪▪ Group A
-<!--
+
  1.SYRIA         8  7  0  1 22- 7 21 
  2.CHINA         8  6  1  1 30- 3 19
  3.Philippines   8  3  2  3 12-11 11 
  4.Maldives      8  2  1  5  7-20  7
- 5.Guam          8  0  0  8  2-32  0 -->
+ 5.Guam          8  0  0  8  2-32  0 
 
  5.9.19 @ Dededo          Guam          0-1 Maldives
  5.9.19 @ Bacolod         Philippines   2-5 Syria
@@ -832,12 +831,12 @@
 15.6.20 @ Sharjah         China         3-1 Syria
 
 ▪▪ Group B
-<!--
+
  1.AUSTRALIA     8  8  0  0 28- 2 24
  2.Kuwait        8  4  2  2 19- 7 14
  3.Jordan        8  4  2  2 13- 3 14
  4.Nepal         8  2  0  6  4-22  6
- 5.Taiwan        8  0  0  8  4-34  0 -->
+ 5.Taiwan        8  0  0  8  4-34  0 
 
  5.9.19 @ Taipei          Taiwan        1-2 Jordan
  5.9.19 @ Kuwait City     Kuwait        7-0 Nepal
@@ -861,12 +860,12 @@
 15.6.20 @ Kuwait City     Taiwan        1-2 Kuwait
 
 ▪▪ Group C
-<!--
+
  1.IRAN          8  6  0  2 34- 4 18
  2.IRAQ          8  5  2  1 14- 4 17
  3.Bahrain       8  4  3  1 15- 4 15
  4.Hong Kong     8  1  2  5  4-13  5
- 5.Cambodia      8  0  1  7  2-44  1 -->
+ 5.Cambodia      8  0  1  7  2-44  1 
 
  5.9.19 @ Phnom Penh      Cambodia      1-1 Hong Kong
  5.9.19 @ Riffa           Bahrain       1-1 Iraq
@@ -890,12 +889,12 @@
 15.6.20 @ Riffa           Bahrain       4-0 Hong Kong
 
 ▪▪ Group D
-<!--
+
  1.SAUDI ARABIA  8  6  2  0 22- 4 20 
  2.Uzbekistan    8  5  0  3 18- 9 15 
  3.Palestine     8  3  1  4 10-10 10 
  4.Singapore     8  2  1  5  7-22  7
- 5.Yemen         8  1  2  5  6-18  5 -->
+ 5.Yemen         8  1  2  5  6-18  5 
 
  5.9.19 @ Singapore       Singapore     2-2 Yemen
  5.9.19 @ Al-Ram          Palestine     2-0 Uzbekistan
@@ -919,12 +918,12 @@
 15.6.20 @ Riyadh          Palestine     3-0 Yemen
 
 ▪▪ Group E
-<!--
+
  1.Qatar         8  7  1  0 18- 1 22  [played hors concours]
  2.OMAN          8  6  0  2 16- 6 18
  3.India         8  1  4  3  6- 7  7
  4.Afghanistan   8  1  3  4  5-15  6
- 5.Bangladesh    8  0  2  6  3-19  2  -->
+ 5.Bangladesh    8  0  2  6  3-19  2  
 
  5.9.19 @ Guwahati        India         1-2 Oman
  5.9.19 @ Doha            Qatar         6-0 Afghanistan
@@ -948,12 +947,12 @@
 15.6.20 @ Doha            Bangladesh    0-3 Oman
 
 ▪▪ Group F
-<!--
+
  1.JAPAN         8  8  0  0 46- 2 24 
  2.Tajikistan    8  4  1  3 14-12 13 
  3.Kyrgyzstan    8  3  1  4 19-12 10 
  4.Mongolia      8  2  0  6  3-27  6
- 5.Myanmar       8  2  0  6  6-35  6 -->
+ 5.Myanmar       8  2  0  6  6-35  6 
 
  5.9.19 @ Ulaanbaatar     Mongolia      1-0 Myanmar
  5.9.19 @ Dushanbe        Tajikistan    1-0 Kyrgyzstan
@@ -977,12 +976,12 @@
 15.6.20 @ Osaka           Tajikistan    4-0 Myanmar
 
 ▪▪ Group G
-<!--
+
  1.UA EMIRATES   8  6  0  2 23- 7 18
  2.VIETNAM       8  5  2  1 13- 5 17
  3.Malaysia      8  4  0  4 10-12 12
  4.Thailand      8  2  3  3  9- 9  9
- 5.Indonesia     8  0  1  7  5-27  1 -->
+ 5.Indonesia     8  0  1  7  5-27  1 
 
  5.9.19 @ Pathum Thani    Thailand      0-0 Vietnam
  5.9.19 @ Jakarta         Indonesia     2-3 Malaysia
@@ -1006,14 +1005,14 @@
 15.6.20 @ Dubai           Thailand      0-1 Malaysia
 
 ▪▪ Group H
-<!--
+
  1.SOUTH KOREA   6  5  1  0 22- 1 16  [0-0]
  2.LEBANON       6  3  1  2 11- 8 10  [0-2, 0-0]
  3.Turkmenistan  6  3  0  3  8-11  9  [3-1]
  4.Sri Lanka     6  0  0  6  2-23  0  [0-1]
- -.North Korea   withdrew after playing 5 matches due to safety concerns in
+ -.North Korea   withdrew after playing 5 matches due to safety concerns in \
                  connection with the Covid-19 pandemic; all results annulled
-NB: annulled results against North Korea between square brackets  -->
+NB: annulled results against North Korea between square brackets  
 
  5.9.19 @ Colombo         Sri Lanka     0-2 Turkmenistan
  5.9.19 @ Pyongyang       North Korea   2-0 Lebanon       [annulled]
@@ -1033,20 +1032,20 @@ NB: annulled results against North Korea between square brackets  -->
  9.6.20 @ Goyang          Sri Lanka     0-5 South Korea
 13.6.20 @ Goyang          South Korea   2-1 Lebanon
 
-## NB: Group winners and the five best runners-up teams qualified for third round.
-##    Qatar (first placed team) did not participate to third round.
-##    The same teams (including Qatar) qualified to 2023 Asian Cup.
+NB: Group winners and the five best runners-up teams qualified for third round.
+    Qatar (first placed team) did not participate to third round.
+    The same teams (including Qatar) qualified to 2023 Asian Cup.
 
 ▪ Third Round
 
 ▪▪ Group A
-<!--
+
  1.IRAN         10  8  1  1 15- 4 25 
  2.SOUTH KOREA  10  7  2  1 13- 3 23 
  3.UA Emirates  10  3  3  4  7- 7 12  Playoff
  4.Iraq         10  1  6  3  6-12  9 
  5.Syria        10  1  3  6  9-16  6
- 6.Lebanon      10  1  3  6  5-13  6  -->
+ 6.Lebanon      10  1  3  6  5-13  6  
 
  2.9.21 @ Seoul           South Korea   0-0 Iraq
  2.9.21 @ Tehran          Iran          1-0 Syria
@@ -1080,13 +1079,13 @@ NB: annulled results against North Korea between square brackets  -->
 29.3.22 @ Dubai           Syria         1-1 Iraq
 
 ▪▪ Group B
-<!--
+
  1.SAUDI ARABIA 10  7  2  1 12- 6 23
  2.JAPAN        10  7  1  2 12- 4 22
  3.Australia    10  4  3  3 15- 9 15  Playoff 
  4.Oman         10  4  2  4 11-10 14 
  5.China        10  1  3  6  9-19  6
- 6.Vietnam      10  1  1  8  8-19  4  -->
+ 6.Vietnam      10  1  1  8  8-19  4  
 
  2.9.21 @ Suita           Japan         0-1 Oman
  2.9.21 @ Doha            Australia     3-0 China
@@ -1123,15 +1122,15 @@ NB: annulled results against North Korea between square brackets  -->
  
  7.6.22 @ Al-Rayyan       Australia     2-1 United Arab Emirates
  
-## NB: Australia qualify for playoff against 5th placed team in South America (Peru)
+NB: Australia qualify for playoff against 5th placed team in South America (Peru)
  
 ## see play-offs for more !!!
 
-## NB: Australia qualified
+NB: Australia qualified
 
 
 
-==North and Central America==
+==North and Central America (CONCACAF)==
 
 ## Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
 
@@ -1334,7 +1333,7 @@ NB: annulled results against North Korea between square brackets  -->
 
 
 
-==Oceania==
+==Oceania (OFC)==
 
 ▪ Preliminary Round
 
@@ -1389,12 +1388,12 @@ NB: annulled results against North Korea between square brackets  -->
 
 13.6.22 @ Al-Rayyan       Australia     0-0 Peru          (aet, 5-4 pen.)
 
-## NB: Australia qualified
+NB: Australia qualified
 
 
 ▪▪ OFC/CONCACAF Playoff
 14.6.22 @ Al-Rayyan       Costa Rica    1-0 New Zealand
 
-## NB: Costa Rica qualified
+NB: Costa Rica qualified
 
 
