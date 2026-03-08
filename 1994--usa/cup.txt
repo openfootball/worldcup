@@ -1,7 +1,7 @@
 = World Cup 1994          # in United States, June 17 - July 17 
 
 
-Group A  |  Romania      Switzerland    United States    Colombia
+Group A  |  Romania      Switzerland    USA    Colombia
 Group B  |  Brazil       Sweden         Russia           Cameroon
 Group C  |  Germany      Spain          South Korea      Bolivia
 Group D  |  Nigeria      Bulgaria       Argentina        Greece
@@ -19,15 +19,15 @@ Group F  |  Netherlands  Saudi Arabia   Belgium          Morocco
 
 ▪ Group A
 June 18
-  United States    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
+  USA    1-1     Switzerland   @ Pontiac Silverdome, Pontiac
   Colombia         1-3     Romania       @ Rose Bowl, Pasadena
 
 June 22    
    Romania          1-4     Switzerland   @ Pontiac Silverdome, Pontiac
-   United States    2-1    Colombia   @ Rose Bowl, Pasadena
+   USA    2-1    Colombia   @ Rose Bowl, Pasadena
 
 June 26
-   United States    0-1    Romania    @ Rose Bowl, Pasadena
+   USA    0-1    Romania    @ Rose Bowl, Pasadena
    Switzerland      0-2    Colombia    @ Stanford Stadium, Stanford
 
 

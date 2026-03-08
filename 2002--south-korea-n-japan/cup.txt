@@ -3,7 +3,7 @@
 Group A  |  Denmark      Senegal        Uruguay        France
 Group B  |  Spain        Paraguay       South Africa   Slovenia
 Group C  |  Brazil       Turkey         Costa Rica     China
-Group D  |  South Korea  United States  Portugal       Poland
+Group D  |  South Korea  USA  Portugal       Poland
 Group E  |  Germany      Ireland        Cameroon       Saudi Arabia
 Group F  |  Sweden       England        Argentina      Nigeria
 Group G  |  Mexico       Italy          Croatia        Ecuador
@@ -52,13 +52,13 @@ Group C
 Group D
 
 (14)  4 June   South Korea    2-0    Poland   @ Asiad Main Stadium, Busan
-(16)  5 June   United States  3-2    Portugal   @ Suwon World Cup Stadium, Suwon
+(16)  5 June   USA  3-2    Portugal   @ Suwon World Cup Stadium, Suwon
 
-(30) 10 June   South Korea    1-1    United States   @ Daegu World Cup Stadium, Daegu
+(30) 10 June   South Korea    1-1    USA   @ Daegu World Cup Stadium, Daegu
 (32) 10 June   Portugal       4-0    Poland   @ Jeonju World Cup Stadium, Jeonju
 
 (47) 14 June   Portugal       0-1    South Korea   @ Incheon Munhak Stadium, Incheon
-(48) 14 June   Poland         3-1    United States   @ Daejeon World Cup Stadium, Daejeon
+(48) 14 June   Poland         3-1    USA   @ Daejeon World Cup Stadium, Daejeon
 
 Group E
 

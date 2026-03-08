@@ -5,7 +5,7 @@
 Group A | Mexico 	      South Africa    South Korea	   UEFA Path D winner
 Group B | Canada          UEFA Path A winner  Qatar    Switzerland
 Group C | Brazil          Morocco      Haiti   Scotland
-Group D | United States   Paraguay     Australia   UEFA Path C winner
+Group D | USA   Paraguay     Australia   UEFA Path C winner
 Group E | Germany         Curaçao      Ivory Coast   Ecuador
 Group F | Netherlands	  Japan        UEFA Path B winner  Tunisia
 Group G | Belgium         Egypt        Iran        New Zealand
@@ -75,14 +75,14 @@ June 24
 
 ▪ Group D
 Fri June 12
-  18:00 UTC−7    United States   v Paraguay    @ Los Angeles (Inglewood)
+  18:00 UTC−7    USA   v Paraguay    @ Los Angeles (Inglewood)
 Sat June 13
   21:00 UTC−7    Australia 	     v UEFA Path C winner  @ Vancouver
 June 19
-  12:00 UTC−7    United States 	  v Australia   @ Seattle
+  12:00 UTC−7    USA 	  v Australia   @ Seattle
   21:00 UTC−7    UEFA Path C winner   v Paraguay   @ San Francisco Bay Area (Santa Clara)
 June 25
-  19:00 UTC−7    UEFA Path C winner 	v United States   @ Los Angeles (Inglewood)
+  19:00 UTC−7    UEFA Path C winner 	v USA   @ Los Angeles (Inglewood)
   19:00 UTC−7    Paraguay 	        v Australia     @ San Francisco Bay Area (Santa Clara)
 
 

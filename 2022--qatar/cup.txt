@@ -1,7 +1,7 @@
 = World Cup 2022       # in Qatar, November 20 - December 18
 
 Group A  | Qatar      Ecuador       Senegal        Netherlands
-Group B  | England    Iran          United States  Wales
+Group B  | England    Iran          USA  Wales
 Group C  | Argentina  Saudi Arabia  Mexico         Poland
 Group D  | France     Australia     Denmark        Tunisia
 Group E  | Spain      Costa Rica    Germany        Japan
@@ -52,18 +52,18 @@ Tue Nov 29
 Mon Nov 21 
    16:00     England  6-2 (3-0)   Iran      @ Khalifa International Stadium, Al Rayyan
               (Jude Bellingham 35' Bukayo Saka 43', 62' Raheem Sterling 45+1' Marcus Rashford 71' Jack Grealish 90'; Mehdi Taremi 65', 90+13' (pen.))
-   22:00     United States  1-1 (1-0)  Wales  @ Ahmad bin Ali Stadium, Al Rayyan
+   22:00     USA  1-1 (1-0)  Wales  @ Ahmad bin Ali Stadium, Al Rayyan
               (Timothy Weah 36'; Gareth Bale 82' (pen.))
                             
 Fri Nov 25 
     13:00    Wales  0-2 (0-0) Iran    @  Ahmad bin Ali Stadium, Al Rayyan
                 (Roozbeh Cheshmi 90+8'  Ramin Rezaeian 90+11')
-    22:00    England  0-0  United States  @ Al Bayt Stadium, Al Khor
+    22:00    England  0-0  USA  @ Al Bayt Stadium, Al Khor
 
 Tue Nov 29 
     22:00     Wales  0-3 (0-0)  England  @ Ahmad bin Ali Stadium, Al Rayyan
                 (Rashford 50'  Foden 51'  Rashford 68')
-    22:00    Iran  0-1 (0-1)  United States   @ Al Thumama Stadium, Doha
+    22:00    Iran  0-1 (0-1)  USA   @ Al Thumama Stadium, Doha
                 (Pulisic 38')
 
 ▪ Group C

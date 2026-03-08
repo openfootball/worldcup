@@ -4,7 +4,7 @@ Group A  | Germany      Ecuador       Poland          Costa Rica
 Group B  | England      Sweden        Paraguay        Trinidad and Tobago
 Group C  | Argentina    Netherlands   Ivory Coast     Serbia and Montenegro
 Group D  | Portugal     Mexico        Angola          Iran
-Group E  | Italy        Ghana         Czech Republic  United States
+Group E  | Italy        Ghana         Czech Republic  USA
 Group F  | Brazil       Australia     Croatia         Japan
 Group G  | Switzerland  France        South Korea     Togo
 Group H  | Spain        Ukraine       Tunisia         Saudi Arabia
@@ -82,13 +82,13 @@ Group D
 Group E
 
 (9)  Mon Jun/12    Italy           2-0 (1-0)  Ghana           @ AWD-Arena, Hannover
-(10) Mon Jun/12    United States   0-3 (0-2)  Czech Republic  @ Veltins-Arena, Gelsenkirchen
+(10) Mon Jun/12    USA   0-3 (0-2)  Czech Republic  @ Veltins-Arena, Gelsenkirchen
 
-(25) Sat Jun/17    Italy           1-1 (1-1)  United States    @ Fritz-Walter-Stadion, Kaiserslautern
+(25) Sat Jun/17    Italy           1-1 (1-1)  USA    @ Fritz-Walter-Stadion, Kaiserslautern
 (26) Sat Jun/17    Czech Republic  0-2 (0-1)  Ghana            @ RheinEnergieStadion, Köln
 
 (41) Thu Jun/22    Czech Republic  0-2 (0-1)  Italy            @ AOL Arena, Hamburg
-(42) Thu Jun/22    Ghana           2-1 (2-1)  United States    @ Frankenstadion, Nürnberg
+(42) Thu Jun/22    Ghana           2-1 (2-1)  USA    @ Frankenstadion, Nürnberg
 
 
 Group F

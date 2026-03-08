@@ -5,7 +5,7 @@ Group B  |  Italy        Chile       Austria        Cameroon
 Group C  |  France       Denmark     South Africa   Saudi Arabia
 Group D  |  Nigeria      Paraguay    Spain          Bulgaria
 Group E  |  Netherlands  Mexico      Belgium        South Korea
-Group F  |  Germany      Yugoslavia  Iran           United States
+Group F  |  Germany      Yugoslavia  Iran           USA
 Group G  |  Romania      England     Colombia       Tunisia
 Group H  |  Argentina    Croatia     Jamaica        Japan
 
@@ -74,13 +74,13 @@ Group E
 Group F
 
 (12) 14 June   Yugoslavia       1-0    Iran   @ Stade Geoffroy-Guichard, Saint-Étienne
-(14) 15 June   Germany          2-0    United States   @ Parc des Princes, Paris
+(14) 15 June   Germany          2-0    USA   @ Parc des Princes, Paris
 
 (29) 21 June   Germany          2-2    Yugoslavia   @ Stade Félix Bollaert, Lens
-(30) 21 June   United States    1-2    Iran   @ Stade Gerland, Lyon
+(30) 21 June   USA    1-2    Iran   @ Stade Gerland, Lyon
 
 (43) 25 June   Germany          2-0    Iran   @ Stade de la Mosson, Montpellier
-(44) 25 June   United States    0-1    Yugoslavia   @ Stade de la Beaujoire, Nantes
+(44) 25 June   USA    0-1    Yugoslavia   @ Stade de la Beaujoire, Nantes
 
 Group G
 

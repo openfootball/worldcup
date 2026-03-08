@@ -1,0 +1,53 @@
+##
+#  converted from rsssf page/style to Football.TXT
+#    for source, see https://www.rsssf.org/tables/34f.html
+
+=World Cup 1934=    ## Italy, May 27-June 10
+
+
+▪ 1/8 Finals
+
+May 27 @ Firenze  Germany          5-2 Belgium
+       @ Bologna  Argentina        2-3 Sweden
+       @ Milano   Netherlands      2-3 Switzerland
+       @ Trieste  Czechoslovakia   2-1 Romania
+       @ Torino   Austria          3-2 France          (aet)
+       @ Napoli   Hungary          4-2 Egypt
+       @ Genova   Brazil           1-3 Spain
+       @ Rome     Italy            7-1 USA
+
+▪ Quarter-finals
+
+ May 31 @ Milano   Germany          2-1 Sweden
+        @ Torino   Switzerland      2-3 Czechoslovakia
+        @ Bologna  Austria          2-1 Hungary
+        @ Firenze  Spain            1-1 Italy           (aet)
+  Jun 1 @ Firenze  Spain            0-1 Italy
+
+▪ Semi-finals
+
+Jun 3 @ Roma     Germany          1-3 Czechoslovakia
+      @ Milano   Austria          0-1 Italy
+
+▪ Match for third place
+
+Jun 7 @ Napoli   Germany          3-2 Austria
+
+
+▪ Final
+
+Jun 10 @ Roma   att: 40000
+   Italy             2-1 Czechoslovakia  (aet)    
+    (71'      Puc 0-1
+     81'          1-1 Orsi
+     95' Schiavio 2-1)
+
+Italy: Combi, Monzeglio, Allemandi, Ferraris IV, Monti, Bertolini,
+       Guaita, Meazza, Schiavio, Ferrari, Orsi
+Czechoslovakia: Planicka, Zenisek, Ctyroký, Kostálek, Cambal, Krcil,
+                Junek, Svoboda, Sobotka, Nejedlý, Puc
+
+Referee: Eklind (Sweden)
+
+
+

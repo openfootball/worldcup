@@ -3,7 +3,7 @@
 
 Group A  |  South Africa    Mexico              Uruguay          France
 Group B  |  Argentina       Nigeria             South Korea      Greece
-Group C  |  England         United States       Algeria          Slovenia
+Group C  |  England         USA       Algeria          Slovenia
 Group D  |  Germany         Australia           Serbia           Ghana
 Group E  |  Netherlands     Denmark             Japan            Cameroon
 Group F  |  Italy           Paraguay            New Zealand      Slovakia
@@ -55,14 +55,14 @@ Group B
 
 Group C
 
-(5) Sat Jun/12 20:30    England         1-1  United States    @ Royal Bafokeng Stadium, Rustenburg
+(5) Sat Jun/12 20:30    England         1-1  USA    @ Royal Bafokeng Stadium, Rustenburg
 
 (6) Sun Jun/13 13:30    Algeria         0-1 Slovenia          @ Peter Mokaba Stadium, Polokwane
 
-(22) Fri Jun/18 16:00    Slovenia       2-2  United States    @ Ellis Park Stadium, Johannesburg
+(22) Fri Jun/18 16:00    Slovenia       2-2  USA    @ Ellis Park Stadium, Johannesburg
 (23) Fri Jun/18 20:30    England        0-0  Algeria          @ Cape Town Stadium, Cape Town
 
-(38) Wed Jun/23 16:00    United States  1-0  Algeria      @ Loftus Versfeld Stadium, Pretoria
+(38) Wed Jun/23 16:00    USA  1-0  Algeria      @ Loftus Versfeld Stadium, Pretoria
 (37) Wed Jun/23 16:00    Slovenia       0-1  England      @ Nelson Mandela Bay Stadium, Port Elizabeth
 
 

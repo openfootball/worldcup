@@ -7,7 +7,7 @@ Group C  |  Colombia     Greece               Côte d'Ivoire  Japan
 Group D  |  Uruguay      Costa Rica           England        Italy
 Group E  |  Switzerland  Ecuador              France         Honduras
 Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
-Group G  |  Germany      Portugal             Ghana          United States
+Group G  |  Germany      Portugal             Ghana          USA
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
@@ -173,7 +173,7 @@ Mon Jun/16
    13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
                           [Thomas Müller 12' (pen.), 45+1', 78' Mats Hummels 32']
 
-   19:00   Ghana 1-2 United States        @ Estádio das Dunas, Natal (UTC-3)
+   19:00   Ghana 1-2 USA        @ Estádio das Dunas, Natal (UTC-3)
                           [André Ayew 82';  Clint Dempsey 1' John Brooks 86']
 
 Sat Jun/21 
@@ -181,11 +181,11 @@ Sat Jun/21
                           [Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63']
 
 Sun Jun/22 
-   18:00   United States 2-2 Portugal     @ Arena Amazônia, Manaus (UTC-4)
+   18:00   USA 2-2 Portugal     @ Arena Amazônia, Manaus (UTC-4)
                           [Jermaine Jones 64' Clint Dempsey 81'; Nani 5' Varela 90+5']
 
 Thu Jun/26 
-  13:00   United States 0-1 Germany       @ Arena Pernambuco, Recife (UTC-3)
+  13:00   USA 0-1 Germany       @ Arena Pernambuco, Recife (UTC-3)
                           [-; Thomas Müller 55']
 
   13:00   Portugal 2-1 Ghana              @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
