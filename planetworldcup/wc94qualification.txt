@@ -36,7 +36,7 @@
               18 Nov 92 @ Glasgow         Scotland         0-0 Italy
               18 Nov 92 @ Berne           Switzerland      3-0 Malta
               19 Dec 92 @ La Valletta     Malta            1-2 Italy
-              24.Jan 93 @ La Valletta     Malta            0-1 Portugal
+              24 Jan 93 @ La Valletta     Malta            0-1 Portugal
               17 Feb 93 @ Glasgow         Scotland         3-0 Malta
               24 Feb 93 @ Porto           Portugal         1-3 Italy
               24 Mar 93 @ Palermo         Italy            6-1 Malta
@@ -525,8 +525,8 @@
               09 Oct 92 @ Tlemcen         Algeria          3-1 Burundi
               25 Oct 92 @ Bujumbura       Burundi          1-0 Ghana
               20 Dec 92 @ Accra           Ghana            2-0 Algeria
-              17.Jan 93 @ Bujumbura       Burundi          0-0 Algeria
-              31.Jan 93 @ Kumasi          Ghana            1-0 Burundi
+              17 Jan 93 @ Bujumbura       Burundi          0-0 Algeria
+              31 Jan 93 @ Kumasi          Ghana            1-0 Burundi
               26 Feb 93 @ Tlemcen         Algeria          2-1 Ghana      
 
 <!--
@@ -544,9 +544,9 @@
               25 Oct 92 @ Lobamba         Swaziland        1-0 Zaire
               25 Oct 92 @ Monrovia        Liberia          0-0 Cameroon
               ## Liberia withdrew. Their matches cancelled.
-              10.Jan 93 @ Kinshasa        Zaire            1-2 Cameroon
-              17.Jan 93 @ Sanholo         Swaziland        0-0 Cameroon
-              31.Jan 93 @ Kinshasa        Zaire            n/p Swaziland
+              10 Jan 93 @ Kinshasa        Zaire            1-2 Cameroon
+              17 Jan 93 @ Sanholo         Swaziland        0-0 Cameroon
+              31 Jan 93 @ Kinshasa        Zaire            n/p Swaziland
               01 Mar 93 @ Yaoundé         Cameroon         0-0 Zaire
 
 <!--
@@ -564,11 +564,11 @@
               11 Oct 92 @ Cairo           Egypt            1-0 Angola
               25 Oct 92 @ Lomé            Togo             1-4 Egypt
               20 Dec 92 @ Harare          Zimbabwe         2-1 Egypt
-              10.Jan 93 @ Luanda          Angola           1-1 Zimbabwe
-              17.Jan 93 @ Lomé            Togo             1-2 Zimbabwe
-              18.Jan 93 @ Luanda          Angola           0-0 Egypt
-              31.Jan 93 @ Cairo           Egypt            3-0 Togo
-              31.Jan 93 @ Harare          Zimbabwe         2-1 Angola
+              10 Jan 93 @ Luanda          Angola           1-1 Zimbabwe
+              17 Jan 93 @ Lomé            Togo             1-2 Zimbabwe
+              18 Jan 93 @ Luanda          Angola           0-0 Egypt
+              31 Jan 93 @ Cairo           Egypt            3-0 Togo
+              31 Jan 93 @ Harare          Zimbabwe         2-1 Angola
               14 Feb 93 @ Luanda          Angola           n/p Togo
               28 Feb 93 @ Lomé            Togo             0-1 Angola
               28 Feb 93 @ Cairo           Egypt            x-x Zimbabwe 
@@ -592,8 +592,8 @@
               10 Oct 92 @ Lagos           Nigeria          4-0 South Africa
               25 Oct 92 @ Johannesburg    South Africa     1-0 Congo
               20 Dec 92 @ Brazzaville     Congo            0-1 Nigeria
-              16.Jan 93 @ Johannesburg    South Africa     0-0 Nigeria
-              31.Jan 93 @ Brazzaville     Congo            0-1 South Africa
+              16 Jan 93 @ Johannesburg    South Africa     0-0 Nigeria
+              31 Jan 93 @ Brazzaville     Congo            0-1 South Africa
               27 Feb 93 @ Enugu           Nigeria          2-0 Congo
 
 <!--
@@ -610,8 +610,8 @@
               10 Oct 92 @ Abidjan         Ivory Coast      6-0 Botswana
               25 Oct 92 @ Niamey          Niger            0-0 Ivory Coast
               20 Dec 92 @ Gaborone        Botswana         0-1 Niger      
-              17.Jan 93 @ Gaborone        Botswana         0-0 Ivory Coast
-              31.Jan 93 @ Abidjan         Ivory Coast      1-0 Niger
+              17 Jan 93 @ Gaborone        Botswana         0-0 Ivory Coast
+              31 Jan 93 @ Abidjan         Ivory Coast      1-0 Niger
               28 Feb 93 @ Niamey          Niger            2-1 Botswana
 
 <!--
@@ -631,10 +631,10 @@
               25 Oct 92 @ Cotonou         Benin            0-1 Morocco
               20 Dec 92 @ Tunis           Tunisia          1-1 Morocco
               20 Dec 92 @ Addis Abeba     Ethiopia         3-1 Benin
-              17.Jan 93 @ Addis Abeba     Ethiopia         0-1 Morocco
-              17.Jan 93 @ Cotonou         Benin            0-5 Tunisia
-              31.Jan 93 @ Rabat           Morocco          5-0 Benin
-              31.Jan 93 @ Tunis           Tunisia          3-0 Ethiopia
+              17 Jan 93 @ Addis Abeba     Ethiopia         0-1 Morocco
+              17 Jan 93 @ Cotonou         Benin            0-5 Tunisia
+              31 Jan 93 @ Rabat           Morocco          5-0 Benin
+              31 Jan 93 @ Tunis           Tunisia          3-0 Ethiopia
               28 Feb 93 @ Cotonou         Benin            1-0 Ethiopia
               28 Feb 93 @ Casablanca      Morocco          0-0 Tunisia
 
@@ -653,8 +653,8 @@
               11 Oct 92 @ Libreville      Gabon            3-1 Mozambique
               25 Oct 92 @ Maputo          Mozambique       0-1 Senegal
               19 Dec 92 @ Libreville      Gabon            3-2 Senegal
-              17.Jan 93 @ Maputo          Mozambique       1-1 Gabon
-              30.Jan 93 @ Dakar           Senegal          6-1 Mozambique
+              17 Jan 93 @ Maputo          Mozambique       1-1 Gabon
+              30 Jan 93 @ Dakar           Senegal          6-1 Mozambique
               27 Feb 93 @ Dakar           Senegal          1-0 Gabon      
 
 <!--
@@ -674,10 +674,10 @@
               25 Oct 92 @ Windhoek        Namibia          0-4 Zambia
               19 Dec 92 @ Mwanza          Tanzania         2-0 Namibia
               20 Dec 92 @ Tananarive      Madagascar       2-0 Zambia
-              16.Jan 93 @ Mwanza          Tanzania         1-3 Zambia
+              16 Jan 93 @ Mwanza          Tanzania         1-3 Zambia
               # Tanzania withdrew. All their matches cancelled.
-              17.Jan 93 @ Windhoek        Namibia          0-1 Madagascar
-              30.Jan 93 @ Lusaka          Zambia           4-0 Namibia
+              17 Jan 93 @ Windhoek        Namibia          0-1 Madagascar
+              30 Jan 93 @ Lusaka          Zambia           4-0 Namibia
               27 Feb 93 @ Lusaka          Zambia           3-1 Madagascar
 
 <!--
