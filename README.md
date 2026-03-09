@@ -15,14 +15,14 @@ and the World Cup Quali(fiers). Football.TXT example:
 ```
 = World Cup 2026      # in Canada, USA, and Mexico 
 
-Group A | Mexico 	      South Africa    South Korea	   UEFA Path D winner
-Group B | Canada          UEFA Path A winner  Qatar    Switzerland
-Group C | Brazil          Morocco      Haiti   Scotland
-Group D | USA   Paraguay     Australia   UEFA Path C winner
-Group E | Germany         Curaçao      Ivory Coast   Ecuador
+Group A | Mexico 	  South Africa    South Korea	   UEFA Path D winner
+Group B | Canada    UEFA Path A winner  Qatar    Switzerland
+Group C | Brazil    Morocco      Haiti   Scotland
+Group D | USA       Paraguay     Australia   UEFA Path C winner
+Group E | Germany    Curaçao      Ivory Coast   Ecuador
 Group F | Netherlands	  Japan        UEFA Path B winner  Tunisia
-Group G | Belgium         Egypt        Iran        New Zealand
-Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
+Group G | Belgium       Egypt        Iran        New Zealand
+Group H | Spain        Cape Verde   Saudi Arabia   Uruguay
 Group I | France      Senegal   IC Path 2 winner   Norway
 Group J | Argentina	   Algeria   Austria   Jordan
 Group K | Portugal   IC Path 1 winner   Uzbekistan  Colombia
@@ -31,28 +31,28 @@ Group L | England    Croatia     Ghana   Panama
 
 ▪ Group A
 Thu June 11 
-  13:00 UTC-6     Mexico       v South Africa        @ Mexico City
-  20:00 UTC-6     South Korea  v UEFA Path D winner  @ Guadalajara (Zapopan)
+  13:00 UTC-6  Mexico       v South Africa        @ Mexico City
+  20:00 UTC-6  South Korea  v UEFA Path D winner  @ Guadalajara (Zapopan)
 
 ...
 
 ▪ Match for third place   
 Sat Jul 18 
-  17:00 UTC-4    L101 v L102    @ Miami (Miami Gardens)
+  17:00 UTC-4  L101 v L102    @ Miami (Miami Gardens)
 
 ▪ Final
 Sun Jul 19 
-  15:00 UTC-4    W101 v W102    @ New York/New Jersey (East Rutherford)
+  15:00 UTC-4  W101 v W102    @ New York/New Jersey (East Rutherford)
 ```
 
 or
 
 
 ```
-= World Cup 2022    # in Qatar
+= World Cup 2022    # in Qatar, November 20 - December 18
 
 Group A  | Qatar      Ecuador        Senegal        Netherlands
-Group B  | England    Iran           United States  Wales
+Group B  | England    Iran           USA            Wales
 Group C  | Argentina  Saudi Arabia   Mexico         Poland
 Group D  | France     Australia      Denmark        Tunisia
 Group E  | Spain     Costa Rica      Germany        Japan
@@ -79,6 +79,19 @@ Sun Dec 18
   18:00     Argentina  v France   3-3 a.e.t. (2-2, 2-0) 4-2 pen.  @ Lusail Iconic Stadium, Lusail
               (Lionel Messi 23'(p), 108', Ángel Di María 36';
                Kylian Mbappé 80'(p), 81', 118'(p))
+
+Penalty kicks: 0-1 Mbappé,            1-1 Messi, 
+                   Coman (stopped),   2-1 Dybala,
+                   Tchouaméni (wide), 3-1 Paredes, 
+               3-2 Kolo Muani,        4-2 Montiel 
+
+Argentina: E. Martínez, Molina (Montiel 91'), Romero, Otamendi, 
+           Tagliafico (Dybala 120+1'), De Paul (Paredes 102'), Fernández, 
+           Mac Allister (Pezzella 116'), Messi, Álvarez (La. Martínez 103'), 
+           Di María (Acuña 64') 
+France: Lloris, Koundé (Disasi 120+1'), Varane (Konaté 113'), Upamecano,
+        Th. Hernandez (Camavinga 71'), Dembélé (Kolo Muani 41'), Tchoauméni,
+        Griezmann (Coman 71'), Rabiot (Fofana 96'), Mbappé, Giroud (Thuram 41')
 ```
 
 
@@ -130,7 +143,7 @@ Group C  |  Colombia     Greece               Côte d'Ivoire  Japan
 Group D  |  Uruguay      Costa Rica           England        Italy
 Group E  |  Switzerland  Ecuador              France         Honduras
 Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
-Group G  |  Germany      Portugal             Ghana          United States
+Group G  |  Germany      Portugal             Ghana          USA
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
@@ -153,6 +166,12 @@ Sun Jul 13
   16:00 UTC-3  Germany   v Argentina   1-0 a.e.t. (0-0)   @ Estádio do Maracanã, Rio de Janeiro 
                  (Mario Götze 113')
 
+Germany: Neuer, Lahm, Boateng, Hummels, Höwedes, Kramer (Schürrle 32'),
+         Schweinsteiger, Kroos, Th. Müller, Klose (Götze 88'), 
+         Özil (Mertesacker 120')
+Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'), 
+           Biglia, Mascherano, E. Pérez (Gago 86'),
+           Messi, Higuain (Palacio 78')
 ```
 
 
