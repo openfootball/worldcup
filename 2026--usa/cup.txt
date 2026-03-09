@@ -89,13 +89,13 @@ Thu June 25
 ▪ Group E
 Sun June 14
   12:00 UTC-5    Germany 	v Curaçao         @ Houston
-  19:00 UTC-4    Ivory Coast 	v Ecuador    @  Philadelphia
+  19:00 UTC-4    Ivory Coast 	v Ecuador     @ Philadelphia
 Sat June 20
   16:00 UTC-4    Germany 	v Ivory Coast    @ Toronto
   19:00 UTC-5    Ecuador 	v Curaçao        @ Kansas City
 Thu June 25
   16:00 UTC-4    Curaçao 	v Ivory Coast     @ Philadelphia
-  16:00 UTC-4    Ecuador 	v Germany        @  New York/New Jersey (East Rutherford)
+  16:00 UTC-4    Ecuador 	v Germany         @ New York/New Jersey (East Rutherford)
 
 
 ▪ Group F
