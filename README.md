@@ -8,11 +8,48 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the World Cup (e.g. Canada/United States/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.)
+Free open public domain football data for the World Cup (e.g. Canada/USA/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.)
 and the World Cup Quali(fiers). Football.TXT example:
 
+
 ```
-= World Cup 2022
+= World Cup 2026      # in Canada, USA, and Mexico 
+
+Group A | Mexico 	      South Africa    South Korea	   UEFA Path D winner
+Group B | Canada          UEFA Path A winner  Qatar    Switzerland
+Group C | Brazil          Morocco      Haiti   Scotland
+Group D | USA   Paraguay     Australia   UEFA Path C winner
+Group E | Germany         Curaçao      Ivory Coast   Ecuador
+Group F | Netherlands	  Japan        UEFA Path B winner  Tunisia
+Group G | Belgium         Egypt        Iran        New Zealand
+Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
+Group I | France      Senegal   IC Path 2 winner   Norway
+Group J | Argentina	   Algeria   Austria   Jordan
+Group K | Portugal   IC Path 1 winner   Uzbekistan  Colombia
+Group L | England    Croatia     Ghana   Panama	
+
+
+▪ Group A
+Thu June 11 
+  13:00 UTC-6     Mexico       v South Africa        @ Mexico City
+  20:00 UTC-6     South Korea  v UEFA Path D winner  @ Guadalajara (Zapopan)
+
+...
+
+▪ Match for third place   
+Sat Jul 18 
+  17:00 UTC-4    L101 v L102    @ Miami (Miami Gardens)
+
+▪ Final
+Sun Jul 19 
+  15:00 UTC-4    W101 v W102    @ New York/New Jersey (East Rutherford)
+```
+
+or
+
+
+```
+= World Cup 2022    # in Qatar
 
 Group A  | Qatar      Ecuador        Senegal        Netherlands
 Group B  | England    Iran           United States  Wales
@@ -50,7 +87,7 @@ or
 
 
 ```
-= World Cup 2018
+= World Cup 2018     # in Russia
 
 Group A  |  Russia       Saudi Arabia         Egypt          Uruguay
 Group B  |  Portugal     Spain                Morocco        Iran
@@ -85,7 +122,7 @@ Sun Jul 15
 or
 
 ```
-= World Cup 2014
+= World Cup 2014     # in Brazil
 
 Group A  |  Brazil       Croatia              Mexico         Cameroon
 Group B  |  Spain        Netherlands          Chile          Australia

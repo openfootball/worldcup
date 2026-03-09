@@ -42,7 +42,7 @@ in world cup qualifying
 
 
 - todo
-  - [ ]  use n/p (not/played) as (inline match) status for [cancelled] - why? why not?
+  - [x]  use n/p (not/played) as (inline match) status for [cancelled] - why? why not?
 
 - cancelled vs annulled
   - cancelled - match not played
