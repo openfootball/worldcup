@@ -22,13 +22,13 @@ Sun Dec 4
               (Jordan Henderson 38' Harry Kane 45+3' Bukayo Saka 57')
 
 Mon Dec 5 
-   18:00     Japan             1-3 pen. 1-1 a.e.t (1-1, 1-0)  Croatia  @ Al Janoub Stadium, Al Wakrah
+   18:00     Japan             1-1 a.e.t (1-1, 1-0), 1-3 pen.  Croatia  @ Al Janoub Stadium, Al Wakrah
               (Daizen Maeda 43'; Ivan Perišić 55')
    22:00     Brazil            4-1 (4-0)   South Korea  @ Stadium 974, Doha
                 (Vinícius Jr. 7' Neymar 13'(pen.) Richarlison 29' Lucas Paquetá 36'; Paik Seung-ho 76')
 
 Tue Dec 6 
-   18:00     Morocco          3-0 pen. 0-0 a.e.t. (0-0, 0-0)   Spain  @ Education City Stadium, Al Rayyan
+   18:00     Morocco          0-0 a.e.t. (0-0, 0-0), 3-0 pen.    Spain  @ Education City Stadium, Al Rayyan
    22:00     Portugal          6-1 (2-0)   Switzerland  @ Lusail Iconic Stadium, Lusail
               (Gonçalo Ramos 17', 51', 67' Pepe 33' Raphaël Guerreiro 55' Rafael Leão 90+2'; 
                Manuel Akanji 58')
@@ -36,9 +36,9 @@ Tue Dec 6
 
 ▪ Quarter-finals
 Fri Dec 9 
-   18:00     Croatia          4-2 pen. 1-1 a.e.t. (0-0, 0-0)   Brazil  @ Education City Stadium, Al Rayyan
+   18:00     Croatia           1-1 a.e.t. (0-0, 0-0), 4-2 pen.   Brazil  @ Education City Stadium, Al Rayyan
                  (Bruno Petković 117'; Neymar 105+1')
-   22:00     Netherlands      3-4 pen. 2-2 a.e.t. (2-2, 1-0)        Argentina  @ Lusail Iconic Stadium, Lusail
+   22:00     Netherlands       2-2 a.e.t. (2-2, 1-0), 3-4 pen.   Argentina  @ Lusail Iconic Stadium, Lusail
                  (Wout Werghost 83', 90+11'; 
                   Nahuel Molina 35' Lionel Messi 73'(pen.))
 
@@ -65,6 +65,6 @@ Sat Dec 17
 
 ▪ Final
 Sun Dec 18 
-   18:00     Argentina          4-2 pen. 3-3 a.e.t. (2-2, 2-0)   France @ Lusail Iconic Stadium, Lusail
+   18:00     Argentina          3-3 a.e.t. (2-2, 2-0), 4-2 pen.   France @ Lusail Iconic Stadium, Lusail
                (Lionel Messi 23'(pen.), 108' Ángel Di María 36'; 
                 Kylian Mbappé 80' (pen.), 81', 118' (pen.))

@@ -11,160 +11,190 @@ Group G  |  Belgium      Panama               Tunisia        England
 Group H  |  Poland       Senegal              Colombia       Japan
 
 
-Matchday 1  |  Thu Jun/14
-Matchday 2  |  Fri Jun/15
-Matchday 3  |  Sat Jun/16
-Matchday 4  |  Sun Jun/17
-Matchday 5  |  Mon Jun/18
-Matchday 6  |  Tue Jun/19
-Matchday 7  |  Wed Jun/20
-Matchday 8  |  Thu Jun/21
-Matchday 9  |  Fri Jun/22
-Matchday 10 |  Sat Jun/23
-Matchday 11 |  Sun Jun/24
-Matchday 12 |  Mon Jun/25
-Matchday 13 |  Tue Jun/26
-Matchday 14 |  Wed Jun/27
-Matchday 15 |  Thu Jun/28
+▪ Matchday 1  |  Thu Jun 14
+▪ Matchday 2  |  Fri Jun 15
+▪ Matchday 3  |  Sat Jun 16
+▪ Matchday 4  |  Sun Jun 17
+▪ Matchday 5  |  Mon Jun 18
+▪ Matchday 6  |  Tue Jun 19
+▪ Matchday 7  |  Wed Jun 20
+▪ Matchday 8  |  Thu Jun 21
+▪ Matchday 9  |  Fri Jun 22
+▪ Matchday 10 |  Sat Jun 23
+▪ Matchday 11 |  Sun Jun 24
+▪ Matchday 12 |  Mon Jun 25
+▪ Matchday 13 |  Tue Jun 26
+▪ Matchday 14 |  Wed Jun 27
+▪ Matchday 15 |  Thu Jun 28
 
 
 
-Group A
+▪ Group A
 
- (1) Thu Jun/14 18:00      Russia       5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow (UTC+3)
-        [Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4']
- (2) Fri Jun/15 17:00      Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-        [-; Giménez 89']
+Thu Jun 14 
+ 18:00 UTC+3     Russia       5-0 (2-0)  Saudi Arabia     @ Luzhniki Stadium, Moscow 
+        (Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4')
+Fri Jun 15 
+ 17:00 UTC+5     Egypt         0-1 (0-0)  Uruguay          @ Ekaterinburg Arena, Ekaterinburg 
+        (Giménez 89')
 
-(17) Tue Jun/19 21:00      Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-        [A. Fathi 47' (o.g.) Cheryshev 59' Dzyuba 62'; M. Salah 73' (pen.)]
-(18) Wed Jun/20 18:00      Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don (UTC+3)
-        [L. Suárez 23']
+Tue Jun 19 
+ 21:00 UTC+3     Russia        3-1 (0-0)  Egypt            @ Saint Petersburg Stadium, Saint Petersburg 
+        (A. Fathi 47' (o.g.) Cheryshev 59' Dzyuba 62'; M. Salah 73' (pen.))
+Wed Jun 20 
+ 18:00 UTC+3     Uruguay       1-0 (1-0)  Saudi Arabia     @ Rostov Arena, Rostov-on-Don 
+        (L. Suárez 23')
 
-(33) Mon Jun/25 18:00      Uruguay       3-0 (2-0)  Russia           @ Samara Arena, Samara (UTC+4)
-        [L. Suárez 10' Cheryshev 23' (o.g.) E. Cavani 90']
-(34) Mon Jun/25 17:00      Saudi Arabia  2-1 (1-1)  Egypt            @ Volgograd Arena, Volgograd (UTC+3)
-        [Salman Al-Faraj 45+6' (pen.) Salem Al-Dawsari 90+5'; M. Salah 22']
-
-
-Group B
-
- (4) Fri Jun/15 18:00     Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-        [-; Bouhaddouz 90+5' (o.g.)]
- (3) Fri Jun/15 21:00     Portugal      3-3 (2-1)  Spain   @ Fisht Stadium, Sochi (UTC+3)
-        [Ronaldo 4' (pen.), 44', 88'; Costa 24', 55' Nacho 58']
-
-(19) Wed Jun/20 15:00     Portugal      1-0 (1-0)  Morocco  @ Luzhniki Stadium, Moscow (UTC+3)
-        [Ronaldo 4']
-(20) Wed Jun/20 21:00     Iran          0-1 (0-0)  Spain    @ Kazan Arena, Kazan (UTC+3)
-        [-; Diego Costa 54']
-
-(35) Mon Jun/25 21:00     Iran          1-1 (0-1)  Portugal @ Mordovia Arena, Saransk (UTC+3)
-        [Karim Ansarifard 90+3' (pen.); Quaresma 45']
-(36) Mon Jun/25 20:00     Spain         2-2 (1-1)  Morocco  @ Kaliningrad Stadium, Kaliningrad (UTC+2)
-        [Isco 19' Iago Aspas 90+1'; Boutaib 14' En-Nesyri 81']
+Mon Jun 25 
+ 18:00 UTC+4     Uruguay       3-0 (2-0)  Russia           @ Samara Arena, Samara 
+        (L. Suárez 10' Cheryshev 23' (o.g.) E. Cavani 90')
+ 17:00 UTC+3     Saudi Arabia  2-1 (1-1)  Egypt            @ Volgograd Arena, Volgograd 
+        (Salman Al-Faraj 45+6' (pen.) Salem Al-Dawsari 90+5'; M. Salah 22')
 
 
-Group C
+▪ Group B
 
- (5) Sat Jun/16 13:00     France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan (UTC+3)
-             [Griezmann 58' (pen.) Behich 81' (o.g.); Jedinak 62' (pen.)]
- (6) Sat Jun/16 19:00     Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk (UTC+3)
-             [-; Poulsen 59']
+Fri Jun 15 
+ 18:00 UTC+3    Morocco       0-1 (0-0)  Iran    @ Saint Petersburg Stadium, Saint Petersburg 
+        (Bouhaddouz 90+5' (o.g.))
+ 21:00 UTC+3    Portugal      3-3 (2-1)  Spain   @ Fisht Stadium, Sochi 
+        (Ronaldo 4' (pen.), 44', 88'; Costa 24', 55' Nacho 58')
 
-(22) Thu Jun/21 16:00     Denmark       1-1 (1-1)  Australia  @ Samara Arena, Samara (UTC+4)
-             [Eriksen 7'; Jedinak 38' (pen.)]
-(21) Thu Jun/21 20:00     France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-             [Mbappé 34']
+Wed Jun 20 
+ 15:00 UTC+3    Portugal      1-0 (1-0)  Morocco  @ Luzhniki Stadium, Moscow 
+        (Ronaldo 4')
+ 21:00 UTC+3    Iran          0-1 (0-0)  Spain    @ Kazan Arena, Kazan 
+        (Diego Costa 54')
 
-(37) Tue Jun/26 17:00     Denmark       0-0 (0-0) France    @ Luzhniki Stadium, Moscow (UTC+3)
-(38) Tue Jun/26 17:00     Australia     0-2 (0-1)  Peru      @ Fisht Stadium, Sochi (UTC+3)
-             [-; Carrillo 18' Guerrero 50']
-
-
-Group D
-
- (7) Sat Jun/16 16:00      Argentina   1-1 (1-1)   Iceland    @ Spartak Stadium, Moscow (UTC+3)
-            [Agüero 19'; Finnbogason 23']
- (8) Sat Jun/16 21:00      Croatia     2-0 (1-0)   Nigeria    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
-            [Etebo 32' (o.g.) Modrić 71' (pen.)]
-
-(23) Thu Jun/21 21:00      Argentina   0-3 (0-0)   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-            [-; Rebić 53' Modrić 80' Rakitić 90+1']
-(24) Fri Jun/22 18:00      Nigeria     2-0 (0-0)   Iceland    @ Volgograd Arena, Volgograd (UTC+3)
-            [Musa 49', 75']
-
-(39) Tue Jun/26 21:00      Nigeria     1-2 (0-1)   Argentina    @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-            [Moses 51' (pen.); Messi 14' Marcos Rojo 86']
-(40) Tue Jun/26 21:00      Iceland     1-2 (0-0)   Croatia      @ Rostov Arena, Rostov-on-Don (UTC+3)
-            [G. Sigurðsson 76' (pen.); Badelj 53' Perišić 90']
+Mon Jun 25 
+ 21:00 UTC+3    Iran          1-1 (0-1)  Portugal @ Mordovia Arena, Saransk 
+        (Karim Ansarifard 90+3' (pen.); Quaresma 45')
+ 20:00 UTC+2    Spain         2-2 (1-1)  Morocco  @ Kaliningrad Stadium, Kaliningrad 
+        (Isco 19' Iago Aspas 90+1'; Boutaib 14' En-Nesyri 81')
 
 
-Group E
+▪ Group C
 
-(10) Sun Jun/17 16:00       Costa Rica   0-1 (0-0)  Serbia          @ Samara Arena, Samara (UTC+4)
-            [-; Kolarov 56']
- (9) Sun Jun/17 21:00       Brazil       1-1 (1-0)  Switzerland     @ Rostov Arena, Rostov-on-Don (UTC+3)
-            [Coutinho 20'; Zuber 50']
+Sat Jun 16 
+ 13:00 UTC+3    France        2-1 (0-0)  Australia  @ Kazan Arena, Kazan 
+             (Griezmann 58' (pen.) Behich 81' (o.g.); Jedinak 62' (pen.))
+ 19:00 UTC+3    Peru          0-1 (0-0)  Denmark    @ Mordovia Arena, Saransk 
+             (Poulsen 59')
 
-(25) Fri Jun/22 15:00       Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg (UTC+3)
-            [P. Coutinho 90+1' Neymar Jr 90+7']
-(26) Fri Jun/22 20:00       Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad (UTC+2)
-            [Mitrović 5'; Xhaka 52' Shaqiri 90']
+Thu Jun 21
+ 16:00 UTC+4    Denmark       1-1 (1-1)  Australia  @ Samara Arena, Samara 
+             (Eriksen 7'; Jedinak 38' (pen.))
+ 20:00 UTC+5    France        1-0 (1-0)  Peru       @ Ekaterinburg Arena, Ekaterinburg 
+             (Mbappé 34')
 
-(41) Wed Jun/27 21:00       Serbia   0-2 (0-1) Brazil         @ Spartak Stadium, Moscow (UTC+3)
-            [-; Paulinho 36' Thiago Silva 68']
-(42) Wed Jun/27 21:00       Switzerland 2-2 (1-0) Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-            [Džemaili 31' Drmić 88'; Waston 56' Sommer 90+3' (o.g.)]
-
-Group F
-
-(11) Sun Jun/17 18:00        Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow (UTC+3)
-            [-; Lozano 35']
-(12) Mon Jun/18 15:00        Sweden    1-0 (0-0)   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-            [Granqvist 65' (pen.)]
-
-(28) Sat Jun/23 18:00        South Korea   1-2 (0-1)   Mexico       @ Rostov Arena, Rostov-on-Don (UTC+3)
-            [Son Heung-min 90+3'; Carlos Vela 26' (pen.) J. Hernández 66']
-(27) Sat Jun/23 21:00        Germany       2-1 (0-1)   Sweden       @ Fisht Stadium, Sochi (UTC+3)
-            [Reus 48' Kroos 90+5'; Toivonen 32']
-
-(43) Wed Jun/27 17:00        South Korea 2-0 (0-0) Germany      @ Kazan Arena, Kazan (UTC+3)
-            [Kim Young-gwon 90+2' Son Heung-min 90+6']
-(44) Wed Jun/27 19:00        Mexico 0-3 (0-0)         Sweden       @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-            [-; Augustinsson 50' Granqvist 62' (pen.) Álvarez 74' (o.g.)]
-
-Group G
-
-(13) Mon Jun/18 18:00          Belgium   3-0 (0-0)   Panama     @ Fisht Stadium, Sochi (UTC+3)
-            [Mertens 47' Lukaku 69', 75']
-(14) Mon Jun/18 21:00          Tunisia   1-2 (1-1)   England    @ Volgograd Arena, Volgograd (UTC+3)
-            [Sassi 35' (pen.); Kane 11', 90+1']
-
-(29) Sat Jun/23 15:00          Belgium   5-2 (3-1)   Tunisia    @ Spartak Stadium, Moscow (UTC+3)
-            [E. Hazard 6' (pen.), 51' R. Lukaku 16', 45+3' Batshuayi 90'; Bronn 18' Khazri 90+3']
-(30) Sun Jun/24 15:00          England   6-1 (5-0)   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)
-            [Stones 8', 40' Kane 22' (pen.), 45+1' (pen.), 62' Lingard 36'; Baloy 78']
-
-(45) Thu Jun/28 20:00          England   0-1 (0-0)   Belgium    @ Kaliningrad Stadium, Kaliningrad (UTC+2)
-            [-; Adnan Januzaj 51']
-(46) Thu Jun/28 21:00          Panama    1-2 (1-0)   Tunisia    @ Mordovia Arena, Saransk (UTC+3)
-            [Yassine Meriah 33' (o.g.); Fakhereedine Ben Youssef 51' Wahbi Khazri 66']
+Tue Jun 26
+ 17:00 UTC+3    Denmark       0-0 (0-0) France    @ Luzhniki Stadium, Moscow 
+ 17:00 UTC+3    Australia     0-2 (0-1)  Peru      @ Fisht Stadium, Sochi 
+             (Carrillo 18' Guerrero 50')
 
 
-Group H
+▪ Group D
 
-(16) Tue Jun/19 15:00          Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk (UTC+3)
-            [J. Quintero 39'; Kagawa 6' (pen.) Osako 73']
-(15) Tue Jun/19 18:00          Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow (UTC+3)
-            [Krychowiak 86'; Cionek 37' (o.g.) Niang 60']
+Sat Jun 16
+ 16:00 UTC+3     Argentina   1-1 (1-1)   Iceland    @ Spartak Stadium, Moscow 
+            (Agüero 19'; Finnbogason 23')
+ 21:00 UTC+2     Croatia     2-0 (1-0)   Nigeria    @ Kaliningrad Stadium, Kaliningrad 
+            (Etebo 32' (o.g.) Modrić 71' (pen.))
 
-(32) Sun Jun/24 20:00          Japan      2-2 (1-1)  Senegal      @ Ekaterinburg Arena, Ekaterinburg (UTC+5)
-            [Inui 34' Honda 78'; Mané 11' M. Wagué 71']
-(31) Sun Jun/24 21:00          Poland     0-3 (0-1)  Colombia     @ Kazan Arena, Kazan (UTC+3)
-            [-; Y. Mina 40' Falcao 70' Cuadrado 75']
+Thu Jun 21
+ 21:00 UTC+3     Argentina   0-3 (0-0)   Croatia    @ Nizhny Novgorod Stadium, Nizhny Novgorod 
+            (Rebić 53' Modrić 80' Rakitić 90+1')
+Fri Jun 22 
+ 18:00 UTC+3     Nigeria     2-0 (0-0)   Iceland    @ Volgograd Arena, Volgograd 
+            (Musa 49', 75')
 
-(47) Thu Jun/28 17:00          Japan     0-1 (0-1)  Poland       @ Volgograd Arena, Volgograd (UTC+3)
-            [-; Bednarek 59']
-(48) Thu Jun/28 18:00          Senegal   0-1 (0-1)  Colombia     @ Samara Arena, Samara (UTC+4)
-            [-; Y. Mina 74']
+Tue Jun 26 
+ 21:00 UTC+3     Nigeria     1-2 (0-1)   Argentina    @ Saint Petersburg Stadium, Saint Petersburg 
+            (Moses 51' (pen.); Messi 14' Marcos Rojo 86')
+ 21:00 UTC+3     Iceland     1-2 (0-0)   Croatia      @ Rostov Arena, Rostov-on-Don 
+            (G. Sigurðsson 76' (pen.); Badelj 53' Perišić 90')
+
+
+▪ Group E
+
+Sun Jun 17 
+ 16:00 UTC+4      Costa Rica   0-1 (0-0)  Serbia          @ Samara Arena, Samara 
+            (Kolarov 56')
+ 21:00 UTC+3      Brazil       1-1 (1-0)  Switzerland     @ Rostov Arena, Rostov-on-Don 
+            (Coutinho 20'; Zuber 50')
+
+Fri Jun 22
+ 15:00 UTC+3      Brazil   2-0 (0-0)   Costa Rica     @ Saint Petersburg Stadium, Saint Petersburg 
+            (P. Coutinho 90+1' Neymar Jr 90+7')
+ 20:00 UTC+2      Serbia   1-2 (1-0)    Switzerland   @ Kaliningrad Stadium, Kaliningrad 
+            (Mitrović 5'; Xhaka 52' Shaqiri 90')
+
+Wed Jun 27 
+ 21:00 UTC+3      Serbia   0-2 (0-1) Brazil         @ Spartak Stadium, Moscow 
+            (Paulinho 36' Thiago Silva 68')
+ 21:00 UTC+3      Switzerland 2-2 (1-0) Costa Rica     @ Nizhny Novgorod Stadium, Nizhny Novgorod 
+            (Džemaili 31' Drmić 88'; Waston 56' Sommer 90+3' (o.g.))
+
+▪ Group F
+
+Sun Jun 17
+ 18:00 UTC+3       Germany   0-1 (0-1)   Mexico       @ Luzhniki Stadium, Moscow 
+            (Lozano 35')
+Mon Jun 18
+ 15:00 UTC+3       Sweden    1-0 (0-0)   South Korea  @ Nizhny Novgorod Stadium, Nizhny Novgorod 
+            (Granqvist 65' (pen.))
+
+Sat Jun 23
+ 18:00 UTC+3       South Korea   1-2 (0-1)   Mexico       @ Rostov Arena, Rostov-on-Don 
+            (Son Heung-min 90+3'; Carlos Vela 26' (pen.) J. Hernández 66')
+ 21:00 UTC+3       Germany       2-1 (0-1)   Sweden       @ Fisht Stadium, Sochi 
+            (Reus 48' Kroos 90+5'; Toivonen 32')
+
+Wed Jun 27
+ 17:00 UTC+3       South Korea 2-0 (0-0) Germany      @ Kazan Arena, Kazan 
+            (Kim Young-gwon 90+2' Son Heung-min 90+6')
+ 19:00 UTC+5       Mexico 0-3 (0-0)         Sweden       @ Ekaterinburg Arena, Ekaterinburg 
+            (Augustinsson 50' Granqvist 62' (pen.) Álvarez 74' (o.g.))
+
+▪ Group G
+
+Mon Jun 18
+ 18:00 UTC+3         Belgium   3-0 (0-0)   Panama     @ Fisht Stadium, Sochi 
+            (Mertens 47' Lukaku 69', 75')
+ 21:00 UTC+3         Tunisia   1-2 (1-1)   England    @ Volgograd Arena, Volgograd 
+            (Sassi 35' (pen.); Kane 11', 90+1')
+
+Sat Jun 23
+ 15:00 UTC+3         Belgium   5-2 (3-1)   Tunisia    @ Spartak Stadium, Moscow 
+            (E. Hazard 6' (pen.), 51' R. Lukaku 16', 45+3' Batshuayi 90'; 
+             Bronn 18' Khazri 90+3')
+Sun Jun 24
+ 15:00 UTC+3         England   6-1 (5-0)   Panama     @ Nizhny Novgorod Stadium, Nizhny Novgorod 
+            (Stones 8', 40' Kane 22' (pen.), 45+1' (pen.), 62' Lingard 36'; Baloy 78')
+
+Thu Jun 28
+ 20:00 UTC+2         England   0-1 (0-0)   Belgium    @ Kaliningrad Stadium, Kaliningrad 
+            (Adnan Januzaj 51')
+ 21:00 UTC+3         Panama    1-2 (1-0)   Tunisia    @ Mordovia Arena, Saransk 
+            (Yassine Meriah 33' (o.g.); Fakhereedine Ben Youssef 51' Wahbi Khazri 66')
+
+
+▪ Group H
+
+Tue Jun 19
+ 15:00 UTC+3         Colombia   1-2 (1-1)  Japan      @ Mordovia Arena, Saransk 
+            (J. Quintero 39'; Kagawa 6' (pen.) Osako 73')
+ 18:00 UTC+3         Poland     1-2 (0-1)  Senegal    @ Spartak Stadium, Moscow 
+            (Krychowiak 86'; Cionek 37' (o.g.) Niang 60')
+
+Sun Jun 24
+ 20:00 UTC+5         Japan      2-2 (1-1)  Senegal      @ Ekaterinburg Arena, Ekaterinburg 
+            (Inui 34' Honda 78'; Mané 11' M. Wagué 71')
+ 21:00 UTC+3         Poland     0-3 (0-1)  Colombia     @ Kazan Arena, Kazan 
+            (Y. Mina 40' Falcao 70' Cuadrado 75')
+
+Thu Jun 28
+ 17:00 UTC+3         Japan     0-1 (0-1)  Poland       @ Volgograd Arena, Volgograd 
+            (Bednarek 59')
+ 18:00 UTC+4         Senegal   0-1 (0-1)  Colombia     @ Samara Arena, Samara 
+            (Y. Mina 74')

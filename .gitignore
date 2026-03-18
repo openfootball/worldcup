@@ -11,6 +11,12 @@ sandbox/
 tmp/
 
 
+##
+#  exclude inplace backups .v2.txt,.v26xxx.txt
+
+*.v2.txt
+*.v26*.txt
+
 
 
 
