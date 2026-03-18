@@ -11,205 +11,214 @@ Group G  |  Germany      Portugal             Ghana          USA
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
-Matchday 1  |  Thu Jun/12
-Matchday 2  |  Fri Jun/13
-Matchday 3  |  Sat Jun/14
-Matchday 4  |  Sun Jun/15
-Matchday 5  |  Mon Jun/16
-Matchday 6  |  Tue Jun/17
-Matchday 7  |  Wed Jun/18
-Matchday 8  |  Thu Jun/19
-Matchday 9  |  Fri Jun/20
-Matchday 10 |  Sat Jun/21
-Matchday 11 |  Sun Jun/22
-Matchday 12 |  Mon Jun/23
-Matchday 13 |  Tue Jun/24
-Matchday 14 |  Wed Jun/25
-Matchday 15 |  Thu Jun/26
+▪ Matchday 1  |  Thu Jun 12
+▪ Matchday 2  |  Fri Jun 13
+▪ Matchday 3  |  Sat Jun 14
+▪ Matchday 4  |  Sun Jun 15
+▪ Matchday 5  |  Mon Jun 16
+▪ Matchday 6  |  Tue Jun 17
+▪ Matchday 7  |  Wed Jun 18
+▪ Matchday 8  |  Thu Jun 19
+▪ Matchday 9  |  Fri Jun 20
+▪ Matchday 10 |  Sat Jun 21
+▪ Matchday 11 |  Sun Jun 22
+▪ Matchday 12 |  Mon Jun 23
+▪ Matchday 13 |  Tue Jun 24
+▪ Matchday 14 |  Wed Jun 25
+▪ Matchday 15 |  Thu Jun 26
 
 
 
 
-» Group A
+▪ Group A
 
-Thu Jun/12 
-  17:00   Brazil v Croatia   3-1 (1-1)       @ Arena de São Paulo, São Paulo (UTC-3)
-                     (Neymar 29', 71'pen Oscar 90+1';  Marcelo 11' og)
-Fri Jun/13 
-  13:00   Mexico v Cameroon  1-0 (0-0)     @ Estádio das Dunas, Natal (UTC-3)
+Thu Jun 12 
+  17:00 UTC-3  Brazil v Croatia   3-1 (1-1)       @ Arena de São Paulo, São Paulo 
+                     (Neymar 29', 71'pen Oscar 90+1'; Marcelo 11' og)
+Fri Jun 13 
+  13:00 UTC-3  Mexico v Cameroon  1-0 (0-0)     @ Estádio das Dunas, Natal 
                          (Oribe Peralta 61')
 
-Tue Jun/17 
-  16:00   Brazil v Mexico   0-0        @ Estádio Castelão, Fortaleza (UTC-3)
-Wed Jun/18 
-  18:00   Cameroon v Croatia  0-4     @ Arena Amazônia, Manaus (UTC-4)
-                          (-; Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73')
+Tue Jun 17 
+  16:00 UTC-3  Brazil v Mexico   0-0        @ Estádio Castelão, Fortaleza 
+Wed Jun 18 
+  18:00 UTC-4  Cameroon v Croatia  0-4     @ Arena Amazônia, Manaus 
+                          (Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73')
 
-Mon Jun/23 
-  17:00   Cameroon v Brazil  1-4     @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                          (Joel Matip 26'; Neymar 17', 35' Fred 49' Fernandinho 84')
-  17:00   Croatia v Mexico  1-3     @ Arena Pernambuco, Recife (UTC-3)
-                          (Ivan Perišić 87';  Rafael Márquez 72' Andres Guardado 75' Javier Hernández 82')
+Mon Jun 23 
+  17:00 UTC-3  Cameroon v Brazil  1-4     @ Estádio Nacional Mané Garrincha, Brasília 
+                          (Joel Matip 26'; 
+                           Neymar 17', 35' Fred 49' Fernandinho 84')
+  17:00 UTC-3  Croatia v Mexico  1-3     @ Arena Pernambuco, Recife 
+                          (Ivan Perišić 87';  
+                           Rafael Márquez 72' Andres Guardado 75' Javier Hernández 82')
 
-» Group B
+▪ Group B
 
-Fri Jun/13 
-  16:00   Spain v Netherlands  1-5 (1-1)    @ Arena Fonte Nova, Salvador (UTC-3)
-                          (Xabi Alonso 27'pen;  Robin Van Persie  44', 72' Arjen Robben 53', 80' Stefan De Vrij 65')
+Fri Jun 13 
+  16:00 UTC-3  Spain v Netherlands  1-5 (1-1)    @ Arena Fonte Nova, Salvador 
+                          (Xabi Alonso 27'pen;  
+                           Robin Van Persie  44', 72' Arjen Robben 53', 80' Stefan De Vrij 65')
 
-  18:00   Chile v Australia  3-1 (2-1)       @ Arena Pantanal, Cuiabá (UTC-4)
+  18:00 UTC-4  Chile v Australia  3-1 (2-1)       @ Arena Pantanal, Cuiabá 
                           (Alexis Sánchez 12' Jorge Valdívia 14' Jean Beausejour 90+2'; Cahill 35')
 
-Wed Jun/18 
-  13:00   Australia v Netherlands  2-3   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-                          (Tim Cahill 21' Mile Jedinak 54'pen;  Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68')
+Wed Jun 18 
+  13:00 UTC-3  Australia v Netherlands  2-3   @ Estádio Beira-Rio, Porto Alegre 
+                          (Tim Cahill 21' Mile Jedinak 54'pen;  
+                           Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68')
 
-  16:00   Spain v Chile  0-2             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-                          (-; Eduardo Vargas 20' Charles Aránguiz 43')
+  16:00 UTC-3  Spain v Chile  0-2             @ Estádio do Maracanã, Rio de Janeiro 
+                          (Eduardo Vargas 20' Charles Aránguiz 43')
 
 
-Mon Jun/23 
-  13:00   Australia v Spain  0-3        @ Arena da Baixada, Curitiba (UTC-3)
-                          (-; David Villa 36' Fernando Torres 69' Juan Mata 82')
+Mon Jun 23 
+  13:00 UTC-3  Australia v Spain  0-3        @ Arena da Baixada, Curitiba 
+                          (David Villa 36' Fernando Torres 69' Juan Mata 82')
 
-  13:00   Netherlands v Chile  2-0       @ Arena de São Paulo, São Paulo (UTC-3)
+  13:00 UTC-3  Netherlands v Chile  2-0       @ Arena de São Paulo, São Paulo 
                           (Leroy Fer 77' Memphis Depay 90+2')
 
-» Group C
+▪ Group C
 
-Sat Jun/14 
-  13:00   Colombia v Greece  3-0          @ Estádio Mineirão, Belo Horizonte (UTC-3)
+Sat Jun 14 
+  13:00 UTC-3  Colombia v Greece  3-0          @ Estádio Mineirão, Belo Horizonte 
                          (Pablo Armero 5' Teofilo Gutiérrez 58' James Rodríguez 90+3')
 
-  22:00   Côte d'Ivoire v Japan  2-1      @ Arena Pernambuco, Recife (UTC-3)
+  22:00 UTC-3  Côte d'Ivoire v Japan  2-1      @ Arena Pernambuco, Recife 
                          (Wilfried Bony 64' Gervinho 66';  Keisuke Honda 16')
 
-Thu Jun/19 
-  13:00   Colombia v Côte d'Ivoire  2-1   @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
+Thu Jun 19 
+  13:00 UTC-3  Colombia v Côte d'Ivoire  2-1   @ Estádio Nacional Mané Garrincha, Brasília 
                          (James Rodríguez 64' Juan Quintero 70';  Gervinho 73')
 
-  19:00   Japan v Greece  0-0            @ Estádio das Dunas, Natal (UTC-3)
+  19:00 UTC-3  Japan v Greece  0-0            @ Estádio das Dunas, Natal 
 
-Tue Jun/24 
-  16:00   Japan v Colombia  1-4            @ Arena Pantanal, Cuiabá (UTC-4)
-                         (Shinji Okazaki 45+1'; Juan Cuadrado 17'pen Jackson Martínez 55', 82' James Rodríguez 90')
+Tue Jun 24 
+  16:00 UTC-4  Japan v Colombia  1-4            @ Arena Pantanal, Cuiabá 
+                         (Shinji Okazaki 45+1'; 
+                          Juan Cuadrado 17'pen Jackson Martínez 55', 82' James Rodríguez 90')
 
-  17:00   Greece v Côte d'Ivoire  2-1      @ Estádio Castelão, Fortaleza (UTC-3)
+  17:00 UTC-3   Greece v Côte d'Ivoire  2-1      @ Estádio Castelão, Fortaleza 
                          (Andreas Samaris 42' Georgios Samaras 90+3'pen; Wilfried Bony 74')
 
 
-» Group D
+▪ Group D
 
-Sat Jun/14 
-  16:00   Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza (UTC-3)
-                         [Edinson Cavani 24' (pen.);  Joel Campbell 54' Oscar Duarte 57' Marcos Ureña 84']
+Sat Jun 14 
+  16:00 UTC-3  Uruguay 1-3 Costa Rica       @ Estádio Castelão, Fortaleza 
+                         (Edinson Cavani 24' (pen.);  
+                          Joel Campbell 54' Oscar Duarte 57' Marcos Ureña 84')
 
-  18:00   England 1-2 Italy            @ Arena Amazônia, Manaus (UTC-4)
-                         [Daniel Sturridge 37';  Claudio Marchisio 35' Mario Balotelli 50']
+  18:00 UTC-4  England 1-2 Italy            @ Arena Amazônia, Manaus 
+                         (Daniel Sturridge 37';  Claudio Marchisio 35' Mario Balotelli 50')
 
-Thu Jun/19 
-  16:00   Uruguay 2-1 England          @ Arena de São Paulo, São Paulo (UTC-3)
-                         [Luis Suárez 39', 85';  Wayne Rooney 75']
+Thu Jun 19 
+  16:00 UTC-3  Uruguay 2-1 England          @ Arena de São Paulo, São Paulo 
+                         (Luis Suárez 39', 85';  Wayne Rooney 75')
 
-Fri Jun/20 
-  13:00   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife (UTC-3)
-                         [-; Bryan Ruiz 44']
+Fri Jun 20 
+  13:00 UTC-3   Italy 0-1 Costa Rica         @ Arena Pernambuco, Recife 
+                         (Bryan Ruiz 44')
 
-Tue Jun/24 
-  13:00   Italy 0-1 Uruguay             @ Estádio das Dunas, Natal (UTC-3)
-                         [-; Diego Godín 81']
+Tue Jun 24 
+  13:00 UTC-3  Italy 0-1 Uruguay             @ Estádio das Dunas, Natal 
+                         (Diego Godín 81')
 
-  13:00   Costa Rica 0-0 England        @ Estádio Mineirão, Belo Horizonte (UTC-3)
-
-
-» Group E
-
-Sun Jun/15 
-  13:00   Switzerland 2-1 Ecuador      @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                          [Admir Mehmedi 48' Haris Seferović 90+3'; Enner Valencia 22']
-  16:00   France 3-0 Honduras          @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-                          [Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72']
+  13:00 UTC-3   Costa Rica 0-0 England        @ Estádio Mineirão, Belo Horizonte 
 
 
-Fri Jun/20 
-   16:00   Switzerland 2-5 France       @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Blerim Džemaili 81' Granit Xhaka 87'; Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73']
-   19:00   Honduras 1-2 Ecuador         @ Arena da Baixada, Curitiba (UTC-3)
-                          [Carlo Costly 31'; Enner Valencia 34', 65']
-Wed Jun/25 
-  16:00   Honduras 0-3 Switzerland     @ Arena Amazônia, Manaus (UTC-4)
-                          [-; Xherdan Shaqiri 6', 31', 71']
+▪ Group E
 
-  17:00   Ecuador  0-0 France          @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+Sun Jun 15 
+  13:00 UTC-3   Switzerland 2-1 Ecuador      @ Estádio Nacional Mané Garrincha, Brasília 
+                          (Admir Mehmedi 48' Haris Seferović 90+3'; Enner Valencia 22')
+  16:00 UTC-3  France 3-0 Honduras          @ Estádio Beira-Rio, Porto Alegre 
+                          (Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72')
 
 
-» Group F
+Fri Jun 20 
+   16:00 UTC-3  Switzerland 2-5 France       @ Arena Fonte Nova, Salvador 
+                          (Blerim Džemaili 81' Granit Xhaka 87'; 
+                           Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73')
+   19:00 UTC-3   Honduras 1-2 Ecuador         @ Arena da Baixada, Curitiba 
+                          (Carlo Costly 31'; Enner Valencia 34', 65')
+Wed Jun 25 
+  16:00 UTC-4   Honduras 0-3 Switzerland     @ Arena Amazônia, Manaus 
+                          (Xherdan Shaqiri 6', 31', 71')
 
-Sun Jun/15 
-   19:00   Argentina 2-1 Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-                          [Sead Kolašinac 3' (o.g.) Lionel Messi 65'; Vedad Ibišević 85']
-
-Mon Jun/16 
-   16:00   Iran 0-0 Nigeria                    @ Arena da Baixada, Curitiba (UTC-3)
-
-Sat Jun/21 
-   13:00   Argentina 1-0 Iran                  @ Estádio Mineirão, Belo Horizonte (UTC-3)
-                          [Lionel Messi 90']
-
-   18:00   Nigeria 1-0 Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá (UTC-4)
-                          [Peter Odemwingie 29']
+  17:00 UTC-3   Ecuador  0-0 France          @ Estádio do Maracanã, Rio de Janeiro 
 
 
-Wed Jun/25 
-   13:00   Nigeria 2-3 Argentina               @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-                          [Ahmed Musa 4', 47'; Lionel Messi 3', 45+1' Marcos Rojo 50']
+▪ Group F
 
-   13:00   Bosnia-Herzegovina 3-1 Iran         @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Edin Džeko 23' Miralem Pjanić 59' Avdija Vršajević 83'; Reza Ghoochannejhad 82']
+Sun Jun 15 
+   19:00 UTC-3   Argentina 2-1 Bosnia-Herzegovina    @ Estádio do Maracanã, Rio de Janeiro 
+                          (Sead Kolašinac 3' (o.g.) Lionel Messi 65'; Vedad Ibišević 85')
 
-» Group G
+Mon Jun 16 
+   16:00 UTC-3  Iran 0-0 Nigeria                    @ Arena da Baixada, Curitiba 
 
-Mon Jun/16 
-   13:00   Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador (UTC-3)
-                          [Thomas Müller 12' (pen.), 45+1', 78' Mats Hummels 32']
+Sat Jun 21 
+   13:00 UTC-3  Argentina 1-0 Iran                  @ Estádio Mineirão, Belo Horizonte 
+                          (Lionel Messi 90')
 
-   19:00   Ghana 1-2 USA        @ Estádio das Dunas, Natal (UTC-3)
-                          [André Ayew 82';  Clint Dempsey 1' John Brooks 86']
+   18:00 UTC-4  Nigeria 1-0 Bosnia-Herzegovina      @ Arena Pantanal, Cuiabá 
+                          (Peter Odemwingie 29')
 
-Sat Jun/21 
-   16:00   Germany 2-2 Ghana              @ Estádio Castelão, Fortaleza (UTC-3)
-                          [Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63']
 
-Sun Jun/22 
-   18:00   USA 2-2 Portugal     @ Arena Amazônia, Manaus (UTC-4)
-                          [Jermaine Jones 64' Clint Dempsey 81'; Nani 5' Varela 90+5']
+Wed Jun 25 
+   13:00 UTC-3  Nigeria 2-3 Argentina               @ Estádio Beira-Rio, Porto Alegre 
+                          (Ahmed Musa 4', 47'; Lionel Messi 3', 45+1' Marcos Rojo 50')
 
-Thu Jun/26 
-  13:00   USA 0-1 Germany       @ Arena Pernambuco, Recife (UTC-3)
-                          [-; Thomas Müller 55']
+   13:00 UTC-3  Bosnia-Herzegovina 3-1 Iran         @ Arena Fonte Nova, Salvador 
+                          (Edin Džeko 23' Miralem Pjanić 59' Avdija Vršajević 83'; 
+                           Reza Ghoochannejhad 82')
 
-  13:00   Portugal 2-1 Ghana              @ Estádio Nacional Mané Garrincha, Brasília (UTC-3)
-                          [John Boye 31' (o.g.) Cristiano Ronaldo 80'; Asamoah Gyan 57']
+▪ Group G
 
-» Group H
+Mon Jun 16 
+   13:00 UTC-3  Germany 4-0 Portugal           @ Arena Fonte Nova, Salvador 
+                          (Thomas Müller 12' (pen.), 45+1', 78' Mats Hummels 32')
 
-Tue Jun/17 
-   13:00   Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte (UTC-3)
-                          [Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli 25' (pen.)]
-   18:00   Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá (UTC-4)
-                          [Alexander Kerzhakov 74'; Lee Keunho 68']
-Sun Jun/22 
-   13:00   Belgium 1-0 Russia          @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-                          [Divock Origi 88']
+   19:00 UTC-3  Ghana 1-2 USA        @ Estádio das Dunas, Natal
+                          (André Ayew 82';  Clint Dempsey 1' John Brooks 86')
 
-   16:00   South Korea 2-4 Algeria     @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-                          [Son Heung Min 50' Koo Jacheol 72'; Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62']
+Sat Jun 21 
+   16:00 UTC-3  Germany 2-2 Ghana              @ Estádio Castelão, Fortaleza 
+                          (Mario Götze 51' Miroslav Klose 71'; André Ayew  54' Asamoah Gyan 63')
 
-Thu Jun/26 
-   17:00   South Korea 0-1 Belgium     @ Arena de São Paulo, São Paulo (UTC-3)
-                          [-; Jan Vertonghen 78']
+Sun Jun 22 
+   18:00 UTC-4  USA 2-2 Portugal     @ Arena Amazônia, Manaus 
+                          (Jermaine Jones 64' Clint Dempsey 81'; Nani 5' Varela 90+5')
 
-   17:00   Algeria 1-1 Russia          @ Arena da Baixada, Curitiba (UTC-3)
-                          [Islam Slimani 60'; Alexander Kokorin 6']
+Thu Jun 26 
+  13:00 UTC-3  USA 0-1 Germany       @ Arena Pernambuco, Recife 
+                          (Thomas Müller 55')
+
+  13:00 UTC-3   Portugal 2-1 Ghana              @ Estádio Nacional Mané Garrincha, Brasília 
+                          (John Boye 31' (o.g.) Cristiano Ronaldo 80'; Asamoah Gyan 57')
+
+▪ Group H
+
+Tue Jun 17 
+   13:00 UTC-3  Belgium 2-1 Algeria         @ Estádio Mineirão, Belo Horizonte 
+                          (Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli 25' (pen.))
+   18:00 UTC-4  Russia 1-1 South Korea      @ Arena Pantanal, Cuiabá 
+                          (Alexander Kerzhakov 74'; Lee Keunho 68')
+Sun Jun 22 
+   13:00 UTC-3  Belgium 1-0 Russia          @ Estádio do Maracanã, Rio de Janeiro 
+                          (Divock Origi 88')
+
+   16:00 UTC-3  South Korea 2-4 Algeria     @ Estádio Beira-Rio, Porto Alegre 
+                          (Son Heung Min 50' Koo Jacheol 72'; 
+                           Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62')
+
+Thu Jun 26 
+   17:00 UTC-3  South Korea 0-1 Belgium     @ Arena de São Paulo, São Paulo 
+                          (Jan Vertonghen 78')
+
+   17:00 UTC-3  Algeria 1-1 Russia          @ Arena da Baixada, Curitiba 
+                          (Islam Slimani 60'; Alexander Kokorin 6')
 
 
