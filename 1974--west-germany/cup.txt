@@ -6,57 +6,57 @@ Group 3  |  Netherlands    Sweden          Bulgaria      Uruguay
 Group 4  |  Poland         Argentina       Italy         Haiti
 
 
-Matchday 1 |  June 13-15 
-Matchday 2 |  June 18-19 
-Matchday 3 |  June 22-23 
+▪ Matchday 1 |  June 13-15 
+▪ Matchday 2 |  June 18-19 
+▪ Matchday 3 |  June 22-23 
 
 
-Group 1
+▪ Group 1
 
-(1)  14 June    West Germany  1-0   Chile        @ Olympiastadion, West Berlin
-(2)  14 June    East Germany  2-0   Australia    @ Volksparkstadion, Hamburg
+14 June    West Germany  1-0   Chile        @ Olympiastadion, West Berlin
+14 June    East Germany  2-0   Australia    @ Volksparkstadion, Hamburg
 
-(9)  18 June    Chile         1-1   East Germany   @ Olympiastadion, West Berlin
-(10) 18 June    Australia     0-3   West Germany   @ Volksparkstadion, Hamburg
+18 June    Chile         1-1   East Germany   @ Olympiastadion, West Berlin
+18 June    Australia     0-3   West Germany   @ Volksparkstadion, Hamburg
 
-(17) 22 June    Australia     0-0   Chile          @ Olympiastadion, West Berlin
-(18) 22 June    East Germany  1-0   West Germany   @ Volksparkstadion, Hamburg
-
-
-Group 2
-
-(3)  13 June    Brazil      0-0   Yugoslavia      @ Waldstadion, Frankfurt
-(4)  14 June    Zaire       0-2   Scotland        @ Westfalenstadion, Dortmund
-
-(11) 18 June    Yugoslavia  9-0   Zaire           @ Parkstadion, Gelsenkirchen
-(12) 18 June    Scotland    0-0   Brazil          @ Waldstadion, Frankfurt
-
-(19) 22 June    Scotland    1-1   Yugoslavia      @ Waldstadion, Frankfurt
-(20) 22 June    Zaire       0-3   Brazil          @ Parkstadion, Gelsenkirchen
+22 June    Australia     0-0   Chile          @ Olympiastadion, West Berlin
+22 June    East Germany  1-0   West Germany   @ Volksparkstadion, Hamburg
 
 
-Group 3
+▪ Group 2
 
-(5)  15 June    Uruguay      0-2    Netherlands    @ Niedersachsenstadion, Hanover
-(6)  15 June    Sweden       0-0    Bulgaria       @ Rheinstadion, Düsseldorf
+13 June    Brazil      0-0   Yugoslavia      @ Waldstadion, Frankfurt
+14 June    Zaire       0-2   Scotland        @ Westfalenstadion, Dortmund
 
-(13) 19 June    Netherlands  0-0    Sweden         @ Westfalenstadion, Dortmund
-(14) 19 June    Uruguay      1-1    Bulgaria       @ Niedersachsenstadion, Hanover
+18 June    Yugoslavia  9-0   Zaire           @ Parkstadion, Gelsenkirchen
+18 June    Scotland    0-0   Brazil          @ Waldstadion, Frankfurt
 
-(21) 23 June    Netherlands  4-1    Bulgaria       @ Westfalenstadion, Dortmund
-(22) 23 June    Sweden       3-0    Uruguay        @ Rheinstadion, Düsseldorf
+22 June    Scotland    1-1   Yugoslavia      @ Waldstadion, Frankfurt
+22 June    Zaire       0-3   Brazil          @ Parkstadion, Gelsenkirchen
 
 
-Group 4
+▪ Group 3
 
-(7)  15 June    Italy       3-1    Haiti          @ Olympiastadion, Munich
-(8)  15 June    Poland      3-2    Argentina      @ Neckarstadion, Stuttgart
+15 June    Uruguay      0-2    Netherlands    @ Niedersachsenstadion, Hanover
+15 June    Sweden       0-0    Bulgaria       @ Rheinstadion, Düsseldorf
 
-(15) 19 June    Haiti       0-7    Poland         @ Olympiastadion, Munich
-(16) 19 June    Argentina   1-1    Italy          @ Neckarstadion, Stuttgart
+19 June    Netherlands  0-0    Sweden         @ Westfalenstadion, Dortmund
+19 June    Uruguay      1-1    Bulgaria       @ Niedersachsenstadion, Hanover
 
-(23) 23 June    Argentina   4-1    Haiti          @ Olympiastadion, Munich
-(24) 23 June    Poland      2-1    Italy          @ Neckarstadion, Stuttgart
+23 June    Netherlands  4-1    Bulgaria       @ Westfalenstadion, Dortmund
+23 June    Sweden       3-0    Uruguay        @ Rheinstadion, Düsseldorf
+
+
+▪ Group 4
+
+15 June    Italy       3-1    Haiti          @ Olympiastadion, München
+15 June    Poland      3-2    Argentina      @ Neckarstadion, Stuttgart
+
+19 June    Haiti       0-7    Poland         @ Olympiastadion, München
+19 June    Argentina   1-1    Italy          @ Neckarstadion, Stuttgart
+
+23 June    Argentina   4-1    Haiti          @ Olympiastadion, München
+23 June    Poland      2-1    Italy          @ Neckarstadion, Stuttgart
 
 
 #### Second Round
@@ -68,41 +68,40 @@ Group B  |  West Germany    Poland     Sweden           Yugoslavia
 
 ## todo/check: use Matchday 2.1, 2.2, 2.3 or such - why? why not?
 
-Matchday 4 |  June 26
-Matchday 5 |  June 30
-Matchday 6 |  July 3
+▪ Matchday 4 |  June 26
+▪ Matchday 5 |  June 30
+▪ Matchday 6 |  July 3
 
 
-Group A
+▪ Group A
 
-(25) 26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
-(26) 26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
+26 June    Brazil         1-0   East Germany     @ Niedersachsenstadion, Hanover
+26 June    Netherlands    4-0   Argentina        @ Parkstadion, Gelsenkirchen
 
-(29) 30 June    East Germany   0-2   Netherlands      @ Parkstadion, Gelsenkirchen
-(30) 30 June    Argentina      1-2   Brazil           @ Niedersachsenstadion, Hanover
+30 June    East Germany   0-2   Netherlands      @ Parkstadion, Gelsenkirchen
+30 June    Argentina      1-2   Brazil           @ Niedersachsenstadion, Hanover
 
-(33) 3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
-(34) 3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
+3 July     Argentina      1-1   East Germany     @ Parkstadion, Gelsenkirchen
+3 July     Netherlands    2-0   Brazil           @ Westfalenstadion, Dortmund
 
-Group B
+▪ Group B
 
-(27) 26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
-(28) 26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart
+26 June    Yugoslavia    0-2   West Germany   @ Rheinstadion, Düsseldorf
+26 June    Sweden        0-1   Poland         @ Neckarstadion, Stuttgart
 
-(31) 30 June    West Germany  4-2   Sweden         @ Rheinstadion, Düsseldorf
-(32) 30 June    Poland        2-1   Yugoslavia     @ Waldstadion, Frankfurt
+30 June    West Germany  4-2   Sweden         @ Rheinstadion, Düsseldorf
+30 June    Poland        2-1   Yugoslavia     @ Waldstadion, Frankfurt
 
-(35) 3 July     Poland        0-1   West Germany   @ Waldstadion, Frankfurt
-(36) 3 July     Sweden        2-1   Yugoslavia     @ Rheinstadion, Düsseldorf
+3 July     Poland        0-1   West Germany   @ Waldstadion, Frankfurt
+3 July     Sweden        2-1   Yugoslavia     @ Rheinstadion, Düsseldorf
 
 
 
-Match for third place
+▪ Match for third place
 
-# fix: use Muenchen not Munich
-(37) 6 July     Brazil        0-1  Poland        @ Olympiastadion, Munich
+6 July     Brazil        0-1  Poland        @ Olympiastadion, München
 
-Final
+▪ Final
 
-(38) 7 July     Netherlands   1-2  West Germany  @ Olympiastadion, Munich
+7 July     Netherlands   1-2  West Germany  @ Olympiastadion, München
 

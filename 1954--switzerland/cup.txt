@@ -7,86 +7,77 @@ Group 3  |  Uruguay  Austria       Czechoslovakia  Scotland
 Group 4  |  England  Switzerland   Italy           Belgium
 
 
-Matchday 1  | June 16-17 
-Matchday 2  | June 19-20 
+▪ Matchday 1  | June 16-17 
+▪ Matchday 2  | June 19-20 
 
 
-Group 1
+▪ Group 1
 
-(3)  16 June    Brazil       5-0   Mexico    @ Charmilles Stadium, Geneva
-(4)  16 June    Yugoslavia   1-0   France    @ Stade Olympique de la Pontaise, Lausanne
+16 June    Brazil       5-0   Mexico    @ Charmilles Stadium, Geneva
+16 June    Yugoslavia   1-0   France    @ Stade Olympique de la Pontaise, Lausanne
 
-(10) 19 June    Brazil     1-1 a.e.t. (1-1)  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
-(11) 19 June    France     3-2             Mexico      @ Charmilles Stadium, Geneva
-
-
-Group 2
-
-(5)  17 June    West Germany    4-1   Turkey         @ Wankdorf Stadium, Bern
-(8)  17 June    Hungary         9-0   South Korea    @ Hardturm Stadium, Zürich
-
-(14) 20 June    Hungary         8-3   West Germany   @ St. Jakob Stadium, Basel
-(15) 20 June    Turkey          7-0   South Korea    @ Charmilles Stadium, Geneva
+19 June    Brazil     1-1 a.e.t. (1-1)  Yugoslavia  @ Stade Olympique de la Pontaise, Lausanne
+19 June    France     3-2             Mexico      @ Charmilles Stadium, Geneva
 
 
-## use Play-off Group 2 instead of Group 2 Playoff
-##   - to avoid confusion with Group 2 - why? why not?
+▪ Group 2
 
-Group 2 Play-off
+17 June    West Germany    4-1   Turkey         @ Wankdorf Stadium, Bern
+17 June    Hungary         9-0   South Korea    @ Hardturm Stadium, Zürich
 
-### what match number to use - fifa says 231?? use 24+1=>25 for now
-# note: use Group-2 Play-off e.g. Group-2 instead of Group 2 to avoid group match in round header - fix!!!
-
-(25) 23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
+20 June    Hungary         8-3   West Germany   @ St. Jakob Stadium, Basel
+20 June    Turkey          7-0   South Korea    @ Charmilles Stadium, Geneva
 
 
-Group 3
+▪ Group 2 Play-off
 
-(1)  16 June    Uruguay          2-0  Czechoslovakia    @ Wankdorf Stadium, Bern
-(2)  16 June    Austria          1-0  Scotland          @ Hardturm Stadium, Zürich
-
-(9)  19 June    Austria          5-0  Czechoslovakia    @ Hardturm Stadium, Zürich
-(12) 19 June    Uruguay          7-0  Scotland          @ St. Jakob Stadium, Basel
+23 June    West Germany     7-2  Turkey     @ Hardturm Stadium, Zürich
 
 
-Group 4
+▪ Group 3
 
-(6)  17 June    England          4-4 a.e.t. (3-3)  Belgium    @ St. Jakob Stadium, Basel
-(7)  17 June    Switzerland      2-1  Italy                 @ Stade Olympique de la Pontaise, Lausanne
+16 June    Uruguay          2-0  Czechoslovakia    @ Wankdorf Stadium, Bern
+16 June    Austria          1-0  Scotland          @ Hardturm Stadium, Zürich
 
-(13) 20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
-(16) 20 June    Italy            4-1  Belgium         @ Cornaredo Stadium, Lugano
-
-
-Group 4 Play-off
-
-### what match number to use - fifa says 211?? - use 24+2=>26 for now
-# note: use Group-4 Play-off e.g. Group-4 instead of Group 4 to avoid group match in round header - fix!!!
-
-(26) 23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
+19 June    Austria          5-0  Czechoslovakia    @ Hardturm Stadium, Zürich
+19 June    Uruguay          7-0  Scotland          @ St. Jakob Stadium, Basel
 
 
-Quarter-finals
+▪ Group 4
 
-(19) 26 June    Austria          7-5   Switzerland    @ Stade Olympique de la Pontaise, Lausanne
-(20) 26 June    Uruguay          4-2   England        @ St. Jakob Stadium, Basel
+17 June    England          4-4 a.e.t. (3-3)  Belgium    @ St. Jakob Stadium, Basel
+17 June    Switzerland      2-1  Italy                 @ Stade Olympique de la Pontaise, Lausanne
 
-(17) 27 June    Yugoslavia       0-2   West Germany   @ Charmilles Stadium, Geneva
-(18) 27 June    Brazil           2-4   Hungary        @ Wankdorf Stadium, Bern
-
-
-Semi-finals
-
-(21) 30 June    West Germany     6-1         Austria        @ St. Jakob Stadium, Basel
-(22) 30 June    Hungary      4-2 a.e.t. (2-2)  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
+20 June    England          2-0  Switzerland     @ Wankdorf Stadium, Bern
+20 June    Italy            4-1  Belgium         @ Cornaredo Stadium, Lugano
 
 
-Third-place match         ## use just Third-place  - why? why not?
+▪ Group 4 Play-off
 
-(23) 3 July     Uruguay         1-3    Austria   @ Hardturm Stadium, Zürich
+23 June    Switzerland      4-1   Italy      @ St. Jakob Stadium, Basel
 
 
-Final
+▪ Quarter-finals
 
-(24) 4 July     Hungary         2-3    West Germany    @ Wankdorf Stadium, Bern
+26 June    Austria          7-5   Switzerland    @ Stade Olympique de la Pontaise, Lausanne
+26 June    Uruguay          4-2   England        @ St. Jakob Stadium, Basel
+
+27 June    Yugoslavia       0-2   West Germany   @ Charmilles Stadium, Geneva
+27 June    Brazil           2-4   Hungary        @ Wankdorf Stadium, Bern
+
+
+▪ Semi-finals
+
+30 June    West Germany     6-1         Austria        @ St. Jakob Stadium, Basel
+30 June    Hungary      4-2 a.e.t. (2-2)  Uruguay        @ Stade Olympique de la Pontaise, Lausanne
+
+
+▪ Third-place match       
+
+3 July     Uruguay         1-3    Austria   @ Hardturm Stadium, Zürich
+
+
+▪ Final
+
+4 July     Hungary         2-3    West Germany    @ Wankdorf Stadium, Bern
 

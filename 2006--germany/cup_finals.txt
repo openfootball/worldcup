@@ -4,42 +4,42 @@
 #############
 # Finals
 
-Round of 16
+▪ Round of 16
 
-(49)  Sat Jun/24    Germany      2-0 (2-0)  Sweden          @ Allianz Arena, München
-(50)  Sat Jun/24    Argentina    2-1 a.e.t. (1-1, 1-1)  Mexico   @ Zentralstadion, Leipzig
-(51)  Sun Jun/25    England      1-0 (0-0)  Ecuador         @ Gottlieb-Daimler-Stadion, Stuttgart
-(52)  Sun Jun/25    Portugal     1-0 (1-0)  Netherlands     @ Frankenstadion, Nürnberg
-(53)  Mon Jun/26    Italy        1-0 (0-0)  Australia       @ Fritz-Walter-Stadion, Kaiserslautern
-(54)  Mon Jun/26    Switzerland  0-3 pen. 0-0 a.e.t. (0-0)   Ukraine  @ RheinEnergieStadion, Köln
-(55)  Tue Jun/27    Brazil       3-0 (2-0)  Ghana           @ Signal Iduna Park, Dortmund
-(56)  Tue Jun/27    Spain        1-3 (1-1)  France          @ AWD-Arena, Hannover
-
-
-Quarterfinals
-
-(57)  Fri Jun/30    Germany  4-2 pen. 1-1 a.e.t. (1-1, 0-0)  Argentina   @ Olympiastadion, Berlin
-(58)  Fri Jun/30    Italy    3-0 (1-0)  Ukraine                  @ AOL Arena, Hamburg
-(59)  Sat Jul/1     England   1-3 pen. 0-0 a.e.t. (0-0)  Portugal          @ Veltins-Arena, Gelsenkirchen
-(60)  Sat Jul/1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
+Sat Jun 24    Germany      2-0 (2-0)  Sweden          @ Allianz Arena, München
+Sat Jun 24    Argentina    2-1 a.e.t. (1-1, 1-1)  Mexico   @ Zentralstadion, Leipzig
+Sun Jun 25    England      1-0 (0-0)  Ecuador         @ Gottlieb-Daimler-Stadion, Stuttgart
+Sun Jun 25    Portugal     1-0 (1-0)  Netherlands     @ Frankenstadion, Nürnberg
+Mon Jun 26    Italy        1-0 (0-0)  Australia       @ Fritz-Walter-Stadion, Kaiserslautern
+Mon Jun 26    Switzerland  0-3 pen. 0-0 a.e.t. (0-0)   Ukraine  @ RheinEnergieStadion, Köln
+Tue Jun 27    Brazil       3-0 (2-0)  Ghana           @ Signal Iduna Park, Dortmund
+Tue Jun 27    Spain        1-3 (1-1)  France          @ AWD-Arena, Hannover
 
 
-Semifinals
+▪ Quarterfinals
 
-(61)  Tue Jul/4    Germany   0-2 a.e.t. (0-0)  Italy              @ Signal Iduna Park, Dortmund
-                     # -; Grosso 119' Del Piero 120+1'
-
-(62)  Wed Jul/5    Portugal  0-1 (0-1)  France         @ Allianz Arena, München
-                     # -; Zidane 33' (pen.)
-
-Third-place play-off
-
-(63)  Sat Jul/8    Germany  3-1 (0-0)  Portugal         @ Gottlieb-Daimler-Stadion, Stuttgart
-                     # Schweinsteiger 56', 78' Petit 60' (o.g.);  Nuno Gomes 88'
+Fri Jun 30    Germany  1-1 a.e.t. (1-1, 0-0), 4-2 pen.  Argentina   @ Olympiastadion, Berlin
+Fri Jun 30    Italy    3-0 (1-0)  Ukraine                  @ AOL Arena, Hamburg
+Sat Jul 1     England  0-0 a.e.t. (0-0), 1-3 pen.  Portugal          @ Veltins-Arena, Gelsenkirchen
+Sat Jul 1     Brazil    0-1 (0-0)  France                  @ Commerzbank-Arena, Frankfurt
 
 
-Final
+▪ Semifinals
 
-(64)  Sun Jul/9    Italy  5-3 pen. 1-1 a.e.t. (1-1, 1-1)   France      @ Olympiastadion, Berlin
-                     # Materazzi 19'; Zidane 7' (pen.)
+Tue Jul 4    Germany   0-2 a.e.t. (0-0)  Italy              @ Signal Iduna Park, Dortmund
+                     (Grosso 119' Del Piero 120+1')
+
+Wed Jul 5    Portugal  0-1 (0-1)  France         @ Allianz Arena, München
+                     (Zidane 33' (pen.))
+
+▪ Third-place play-off
+
+Sat Jul 8    Germany  3-1 (0-0)  Portugal         @ Gottlieb-Daimler-Stadion, Stuttgart
+                     (Schweinsteiger 56', 78' Petit 60' (o.g.);  Nuno Gomes 88')
+
+
+▪ Final
+
+Sun Jul 9    Italy   1-1 a.e.t. (1-1, 1-1), 5-3 pen.   France      @ Olympiastadion, Berlin
+                     (Materazzi 19'; Zidane 7' (pen.))
 
