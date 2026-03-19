@@ -7,7 +7,7 @@
 
  
 1930 @ Uruguay       Uruguay             4-2 Argentina
-1934 @ Italy         Italy               2-1 Czechoslovakia   (AET)
+1934 @ Italy         Italy               2-1 Czechoslovakia   (aet)
 1938 @ France        Italy               4-2 Hungary
         
 
@@ -15,20 +15,20 @@
 1954 @ Switzerland   West Germany        3-2 Hungary
 1958 @ Sweden        Brazil              5-2 Sweden
 1962 @ Chile         Brazil              3-1 Czechoslovakia         
-1966 @ England       England             4-2 West Germany     (AET)
+1966 @ England       England             4-2 West Germany     (aet)
 1970 @ Mexico        Brazil              4-1 Italy
 1974 @ West Germany  West Germany        2-1 Netherlands
-1978 @ Argentina     Argentina           3-1 Netherlands      (AET)
+1978 @ Argentina     Argentina           3-1 Netherlands      (aet)
 1982 @ Spain         Italy               3-1 West Germany
 1986 @ Mexico        Argentina           3-2 West Germany
 1990 @ Italy         West Germany        1-0 Argentina
-1994 @ USA           Brazil              0-0 Italy            (AET, 3-2 pen)
+1994 @ USA           Brazil              0-0 Italy            (aet, 3-2 pen)
 1998 @ France        France              3-0 Brazil                  
 2002 @ South Korea and Japan    Brazil   2-0 Germany
-2006 @ Germany       Italy               1-1 France           (AET, 5-3 pen)
-2010 @ South Africa  Spain               1-0 Netherlands      (AET)
-2014 @ Brazil        Germany             1-0 Argentina        (AET)
+2006 @ Germany       Italy               1-1 France           (aet, 5-3 pen)
+2010 @ South Africa  Spain               1-0 Netherlands      (aet)
+2014 @ Brazil        Germany             1-0 Argentina        (aet)
 2018 @ Russia        France              4-2 Croatia
-2022 @ Qatar         Argentina           3-3 France           (AET, 4-2 pen)
+2022 @ Qatar         Argentina           3-3 France           (aet, 4-2 pen)
          
 

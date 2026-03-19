@@ -381,7 +381,7 @@
 
 ▪▪ Path B
 ▪▪▪ Semifinals
-24.3.22 @ Moskva          Russia        awd Poland        [awarded 0-3 because of suspension Russia]
+24.3.22 @ Moskva          Russia        0-3 awd. Poland        [awarded because of suspension Russia]
 24.3.22 @ Solna           Sweden        1-0 Czech Rep.    (aet)
 
 ▪▪▪ Final
@@ -415,8 +415,7 @@ NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
  9.Bolivia      18  4  3 11 23-42 15
 10.Venezuela    18  3  1 14 14-34 10 
 
-
-## todo/fix - add round here - why? why not????
+▪ Round Robin
 
  8.10.20 @ Asunción        Paraguay      2-2 Peru
  8.10.20 @ Montevideo      Uruguay       2-1 Chile
@@ -507,10 +506,10 @@ NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
 29.3.22 @ La Paz          Bolivia       0-4 Brazil
 29.3.22 @ Santiago        Chile         0-2 Uruguay
 29.3.22 @ Guayaquil       Ecuador       1-1 Argentina
-21.9.22 @ São Paulo       Brazil        n/p Argentina     [declared void]
+21.9.22 @ São Paulo       Brazil        n/p Argentina     [voided]
 
 
-##   Peru qualified for inter-confederation play-off
+## Peru qualified for inter-confederation play-off
 ## see play-offs for more !!!
 
 
@@ -518,8 +517,8 @@ NB: 5th placed team qualify for playoff against AFC 5th placed team (Australia)
 
 ==Africa (CAF)==
 
-▪First Round
-▪▪First Legs
+▪ First Round
+▪▪ First Legs
  4.9.19 @ Bahir Dar       Ethiopia      0-0 Lesotho
  4.9.19 @ Asmara          Eritrea       1-2 Namibia
  4.9.19 @ Bujumbura       Burundi       1-1 Tanzania
@@ -787,7 +786,7 @@ NB: the first stage also served as qualifying stage for the 2023 Asian Cup
 
 ▪▪ Second Legs
 11.6.19 @ Bandar Seri B.  Brunei        2-1 Mongolia
-11.6.19 @ Colombo         Sri Lanka     awd Macao         [awarded 3-0]
+11.6.19 @ Colombo         Sri Lanka     3-0 awd. Macao   [awarded]
 11.6.19 @ Dhaka           Bangladesh    0-0 Laos
 11.6.19 @ Kuala Lumpur    East Timor    1-5 Malaysia
 11.6.19 @ Doha            Pakistan      1-2 Cambodia
@@ -937,7 +936,7 @@ NB: the second stage also served as qualifying stage for the 2023 Asian Cup
 14.11.19 @ Muscat          Oman          4-1 Bangladesh
 19.11.19 @ Dushanbe        Afghanistan   0-1 Qatar
 19.11.19 @ Muscat          Oman          1-0 India
- 4-12-19 Doha            Qatar         5-0 Bangladesh
+ 4.12.19 @ Doha            Qatar         5-0 Bangladesh
  3.6.20 @ Doha            Bangladesh    1-1 Afghanistan
  3.6.20 @ Doha            India         0-1 Qatar
  7.6.20 @ Doha            Bangladesh    0-2 India
@@ -1010,8 +1009,9 @@ NB: the second stage also served as qualifying stage for the 2023 Asian Cup
  2.LEBANON       6  3  1  2 11- 8 10  [0-2, 0-0]
  3.Turkmenistan  6  3  0  3  8-11  9  [3-1]
  4.Sri Lanka     6  0  0  6  2-23  0  [0-1]
- -.North Korea   withdrew after playing 5 matches due to safety concerns in \
-                 connection with the Covid-19 pandemic; all results annulled
+ -.North Korea   [withdrew after playing 5 matches due to safety concerns in
+                  connection with the Covid-19 pandemic; all results annulled]
+
 NB: annulled results against North Korea between square brackets  
 
  5.9.19 @ Colombo         Sri Lanka     0-2 Turkmenistan
@@ -1132,16 +1132,16 @@ NB: Australia qualified
 
 ==North and Central America (CONCACAF)==
 
-## Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
+NB: Mexico, United States, Costa Rica, Jamaica and Honduras byes to third round.
 
 ▪ First Round
 ▪▪ Group A
-<!--
+
  1.EL SALVADOR   4  3  1  0 13- 1 10
  2.Montserrat    4  2  2  0  9- 4  8 
  3.Antigua/Barb. 4  2  1  1  6- 5  7
  4.Grenada       4  1  0  3  2- 5  3
- 5.US Virgin I.  4  0  0  4  0-15  0 -->
+ 5.US Virgin I.  4  0  0  4  0-15  0 
 
 24.3.21 @ Willemstad      Antigua/Barb. 2-2 Montserrat
 25.3.21 @ San Salvador    El Salvador   2-0 Grenada
@@ -1155,12 +1155,12 @@ NB: Australia qualified
  8.6.21 @ San Salvador    El Salvador   3-0 Antigua and Barbuda
 
 ▪▪ Group B
-<!--
+
  1.CANADA        4  4  0  0 27- 1 12
  2.Suriname      4  3  0  1 15- 4  9
  3.Bermuda       4  1  1  2  7-12  4
  4.Aruba         4  1  0  3  3-19  3
- 5.Cayman Isl.   4  0  1  3  2-18  1 -->
+ 5.Cayman Isl.   4  0  1  3  2-18  1 
 
 24.3.21 @ Paramaribo      Suriname      3-0 Cayman Islands
 25.3.21 @ Orlando         Canada        5-1 Bermuda
@@ -1174,12 +1174,12 @@ NB: Australia qualified
  8.6.21 @ Bridgeview      Canada        4-0 Suriname
 
 ▪▪ Group C
-<!--
+
  1.CURAÇAO       4  3  1  0 15- 1 10 
  2.Guatemala     4  3  1  0 14- 0 10 
  3.Cuba          4  2  0  2  7- 3  6 
  4.St.Vincent/G. 4  1  0  3  3-16  3 
- 5.Br. Virgin I. 4  0  0  4  0-19  0 -->
+ 5.Br. Virgin I. 4  0  0  4  0-19  0 
 
 24.3.21 @ Guatemala City  Guatemala     1-0 Cuba
 25.3.21 @ Willemstad      Curaçao       5-0 Saint Vincent and the Grenadines
@@ -1193,31 +1193,31 @@ NB: Australia qualified
  8.6.21 @ Willemstad      Curaçao       0-0 Guatemala
 
 ▪▪ Group D
-<!--
+
  1.PANAMA        4  4  0  0 19- 1 12 
  2.Dominican R.  4  2  1  1  8- 4  7 
  3.Barbados      4  1  2  1  3- 3  5 
  4.Dominica      4  1  1  2  5- 4  4 
- 5.Anguilla      4  0  0  4  0-23  0 -->
+ 5.Anguilla      4  0  0  4  0-23  0 
 
-24.3.21 @ Santo Domingo   Dominican R.  1-0 Dominica
-25.3.21 @ Santo Domingo   Panama        1-0 Barbados
-27.3.21 @ Fort Lauderdale Anguilla      0-6 Dominican Republic
-28.3.21 @ Santo Domingo   Dominica      1-2 Panama
-30.3.21 @ Santo Domingo   Barbados      1-0 Anguilla
- 2.6.21 @ Santo Domingo   Dominica      3-0 Anguilla
- 4.6.21 @ Santo Domingo   Dominican R.  1-1 Barbados
- 5.6.21 @ Panama City     Anguilla     0-13 Panama
- 8.6.21 @ Santo Domingo   Barbados      1-1 Dominica
- 8.6.21 @ Panama City     Panama        3-0 Dominican Republic
+24.3.21 @ Santo Domingo    Dominican R.  1-0 Dominica
+25.3.21 @ Santo Domingo    Panama        1-0 Barbados
+27.3.21 @ Fort Lauderdale  Anguilla      0-6 Dominican Republic
+28.3.21 @ Santo Domingo    Dominica      1-2 Panama
+30.3.21 @ Santo Domingo    Barbados      1-0 Anguilla
+ 2.6.21 @ Santo Domingo    Dominica      3-0 Anguilla
+ 4.6.21 @ Santo Domingo    Dominican R.  1-1 Barbados
+ 5.6.21 @ Panama City      Anguilla     0-13 Panama
+ 8.6.21 @ Santo Domingo    Barbados      1-1 Dominica
+ 8.6.21 @ Panama City      Panama        3-0 Dominican Republic
 
 ▪▪ Group E
-<!--
+
  1.HAITI         3  3  0  0 13- 0  9 
  2.Nicaragua     3  2  0  1 10- 1  6 
  3.Belize        3  1  0  2  5- 5  3 
  4.Turks/Caicos  3  0  0  3  0-22  0 
- -.Saint Lucia   withdrew  -->
+ -.Saint Lucia   [withdrew]
 
 25.3.21 @ Port-au-Prince  Haiti         2-0 Belize
 27.3.21 @ San Cristóbal   Turks/Caicos  0-7 Nicaragua
@@ -1227,12 +1227,12 @@ NB: Australia qualified
  8.6.21 @ Port-au-Prince  Haiti         1-0 Nicaragua
 
 ▪▪ Group F
-<!--
+
  1.ST. KITTS/N.  4  3  0  1  8- 2  9
  2.Trinidad/T.   4  2  2  0  6- 1  8
  3.Puerto Rico   4  2  1  1 10- 2  7
  4.Guyana        4  1  0  3  4- 8  3
- 5.Bahamas       4  0  1  3  0-15  1 -->
+ 5.Bahamas       4  0  1  3  0-15  1 
 
 24.3.21 @ San Cristóbal   St. Kitts/N.  1-0 Puerto Rico
 25.3.21 @ San Cristóbal   Trinidad/T.   3-0 Guyana
@@ -1258,7 +1258,7 @@ NB: Australia qualified
 15.6.21 @ Willemstad      Curaçao       0-0 Panama
 
 ▪ Third Round
-<!--
+
  1.CANADA       14  8  4  2 23- 7 28 
  2.MEXICO       14  8  4  2 17- 8 28 
  3.USA          14  7  4  3 21-10 25
@@ -1266,7 +1266,7 @@ NB: Australia qualified
  5.Panama       14  6  3  5 17-19 21 
  6.Jamaica      14  2  5  7 12-22 11 
  7.El Salvador  14  2  4  8  8-18 10 
- 8.Honduras     14  0  4 10  7-26  4 -->
+ 8.Honduras     14  0  4 10  7-26  4 
 
  2.9.21 @ Toronto         Canada        1-1 Honduras
  2.9.21 @ Cd. de Panamá   Panama        0-0 Costa Rica
@@ -1341,11 +1341,11 @@ NB: Australia qualified
 
 ▪ First Round
 ▪▪ Group A
-<!--
+
  1.SOLOMON I.    1  1  0  0  3- 1  3
  2.TAHITI        1  0  0  1  1- 3  0
- -.Cook Islands  withdrew after first match (annulled) due to Covid-19 outbreak in squad
- -.Vanuatu       withdrew before playing any matches due to Covid-19 outbreak in squad  -->
+ -.Cook Islands  [withdrew after first match (annulled) due to Covid-19 outbreak in squad]
+ -.Vanuatu       [withdrew before playing any matches due to Covid-19 outbreak in squad]
 
 17.3.22 @ Doha            Cook Islands  0-2 Solomon I.    [annulled]
 17.3.22 @ Doha            Tahiti        n/p Vanuatu       
@@ -1355,11 +1355,11 @@ NB: Australia qualified
 24.3.22 @ Doha            Solomon I.    3-1 Tahiti        
 
 ▪▪ Group B
-<!--
+
  1.NEW ZEALAND   3  3  0  0 12- 1  9
  2.PAPUA NEW G.  3  2  0  1  3- 2  6
  3.Fiji          3  1  0  2  3- 7  3
- 4.New Caledonia 3  0  0  3  2-10  0  -->
+ 4.New Caledonia 3  0  0  3  2-10  0  
 
 18.3.22 @ Doha            Papua New G.  0-1 New Zealand
 18.3.22 @ Doha            New Caledonia 1-2 Fiji
@@ -1375,7 +1375,7 @@ NB: Australia qualified
 ▪ Final
 30.3.22 @ Doha            New Zealand   5-0 Solomon Islands
 
-## NB: New Zealand qualify for playoff against 4th placed team in CONCACAF (Costa Rica)
+NB: New Zealand qualify for playoff against 4th placed team in CONCACAF (Costa Rica)
 
 ## see play-offs for more !!!
 
