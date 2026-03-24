@@ -1,0 +1,80 @@
+=World Cup 2026 Qualifying=
+
+==Europe (UEFA)==
+
+▪ UEFA Second Round Play-offs
+
+## see
+##   https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_–_UEFA_second_round
+##
+##  Times are CET/CEST, as listed by UEFA (local times, if different, are in parentheses). 
+##     CET = Central European Time (UTC+01:00)
+##     CEST = Central European Summer Time (UTC+02:00)
+##   In the night from Sat 28/3 to Sun 29/3/26,
+##    the clocks are changed again from CET to CEST. 
+##    The time change happens at 2:00 on Sun 29/3/26. 
+
+▪▪ Path A 
+▪▪▪ Semi-finals
+
+Th 26/3/26 20:45 CET                Italy - Northern Ireland    @ Bergamo
+Th 26/3/26 20:45 CET (19:45 UTC±0)  Wales - Bosnia & Herz.      @ Cardiff
+
+▪▪▪ Final
+Tu 31/3/26 20:45 CEST     Winner SF2	- Winner SF1   @ Cardiff or Zenica
+
+
+▪▪ Path B
+▪▪▪ Semi-finals
+Th 26/3/26 20:45 CET      Ukraine - Sweden  @ Valencia (Spain)
+Th 26/3/26 20:45 CET      Poland  - Albania @ Warsaw
+
+▪▪▪ Final
+Tu 31/3/26 20:45 CEST   Winner SF3 -	Winner SF4   @ Valencia (Spain) or Solna
+
+
+▪▪ Path C
+▪▪▪ Semi-finals
+Th 26/3/26 18:00 CET (20:00 UTC+3)  Turkey - Romania  @ Istanbul
+Th 26/3/26 20:45 CET               Slovakia - Kosovo  @ Bratislava
+
+▪▪▪ Final
+Tu 31/3/26 20:45 CEST      Winner SF6 - Winner SF5  @ Bratislava or Pristina
+
+
+▪▪ Path D
+▪▪▪ Semi-finals
+Th 26/3/26 20:45 CET    Denmark        - North Macedonia      @ Copenhagen
+Th 26/3/26 20:45 CET    Czech Republic - Republic of Ireland  @ Prague
+
+▪▪▪ Final
+Tu 31/3/26 20:45 CEST      Winner SF8 - Winner SF7   @ Prague or Dublin
+
+
+
+==Play-offs==
+
+## see
+##  https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(inter-confederation_play-offs)
+##
+##  All times are local, CST (UTC−6).
+##     CST = Central Standard Time  (Central Time Zone)
+##      see https://en.wikipedia.org/wiki/Central_Time_Zone
+##
+##  The winner of Pathway 1 will enter Group K in the final tournament.
+##  The winner of Pathway 2 will enter Group I in the final tournament.
+ 
+
+▪ Inter-confederation Play-offs
+
+▪▪ Pathway 1, Semi-final
+Th 26/3/26 20:00 UTC−6   New Caledonia - Jamaica  @ Guadalajara (Zapopan) 
+
+▪▪ Pathway 1, Final
+Tu 31/3/26 15:00 UTC-6   DR Congo -  Winner SF   @ Guadalajara (Zapopan)
+
+▪▪ Pathway 2, Semi-final
+Th 26/3/26 17:00 UTC-6   Bolivia  -  Suriname  @ Monterrey (Guadalupe)
+
+▪▪ Pathway 2, Final
+Tu 31/3/26 21:00 UTC-6   Iraq  -  Winner SF   @ Monterrey (Guadalupe)
