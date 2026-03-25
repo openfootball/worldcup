@@ -1,7 +1,6 @@
 = World Cup 1934       # in Italy, May 27 - June 10
 
 
-## todo: change to Round of 16 - why? why not?
 
 ▪ Preliminary round
 May 27   

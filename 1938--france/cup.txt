@@ -1,8 +1,6 @@
 = World Cup 1938      # in France, June 4-19
 
 
-## use Round of 16 (instead off First round) -why? why not?
-
 
 ▪ First round
 June 4     
