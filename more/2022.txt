@@ -1,0 +1,224 @@
+= World Cup 2022
+
+# Dates    Sun Nov 20 - Sun Dec 18 2022 (28d)
+# Teams    32
+# Matches  64
+# Venues   8 (in 5 cities)
+#   Lusail Stadium, Al Daayen (QAT)
+#   Al Bayt Stadium, Al Khor (QAT)
+#   Al Janoub Stadium, Al Wakrah (QAT)
+#   Ahmad Bin Ali Stadium, Ar-Rayyan (QAT)
+#   Khalifa International Stadium, Ar-Rayyan (QAT)
+#   Education City Stadium, Doha (QAT)
+#   Stadium 974, Doha (QAT)
+#   Al Thumama Stadium, Doha (QAT)
+
+
+▪ First stage
+▪▪ Group A
+Sun Nov 20
+  19:00 UTC+3   Qatar  0-2  Ecuador   @ Al Bayt Stadium, Al Khor
+                  (Enner VALENCIA 16'(p), 31')
+Mon Nov 21
+  19:00 UTC+3   Senegal  0-2  Netherlands   @ Al Thumama Stadium, Doha
+                  (Cody GAKPO 84', Davy KLAASSEN 90+9')
+Fri Nov 25
+  16:00 UTC+3   Qatar  1-3  Senegal   @ Al Thumama Stadium, Doha
+                  (MOHAMMED MUNTARI 78';
+                   Boulaye DIA 41', Famara DIEDHIOU 48', Cheikh DIENG 84')
+  19:00 UTC+3   Netherlands  1-1  Ecuador   @ Khalifa International Stadium, Ar-Rayyan
+                  (Cody GAKPO 6'; Enner VALENCIA 49')
+Tue Nov 29
+  18:00 UTC+3   Netherlands  2-0  Qatar   @ Al Bayt Stadium, Al Khor
+                  (Cody GAKPO 26', Frenkie DE JONG 49')
+  18:00 UTC+3   Ecuador  1-2  Senegal   @ Khalifa International Stadium, Ar-Rayyan
+                  (Moises CAICEDO 67';
+                   Ismaila SARR 44'(p), Kalidou KOULIBALY 70')
+
+▪▪ Group B
+Mon Nov 21
+  16:00 UTC+3   England  6-2  Iran   @ Khalifa International Stadium, Ar-Rayyan
+                  (Jude BELLINGHAM 35', Bukayo SAKA 43', 62', Raheem STERLING 45+1', Marcus RASHFORD 71', Jack GREALISH 90';
+                   Mehdi TAREMI 65', 90+13'(p))
+  22:00 UTC+3   USA  1-1  Wales   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Tim WEAH 36'; Gareth BALE 82'(p))
+Fri Nov 25
+  13:00 UTC+3   Wales  0-2  Iran   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Roozbeh CHESHMI 90+8', Ramin REZAEIAN 90+11')
+  22:00 UTC+3   England  0-0  USA   @ Al Bayt Stadium, Al Khor
+Tue Nov 29
+  22:00 UTC+3   Wales  0-3  England   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Marcus RASHFORD 50', 68', Phil FODEN 51')
+  22:00 UTC+3   Iran  0-1  USA   @ Al Thumama Stadium, Doha
+                  (Christian  PULISIC 38')
+
+▪▪ Group C
+Tue Nov 22
+  13:00 UTC+3   Argentina  1-2  Saudi Arabia   @ Lusail Stadium, Al Daayen
+                  (Lionel MESSI 10'(p);
+                   SALEH ALSHEHRI 48', SALEM ALDAWSARI 53')
+  19:00 UTC+3   Mexico  0-0  Poland   @ Stadium 974, Doha
+Sat Nov 26
+  16:00 UTC+3   Poland  2-0  Saudi Arabia   @ Education City Stadium, Doha
+                  (Piotr ZIELINSKI 39', Robert LEWANDOWSKI 82')
+  22:00 UTC+3   Argentina  2-0  Mexico   @ Lusail Stadium, Al Daayen
+                  (Lionel MESSI 64', Enzo FERNANDEZ 87')
+Wed Nov 30
+  22:00 UTC+3   Poland  0-2  Argentina   @ Stadium 974, Doha
+                  (Alexis MAC ALLISTER 46', Julian ALVAREZ 67')
+  22:00 UTC+3   Saudi Arabia  1-2  Mexico   @ Lusail Stadium, Al Daayen
+                  (SALEM ALDAWSARI 90+5';
+                   Henry MARTIN 47', Luis CHAVEZ 52')
+
+▪▪ Group D
+Tue Nov 22
+  16:00 UTC+3   Denmark  0-0  Tunisia   @ Education City Stadium, Doha
+  22:00 UTC+3   France  4-1  Australia   @ Al Janoub Stadium, Al Wakrah
+                  (Adrien RABIOT 27', Olivier GIROUD 32', 71', Kylian MBAPPE 68';
+                   Craig GOODWIN 9')
+Sat Nov 26
+  13:00 UTC+3   Tunisia  0-1  Australia   @ Al Janoub Stadium, Al Wakrah
+                  (Mitch DUKE 23')
+  19:00 UTC+3   France  2-1  Denmark   @ Stadium 974, Doha
+                  (Kylian MBAPPE 61', 86';
+                   Andreas CHRISTENSEN 68')
+Wed Nov 30
+  18:00 UTC+3   Australia  1-0  Denmark   @ Al Janoub Stadium, Al Wakrah
+                  (Mathew LECKIE 60')
+  18:00 UTC+3   Tunisia  1-0  France   @ Education City Stadium, Doha
+                  (Wahbi KHAZRI 58')
+
+▪▪ Group E
+Wed Nov 23
+  16:00 UTC+3   Germany  1-2  Japan   @ Khalifa International Stadium, Ar-Rayyan
+                  (Ilkay GUENDOGAN 33'(p);
+                   Ritsu DOAN 75', Takuma ASANO 83')
+  19:00 UTC+3   Spain  7-0  Costa Rica   @ Al Thumama Stadium, Doha
+                  (Dani OLMO 11', Marco ASENSIO 21', Ferran TORRES 31'(p), 54', GAVI 74', Carlos SOLER 90', Alvaro MORATA 90+2')
+Sun Nov 27
+  13:00 UTC+3   Japan  0-1  Costa Rica   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Keysher FULLER 81')
+  22:00 UTC+3   Spain  1-1  Germany   @ Al Bayt Stadium, Al Khor
+                  (Alvaro MORATA 62'; Niclas FUELLKRUG 83')
+Thu Dec 1
+  22:00 UTC+3   Japan  2-1  Spain   @ Khalifa International Stadium, Ar-Rayyan
+                  (Ritsu DOAN 48', Ao TANAKA 51';
+                   Alvaro MORATA 11')
+  22:00 UTC+3   Costa Rica  2-4  Germany   @ Al Bayt Stadium, Al Khor
+                  (Yeltsin TEJEDA 58', Juan VARGAS 70';
+                   Serge GNABRY 10', Kai HAVERTZ 73', 85', Niclas FUELLKRUG 89')
+
+▪▪ Group F
+Wed Nov 23
+  13:00 UTC+3   Morocco  0-0  Croatia   @ Al Bayt Stadium, Al Khor
+  22:00 UTC+3   Belgium  1-0  Canada   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Michy BATSHUAYI 44')
+Sun Nov 27
+  16:00 UTC+3   Belgium  0-2  Morocco   @ Al Thumama Stadium, Doha
+                  (Romain SAISS 73', Zakaria ABOUKHLAL 90+2')
+  19:00 UTC+3   Croatia  4-1  Canada   @ Khalifa International Stadium, Ar-Rayyan
+                  (Andrej KRAMARIC 36', 70', Marko LIVAJA 44', Lovro MAJER 90+4';
+                   Alphonso DAVIES 2')
+Thu Dec 1
+  18:00 UTC+3   Croatia  0-0  Belgium   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+  18:00 UTC+3   Canada  1-2  Morocco   @ Al Thumama Stadium, Doha
+                  (Nayef AGUERD 40'(og);
+                   Hakim ZIYECH 4', Youssef EN NESYRI 23')
+
+▪▪ Group G
+Thu Nov 24
+  13:00 UTC+3   Switzerland  1-0  Cameroon   @ Al Janoub Stadium, Al Wakrah
+                  (Breel EMBOLO 48')
+  22:00 UTC+3   Brazil  2-0  Serbia   @ Lusail Stadium, Al Daayen
+                  (RICHARLISON 62', 73')
+Mon Nov 28
+  13:00 UTC+3   Cameroon  3-3  Serbia   @ Al Janoub Stadium, Al Wakrah
+                  (Jean-Charles CASTELLETTO 29', Vincent ABOUBAKAR 63', Eric Maxim CHOUPO-MOTING 66';
+                   Strahinja PAVLOVIC 45+1', Sergej MILINKOVIC-SAVIC 45+3', Aleksandar MITROVIC 53')
+  19:00 UTC+3   Brazil  1-0  Switzerland   @ Stadium 974, Doha
+                  (CASEMIRO 83')
+Fri Dec 2
+  22:00 UTC+3   Serbia  2-3  Switzerland   @ Stadium 974, Doha
+                  (Aleksandar MITROVIC 26', Dusan VLAHOVIC 35';
+                   Xherdan SHAQIRI 20', Breel EMBOLO 44', Remo FREULER 48')
+  22:00 UTC+3   Cameroon  1-0  Brazil   @ Lusail Stadium, Al Daayen
+                  (Vincent ABOUBAKAR 90+2')
+
+▪▪ Group H
+Thu Nov 24
+  16:00 UTC+3   Uruguay  0-0  South Korea   @ Education City Stadium, Doha
+  19:00 UTC+3   Portugal  3-2  Ghana   @ Stadium 974, Doha
+                  (CRISTIANO RONALDO 65'(p), JOAO FELIX 78', RAFAEL LEAO 80';
+                   Andre AYEW 73', Osman BUKARI 89')
+Mon Nov 28
+  16:00 UTC+3   South Korea  2-3  Ghana   @ Education City Stadium, Doha
+                  (CHO Guesung 58', 61';
+                   Mohammed SALISU 24', Kudus MOHAMMED 34', 68')
+  22:00 UTC+3   Portugal  2-0  Uruguay   @ Lusail Stadium, Al Daayen
+                  (BRUNO FERNANDES 54', 90+3'(p))
+Fri Dec 2
+  18:00 UTC+3   Ghana  0-2  Uruguay   @ Al Janoub Stadium, Al Wakrah
+                  (Giorgian DE ARRASCAETA 26', 32')
+  18:00 UTC+3   South Korea  2-1  Portugal   @ Education City Stadium, Doha
+                  (KIM Younggwon 27', HWANG Heechan 90+1';
+                   Ricardo HORTA 5')
+
+▪ Round of 16
+Sat Dec 3
+  18:00 UTC+3   Netherlands  3-1  USA   @ Khalifa International Stadium, Ar-Rayyan
+                  (Memphis DEPAY 10', Daley BLIND 45+1', Denzel DUMFRIES 81';
+                   Haji WRIGHT 76')
+  22:00 UTC+3   Argentina  2-1  Australia   @ Ahmad Bin Ali Stadium, Ar-Rayyan
+                  (Lionel MESSI 35', Julian ALVAREZ 57';
+                   Enzo FERNANDEZ 77'(og))
+Sun Dec 4
+  18:00 UTC+3   France  3-1  Poland   @ Al Thumama Stadium, Doha
+                  (Olivier GIROUD 44', Kylian MBAPPE 74', 90+1';
+                   Robert LEWANDOWSKI 90+9'(p))
+  22:00 UTC+3   England  3-0  Senegal   @ Al Bayt Stadium, Al Khor
+                  (Jordan HENDERSON 38', Harry KANE 45+3', Bukayo SAKA 57')
+Mon Dec 5
+  18:00 UTC+3   Japan  1-1 a.e.t., 1-3 pen.  Croatia   @ Al Janoub Stadium, Al Wakrah
+                  (Daizen MAEDA 43'; Ivan PERISIC 55')
+  22:00 UTC+3   Brazil  4-1  South Korea   @ Stadium 974, Doha
+                  (VINICIUS JR 7', NEYMAR 13'(p), RICHARLISON 29', LUCAS PAQUETA 36';
+                   PAIK Seungho 76')
+Tue Dec 6
+  18:00 UTC+3   Morocco  0-0 a.e.t., 3-0 pen.  Spain   @ Education City Stadium, Doha
+  22:00 UTC+3   Portugal  6-1  Switzerland   @ Lusail Stadium, Al Daayen
+                  (GONCALO RAMOS 17', 51', 67', PEPE 33', RAPHAEL GUERREIRO 55', RAFAEL LEAO 90+2';
+                   Manuel AKANJI 58')
+
+▪ Quarter-final
+Fri Dec 9
+  18:00 UTC+3   Croatia  1-1 a.e.t., 4-2 pen.  Brazil   @ Education City Stadium, Doha
+                  (Bruno PETKOVIC 117'; NEYMAR 105+1')
+  22:00 UTC+3   Netherlands  2-2 a.e.t., 3-4 pen.  Argentina   @ Lusail Stadium, Al Daayen
+                  (Wout WEGHORST 83', 90+11';
+                   Nahuel MOLINA 35', Lionel MESSI 73'(p))
+Sat Dec 10
+  18:00 UTC+3   Morocco  1-0  Portugal   @ Al Thumama Stadium, Doha
+                  (Youssef EN NESYRI 42')
+  22:00 UTC+3   England  1-2  France   @ Al Bayt Stadium, Al Khor
+                  (Harry KANE 54'(p);
+                   Aurelien TCHOUAMENI 17', Olivier GIROUD 78')
+
+▪ Semi-final
+Tue Dec 13
+  22:00 UTC+3   Argentina  3-0  Croatia   @ Lusail Stadium, Al Daayen
+                  (Lionel MESSI 34'(p), Julian ALVAREZ 39', 69')
+Wed Dec 14
+  22:00 UTC+3   France  2-0  Morocco   @ Al Bayt Stadium, Al Khor
+                  (Theo HERNANDEZ 5', Randal KOLO MUANI 79')
+
+▪ Play-off for third place
+Sat Dec 17
+  18:00 UTC+3   Croatia  2-1  Morocco   @ Khalifa International Stadium, Ar-Rayyan
+                  (Josko GVARDIOL 7', Mislav ORSIC 42';
+                   Achraf DARI 9')
+
+▪ Final
+Sun Dec 18
+  18:00 UTC+3   Argentina  3-3 a.e.t., 4-2 pen.  France   @ Lusail Stadium, Al Daayen
+                  (Lionel MESSI 23'(p), 108', Angel DI MARIA 36';
+                   Kylian MBAPPE 80'(p), 81', 118'(p))

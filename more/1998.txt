@@ -1,0 +1,232 @@
+= World Cup 1998
+
+# Dates    Wed Jun 10 - Sun Jul 12 1998 (32d)
+# Teams    32
+# Matches  64
+# Venues   10 (in 10 cities)
+#   Stade de Bordeaux, Bordeaux (FRA)
+#   Stade Felix Bollaert, Lens (FRA)
+#   Stade de Gerland, Lyon (FRA)
+#   Stade Vélodrome, Marseille (FRA)
+#   Stade de la Mosson, Montpellier (FRA)
+#   Stade de la Beaujoire, Nantes (FRA)
+#   Parc des Princes, Paris (FRA)
+#   Stade de France, Paris (Saint-Denis) (FRA)
+#   Stade Geoffroy Guichard, Saint-Étienne (FRA)
+#   Stade de Toulouse, Toulouse (FRA)
+
+
+▪ Group Matches
+▪▪ Group A
+Wed Jun 10
+  17:30 UTC+2   Brazil  2-1  Scotland   @ Stade de France, Paris (Saint-Denis)
+                  (CESAR SAMPAIO 5', Tom BOYD 74'(og);
+                   John COLLINS 38'(p))
+  21:00 UTC+2   Morocco  2-2  Norway   @ Stade de la Mosson, Montpellier
+                  (Mustafa HADJI 37', Abdeljalil HADDA 60';
+                   Youssef CHIPPO 45+1'(og), Dan EGGEN 61')
+Tue Jun 16
+  17:30 UTC+2   Scotland  1-1  Norway   @ Stade de Bordeaux, Bordeaux
+                  (Craig BURLEY 66'; Havard FLO 46')
+  21:00 UTC+2   Brazil  3-0  Morocco   @ Stade de la Beaujoire, Nantes
+                  (RONALDO 9', RIVALDO 45+2', BEBETO 50')
+Tue Jun 23
+  21:00 UTC+2   Brazil  1-2  Norway   @ Stade Vélodrome, Marseille
+                  (BEBETO 78';
+                   Tore Andre FLO 83', Kjetil REKDAL 89'(p))
+  21:00 UTC+2   Scotland  0-3  Morocco   @ Stade Geoffroy Guichard, Saint-Étienne
+                  (Salaheddine BASSIR 23', 85', Abdeljalil HADDA 46')
+
+▪▪ Group B
+Thu Jun 11
+  17:30 UTC+2   Italy  2-2  Chile   @ Stade de Bordeaux, Bordeaux
+                  (Christian VIERI 11', Roberto BAGGIO 84'(p);
+                   Marcelo SALAS 45+3', 48')
+  21:00 UTC+2   Cameroon  1-1  Austria   @ Stade de Toulouse, Toulouse
+                  (Pierre NJANKA 77'; Toni POLSTER 90+1')
+Wed Jun 17
+  17:30 UTC+2   Chile  1-1  Austria   @ Stade Geoffroy Guichard, Saint-Étienne
+                  (Marcelo SALAS 70'; Ivica VASTIC 90+2')
+  21:00 UTC+2   Italy  3-0  Cameroon   @ Stade de la Mosson, Montpellier
+                  (Luigi DI BIAGIO 7', Christian VIERI 75', 89')
+Tue Jun 23
+  16:00 UTC+2   Chile  1-1  Cameroon   @ Stade de la Beaujoire, Nantes
+                  (Jose SIERRA 20'; Patrick MBOMA 56')
+  16:00 UTC+2   Italy  2-1  Austria   @ Stade de France, Paris (Saint-Denis)
+                  (Christian VIERI 48', Roberto BAGGIO 90';
+                   Andreas HERZOG 90+2'(p))
+
+▪▪ Group C
+Fri Jun 12
+  17:30 UTC+2   Saudi Arabia  0-1  Denmark   @ Stade Felix Bollaert, Lens
+                  (Marc RIEPER 69')
+  21:00 UTC+2   France  3-0  South Africa   @ Stade Vélodrome, Marseille
+                  (Christophe DUGARRY 36', Pierre ISSA 77'(og), Thierry HENRY 90+2')
+Thu Jun 18
+  17:30 UTC+2   South Africa  1-1  Denmark   @ Stade de Toulouse, Toulouse
+                  (Benni McCARTHY 51'; Allan NIELSEN 12')
+  21:00 UTC+2   France  4-0  Saudi Arabia   @ Stade de France, Paris (Saint-Denis)
+                  (Thierry HENRY 37', 78', David TREZEGUET 68', Bixente LIZARAZU 85')
+Wed Jun 24
+  16:00 UTC+2   South Africa  2-2  Saudi Arabia   @ Stade de Bordeaux, Bordeaux
+                  (Shaun BARTLETT 18', 90+3'(p);
+                   Sami AL JABER 45+2'(p), Youssef AL TUNAYAN 74'(p))
+  16:00 UTC+2   France  2-1  Denmark   @ Stade de Gerland, Lyon
+                  (Youri DJORKAEFF 12'(p), Emmanuel PETIT 56';
+                   Michael LAUDRUP 42'(p))
+
+▪▪ Group D
+Fri Jun 12
+  14:30 UTC+2   Paraguay  0-0  Bulgaria   @ Stade de la Mosson, Montpellier
+Sat Jun 13
+  14:30 UTC+2   Spain  2-3  Nigeria   @ Stade de la Beaujoire, Nantes
+                  (Fernando HIERRO 21', RAUL 47';
+                   Mutiu ADEPOJU 24', Andoni ZUBIZARRETA 73'(og), Sunday OLISEH 78')
+Fri Jun 19
+  17:30 UTC+2   Nigeria  1-0  Bulgaria   @ Parc des Princes, Paris
+                  (Victor IKPEBA 28')
+  21:00 UTC+2   Spain  0-0  Paraguay   @ Stade Geoffroy Guichard, Saint-Étienne
+Wed Jun 24
+  21:00 UTC+2   Nigeria  1-3  Paraguay   @ Stade de Toulouse, Toulouse
+                  (Wilson ORUMA 11';
+                   Celso AYALA 1', Miguel BENITEZ 58', Jose CARDOZO 86')
+  21:00 UTC+2   Spain  6-1  Bulgaria   @ Stade Felix Bollaert, Lens
+                  (Fernando HIERRO 6'(p), LUIS ENRIQUE 18', Fernando MORIENTES 55', 81', Georgi BACHEV 88'(og), KIKO 90+4';
+                   Emil KOSTADINOV 58')
+
+▪▪ Group E
+Sat Jun 13
+  17:30 UTC+2   South Korea  1-3  Mexico   @ Stade de Gerland, Lyon
+                  (HA Seok Ju 27';
+                   Ricardo PELAEZ 50', Luis HERNANDEZ 75', 84')
+  21:00 UTC+2   Netherlands  0-0  Belgium   @ Stade de France, Paris (Saint-Denis)
+Sat Jun 20
+  17:30 UTC+2   Belgium  2-2  Mexico   @ Stade de Bordeaux, Bordeaux
+                  (Marc WILMOTS 42', 47';
+                   Alberto GARCIA ASPE 55'(p), Cuauhtemoc BLANCO 62')
+  21:00 UTC+2   Netherlands  5-0  South Korea   @ Stade Vélodrome, Marseille
+                  (Phillip COCU 37', Marc OVERMARS 41', Dennis BERGKAMP 71', Pierre VAN HOOIJDONK 80', Ronald DE BOER 83')
+Thu Jun 25
+  16:00 UTC+2   Belgium  1-1  South Korea   @ Parc des Princes, Paris
+                  (Luc NILIS 7'; YOO Sang Chul 72')
+  16:00 UTC+2   Netherlands  2-2  Mexico   @ Stade Geoffroy Guichard, Saint-Étienne
+                  (Phillip COCU 4', Ronald DE BOER 18';
+                   Ricardo PELAEZ 75', Luis HERNANDEZ 90+4')
+
+▪▪ Group F
+Sun Jun 14
+  17:30 UTC+2   Yugoslavia  1-0  Iran   @ Stade Geoffroy Guichard, Saint-Étienne
+                  (Sinisa MIHAJLOVIC 73')
+Mon Jun 15
+  21:00 UTC+2   Germany  2-0  USA   @ Parc des Princes, Paris
+                  (Andreas MOELLER 10', Juergen KLINSMANN 67')
+Sun Jun 21
+  14:30 UTC+2   Germany  2-2  Yugoslavia   @ Stade Felix Bollaert, Lens
+                  (Sinisa MIHAJLOVIC 72'(og), Oliver BIERHOFF 78';
+                   Predrag MIJATOVIC 13', Dragan STOJKOVIC 52')
+  21:00 UTC+2   USA  1-2  Iran   @ Stade de Gerland, Lyon
+                  (Brian McBRIDE 87';
+                   Hamid ESTILI 41', Mehdi MAHDAVIKIA 83')
+Thu Jun 25
+  21:00 UTC+2   Germany  2-0  Iran   @ Stade de la Mosson, Montpellier
+                  (Oliver BIERHOFF 50', Juergen KLINSMANN 57')
+  21:00 UTC+2   USA  0-1  Yugoslavia   @ Stade de la Beaujoire, Nantes
+                  (Slobodan KOMLJENOVIC 3')
+
+▪▪ Group G
+Mon Jun 15
+  14:30 UTC+2   England  2-0  Tunisia   @ Stade Vélodrome, Marseille
+                  (Alan SHEARER 42', Paul SCHOLES 89')
+  17:30 UTC+2   Romania  1-0  Colombia   @ Stade de Gerland, Lyon
+                  (Adrian ILIE 45+1')
+Mon Jun 22
+  17:30 UTC+2   Colombia  1-0  Tunisia   @ Stade de la Mosson, Montpellier
+                  (Leider PRECIADO 82')
+  21:00 UTC+2   Romania  2-1  England   @ Stade de Toulouse, Toulouse
+                  (Viorel MOLDOVAN 46', Dan PETRESCU 90';
+                   Michael OWEN 81')
+Fri Jun 26
+  21:00 UTC+2   Colombia  0-2  England   @ Stade Felix Bollaert, Lens
+                  (Darren ANDERTON 20', David BECKHAM 29')
+  21:00 UTC+2   Romania  1-1  Tunisia   @ Stade de France, Paris (Saint-Denis)
+                  (Viorel MOLDOVAN 71'; Skander SOUAYEH 12'(p))
+
+▪▪ Group H
+Sun Jun 14
+  14:30 UTC+2   Argentina  1-0  Japan   @ Stade de Toulouse, Toulouse
+                  (Gabriel BATISTUTA 28')
+  21:00 UTC+2   Jamaica  1-3  Croatia   @ Stade Felix Bollaert, Lens
+                  (Robert EARLE 45';
+                   Mario STANIC 27', Robert PROSINECKI 53', Davor SUKER 69')
+Sat Jun 20
+  14:30 UTC+2   Japan  0-1  Croatia   @ Stade de la Beaujoire, Nantes
+                  (Davor SUKER 77')
+Sun Jun 21
+  17:30 UTC+2   Argentina  5-0  Jamaica   @ Parc des Princes, Paris
+                  (Ariel ORTEGA 31', 55', Gabriel BATISTUTA 73', 78', 83'(p))
+Fri Jun 26
+  16:00 UTC+2   Argentina  1-0  Croatia   @ Stade de Bordeaux, Bordeaux
+                  (Mauricio PINEDA 36')
+  16:00 UTC+2   Japan  1-2  Jamaica   @ Stade de Gerland, Lyon
+                  (Masashi NAKAYAMA 74';
+                   Theodore WHITMORE 39', 54')
+
+▪ Round of 16
+Sat Jun 27
+  16:30 UTC+2   Italy  1-0  Norway   @ Stade Vélodrome, Marseille
+                  (Christian VIERI 18')
+  21:00 UTC+2   Brazil  4-1  Chile   @ Parc des Princes, Paris
+                  (CESAR SAMPAIO 11', 26', RONALDO 45+3'(p), 72';
+                   Marcelo SALAS 70')
+Sun Jun 28
+  16:30 UTC+2   France  1-0 a.e.t.  Paraguay   @ Stade Felix Bollaert, Lens
+                  (Laurent BLANC 114')
+  21:00 UTC+2   Nigeria  1-4  Denmark   @ Stade de France, Paris (Saint-Denis)
+                  (Tijani BABANGIDA 77';
+                   Peter MOLLER 3', Brian LAUDRUP 12', Ebbe SAND 58', Thomas HELVEG 76')
+Mon Jun 29
+  16:30 UTC+2   Germany  2-1  Mexico   @ Stade de la Mosson, Montpellier
+                  (Juergen KLINSMANN 74', Oliver BIERHOFF 86';
+                   Luis HERNANDEZ 47')
+  21:00 UTC+2   Netherlands  2-1  Yugoslavia   @ Stade de Toulouse, Toulouse
+                  (Dennis BERGKAMP 38', Edgar DAVIDS 90+2';
+                   Slobodan KOMLJENOVIC 48')
+Tue Jun 30
+  16:30 UTC+2   Romania  0-1  Croatia   @ Stade de Bordeaux, Bordeaux
+                  (Davor SUKER 45+2'(p))
+  21:00 UTC+2   Argentina  2-2 a.e.t., 4-3 pen.  England   @ Stade Geoffroy Guichard, Saint-Étienne
+                  (Gabriel BATISTUTA 5'(p), Javier ZANETTI 45+1';
+                   Alan SHEARER 9'(p), Michael OWEN 16')
+
+▪ Quarter-final
+Fri Jul 3
+  16:30 UTC+2   Italy  0-0 a.e.t., 3-4 pen.  France   @ Stade de France, Paris (Saint-Denis)
+  21:00 UTC+2   Brazil  3-2  Denmark   @ Stade de la Beaujoire, Nantes
+                  (BEBETO 10', RIVALDO 25', 59';
+                   Martin JORGENSEN 2', Brian LAUDRUP 50')
+Sat Jul 4
+  16:30 UTC+2   Netherlands  2-1  Argentina   @ Stade Vélodrome, Marseille
+                  (Patrick KLUIVERT 12', Dennis BERGKAMP 90';
+                   Claudio LOPEZ 17')
+  21:00 UTC+2   Germany  0-3  Croatia   @ Stade de Gerland, Lyon
+                  (Robert JARNI 45+3', Goran VLAOVIC 80', Davor SUKER 85')
+
+▪ Semi-final
+Tue Jul 7
+  21:00 UTC+2   Brazil  1-1 a.e.t., 4-2 pen.  Netherlands   @ Stade Vélodrome, Marseille
+                  (RONALDO 46'; Patrick KLUIVERT 87')
+Wed Jul 8
+  21:00 UTC+2   France  2-1  Croatia   @ Stade de France, Paris (Saint-Denis)
+                  (Lilian THURAM 47', 70';
+                   Davor SUKER 46')
+
+▪ Match for third place
+Sat Jul 11
+  21:00 UTC+2   Netherlands  1-2  Croatia   @ Parc des Princes, Paris
+                  (Boudewijn ZENDEN 22';
+                   Robert PROSINECKI 14', Davor SUKER 36')
+
+▪ Final
+Sun Jul 12
+  21:00 UTC+2   Brazil  0-3  France   @ Stade de France, Paris (Saint-Denis)
+                  (Zinedine ZIDANE 27', 45+1', Emmanuel PETIT 90+3')

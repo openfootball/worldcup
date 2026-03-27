@@ -1,0 +1,83 @@
+= World Cup 1938
+
+# Dates    Sat Jun 4 - Sun Jun 19 1938 (15d)
+# Teams    15
+# Matches  18
+# Venues   10 (in 10 cities)
+#   Fort Carree, Antibes (FRA)
+#   Stade de Bordeaux, Bordeaux (FRA)
+#   Cavee Verte, Le Havre (FRA)
+#   Victor Boucquey, Lille (FRA)
+#   Stade Vélodrome, Marseille (FRA)
+#   Parc des Princes, Paris (FRA)
+#   Stade Olympique, Paris (Colombes) (FRA)
+#   Velodrome Municipale, Reims (FRA)
+#   Stade de la Meinau, Strasbourg (FRA)
+#   Stade de Toulouse, Toulouse (FRA)
+
+
+▪ 1st Round
+Sat Jun 4
+  17:00 UTC+2   Switzerland  1-1 a.e.t.  Germany   @ Parc des Princes, Paris
+                  (Andre ABEGGLEN 43'; Josef GAUCHEL 29')
+Sun Jun 5
+  17:00 UTC+2   Hungary  6-0  Dutch East Indies   @ Velodrome Municipale, Reims
+                  (Vilmos KOHUT 13', Geza TOLDI 15', Gyorgy SAROSI 28', 89', Gyula ZSENGELLER 35', 76')
+  17:00 UTC+2   France  3-1  Belgium   @ Stade Olympique, Paris (Colombes)
+                  (Emile VEINANTE 1', Jean NICOLAS 16', 69';
+                   Henri ISEMBORGHS 38')
+  17:00 UTC+2   Italy  2-1 a.e.t.  Norway   @ Stade Vélodrome, Marseille
+                  (Pietro FERRARIS 2', Silvio PIOLA 94';
+                   Arne BRUSTAD 83')
+  17:00 UTC+2   Cuba  3-3 a.e.t.  Romania   @ Stade de Toulouse, Toulouse
+                  (Hector SOCORRO 44', 103', Jose MAGRINA 69';
+                   Silviu BINDEA 35', Iuliu BARATKY 88', Stefan DOBAY 105')
+  17:30 UTC+2   Brazil  6-5 a.e.t.  Poland   @ Stade de la Meinau, Strasbourg
+                  (LEONIDAS 18', 93', 104', ROMEU 25', PERACIO 44', 71';
+                   Fryedryk SZERFKE 23'(p), Ernest WILIMOWSKI 53', 59', 89', 118')
+  18:30 UTC+2   Czechoslovakia  3-0 a.e.t.  Netherlands   @ Cavee Verte, Le Havre
+                  (Josef KOSTALEK 93', Josef ZEMAN 111', Oldrich NEJEDLY 118')
+Thu Jun 9
+  18:00 UTC+2   Cuba  2-1  Romania   @ Stade de Toulouse, Toulouse
+                  (Hector SOCORRO 51', Tomas FERNANDEZ 57';
+                   Stefan DOBAY 35')
+  18:00 UTC+2   Switzerland  4-2  Germany   @ Parc des Princes, Paris
+                  (Eugen WALASCHEK 42', Fredy BICKEL 64', Andre ABEGGLEN 75', 78';
+                   Wilhelm HAHNEMANN 8', Ernst LOERTSCHER 22'(og))
+
+▪ Quarter-final
+Sun Jun 12
+  17:00 UTC+2   Hungary  2-0  Switzerland   @ Victor Boucquey, Lille
+                  (Gyorgy SAROSI 40', Gyula ZSENGELLER 89')
+  17:00 UTC+2   Italy  3-1  France   @ Stade Olympique, Paris (Colombes)
+                  (Gino COLAUSSI 9', Silvio PIOLA 51', 72';
+                   Oscar HEISSERER 10')
+  17:00 UTC+2   Brazil  1-1 a.e.t.  Czechoslovakia   @ Stade de Bordeaux, Bordeaux
+                  (LEONIDAS 30'; Oldrich NEJEDLY 65'(p))
+  17:00 UTC+2   Sweden  8-0  Cuba   @ Fort Carree, Antibes
+                  (Harry ANDERSSON 9', 81', 89', Gustav WETTERSTROM 22', 37', 44', Tore KELLER 80', Arne NYBERG 84')
+Tue Jun 14
+  18:00 UTC+2   Brazil  2-1  Czechoslovakia   @ Stade de Bordeaux, Bordeaux
+                  (LEONIDAS 57', ROBERTO 63';
+                   Vlastimil KOPECKY 25')
+
+▪ Semi-final
+Thu Jun 16
+  18:00 UTC+2   Italy  2-1  Brazil   @ Stade Vélodrome, Marseille
+                  (Gino COLAUSSI 51', Giuseppe MEAZZA 60'(p);
+                   ROMEU 87')
+  18:00 UTC+2   Hungary  5-1  Sweden   @ Parc des Princes, Paris
+                  (Sven JACOBSSON 19'(og), Pal TITKOS 37', Gyula ZSENGELLER 39', 85', Gyorgy SAROSI 65';
+                   Arne NYBERG 1')
+
+▪ Match for third place
+Sun Jun 19
+  17:00 UTC+2   Brazil  4-2  Sweden   @ Stade de Bordeaux, Bordeaux
+                  (ROMEU 44', LEONIDAS 63', 74', PERACIO 80';
+                   Sven JONASSON 28', Arne NYBERG 38')
+
+▪ Final
+Sun Jun 19
+  17:00 UTC+2   Italy  4-2  Hungary   @ Stade Olympique, Paris (Colombes)
+                  (Gino COLAUSSI 6', 35', Silvio PIOLA 16', 82';
+                   Pal TITKOS 8', Gyorgy SAROSI 70')

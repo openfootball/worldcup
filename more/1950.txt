@@ -1,0 +1,96 @@
+= World Cup 1950
+
+# Dates    Sat Jun 24 - Sun Jul 16 1950 (22d)
+# Teams    13
+# Matches  22
+# Venues   6 (in 6 cities)
+#   Independencia, Belo Horizonte (BRA)
+#   Estádio Durival Britto e Silva, Curitiba (BRA)
+#   Eucaliptos, Porto Alegre (BRA)
+#   Ilha do Retiro, Recife (BRA)
+#   Maracanã, Rio de Janeiro (BRA)
+#   Estádio do Pacaembu, São Paulo (BRA)
+
+
+▪ Group Matches
+▪▪ Group 1
+Sat Jun 24
+  15:00 UTC-3   Brazil  4-0  Mexico   @ Maracanã, Rio de Janeiro
+                  (ADEMIR 30', 79', JAIR 65', BALTAZAR 71')
+Sun Jun 25
+  15:00 UTC-3   Yugoslavia  3-0  Switzerland   @ Independencia, Belo Horizonte
+                  (Rajko MITIC 59', Kosta TOMASEVIC 70', Tihomir OGNJANOV 84')
+Wed Jun 28
+  15:00 UTC-3   Yugoslavia  4-1  Mexico   @ Eucaliptos, Porto Alegre
+                  (Stjepan BOBEK 20', Zeljko CAJKOVSKI 23', 51', Kosta TOMASEVIC 81';
+                   Hector ORTIZ 89'(p))
+  15:00 UTC-3   Brazil  2-2  Switzerland   @ Estádio do Pacaembu, São Paulo
+                  (ALFREDO II 3', BALTAZAR 32';
+                   Jackie FATTON 17', 88')
+Sat Jul 1
+  15:00 UTC-3   Brazil  2-0  Yugoslavia   @ Maracanã, Rio de Janeiro
+                  (ADEMIR 4', ZIZINHO 69')
+Sun Jul 2
+  15:40 UTC-3   Switzerland  2-1  Mexico   @ Eucaliptos, Porto Alegre
+                  (Rene BADER 10', Kiki ANTENEN 44';
+                   Horacio CASARIN 89')
+
+▪▪ Group 2
+Sun Jun 25
+  15:00 UTC-3   England  2-0  Chile   @ Maracanã, Rio de Janeiro
+                  (Stan MORTENSEN 39', Wilf MANNION 51')
+  15:00 UTC-3   Spain  3-1  USA   @ Estádio Durival Britto e Silva, Curitiba
+                  (Silvestre IGOA 81', Estanislao BASORA 83', ZARRA 89';
+                   Gino PARIANI 17')
+Thu Jun 29
+  15:00 UTC-3   USA  1-0  England   @ Independencia, Belo Horizonte
+                  (Joe GAETJENS 38')
+  15:00 UTC-3   Spain  2-0  Chile   @ Maracanã, Rio de Janeiro
+                  (Estanislao BASORA 17', ZARRA 30')
+Sun Jul 2
+  15:00 UTC-3   Spain  1-0  England   @ Maracanã, Rio de Janeiro
+                  (ZARRA 48')
+  15:00 UTC-3   Chile  5-2  USA   @ Ilha do Retiro, Recife
+                  (Jorge ROBLEDO 16', Atilio CREMASCHI 32', 60', Andres PRIETO 54', Fernando RIERA 82';
+                   Frank WALLACE 47', Joe MACA 48'(p))
+
+▪▪ Group 3
+Sun Jun 25
+  15:00 UTC-3   Sweden  3-2  Italy   @ Estádio do Pacaembu, São Paulo
+                  (Hans JEPPSSON 25', 69', Sune ANDERSSON 34';
+                   Riccardo CARAPELLESE 7', Ermes MUCCINELLI 78')
+Thu Jun 29
+  15:30 UTC-3   Sweden  2-2  Paraguay   @ Estádio Durival Britto e Silva, Curitiba
+                  (Stig SUNDQVIST 17', Karl-Erik PALMER 26';
+                   Cesar LOPEZ FRETES 35', Atilio LOPEZ 74')
+Sun Jul 2
+  15:00 UTC-3   Italy  2-0  Paraguay   @ Estádio do Pacaembu, São Paulo
+                  (Riccardo CARAPELLESE 12', Egisto PANDOLFINI 63')
+
+▪▪ Group 4
+Sun Jul 2
+  15:00 UTC-3   Uruguay  8-0  Bolivia   @ Independencia, Belo Horizonte
+                  (Oscar MIGUEZ 14', 40', 51', Ernesto VIDAL 18', Juan SCHIAFFINO 23', 54', Julio PEREZ 83', Alcides GHIGGIA 87')
+
+▪ Final Round
+Sun Jul 9
+  15:00 UTC-3   Brazil  7-1  Sweden   @ Maracanã, Rio de Janeiro
+                  (ADEMIR 17', 36', 52', 58', CHICO 39', 88', MANECA 85';
+                   Sune ANDERSSON 67'(p))
+  15:00 UTC-3   Uruguay  2-2  Spain   @ Estádio do Pacaembu, São Paulo
+                  (Alcides GHIGGIA 29', Obdulio VARELA 73';
+                   Estanislao BASORA 37', 39')
+Thu Jul 13
+  15:00 UTC-3   Uruguay  3-2  Sweden   @ Estádio do Pacaembu, São Paulo
+                  (Alcides GHIGGIA 39', Oscar MIGUEZ 77', 85';
+                   Karl-Erik PALMER 5', Stig SUNDQVIST 40')
+  15:00 UTC-3   Brazil  6-1  Spain   @ Maracanã, Rio de Janeiro
+                  (ADEMIR 15', 57', JAIR 21', CHICO 31', 55', ZIZINHO 67';
+                   Silvestre IGOA 71')
+Sun Jul 16
+  15:00 UTC-3   Uruguay  2-1  Brazil   @ Maracanã, Rio de Janeiro
+                  (Juan SCHIAFFINO 66', Alcides GHIGGIA 79';
+                   FRIACA 47')
+  15:00 UTC-3   Sweden  3-1  Spain   @ Estádio do Pacaembu, São Paulo
+                  (Stig SUNDQVIST 15', Bror MELLBERG 33', Karl-Erik PALMER 80';
+                   ZARRA 82')

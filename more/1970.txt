@@ -1,0 +1,132 @@
+= World Cup 1970
+
+# Dates    Sun May 31 - Sun Jun 21 1970 (21d)
+# Teams    16
+# Matches  32
+# Venues   5 (in 5 cities)
+#   Estadio Jalisco, Guadalajara (MEX)
+#   Nou Camp, León (MEX)
+#   Estadio Azteca, Mexico City (MEX)
+#   Estadio Cuauhtemoc, Puebla (MEX)
+#   Bombonera, Toluca (MEX)
+
+
+▪ Group Matches
+▪▪ Group 1
+Sun May 31
+  12:00 UTC-5   Mexico  0-0  Soviet Union   @ Estadio Azteca, Mexico City
+Wed Jun 3
+  16:00 UTC-5   Belgium  3-0  El Salvador   @ Estadio Azteca, Mexico City
+                  (Wilfried VAN MOER 12', 54', Raoul LAMBERT 79'(p))
+Sat Jun 6
+  16:00 UTC-5   Soviet Union  4-1  Belgium   @ Estadio Azteca, Mexico City
+                  (Anatoly BISHOVETS 14', 63', Kakhi ASATIANI 57', Vitali KHMELNITSKI 76';
+                   Raoul LAMBERT 86')
+Sun Jun 7
+  12:00 UTC-5   Mexico  4-0  El Salvador   @ Estadio Azteca, Mexico City
+                  (Javier VALDIVIA 45', 46', Javier FRAGOSO 58', Juan Ignacio BASAGUREN 83')
+Wed Jun 10
+  16:00 UTC-5   Soviet Union  2-0  El Salvador   @ Estadio Azteca, Mexico City
+                  (Anatoly BISHOVETS 51', 74')
+Thu Jun 11
+  16:00 UTC-5   Mexico  1-0  Belgium   @ Estadio Azteca, Mexico City
+                  (Gustavo PENA 14'(p))
+
+▪▪ Group 2
+Tue Jun 2
+  16:00 UTC-5   Uruguay  2-0  Israel   @ Estadio Cuauhtemoc, Puebla
+                  (Ildo MANEIRO 23', Juan MUJICA 50')
+Wed Jun 3
+  16:00 UTC-5   Italy  1-0  Sweden   @ Bombonera, Toluca
+                  (Angelo DOMENGHINI 10')
+Sat Jun 6
+  16:00 UTC-5   Uruguay  0-0  Italy   @ Estadio Cuauhtemoc, Puebla
+Sun Jun 7
+  12:00 UTC-5   Sweden  1-1  Israel   @ Bombonera, Toluca
+                  (Tom TURESSON 53'; Mordechai SPIEGLER 56')
+Wed Jun 10
+  16:00 UTC-5   Sweden  1-0  Uruguay   @ Estadio Cuauhtemoc, Puebla
+                  (Ove GRAHN 90')
+Thu Jun 11
+  16:00 UTC-5   Italy  0-0  Israel   @ Bombonera, Toluca
+
+▪▪ Group 3
+Tue Jun 2
+  16:00 UTC-5   England  1-0  Romania   @ Estadio Jalisco, Guadalajara
+                  (Geoff HURST 65')
+Wed Jun 3
+  16:00 UTC-5   Brazil  4-1  Czechoslovakia   @ Estadio Jalisco, Guadalajara
+                  (RIVELLINO 24', PELE 59', JAIRZINHO 61', 83';
+                   Ladislav PETRAS 11')
+Sat Jun 6
+  16:00 UTC-5   Romania  2-1  Czechoslovakia   @ Estadio Jalisco, Guadalajara
+                  (Alexandru NEAGU 52', Florea DUMITRACHE 75'(p);
+                   Ladislav PETRAS 5')
+Sun Jun 7
+  12:00 UTC-5   Brazil  1-0  England   @ Estadio Jalisco, Guadalajara
+                  (JAIRZINHO 59')
+Wed Jun 10
+  16:00 UTC-5   Brazil  3-2  Romania   @ Estadio Jalisco, Guadalajara
+                  (PELE 19', 67', JAIRZINHO 22';
+                   Florea DUMITRACHE 34', Emerich DEMBROVSCHI 84')
+Thu Jun 11
+  16:00 UTC-5   England  1-0  Czechoslovakia   @ Estadio Jalisco, Guadalajara
+                  (Allan CLARKE 50'(p))
+
+▪▪ Group 4
+Tue Jun 2
+  16:00 UTC-5   Peru  3-2  Bulgaria   @ Nou Camp, León
+                  (Alberto GALLARDO 50', Hector CHUMPITAZ 55', Teofilo CUBILLAS 73';
+                   Dinko DERMENDZHIEV 13', Hristo BONEV 49')
+Wed Jun 3
+  16:00 UTC-5   West Germany  2-1  Morocco   @ Nou Camp, León
+                  (Uwe SEELER 56', Gerd MUELLER 80';
+                   Houmane JARIR 21')
+Sat Jun 6
+  16:00 UTC-5   Peru  3-0  Morocco   @ Nou Camp, León
+                  (Teofilo CUBILLAS 65', 75', Roberto CHALLE 67')
+Sun Jun 7
+  12:00 UTC-5   West Germany  5-2  Bulgaria   @ Nou Camp, León
+                  (Stan LIBUDA 20', Gerd MUELLER 27', 52'(p), 88', Uwe SEELER 70';
+                   Asparukh NIKODIMOV 12', Todor KOLEV 89')
+Wed Jun 10
+  16:00 UTC-5   West Germany  3-1  Peru   @ Nou Camp, León
+                  (Gerd MUELLER 19', 26', 39';
+                   Teofilo CUBILLAS 44')
+Thu Jun 11
+  16:00 UTC-5   Bulgaria  1-1  Morocco   @ Nou Camp, León
+                  (Dobromir JECHEV 40'; Mahjoub GHAZOUANI 61')
+
+▪ Quarter-final
+Sun Jun 14
+  12:00 UTC-5   Uruguay  1-0 a.e.t.  Soviet Union   @ Estadio Azteca, Mexico City
+                  (Victor ESPARRAGO 117')
+  12:00 UTC-5   Brazil  4-2  Peru   @ Estadio Jalisco, Guadalajara
+                  (RIVELLINO 11', TOSTAO 15', 52', JAIRZINHO 75';
+                   Alberto GALLARDO 28', Teofilo CUBILLAS 70')
+  12:00 UTC-5   West Germany  3-2 a.e.t.  England   @ Nou Camp, León
+                  (Franz BECKENBAUER 68', Uwe SEELER 82', Gerd MUELLER 108';
+                   Alan MULLERY 31', Martin PETERS 49')
+  12:00 UTC-5   Italy  4-1  Mexico   @ Bombonera, Toluca
+                  (Javier GUZMAN 25'(og), Gigi RIVA 63', 76', Gianni RIVERA 70';
+                   Jose Luis GONZALEZ 13')
+
+▪ Semi-final
+Wed Jun 17
+  16:00 UTC-5   Brazil  3-1  Uruguay   @ Estadio Jalisco, Guadalajara
+                  (CLODOALDO 44', JAIRZINHO 76', RIVELLINO 89';
+                   Luis CUBILLA 19')
+  16:00 UTC-5   Italy  4-3 a.e.t.  West Germany   @ Estadio Azteca, Mexico City
+                  (Roberto BONINSEGNA 8', Tarcisio BURGNICH 98', Gigi RIVA 104', Gianni RIVERA 111';
+                   Karl-Heinz SCHNELLINGER 90', Gerd MUELLER 94', 110')
+
+▪ Match for third place
+Sat Jun 20
+  16:00 UTC-5   West Germany  1-0  Uruguay   @ Estadio Azteca, Mexico City
+                  (Wolfgang OVERATH 26')
+
+▪ Final
+Sun Jun 21
+  12:00 UTC-5   Brazil  4-1  Italy   @ Estadio Azteca, Mexico City
+                  (PELE 18', GERSON 66', JAIRZINHO 71', CARLOS ALBERTO 86';
+                   Roberto BONINSEGNA 37')

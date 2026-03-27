@@ -1,0 +1,112 @@
+= World Cup 1954
+
+# Dates    Wed Jun 16 - Sun Jul 4 1954 (18d)
+# Teams    16
+# Matches  26
+# Venues   6 (in 6 cities)
+#   St. Jakob-Park, Basel (SUI)
+#   Stade de Suisse, Bern (SUI)
+#   Charmilles, Geneva (SUI)
+#   La Pontaise, Lausanne (SUI)
+#   Comunale di Cornaredo, Lugano (SUI)
+#   Hardturm, Zürich (SUI)
+
+
+▪ Group Matches
+▪▪ Group 1
+Wed Jun 16
+  18:00 UTC+2   Brazil  5-0  Mexico   @ Charmilles, Geneva
+                  (BALTAZAR 23', DIDI 30', PINGA 34', 43', JULINHO 69')
+  18:00 UTC+2   Yugoslavia  1-0  France   @ La Pontaise, Lausanne
+                  (Milos MILUTINOVIC 15')
+Sat Jun 19
+  17:00 UTC+2   Brazil  1-1 a.e.t.  Yugoslavia   @ La Pontaise, Lausanne
+                  (DIDI 69'; Branko ZEBEC 48')
+  17:10 UTC+2   France  3-2  Mexico   @ Charmilles, Geneva
+                  (Jean VINCENT 19', Raul CARDENAS 46'(og), Raymond KOPA 88'(p);
+                   Jose LAMADRID 54', Tomas BALCAZAR 85')
+
+▪▪ Group 2
+Thu Jun 17
+  18:00 UTC+2   Hungary  9-0  South Korea   @ Hardturm, Zürich
+                  (Ferenc PUSKAS 12', 89', Mihaly LANTOS 18', Sandor KOCSIS 24', 36', 50', Zoltan CZIBOR 59', Peter PALOTAS 75', 83')
+  18:00 UTC+2   West Germany  4-1  Turkey   @ Stade de Suisse, Bern
+                  (Hans SCHAEFER 14', Berni KLODT 52', Ottmar WALTER 60', Max MORLOCK 84';
+                   Suat MAMAT 2')
+Sun Jun 20
+  16:50 UTC+2   Hungary  8-3  West Germany   @ St. Jakob-Park, Basel
+                  (Sandor KOCSIS 3', 21', 69', 78', Ferenc PUSKAS 17', Nandor HIDEGKUTI 52', 54', Jozsef TOTH 75';
+                   Alfred PFAFF 25', Helmut RAHN 77', Richard HERRMANN 84')
+  17:00 UTC+2   Turkey  7-0  South Korea   @ Charmilles, Geneva
+                  (Suat MAMAT 10', 30', Lefter KUCUKANDONYADIS 18', Buhran SARGUN 37', 64', 70', Erol KESKIN 76')
+Wed Jun 23
+  18:00 UTC+2   West Germany  7-2  Turkey   @ Hardturm, Zürich
+                  (Ottmar WALTER 7', Hans SCHAEFER 12', 79', Max MORLOCK 30', 60', 77', Fritz WALTER 62';
+                   Mustafa ERTAN 21', Lefter KUCUKANDONYADIS 82')
+
+▪▪ Group 3
+Wed Jun 16
+  18:00 UTC+2   Austria  1-0  Scotland   @ Hardturm, Zürich
+                  (Erich PROBST 33')
+  18:00 UTC+2   Uruguay  2-0  Czechoslovakia   @ Stade de Suisse, Bern
+                  (Oscar MIGUEZ 71', Juan SCHIAFFINO 84')
+Sat Jun 19
+  16:50 UTC+2   Uruguay  7-0  Scotland   @ St. Jakob-Park, Basel
+                  (Carlos BORGES 17', 47', 57', Oscar MIGUEZ 30', 83', Julio ABBADIE 54', 85')
+  17:00 UTC+2   Austria  5-0  Czechoslovakia   @ Hardturm, Zürich
+                  (Ernst STOJASPAL 3', 65', Erich PROBST 4', 21', 24')
+
+▪▪ Group 4
+Thu Jun 17
+  17:50 UTC+2   Switzerland  2-1  Italy   @ La Pontaise, Lausanne
+                  (Robert BALLAMAN 18', Sepp HUEGI 78';
+                   Giampiero BONIPERTI 44')
+  18:10 UTC+2   England  4-4 a.e.t.  Belgium   @ St. Jakob-Park, Basel
+                  (Ivor BROADIS 26', 63', Nat LOFTHOUSE 36', 91';
+                   Leopold ANOUL 5', 71', Rik COPPENS 67', Jimmy DICKINSON 94'(og))
+Sun Jun 20
+  17:00 UTC+2   Italy  4-1  Belgium   @ Comunale di Cornaredo, Lugano
+                  (Egisto PANDOLFINI 41'(p), Carlo GALLI 48', Amleto FRIGNANI 58', Benito LORENZI 78';
+                   Leopold ANOUL 81')
+  17:10 UTC+2   England  2-0  Switzerland   @ Stade de Suisse, Bern
+                  (Jimmy MULLEN 43', Dennis WILSHAW 69')
+Wed Jun 23
+  18:00 UTC+2   Switzerland  4-1  Italy   @ St. Jakob-Park, Basel
+                  (Sepp HUEGI 14', 85', Robert BALLAMAN 48', Jackie FATTON 90';
+                   Fulvio NESTI 67')
+
+▪ Quarter-final
+Sat Jun 26
+  17:00 UTC+2   Austria  7-5  Switzerland   @ La Pontaise, Lausanne
+                  (Theodor WAGNER 25', 27', 53', Alfred KOERNER 26', 34', Ernst OCWIRK 32', Erich PROBST 76';
+                   Robert BALLAMAN 16', 39', Sepp HUEGI 17', 19', 60')
+  17:00 UTC+2   Uruguay  4-2  England   @ St. Jakob-Park, Basel
+                  (Carlos BORGES 5', Obdulio VARELA 39', Juan SCHIAFFINO 46', Javier AMBROIS 78';
+                   Nat LOFTHOUSE 16', Tom FINNEY 67')
+Sun Jun 27
+  17:00 UTC+2   West Germany  2-0  Yugoslavia   @ Charmilles, Geneva
+                  (Ivan HORVAT 9'(og), Helmut RAHN 85')
+  17:00 UTC+2   Hungary  4-2  Brazil   @ Stade de Suisse, Bern
+                  (Nandor HIDEGKUTI 4', Sandor KOCSIS 7', 88', Mihaly LANTOS 60'(p);
+                   DJALMA SANTOS 18'(p), JULINHO 65')
+
+▪ Semi-final
+Wed Jun 30
+  18:00 UTC+2   West Germany  6-1  Austria   @ St. Jakob-Park, Basel
+                  (Hans SCHAEFER 31', Max MORLOCK 47', Fritz WALTER 54'(p), 64'(p), Ottmar WALTER 61', 89';
+                   Erich PROBST 51')
+  18:00 UTC+2   Hungary  4-2 a.e.t.  Uruguay   @ La Pontaise, Lausanne
+                  (Zoltan CZIBOR 12', Nandor HIDEGKUTI 47', Sandor KOCSIS 109', 116';
+                   Juan HOHBERG 75', 86')
+
+▪ Match for third place
+Sat Jul 3
+  17:00 UTC+2   Austria  3-1  Uruguay   @ Hardturm, Zürich
+                  (Ernst STOJASPAL 16'(p), Luis CRUZ 59'(og), Ernst OCWIRK 79';
+                   Juan HOHBERG 22')
+
+▪ Final
+Sun Jul 4
+  17:00 UTC+2   West Germany  3-2  Hungary   @ Stade de Suisse, Bern
+                  (Max MORLOCK 10', Helmut RAHN 18', 84';
+                   Ferenc PUSKAS 6', Zoltan CZIBOR 8')

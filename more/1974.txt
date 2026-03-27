@@ -1,0 +1,136 @@
+= World Cup 1974
+
+# Dates    Thu Jun 13 - Sun Jul 7 1974 (24d)
+# Teams    16
+# Matches  38
+# Venues   9 (in 9 cities)
+#   Olympiastadion, Berlin West (FRG)
+#   Westfalenstadion, Dortmund (FRG)
+#   Rheinstadion, Düsseldorf (FRG)
+#   Waldstadion, Frankfurt (FRG)
+#   Parkstadion, Gelsenkirchen (FRG)
+#   Volksparkstadion, Hamburg (FRG)
+#   Niedersachsenstadion, Hanover (FRG)
+#   Olympiastadion, Munich (FRG)
+#   Neckarstadion, Stuttgart (FRG)
+
+
+▪ Group Matches
+▪▪ Group 1
+Fri Jun 14
+  16:00 UTC+2   West Germany  1-0  Chile   @ Olympiastadion, Berlin West
+                  (Paul BREITNER 18')
+  19:30 UTC+2   East Germany  2-0  Australia   @ Volksparkstadion, Hamburg
+                  (Colin CURRAN 58'(og), Joachim STREICH 72')
+Tue Jun 18
+  16:00 UTC+2   Australia  0-3  West Germany   @ Volksparkstadion, Hamburg
+                  (Wolfgang OVERATH 12', Bernd CULLMANN 34', Gerd MUELLER 53')
+  19:30 UTC+2   Chile  1-1  East Germany   @ Olympiastadion, Berlin West
+                  (Sergio AHUMADA 69'; Martin HOFFMANN 55')
+Sat Jun 22
+  16:00 UTC+2   Australia  0-0  Chile   @ Olympiastadion, Berlin West
+  19:30 UTC+2   East Germany  1-0  West Germany   @ Volksparkstadion, Hamburg
+                  (Juergen SPARWASSER 77')
+
+▪▪ Group 2
+Thu Jun 13
+  17:00 UTC+2   Brazil  0-0  Yugoslavia   @ Waldstadion, Frankfurt
+Fri Jun 14
+  19:30 UTC+2   Zaire  0-2  Scotland   @ Westfalenstadion, Dortmund
+                  (Peter LORIMER 26', Joe JORDAN 34')
+Tue Jun 18
+  19:30 UTC+2   Scotland  0-0  Brazil   @ Waldstadion, Frankfurt
+  19:30 UTC+2   Yugoslavia  9-0  Zaire   @ Parkstadion, Gelsenkirchen
+                  (Dusan BAJEVIC 8', 30', 81', Dragan DZAJIC 14', Ivica SURJAK 18', Josip KATALINSKI 22', Vladislav BOGICEVIC 35', Branko OBLAK 61', Ilija PETKOVIC 65')
+Sat Jun 22
+  16:00 UTC+2   Scotland  1-1  Yugoslavia   @ Waldstadion, Frankfurt
+                  (Joe JORDAN 88'; Stanislav KARASI 81')
+  16:00 UTC+2   Zaire  0-3  Brazil   @ Parkstadion, Gelsenkirchen
+                  (JAIRZINHO 12', RIVELLINO 66', VALDOMIRO 79')
+
+▪▪ Group 3
+Sat Jun 15
+  16:00 UTC+2   Sweden  0-0  Bulgaria   @ Rheinstadion, Düsseldorf
+  16:00 UTC+2   Uruguay  0-2  Netherlands   @ Niedersachsenstadion, Hanover
+                  (Johnny REP 7', 86')
+Wed Jun 19
+  19:30 UTC+2   Netherlands  0-0  Sweden   @ Westfalenstadion, Dortmund
+  19:30 UTC+2   Bulgaria  1-1  Uruguay   @ Niedersachsenstadion, Hanover
+                  (Hristo BONEV 75'; Ricardo PAVONI 87')
+Sun Jun 23
+  16:00 UTC+2   Bulgaria  1-4  Netherlands   @ Westfalenstadion, Dortmund
+                  (Ruud KROL 78'(og);
+                   Johan NEESKENS 5'(p), 45'(p), Johnny REP 71', Theo DE JONG 88')
+  16:00 UTC+2   Sweden  3-0  Uruguay   @ Rheinstadion, Düsseldorf
+                  (Ralf EDSTROM 46', 77', Roland SANDBERG 74')
+
+▪▪ Group 4
+Sat Jun 15
+  18:00 UTC+2   Italy  3-1  Haiti   @ Olympiastadion, Munich
+                  (Gianni RIVERA 52', Romeo BENETTI 66', Pietro ANASTASI 79';
+                   Emmanuel SANON 46')
+  18:00 UTC+2   Poland  3-2  Argentina   @ Neckarstadion, Stuttgart
+                  (Grzegorz LATO 7', 62', Andrzej SZARMACH 8';
+                   Ramon HEREDIA 60', Carlos BABINGTON 66')
+Wed Jun 19
+  19:30 UTC+2   Argentina  1-1  Italy   @ Neckarstadion, Stuttgart
+                  (Rene HOUSEMAN 19'; Roberto PERFUMO 35'(og))
+  19:30 UTC+2   Haiti  0-7  Poland   @ Olympiastadion, Munich
+                  (Grzegorz LATO 17', 87', Kazimierz DEYNA 18', Andrzej SZARMACH 30', 34', 50', Jerzy GORGON 31')
+Sun Jun 23
+  16:00 UTC+2   Poland  2-1  Italy   @ Neckarstadion, Stuttgart
+                  (Andrzej SZARMACH 38', Kazimierz DEYNA 44';
+                   Fabio CAPELLO 85')
+  16:00 UTC+2   Argentina  4-1  Haiti   @ Olympiastadion, Munich
+                  (Hector YAZALDE 15', 68', Rene HOUSEMAN 18', Ruben AYALA 55';
+                   Emmanuel SANON 63')
+
+▪ Second Round
+▪▪ Group A
+Wed Jun 26
+  19:30 UTC+2   Brazil  1-0  East Germany   @ Niedersachsenstadion, Hanover
+                  (RIVELLINO 60')
+  19:30 UTC+2   Netherlands  4-0  Argentina   @ Parkstadion, Gelsenkirchen
+                  (Johan CRUYFF 10', 90', Ruud KROL 25', Johnny REP 73')
+Sun Jun 30
+  16:00 UTC+2   East Germany  0-2  Netherlands   @ Parkstadion, Gelsenkirchen
+                  (Johan NEESKENS 7', Rob RENSENBRINK 59')
+  16:00 UTC+2   Argentina  1-2  Brazil   @ Niedersachsenstadion, Hanover
+                  (Miguel BRINDISI 35';
+                   RIVELLINO 32', JAIRZINHO 49')
+Wed Jul 3
+  19:30 UTC+2   Argentina  1-1  East Germany   @ Parkstadion, Gelsenkirchen
+                  (Rene HOUSEMAN 20'; Joachim STREICH 14')
+  19:30 UTC+2   Netherlands  2-0  Brazil   @ Westfalenstadion, Dortmund
+                  (Johan NEESKENS 50', Johan CRUYFF 65')
+
+▪▪ Group B
+Wed Jun 26
+  16:00 UTC+2   Yugoslavia  0-2  West Germany   @ Rheinstadion, Düsseldorf
+                  (Paul BREITNER 39', Gerd MUELLER 82')
+  19:30 UTC+2   Sweden  0-1  Poland   @ Neckarstadion, Stuttgart
+                  (Grzegorz LATO 43')
+Sun Jun 30
+  16:00 UTC+2   Poland  2-1  Yugoslavia   @ Waldstadion, Frankfurt
+                  (Kazimierz DEYNA 24'(p), Grzegorz LATO 62';
+                   Stanislav KARASI 43')
+  19:30 UTC+2   West Germany  4-2  Sweden   @ Rheinstadion, Düsseldorf
+                  (Wolfgang OVERATH 51', Rainer BONHOF 52', Juergen GRABOWSKI 76', Uli HOENESS 89'(p);
+                   Ralf EDSTROM 24', Roland SANDBERG 53')
+Wed Jul 3
+  17:00 UTC+2   Poland  0-1  West Germany   @ Waldstadion, Frankfurt
+                  (Gerd MUELLER 76')
+  19:30 UTC+2   Sweden  2-1  Yugoslavia   @ Rheinstadion, Düsseldorf
+                  (Ralf EDSTROM 29', Conny TORSTENSSON 85';
+                   Ivica SURJAK 27')
+
+▪ Match for third place
+Sat Jul 6
+  16:00 UTC+2   Brazil  0-1  Poland   @ Olympiastadion, Munich
+                  (Grzegorz LATO 76')
+
+▪ Final
+Sun Jul 7
+  16:00 UTC+2   Netherlands  1-2  West Germany   @ Olympiastadion, Munich
+                  (Johan NEESKENS 2'(p);
+                   Paul BREITNER 25'(p), Gerd MUELLER 43')

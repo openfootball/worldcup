@@ -1,0 +1,225 @@
+= World Cup 2010
+
+# Dates    Fri Jun 11 - Sun Jul 11 2010 (30d)
+# Teams    32
+# Matches  64
+# Venues   10 (in 9 cities)
+#   Cape Town Stadium, Cape Town (RSA)
+#   Durban Stadium, Durban (RSA)
+#   Port Elizabeth Stadium, Gqeberha (RSA)
+#   Ellis Park Stadium, Johannesburg (RSA)
+#   Soccer City Stadium, Johannesburg (RSA)
+#   Free State Stadium, Mangaung (RSA)
+#   Mbombela Stadium, Mbombela (RSA)
+#   Royal Bafokeng Sports Palace, Phokeng (RSA)
+#   Peter Mokaba Stadium, Polokwane (RSA)
+#   Loftus Versfeld Stadium, Pretoria (RSA)
+
+
+▪ First stage
+▪▪ Group A
+Fri Jun 11
+  16:00 UTC+2   South Africa  1-1  Mexico   @ Soccer City Stadium, Johannesburg
+                  (Siphiwe TSHABALALA 54'; Rafael MARQUEZ 78')
+  20:30 UTC+2   Uruguay  0-0  France   @ Cape Town Stadium, Cape Town
+Wed Jun 16
+  20:30 UTC+2   South Africa  0-3  Uruguay   @ Loftus Versfeld Stadium, Pretoria
+                  (Diego FORLAN 23', 79'(p), Alvaro PEREIRA 90+4')
+Thu Jun 17
+  20:30 UTC+2   France  0-2  Mexico   @ Peter Mokaba Stadium, Polokwane
+                  (Javier HERNANDEZ 63', Cuauhtemoc BLANCO 78'(p))
+Tue Jun 22
+  16:00 UTC+2   Mexico  0-1  Uruguay   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Luis SUAREZ 42')
+  16:00 UTC+2   France  1-2  South Africa   @ Free State Stadium, Mangaung
+                  (Florent MALOUDA 69';
+                   Bongani KHUMALO 19', Katlego MPHELA 36')
+
+▪▪ Group B
+Sat Jun 12
+  13:30 UTC+2   South Korea  2-0  Greece   @ Port Elizabeth Stadium, Gqeberha
+                  (LEE Jung Soo 6', PARK Jisung 51')
+  16:00 UTC+2   Argentina  1-0  Nigeria   @ Ellis Park Stadium, Johannesburg
+                  (Gabriel HEINZE 5')
+Thu Jun 17
+  13:30 UTC+2   Argentina  4-1  South Korea   @ Soccer City Stadium, Johannesburg
+                  (PARK Chuyoung 16'(og), Gonzalo HIGUAIN 32', 75', 79';
+                   LEE Chungyong 45')
+  16:00 UTC+2   Greece  2-1  Nigeria   @ Free State Stadium, Mangaung
+                  (Dimitrios SALPINGIDIS 43', Vasileios TOROSIDIS 70';
+                   Kalu UCHE 15')
+Tue Jun 22
+  20:30 UTC+2   Nigeria  2-2  South Korea   @ Durban Stadium, Durban
+                  (Kalu UCHE 11', Yakubu AYEGBENI 68'(p);
+                   LEE Jung Soo 37', PARK Chuyoung 48')
+  20:30 UTC+2   Greece  0-2  Argentina   @ Peter Mokaba Stadium, Polokwane
+                  (Martin DEMICHELIS 76', Martin PALERMO 88')
+
+▪▪ Group C
+Sat Jun 12
+  20:30 UTC+2   England  1-1  USA   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Steven GERRARD 3'; Clint DEMPSEY 39')
+Sun Jun 13
+  13:30 UTC+2   Algeria  0-1  Slovenia   @ Peter Mokaba Stadium, Polokwane
+                  (Robert KOREN 78')
+Fri Jun 18
+  16:00 UTC+2   Slovenia  2-2  USA   @ Ellis Park Stadium, Johannesburg
+                  (Valter BIRSA 12', Zlatan LJUBIJANKIC 41';
+                   Landon DONOVAN 47', Michael BRADLEY 81')
+  20:30 UTC+2   England  0-0  Algeria   @ Cape Town Stadium, Cape Town
+Wed Jun 23
+  16:00 UTC+2   USA  1-0  Algeria   @ Loftus Versfeld Stadium, Pretoria
+                  (Landon DONOVAN 90')
+  16:00 UTC+2   Slovenia  0-1  England   @ Port Elizabeth Stadium, Gqeberha
+                  (Jermain DEFOE 22')
+
+▪▪ Group D
+Sun Jun 13
+  16:00 UTC+2   Serbia  0-1  Ghana   @ Loftus Versfeld Stadium, Pretoria
+                  (Asamoah GYAN 84'(p))
+  20:30 UTC+2   Germany  4-0  Australia   @ Durban Stadium, Durban
+                  (Lukas PODOLSKI 7', Miroslav KLOSE 25', MUELLER Thomas 67', CACAU 69')
+Fri Jun 18
+  13:30 UTC+2   Germany  0-1  Serbia   @ Port Elizabeth Stadium, Gqeberha
+                  (Milan JOVANOVIC 37')
+Sat Jun 19
+  16:00 UTC+2   Ghana  1-1  Australia   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Asamoah GYAN 25'(p); Brett HOLMAN 10')
+Wed Jun 23
+  20:30 UTC+2   Australia  2-1  Serbia   @ Mbombela Stadium, Mbombela
+                  (Tim CAHILL 68', Brett HOLMAN 72';
+                   Marko PANTELIC 83')
+  20:30 UTC+2   Ghana  0-1  Germany   @ Soccer City Stadium, Johannesburg
+                  (Mesut OEZIL 59')
+
+▪▪ Group E
+Mon Jun 14
+  13:30 UTC+2   Netherlands  2-0  Denmark   @ Soccer City Stadium, Johannesburg
+                  (Daniel AGGER 45'(og), Dirk KUYT 84')
+  16:00 UTC+2   Japan  1-0  Cameroon   @ Free State Stadium, Mangaung
+                  (Keisuke HONDA 38')
+Sat Jun 19
+  13:30 UTC+2   Netherlands  1-0  Japan   @ Durban Stadium, Durban
+                  (Wesley SNEIJDER 52')
+  20:30 UTC+2   Cameroon  1-2  Denmark   @ Loftus Versfeld Stadium, Pretoria
+                  (Samuel ETOO 9';
+                   Nicklas BENDTNER 32', Dennis ROMMEDAHL 60')
+Thu Jun 24
+  20:30 UTC+2   Cameroon  1-2  Netherlands   @ Cape Town Stadium, Cape Town
+                  (Samuel ETOO 64'(p);
+                   Robin VAN PERSIE 35', Klaas Jan HUNTELAAR 82')
+  20:30 UTC+2   Denmark  1-3  Japan   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Jon Dahl TOMASSON 80';
+                   Keisuke HONDA 16', Yasuhito ENDO 29', Shinji OKAZAKI 86')
+
+▪▪ Group F
+Mon Jun 14
+  20:30 UTC+2   Italy  1-1  Paraguay   @ Cape Town Stadium, Cape Town
+                  (Daniele DE ROSSI 62'; Antolín ALCARAZ 38')
+Tue Jun 15
+  13:30 UTC+2   New Zealand  1-1  Slovakia   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Winston REID 90+2'; Robert VITTEK 49')
+Sun Jun 20
+  13:30 UTC+2   Slovakia  0-2  Paraguay   @ Free State Stadium, Mangaung
+                  (Enrique VERA 26', Cristian RIVEROS 85')
+  16:00 UTC+2   Italy  1-1  New Zealand   @ Mbombela Stadium, Mbombela
+                  (Vincenzo IAQUINTA 28'(p); Shane Smeltz 6')
+Thu Jun 24
+  16:00 UTC+2   Paraguay  0-0  New Zealand   @ Peter Mokaba Stadium, Polokwane
+  16:00 UTC+2   Slovakia  3-2  Italy   @ Ellis Park Stadium, Johannesburg
+                  (Robert VITTEK 24', 72', Kamil KOPUNEK 88';
+                   Antonio DI NATALE 80', Fabio QUAGLIARELLA 90+1')
+
+▪▪ Group G
+Tue Jun 15
+  16:00 UTC+2   Côte d'Ivoire  0-0  Portugal   @ Port Elizabeth Stadium, Gqeberha
+  20:30 UTC+2   Brazil  2-1  North Korea   @ Ellis Park Stadium, Johannesburg
+                  (MAICON 54', ELANO 71';
+                   JI Yun Nam 88')
+Sun Jun 20
+  20:30 UTC+2   Brazil  3-1  Côte d'Ivoire   @ Soccer City Stadium, Johannesburg
+                  (LUIS FABIANO 24', 49', ELANO 61';
+                   Didier DROGBA 78')
+Mon Jun 21
+  13:30 UTC+2   Portugal  7-0  North Korea   @ Cape Town Stadium, Cape Town
+                  (RAUL MEIRELES 28', SIMAO 52', HUGO ALMEIDA 55', TIAGO 59', 88', LIEDSON 80', CRISTIANO RONALDO 86')
+Fri Jun 25
+  16:00 UTC+2   North Korea  0-3  Côte d'Ivoire   @ Mbombela Stadium, Mbombela
+                  (Yaya TOURE 13', ROMARIC 19', Salomon KALOU 81')
+  16:00 UTC+2   Portugal  0-0  Brazil   @ Durban Stadium, Durban
+
+▪▪ Group H
+Wed Jun 16
+  13:30 UTC+2   Honduras  0-1  Chile   @ Mbombela Stadium, Mbombela
+                  (Jean BEAUSEJOUR 33')
+  16:00 UTC+2   Spain  0-1  Switzerland   @ Durban Stadium, Durban
+                  (Gelson FERNANDES 51')
+Mon Jun 21
+  16:00 UTC+2   Chile  1-0  Switzerland   @ Port Elizabeth Stadium, Gqeberha
+                  (Mark GONZALEZ 74')
+  20:30 UTC+2   Spain  2-0  Honduras   @ Ellis Park Stadium, Johannesburg
+                  (David VILLA 16', 50')
+Fri Jun 25
+  20:30 UTC+2   Chile  1-2  Spain   @ Loftus Versfeld Stadium, Pretoria
+                  (Rodrigo MILLAR 46';
+                   David VILLA 23', Andres INIESTA 36')
+  20:30 UTC+2   Switzerland  0-0  Honduras   @ Free State Stadium, Mangaung
+
+▪ Round of 16
+Sat Jun 26
+  16:00 UTC+2   Uruguay  2-1  South Korea   @ Port Elizabeth Stadium, Gqeberha
+                  (Luis SUAREZ 7', 79';
+                   LEE Chungyong 67')
+  20:30 UTC+2   USA  1-2 a.e.t.  Ghana   @ Royal Bafokeng Sports Palace, Phokeng
+                  (Landon DONOVAN 61'(p);
+                   Kevin-Prince Boateng 4', Asamoah GYAN 92')
+Sun Jun 27
+  16:00 UTC+2   Germany  4-1  England   @ Free State Stadium, Mangaung
+                  (Miroslav KLOSE 19', Lukas PODOLSKI 31', MUELLER Thomas 66', 69';
+                   Matt UPSON 36')
+  20:30 UTC+2   Argentina  3-1  Mexico   @ Soccer City Stadium, Johannesburg
+                  (Carlos TEVEZ 25', 51', Gonzalo HIGUAIN 32';
+                   Javier HERNANDEZ 70')
+Mon Jun 28
+  16:00 UTC+2   Netherlands  2-1  Slovakia   @ Durban Stadium, Durban
+                  (Arjen ROBBEN 17', Wesley SNEIJDER 83';
+                   Robert VITTEK 90+3'(p))
+  20:30 UTC+2   Brazil  3-0  Chile   @ Ellis Park Stadium, Johannesburg
+                  (JUAN 34', LUIS FABIANO 37', ROBINHO 58')
+Tue Jun 29
+  16:00 UTC+2   Paraguay  0-0 a.e.t., 5-3 pen.  Japan   @ Loftus Versfeld Stadium, Pretoria
+  20:30 UTC+2   Spain  1-0  Portugal   @ Cape Town Stadium, Cape Town
+                  (David VILLA 62')
+
+▪ Quarter-final
+Fri Jul 2
+  16:00 UTC+2   Netherlands  2-1  Brazil   @ Port Elizabeth Stadium, Gqeberha
+                  (Wesley SNEIJDER 52', 67';
+                   ROBINHO 9')
+  20:30 UTC+2   Uruguay  1-1 a.e.t., 4-2 pen.  Ghana   @ Soccer City Stadium, Johannesburg
+                  (Diego FORLAN 54'; Sulley MUNTARI 45+1')
+Sat Jul 3
+  16:00 UTC+2   Argentina  0-4  Germany   @ Cape Town Stadium, Cape Town
+                  (MUELLER Thomas 2', Miroslav KLOSE 67', 88', Arne FRIEDRICH 73')
+  20:30 UTC+2   Paraguay  0-1  Spain   @ Ellis Park Stadium, Johannesburg
+                  (David VILLA 82')
+
+▪ Semi-final
+Tue Jul 6
+  20:30 UTC+2   Uruguay  2-3  Netherlands   @ Cape Town Stadium, Cape Town
+                  (Diego FORLAN 40', Maximiliano PEREIRA 90+1';
+                   Giovanni VAN BRONCKHORST 17', Wesley SNEIJDER 69', Arjen ROBBEN 72')
+Wed Jul 7
+  20:30 UTC+2   Germany  0-1  Spain   @ Durban Stadium, Durban
+                  (Carles PUYOL 72')
+
+▪ Match for third place
+Sat Jul 10
+  20:30 UTC+2   Uruguay  2-3  Germany   @ Port Elizabeth Stadium, Gqeberha
+                  (Edinson CAVANI 27', Diego FORLAN 51';
+                   MUELLER Thomas 18', Marcell JANSEN 55', Sami KHEDIRA 81')
+
+▪ Final
+Sun Jul 11
+  20:30 UTC+2   Netherlands  0-1 a.e.t.  Spain   @ Soccer City Stadium, Johannesburg
+                  (Andres INIESTA 115')

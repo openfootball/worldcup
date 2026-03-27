@@ -1,0 +1,196 @@
+= World Cup 1994
+
+# Dates    Fri Jun 17 - Sun Jul 17 1994 (30d)
+# Teams    24
+# Matches  52
+# Venues   9 (in 9 cities)
+#   Foxboro Stadium, Boston (Foxborough) (USA)
+#   Soldier Field, Chicago (USA)
+#   Cotton Bowl, Dallas (USA)
+#   Pontiac Silverdome, Detroit (Pontiac) (USA)
+#   Rose Bowl, Los Angeles (Pasadena) (USA)
+#   Giants Stadium, New York/New Jersey (East Rutherford) (USA)
+#   Citrus Bowl, Orlando (USA)
+#   Stanford Stadium, San Francisco (Stanford) (USA)
+#   RFK Stadium, Washington (USA)
+
+
+▪ Group Matches
+▪▪ Group A
+Sat Jun 18
+  11:30 UTC-4   USA  1-1  Switzerland   @ Pontiac Silverdome, Detroit (Pontiac)
+                  (Eric WYNALDA 44'; Georges BREGY 39')
+  19:30 UTC-7   Colombia  1-3  Romania   @ Rose Bowl, Los Angeles (Pasadena)
+                  (Adolfo VALENCIA 43';
+                   Florin RADUCIOIU 15', 89', Gheorghe HAGI 34')
+Wed Jun 22
+  16:00 UTC-4   Romania  1-4  Switzerland   @ Pontiac Silverdome, Detroit (Pontiac)
+                  (Gheorghe HAGI 35';
+                   Alain SUTTER 16', Stephane CHAPUISAT 52', Adrian KNUP 65', 72')
+  19:30 UTC-7   USA  2-1  Colombia   @ Rose Bowl, Los Angeles (Pasadena)
+                  (Andres ESCOBAR 35'(og), Earnie STEWART 52';
+                   Adolfo VALENCIA 90')
+Sun Jun 26
+  16:00 UTC-7   USA  0-1  Romania   @ Rose Bowl, Los Angeles (Pasadena)
+                  (Dan PETRESCU 18')
+  16:00 UTC-7   Switzerland  0-2  Colombia   @ Stanford Stadium, San Francisco (Stanford)
+                  (Herman GAVIRIA 44', Harold LOZANO 90')
+
+▪▪ Group B
+Sun Jun 19
+  19:30 UTC-7   Cameroon  2-2  Sweden   @ Rose Bowl, Los Angeles (Pasadena)
+                  (David EMBE 31', Francois OMAM-BIYIK 47';
+                   Roger LJUNG 8', Martin DAHLIN 75')
+Mon Jun 20
+  16:00 UTC-7   Brazil  2-0  Russia   @ Stanford Stadium, San Francisco (Stanford)
+                  (ROMÁRIO (Romário de Souza Faria) 26', RAI 52'(p))
+Fri Jun 24
+  16:00 UTC-7   Brazil  3-0  Cameroon   @ Stanford Stadium, San Francisco (Stanford)
+                  (ROMÁRIO (Romário de Souza Faria) 39', MARCIO SANTOS 66', BEBETO 73')
+  19:30 UTC-4   Sweden  3-1  Russia   @ Pontiac Silverdome, Detroit (Pontiac)
+                  (Tomas BROLIN 37'(p), Martin DAHLIN 59', 81';
+                   Oleg SALENKO 4'(p))
+Tue Jun 28
+  16:00 UTC-4   Brazil  1-1  Sweden   @ Pontiac Silverdome, Detroit (Pontiac)
+                  (ROMÁRIO (Romário de Souza Faria) 46'; Kennet ANDERSSON 23')
+  16:00 UTC-7   Russia  6-1  Cameroon   @ Stanford Stadium, San Francisco (Stanford)
+                  (Oleg SALENKO 15', 41', 44'(p), 72', 75', Dmitri RADCHENKO 81';
+                   Roger MILLA 46')
+
+▪▪ Group C
+Fri Jun 17
+  15:00 UTC-5   Germany  1-0  Bolivia   @ Soldier Field, Chicago
+                  (Juergen KLINSMANN 61')
+  19:30 UTC-5   Spain  2-2  South Korea   @ Cotton Bowl, Dallas
+                  (JULIO SALINAS 51', GOIKOETXEA 55';
+                   HONG Myungbo 85', SEO Jung Won 90')
+Tue Jun 21
+  16:00 UTC-5   Germany  1-1  Spain   @ Soldier Field, Chicago
+                  (Juergen KLINSMANN 48'; GOIKOETXEA 14')
+Thu Jun 23
+  19:30 UTC-4   South Korea  0-0  Bolivia   @ Foxboro Stadium, Boston (Foxborough)
+Mon Jun 27
+  16:00 UTC-5   Germany  3-2  South Korea   @ Cotton Bowl, Dallas
+                  (Juergen KLINSMANN 12', 37', Karlheinz RIEDLE 20';
+                   HWANG Sun Hong 52', HONG Myungbo 63')
+  16:00 UTC-5   Bolivia  1-3  Spain   @ Soldier Field, Chicago
+                  (Erwin SANCHEZ 67';
+                   Pep GUARDIOLA 19'(p), Jose Luis CAMINERO 66', 70')
+
+▪▪ Group D
+Tue Jun 21
+  12:30 UTC-4   Argentina  4-0  Greece   @ Foxboro Stadium, Boston (Foxborough)
+                  (Gabriel BATISTUTA 2', 44', 90'(p), Diego MARADONA 60')
+  19:30 UTC-5   Nigeria  3-0  Bulgaria   @ Cotton Bowl, Dallas
+                  (Rasheed YEKINI 21', Daniel AMOKACHI 43', Emmanuel AMUNEKE 55')
+Sat Jun 25
+  16:00 UTC-4   Argentina  2-1  Nigeria   @ Foxboro Stadium, Boston (Foxborough)
+                  (Claudio CANIGGIA 21', 28';
+                   Samson SIASIA 8')
+Sun Jun 26
+  12:30 UTC-5   Bulgaria  4-0  Greece   @ Soldier Field, Chicago
+                  (Hristo STOICHKOV 5'(p), 55'(p), Iordan LETCHKOV 65', Daniel BORIMIROV 90')
+Thu Jun 30
+  19:30 UTC-4   Greece  0-2  Nigeria   @ Foxboro Stadium, Boston (Foxborough)
+                  (Finidi GEORGE 45', Daniel AMOKACHI 90')
+  19:30 UTC-5   Argentina  0-2  Bulgaria   @ Cotton Bowl, Dallas
+                  (Hristo STOICHKOV 61', Nasko SIRAKOV 90')
+
+▪▪ Group E
+Sat Jun 18
+  16:00 UTC-4   Italy  0-1  Ireland   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Ray HOUGHTON 11')
+Sun Jun 19
+  16:00 UTC-4   Norway  1-0  Mexico   @ RFK Stadium, Washington
+                  (Kjetil REKDAL 84')
+Thu Jun 23
+  16:00 UTC-4   Italy  1-0  Norway   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Dino BAGGIO 69')
+Fri Jun 24
+  12:30 UTC-4   Mexico  2-1  Ireland   @ Citrus Bowl, Orlando
+                  (Luis GARCIA 42', 65';
+                   John ALDRIDGE 84')
+Tue Jun 28
+  12:30 UTC-4   Italy  1-1  Mexico   @ RFK Stadium, Washington
+                  (Daniele MASSARO 48'; Marcelino BERNAL 57')
+  12:30 UTC-4   Ireland  0-0  Norway   @ Giants Stadium, New York/New Jersey (East Rutherford)
+
+▪▪ Group F
+Sun Jun 19
+  12:30 UTC-4   Belgium  1-0  Morocco   @ Citrus Bowl, Orlando
+                  (Marc DEGRYSE 11')
+Mon Jun 20
+  19:30 UTC-4   Netherlands  2-1  Saudi Arabia   @ RFK Stadium, Washington
+                  (Wim JONK 50', Gaston TAUMENT 86';
+                   Fuad AMIN 18')
+Sat Jun 25
+  12:30 UTC-4   Saudi Arabia  2-1  Morocco   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Sami AL JABER 7'(p), Fuad AMIN 45';
+                   Mohammed CHAOUCH 26')
+  12:30 UTC-4   Belgium  1-0  Netherlands   @ Citrus Bowl, Orlando
+                  (Philippe ALBERT 65')
+Wed Jun 29
+  12:30 UTC-4   Belgium  0-1  Saudi Arabia   @ RFK Stadium, Washington
+                  (Said AL OWAIRAN 5')
+  12:30 UTC-4   Morocco  1-2  Netherlands   @ Citrus Bowl, Orlando
+                  (Hassan NADER 47';
+                   Dennis BERGKAMP 43', Bryan ROY 77')
+
+▪ Round of 16
+Sat Jul 2
+  12:00 UTC-5   Germany  3-2  Belgium   @ Soldier Field, Chicago
+                  (Rudi VOELLER 6', 40', Juergen KLINSMANN 11';
+                   Georges GRUN 8', Philippe ALBERT 90')
+  16:30 UTC-4   Spain  3-0  Switzerland   @ RFK Stadium, Washington
+                  (Fernando HIERRO 15', LUIS ENRIQUE 74', Txiki BEGUIRISTAIN 86'(p))
+Sun Jul 3
+  12:00 UTC-5   Saudi Arabia  1-3  Sweden   @ Cotton Bowl, Dallas
+                  (Fahad AL GHESHEYAN 85';
+                   Martin DAHLIN 6', Kennet ANDERSSON 51', 88')
+  13:30 UTC-7   Romania  3-2  Argentina   @ Rose Bowl, Los Angeles (Pasadena)
+                  (Ilie DUMITRESCU 11', 18', Gheorghe HAGI 58';
+                   Gabriel BATISTUTA 16'(p), Abel BALBO 75')
+Mon Jul 4
+  12:00 UTC-4   Netherlands  2-0  Ireland   @ Citrus Bowl, Orlando
+                  (Dennis BERGKAMP 11', Wim JONK 41')
+  12:30 UTC-7   Brazil  1-0  USA   @ Stanford Stadium, San Francisco (Stanford)
+                  (BEBETO 72')
+Tue Jul 5
+  13:00 UTC-4   Nigeria  1-2 a.e.t.  Italy   @ Foxboro Stadium, Boston (Foxborough)
+                  (Emmanuel AMUNEKE 25';
+                   Roberto BAGGIO 88', 102'(p))
+  16:30 UTC-4   Mexico  1-1 a.e.t., 1-3 pen.  Bulgaria   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Alberto GARCIA ASPE 18'(p); Hristo STOICHKOV 6')
+
+▪ Quarter-final
+Sat Jul 9
+  12:00 UTC-4   Italy  2-1  Spain   @ Foxboro Stadium, Boston (Foxborough)
+                  (Dino BAGGIO 25', Roberto BAGGIO 88';
+                   Jose Luis CAMINERO 58')
+  14:30 UTC-5   Netherlands  2-3  Brazil   @ Cotton Bowl, Dallas
+                  (Dennis BERGKAMP 64', Aron WINTER 76';
+                   ROMÁRIO (Romário de Souza Faria) 53', BEBETO 63', BRANCO 81')
+Sun Jul 10
+  12:00 UTC-4   Bulgaria  2-1  Germany   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Hristo STOICHKOV 75', Iordan LETCHKOV 78';
+                   Lothar MATTHAEUS 47'(p))
+  12:30 UTC-7   Romania  2-2 a.e.t., 4-5 pen.  Sweden   @ Stanford Stadium, San Francisco (Stanford)
+                  (Florin RADUCIOIU 88', 101';
+                   Tomas BROLIN 78', Kennet ANDERSSON 115')
+
+▪ Semi-final
+Wed Jul 13
+  16:00 UTC-4   Bulgaria  1-2  Italy   @ Giants Stadium, New York/New Jersey (East Rutherford)
+                  (Hristo STOICHKOV 44'(p);
+                   Roberto BAGGIO 21', 25')
+  16:30 UTC-7   Sweden  0-1  Brazil   @ Rose Bowl, Los Angeles (Pasadena)
+                  (ROMÁRIO (Romário de Souza Faria) 80')
+
+▪ Match for third place
+Sat Jul 16
+  12:30 UTC-7   Sweden  4-0  Bulgaria   @ Rose Bowl, Los Angeles (Pasadena)
+                  (Tomas BROLIN 8', Hakan MILD 30', Henrik LARSSON 37', Kennet ANDERSSON 40')
+
+▪ Final
+Sun Jul 17
+  12:30 UTC-7   Brazil  0-0 a.e.t., 3-2 pen.  Italy   @ Rose Bowl, Los Angeles (Pasadena)

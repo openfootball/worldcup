@@ -1,0 +1,84 @@
+= World Cup 1930
+
+# Dates    Sun Jul 13 - Wed Jul 30 1930 (17d)
+# Teams    13
+# Matches  18
+# Venues   3 (in 1 city)
+#   Parque Central, Montevideo (URU)
+#   Estadio Centenario, Montevideo (URU)
+#   Pocitos, Montevideo (URU)
+
+
+▪ Group Matches
+▪▪ Group 1
+Sun Jul 13
+  15:00 UTC-3   France  4-1  Mexico   @ Pocitos, Montevideo
+                  (Lucien LAURENT 19', Marcel LANGILLER 40', Andre MASCHINOT 43', 87';
+                   Juan CARRENO 70')
+Tue Jul 15
+  16:00 UTC-3   Argentina  1-0  France   @ Parque Central, Montevideo
+                  (Luis MONTI 81')
+Wed Jul 16
+  14:45 UTC-3   Chile  3-0  Mexico   @ Parque Central, Montevideo
+                  (Carlos VIDAL 3', 65', Manuel ROSAS 51'(og))
+Sat Jul 19
+  12:50 UTC-3   Chile  1-0  France   @ Estadio Centenario, Montevideo
+                  (Guillermo SUBIABRE 65')
+  15:00 UTC-3   Argentina  6-3  Mexico   @ Estadio Centenario, Montevideo
+                  (Guillermo STABILE 8', 17', 80', Adolfo ZUMELZU 12', 55', Francisco VARALLO 53';
+                   Manuel ROSAS 42'(p), 65', Roberto GAYON 75')
+Tue Jul 22
+  14:45 UTC-3   Argentina  3-1  Chile   @ Estadio Centenario, Montevideo
+                  (Guillermo STABILE 12', 13', Mario EVARISTO 51';
+                   Guillermo SUBIABRE 15')
+
+▪▪ Group 2
+Mon Jul 14
+  12:45 UTC-3   Yugoslavia  2-1  Brazil   @ Parque Central, Montevideo
+                  (Aleksandar TIRNANIC 21', Ivica BEK 30';
+                   PREGUINHO 62')
+Thu Jul 17
+  12:45 UTC-3   Yugoslavia  4-0  Bolivia   @ Parque Central, Montevideo
+                  (Ivica BEK 60', 67', Blagoje MARJANOVIC 65', Djordje VUJADINOVIC 85')
+Sun Jul 20
+  13:00 UTC-3   Brazil  4-0  Bolivia   @ Estadio Centenario, Montevideo
+                  (MODERATO 37', 73', PREGUINHO 67', 83')
+
+▪▪ Group 3
+Mon Jul 14
+  14:50 UTC-3   Romania  3-1  Peru   @ Pocitos, Montevideo
+                  (Adalbert DESU 1', Constantin STANCIU 79', Nicolae KOVACS 89';
+                   Luis SOUZA 75')
+Fri Jul 18
+  14:30 UTC-3   Uruguay  1-0  Peru   @ Estadio Centenario, Montevideo
+                  (Hector CASTRO 60')
+Mon Jul 21
+  14:50 UTC-3   Uruguay  4-0  Romania   @ Estadio Centenario, Montevideo
+                  (Pablo DORADO 7', Hector SCARONE 24', Juan ANSELMO 30', Pedro CEA 35')
+
+▪▪ Group 4
+Sun Jul 13
+  15:00 UTC-3   USA  3-0  Belgium   @ Parque Central, Montevideo
+                  (Bart McGHEE 23', Tom FLORIE 45', Bert PATENAUDE 69')
+Thu Jul 17
+  14:45 UTC-3   USA  3-0  Paraguay   @ Parque Central, Montevideo
+                  (Bert PATENAUDE 10', 15', 50')
+Sun Jul 20
+  15:00 UTC-3   Paraguay  1-0  Belgium   @ Estadio Centenario, Montevideo
+                  (Luis VARGAS PENA 40')
+
+▪ Semi-final
+Sat Jul 26
+  14:45 UTC-3   Argentina  6-1  USA   @ Estadio Centenario, Montevideo
+                  (Luis MONTI 20', Alejandro SCOPELLI 56', Guillermo STABILE 69', 87', Carlos PEUCELLE 80', 85';
+                   Jim BROWN 89')
+Sun Jul 27
+  14:45 UTC-3   Uruguay  6-1  Yugoslavia   @ Estadio Centenario, Montevideo
+                  (Pedro CEA 18', 67', 72', Juan ANSELMO 20', 31', Victoriano IRIARTE 61';
+                   Djordje VUJADINOVIC 4')
+
+▪ Final
+Wed Jul 30
+  14:15 UTC-3   Uruguay  4-2  Argentina   @ Estadio Centenario, Montevideo
+                  (Pablo DORADO 12', Pedro CEA 57', Victoriano IRIARTE 68', Hector CASTRO 89';
+                   Carlos PEUCELLE 20', Guillermo STABILE 37')

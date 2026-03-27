@@ -1,0 +1,242 @@
+= World Cup 2002
+
+# Dates    Fri May 31 - Sun Jun 30 2002 (30d)
+# Teams    32
+# Matches  64
+# Venues   20 (in 20 cities)
+#   Ibaraki Kashima Stadium, Kashima (JPN)
+#   Kobe Wing Stadium, Kobe (JPN)
+#   Niigata Stadium, Niigata (JPN)
+#   Oita Stadium Big Eye, Oita (JPN)
+#   Yanmar Stadium Nagai, Osaka (JPN)
+#   Miyagi Stadium, Rifu (JPN)
+#   Saitama Stadium, Saitama (JPN)
+#   Sapporo Dome, Sapporo (JPN)
+#   Shizuoka Stadium Ecopa, Shizuoka (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+#   Busan Asiad Main Stadium, Busan (KOR)
+#   Daegu World Cup Stadium, Daegu (KOR)
+#   Daejeon World Cup Stadium, Daejeon (KOR)
+#   Gwangju World Cup Stadium, Gwangju (KOR)
+#   Incheon Munhak Stadium, Incheon (KOR)
+#   Jeonju World Cup Stadium, Jeonju-si (KOR)
+#   Jeju World Cup Stadium, Seogwipo-si (KOR)
+#   Seoul World Cup Stadium, Seoul (KOR)
+#   Suwon World Cup Stadium, Suwon-si (KOR)
+#   Munsu Football Stadium, Ulsan (KOR)
+
+
+▪ Group Stage
+▪▪ Group A
+Fri May 31
+  20:30 UTC+9   France  0-1  Senegal   @ Seoul World Cup Stadium, Seoul
+                  (Bouba DIOP 30')
+Sat Jun 1
+  18:00 UTC+9   Uruguay  1-2  Denmark   @ Munsu Football Stadium, Ulsan
+                  (Dario RODRIGUEZ 47';
+                   Jon Dahl TOMASSON 45', 83')
+Thu Jun 6
+  15:30 UTC+9   Denmark  1-1  Senegal   @ Daegu World Cup Stadium, Daegu
+                  (Jon Dahl TOMASSON 16'(p); Salif DIAO 52')
+  20:30 UTC+9   France  0-0  Uruguay   @ Busan Asiad Main Stadium, Busan
+Tue Jun 11
+  15:30 UTC+9   Denmark  2-0  France   @ Incheon Munhak Stadium, Incheon
+                  (Dennis ROMMEDAHL 22', Jon Dahl TOMASSON 67')
+  15:30 UTC+9   Senegal  3-3  Uruguay   @ Suwon World Cup Stadium, Suwon-si
+                  (Khalilou FADIGA 20'(p), Bouba DIOP 26', 38';
+                   Richard MORALES 45', Diego FORLAN 69', Alvaro RECOBA 88'(p))
+
+▪▪ Group B
+Sun Jun 2
+  16:30 UTC+9   Paraguay  2-2  South Africa   @ Busan Asiad Main Stadium, Busan
+                  (Roque SANTA CRUZ 39', Francisco ARCE 55';
+                   Teboho MOKOENA 63', Quinton FORTUNE 90+1'(p))
+  20:30 UTC+9   Spain  3-1  Slovenia   @ Gwangju World Cup Stadium, Gwangju
+                  (RAUL 44', Juan Carlos VALERON 74', Fernando HIERRO 87'(p);
+                   Sebastijan CIMIROTIC 82')
+Fri Jun 7
+  18:00 UTC+9   Spain  3-1  Paraguay   @ Jeonju World Cup Stadium, Jeonju-si
+                  (Fernando MORIENTES 53', 69', Fernando HIERRO 83'(p);
+                   Carles PUYOL 10'(og))
+Sat Jun 8
+  15:30 UTC+9   South Africa  1-0  Slovenia   @ Daegu World Cup Stadium, Daegu
+                  (Siyabonga NOMVETHE 4')
+Wed Jun 12
+  20:30 UTC+9   Slovenia  1-3  Paraguay   @ Jeju World Cup Stadium, Seogwipo-si
+                  (Milenko ACIMOVIC 45+1';
+                   Nelson CUEVAS 65', 84', Jorge CAMPOS 73')
+  20:30 UTC+9   South Africa  2-3  Spain   @ Daejeon World Cup Stadium, Daejeon
+                  (Benni McCARTHY 31', Lucas RADEBE 53';
+                   RAUL 4', 56', Gaizka MENDIETA 45+1')
+
+▪▪ Group C
+Mon Jun 3
+  18:00 UTC+9   Brazil  2-1  Turkey   @ Munsu Football Stadium, Ulsan
+                  (RONALDO 50', RIVALDO 87'(p);
+                   Hasan SAS 45+2')
+Tue Jun 4
+  15:30 UTC+9   China  0-2  Costa Rica   @ Gwangju World Cup Stadium, Gwangju
+                  (Ronald GOMEZ 61', Mauricio WRIGHT 65')
+Sat Jun 8
+  20:30 UTC+9   Brazil  4-0  China   @ Jeju World Cup Stadium, Seogwipo-si
+                  (ROBERTO CARLOS 15', RIVALDO 32', RONALDINHO 45'(p), RONALDO 55')
+Sun Jun 9
+  18:00 UTC+9   Costa Rica  1-1  Turkey   @ Incheon Munhak Stadium, Incheon
+                  (Winston PARKS 86'; Emre BELOZOGLU 56')
+Thu Jun 13
+  15:30 UTC+9   Costa Rica  2-5  Brazil   @ Suwon World Cup Stadium, Suwon-si
+                  (Paulo WANCHOPE 39', Ronald GOMEZ 56';
+                   RONALDO 10', 13', EDMILSON 38', RIVALDO 62', JUNIOR 64')
+  15:30 UTC+9   Turkey  3-0  China   @ Seoul World Cup Stadium, Seoul
+                  (Hasan SAS 6', Bulent KORKMAZ 9', Umit DAVALA 85')
+
+▪▪ Group D
+Tue Jun 4
+  20:30 UTC+9   South Korea  2-0  Poland   @ Busan Asiad Main Stadium, Busan
+                  (HWANG Sun Hong 26', YOO Sang Chul 53')
+Wed Jun 5
+  18:00 UTC+9   USA  3-2  Portugal   @ Suwon World Cup Stadium, Suwon-si
+                  (John O BRIEN 4', JORGE COSTA 29'(og), Brian McBRIDE 36';
+                   BETO 39', Jeff AGOOS 71'(og))
+Mon Jun 10
+  15:30 UTC+9   South Korea  1-1  USA   @ Daegu World Cup Stadium, Daegu
+                  (AHN Jung Hwan 78'; Clint MATHIS 24')
+  20:30 UTC+9   Portugal  4-0  Poland   @ Jeonju World Cup Stadium, Jeonju-si
+                  (PAULETA 14', 65', 77', RUI COSTA 88')
+Fri Jun 14
+  20:30 UTC+9   Poland  3-1  USA   @ Daejeon World Cup Stadium, Daejeon
+                  (Emmanuel OLISADEBE 3', Pawel KRYSZALOWICZ 5', Marcin ZEWLAKOW 65';
+                   Landon DONOVAN 83')
+  20:30 UTC+9   Portugal  0-1  South Korea   @ Incheon Munhak Stadium, Incheon
+                  (PARK Jisung 70')
+
+▪▪ Group E
+Sat Jun 1
+  15:30 UTC+9   Ireland  1-1  Cameroon   @ Niigata Stadium, Niigata
+                  (Matt HOLLAND 52'; Patrick MBOMA 39')
+  20:30 UTC+9   Germany  8-0  Saudi Arabia   @ Sapporo Dome, Sapporo
+                  (Miroslav KLOSE 20', 25', 70', Michael BALLACK 40', Carsten JANCKER 45+1', Thomas LINKE 73', Oliver BIERHOFF 84', Bernd SCHNEIDER 90+1')
+Wed Jun 5
+  20:30 UTC+9   Germany  1-1  Ireland   @ Ibaraki Kashima Stadium, Kashima
+                  (Miroslav KLOSE 19'; Robbie KEANE 90+2')
+Thu Jun 6
+  18:00 UTC+9   Cameroon  1-0  Saudi Arabia   @ Saitama Stadium, Saitama
+                  (Samuel ETOO 66')
+Tue Jun 11
+  20:30 UTC+9   Saudi Arabia  0-3  Ireland   @ International Stadium Yokohama, Yokohama
+                  (Robbie KEANE 7', Gary BREEN 61', Damien DUFF 87')
+  20:30 UTC+9   Cameroon  0-2  Germany   @ Shizuoka Stadium Ecopa, Shizuoka
+                  (Marco BODE 50', Miroslav KLOSE 79')
+
+▪▪ Group F
+Sun Jun 2
+  14:30 UTC+9   Argentina  1-0  Nigeria   @ Ibaraki Kashima Stadium, Kashima
+                  (Gabriel BATISTUTA 63')
+  18:30 UTC+9   England  1-1  Sweden   @ Saitama Stadium, Saitama
+                  (Sol CAMPBELL 24'; Niclas ALEXANDERSSON 59')
+Fri Jun 7
+  15:30 UTC+9   Sweden  2-1  Nigeria   @ Kobe Wing Stadium, Kobe
+                  (Henrik LARSSON 35', 63'(p);
+                   Julius AGHAHOWA 27')
+  20:30 UTC+9   Argentina  0-1  England   @ Sapporo Dome, Sapporo
+                  (David BECKHAM 44'(p))
+Wed Jun 12
+  15:30 UTC+9   Sweden  1-1  Argentina   @ Miyagi Stadium, Rifu
+                  (Anders SVENSSON 59'; Hernan CRESPO 88')
+  15:30 UTC+9   Nigeria  0-0  England   @ Yanmar Stadium Nagai, Osaka
+
+▪▪ Group G
+Mon Jun 3
+  15:30 UTC+9   Croatia  0-1  Mexico   @ Niigata Stadium, Niigata
+                  (Cuauhtemoc BLANCO 60'(p))
+  20:30 UTC+9   Italy  2-0  Ecuador   @ Sapporo Dome, Sapporo
+                  (Christian VIERI 7', 27')
+Sat Jun 8
+  18:00 UTC+9   Italy  1-2  Croatia   @ Ibaraki Kashima Stadium, Kashima
+                  (Christian VIERI 55';
+                   Ivica OLIC 73', Milan RAPAIC 76')
+Sun Jun 9
+  15:30 UTC+9   Mexico  2-1  Ecuador   @ Miyagi Stadium, Rifu
+                  (Jared BORGETTI 28', Gerardo TORRADO 57';
+                   Agustin DELGADO 5')
+Thu Jun 13
+  20:30 UTC+9   Mexico  1-1  Italy   @ Oita Stadium Big Eye, Oita
+                  (Jared BORGETTI 34'; Alessandro DEL PIERO 85')
+  20:30 UTC+9   Ecuador  1-0  Croatia   @ International Stadium Yokohama, Yokohama
+                  (Edison MENDEZ 48')
+
+▪▪ Group H
+Tue Jun 4
+  18:00 UTC+9   Japan  2-2  Belgium   @ Saitama Stadium, Saitama
+                  (Takayuki SUZUKI 59', Junichi INAMOTO 67';
+                   Marc WILMOTS 57', Peter VAN DER HEYDEN 75')
+Wed Jun 5
+  15:30 UTC+9   Russia  2-0  Tunisia   @ Kobe Wing Stadium, Kobe
+                  (Egor TITOV 59', Valeri KARPIN 64'(p))
+Sun Jun 9
+  20:30 UTC+9   Japan  1-0  Russia   @ International Stadium Yokohama, Yokohama
+                  (Junichi INAMOTO 51')
+Mon Jun 10
+  18:00 UTC+9   Tunisia  1-1  Belgium   @ Oita Stadium Big Eye, Oita
+                  (Raouf BOUZAIENE 17'; Marc WILMOTS 13')
+Fri Jun 14
+  15:30 UTC+9   Belgium  3-2  Russia   @ Shizuoka Stadium Ecopa, Shizuoka
+                  (Johan WALEM 7', Wesley SONCK 78', Marc WILMOTS 82';
+                   Vladimir BESCHASTNYKH 52', Dmitri SYCHEV 88')
+  15:30 UTC+9   Tunisia  0-2  Japan   @ Yanmar Stadium Nagai, Osaka
+                  (Hiroaki MORISHIMA 48', Hidetoshi NAKATA 75')
+
+▪ Round of 16
+Sat Jun 15
+  15:30 UTC+9   Germany  1-0  Paraguay   @ Jeju World Cup Stadium, Seogwipo-si
+                  (Oliver NEUVILLE 88')
+  20:30 UTC+9   Denmark  0-3  England   @ Niigata Stadium, Niigata
+                  (Rio FERDINAND 5', Michael OWEN 22', Emile HESKEY 44')
+Sun Jun 16
+  15:30 UTC+9   Sweden  1-2 a.e.t.  Senegal   @ Oita Stadium Big Eye, Oita
+                  (Henrik LARSSON 11';
+                   Henri CAMARA 37', 104')
+  20:30 UTC+9   Spain  1-1 a.e.t., 3-2 pen.  Ireland   @ Suwon World Cup Stadium, Suwon-si
+                  (Fernando MORIENTES 8'; Robbie KEANE 90'(p))
+Mon Jun 17
+  15:30 UTC+9   Mexico  0-2  USA   @ Jeonju World Cup Stadium, Jeonju-si
+                  (Brian McBRIDE 8', Landon DONOVAN 65')
+  20:30 UTC+9   Brazil  2-0  Belgium   @ Kobe Wing Stadium, Kobe
+                  (RIVALDO 67', RONALDO 87')
+Tue Jun 18
+  15:30 UTC+9   Japan  0-1  Turkey   @ Miyagi Stadium, Rifu
+                  (Umit DAVALA 12')
+  20:30 UTC+9   South Korea  2-1 a.e.t.  Italy   @ Daejeon World Cup Stadium, Daejeon
+                  (SEOL Ki Hyeon 88', AHN Jung Hwan 117';
+                   Christian VIERI 18')
+
+▪ Quarter-final
+Fri Jun 21
+  15:30 UTC+9   England  1-2  Brazil   @ Shizuoka Stadium Ecopa, Shizuoka
+                  (Michael OWEN 23';
+                   RIVALDO 45+2', RONALDINHO 50')
+  20:30 UTC+9   Germany  1-0  USA   @ Munsu Football Stadium, Ulsan
+                  (Michael BALLACK 39')
+Sat Jun 22
+  15:30 UTC+9   Spain  0-0 a.e.t., 3-5 pen.  South Korea   @ Gwangju World Cup Stadium, Gwangju
+  20:30 UTC+9   Senegal  0-1 a.e.t.  Turkey   @ Yanmar Stadium Nagai, Osaka
+                  (Ilhan MANSIZ 94')
+
+▪ Semi-final
+Tue Jun 25
+  20:30 UTC+9   Germany  1-0  South Korea   @ Seoul World Cup Stadium, Seoul
+                  (Michael BALLACK 75')
+Wed Jun 26
+  20:30 UTC+9   Brazil  1-0  Turkey   @ Saitama Stadium, Saitama
+                  (RONALDO 49')
+
+▪ Match for third place
+Sat Jun 29
+  20:00 UTC+9   South Korea  2-3  Turkey   @ Daegu World Cup Stadium, Daegu
+                  (LEE Eul Yong 9', SONG Chong Gug 90+3';
+                   Hakan SUKUR 1', Ilhan MANSIZ 13', 32')
+
+▪ Final
+Sun Jun 30
+  20:00 UTC+9   Germany  0-2  Brazil   @ International Stadium Yokohama, Yokohama
+                  (RONALDO 67', 79')

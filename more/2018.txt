@@ -1,0 +1,237 @@
+= World Cup 2018
+
+# Dates    Thu Jun 14 - Sun Jul 15 2018 (31d)
+# Teams    32
+# Matches  64
+# Venues   12 (in 11 cities)
+#   Kaliningrad Stadium, Kaliningrad (RUS)
+#   Ak Bars Arena, Kazan (RUS)
+#   Otkrytiye Arena, Moscow (RUS)
+#   Lenin, Moscow (RUS)
+#   Nizhny Novgorod Stadium, Nizhny Novgorod (RUS)
+#   Rostov Arena, Rostov-on-Don (RUS)
+#   Krestovsky Stadium, Saint Petersburg (RUS)
+#   Samara Arena, Samara (RUS)
+#   Mordovia Arena, Saransk (RUS)
+#   Fisht Olympic Stadium, Sochi (RUS)
+#   Central Stadium, Volgograd (RUS)
+#   Ekaterinburg Arena, Yekaterinburg (RUS)
+
+
+▪ First stage
+▪▪ Group A
+Thu Jun 14
+  18:00 UTC+3   Russia  5-0  Saudi Arabia   @ Lenin, Moscow
+                  (Iury GAZINSKY 12', Denis CHERYSHEV 43', 90+1', Artem DZYUBA 71', Aleksandr GOLOVIN 90+4')
+Fri Jun 15
+  17:00 UTC+5   Egypt  0-1  Uruguay   @ Ekaterinburg Arena, Yekaterinburg
+                  (Jose GIMENEZ 90')
+Tue Jun 19
+  21:00 UTC+3   Russia  3-1  Egypt   @ Krestovsky Stadium, Saint Petersburg
+                  (AHMED FATHI 47'(og), Denis CHERYSHEV 59', Artem DZYUBA 62';
+                   MOHAMED SALAH 73')
+Wed Jun 20
+  18:00 UTC+3   Uruguay  1-0  Saudi Arabia   @ Rostov Arena, Rostov-on-Don
+                  (Luis SUAREZ 23')
+Mon Jun 25
+  17:00 UTC+3   Saudi Arabia  2-1  Egypt   @ Central Stadium, Volgograd
+                  (SALMAN ALFARAJ 45+6', SALEM ALDAWSARI 90+5';
+                   MOHAMED SALAH 22')
+  18:00 UTC+4   Uruguay  3-0  Russia   @ Samara Arena, Samara
+                  (Luis SUAREZ 10', Denis CHERYSHEV 23'(og), Edinson CAVANI 90')
+
+▪▪ Group B
+Fri Jun 15
+  18:00 UTC+3   Morocco  0-1  Iran   @ Krestovsky Stadium, Saint Petersburg
+                  (Aziz BOUHADDOUZ 90+5'(og))
+  21:00 UTC+3   Portugal  3-3  Spain   @ Fisht Olympic Stadium, Sochi
+                  (CRISTIANO RONALDO 4', 44', 88';
+                   Diego COSTA 24', 55', NACHO 58')
+Wed Jun 20
+  15:00 UTC+3   Portugal  1-0  Morocco   @ Lenin, Moscow
+                  (CRISTIANO RONALDO 4')
+  21:00 UTC+3   Iran  0-1  Spain   @ Ak Bars Arena, Kazan
+                  (Diego COSTA 54')
+Mon Jun 25
+  21:00 UTC+3   Iran  1-1  Portugal   @ Mordovia Arena, Saransk
+                  (Karim ANSARIFARD 90+3'; RICARDO QUARESMA 45')
+  20:00 UTC+2   Spain  2-2  Morocco   @ Kaliningrad Stadium, Kaliningrad
+                  (ISCO 19', Iago ASPAS 90+1';
+                   Khalid BOUTAIB 14', Youssef EN NESYRI 81')
+
+▪▪ Group C
+Sat Jun 16
+  13:00 UTC+3   France  2-1  Australia   @ Ak Bars Arena, Kazan
+                  (Antoine GRIEZMANN 58', Paul POGBA 82';
+                   Mile JEDINAK 62')
+  19:00 UTC+3   Peru  0-1  Denmark   @ Mordovia Arena, Saransk
+                  (Yussuf Yurary POULSEN 59')
+Thu Jun 21
+  16:00 UTC+4   Denmark  1-1  Australia   @ Samara Arena, Samara
+                  (Christian ERIKSEN 7'; Mile JEDINAK 38')
+  20:00 UTC+5   France  1-0  Peru   @ Ekaterinburg Arena, Yekaterinburg
+                  (Kylian MBAPPE 34')
+Tue Jun 26
+  17:00 UTC+3   Denmark  0-0  France   @ Lenin, Moscow
+  17:00 UTC+3   Australia  0-2  Peru   @ Fisht Olympic Stadium, Sochi
+                  (Andre CARRILLO 18', Paolo GUERRERO 50')
+
+▪▪ Group D
+Sat Jun 16
+  16:00 UTC+3   Argentina  1-1  Iceland   @ Otkrytiye Arena, Moscow
+                  (Sergio AGUERO 19'; Alfred FINNBOGASON 23')
+  21:00 UTC+2   Croatia  2-0  Nigeria   @ Kaliningrad Stadium, Kaliningrad
+                  (Oghenekaro ETEBO 33'(og), Luka MODRIC 71')
+Thu Jun 21
+  21:00 UTC+3   Argentina  0-3  Croatia   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (Ante REBIC 53', Luka MODRIC 80', Ivan RAKITIC 90+1')
+Fri Jun 22
+  18:00 UTC+3   Nigeria  2-0  Iceland   @ Central Stadium, Volgograd
+                  (Ahmed MUSA 49', 75')
+Tue Jun 26
+  21:00 UTC+3   Nigeria  1-2  Argentina   @ Krestovsky Stadium, Saint Petersburg
+                  (Victor MOSES 51';
+                   Lionel MESSI 14', Marcos ROJO 86')
+  21:00 UTC+3   Iceland  1-2  Croatia   @ Rostov Arena, Rostov-on-Don
+                  (Gylfi SIGURDSSON 76';
+                   Milan BADELJ 53', Ivan PERISIC 90')
+
+▪▪ Group E
+Sun Jun 17
+  16:00 UTC+4   Costa Rica  0-1  Serbia   @ Samara Arena, Samara
+                  (Aleksandar KOLAROV 56')
+  21:00 UTC+3   Brazil  1-1  Switzerland   @ Rostov Arena, Rostov-on-Don
+                  (PHILIPPE COUTINHO 20'; Steven ZUBER 50')
+Fri Jun 22
+  15:00 UTC+3   Brazil  2-0  Costa Rica   @ Krestovsky Stadium, Saint Petersburg
+                  (PHILIPPE COUTINHO 90+1', NEYMAR 90+7')
+  20:00 UTC+2   Serbia  1-2  Switzerland   @ Kaliningrad Stadium, Kaliningrad
+                  (Aleksandar MITROVIC 5';
+                   Granit XHAKA 52', Xherdan SHAQIRI 90')
+Wed Jun 27
+  21:00 UTC+3   Switzerland  2-2  Costa Rica   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (Blerim DZEMAILI 31', Josip DRMIC 88';
+                   Kendall WASTON 56', Bryan RUIZ 90+3')
+  21:00 UTC+3   Serbia  0-2  Brazil   @ Otkrytiye Arena, Moscow
+                  (PAULINHO 36', THIAGO SILVA 68')
+
+▪▪ Group F
+Sun Jun 17
+  18:00 UTC+3   Germany  0-1  Mexico   @ Lenin, Moscow
+                  (Hirving LOZANO 35')
+Mon Jun 18
+  15:00 UTC+3   Sweden  1-0  South Korea   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (Andreas GRANQVIST 65')
+Sat Jun 23
+  18:00 UTC+3   South Korea  1-2  Mexico   @ Rostov Arena, Rostov-on-Don
+                  (SON Heungmin 90+3';
+                   Carlos VELA 26', Javier HERNANDEZ 66')
+  21:00 UTC+3   Germany  2-1  Sweden   @ Fisht Olympic Stadium, Sochi
+                  (Marco REUS 48', Toni KROOS 90+5';
+                   Ola TOIVONEN 32')
+Wed Jun 27
+  19:00 UTC+5   Mexico  0-3  Sweden   @ Ekaterinburg Arena, Yekaterinburg
+                  (Ludwig AUGUSTINSSON 50', Andreas GRANQVIST 62', Edson ALVAREZ 74'(og))
+  17:00 UTC+3   South Korea  2-0  Germany   @ Ak Bars Arena, Kazan
+                  (KIM Younggwon 90+4', SON Heungmin 90+6')
+
+▪▪ Group G
+Mon Jun 18
+  18:00 UTC+3   Belgium  3-0  Panama   @ Fisht Olympic Stadium, Sochi
+                  (Dries MERTENS 47', Romelu LUKAKU 69', 75')
+  21:00 UTC+3   Tunisia  1-2  England   @ Central Stadium, Volgograd
+                  (Ferjani SASSI 35';
+                   Harry KANE 11', 90+1')
+Sat Jun 23
+  15:00 UTC+3   Belgium  5-2  Tunisia   @ Otkrytiye Arena, Moscow
+                  (Eden HAZARD 6', 51', Romelu LUKAKU 16', 45+3', Michy BATSHUAYI 90';
+                   Dylan BRONN 18', Wahbi KHAZRI 90+3')
+Sun Jun 24
+  15:00 UTC+3   England  6-1  Panama   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (John STONES 8', 40', Harry KANE 22', 45+1', 62', Jesse LINGARD 36';
+                   Felipe BALOY 78')
+Thu Jun 28
+  20:00 UTC+2   England  0-1  Belgium   @ Kaliningrad Stadium, Kaliningrad
+                  (Adnan JANUZAJ 51')
+  21:00 UTC+3   Panama  1-2  Tunisia   @ Mordovia Arena, Saransk
+                  (Yassine MERIAH 33'(og);
+                   Fakhreddine BEN YOUSSEF 51', Wahbi KHAZRI 66')
+
+▪▪ Group H
+Tue Jun 19
+  15:00 UTC+3   Colombia  1-2  Japan   @ Mordovia Arena, Saransk
+                  (Juan QUINTERO 39';
+                   Shinji KAGAWA 6', Yuya OSAKO 73')
+  18:00 UTC+3   Poland  1-2  Senegal   @ Otkrytiye Arena, Moscow
+                  (Grzegorz KRYCHOWIAK 86';
+                   Thiago CIONEK 37'(og), Mbaye NIANG 61')
+Sun Jun 24
+  20:00 UTC+5   Japan  2-2  Senegal   @ Ekaterinburg Arena, Yekaterinburg
+                  (Takashi INUI 34', Keisuke HONDA 78';
+                   Sadio MANE 12', Moussa WAGUE 71')
+  21:00 UTC+3   Poland  0-3  Colombia   @ Ak Bars Arena, Kazan
+                  (Yerry MINA 40', Radamel FALCAO 70', Juan CUADRADO 75')
+Thu Jun 28
+  17:00 UTC+3   Japan  0-1  Poland   @ Central Stadium, Volgograd
+                  (Jan BEDNAREK 59')
+  18:00 UTC+4   Senegal  0-1  Colombia   @ Samara Arena, Samara
+                  (Yerry MINA 74')
+
+▪ Round of 16
+Sat Jun 30
+  17:00 UTC+3   France  4-3  Argentina   @ Ak Bars Arena, Kazan
+                  (Antoine GRIEZMANN 13', Benjamin PAVARD 57', Kylian MBAPPE 64', 68';
+                   Angel DI MARIA 41', Gabriel MERCADO 48', Sergio AGUERO 90+3')
+  21:00 UTC+3   Uruguay  2-1  Portugal   @ Fisht Olympic Stadium, Sochi
+                  (Edinson CAVANI 7', 62';
+                   PEPE 55')
+Sun Jul 1
+  17:00 UTC+3   Spain  1-1 a.e.t., 3-4 pen.  Russia   @ Lenin, Moscow
+                  (Sergey IGNASHEVICH 12'(og); Artem DZYUBA 41')
+  21:00 UTC+3   Croatia  1-1 a.e.t., 3-2 pen.  Denmark   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (Mario MANDZUKIC 4'; Mathias JORGENSEN 1')
+Mon Jul 2
+  18:00 UTC+4   Brazil  2-0  Mexico   @ Samara Arena, Samara
+                  (NEYMAR 51', ROBERTO FIRMINO 88')
+  21:00 UTC+3   Belgium  3-2  Japan   @ Rostov Arena, Rostov-on-Don
+                  (Jan VERTONGHEN 69', Marouane FELLAINI 74', Nacer CHADLI 90+4';
+                   Genki HARAGUCHI 48', Takashi INUI 52')
+Tue Jul 3
+  17:00 UTC+3   Sweden  1-0  Switzerland   @ Krestovsky Stadium, Saint Petersburg
+                  (Emil FORSBERG 66')
+  21:00 UTC+3   Colombia  1-1 a.e.t., 3-4 pen.  England   @ Otkrytiye Arena, Moscow
+                  (Yerry MINA 90+3'; Harry KANE 57')
+
+▪ Quarter-final
+Fri Jul 6
+  17:00 UTC+3   Uruguay  0-2  France   @ Nizhny Novgorod Stadium, Nizhny Novgorod
+                  (Raphael VARANE 40', Antoine GRIEZMANN 61')
+  21:00 UTC+3   Brazil  1-2  Belgium   @ Ak Bars Arena, Kazan
+                  (RENATO AUGUSTO 76';
+                   FERNANDINHO 13'(og), Kevin DE BRUYNE 31')
+Sat Jul 7
+  18:00 UTC+4   Sweden  0-2  England   @ Samara Arena, Samara
+                  (Harry MAGUIRE 30', Dele ALLI 59')
+  21:00 UTC+3   Russia  2-2 a.e.t., 3-4 pen.  Croatia   @ Fisht Olympic Stadium, Sochi
+                  (Denis CHERYSHEV 31', MARIO FERNANDES 115';
+                   Andrej KRAMARIC 40', Domagoj VIDA 101')
+
+▪ Semi-final
+Tue Jul 10
+  21:00 UTC+3   France  1-0  Belgium   @ Krestovsky Stadium, Saint Petersburg
+                  (Samuel UMTITI 51')
+Wed Jul 11
+  21:00 UTC+3   Croatia  2-1 a.e.t.  England   @ Lenin, Moscow
+                  (Ivan PERISIC 68', Mario MANDZUKIC 109';
+                   Kieran TRIPPIER 5')
+
+▪ Play-off for third place
+Sat Jul 14
+  17:00 UTC+3   Belgium  2-0  England   @ Krestovsky Stadium, Saint Petersburg
+                  (Thomas MEUNIER 4', Eden HAZARD 82')
+
+▪ Final
+Sun Jul 15
+  18:00 UTC+3   France  4-2  Croatia   @ Lenin, Moscow
+                  (Mario MANDZUKIC 18'(og), Antoine GRIEZMANN 38', Paul POGBA 59', Kylian MBAPPE 65';
+                   Ivan PERISIC 28', Mario MANDZUKIC 69')

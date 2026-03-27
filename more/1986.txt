@@ -1,0 +1,192 @@
+= World Cup 1986
+
+# Dates    Sat May 31 - Sun Jun 29 1986 (29d)
+# Teams    24
+# Matches  52
+# Venues   12 (in 10 cities)
+#   Neza, Ciudad Nezahualcóyotl (MEX)
+#   Tres de Marzo, Guadalajara (MEX)
+#   Estadio Jalisco, Guadalajara (MEX)
+#   Estadio Sergio León Chávez, Irapuato (MEX)
+#   Nou Camp, León (MEX)
+#   Estadio Olímpico Universitario, Mexico City (MEX)
+#   Estadio Azteca, Mexico City (MEX)
+#   Tecnologico, Monterrey (MEX)
+#   Estadio Cuauhtemoc, Puebla (MEX)
+#   Estadio Universitario, San Nicolás de los Garza (MEX)
+#   Estadio La Corregidora, Santiago de Querétaro (MEX)
+#   Bombonera, Toluca (MEX)
+
+
+▪ Group Matches
+▪▪ Group A
+Sat May 31
+  12:00 UTC-5   Bulgaria  1-1  Italy   @ Estadio Azteca, Mexico City
+                  (Nasko SIRAKOV 85'; Alessandro ALTOBELLI 43')
+Mon Jun 2
+  12:00 UTC-5   Argentina  3-1  South Korea   @ Estadio Olímpico Universitario, Mexico City
+                  (Jorge VALDANO 6', 46', Oscar RUGGERI 18';
+                   PARK Chang Sun 73')
+Thu Jun 5
+  12:00 UTC-5   Italy  1-1  Argentina   @ Estadio Cuauhtemoc, Puebla
+                  (Alessandro ALTOBELLI 6'(p); Diego MARADONA 34')
+  16:00 UTC-5   South Korea  1-1  Bulgaria   @ Estadio Olímpico Universitario, Mexico City
+                  (KIM Jong Boo 70'; Plamen GETOV 11')
+Tue Jun 10
+  12:00 UTC-5   Argentina  2-0  Bulgaria   @ Estadio Olímpico Universitario, Mexico City
+                  (Jorge VALDANO 3', Jorge BURRUCHAGA 76')
+  12:00 UTC-5   South Korea  2-3  Italy   @ Estadio Cuauhtemoc, Puebla
+                  (CHOI Soon Ho 62', HUH Jungmoo 83';
+                   Alessandro ALTOBELLI 17', 73', CHO Kwang Rae 82'(og))
+
+▪▪ Group B
+Tue Jun 3
+  12:00 UTC-5   Belgium  1-2  Mexico   @ Estadio Azteca, Mexico City
+                  (Erwin VANDENBERGH 45';
+                   Fernando QUIRARTE 23', Hugo SANCHEZ 39')
+Wed Jun 4
+  12:00 UTC-5   Paraguay  1-0  Iraq   @ Bombonera, Toluca
+                  (Julio Cesar ROMERO 35')
+Sat Jun 7
+  12:00 UTC-5   Mexico  1-1  Paraguay   @ Estadio Azteca, Mexico City
+                  (Luis FLORES 3'; Julio Cesar ROMERO 85')
+Sun Jun 8
+  12:00 UTC-5   Iraq  1-2  Belgium   @ Bombonera, Toluca
+                  (AHMED RADHI 59';
+                   Enzo SCIFO 16', Nico CLAESEN 21'(p))
+Wed Jun 11
+  12:00 UTC-5   Iraq  0-1  Mexico   @ Estadio Azteca, Mexico City
+                  (Fernando QUIRARTE 54')
+  12:00 UTC-5   Paraguay  2-2  Belgium   @ Bombonera, Toluca
+                  (Roberto CABANAS 50', 76';
+                   Frank VERCAUTEREN 30', Daniel VEYT 59')
+
+▪▪ Group C
+Sun Jun 1
+  16:00 UTC-5   Canada  0-1  France   @ Nou Camp, León
+                  (Jean-Pierre PAPIN 79')
+Mon Jun 2
+  12:00 UTC-5   Soviet Union  6-0  Hungary   @ Estadio Sergio León Chávez, Irapuato
+                  (Pavel YAKOVENKO 2', Serguei ALEINIKOV 4', Igor BELANOV 24'(p), Ivan YAREMCHUK 66', Laszlo DAJKA 73'(og), Sergei RODIONOV 80')
+Thu Jun 5
+  12:00 UTC-5   France  1-1  Soviet Union   @ Nou Camp, León
+                  (Luis FERNANDEZ 62'; Vasili RATS 53')
+Fri Jun 6
+  12:00 UTC-5   Hungary  2-0  Canada   @ Estadio Sergio León Chávez, Irapuato
+                  (Marton ESTERHAZY 2', Lajos DETARI 75')
+Mon Jun 9
+  12:00 UTC-5   Hungary  0-3  France   @ Nou Camp, León
+                  (Yannick STOPYRA 29', Jean TIGANA 62', Dominique ROCHETEAU 84')
+  12:00 UTC-5   Soviet Union  2-0  Canada   @ Estadio Sergio León Chávez, Irapuato
+                  (Oleg BLOKHIN 58', Aleksandr ZAVAROV 74')
+
+▪▪ Group D
+Sun Jun 1
+  12:00 UTC-5   Spain  0-1  Brazil   @ Estadio Jalisco, Guadalajara
+                  (SOCRATES 62')
+Tue Jun 3
+  12:00 UTC-5   Algeria  1-1  Northern Ireland   @ Tres de Marzo, Guadalajara
+                  (Djamel ZIDANE 59'; Norman WHITESIDE 6')
+Fri Jun 6
+  12:00 UTC-5   Brazil  1-0  Algeria   @ Estadio Jalisco, Guadalajara
+                  (CARECA 66')
+Sat Jun 7
+  12:00 UTC-5   Northern Ireland  1-2  Spain   @ Tres de Marzo, Guadalajara
+                  (Colin CLARKE 47';
+                   Emilio BUTRAGUENO 2', JULIO SALINAS 18')
+Thu Jun 12
+  12:00 UTC-5   Algeria  0-3  Spain   @ Tecnologico, Monterrey
+                  (Ramon Maria CALDERE 15', 68', ELOY 70')
+  12:00 UTC-5   Northern Ireland  0-3  Brazil   @ Estadio Jalisco, Guadalajara
+                  (CARECA 15', 87', JOSIMAR 42')
+
+▪▪ Group E
+Wed Jun 4
+  12:00 UTC-5   Uruguay  1-1  West Germany   @ Estadio La Corregidora, Santiago de Querétaro
+                  (Antonio ALZAMENDI 4'; Klaus ALLOFS 84')
+  16:00 UTC-5   Scotland  0-1  Denmark   @ Neza, Ciudad Nezahualcóyotl
+                  (Preben ELKJAER LARSEN 57')
+Sun Jun 8
+  12:00 UTC-5   West Germany  2-1  Scotland   @ Estadio La Corregidora, Santiago de Querétaro
+                  (Rudi VOELLER 22', Klaus ALLOFS 50';
+                   Gordon STRACHAN 18')
+  16:00 UTC-5   Denmark  6-1  Uruguay   @ Neza, Ciudad Nezahualcóyotl
+                  (Preben ELKJAER LARSEN 11', 67', 80', Soren LERBY 41', Michael LAUDRUP 52', Jesper OLSEN 88';
+                   Enzo FRANCESCOLI 45'(p))
+Fri Jun 13
+  12:00 UTC-5   Denmark  2-0  West Germany   @ Estadio La Corregidora, Santiago de Querétaro
+                  (Jesper OLSEN 43'(p), John ERIKSEN 62')
+  12:00 UTC-5   Scotland  0-0  Uruguay   @ Neza, Ciudad Nezahualcóyotl
+
+▪▪ Group F
+Mon Jun 2
+  16:00 UTC-5   Morocco  0-0  Poland   @ Estadio Universitario, San Nicolás de los Garza
+Tue Jun 3
+  16:00 UTC-5   Portugal  1-0  England   @ Tecnologico, Monterrey
+                  (CARLOS MANUEL 75')
+Fri Jun 6
+  16:00 UTC-5   England  0-0  Morocco   @ Tecnologico, Monterrey
+Sat Jun 7
+  16:00 UTC-5   Poland  1-0  Portugal   @ Estadio Universitario, San Nicolás de los Garza
+                  (Wlodimierz SMOLAREK 68')
+Wed Jun 11
+  16:00 UTC-5   Portugal  1-3  Morocco   @ Tres de Marzo, Guadalajara
+                  (DIAMANTINO 79';
+                   Abdelrazzak KHAIRI 19', 27', Abdelkarim KRIMAU 62')
+  16:00 UTC-5   England  3-0  Poland   @ Tecnologico, Monterrey
+                  (Gary LINEKER 9', 14', 34')
+
+▪ Round of 16
+Sun Jun 15
+  12:00 UTC-5   Mexico  2-0  Bulgaria   @ Estadio Azteca, Mexico City
+                  (Manuel NEGRETE 34', Raul SERVIN 61')
+  16:00 UTC-5   Soviet Union  3-4 a.e.t.  Belgium   @ Nou Camp, León
+                  (Igor BELANOV 27', 70', 111'(p);
+                   Enzo SCIFO 56', Jan CEULEMANS 77', Stephane DEMOL 102', Nico CLAESEN 110')
+Mon Jun 16
+  12:00 UTC-5   Brazil  4-0  Poland   @ Estadio Jalisco, Guadalajara
+                  (SOCRATES 30'(p), JOSIMAR 55', EDINHO 79', CARECA 83'(p))
+  16:00 UTC-5   Argentina  1-0  Uruguay   @ Estadio Cuauhtemoc, Puebla
+                  (Pedro PASCULLI 42')
+Tue Jun 17
+  12:00 UTC-5   Italy  0-2  France   @ Estadio Olímpico Universitario, Mexico City
+                  (Michel PLATINI 15', Yannick STOPYRA 57')
+  16:00 UTC-5   Morocco  0-1  West Germany   @ Estadio Universitario, San Nicolás de los Garza
+                  (Lothar MATTHAEUS 88')
+Wed Jun 18
+  12:00 UTC-5   England  3-0  Paraguay   @ Estadio Azteca, Mexico City
+                  (Gary LINEKER 31', 72', Peter BEARDSLEY 56')
+  16:00 UTC-5   Denmark  1-5  Spain   @ Estadio La Corregidora, Santiago de Querétaro
+                  (Jesper OLSEN 33'(p);
+                   Emilio BUTRAGUENO 43', 57', 80', 89'(p), GOIKO 68'(p))
+
+▪ Quarter-final
+Sat Jun 21
+  12:00 UTC-5   Brazil  1-1 a.e.t., 3-4 pen.  France   @ Estadio Jalisco, Guadalajara
+                  (CARECA 17'; Michel PLATINI 41')
+  16:00 UTC-5   West Germany  0-0 a.e.t., 4-1 pen.  Mexico   @ Estadio Universitario, San Nicolás de los Garza
+Sun Jun 22
+  12:00 UTC-5   Argentina  2-1  England   @ Estadio Azteca, Mexico City
+                  (Diego MARADONA 51', 55';
+                   Gary LINEKER 81')
+  16:00 UTC-5   Spain  1-1 a.e.t., 4-5 pen.  Belgium   @ Estadio Cuauhtemoc, Puebla
+                  (Juan Antonio SENOR 85'; Jan CEULEMANS 35')
+
+▪ Semi-final
+Wed Jun 25
+  12:00 UTC-5   France  0-2  West Germany   @ Estadio Jalisco, Guadalajara
+                  (Andreas BREHME 9', Rudi VOELLER 90')
+  16:00 UTC-5   Argentina  2-0  Belgium   @ Estadio Azteca, Mexico City
+                  (Diego MARADONA 51', 63')
+
+▪ Match for third place
+Sat Jun 28
+  12:00 UTC-5   France  4-2 a.e.t.  Belgium   @ Estadio Cuauhtemoc, Puebla
+                  (Jean-Marc FERRERI 27', Jean-Pierre PAPIN 43', Bernard GENGHINI 104', Manuel AMOROS 111'(p);
+                   Jan CEULEMANS 11', Nico CLAESEN 73')
+
+▪ Final
+Sun Jun 29
+  12:00 UTC-5   Argentina  3-2  West Germany   @ Estadio Azteca, Mexico City
+                  (Jose BROWN 23', Jorge VALDANO 56', Jorge BURRUCHAGA 84';
+                   Karl-Heinz RUMMENIGGE 74', Rudi VOELLER 81')

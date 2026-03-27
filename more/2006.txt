@@ -1,0 +1,224 @@
+= World Cup 2006
+
+# Dates    Fri Jun 9 - Sun Jul 9 2006 (30d)
+# Teams    32
+# Matches  64
+# Venues   12 (in 12 cities)
+#   Olympiastadion, Berlin (GER)
+#   Rhein Energie Stadium, Cologne (GER)
+#   Signal-Iduna-Park, Dortmund (GER)
+#   Commerzbank Arena, Frankfurt (GER)
+#   Arena AufSchalke, Gelsenkirchen (GER)
+#   Volksparkstadion, Hamburg (GER)
+#   HDI-Arena, Hanover (GER)
+#   Fritz-Walter-Stadion, Kaiserslautern (GER)
+#   Zentralstadion, Leipzig (GER)
+#   Allianz Arena, Munich (GER)
+#   Frankenstadion, Nuremberg (GER)
+#   Mercedes-Benz Arena, Stuttgart (GER)
+
+
+▪ First stage
+▪▪ Group A
+Fri Jun 9
+  18:00 UTC+2   Germany  4-2  Costa Rica   @ Allianz Arena, Munich
+                  (Philipp LAHM 6', Miroslav KLOSE 17', 61', Torsten FRINGS 87';
+                   Paulo WANCHOPE 12', 73')
+  21:00 UTC+2   Poland  0-2  Ecuador   @ Arena AufSchalke, Gelsenkirchen
+                  (Carlos TENORIO 24', Agustin DELGADO 80')
+Wed Jun 14
+  21:00 UTC+2   Germany  1-0  Poland   @ Signal-Iduna-Park, Dortmund
+                  (Oliver NEUVILLE 90+1')
+Thu Jun 15
+  15:00 UTC+2   Ecuador  3-0  Costa Rica   @ Volksparkstadion, Hamburg
+                  (Carlos TENORIO 8', Agustin DELGADO 54', Ivan KAVIEDES 90+2')
+Tue Jun 20
+  16:00 UTC+2   Ecuador  0-3  Germany   @ Olympiastadion, Berlin
+                  (Miroslav KLOSE 4', 44', Lukas PODOLSKI 57')
+  16:00 UTC+2   Costa Rica  1-2  Poland   @ HDI-Arena, Hanover
+                  (Ronald GOMEZ 25';
+                   Bartosz BOSACKI 33', 66')
+
+▪▪ Group B
+Sat Jun 10
+  15:00 UTC+2   England  1-0  Paraguay   @ Commerzbank Arena, Frankfurt
+                  (Carlos GAMARRA 2'(og))
+  18:00 UTC+2   Trinidad and Tobago  0-0  Sweden   @ Signal-Iduna-Park, Dortmund
+Thu Jun 15
+  18:00 UTC+2   England  2-0  Trinidad and Tobago   @ Frankenstadion, Nuremberg
+                  (Peter CROUCH 83', Steven GERRARD 90+1')
+  21:00 UTC+2   Sweden  1-0  Paraguay   @ Olympiastadion, Berlin
+                  (Fredrik LJUNGBERG 89')
+Tue Jun 20
+  21:00 UTC+2   Sweden  2-2  England   @ Rhein Energie Stadium, Cologne
+                  (Marcus ALLBACK 51', Henrik LARSSON 90';
+                   Joe COLE 34', Steven GERRARD 85')
+  21:00 UTC+2   Paraguay  2-0  Trinidad and Tobago   @ Fritz-Walter-Stadion, Kaiserslautern
+                  (Brent SANCHO 25'(og), Nelson CUEVAS 86')
+
+▪▪ Group C
+Sat Jun 10
+  21:00 UTC+2   Argentina  2-1  Côte d'Ivoire   @ Volksparkstadion, Hamburg
+                  (Hernan CRESPO 24', Javier SAVIOLA 38';
+                   Didier DROGBA 82')
+Sun Jun 11
+  15:00 UTC+2   Serbia and Montenegro  0-1  Netherlands   @ Zentralstadion, Leipzig
+                  (Arjen ROBBEN 18')
+Fri Jun 16
+  15:00 UTC+2   Argentina  6-0  Serbia and Montenegro   @ Arena AufSchalke, Gelsenkirchen
+                  (Maxi RODRIGUEZ 6', 41', Esteban CAMBIASSO 31', Hernan CRESPO 78', Carlos TEVEZ 84', Lionel MESSI 88')
+  18:00 UTC+2   Netherlands  2-1  Côte d'Ivoire   @ Mercedes-Benz Arena, Stuttgart
+                  (Robin VAN PERSIE 23', Ruud VAN NISTELROOIJ 27';
+                   Bakary KONE 38')
+Wed Jun 21
+  21:00 UTC+2   Côte d'Ivoire  3-2  Serbia and Montenegro   @ Allianz Arena, Munich
+                  (Aruna DINDANE 37'(p), 67', Bonaventure KALOU 86'(p);
+                   Nikola ZIGIC 10', Sasa ILIC 20')
+  21:00 UTC+2   Netherlands  0-0  Argentina   @ Commerzbank Arena, Frankfurt
+
+▪▪ Group D
+Sun Jun 11
+  18:00 UTC+2   Mexico  3-1  Iran   @ Frankenstadion, Nuremberg
+                  (Omar BRAVO 28', 76', ZINHA 79';
+                   Yahya GOLMOHAMMADI 36')
+  21:00 UTC+2   Angola  0-1  Portugal   @ Rhein Energie Stadium, Cologne
+                  (PAULETA 4')
+Fri Jun 16
+  21:00 UTC+2   Mexico  0-0  Angola   @ HDI-Arena, Hanover
+Sat Jun 17
+  15:00 UTC+2   Portugal  2-0  Iran   @ Commerzbank Arena, Frankfurt
+                  (DECO 63', CRISTIANO RONALDO 80'(p))
+Wed Jun 21
+  16:00 UTC+2   Iran  1-1  Angola   @ Zentralstadion, Leipzig
+                  (Sohrab BAKHTIARIZADEH 75'; FLAVIO 60')
+  16:00 UTC+2   Portugal  2-1  Mexico   @ Arena AufSchalke, Gelsenkirchen
+                  (MANICHE 6', SIMAO 24'(p);
+                   Jose FONSECA 29')
+
+▪▪ Group E
+Mon Jun 12
+  18:00 UTC+2   USA  0-3  Czechia   @ Arena AufSchalke, Gelsenkirchen
+                  (Jan KOLLER 5', Tomas ROSICKY 36', 76')
+  21:00 UTC+2   Italy  2-0  Ghana   @ HDI-Arena, Hanover
+                  (Andrea PIRLO 40', Vincenzo IAQUINTA 83')
+Sat Jun 17
+  18:00 UTC+2   Czechia  0-2  Ghana   @ Rhein Energie Stadium, Cologne
+                  (Asamoah GYAN 2', Sulley MUNTARI 82')
+  21:00 UTC+2   Italy  1-1  USA   @ Fritz-Walter-Stadion, Kaiserslautern
+                  (Alberto GILARDINO 22'; Cristian ZACCARDO 27'(og))
+Thu Jun 22
+  16:00 UTC+2   Ghana  2-1  USA   @ Frankenstadion, Nuremberg
+                  (Haminu DRAMAN 22', Stephen APPIAH 45+2'(p);
+                   Clint DEMPSEY 43')
+  16:00 UTC+2   Czechia  0-2  Italy   @ Volksparkstadion, Hamburg
+                  (Marco MATERAZZI 26', Filippo INZAGHI 87')
+
+▪▪ Group F
+Mon Jun 12
+  15:00 UTC+2   Australia  3-1  Japan   @ Fritz-Walter-Stadion, Kaiserslautern
+                  (Tim CAHILL 84', 89', John ALOISI 90+2';
+                   Shunsuke NAKAMURA 26')
+Tue Jun 13
+  21:00 UTC+2   Brazil  1-0  Croatia   @ Olympiastadion, Berlin
+                  (KAKA 44')
+Sun Jun 18
+  15:00 UTC+2   Japan  0-0  Croatia   @ Frankenstadion, Nuremberg
+  18:00 UTC+2   Brazil  2-0  Australia   @ Allianz Arena, Munich
+                  (ADRIANO 49', Fred 90')
+Thu Jun 22
+  21:00 UTC+2   Croatia  2-2  Australia   @ Mercedes-Benz Arena, Stuttgart
+                  (Darijo SRNA 2', Niko KOVAC 56';
+                   Craig MOORE 38'(p), Harry KEWELL 79')
+  21:00 UTC+2   Japan  1-4  Brazil   @ Signal-Iduna-Park, Dortmund
+                  (Keiji TAMADA 34';
+                   RONALDO 45+1', 81', JUNINHO PERNAMBUCANO 53', GILBERTO MELO 59')
+
+▪▪ Group G
+Tue Jun 13
+  15:00 UTC+2   South Korea  2-1  Togo   @ Commerzbank Arena, Frankfurt
+                  (LEE Chun Soo 54', AHN Jung Hwan 72';
+                   MOHAMED KADER 31')
+  18:00 UTC+2   France  0-0  Switzerland   @ Mercedes-Benz Arena, Stuttgart
+Sun Jun 18
+  21:00 UTC+2   France  1-1  South Korea   @ Zentralstadion, Leipzig
+                  (Thierry HENRY 9'; PARK Jisung 81')
+Mon Jun 19
+  15:00 UTC+2   Togo  0-2  Switzerland   @ Signal-Iduna-Park, Dortmund
+                  (Alexander FREI 16', Tranquillo BARNETTA 88')
+Fri Jun 23
+  21:00 UTC+2   Togo  0-2  France   @ Rhein Energie Stadium, Cologne
+                  (Patrick VIEIRA 55', Thierry HENRY 61')
+  21:00 UTC+2   Switzerland  2-0  South Korea   @ HDI-Arena, Hanover
+                  (Philippe SENDEROS 23', Alexander FREI 77')
+
+▪▪ Group H
+Wed Jun 14
+  15:00 UTC+2   Spain  4-0  Ukraine   @ Zentralstadion, Leipzig
+                  (Xabi ALONSO 13', David VILLA 17', 48'(p), Fernando TORRES 81')
+  18:00 UTC+2   Tunisia  2-2  Saudi Arabia   @ Allianz Arena, Munich
+                  (Zied JAZIRI 23', Radhi JAIDI 90+2';
+                   YASSER AL QAHTANI 57', Sami AL JABER 84')
+Mon Jun 19
+  18:00 UTC+2   Saudi Arabia  0-4  Ukraine   @ Volksparkstadion, Hamburg
+                  (Andriy RUSOL 4', Serhiy REBROV 36', Andriy SHEVCHENKO 46', Maksym KALINICHENKO 84')
+  21:00 UTC+2   Spain  3-1  Tunisia   @ Mercedes-Benz Arena, Stuttgart
+                  (RAUL 71', Fernando TORRES 76', 90+1'(p);
+                   Jaouhar MNARI 8')
+Fri Jun 23
+  16:00 UTC+2   Ukraine  1-0  Tunisia   @ Olympiastadion, Berlin
+                  (Andriy SHEVCHENKO 70'(p))
+  16:00 UTC+2   Saudi Arabia  0-1  Spain   @ Fritz-Walter-Stadion, Kaiserslautern
+                  (JUANITO 36')
+
+▪ Round of 16
+Sat Jun 24
+  17:00 UTC+2   Germany  2-0  Sweden   @ Allianz Arena, Munich
+                  (Lukas PODOLSKI 4', 12')
+  21:00 UTC+2   Argentina  2-1 a.e.t.  Mexico   @ Zentralstadion, Leipzig
+                  (Hernan CRESPO 10', Maxi RODRIGUEZ 98';
+                   Rafael MARQUEZ 6')
+Sun Jun 25
+  17:00 UTC+2   England  1-0  Ecuador   @ Mercedes-Benz Arena, Stuttgart
+                  (David BECKHAM 60')
+  21:00 UTC+2   Portugal  1-0  Netherlands   @ Frankenstadion, Nuremberg
+                  (MANICHE 23')
+Mon Jun 26
+  17:00 UTC+2   Italy  1-0  Australia   @ Fritz-Walter-Stadion, Kaiserslautern
+                  (Francesco TOTTI 90+5'(p))
+  21:00 UTC+2   Switzerland  0-0 a.e.t., 0-3 pen.  Ukraine   @ Rhein Energie Stadium, Cologne
+Tue Jun 27
+  17:00 UTC+2   Brazil  3-0  Ghana   @ Signal-Iduna-Park, Dortmund
+                  (RONALDO 5', ADRIANO 45+1', ZE ROBERTO 84')
+  21:00 UTC+2   Spain  1-3  France   @ HDI-Arena, Hanover
+                  (David VILLA 28'(p);
+                   Franck RIBÉRY 41', Patrick VIEIRA 83', Zinedine ZIDANE 90+2')
+
+▪ Quarter-final
+Fri Jun 30
+  17:00 UTC+2   Germany  1-1 a.e.t., 4-2 pen.  Argentina   @ Olympiastadion, Berlin
+                  (Miroslav KLOSE 80'; Roberto AYALA 49')
+  21:00 UTC+2   Italy  3-0  Ukraine   @ Volksparkstadion, Hamburg
+                  (Gianluca ZAMBROTTA 6', Luca TONI 59', 69')
+Sat Jul 1
+  17:00 UTC+2   England  0-0 a.e.t., 1-3 pen.  Portugal   @ Arena AufSchalke, Gelsenkirchen
+  21:00 UTC+2   Brazil  0-1  France   @ Commerzbank Arena, Frankfurt
+                  (Thierry HENRY 57')
+
+▪ Semi-final
+Tue Jul 4
+  21:00 UTC+2   Germany  0-2 a.e.t.  Italy   @ Signal-Iduna-Park, Dortmund
+                  (Fabio GROSSO 119', Alessandro DEL PIERO 120+1')
+Wed Jul 5
+  21:00 UTC+2   Portugal  0-1  France   @ Allianz Arena, Munich
+                  (Zinedine ZIDANE 33'(p))
+
+▪ Match for third place
+Sat Jul 8
+  21:00 UTC+2   Germany  3-1  Portugal   @ Mercedes-Benz Arena, Stuttgart
+                  (Bastian SCHWEINSTEIGER 56', 78', PETIT 60'(og);
+                   NUNO GOMES 88')
+
+▪ Final
+Sun Jul 9
+  20:00 UTC+2   Italy  1-1 a.e.t., 5-3 pen.  France   @ Olympiastadion, Berlin
+                  (Marco MATERAZZI 19'; Zinedine ZIDANE 7'(p))

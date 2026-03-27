@@ -1,0 +1,197 @@
+= World Cup 1990
+
+# Dates    Fri Jun 8 - Sun Jul 8 1990 (30d)
+# Teams    24
+# Matches  52
+# Venues   12 (in 12 cities)
+#   Stadio San Nicola, Bari (ITA)
+#   Stadio Renato Dall'Ara, Bologna (ITA)
+#   Sant Elia, Cagliari (ITA)
+#   Comunale, Florence (ITA)
+#   Estadio Luigi Ferraris, Genoa (ITA)
+#   Stadio Giuseppe Meazza, Milan (ITA)
+#   Stadio San Paolo, Naples (ITA)
+#   Della Favorita, Palermo (ITA)
+#   Stadio Olimpico, Rome (ITA)
+#   Allianz Stadium, Turin (ITA)
+#   Stadio Friuli, Udine (ITA)
+#   Marc Antonio Bentegodi, Verona (ITA)
+
+
+▪ Group Matches
+▪▪ Group A
+Sat Jun 9
+  21:00 UTC+2   Italy  1-0  Austria   @ Stadio Olimpico, Rome
+                  (Salvatore SCHILLACI 78')
+Sun Jun 10
+  17:00 UTC+2   USA  1-5  Czechoslovakia   @ Comunale, Florence
+                  (Paul CALIGIURI 60';
+                   Tomas SKUHRAVY 26', 78', Michal BILEK 40'(p), Ivan HASEK 50', Milan LUHOVY 90')
+Thu Jun 14
+  21:00 UTC+2   Italy  1-0  USA   @ Stadio Olimpico, Rome
+                  (Giuseppe GIANNINI 11')
+Fri Jun 15
+  17:00 UTC+2   Austria  0-1  Czechoslovakia   @ Comunale, Florence
+                  (Michal BILEK 31'(p))
+Tue Jun 19
+  21:00 UTC+2   Austria  2-1  USA   @ Comunale, Florence
+                  (Andreas OGRIS 49', Gerhard RODAX 63';
+                   Bruce MURRAY 83')
+  21:00 UTC+2   Italy  2-0  Czechoslovakia   @ Stadio Olimpico, Rome
+                  (Salvatore SCHILLACI 9', Roberto BAGGIO 78')
+
+▪▪ Group B
+Fri Jun 8
+  18:00 UTC+2   Argentina  0-1  Cameroon   @ Stadio Giuseppe Meazza, Milan
+                  (Francois OMAM-BIYIK 67')
+Sat Jun 9
+  17:00 UTC+2   Soviet Union  0-2  Romania   @ Stadio San Nicola, Bari
+                  (Marius LACATUS 41', 55'(p))
+Wed Jun 13
+  21:00 UTC+2   Argentina  2-0  Soviet Union   @ Stadio San Paolo, Naples
+                  (Pedro TROGLIO 27', Jorge BURRUCHAGA 79')
+Thu Jun 14
+  17:00 UTC+2   Cameroon  2-1  Romania   @ Stadio San Nicola, Bari
+                  (Roger MILLA 76', 86';
+                   Gavril BALINT 88')
+Mon Jun 18
+  21:00 UTC+2   Cameroon  0-4  Soviet Union   @ Stadio San Nicola, Bari
+                  (Oleg PROTASOV 20', Andrei ZYGMANTOVICH 29', Aleksandr ZAVAROV 52', Igor DOBROVOLSKYI 63')
+  21:00 UTC+2   Argentina  1-1  Romania   @ Stadio San Paolo, Naples
+                  (Pedro MONZON 62'; Gavril BALINT 68')
+
+▪▪ Group C
+Sun Jun 10
+  21:00 UTC+2   Brazil  2-1  Sweden   @ Allianz Stadium, Turin
+                  (CARECA 40', 63';
+                   Tomas BROLIN 79')
+Mon Jun 11
+  17:00 UTC+2   Costa Rica  1-0  Scotland   @ Estadio Luigi Ferraris, Genoa
+                  (Juan CAYASSO 49')
+Sat Jun 16
+  17:00 UTC+2   Brazil  1-0  Costa Rica   @ Allianz Stadium, Turin
+                  (MULLER 33')
+  21:00 UTC+2   Sweden  1-2  Scotland   @ Estadio Luigi Ferraris, Genoa
+                  (Glenn STROMBERG 86';
+                   Stuart McCALL 11', Mo JOHNSTON 81'(p))
+Wed Jun 20
+  21:00 UTC+2   Sweden  1-2  Costa Rica   @ Estadio Luigi Ferraris, Genoa
+                  (Johnny EKSTROM 32';
+                   Roger FLORES 75', Hernan MEDFORD 87')
+  21:00 UTC+2   Brazil  1-0  Scotland   @ Allianz Stadium, Turin
+                  (MULLER 81')
+
+▪▪ Group D
+Sat Jun 9
+  17:00 UTC+2   United Arab Emirates  0-2  Colombia   @ Stadio Renato Dall'Ara, Bologna
+                  (Bernardo REDIN 50', Carlos VALDERRAMA 85')
+Sun Jun 10
+  21:00 UTC+2   West Germany  4-1  Yugoslavia   @ Stadio Giuseppe Meazza, Milan
+                  (Lothar MATTHAEUS 28', 64', Juergen KLINSMANN 39', Rudi VOELLER 70';
+                   Davor JOZIC 55')
+Thu Jun 14
+  17:00 UTC+2   Yugoslavia  1-0  Colombia   @ Stadio Renato Dall'Ara, Bologna
+                  (Davor JOZIC 75')
+Fri Jun 15
+  21:00 UTC+2   West Germany  5-1  United Arab Emirates   @ Stadio Giuseppe Meazza, Milan
+                  (Rudi VOELLER 35', 75', Juergen KLINSMANN 37', Lothar MATTHAEUS 47', Uwe BEIN 58';
+                   KHALID ISMAIL 46')
+Tue Jun 19
+  17:00 UTC+2   West Germany  1-1  Colombia   @ Stadio Giuseppe Meazza, Milan
+                  (Pierre LITTBARSKI 88'; Freddy RINCON 90')
+  17:00 UTC+2   Yugoslavia  4-1  United Arab Emirates   @ Stadio Renato Dall'Ara, Bologna
+                  (Safet SUSIC 5', Darko PANCEV 9', 46', Robert PROSINECKI 90';
+                   Ali Thani JUMAA 22')
+
+▪▪ Group E
+Tue Jun 12
+  17:00 UTC+2   Belgium  2-0  South Korea   @ Marc Antonio Bentegodi, Verona
+                  (Marc DEGRYSE 53', Michel DE WOLF 64')
+Wed Jun 13
+  17:00 UTC+2   Uruguay  0-0  Spain   @ Stadio Friuli, Udine
+Sun Jun 17
+  21:00 UTC+2   Belgium  3-1  Uruguay   @ Marc Antonio Bentegodi, Verona
+                  (Leo CLIJSTERS 15', Enzo SCIFO 24', Jan CEULEMANS 47';
+                   Pablo BENGOECHEA 73')
+  21:00 UTC+2   South Korea  1-3  Spain   @ Stadio Friuli, Udine
+                  (HWANGBO Kwan 43';
+                   MICHEL 23', 61', 81')
+Thu Jun 21
+  17:00 UTC+2   Belgium  1-2  Spain   @ Marc Antonio Bentegodi, Verona
+                  (Patrick VERVOORT 29';
+                   MICHEL 26'(p), Alberto GORRIZ 38')
+  17:00 UTC+2   South Korea  0-1  Uruguay   @ Stadio Friuli, Udine
+                  (Daniel FONSECA 90')
+
+▪▪ Group F
+Mon Jun 11
+  21:00 UTC+2   England  1-1  Ireland   @ Sant Elia, Cagliari
+                  (Gary LINEKER 9'; Kevin SHEEDY 73')
+Tue Jun 12
+  21:00 UTC+2   Netherlands  1-1  Egypt   @ Della Favorita, Palermo
+                  (Wim KIEFT 58'; Magdy ABDELGHANY 83'(p))
+Sat Jun 16
+  21:00 UTC+2   England  0-0  Netherlands   @ Sant Elia, Cagliari
+Sun Jun 17
+  17:00 UTC+2   Ireland  0-0  Egypt   @ Della Favorita, Palermo
+Thu Jun 21
+  21:00 UTC+2   Ireland  1-1  Netherlands   @ Della Favorita, Palermo
+                  (Niall QUINN 71'; Ruud GULLIT 11')
+  21:00 UTC+2   England  1-0  Egypt   @ Sant Elia, Cagliari
+                  (Mark WRIGHT 58')
+
+▪ Round of 16
+Sat Jun 23
+  17:00 UTC+2   Cameroon  2-1 a.e.t.  Colombia   @ Stadio San Paolo, Naples
+                  (Roger MILLA 106', 108';
+                   Bernardo REDIN 115')
+  21:00 UTC+2   Czechoslovakia  4-1  Costa Rica   @ Stadio San Nicola, Bari
+                  (Tomas SKUHRAVY 12', 63', 82', Lubos KUBIK 76';
+                   Ronald GONZALEZ 55')
+Sun Jun 24
+  17:00 UTC+2   Brazil  0-1  Argentina   @ Allianz Stadium, Turin
+                  (Claudio CANIGGIA 81')
+  21:00 UTC+2   West Germany  2-1  Netherlands   @ Stadio Giuseppe Meazza, Milan
+                  (Juergen KLINSMANN 51', Andreas BREHME 85';
+                   Ronald KOEMAN 89'(p))
+Mon Jun 25
+  17:00 UTC+2   Ireland  0-0 a.e.t., 5-4 pen.  Romania   @ Estadio Luigi Ferraris, Genoa
+  21:00 UTC+2   Italy  2-0  Uruguay   @ Stadio Olimpico, Rome
+                  (Salvatore SCHILLACI 65', Aldo SERENA 83')
+Tue Jun 26
+  17:00 UTC+2   Spain  1-2 a.e.t.  Yugoslavia   @ Marc Antonio Bentegodi, Verona
+                  (JULIO SALINAS 84';
+                   Dragan STOJKOVIC 78', 93')
+  21:00 UTC+2   England  1-0 a.e.t.  Belgium   @ Stadio Renato Dall'Ara, Bologna
+                  (David PLATT 119')
+
+▪ Quarter-final
+Sat Jun 30
+  17:00 UTC+2   Yugoslavia  0-0 a.e.t., 2-3 pen.  Argentina   @ Comunale, Florence
+  21:00 UTC+2   Italy  1-0  Ireland   @ Stadio Olimpico, Rome
+                  (Salvatore SCHILLACI 38')
+Sun Jul 1
+  17:00 UTC+2   West Germany  1-0  Czechoslovakia   @ Stadio Giuseppe Meazza, Milan
+                  (Lothar MATTHAEUS 25'(p))
+  21:00 UTC+2   England  3-2 a.e.t.  Cameroon   @ Stadio San Paolo, Naples
+                  (David PLATT 25', Gary LINEKER 83'(p), 105'(p);
+                   Emmanuel KUNDE 61'(p), Eugene EKEKE 65')
+
+▪ Semi-final
+Tue Jul 3
+  20:00 UTC+2   Italy  1-1 a.e.t., 3-4 pen.  Argentina   @ Stadio San Paolo, Naples
+                  (Salvatore SCHILLACI 17'; Claudio CANIGGIA 67')
+Wed Jul 4
+  20:00 UTC+2   West Germany  1-1 a.e.t., 4-3 pen.  England   @ Allianz Stadium, Turin
+                  (Andreas BREHME 60'; Gary LINEKER 80')
+
+▪ Match for third place
+Sat Jul 7
+  20:00 UTC+2   Italy  2-1  England   @ Stadio San Nicola, Bari
+                  (Roberto BAGGIO 71', Salvatore SCHILLACI 86'(p);
+                   David PLATT 81')
+
+▪ Final
+Sun Jul 8
+  20:00 UTC+2   West Germany  1-0  Argentina   @ Stadio Olimpico, Rome
+                  (Andreas BREHME 85'(p))

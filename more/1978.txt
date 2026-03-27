@@ -1,0 +1,140 @@
+= World Cup 1978
+
+# Dates    Thu Jun 1 - Sun Jun 25 1978 (24d)
+# Teams    16
+# Matches  38
+# Venues   6 (in 5 cities)
+#   El Monumental, Buenos Aires (ARG)
+#   Estadio Jose Amalfitani, Buenos Aires (ARG)
+#   Estadio Mario Alberto Kempes, Córdoba (ARG)
+#   Estadio José María Minella, Mar del Plata (ARG)
+#   Estadio Libertador General San Martín, Mendoza (ARG)
+#   Arroyito, Rosario (ARG)
+
+
+▪ Group Matches
+▪▪ Group 1
+Fri Jun 2
+  13:45 UTC-3   Italy  2-1  France   @ Estadio José María Minella, Mar del Plata
+                  (Paolo ROSSI 29', Renato ZACCARELLI 54';
+                   Bernard LACOMBE 1')
+  19:15 UTC-3   Argentina  2-1  Hungary   @ El Monumental, Buenos Aires
+                  (Leopoldo LUQUE 15', Daniel BERTONI 83';
+                   Karoly CSAPO 10')
+Tue Jun 6
+  13:45 UTC-3   Italy  3-1  Hungary   @ Estadio José María Minella, Mar del Plata
+                  (Paolo ROSSI 34', Roberto BETTEGA 36', Romeo BENETTI 60';
+                   Andras TOTH 81'(p))
+  19:15 UTC-3   Argentina  2-1  France   @ El Monumental, Buenos Aires
+                  (Daniel PASSARELLA 45'(p), Leopoldo LUQUE 73';
+                   Michel PLATINI 60')
+Sat Jun 10
+  15:10 UTC-3   France  3-1  Hungary   @ Estadio José María Minella, Mar del Plata
+                  (Christian LOPEZ 22', Marc BERDOLL 37', Dominique ROCHETEAU 42';
+                   Sandor ZOMBORI 41')
+  19:15 UTC-3   Italy  1-0  Argentina   @ El Monumental, Buenos Aires
+                  (Roberto BETTEGA 67')
+
+▪▪ Group 2
+Thu Jun 1
+  15:00 UTC-3   West Germany  0-0  Poland   @ El Monumental, Buenos Aires
+Fri Jun 2
+  16:45 UTC-3   Tunisia  3-1  Mexico   @ Arroyito, Rosario
+                  (Ali KAABI 55', Nejib GHOMMIDH 79', Mokhtar DOUIEB 87';
+                   Arturo VAZQUEZ 45'(p))
+Tue Jun 6
+  16:45 UTC-3   Poland  1-0  Tunisia   @ Arroyito, Rosario
+                  (Grzegorz LATO 43')
+  16:45 UTC-3   West Germany  6-0  Mexico   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Dieter MUELLER 15', Hansi MUELLER 30', Karl-Heinz RUMMENIGGE 38', 73', Heinz FLOHE 44', 89')
+Sat Jun 10
+  16:45 UTC-3   West Germany  0-0  Tunisia   @ Estadio Mario Alberto Kempes, Córdoba
+  16:45 UTC-3   Poland  3-1  Mexico   @ Arroyito, Rosario
+                  (Zbigniew BONIEK 43', 84', Kazimierz DEYNA 56';
+                   Victor RANGEL 52')
+
+▪▪ Group 3
+Sat Jun 3
+  13:45 UTC-3   Sweden  1-1  Brazil   @ Estadio José María Minella, Mar del Plata
+                  (Thomas SJOBERG 37'; REINALDO 45')
+  13:45 UTC-3   Austria  2-1  Spain   @ Estadio Jose Amalfitani, Buenos Aires
+                  (Walter SCHACHNER 9', Hans KRANKL 76';
+                   DANI 21')
+Wed Jun 7
+  13:45 UTC-3   Brazil  0-0  Spain   @ Estadio José María Minella, Mar del Plata
+  13:45 UTC-3   Austria  1-0  Sweden   @ Estadio Jose Amalfitani, Buenos Aires
+                  (Hans KRANKL 42'(p))
+Sun Jun 11
+  13:45 UTC-3   Brazil  1-0  Austria   @ Estadio José María Minella, Mar del Plata
+                  (ROBERTO DINAMITE 40')
+  13:45 UTC-3   Spain  1-0  Sweden   @ Estadio Jose Amalfitani, Buenos Aires
+                  (Juan Manuel ASENSI 75')
+
+▪▪ Group 4
+Sat Jun 3
+  16:45 UTC-3   Netherlands  3-0  Iran   @ Estadio Libertador General San Martín, Mendoza
+                  (Rob RENSENBRINK 40'(p), 62', 79'(p))
+  16:45 UTC-3   Peru  3-1  Scotland   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Cesar CUETO 43', Teofilo CUBILLAS 71', 77';
+                   Joe JORDAN 14')
+Wed Jun 7
+  16:45 UTC-3   Scotland  1-1  Iran   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Andranik ESKANDARIAN 43'(og); Iraj DANAEIFARD 60')
+  16:45 UTC-3   Netherlands  0-0  Peru   @ Estadio Libertador General San Martín, Mendoza
+Sun Jun 11
+  16:45 UTC-3   Scotland  3-2  Netherlands   @ Estadio Libertador General San Martín, Mendoza
+                  (Kenny DALGLISH 44', Archie GEMMILL 47'(p), 68';
+                   Rob RENSENBRINK 34'(p), Johnny REP 71')
+  16:45 UTC-3   Peru  4-1  Iran   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Jose VELASQUEZ 2', Teofilo CUBILLAS 36'(p), 39'(p), 79';
+                   Hassan ROWSHAN 41')
+
+▪ Second Round
+▪▪ Group A
+Wed Jun 14
+  13:45 UTC-3   Netherlands  5-1  Austria   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Ernie BRANDTS 6', Rob RENSENBRINK 35'(p), Johnny REP 36', 53', Willy VAN DE KERKHOF 82';
+                   Erich OBERMAYER 79')
+  13:45 UTC-3   West Germany  0-0  Italy   @ El Monumental, Buenos Aires
+Sun Jun 18
+  16:45 UTC-3   West Germany  2-2  Netherlands   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Ruediger ABRAMCZIK 3', Dieter MUELLER 70';
+                   Arie HAAN 27', Rene VAN DE KERKHOF 84')
+  16:45 UTC-3   Italy  1-0  Austria   @ El Monumental, Buenos Aires
+                  (Paolo ROSSI 14')
+Wed Jun 21
+  13:45 UTC-3   Netherlands  2-1  Italy   @ El Monumental, Buenos Aires
+                  (Ernie BRANDTS 50', Arie HAAN 75';
+                   Ernie BRANDTS 18'(og))
+  13:45 UTC-3   Austria  3-2  West Germany   @ Estadio Mario Alberto Kempes, Córdoba
+                  (Berti VOGTS 59'(og), Hans KRANKL 66', 87';
+                   Karl-Heinz RUMMENIGGE 19', Bernd HOELZENBEIN 68')
+
+▪▪ Group B
+Wed Jun 14
+  16:45 UTC-3   Brazil  3-0  Peru   @ Estadio Libertador General San Martín, Mendoza
+                  (DIRCEU 15', 28', ZICO 73'(p))
+  19:15 UTC-3   Argentina  2-0  Poland   @ Arroyito, Rosario
+                  (Mario KEMPES 16', 71')
+Sun Jun 18
+  13:45 UTC-3   Poland  1-0  Peru   @ Estadio Libertador General San Martín, Mendoza
+                  (Andrzej SZARMACH 65')
+  19:15 UTC-3   Argentina  0-0  Brazil   @ Arroyito, Rosario
+Wed Jun 21
+  16:45 UTC-3   Brazil  3-1  Poland   @ Estadio Libertador General San Martín, Mendoza
+                  (NELINHO 12', ROBERTO DINAMITE 57', 63';
+                   Grzegorz LATO 45')
+  19:15 UTC-3   Argentina  6-0  Peru   @ Arroyito, Rosario
+                  (Mario KEMPES 21', 48', Alberto TARANTINI 43', Leopoldo LUQUE 50', 72', Rene HOUSEMAN 67')
+
+▪ Match for third place
+Sat Jun 24
+  15:00 UTC-3   Brazil  2-1  Italy   @ El Monumental, Buenos Aires
+                  (NELINHO 64', DIRCEU 72';
+                   Franco CAUSIO 38')
+
+▪ Final
+Sun Jun 25
+  15:00 UTC-3   Argentina  3-1 a.e.t.  Netherlands   @ El Monumental, Buenos Aires
+                  (Mario KEMPES 38', 105', Daniel BERTONI 115';
+                   Dick NANNINGA 82')

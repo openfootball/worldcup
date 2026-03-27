@@ -1,0 +1,137 @@
+= World Cup 1966
+
+# Dates    Mon Jul 11 - Sat Jul 30 1966 (19d)
+# Teams    16
+# Matches  32
+# Venues   8 (in 7 cities)
+#   Villa Park, Birmingham (ENG)
+#   Goodison Park, Liverpool (ENG)
+#   White City, London (ENG)
+#   Wembley Stadium, London (ENG)
+#   Old Trafford Stadium, Manchester (ENG)
+#   Ayresome Park, Middlesbrough (ENG)
+#   Hillsborough, Sheffield (ENG)
+#   Roker Park Ground, Sunderland (ENG)
+
+
+▪ Group Matches
+▪▪ Group 1
+Mon Jul 11
+  19:30 UTC+1   England  0-0  Uruguay   @ Wembley Stadium, London
+Wed Jul 13
+  19:30 UTC+1   France  1-1  Mexico   @ Wembley Stadium, London
+                  (Gerard HAUSSER 62'; Enrique BORJA 48')
+Fri Jul 15
+  19:30 UTC+1   Uruguay  2-1  France   @ White City, London
+                  (Pedro ROCHA 26', Julio CORTES 31';
+                   Hector DE BOURGOING 15'(p))
+Sat Jul 16
+  19:30 UTC+1   England  2-0  Mexico   @ Wembley Stadium, London
+                  (Bobby CHARLTON 37', Roger HUNT 75')
+Tue Jul 19
+  16:30 UTC+1   Uruguay  0-0  Mexico   @ Wembley Stadium, London
+Wed Jul 20
+  19:30 UTC+1   England  2-0  France   @ Wembley Stadium, London
+                  (Roger HUNT 38', 75')
+
+▪▪ Group 2
+Tue Jul 12
+  19:30 UTC+1   West Germany  5-0  Switzerland   @ Hillsborough, Sheffield
+                  (Sigi HELD 15', Helmut HALLER 20', 77'(p), Franz BECKENBAUER 39', 52')
+Wed Jul 13
+  19:30 UTC+1   Argentina  2-1  Spain   @ Villa Park, Birmingham
+                  (Luis ARTIME 65', 79';
+                   PIRRI 71')
+Fri Jul 15
+  19:30 UTC+1   Spain  2-1  Switzerland   @ Hillsborough, Sheffield
+                  (Manuel SANCHIS 57', AMANCIO 75';
+                   Rene-Pierre QUENTIN 28')
+Sat Jul 16
+  15:00 UTC+1   West Germany  0-0  Argentina   @ Villa Park, Birmingham
+Tue Jul 19
+  19:30 UTC+1   Argentina  2-0  Switzerland   @ Hillsborough, Sheffield
+                  (Luis ARTIME 53', Ermindo ONEGA 81')
+Wed Jul 20
+  19:30 UTC+1   West Germany  2-1  Spain   @ Villa Park, Birmingham
+                  (Lothar EMMERICH 38', Uwe SEELER 84';
+                   Jose Maria FUSTE 22')
+
+▪▪ Group 3
+Tue Jul 12
+  19:30 UTC+1   Brazil  2-0  Bulgaria   @ Goodison Park, Liverpool
+                  (PELE 15', GARRINCHA 63')
+Wed Jul 13
+  19:30 UTC+1   Portugal  3-1  Hungary   @ Old Trafford Stadium, Manchester
+                  (JOSE AUGUSTO 2', 67', JOSE TORRES 90';
+                   Ferenc BENE 60')
+Fri Jul 15
+  19:30 UTC+1   Hungary  3-1  Brazil   @ Goodison Park, Liverpool
+                  (Ferenc BENE 2', Janos FARKAS 64', Kalman MESZOLY 73'(p);
+                   TOSTAO 14')
+Sat Jul 16
+  15:00 UTC+1   Portugal  3-0  Bulgaria   @ Old Trafford Stadium, Manchester
+                  (Ivan VUTSOV 17'(og), EUSEBIO (Eusebio da Silva Ferreira) 38', JOSE TORRES 81')
+Tue Jul 19
+  19:30 UTC+1   Portugal  3-1  Brazil   @ Goodison Park, Liverpool
+                  (ANTONIO SIMOES 15', EUSEBIO (Eusebio da Silva Ferreira) 27', 85';
+                   RILDO 73')
+Wed Jul 20
+  19:30 UTC+1   Hungary  3-1  Bulgaria   @ Old Trafford Stadium, Manchester
+                  (Ivan DAVIDOV 43'(og), Kalman MESZOLY 45', Ferenc BENE 54';
+                   Georgi ASPARUKHOV 15')
+
+▪▪ Group 4
+Tue Jul 12
+  19:30 UTC+1   Soviet Union  3-0  North Korea   @ Ayresome Park, Middlesbrough
+                  (Eduard MALOFEYEV 31', 88', Anatoli BANISHEVSKI 33')
+Wed Jul 13
+  19:30 UTC+1   Italy  2-0  Chile   @ Roker Park Ground, Sunderland
+                  (Sandro MAZZOLA 8', Paolo BARISON 88')
+Fri Jul 15
+  19:30 UTC+1   North Korea  1-1  Chile   @ Ayresome Park, Middlesbrough
+                  (PAK Seung Zin 88'; Ruben MARCOS 26'(p))
+Sat Jul 16
+  15:00 UTC+1   Soviet Union  1-0  Italy   @ Roker Park Ground, Sunderland
+                  (Igor CHISLENKO 57')
+Tue Jul 19
+  19:30 UTC+1   North Korea  1-0  Italy   @ Ayresome Park, Middlesbrough
+                  (PAK Doo Ik 42')
+Wed Jul 20
+  19:30 UTC+1   Soviet Union  2-1  Chile   @ Roker Park Ground, Sunderland
+                  (Valeriy PORKUYAN 28', 85';
+                   Ruben MARCOS 32')
+
+▪ Quarter-final
+Sat Jul 23
+  15:00 UTC+1   Soviet Union  2-1  Hungary   @ Roker Park Ground, Sunderland
+                  (Igor CHISLENKO 5', Valeriy PORKUYAN 46';
+                   Ferenc BENE 57')
+  15:00 UTC+1   Portugal  5-3  North Korea   @ Goodison Park, Liverpool
+                  (EUSEBIO (Eusebio da Silva Ferreira) 27', 43'(p), 56', 59'(p), JOSE AUGUSTO 80';
+                   PAK Seung Zin 1', LI Dong Woon 22', YANG Seung Kook 25')
+  15:00 UTC+1   West Germany  4-0  Uruguay   @ Hillsborough, Sheffield
+                  (Helmut HALLER 11', 83', Franz BECKENBAUER 70', Uwe SEELER 75')
+  15:00 UTC+1   England  1-0  Argentina   @ Wembley Stadium, London
+                  (Geoff HURST 78')
+
+▪ Semi-final
+Mon Jul 25
+  19:30 UTC+1   West Germany  2-1  Soviet Union   @ Goodison Park, Liverpool
+                  (Helmut HALLER 43', Franz BECKENBAUER 67';
+                   Valeriy PORKUYAN 88')
+Tue Jul 26
+  19:30 UTC+1   England  2-1  Portugal   @ Wembley Stadium, London
+                  (Bobby CHARLTON 30', 80';
+                   EUSEBIO (Eusebio da Silva Ferreira) 82'(p))
+
+▪ Match for third place
+Thu Jul 28
+  19:30 UTC+1   Portugal  2-1  Soviet Union   @ Wembley Stadium, London
+                  (EUSEBIO (Eusebio da Silva Ferreira) 12'(p), JOSE TORRES 89';
+                   Eduard MALOFEYEV 43')
+
+▪ Final
+Sat Jul 30
+  15:00 UTC+1   England  4-2 a.e.t.  West Germany   @ Wembley Stadium, London
+                  (Geoff HURST 18', 101', 120', Martin PETERS 78';
+                   Helmut HALLER 12', Wolfgang WEBER 89')

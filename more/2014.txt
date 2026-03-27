@@ -1,0 +1,236 @@
+= World Cup 2014
+
+# Dates    Thu Jun 12 - Sun Jul 13 2014 (31d)
+# Teams    32
+# Matches  64
+# Venues   12 (in 12 cities)
+#   Estadio Mineirao, Belo Horizonte (BRA)
+#   Estádio Nacional Mané Garrincha, Brasília (BRA)
+#   Arena Pantanal, Cuiabá (BRA)
+#   Arena da Baixada, Curitiba (BRA)
+#   Estadio Castelao, Fortaleza (BRA)
+#   Arena Amazonia, Manaus (BRA)
+#   Estadio das Dunas, Natal (BRA)
+#   Estadio Beira-Rio, Porto Alegre (BRA)
+#   Arena Pernambuco, Recife (BRA)
+#   Maracanã, Rio de Janeiro (BRA)
+#   Fonte Nova Arena, Salvador (BRA)
+#   Neo Química Arena, São Paulo (BRA)
+
+
+▪ First stage
+▪▪ Group A
+Thu Jun 12
+  17:00 UTC-3   Brazil  3-1  Croatia   @ Neo Química Arena, São Paulo
+                  (NEYMAR 28', 70'(p), OSCAR 90';
+                   MARCELO 10'(og))
+Fri Jun 13
+  13:00 UTC-3   Mexico  1-0  Cameroon   @ Estadio das Dunas, Natal
+                  (Oribe PERALTA 60')
+Tue Jun 17
+  16:00 UTC-3   Brazil  0-0  Mexico   @ Estadio Castelao, Fortaleza
+Wed Jun 18
+  18:00 UTC-4   Cameroon  0-4  Croatia   @ Arena Amazonia, Manaus
+                  (Ivica OLIC 10', Ivan PERISIC 47', Mario MANDZUKIC 60', 72')
+Mon Jun 23
+  17:00 UTC-3   Croatia  1-3  Mexico   @ Arena Pernambuco, Recife
+                  (Ivan PERISIC 86';
+                   Rafael MARQUEZ 71', Andres GUARDADO 74', Javier HERNANDEZ 81')
+  17:00 UTC-3   Cameroon  1-4  Brazil   @ Estádio Nacional Mané Garrincha, Brasília
+                  (Joel MATIP 25';
+                   NEYMAR 16', 34', Fred 48', FERNANDINHO 83')
+
+▪▪ Group B
+Fri Jun 13
+  16:00 UTC-3   Spain  1-5  Netherlands   @ Fonte Nova Arena, Salvador
+                  (Xabi ALONSO 26'(p);
+                   Robin VAN PERSIE 43', 71', Arjen ROBBEN 52', 79', Stefan de Vrij 64')
+  18:00 UTC-4   Chile  3-1  Australia   @ Arena Pantanal, Cuiabá
+                  (Alexis SANCHEZ 11', Jorge VALDIVIA 13', Jean BEAUSEJOUR 90+1';
+                   Tim CAHILL 34')
+Wed Jun 18
+  13:00 UTC-3   Australia  2-3  Netherlands   @ Estadio Beira-Rio, Porto Alegre
+                  (Tim CAHILL 20', Mile JEDINAK 53'(p);
+                   Arjen ROBBEN 19', Robin VAN PERSIE 57', Memphis Depay 67')
+  16:00 UTC-3   Spain  0-2  Chile   @ Maracanã, Rio de Janeiro
+                  (Eduardo VARGAS 19', Charles ARANGUIZ 42')
+Mon Jun 23
+  13:00 UTC-3   Netherlands  2-0  Chile   @ Neo Química Arena, São Paulo
+                  (Leroy FER 76', Memphis Depay 90+1')
+  13:00 UTC-3   Australia  0-3  Spain   @ Arena da Baixada, Curitiba
+                  (David VILLA 35', Fernando TORRES 68', Juan MATA 81')
+
+▪▪ Group C
+Sat Jun 14
+  13:00 UTC-3   Colombia  3-0  Greece   @ Estadio Mineirao, Belo Horizonte
+                  (Pablo ARMERO 5', Teofilo GUTIERREZ 57', James RODRIGUEZ 90+2')
+  22:00 UTC-3   Côte d'Ivoire  2-1  Japan   @ Arena Pernambuco, Recife
+                  (Wilfried BONY 63', GERVINHO 65';
+                   Keisuke HONDA 15')
+Thu Jun 19
+  13:00 UTC-3   Colombia  2-1  Côte d'Ivoire   @ Estádio Nacional Mané Garrincha, Brasília
+                  (James RODRIGUEZ 63', Juan QUINTERO 69';
+                   GERVINHO 72')
+  19:00 UTC-3   Japan  0-0  Greece   @ Estadio das Dunas, Natal
+Tue Jun 24
+  16:00 UTC-4   Japan  1-4  Colombia   @ Arena Pantanal, Cuiabá
+                  (Shinji OKAZAKI 45';
+                   Juan CUADRADO 16'(p), Jackson MARTINEZ 54', 81', James RODRIGUEZ 89')
+  17:00 UTC-3   Greece  2-1  Côte d'Ivoire   @ Estadio Castelao, Fortaleza
+                  (Andreas Samaris 41', Georgios SAMARAS 90+2'(p);
+                   Wilfried BONY 73')
+
+▪▪ Group D
+Sat Jun 14
+  16:00 UTC-3   Uruguay  1-3  Costa Rica   @ Estadio Castelao, Fortaleza
+                  (Edinson CAVANI 23'(p);
+                   Joel CAMPBELL 53', Oscar DUARTE 57', Marcos URENA 83')
+  18:00 UTC-4   England  1-2  Italy   @ Arena Amazonia, Manaus
+                  (Daniel STURRIDGE 36';
+                   Claudio MARCHISIO 34', Mario BALOTELLI 49')
+Thu Jun 19
+  16:00 UTC-3   Uruguay  2-1  England   @ Neo Química Arena, São Paulo
+                  (Luis SUAREZ 38', 84';
+                   Wayne ROONEY 74')
+Fri Jun 20
+  13:00 UTC-3   Italy  0-1  Costa Rica   @ Arena Pernambuco, Recife
+                  (Bryan RUIZ 43')
+Tue Jun 24
+  13:00 UTC-3   Costa Rica  0-0  England   @ Estadio Mineirao, Belo Horizonte
+  13:00 UTC-3   Italy  0-1  Uruguay   @ Estadio das Dunas, Natal
+                  (Diego GODIN 80')
+
+▪▪ Group E
+Sun Jun 15
+  13:00 UTC-3   Switzerland  2-1  Ecuador   @ Estádio Nacional Mané Garrincha, Brasília
+                  (Admir MEHMEDI 47', Haris SEFEROVIC 90+2';
+                   Enner VALENCIA 21')
+  16:00 UTC-3   France  3-0  Honduras   @ Estadio Beira-Rio, Porto Alegre
+                  (Karim Benzema 44'(p), 71', Noel VALLADARES 47'(og))
+Fri Jun 20
+  16:00 UTC-3   Switzerland  2-5  France   @ Fonte Nova Arena, Salvador
+                  (Blerim DZEMAILI 80', Granit Xhaka 86';
+                   Olivier Giroud 16', Blaise Matuidi 17', Mathieu Valbuena 39', Karim Benzema 66', Moussa Sissoko 72')
+  19:00 UTC-3   Honduras  1-2  Ecuador   @ Arena da Baixada, Curitiba
+                  (Carlo COSTLY 30';
+                   Enner VALENCIA 33', 64')
+Wed Jun 25
+  17:00 UTC-3   Ecuador  0-0  France   @ Maracanã, Rio de Janeiro
+  16:00 UTC-4   Honduras  0-3  Switzerland   @ Arena Amazonia, Manaus
+                  (Xherdan Shaqiri 5', 30', 70')
+
+▪▪ Group F
+Sun Jun 15
+  19:00 UTC-3   Argentina  2-1  Bosnia-Herzegovina   @ Maracanã, Rio de Janeiro
+                  (Sead KOLASINAC 2'(og), Lionel MESSI 64';
+                   Vedad IBISEVIC 84')
+Mon Jun 16
+  16:00 UTC-3   Iran  0-0  Nigeria   @ Arena da Baixada, Curitiba
+Sat Jun 21
+  13:00 UTC-3   Argentina  1-0  Iran   @ Estadio Mineirao, Belo Horizonte
+                  (Lionel MESSI 90')
+  18:00 UTC-4   Nigeria  1-0  Bosnia-Herzegovina   @ Arena Pantanal, Cuiabá
+                  (Peter ODEMWINGIE 28')
+Wed Jun 25
+  13:00 UTC-3   Nigeria  2-3  Argentina   @ Estadio Beira-Rio, Porto Alegre
+                  (Ahmed Musa 3', 46';
+                   Lionel MESSI 2', 45', Marcos ROJO 49')
+  13:00 UTC-3   Bosnia-Herzegovina  3-1  Iran   @ Fonte Nova Arena, Salvador
+                  (Edin DZEKO 22', Miralem PJANIC 58', Avdija VRSAJEVIC 82';
+                   Reza GHOOCHANNEJHAD 81')
+
+▪▪ Group G
+Mon Jun 16
+  13:00 UTC-3   Germany  4-0  Portugal   @ Fonte Nova Arena, Salvador
+                  (MUELLER Thomas 11'(p), 45', 77', Mats Hummels 31')
+  19:00 UTC-3   Ghana  1-2  USA   @ Estadio das Dunas, Natal
+                  (Andre AYEW 81';
+                   Clint DEMPSEY 1', John BROOKS 85')
+Sat Jun 21
+  16:00 UTC-3   Germany  2-2  Ghana   @ Estadio Castelao, Fortaleza
+                  (Mario GOETZE 50', Miroslav KLOSE 70';
+                   Andre AYEW 53', Asamoah GYAN 62')
+Sun Jun 22
+  18:00 UTC-4   USA  2-2  Portugal   @ Arena Amazonia, Manaus
+                  (Jermaine JONES 63', Clint DEMPSEY 80';
+                   NANI 4', VARELA 90+4')
+Thu Jun 26
+  13:00 UTC-3   USA  0-1  Germany   @ Arena Pernambuco, Recife
+                  (MUELLER Thomas 54')
+  13:00 UTC-3   Portugal  2-1  Ghana   @ Estádio Nacional Mané Garrincha, Brasília
+                  (John Boye 30'(og), CRISTIANO RONALDO 79';
+                   Asamoah GYAN 56')
+
+▪▪ Group H
+Tue Jun 17
+  13:00 UTC-3   Belgium  2-1  Algeria   @ Estadio Mineirao, Belo Horizonte
+                  (Marouane FELLAINI 69', Dries Mertens 79';
+                   Sofiane Feghouli 24'(p))
+  18:00 UTC-4   Russia  1-1  South Korea   @ Arena Pantanal, Cuiabá
+                  (Aleksandr KERZHAKOV 73'; LEE Keunho 67')
+Sun Jun 22
+  13:00 UTC-3   Belgium  1-0  Russia   @ Maracanã, Rio de Janeiro
+                  (Divock ORIGI 87')
+  16:00 UTC-3   South Korea  2-4  Algeria   @ Estadio Beira-Rio, Porto Alegre
+                  (SON Heungmin 49', KOO Jacheol 71';
+                   Islam Slimani 25', Rafik HALLICHE 27', Abdelmoumene Djabou 37', BRAHIMI Yacine 61')
+Thu Jun 26
+  17:00 UTC-3   Algeria  1-1  Russia   @ Arena da Baixada, Curitiba
+                  (Islam Slimani 59'; Aleksandr Kokorin 5')
+  17:00 UTC-3   South Korea  0-1  Belgium   @ Neo Química Arena, São Paulo
+                  (Jan VERTONGHEN 77')
+
+▪ Round of 16
+Sat Jun 28
+  13:00 UTC-3   Brazil  1-1 a.e.t., 3-2 pen.  Chile   @ Estadio Mineirao, Belo Horizonte
+                  (DAVID LUIZ 17'; Alexis SANCHEZ 31')
+  17:00 UTC-3   Colombia  2-0  Uruguay   @ Maracanã, Rio de Janeiro
+                  (James RODRIGUEZ 27', 49')
+Sun Jun 29
+  13:00 UTC-3   Netherlands  2-1  Mexico   @ Estadio Castelao, Fortaleza
+                  (Wesley SNEIJDER 87', Klaas Jan HUNTELAAR 90+3'(p);
+                   Giovani DOS SANTOS 47')
+  17:00 UTC-3   Costa Rica  1-1 a.e.t., 5-3 pen.  Greece   @ Arena Pernambuco, Recife
+                  (Bryan RUIZ 51'; Sokratis Papastathopoulos 90')
+Mon Jun 30
+  13:00 UTC-3   France  2-0  Nigeria   @ Estádio Nacional Mané Garrincha, Brasília
+                  (Paul Pogba 78', Joseph YOBO 90+1'(og))
+  17:00 UTC-3   Germany  2-1 a.e.t.  Algeria   @ Estadio Beira-Rio, Porto Alegre
+                  (Andre SCHUERRLE 91', Mesut OEZIL 119';
+                   Abdelmoumene Djabou 120')
+Tue Jul 1
+  13:00 UTC-3   Argentina  1-0 a.e.t.  Switzerland   @ Neo Química Arena, São Paulo
+                  (Angel DI MARIA 117')
+  17:00 UTC-3   Belgium  2-1 a.e.t.  USA   @ Fonte Nova Arena, Salvador
+                  (Kevin De Bruyne 92', Romelu LUKAKU 104';
+                   Julian GREEN 106')
+
+▪ Quarter-final
+Fri Jul 4
+  13:00 UTC-3   France  0-1  Germany   @ Maracanã, Rio de Janeiro
+                  (Mats Hummels 12')
+  17:00 UTC-3   Brazil  2-1  Colombia   @ Estadio Castelao, Fortaleza
+                  (THIAGO SILVA 6', DAVID LUIZ 68';
+                   James RODRIGUEZ 79'(p))
+Sat Jul 5
+  13:00 UTC-3   Argentina  1-0  Belgium   @ Estádio Nacional Mané Garrincha, Brasília
+                  (Gonzalo HIGUAIN 7')
+  17:00 UTC-3   Netherlands  0-0 a.e.t., 4-3 pen.  Costa Rica   @ Fonte Nova Arena, Salvador
+
+▪ Semi-final
+Tue Jul 8
+  17:00 UTC-3   Brazil  1-7  Germany   @ Estadio Mineirao, Belo Horizonte
+                  (OSCAR 89';
+                   MUELLER Thomas 10', Miroslav KLOSE 22', Toni Kroos 24', 25', Sami KHEDIRA 28', Andre SCHUERRLE 68', 78')
+Wed Jul 9
+  17:00 UTC-3   Netherlands  0-0 a.e.t., 2-4 pen.  Argentina   @ Neo Química Arena, São Paulo
+
+▪ Play-off for third place
+Sat Jul 12
+  17:00 UTC-3   Brazil  0-3  Netherlands   @ Estádio Nacional Mané Garrincha, Brasília
+                  (Robin VAN PERSIE 2'(p), Daley Blind 16', Georginio WIJNALDUM 90')
+
+▪ Final
+Sun Jul 13
+  16:00 UTC-3   Germany  1-0 a.e.t.  Argentina   @ Maracanã, Rio de Janeiro
+                  (Mario GOETZE 112')

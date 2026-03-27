@@ -1,0 +1,79 @@
+= World Cup 1934
+
+# Dates    Sun May 27 - Sun Jun 10 1934 (14d)
+# Teams    16
+# Matches  17
+# Venues   8 (in 8 cities)
+#   Littorale, Bologna (ITA)
+#   Giovanni Berta, Florence (ITA)
+#   Estadio Luigi Ferraris, Genoa (ITA)
+#   Stadio Giuseppe Meazza, Milan (ITA)
+#   Giorgio Ascarelli, Naples (ITA)
+#   Nazionale PNF, Rome (ITA)
+#   Littorio, Trieste (ITA)
+#   Stadio Olimpico, Turin (ITA)
+
+
+▪ Preliminary Round
+Sun May 27
+  16:30 UTC+2   Czechoslovakia  2-1  Romania   @ Littorio, Trieste
+                  (Antonin PUC 50', Oldrich NEJEDLY 67';
+                   Stefan DOBAY 11')
+  16:30 UTC+2   Germany  5-2  Belgium   @ Giovanni Berta, Florence
+                  (Stanislaus KOBIERSKI 25', Otto SIFFLING 49', Edmund CONEN 66', 70', 87';
+                   Bernard VOORHOOF 29', 43')
+  16:30 UTC+2   Austria  3-2 a.e.t.  France   @ Stadio Olimpico, Turin
+                  (Matthias SINDELAR 44', Toni SCHALL 93', Josef BICAN 109';
+                   Jean NICOLAS 18', Georges VERRIEST 116'(p))
+  16:30 UTC+2   Switzerland  3-2  Netherlands   @ Stadio Giuseppe Meazza, Milan
+                  (Leopold KIELHOLZ 7', 43', Andre ABEGGLEN 66';
+                   Kick SMIT 29', Leen VENTE 69')
+  16:30 UTC+2   Spain  3-1  Brazil   @ Estadio Luigi Ferraris, Genoa
+                  (IRARAGORRI 18'(p), 25', Isidro LANGARA 29';
+                   LEONIDAS 55')
+  16:30 UTC+2   Sweden  3-2  Argentina   @ Littorale, Bologna
+                  (Sven JONASSON 9', 67', Knut KROON 79';
+                   Ernesto BELIS 4', Alberto GALATEO 48')
+  16:30 UTC+2   Italy  7-1  USA   @ Nazionale PNF, Rome
+                  (Angelo SCHIAVIO 18', 29', 64', Raimundo ORSI 20', 69', Giovanni FERRARI 63', Giuseppe MEAZZA 90';
+                   Aldo DONELLI 57')
+  16:30 UTC+2   Hungary  4-2  Egypt   @ Giorgio Ascarelli, Naples
+                  (Pal TELEKI 11', Geza TOLDI 31', 61', Jeno VINCZE 53';
+                   Abdel Rahman FAWZI 35', 39')
+
+▪ Quarter-final
+Thu May 31
+  16:30 UTC+2   Austria  2-1  Hungary   @ Littorale, Bologna
+                  (Johann HORVATH 8', Karl ZISCHEK 51';
+                   Gyorgy SAROSI 60'(p))
+  16:30 UTC+2   Italy  1-1 a.e.t.  Spain   @ Giovanni Berta, Florence
+                  (Giovanni FERRARI 44'; Luis REGUEIRO 30')
+  16:30 UTC+2   Germany  2-1  Sweden   @ Stadio Giuseppe Meazza, Milan
+                  (Karl HOHMANN 60', 63';
+                   Gosta DUNKER 82')
+  16:30 UTC+2   Czechoslovakia  3-2  Switzerland   @ Stadio Olimpico, Turin
+                  (Frantisek SVOBODA 24', Jiri SOBOTKA 49', Oldrich NEJEDLY 82';
+                   Leopold KIELHOLZ 18', Willy JAEGGI 78')
+Fri Jun 1
+  16:30 UTC+2   Italy  1-0  Spain   @ Giovanni Berta, Florence
+                  (Giuseppe MEAZZA 11')
+
+▪ Semi-final
+Sun Jun 3
+  16:30 UTC+2   Italy  1-0  Austria   @ Stadio Giuseppe Meazza, Milan
+                  (Enrique GUAITA 19')
+  16:30 UTC+2   Czechoslovakia  3-1  Germany   @ Nazionale PNF, Rome
+                  (Oldrich NEJEDLY 21', 69', 80';
+                   Rudolf NOACK 62')
+
+▪ Match for third place
+Thu Jun 7
+  18:00 UTC+2   Germany  3-2  Austria   @ Giorgio Ascarelli, Naples
+                  (Ernest LEHNER 1', 42', Edmund CONEN 27';
+                   Johann HORVATH 28', Karl SESTA 54')
+
+▪ Final
+Sun Jun 10
+  17:30 UTC+2   Italy  2-1 a.e.t.  Czechoslovakia   @ Nazionale PNF, Rome
+                  (Raimundo ORSI 81', Angelo SCHIAVIO 95';
+                   Antonin PUC 71')

@@ -1,0 +1,132 @@
+= World Cup 1962
+
+# Dates    Wed May 30 - Sun Jun 17 1962 (18d)
+# Teams    16
+# Matches  32
+# Venues   4 (in 4 cities)
+#   Carlos Dittborn, Arica (CHI)
+#   Estadio Braden Copper Co., Rancagua (CHI)
+#   Estadio Nacional Julio Martínez Prádanos, Santiago (CHI)
+#   Estadio Sausalito, Viña del Mar (CHI)
+
+
+▪ Group Matches
+▪▪ Group 1
+Wed May 30
+  15:00 UTC-4   Uruguay  2-1  Colombia   @ Carlos Dittborn, Arica
+                  (Luis CUBILLA 56', Jose SASIA 75';
+                   Francisco ZULUAGA 19'(p))
+Thu May 31
+  15:00 UTC-4   Soviet Union  2-0  Yugoslavia   @ Carlos Dittborn, Arica
+                  (Valentin IVANOV 51', Viktor PONEDELNIK 83')
+Sat Jun 2
+  15:00 UTC-4   Yugoslavia  3-1  Uruguay   @ Carlos Dittborn, Arica
+                  (Josip SKOBLAR 25'(p), Milan GALIC 29', Drazen JERKOVIC 49';
+                   Angel Ruben CABRERA 19')
+Sun Jun 3
+  15:00 UTC-4   Soviet Union  4-4  Colombia   @ Carlos Dittborn, Arica
+                  (Valentin IVANOV 8', 11', Igor CHISLENKO 10', Viktor PONEDELNIK 56';
+                   German ACEROS 21', Marcos COLL 68', Antonio RADA 72', Marino KLINGER 76')
+Wed Jun 6
+  15:00 UTC-4   Soviet Union  2-1  Uruguay   @ Carlos Dittborn, Arica
+                  (Aleksei MAMYKIN 38', Valentin IVANOV 89';
+                   Jose SASIA 54')
+Thu Jun 7
+  15:00 UTC-4   Yugoslavia  5-0  Colombia   @ Carlos Dittborn, Arica
+                  (Milan GALIC 20', 61', Drazen JERKOVIC 25', 87', Vojislav MELIC 82')
+
+▪▪ Group 2
+Wed May 30
+  15:00 UTC-4   Chile  3-1  Switzerland   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Leonel SANCHEZ 44', 55', Jaime RAMIREZ 51';
+                   Rolf WUETHRICH 6')
+Thu May 31
+  15:00 UTC-4   West Germany  0-0  Italy   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+Sat Jun 2
+  15:00 UTC-4   Chile  2-0  Italy   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Jaime RAMIREZ 73', Jorge TORO 87')
+Sun Jun 3
+  15:00 UTC-4   West Germany  2-1  Switzerland   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Albert BRUELLS 45', Uwe SEELER 59';
+                   Heinz SCHNEITER 73')
+Wed Jun 6
+  15:00 UTC-4   West Germany  2-0  Chile   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Horst SZYMANIAK 21'(p), Uwe SEELER 82')
+Thu Jun 7
+  15:00 UTC-4   Italy  3-0  Switzerland   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Bruno MORA 2', Giacomo BULGARELLI 65', 67')
+
+▪▪ Group 3
+Wed May 30
+  15:00 UTC-4   Brazil  2-0  Mexico   @ Estadio Sausalito, Viña del Mar
+                  (Mario ZAGALLO 56', PELE 73')
+Thu May 31
+  15:00 UTC-4   Czechoslovakia  1-0  Spain   @ Estadio Sausalito, Viña del Mar
+                  (Josef STIBRANYI 80')
+Sat Jun 2
+  15:00 UTC-4   Brazil  0-0  Czechoslovakia   @ Estadio Sausalito, Viña del Mar
+Sun Jun 3
+  15:00 UTC-4   Spain  1-0  Mexico   @ Estadio Sausalito, Viña del Mar
+                  (Joaquin PEIRO 90')
+Wed Jun 6
+  15:00 UTC-4   Brazil  2-1  Spain   @ Estadio Sausalito, Viña del Mar
+                  (AMARILDO 72', 86';
+                   ADELARDO 35')
+Thu Jun 7
+  15:00 UTC-4   Mexico  3-1  Czechoslovakia   @ Estadio Sausalito, Viña del Mar
+                  (Isidoro DIAZ 12', Alfredo DEL AGUILA 29', Hector HERNANDEZ 90'(p);
+                   Vaclav MASEK 1')
+
+▪▪ Group 4
+Wed May 30
+  15:00 UTC-4   Argentina  1-0  Bulgaria   @ Estadio Braden Copper Co., Rancagua
+                  (Hector FACUNDO 4')
+Thu May 31
+  15:00 UTC-4   Hungary  2-1  England   @ Estadio Braden Copper Co., Rancagua
+                  (Lajos TICHY 17', Florian ALBERT 71';
+                   Ron FLOWERS 60'(p))
+Sat Jun 2
+  15:00 UTC-4   England  3-1  Argentina   @ Estadio Braden Copper Co., Rancagua
+                  (Ron FLOWERS 17'(p), Bobby CHARLTON 42', Jimmy GREAVES 67';
+                   Jose SANFILIPPO 81')
+Sun Jun 3
+  15:00 UTC-4   Hungary  6-1  Bulgaria   @ Estadio Braden Copper Co., Rancagua
+                  (Florian ALBERT 1', 6', 53', Lajos TICHY 8', 70', Erno SOLYMOSI 12';
+                   Georgi SOKOLOV 64')
+Wed Jun 6
+  15:00 UTC-4   Hungary  0-0  Argentina   @ Estadio Braden Copper Co., Rancagua
+Thu Jun 7
+  15:00 UTC-4   England  0-0  Bulgaria   @ Estadio Braden Copper Co., Rancagua
+
+▪ Quarter-final
+Sun Jun 10
+  14:30 UTC-4   Chile  2-1  Soviet Union   @ Carlos Dittborn, Arica
+                  (Leonel SANCHEZ 11', Eladio ROJAS 29';
+                   Igor CHISLENKO 26')
+  14:30 UTC-4   Czechoslovakia  1-0  Hungary   @ Estadio Braden Copper Co., Rancagua
+                  (Adolf SCHERER 13')
+  14:30 UTC-4   Yugoslavia  1-0  West Germany   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Petar RADAKOVIC 85')
+  14:30 UTC-4   Brazil  3-1  England   @ Estadio Sausalito, Viña del Mar
+                  (GARRINCHA 31', 59', VAVA 53';
+                   Gerry HITCHENS 38')
+
+▪ Semi-final
+Wed Jun 13
+  14:30 UTC-4   Czechoslovakia  3-1  Yugoslavia   @ Estadio Sausalito, Viña del Mar
+                  (Josef KADRABA 48', Adolf SCHERER 80', 84'(p);
+                   Drazen JERKOVIC 69')
+  14:30 UTC-4   Brazil  4-2  Chile   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (GARRINCHA 9', 32', VAVA 47', 78';
+                   Jorge TORO 42', Leonel SANCHEZ 61'(p))
+
+▪ Match for third place
+Sat Jun 16
+  14:30 UTC-4   Chile  1-0  Yugoslavia   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (Eladio ROJAS 90')
+
+▪ Final
+Sun Jun 17
+  14:30 UTC-4   Brazil  3-1  Czechoslovakia   @ Estadio Nacional Julio Martínez Prádanos, Santiago
+                  (AMARILDO 17', ZITO 69', VAVA 78';
+                   Josef MASOPUST 15')

@@ -1,0 +1,222 @@
+= World Cup 1982
+
+# Dates    Sun Jun 13 - Sun Jul 11 1982 (28d)
+# Teams    24
+# Matches  52
+# Venues   17 (in 14 cities)
+#   Estadio Municipal de Riazor, A Coruña (ESP)
+#   Estadio José Rico Pérez, Alicante (ESP)
+#   Sarria, Barcelona (ESP)
+#   Camp Nou, Barcelona (ESP)
+#   San Mames, Bilbao (ESP)
+#   Nuevo Estadio, Elche (ESP)
+#   El Molinon, Gijón (ESP)
+#   Vicente Calderon, Madrid (ESP)
+#   Santiago Bernabeu, Madrid (ESP)
+#   Estadio La Rosaleda, Málaga (ESP)
+#   Carlos Tartiere, Oviedo (ESP)
+#   Ramon Sanchez Pizjuan, Seville (ESP)
+#   Estadio Benito Villamarin, Seville (ESP)
+#   Luis Casanova, Valencia (ESP)
+#   Jose Zorrilla, Valladolid (ESP)
+#   Estadio Municipal de Balaídos, Vigo (ESP)
+#   La Romareda, Zaragoza (ESP)
+
+
+▪ Group Matches
+▪▪ Group 1
+Mon Jun 14
+  17:15 UTC+2   Italy  0-0  Poland   @ Estadio Municipal de Balaídos, Vigo
+Tue Jun 15
+  17:15 UTC+2   Peru  0-0  Cameroon   @ Estadio Municipal de Riazor, A Coruña
+Fri Jun 18
+  17:15 UTC+2   Italy  1-1  Peru   @ Estadio Municipal de Balaídos, Vigo
+                  (Bruno CONTI 18'; Ruben DIAZ 83')
+Sat Jun 19
+  19:15 UTC+2   Poland  0-0  Cameroon   @ Estadio Municipal de Riazor, A Coruña
+Tue Jun 22
+  17:15 UTC+2   Poland  5-1  Peru   @ Estadio Municipal de Riazor, A Coruña
+                  (Wlodimierz SMOLAREK 55', Grzegorz LATO 58', Zbigniew BONIEK 61', Andrzej BUNCOL 68', Wlodzimierz CIOLEK 76';
+                   Guillermo LA ROSA 83')
+Wed Jun 23
+  17:15 UTC+2   Italy  1-1  Cameroon   @ Estadio Municipal de Balaídos, Vigo
+                  (Francesco GRAZIANI 60'; Gregoire MBIDA 61')
+
+▪▪ Group 2
+Wed Jun 16
+  17:15 UTC+2   West Germany  1-2  Algeria   @ El Molinon, Gijón
+                  (Karl-Heinz RUMMENIGGE 67';
+                   Rabah MADJER 54', Lakhdar BELLOUMI 68')
+Thu Jun 17
+  17:15 UTC+2   Chile  0-1  Austria   @ Carlos Tartiere, Oviedo
+                  (Walter SCHACHNER 22')
+Sun Jun 20
+  17:15 UTC+2   West Germany  4-1  Chile   @ El Molinon, Gijón
+                  (Karl-Heinz RUMMENIGGE 9', 57', 66', Uwe REINDERS 83';
+                   Gustavo MOSCOSO 90')
+Mon Jun 21
+  17:15 UTC+2   Algeria  0-2  Austria   @ Carlos Tartiere, Oviedo
+                  (Walter SCHACHNER 55', Hans KRANKL 67')
+Thu Jun 24
+  17:15 UTC+2   Algeria  3-2  Chile   @ Carlos Tartiere, Oviedo
+                  (Salah ASSAD 7', 31', Tedj BENSAOULA 35';
+                   Miguel NEIRA 59'(p), Juan LETELIER 73')
+Fri Jun 25
+  17:15 UTC+2   West Germany  1-0  Austria   @ El Molinon, Gijón
+                  (Horst HRUBESCH 10')
+
+▪▪ Group 3
+Sun Jun 13
+  20:00 UTC+2   Argentina  0-1  Belgium   @ Camp Nou, Barcelona
+                  (Erwin VANDENBERGH 62')
+Tue Jun 15
+  21:00 UTC+2   Hungary  10-1  El Salvador   @ Nuevo Estadio, Elche
+                  (Tibor NYILASI 4', 83', Gabor POLOSKEI 11', Laszlo FAZEKAS 23', 54', Jozsef TOTH 50', Laszlo KISS 69', 72', 76', Lazar SZENTES 70';
+                   Luis RAMIREZ 64')
+Fri Jun 18
+  21:00 UTC+2   Argentina  4-1  Hungary   @ Estadio José Rico Pérez, Alicante
+                  (Daniel BERTONI 26', Diego MARADONA 28', 57', Osvaldo ARDILES 60';
+                   Gabor POLOSKEI 76')
+Sat Jun 19
+  21:00 UTC+2   Belgium  1-0  El Salvador   @ Nuevo Estadio, Elche
+                  (Ludo COECK 19')
+Tue Jun 22
+  21:00 UTC+2   Belgium  1-1  Hungary   @ Nuevo Estadio, Elche
+                  (Alex CZERNIATYNSKI 76'; Jozsef VARGA 27')
+Wed Jun 23
+  21:00 UTC+2   Argentina  2-0  El Salvador   @ Estadio José Rico Pérez, Alicante
+                  (Daniel PASSARELLA 22'(p), Daniel BERTONI 54')
+
+▪▪ Group 4
+Wed Jun 16
+  17:15 UTC+2   England  3-1  France   @ San Mames, Bilbao
+                  (Bryan ROBSON 1', 67', Paul MARINER 83';
+                   Gerard SOLER 24')
+Thu Jun 17
+  17:45 UTC+2   Czechoslovakia  1-1  Kuwait   @ Jose Zorrilla, Valladolid
+                  (Antonin PANENKA 21'(p); Faisal AL DAKHIL 57')
+Sun Jun 20
+  17:15 UTC+2   England  2-0  Czechoslovakia   @ San Mames, Bilbao
+                  (Trevor FRANCIS 62', Jozef BARMOS 66'(og))
+Mon Jun 21
+  17:15 UTC+2   France  4-1  Kuwait   @ Jose Zorrilla, Valladolid
+                  (Bernard GENGHINI 31', Michel PLATINI 43', Didier SIX 48', Maxime BOSSIS 89';
+                   Abdulaziz AL BALUSHI 75')
+Thu Jun 24
+  17:15 UTC+2   France  1-1  Czechoslovakia   @ Jose Zorrilla, Valladolid
+                  (Didier SIX 66'; Antonin PANENKA 84'(p))
+Fri Jun 25
+  17:15 UTC+2   England  1-0  Kuwait   @ San Mames, Bilbao
+                  (Trevor FRANCIS 27')
+
+▪▪ Group 5
+Wed Jun 16
+  21:00 UTC+2   Spain  1-1  Honduras   @ Luis Casanova, Valencia
+                  (LOPEZ UFARTE 65'(p); Hector ZELAYA 7')
+Thu Jun 17
+  21:00 UTC+2   Yugoslavia  0-0  Northern Ireland   @ La Romareda, Zaragoza
+Sun Jun 20
+  21:00 UTC+2   Spain  2-1  Yugoslavia   @ Luis Casanova, Valencia
+                  (JUANITO 14'(p), Enrique SAURA 66';
+                   Ivan GUDELJ 10')
+Mon Jun 21
+  21:00 UTC+2   Honduras  1-1  Northern Ireland   @ La Romareda, Zaragoza
+                  (Eduardo LAING 60'; Gerry ARMSTRONG 9')
+Thu Jun 24
+  21:00 UTC+2   Honduras  0-1  Yugoslavia   @ La Romareda, Zaragoza
+                  (Vladimir PETROVIC 88'(p))
+Fri Jun 25
+  21:00 UTC+2   Northern Ireland  1-0  Spain   @ Luis Casanova, Valencia
+                  (Gerry ARMSTRONG 47')
+
+▪▪ Group 6
+Mon Jun 14
+  21:00 UTC+2   Brazil  2-1  Soviet Union   @ Ramon Sanchez Pizjuan, Seville
+                  (SOCRATES 75', EDER 88';
+                   Andrei BAL 34')
+Tue Jun 15
+  21:00 UTC+2   Scotland  5-2  New Zealand   @ Estadio La Rosaleda, Málaga
+                  (Kenny DALGLISH 18', John WARK 29', 32', John ROBERTSON 73', Steve ARCHIBALD 79';
+                   Steve SUMNER 54', Steve WOODDIN 64')
+Fri Jun 18
+  21:00 UTC+2   Brazil  4-1  Scotland   @ Estadio Benito Villamarin, Seville
+                  (ZICO 33', OSCAR 48', EDER 63', FALCAO 87';
+                   David NAREY 18')
+Sat Jun 19
+  21:00 UTC+2   Soviet Union  3-0  New Zealand   @ Estadio La Rosaleda, Málaga
+                  (Yuri GAVRILOV 24', Oleg BLOKHIN 48', Sergei BALTACHA 68')
+Tue Jun 22
+  21:00 UTC+2   Soviet Union  2-2  Scotland   @ Estadio La Rosaleda, Málaga
+                  (Aleksandre CHIVADZE 59', Ramaz SHENGELIA 84';
+                   Joe JORDAN 15', Graeme SOUNESS 86')
+Wed Jun 23
+  21:00 UTC+2   Brazil  4-0  New Zealand   @ Estadio Benito Villamarin, Seville
+                  (ZICO 28', 31', FALCAO 64', SERGINHO 70')
+
+▪ Second Round
+▪▪ Group A
+Mon Jun 28
+  21:00 UTC+2   Poland  3-0  Belgium   @ Camp Nou, Barcelona
+                  (Zbigniew BONIEK 4', 26', 53')
+Thu Jul 1
+  21:00 UTC+2   Belgium  0-1  Soviet Union   @ Camp Nou, Barcelona
+                  (Khoren OGANESIAN 48')
+Sun Jul 4
+  21:00 UTC+2   Poland  0-0  Soviet Union   @ Camp Nou, Barcelona
+
+▪▪ Group B
+Tue Jun 29
+  21:00 UTC+2   West Germany  0-0  England   @ Santiago Bernabeu, Madrid
+Fri Jul 2
+  21:00 UTC+2   West Germany  2-1  Spain   @ Santiago Bernabeu, Madrid
+                  (Pierre LITTBARSKI 50', Klaus FISCHER 75';
+                   Jesus ZAMORA 82')
+Mon Jul 5
+  21:00 UTC+2   Spain  0-0  England   @ Santiago Bernabeu, Madrid
+
+▪▪ Group C
+Tue Jun 29
+  17:15 UTC+2   Italy  2-1  Argentina   @ Sarria, Barcelona
+                  (Marco TARDELLI 57', Antonio CABRINI 67';
+                   Daniel PASSARELLA 83')
+Fri Jul 2
+  17:15 UTC+2   Argentina  1-3  Brazil   @ Sarria, Barcelona
+                  (Ramon DIAZ 89';
+                   ZICO 11', SERGINHO 66', JUNIOR 75')
+Mon Jul 5
+  17:15 UTC+2   Italy  3-2  Brazil   @ Sarria, Barcelona
+                  (Paolo ROSSI 5', 25', 74';
+                   SOCRATES 12', FALCAO 68')
+
+▪▪ Group D
+Mon Jun 28
+  17:15 UTC+2   Austria  0-1  France   @ Vicente Calderon, Madrid
+                  (Bernard GENGHINI 39')
+Thu Jul 1
+  17:15 UTC+2   Austria  2-2  Northern Ireland   @ Vicente Calderon, Madrid
+                  (Bruno PEZZEY 50', Reinhold HINTERMAIER 68';
+                   Billy HAMILTON 27', 75')
+Sun Jul 4
+  17:15 UTC+2   France  4-1  Northern Ireland   @ Vicente Calderon, Madrid
+                  (Alain GIRESSE 33', 80', Dominique ROCHETEAU 46', 68';
+                   Gerry ARMSTRONG 75')
+
+▪ Semi-final
+Thu Jul 8
+  17:15 UTC+2   Poland  0-2  Italy   @ Camp Nou, Barcelona
+                  (Paolo ROSSI 22', 73')
+  21:00 UTC+2   West Germany  3-3 a.e.t., 5-4 pen.  France   @ Ramon Sanchez Pizjuan, Seville
+                  (Pierre LITTBARSKI 17', Karl-Heinz RUMMENIGGE 102', Klaus FISCHER 108';
+                   Michel PLATINI 26'(p), Marius TRESOR 92', Alain GIRESSE 98')
+
+▪ Match for third place
+Sat Jul 10
+  20:00 UTC+2   Poland  3-2  France   @ Estadio José Rico Pérez, Alicante
+                  (Andrzej SZARMACH 40', Stefan MAJEWSKI 44', Janusz KUPCEWICZ 46';
+                   Rene GIRARD 13', Alain COURIOL 72')
+
+▪ Final
+Sun Jul 11
+  20:00 UTC+2   Italy  3-1  West Germany   @ Santiago Bernabeu, Madrid
+                  (Paolo ROSSI 57', Marco TARDELLI 69', Alessandro ALTOBELLI 81';
+                   Paul BREITNER 83')
