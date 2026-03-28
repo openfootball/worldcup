@@ -1,0 +1,577 @@
+= World Cup 1974
+
+# Dates    Thu Jun 13 - Sun Jul 7 1974 (24d)
+# Teams    16
+# Matches  38
+# Venues   9 (in 9 cities)
+#   Olympiastadion, Berlin West (FRG)
+#   Westfalenstadion, Dortmund (FRG)
+#   Rheinstadion, Düsseldorf (FRG)
+#   Waldstadion, Frankfurt (FRG)
+#   Parkstadion, Gelsenkirchen (FRG)
+#   Volksparkstadion, Hamburg (FRG)
+#   Niedersachsenstadion, Hanover (FRG)
+#   Olympiastadion, Munich (FRG)
+#   Neckarstadion, Stuttgart (FRG)
+
+▪ Group Matches
+▪▪ Group 1
+Fri Jun 14 16:00 UTC+2 @ Olympiastadion, Berlin West
+  West Germany v Chile  1-0
+     (Paul BREITNER 18')
+
+West Germany: Sepp MAIER - Berti VOGTS, Paul BREITNER, Hans Georg SCHWARZENBECK, Franz BECKENBAUER [c],
+      Bernd CULLMANN - Wolfgang OVERATH (75' Bernd HOELZENBEIN), Uli HOENESS -
+      Juergen GRABOWSKI, Jupp HEYNCKES, Gerd MUELLER
+Chile: Leopoldo VALLEJOS - Rolando GARCIA [Y 59'], Alberto QUINTANO, Antonio ARIAS,
+      Elias FIGUEROA, Juan RODRIGUEZ (83' Alfonso LARA) - Francisco VALDES [c] (76' Leonardo VELIZ),
+      Carlos REINOSO [Y 47'], Guillermo PAEZ - Carlos CASZELY [Y 13'] [R 67'],
+      Sergio AHUMADA
+
+Refs: Dogan BABACAN (TUR), John TAYLOR (ENG), Werner WINSEMANN (CAN)
+
+
+Fri Jun 14 19:30 UTC+2 @ Volksparkstadion, Hamburg
+  East Germany v Australia  2-0
+     (Colin CURRAN 58'(og), Joachim STREICH 72')
+
+East Germany: Juergen CROY - Bernd BRANSCH [c], Konrad WEISE, Siegmar WAETZLICH [Y 32'],
+      Gerd KISCHE [Y 61'] - Juergen POMMERENKE, Juergen SPARWASSER, Harald IRMSCHER -
+      Wolfram LOEWE (55' Martin HOFFMANN), Joachim STREICH, Eberhard VOGEL [Y 58']
+Australia: Jack REILLY - Doug UTJESENOVIC, Peter WILSON [c], Manfred SCHAEFER, Colin CURRAN -
+      Ray RICHARDS, Jimmy ROONEY, Jimmy MACKAY, John WARREN - Adrian ALSTON,
+      Branko BULJEVIC
+
+Refs: Youssou NDIAYE (SEN), Pablo SANCHEZ IBANEZ (ESP), Omar DELGADO (COL)
+
+
+Tue Jun 18 16:00 UTC+2 @ Volksparkstadion, Hamburg
+  Australia v West Germany  0-3
+     (Wolfgang OVERATH 12', Bernd CULLMANN 34', Gerd MUELLER 53')
+
+Australia: Jack REILLY - Doug UTJESENOVIC, Peter WILSON [c], Manfred SCHAEFER, Colin CURRAN -
+      Ray RICHARDS, Jimmy ROONEY, Jimmy MACKAY [Y 56'] - Adrian ALSTON, Ernie CAMPBELL (45+1' Attila ABONYI),
+      Branko BULJEVIC (61' Peter OLLERTON)
+West Germany: Sepp MAIER - Berti VOGTS, Paul BREITNER, Hans Georg SCHWARZENBECK, Franz BECKENBAUER [c],
+      Bernd CULLMANN (67' Herbert WIMMER) - Wolfgang OVERATH, Uli HOENESS -
+      Juergen GRABOWSKI, Jupp HEYNCKES (45+1' Bernd HOELZENBEIN), Gerd MUELLER
+
+Refs: Mahmoud KAMEL (EGY), Alfonso GONZALEZ ARCHUNDIA (MEX), Edison A. PEREZ NUNEZ (PER)
+
+
+Tue Jun 18 19:30 UTC+2 @ Olympiastadion, Berlin West
+  Chile v East Germany  1-1
+     (Sergio AHUMADA 69'; Martin HOFFMANN 55')
+
+Chile: Leopoldo VALLEJOS - Rolando GARCIA, Alberto QUINTANO, Antonio ARIAS,
+      Elias FIGUEROA - Francisco VALDES [c] (45+1' Guillermo YAVAR), Carlos REINOSO,
+      Guillermo PAEZ [Y 60'], Jorge SOCIAS (67' Rogelio FARIAS) - Sergio AHUMADA,
+      Leonardo VELIZ [Y 56']
+East Germany: Juergen CROY - Bernd BRANSCH [c], Konrad WEISE, Siegmar WAETZLICH, Gerd KISCHE [Y 65'] -
+      Juergen SPARWASSER, Harald IRMSCHER, Wolfgang SEGUIN (29' Peter DUCKE) -
+      Joachim STREICH, Eberhard VOGEL (72' Hans-Juergen KREISCHE), Martin HOFFMANN
+
+Refs: Aurelio ANGONESE (ITA), Ruedi SCHEURER (SUI), Bob DAVIDSON (SCO)
+
+
+Sat Jun 22 16:00 UTC+2 @ Olympiastadion, Berlin West
+  Australia v Chile  0-0
+
+Australia: Jack REILLY - Doug UTJESENOVIC, Peter WILSON [c], Manfred SCHAEFER, Colin CURRAN (82' Harry WILLIAMS) -
+      Ray RICHARDS [Y 37'] [R 83'], Jimmy ROONEY, Jimmy MACKAY - Attila ABONYI,
+      Adrian ALSTON (65' Peter OLLERTON), Branko BULJEVIC
+Chile: Leopoldo VALLEJOS - Rolando GARCIA, Alberto QUINTANO, Antonio ARIAS,
+      Elias FIGUEROA - Francisco VALDES [c] (57' Rogelio FARIAS), Carlos REINOSO,
+      Guillermo PAEZ - Carlos CASZELY, Sergio AHUMADA, Leonardo VELIZ (72' Guillermo YAVAR)
+
+Refs: Jafar NAMDAR (IRN), Vital LORAUX (BEL), Arie VAN GEMERT (NED)
+
+
+Sat Jun 22 19:30 UTC+2 @ Volksparkstadion, Hamburg
+  East Germany v West Germany  1-0
+     (Juergen SPARWASSER 77')
+
+East Germany: Juergen CROY [Y 81'] - Lothar KURBJUWEIT, Bernd BRANSCH [c], Konrad WEISE,
+      Siegmar WAETZLICH, Gerd KISCHE - Hans-Juergen KREISCHE [Y 84'], Reinhard LAUCK,
+      Juergen SPARWASSER [Y 27'], Harald IRMSCHER (65' Erich HAMANN) - Martin HOFFMANN
+West Germany: Sepp MAIER - Berti VOGTS, Paul BREITNER, Hans Georg SCHWARZENBECK (68' Horst-Dieter HOETTGES),
+      Franz BECKENBAUER [c], Bernd CULLMANN - Wolfgang OVERATH (69' Guenter NETZER),
+      Uli HOENESS, Heinz FLOHE - Juergen GRABOWSKI, Gerd MUELLER
+
+Refs: Ramon BARRETO RUIZ (URU), Armando MARQUES (BRA), Luis PESTARINO (ARG)
+
+
+▪▪ Group 2
+Thu Jun 13 17:00 UTC+2 @ Waldstadion, Frankfurt
+  Brazil v Yugoslavia  0-0
+
+Brazil: LEAO - LUIS PEREIRA, MARINHO PERES, WILSON PIAZZA [c], MARINHO CHAGAS,
+      NELINHO - RIVELLINO, PAULO CESAR - JAIRZINHO, LEIVINHA, VALDOMIRO
+Yugoslavia: Enver MARIC - Ivan BULJAN, Enver HADZIABDIC, Drazen MUZINIC, Josip KATALINSKI,
+      Vladislav BOGICEVIC - Ilija PETKOVIC, Branko OBLAK [Y 17'], Jovan ACIMOVIC [Y 49'] -
+      Ivica SURJAK, Dragan DZAJIC [c]
+
+Refs: Ruedi SCHEURER (SUI), Vital LORAUX (BEL), Luis PESTARINO (ARG)
+
+
+Fri Jun 14 19:30 UTC+2 @ Westfalenstadion, Dortmund
+  Zaire v Scotland  0-2
+     (Peter LORIMER 26', Joe JORDAN 34')
+
+Zaire: Kazadi MUAMBA - Muepu ILUNGA, Mwanza Nel MUKOMBO, Buanga TSHIMEN, Lobilo BOBA -
+      Kilasu MASSAMBA, Mana MAMBUENE, Kidumu MANTANTU [c] [Y 40'] (78' Kibonge MAFU),
+      Ndaye MULAMBA - Mayanga MAKU (64' Kembo Uba KEMBO), Kakoko ETEPE
+Scotland: David HARVEY - Sandy JARDINE, Danny McGRAIN, James HOLTON [Y 48'], John BLACKLEY -
+      Billy BREMNER [c], Davie HAY - Kenny DALGLISH (75' Tommy HUTCHISON),
+      Joe JORDAN, Peter LORIMER, Denis LAW
+
+Refs: Gerhard SCHULENBURG (GER), Tony BOSKOVIC (AUS), Hans Joachim WEYLAND (FRG)
+
+
+Tue Jun 18 19:30 UTC+2 @ Waldstadion, Frankfurt
+  Scotland v Brazil  0-0
+
+Scotland: David HARVEY - Sandy JARDINE, Danny McGRAIN, James HOLTON, Martin BUCHAN -
+      Billy BREMNER [c], Davie HAY - Kenny DALGLISH, Joe JORDAN, Peter LORIMER,
+      Willie MORGAN
+Brazil: LEAO - LUIS PEREIRA, MARINHO PERES [Y 87'], WILSON PIAZZA [c], MARINHO CHAGAS [Y 81'],
+      NELINHO - RIVELLINO [Y 35'], PAULO CESAR - JAIRZINHO, LEIVINHA (65' CARPEGIANI),
+      MIRANDINHA
+
+Refs: Arie VAN GEMERT (NED), Karoly PALOTAI (HUN), Erich LINEMAYR (AUT)
+
+
+Tue Jun 18 19:30 UTC+2 @ Parkstadion, Gelsenkirchen
+  Yugoslavia v Zaire  9-0
+     (Dusan BAJEVIC 8', 30', 81', Dragan DZAJIC 14', Ivica SURJAK 18', Josip KATALINSKI 22', Vladislav BOGICEVIC 35', Branko OBLAK 61', Ilija PETKOVIC 65')
+
+Yugoslavia: Enver MARIC - Ivan BULJAN, Enver HADZIABDIC [Y 55'], Josip KATALINSKI,
+      Vladislav BOGICEVIC - Ilija PETKOVIC, Branko OBLAK, Jovan ACIMOVIC -
+      Ivica SURJAK, Dragan DZAJIC [c], Dusan BAJEVIC
+Zaire: Kazadi MUAMBA (21' Tubilandu NDIMBI) - Muepu ILUNGA, Mwanza Nel MUKOMBO,
+      Buanga TSHIMEN, Lobilo BOBA - Kilasu MASSAMBA, Mana MAMBUENE, Kembo Uba KEMBO,
+      Kidumu MANTANTU [c], Ndaye MULAMBA [R 23'] - Kakoko ETEPE (45+1' Mayanga MAKU)
+
+Refs: Omar DELGADO (COL), Vicente LLOBREGAT (VEN), Ramon BARRETO RUIZ (URU)
+
+
+Sat Jun 22 16:00 UTC+2 @ Waldstadion, Frankfurt
+  Scotland v Yugoslavia  1-1
+     (Joe JORDAN 88'; Stanislav KARASI 81')
+
+Scotland: David HARVEY - Sandy JARDINE, Danny McGRAIN, James HOLTON, Martin BUCHAN -
+      Billy BREMNER [c], Davie HAY [Y 70'] - Kenny DALGLISH (65' Tommy HUTCHISON),
+      Joe JORDAN [Y 60'], Peter LORIMER, Willie MORGAN
+Yugoslavia: Enver MARIC - Ivan BULJAN, Enver HADZIABDIC, Josip KATALINSKI [Y 55'],
+      Vladislav BOGICEVIC - Ilija PETKOVIC, Branko OBLAK [Y 24'], Jovan ACIMOVIC -
+      Ivica SURJAK, Dragan DZAJIC [c], Dusan BAJEVIC [Y 70'] (70' Stanislav KARASI)
+
+Refs: Alfonso GONZALEZ ARCHUNDIA (MEX), Kurt TSCHENSCHER (GER)
+
+
+Sat Jun 22 16:00 UTC+2 @ Parkstadion, Gelsenkirchen
+  Zaire v Brazil  0-3
+     (JAIRZINHO 12', RIVELLINO 66', VALDOMIRO 79')
+
+Zaire: Kazadi MUAMBA - Muepu ILUNGA [Y 78'], Mwanza Nel MUKOMBO, Buanga TSHIMEN,
+      Lobilo BOBA - Tshinabu WA MUNDA (61' Kilasu MASSAMBA), Mana MAMBUENE,
+      Kidumu MANTANTU [c] (62' Kembo Uba KEMBO), Kibonge MAFU - Mayanga MAKU,
+      Ntumba KALALA
+Brazil: LEAO - LUIS PEREIRA, MARINHO PERES, WILSON PIAZZA [c] (59' MIRANDINHA [Y 77']),
+      MARINHO CHAGAS, NELINHO - RIVELLINO, CARPEGIANI - JAIRZINHO, LEIVINHA (10' VALDOMIRO),
+      EDU
+
+Refs: Nicolae RAINEA (ROU), Aurelio ANGONESE (ITA), Klaus OHMSEN (GER)
+
+
+▪▪ Group 3
+Sat Jun 15 16:00 UTC+2 @ Rheinstadion, Düsseldorf
+  Sweden v Bulgaria  0-0
+
+Sweden: Ronnie HELLSTROM - Jan OLSSON, Kent KARLSSON, Bjorn ANDERSSON - Ove GRAHN,
+      Bo LARSSON [c], Ove KINDVALL (73' Benno MAGNUSSON), Staffan TAPPER -
+      Conny TORSTENSSON, Ralf EDSTROM, Roland SANDBERG
+Bulgaria: Rumen GORANOV - Stefan VELICHKOV, Dimitar PENEV, Asparukh NIKODIMOV,
+      Tsonyo VASILEV, Kiril IVKOV - Bozhil KOLEV, Hristo BONEV [c] - Voin VOINOV (75' Atanas MIKHAILOV),
+      Georgi DENEV, Pavel PANOV (73' Mladen VASILEV)
+
+Refs: Edison A. PEREZ NUNEZ (PER), Alfonso GONZALEZ ARCHUNDIA (MEX), George SUPPIAH (SGP)
+
+
+Sat Jun 15 16:00 UTC+2 @ Niedersachsenstadion, Hanover
+  Uruguay v Netherlands  0-2
+     (Johnny REP 7', 86')
+
+Uruguay: Ladislao MAZURKIEWICZ - Baudilio JAUREGUI, Juan MASNIK [c] [Y 65'], Pablo FORLAN [Y 50'],
+      Julio MONTERO [R 69'], Ricardo PAVONI - Luis CUBILLA (64' Denis MILAR),
+      Victor ESPARRAGO, Pedro ROCHA, Walter MANTEGAZZA [Y 25'] - Fernando MORENA
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER - Arie HAAN,
+      Wim VAN HANEGEM, Wim JANSEN, Johan NEESKENS - Johan CRUYFF [c], Rob RENSENBRINK,
+      Johnny REP
+
+Refs: Karoly PALOTAI (HUN), Pavel KAZAKOV (URS), Nicolae RAINEA (ROU)
+
+
+Wed Jun 19 19:30 UTC+2 @ Westfalenstadion, Dortmund
+  Netherlands v Sweden  0-0
+
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER - Arie HAAN,
+      Wim VAN HANEGEM (73' Theo DE JONG), Wim JANSEN, Johan NEESKENS - Piet KEIZER,
+      Johan CRUYFF [c], Johnny REP [Y 16']
+Sweden: Ronnie HELLSTROM - Jan OLSSON (75' Roland GRIP), Kent KARLSSON, Bjorn NORDQVIST [Y 36'],
+      Bjorn ANDERSSON [Y 74'] - Ove GRAHN [Y 86'], Bo LARSSON [c], Staffan TAPPER (61' Orjan PERSSON [Y 68']),
+      Inge EJDERSTEDT - Ralf EDSTROM, Roland SANDBERG
+
+Refs: Werner WINSEMANN (CAN), Kurt TSCHENSCHER (GER), Clive THOMAS (WAL)
+
+
+Wed Jun 19 19:30 UTC+2 @ Niedersachsenstadion, Hanover
+  Bulgaria v Uruguay  1-1
+     (Hristo BONEV 75'; Ricardo PAVONI 87')
+
+Bulgaria: Rumen GORANOV - Stefan VELICHKOV, Dimitar PENEV, Asparukh NIKODIMOV (59' Atanas MIKHAILOV),
+      Tsonyo VASILEV [Y 9'], Kiril IVKOV - Bozhil KOLEV, Hristo BONEV [c] -
+      Voin VOINOV, Georgi DENEV, Pavel PANOV
+Uruguay: Ladislao MAZURKIEWICZ [c] - Baudilio JAUREGUI, Pablo FORLAN, Ricardo PAVONI,
+      Luis GARISTO (73' Juan MASNIK) - Victor ESPARRAGO [Y 44'], Pedro ROCHA,
+      Walter MANTEGAZZA (62' Alberto CARDACCIO) - Fernando MORENA, Ruben CORBO,
+      Denis MILAR
+
+Refs: John TAYLOR (ENG), Dogan BABACAN (TUR), Klaus OHMSEN (GER)
+
+
+Sun Jun 23 16:00 UTC+2 @ Westfalenstadion, Dortmund
+  Bulgaria v Netherlands  1-4
+     (Ruud KROL 78'(og);
+      Johan NEESKENS 5'(p), 45'(p), Johnny REP 71', Theo DE JONG 88')
+
+Bulgaria: Stefan STAIKOV - Stefan VELICHKOV, Dimitar PENEV, Tsonyo VASILEV, Kiril IVKOV -
+      Bozhil KOLEV, Hristo BONEV [c], Ivan STOYANOV (45+1' Atanas MIKHAILOV) -
+      Voin VOINOV, Georgi DENEV [Y 67'], Pavel PANOV (55' Krasimir BORISOV)
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER - Arie HAAN,
+      Wim VAN HANEGEM [Y 22'] (45+1' Rinus ISRAEL), Wim JANSEN [Y 5'], Johan NEESKENS (79' Theo DE JONG) -
+      Johan CRUYFF [c] [Y 29'], Rob RENSENBRINK, Johnny REP
+
+Refs: Tony BOSKOVIC (AUS), Ferdinand BIWERSI (GER), Walter ESCHWEILER (GER)
+
+
+Sun Jun 23 16:00 UTC+2 @ Rheinstadion, Düsseldorf
+  Sweden v Uruguay  3-0
+     (Ralf EDSTROM 46', 77', Roland SANDBERG 74')
+
+Sweden: Ronnie HELLSTROM - Kent KARLSSON, Bjorn NORDQVIST, Bjorn ANDERSSON, Roland GRIP -
+      Ove GRAHN, Bo LARSSON [c], Ove KINDVALL (76' Conny TORSTENSSON) - Ralf EDSTROM,
+      Roland SANDBERG, Benno MAGNUSSON (60' Thomas AHLSTROM)
+Uruguay: Ladislao MAZURKIEWICZ [c] - Baudilio JAUREGUI [Y 21'], Pablo FORLAN,
+      Ricardo PAVONI, Luis GARISTO (45+1' Juan MASNIK) - Victor ESPARRAGO,
+      Pedro ROCHA, Walter MANTEGAZZA - Fernando MORENA, Ruben CORBO (43' Luis CUBILLA),
+      Denis MILAR
+
+Refs: Erich LINEMAYR (AUT), Vicente LLOBREGAT (VEN), Heinz ALDINGER (GER)
+
+
+▪▪ Group 4
+Sat Jun 15 18:00 UTC+2 @ Olympiastadion, Munich
+  Italy v Haiti  3-1
+     (Gianni RIVERA 52', Romeo BENETTI 66', Pietro ANASTASI 79';
+      Emmanuel SANON 46')
+
+Italy: Dino ZOFF - Luciano SPINOSI, Giacinto FACCHETTI [c], Francesco MORINI,
+      Tarcisio BURGNICH - Romeo BENETTI, Sandro MAZZOLA, Fabio CAPELLO, Gianni RIVERA -
+      Giorgio CHINAGLIA (70' Pietro ANASTASI), Gigi RIVA
+Haiti: Henry FRANCILLON - Arsene AUGUSTE, Pierre BAYONNE [Y 65'], Ernst JEAN-JOSEPH,
+      Wilner NAZAIRE [c] - Philippe VORBE, Jean Claude DESIR, Eddy ANTOINE,
+      Guy FRANCOIS - Guy SAINT-VIL (45+1' Claude BARTHELEMY), Emmanuel SANON
+
+Refs: Vicente LLOBREGAT (VEN), Jafar NAMDAR (IRN), Armando MARQUES (BRA)
+
+
+Sat Jun 15 18:00 UTC+2 @ Neckarstadion, Stuttgart
+  Poland v Argentina  3-2
+     (Grzegorz LATO 7', 62', Andrzej SZARMACH 8';
+      Ramon HEREDIA 60', Carlos BABINGTON 66')
+
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL - Kazimierz DEYNA [c], Henryk KASPERCZAK, Zygmunt MASZCZYK -
+      Grzegorz LATO, Andrzej SZARMACH (70' Jan DOMARSKI), Robert GADOCHA (85' Leslaw CMIKIEWICZ)
+Argentina: Daniel CARNEVALI - Angel BARGAS (67' Roberto TELCH), Ramon HEREDIA, Roberto PERFUMO [c] [Y 21'],
+      Francisco SA, Enrique WOLFF - Miguel BRINDISI (45' Rene HOUSEMAN) - Ruben AYALA,
+      Carlos BABINGTON [Y 47'], Agustin BALBUENA, Mario KEMPES
+
+Refs: Clive THOMAS (WAL), Heinz ALDINGER (GER), Bob DAVIDSON (SCO)
+
+
+Wed Jun 19 19:30 UTC+2 @ Neckarstadion, Stuttgart
+  Argentina v Italy  1-1
+     (Rene HOUSEMAN 19'; Roberto PERFUMO 35'(og))
+
+Argentina: Daniel CARNEVALI - Ramon HEREDIA, Roberto PERFUMO [c], Francisco SA,
+      Enrique WOLFF (60' Ruben GLARIA) - Roberto TELCH - Ruben AYALA, Carlos BABINGTON [Y 54'],
+      Rene HOUSEMAN, Mario KEMPES, Hector YAZALDE (78' Enrique CHAZARRETA)
+Italy: Dino ZOFF - Luciano SPINOSI, Giacinto FACCHETTI [c], Francesco MORINI (66' Franco CAUSIO),
+      Tarcisio BURGNICH - Romeo BENETTI [Y 48'], Sandro MAZZOLA, Fabio CAPELLO,
+      Gianni RIVERA (66' Giuseppe WILSON) - Gigi RIVA, Pietro ANASTASI
+
+Refs: Pavel KAZAKOV (URS), Nicolae RAINEA (ROU)
+
+
+Wed Jun 19 19:30 UTC+2 @ Olympiastadion, Munich
+  Haiti v Poland  0-7
+     (Grzegorz LATO 17', 87', Kazimierz DEYNA 18', Andrzej SZARMACH 30', 34', 50', Jerzy GORGON 31')
+
+Haiti: Henry FRANCILLON - Arsene AUGUSTE, Fritz ANDRE (37' Claude BARTHELEMY),
+      Pierre BAYONNE [Y 79'], Wilner NAZAIRE [c] - Philippe VORBE, Jean Claude DESIR,
+      Eddy ANTOINE, Guy FRANCOIS - Roger SAINT-VIL (45+1' Serge RACINE), Emmanuel SANON
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL (71' Zbigniew GUT) - Kazimierz DEYNA [c], Henryk KASPERCZAK,
+      Zygmunt MASZCZYK (65' Leslaw CMIKIEWICZ) - Grzegorz LATO, Andrzej SZARMACH,
+      Robert GADOCHA
+
+Refs: George SUPPIAH (SGP), Ferdinand BIWERSI (GER), Walter ESCHWEILER (GER)
+
+
+Sun Jun 23 16:00 UTC+2 @ Neckarstadion, Stuttgart
+  Poland v Italy  2-1
+     (Andrzej SZARMACH 38', Kazimierz DEYNA 44';
+      Fabio CAPELLO 85')
+
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL [Y 84'] - Kazimierz DEYNA [c], Henryk KASPERCZAK [Y 25'],
+      Zygmunt MASZCZYK - Grzegorz LATO, Andrzej SZARMACH (78' Leslaw CMIKIEWICZ),
+      Robert GADOCHA
+Italy: Dino ZOFF - Luciano SPINOSI, Giacinto FACCHETTI [c], Francesco MORINI,
+      Tarcisio BURGNICH (33' Giuseppe WILSON) - Romeo BENETTI, Sandro MAZZOLA,
+      Fabio CAPELLO, Franco CAUSIO - Giorgio CHINAGLIA (45+1' Roberto BONINSEGNA [Y 71']),
+      Pietro ANASTASI
+
+Refs: Hans Joachim WEYLAND (FRG), Werner WINSEMANN (CAN), Gerhard SCHULENBURG (GER)
+
+
+Sun Jun 23 16:00 UTC+2 @ Olympiastadion, Munich
+  Argentina v Haiti  4-1
+     (Hector YAZALDE 15', 68', Rene HOUSEMAN 18', Ruben AYALA 55';
+      Emmanuel SANON 63')
+
+Argentina: Daniel CARNEVALI - Ramon HEREDIA [Y 60'], Roberto PERFUMO [c], Francisco SA,
+      Enrique WOLFF - Roberto TELCH - Ruben AYALA, Carlos BABINGTON [Y 26'],
+      Rene HOUSEMAN (57' Miguel BRINDISI), Mario KEMPES (52' Agustin BALBUENA),
+      Hector YAZALDE
+Haiti: Henry FRANCILLON - Serge DUCOSTE, Pierre BAYONNE, Wilner NAZAIRE [c] (25' Joseph-Marion LEANDRE),
+      Wilfred LOUIS - Philippe VORBE, Jean Claude DESIR, Eddy ANTOINE, Serge RACINE -
+      Guy SAINT-VIL (52' Fritz LEANDRE [Y 60']), Emmanuel SANON
+
+Refs: Pablo SANCHEZ IBANEZ (ESP), Mahmoud KAMEL (EGY), Birame NDIAYE (SEN)
+
+
+▪ Second Round
+▪▪ Group A
+Wed Jun 26 19:30 UTC+2 @ Niedersachsenstadion, Hanover
+  Brazil v East Germany  1-0
+     (RIVELLINO 60')
+
+Brazil: LEAO - LUIS PEREIRA, MARINHO PERES [c], ZE MARIA, MARINHO CHAGAS - RIVELLINO,
+      PAULO CESAR, CARPEGIANI [Y 28'], DIRCEU [Y 75'] - JAIRZINHO [Y 27'],
+      VALDOMIRO
+East Germany: Juergen CROY - Lothar KURBJUWEIT, Bernd BRANSCH [c], Konrad WEISE, Siegmar WAETZLICH,
+      Gerd KISCHE - Reinhard LAUCK (64' Wolfram LOEWE), Juergen SPARWASSER,
+      Erich HAMANN [Y 11'] (45+1' Harald IRMSCHER) - Joachim STREICH [Y 84'],
+      Martin HOFFMANN
+
+Refs: Clive THOMAS (WAL), Dogan BABACAN (TUR), Tony BOSKOVIC (AUS)
+
+
+Wed Jun 26 19:30 UTC+2 @ Parkstadion, Gelsenkirchen
+  Netherlands v Argentina  4-0
+     (Johan CRUYFF 10', 90', Ruud KROL 25', Johnny REP 73')
+
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER [Y 58'] (84' Rinus ISRAEL) -
+      Arie HAAN, Wim VAN HANEGEM, Wim JANSEN, Johan NEESKENS [Y 22'] - Johan CRUYFF [c],
+      Rob RENSENBRINK, Johnny REP
+Argentina: Daniel CARNEVALI - Ramon HEREDIA, Roberto PERFUMO [c] [Y 35'], Francisco SA,
+      Carlos SQUEO, Enrique WOLFF (45+1' Mario KEMPES) - Roberto TELCH - Ruben AYALA,
+      Agustin BALBUENA, Rene HOUSEMAN, Hector YAZALDE
+
+Refs: Bob DAVIDSON (SCO), Kurt TSCHENSCHER (GER), Pavel KAZAKOV (URS)
+
+
+Sun Jun 30 16:00 UTC+2 @ Parkstadion, Gelsenkirchen
+  East Germany v Netherlands  0-2
+     (Johan NEESKENS 7', Rob RENSENBRINK 59')
+
+East Germany: Juergen CROY - Lothar KURBJUWEIT, Bernd BRANSCH [c], Konrad WEISE, Gerd KISCHE -
+      Ruediger SCHNUPHASE, Juergen POMMERENKE, Reinhard LAUCK (64' Hans-Juergen KREISCHE),
+      Juergen SPARWASSER - Wolfram LOEWE (54' Peter DUCKE), Martin HOFFMANN
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER - Arie HAAN,
+      Wim VAN HANEGEM, Wim JANSEN, Johan NEESKENS - Johan CRUYFF [c], Rob RENSENBRINK,
+      Johnny REP
+
+Refs: Ruedi SCHEURER (SUI), Erich LINEMAYR (AUT), Omar DELGADO (COL)
+
+
+Sun Jun 30 16:00 UTC+2 @ Niedersachsenstadion, Hanover
+  Argentina v Brazil  1-2
+     (Miguel BRINDISI 35';
+      RIVELLINO 32', JAIRZINHO 49')
+
+Argentina: Daniel CARNEVALI - Angel BARGAS, Ruben GLARIA, Ramon HEREDIA, Francisco SA (45+1' Rene HOUSEMAN [Y 72']),
+      Carlos SQUEO - Miguel BRINDISI [c] - Ruben AYALA, Carlos BABINGTON, Agustin BALBUENA,
+      Mario KEMPES (45+1' Jorge CARRASCOSA)
+Brazil: LEAO - LUIS PEREIRA, MARINHO PERES [c], ZE MARIA, MARINHO CHAGAS - RIVELLINO,
+      PAULO CESAR, CARPEGIANI, DIRCEU - JAIRZINHO, VALDOMIRO
+
+Refs: Vital LORAUX (BEL), Birame NDIAYE (SEN), John TAYLOR (ENG)
+
+
+Wed Jul 3 19:30 UTC+2 @ Parkstadion, Gelsenkirchen
+  Argentina v East Germany  1-1
+     (Rene HOUSEMAN 20'; Joachim STREICH 14')
+
+Argentina: Ubaldo FILLOL - Angel BARGAS [Y 68'], Jorge CARRASCOSA, Ramon HEREDIA,
+      Enrique WOLFF [c] - Miguel BRINDISI, Roberto TELCH - Ruben AYALA, Carlos BABINGTON,
+      Rene HOUSEMAN, Mario KEMPES
+East Germany: Juergen CROY - Lothar KURBJUWEIT, Bernd BRANSCH [c], Konrad WEISE, Gerd KISCHE -
+      Ruediger SCHNUPHASE, Juergen POMMERENKE, Juergen SPARWASSER [Y 23'] -
+      Wolfram LOEWE (65' Eberhard VOGEL), Joachim STREICH (80' Peter DUCKE),
+      Martin HOFFMANN
+
+Refs: John TAYLOR (ENG), Mahmoud KAMEL (EGY), Clive THOMAS (WAL)
+
+
+Wed Jul 3 19:30 UTC+2 @ Westfalenstadion, Dortmund
+  Netherlands v Brazil  2-0
+     (Johan NEESKENS 50', Johan CRUYFF 65')
+
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN, Wim SUURBIER [Y 30'] - Arie HAAN,
+      Wim VAN HANEGEM, Wim JANSEN, Johan NEESKENS (85' Rinus ISRAEL) - Johan CRUYFF [c],
+      Rob RENSENBRINK (67' Theo DE JONG), Johnny REP [Y 69']
+Brazil: LEAO - LUIS PEREIRA [Y 29'] [R 84'], MARINHO PERES [c] [Y 44'], ZE MARIA [Y 37'],
+      MARINHO CHAGAS - RIVELLINO, PAULO CESAR (61' MIRANDINHA), CARPEGIANI,
+      DIRCEU - JAIRZINHO, VALDOMIRO
+
+Refs: Kurt TSCHENSCHER (GER), Bob DAVIDSON (SCO), George SUPPIAH (SGP)
+
+
+▪▪ Group B
+Wed Jun 26 16:00 UTC+2 @ Rheinstadion, Düsseldorf
+  Yugoslavia v West Germany  0-2
+     (Paul BREITNER 39', Gerd MUELLER 82')
+
+Yugoslavia: Enver MARIC - Ivan BULJAN [Y 36'], Enver HADZIABDIC [Y 61'], Drazen MUZINIC,
+      Josip KATALINSKI - Branko OBLAK (84' Jurica JERKOVIC), Jovan ACIMOVIC -
+      Ivica SURJAK, Dragan DZAJIC [c] (84' Ilija PETKOVIC), Danilo POPIVODA,
+      Stanislav KARASI
+West Germany: Sepp MAIER - Berti VOGTS [Y 35'], Paul BREITNER, Hans Georg SCHWARZENBECK,
+      Franz BECKENBAUER [c] - Herbert WIMMER (73' Uli HOENESS), Wolfgang OVERATH [Y 16'],
+      Rainer BONHOF - Gerd MUELLER, Bernd HOELZENBEIN (78' Heinz FLOHE), Dieter HERZOG
+
+Refs: Armando MARQUES (BRA), Aurelio ANGONESE (ITA), Edison A. PEREZ NUNEZ (PER)
+
+
+Wed Jun 26 19:30 UTC+2 @ Neckarstadion, Stuttgart
+  Sweden v Poland  0-1
+     (Grzegorz LATO 43')
+
+Sweden: Ronnie HELLSTROM - Kent KARLSSON, Bjorn NORDQVIST, Bjorn ANDERSSON (60' Jorgen AUGUSTSSON),
+      Roland GRIP - Ove GRAHN, Bo LARSSON [c], Staffan TAPPER (80' Thomas AHLSTROM) -
+      Conny TORSTENSSON, Ralf EDSTROM, Roland SANDBERG
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Zbigniew GUT, Jerzy GORGON [Y 49'],
+      Wladyslaw ZMUDA - Kazimierz DEYNA [c], Henryk KASPERCZAK, Zygmunt MASZCZYK -
+      Grzegorz LATO, Andrzej SZARMACH [Y 44'] (60' Kazimierz KMIECIK), Robert GADOCHA
+
+Refs: Ramon BARRETO RUIZ (URU), Alfonso GONZALEZ ARCHUNDIA (MEX), Luis PESTARINO (ARG)
+
+
+Sun Jun 30 16:00 UTC+2 @ Waldstadion, Frankfurt
+  Poland v Yugoslavia  2-1
+     (Kazimierz DEYNA 24'(p), Grzegorz LATO 62';
+      Stanislav KARASI 43')
+
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL - Kazimierz DEYNA [c] (80' Jan DOMARSKI), Henryk KASPERCZAK,
+      Zygmunt MASZCZYK - Grzegorz LATO, Andrzej SZARMACH (57' Leslaw CMIKIEWICZ),
+      Robert GADOCHA
+Yugoslavia: Enver MARIC - Ivan BULJAN, Enver HADZIABDIC, Josip KATALINSKI, Vladislav BOGICEVIC -
+      Ilija PETKOVIC (81' Vladimir PETROVIC), Branko OBLAK (16' Jurica JERKOVIC),
+      Jovan ACIMOVIC [c] - Ivica SURJAK, Stanislav KARASI, Dusan BAJEVIC
+
+Refs: Armando MARQUES (BRA), Werner WINSEMANN (CAN)
+
+
+Sun Jun 30 19:30 UTC+2 @ Rheinstadion, Düsseldorf
+  West Germany v Sweden  4-2
+     (Wolfgang OVERATH 51', Rainer BONHOF 52', Juergen GRABOWSKI 76', Uli HOENESS 89'(p);
+      Ralf EDSTROM 24', Roland SANDBERG 53')
+
+West Germany: Sepp MAIER - Berti VOGTS, Paul BREITNER, Hans Georg SCHWARZENBECK, Franz BECKENBAUER [c] -
+      Wolfgang OVERATH, Uli HOENESS, Rainer BONHOF - Gerd MUELLER, Bernd HOELZENBEIN (83' Heinz FLOHE),
+      Dieter HERZOG (64' Juergen GRABOWSKI)
+Sweden: Ronnie HELLSTROM - Jan OLSSON, Kent KARLSSON, Bjorn NORDQVIST, Jorgen AUGUSTSSON -
+      Ove GRAHN [Y 45'], Bo LARSSON [c] (32' Inge EJDERSTEDT), Staffan TAPPER -
+      Conny TORSTENSSON, Ralf EDSTROM, Roland SANDBERG
+
+Refs: Pavel KAZAKOV (URS), Nicolae RAINEA (ROU), Pablo SANCHEZ IBANEZ (ESP)
+
+
+Wed Jul 3 17:00 UTC+2 @ Waldstadion, Frankfurt
+  Poland v West Germany  0-1
+     (Gerd MUELLER 76')
+
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL - Kazimierz DEYNA [c], Henryk KASPERCZAK (80' Kazimierz KMIECIK),
+      Zygmunt MASZCZYK (80' Leslaw CMIKIEWICZ) - Grzegorz LATO, Robert GADOCHA,
+      Jan DOMARSKI
+West Germany: Sepp MAIER - Berti VOGTS, Paul BREITNER, Hans Georg SCHWARZENBECK, Franz BECKENBAUER [c] -
+      Wolfgang OVERATH, Uli HOENESS, Rainer BONHOF - Juergen GRABOWSKI, Gerd MUELLER,
+      Bernd HOELZENBEIN
+
+Refs: Erich LINEMAYR (AUT), Karoly PALOTAI (HUN), Ruedi SCHEURER (SUI)
+
+
+Wed Jul 3 19:30 UTC+2 @ Rheinstadion, Düsseldorf
+  Sweden v Yugoslavia  2-1
+     (Ralf EDSTROM 29', Conny TORSTENSSON 85';
+      Ivica SURJAK 27')
+
+Sweden: Ronnie HELLSTROM - Jan OLSSON, Kent KARLSSON, Bjorn NORDQVIST [c], Jorgen AUGUSTSSON -
+      Ove GRAHN, Staffan TAPPER, Orjan PERSSON - Conny TORSTENSSON, Ralf EDSTROM,
+      Roland SANDBERG
+Yugoslavia: Enver MARIC - Ivan BULJAN, Enver HADZIABDIC, Josip KATALINSKI [Y 71'],
+      Vladislav BOGICEVIC - Jovan ACIMOVIC, Jurica JERKOVIC, Miroslav PAVLOVIC (78' Luka PERUZOVIC),
+      Vladimir PETROVIC (70' Stanislav KARASI [Y 81']) - Ivica SURJAK, Dragan DZAJIC [c]
+
+Refs: Luis PESTARINO (ARG), Ramon BARRETO RUIZ (URU), Vicente LLOBREGAT (VEN)
+
+
+▪ Match for third place
+Sat Jul 6 16:00 UTC+2 @ Olympiastadion, Munich
+  Brazil v Poland  0-1
+     (Grzegorz LATO 76')
+
+Brazil: LEAO - MARINHO PERES [c], ZE MARIA, MARINHO CHAGAS, ALFREDO - RIVELLINO,
+      CARPEGIANI, ADEMIR DA GUIA (66' MIRANDINHA), DIRCEU - JAIRZINHO [Y 76'],
+      VALDOMIRO
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Adam MUSIAL - Kazimierz DEYNA [c], Henryk KASPERCZAK [Y 71'] (73' Leslaw CMIKIEWICZ),
+      Zygmunt MASZCZYK - Grzegorz LATO, Andrzej SZARMACH (75' Zdzislaw KAPKA),
+      Robert GADOCHA
+
+Refs: Aurelio ANGONESE (ITA), Jafar NAMDAR (IRN), Birame NDIAYE (SEN)
+
+
+▪ Final
+Sun Jul 7 16:00 UTC+2 @ Olympiastadion, Munich
+  Netherlands v West Germany  1-2
+     (Johan NEESKENS 2'(p);
+      Paul BREITNER 25'(p), Gerd MUELLER 43')
+
+Netherlands: Jan JONGBLOED - Ruud KROL, Wim RIJSBERGEN (68' Theo DE JONG), Wim SUURBIER -
+      Arie HAAN, Wim VAN HANEGEM [Y 22'], Wim JANSEN, Johan NEESKENS [Y 39'] -
+      Johan CRUYFF [c] [Y 45'], Rob RENSENBRINK (45+1' Rene VAN DE KERKHOF),
+      Johnny REP
+West Germany: Sepp MAIER - Berti VOGTS [Y 3'], Paul BREITNER, Hans Georg SCHWARZENBECK,
+      Franz BECKENBAUER [c] - Wolfgang OVERATH, Uli HOENESS, Rainer BONHOF -
+      Juergen GRABOWSKI, Gerd MUELLER, Bernd HOELZENBEIN
+
+Refs: John TAYLOR (ENG), Alfonso GONZALEZ ARCHUNDIA (MEX), Ramon BARRETO RUIZ (URU)
+
+

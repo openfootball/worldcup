@@ -1,0 +1,281 @@
+= World Cup 1938
+
+# Dates    Sat Jun 4 - Sun Jun 19 1938 (15d)
+# Teams    15
+# Matches  18
+# Venues   10 (in 10 cities)
+#   Fort Carree, Antibes (FRA)
+#   Stade de Bordeaux, Bordeaux (FRA)
+#   Cavee Verte, Le Havre (FRA)
+#   Victor Boucquey, Lille (FRA)
+#   Stade Vélodrome, Marseille (FRA)
+#   Parc des Princes, Paris (FRA)
+#   Stade Olympique, Paris (Colombes) (FRA)
+#   Velodrome Municipale, Reims (FRA)
+#   Stade de la Meinau, Strasbourg (FRA)
+#   Stade de Toulouse, Toulouse (FRA)
+
+▪ 1st Round
+Sat Jun 4 17:00 UTC+2 @ Parc des Princes, Paris
+  Switzerland v Germany  1-1 a.e.t.
+     (Andre ABEGGLEN 43'; Josef GAUCHEL 29')
+
+Switzerland: Willy HUBER - August LEHMANN, Severino MINELLI [c] - Ernst LOERTSCHER,
+      Hermann SPRINGER, Sirio VERNATI - Andre ABEGGLEN, Georges AEBY, Lauro AMADO,
+      Fredy BICKEL, Eugen WALASCHEK
+Germany: Rudolf RAFTL - Paul JANES, Willibald SCHMAUS - Albin KITZINGER, Andreas KUPFER,
+      Hans MOCK [c] - Josef GAUCHEL, Rudolf GELLESCH, Wilhelm HAHNEMANN, Ernest LEHNER,
+      Hans PESSER [R 96']
+
+Refs: Jean LANGENUS (BEL), Paul MARENCO (FRA), Johannes VAN MOORSEL (NED)
+
+
+Sun Jun 5 17:00 UTC+2 @ Velodrome Municipale, Reims
+  Hungary v Dutch East Indies  6-0
+     (Vilmos KOHUT 13', Geza TOLDI 15', Gyorgy SAROSI 28', 89', Gyula ZSENGELLER 35', 76')
+
+Hungary: Jozsef HADA - Sandor BIRO, Lajos KORANYI - Gyula LAZAR, Istvan BALOGH,
+      Jozsef TURAY - Gyorgy SAROSI [c], Gyula ZSENGELLER, Vilmos KOHUT, Ferenc SAS,
+      Geza TOLDI
+Dutch East Indies: Mo Heng TAN - Frans HUKON, Tjaak PATTIWAEL, Jack SAMUELS - Anwar SUTAN,
+      Frans MEENG [c], Achmad NAWIR - Hans TAIHUTTU, Hong Djien TAN, Suvarte SOEDARMADJI,
+      Henk SOMMERS
+
+Refs: Roger CONRIE (FRA), Charles DE LA SALLE (FRA), Karl WEINGARTNER (AUT)
+
+
+Sun Jun 5 17:00 UTC+2 @ Stade Olympique, Paris (Colombes)
+  France v Belgium  3-1
+     (Emile VEINANTE 1', Jean NICOLAS 16', 69';
+      Henri ISEMBORGHS 38')
+
+France: Laurent DI LORTO - Hector CAZENAVE, Raoul DIAGNE, Etienne MATTLER [c] -
+      Auguste JORDAN, Jean BASTIEN, Edmond DELFOUR, Oscar HEISSERER, Emile VEINANTE -
+      Alfred ASTON, Jean NICOLAS
+Belgium: Arnold BADJOU - Robert PAVERICK, Corneel SEYS - Alphonse DE WINTER, Emile STIJNEN [c],
+      John VAN ALPHEN - Raymond BRAINE, Fernand BUYLE, Henri ISEMBORGHS, Charles VANDEWOUWER,
+      Bernard VOORHOOF
+
+Refs: Hans WUETHRICH (SUI), Gustav KRIST (TCH), Alfred  BIRLEM (GER)
+
+
+Sun Jun 5 17:00 UTC+2 @ Stade Vélodrome, Marseille
+  Italy v Norway  2-1 a.e.t.
+     (Pietro FERRARIS 2', Silvio PIOLA 94';
+      Arne BRUSTAD 83')
+
+Italy: Aldo OLIVIERI - Eraldo MONZEGLIO, Pietro RAVA - Michele ANDREOLO, Giovanni FERRARI,
+      Ugo LOCATELLI, Pietro SERANTONI - Pietro FERRARIS, Giuseppe MEAZZA [c],
+      Silvio PIOLA, Piero PASINATI
+Norway: Henry JOHANSEN - Oivind HOLMSEN, Rolf JOHANNESEN - Nils ERIKSEN [c],
+      Kristian HENRIKSEN, Rolf HOLMBERG - Arne BRUSTAD, Knut BRYNILDSEN, Odd FRANTZEN,
+      Magnar ISAKSEN, Reidar KVAMMEN
+
+Refs: Alois BERANEK (AUT), D. BOUTOURE (FRA), D. TREHOU (FRA)
+
+
+Sun Jun 5 17:00 UTC+2 @ Stade de Toulouse, Toulouse
+  Cuba v Romania  3-3 a.e.t.
+     (Hector SOCORRO 44', 103', Jose MAGRINA 69';
+      Silviu BINDEA 35', Iuliu BARATKY 88', Stefan DOBAY 105')
+
+Cuba: Benito CARVAJALES - Jacinto BARQUIN, Manuel CHORENS - Joaquin ARIAS,
+      Pedro BERGES, Tomas FERNANDEZ [c], Jose RODRIGUEZ - Hector SOCORRO, Mario SOSA,
+      Juan TUNAS, Jose MAGRINA
+Romania: Dumitru PAVLOVICI - Rudolf BUERGER, Vasile CHIROIU - Vintila COSSINI,
+      Gheorghe RASINARU, Ladislau RAFFINSKY - Iuliu BARATKY, Silviu BINDEA,
+      Iuliu BODOLA, Stefan DOBAY, Nicolae KOVACS [c]
+
+Refs: Giuseppe SCARPI (ITA), Ferdinand VALPREDE (FRA), Jean MERKCX (FRA)
+
+
+Sun Jun 5 17:30 UTC+2 @ Stade de la Meinau, Strasbourg
+  Brazil v Poland  6-5 a.e.t.
+     (LEONIDAS 18', 93', 104', ROMEU 25', PERACIO 44', 71';
+      Fryedryk SZERFKE 23'(p), Ernest WILIMOWSKI 53', 59', 89', 118')
+
+Brazil: BATATAIS - DOMINGOS DA GUIA, MACHADO - MARTIM [c], AFONSINHO, ZEZE PROCOPIO -
+      HERCULES, LOPES, PERACIO, LEONIDAS, ROMEU
+Poland: Edward MADEJSKI - Antoni GALECKI, Wladyslaw SZSZEPANIAK [c] - Ewald DYTKO,
+      Wilhelm GORA, Erwin NYC - Ernest WILIMOWSKI, Ryszard PIEC, Leonard PIONTEK,
+      Fryedryk SZERFKE, Gerard WODARZ
+
+Refs: Ivan EKLIND (SWE), Louis POISSANT (FRA), Ernest KISSENBERGER (FRA)
+
+
+Sun Jun 5 18:30 UTC+2 @ Cavee Verte, Le Havre
+  Czechoslovakia v Netherlands  3-0 a.e.t.
+     (Josef KOSTALEK 93', Josef ZEMAN 111', Oldrich NEJEDLY 118')
+
+Czechoslovakia: Frantisek PLANICKA [c] - Jaroslav BURGR, Ferdinand DAUCIK - Jaroslav BOUCEK,
+      Vlastimil KOPECKY, Josef KOSTALEK - Oldrich NEJEDLY, Jan RIHA, Oldrich RULC,
+      Ladislav SIMUNEK, Josef ZEMAN
+Netherlands: Adriaan VAN MALE - Bertus CALDENHOVE, Mauk WEBER - Puck VAN HEEL [c],
+      Willem ANDERIESEN, Bas PAAUWE - Kick SMIT, Bertus DE HARDER, Frans VAN DER VEEN,
+      Leen VENTE, Frank WELS
+
+Refs: Lucien LECLERCQ (FRA), D. OLIVE (FRA), Victor SDEZ (FRA)
+
+
+Thu Jun 9 18:00 UTC+2 @ Stade de Toulouse, Toulouse
+  Cuba v Romania  2-1
+     (Hector SOCORRO 51', Tomas FERNANDEZ 57';
+      Stefan DOBAY 35')
+
+Cuba: Juan AYRA - Jacinto BARQUIN, Manuel CHORENS - Joaquin ARIAS, Pedro BERGES,
+      Tomas FERNANDEZ [c], Jose RODRIGUEZ - Hector SOCORRO, Mario SOSA, Juan TUNAS,
+      Jose MAGRINA
+Romania: Robert SADOWSKY - Rudolf BUERGER, Iacob FELECAN - Andrei BARBULESCU,
+      Gheorghe RASINARU, Ladislau RAFFINSKY - Iuliu BARATKY, Ionica BOGDAN,
+      Stefan DOBAY [c], Ioachim MOLDOVEANU, Iuliu PRASSLER
+
+Refs: Alfred  BIRLEM (GER), Pierre CAPDEVILLE (FRA), Paul MARENCO (FRA)
+
+
+Thu Jun 9 18:00 UTC+2 @ Parc des Princes, Paris
+  Switzerland v Germany  4-2
+     (Eugen WALASCHEK 42', Fredy BICKEL 64', Andre ABEGGLEN 75', 78';
+      Wilhelm HAHNEMANN 8', Ernst LOERTSCHER 22'(og))
+
+Switzerland: Willy HUBER - August LEHMANN, Severino MINELLI [c] - Ernst LOERTSCHER,
+      Hermann SPRINGER, Sirio VERNATI - Andre ABEGGLEN, Georges AEBY, Lauro AMADO,
+      Fredy BICKEL, Eugen WALASCHEK
+Germany: Rudolf RAFTL - Paul JANES, Jakob STREITLE - Ludwig GOLDBRUNNER, Andreas KUPFER,
+      Stefan SKOUMAL - Wilhelm HAHNEMANN, Ernest LEHNER, Leopold NEUMER, Josef STROH,
+      Fritz SZEPAN [c]
+
+Refs: Ivan EKLIND (SWE), Louis BAERT (BEL), Johannes VAN MOORSEL (NED)
+
+
+▪ Quarter-final
+Sun Jun 12 17:00 UTC+2 @ Victor Boucquey, Lille
+  Hungary v Switzerland  2-0
+     (Gyorgy SAROSI 40', Gyula ZSENGELLER 89')
+
+Hungary: Antal SZABO - Sandor BIRO, Lajos KORANYI - Gyula LAZAR, Antal SZALAY,
+      Jozsef TURAY - Gyorgy SAROSI [c], Gyula ZSENGELLER, Vilmos KOHUT, Ferenc SAS,
+      Jeno VINCZE
+Switzerland: Willy HUBER - August LEHMANN, Adolf STELZER - Ernst LOERTSCHER, Hermann SPRINGER,
+      Sirio VERNATI - Andre ABEGGLEN [c], Lauro AMADO, Fredy BICKEL, Tullio GRASSI,
+      Eugen WALASCHEK
+
+Refs: Rinaldo BARLASSINA (ITA), Alois BERANEK (AUT), D. BOUTOURE (FRA)
+
+
+Sun Jun 12 17:00 UTC+2 @ Stade Olympique, Paris (Colombes)
+  Italy v France  3-1
+     (Gino COLAUSSI 9', Silvio PIOLA 51', 72';
+      Oscar HEISSERER 10')
+
+Italy: Aldo OLIVIERI - Pietro RAVA, Alfredo FONI - Michele ANDREOLO, Giovanni FERRARI,
+      Ugo LOCATELLI, Pietro SERANTONI - Amedeo BIAVATI, Gino COLAUSSI, Giuseppe MEAZZA [c],
+      Silvio PIOLA
+France: Laurent DI LORTO - Hector CAZENAVE, Raoul DIAGNE, Etienne MATTLER [c] -
+      Auguste JORDAN, Jean BASTIEN, Edmond DELFOUR, Oscar HEISSERER, Emile VEINANTE -
+      Alfred ASTON, Jean NICOLAS
+
+Refs: Louis BAERT (BEL), Hans WUETHRICH (SUI), Ivan EKLIND (SWE)
+
+
+Sun Jun 12 17:00 UTC+2 @ Stade de Bordeaux, Bordeaux
+  Brazil v Czechoslovakia  1-1 a.e.t.
+     (LEONIDAS 30'; Oldrich NEJEDLY 65'(p))
+
+Brazil: WALTER GOULART - DOMINGOS DA GUIA, MACHADO [R 89'] - MARTIM [c], AFONSINHO,
+      ZEZE PROCOPIO [R 14'] - HERCULES, LOPES, PERACIO, LEONIDAS, ROMEU
+Czechoslovakia: Frantisek PLANICKA [c] - Jaroslav BURGR, Ferdinand DAUCIK - Jaroslav BOUCEK,
+      Josef KOSTALEK, Vlastimil KOPECKY - Oldrich NEJEDLY, Antonin PUC, Josef LUDL,
+      Jan RIHA [R 89'], Ladislav SIMUNEK
+
+Refs: Pal VON HERTZKA (HUN), Giuseppe SCARPI (ITA), Charles DE LA SALLE (FRA)
+
+
+Sun Jun 12 17:00 UTC+2 @ Fort Carree, Antibes
+  Sweden v Cuba  8-0
+     (Harry ANDERSSON 9', 81', 89', Gustav WETTERSTROM 22', 37', 44', Tore KELLER 80', Arne NYBERG 84')
+
+Sweden: Henock ABRAHAMSSON - Ivar ERIKSSON, Olle KALLGREN - Erik ALMGREN, Sven JACOBSSON,
+      Kurt SVANSTROM - Harry ANDERSSON, Sven JONASSON, Tore KELLER [c], Arne NYBERG,
+      Gustav WETTERSTROM
+Cuba: Benito CARVAJALES - Jacinto BARQUIN, Manuel CHORENS - Joaquin ARIAS,
+      Pedro BERGES, Tomas FERNANDEZ [c], Jose RODRIGUEZ - Juan ALONSO, Pedro FERRER,
+      Hector SOCORRO, Juan TUNAS
+
+Refs: Gustav KRIST (TCH), Karl WEINGARTNER (AUT), Victor SDEZ (FRA)
+
+
+Tue Jun 14 18:00 UTC+2 @ Stade de Bordeaux, Bordeaux
+  Brazil v Czechoslovakia  2-1
+     (LEONIDAS 57', ROBERTO 63';
+      Vlastimil KOPECKY 25')
+
+Brazil: WALTER GOULART - JAU, NARIZ - BRANDAO, BRITTO, ARGEMIRO - ROBERTO, PATESKO,
+      LEONIDAS [c], LUISINHO, TIM
+Czechoslovakia: Karel BURKERT - Jaroslav BURGR [c], Ferdinand DAUCIK - Jaroslav BOUCEK,
+      Vlastimil KOPECKY, Josef KOSTALEK - Vaclav HORAK, Arnost KREUZ, Josef LUDL,
+      Karel SENECKY, Oldrich RULC
+
+Refs: Georges CAPDEVILLE (FRA), Paul MARENCO (FRA), Ernest KISSENBERGER (FRA)
+
+
+▪ Semi-final
+Thu Jun 16 18:00 UTC+2 @ Stade Vélodrome, Marseille
+  Italy v Brazil  2-1
+     (Gino COLAUSSI 51', Giuseppe MEAZZA 60'(p);
+      ROMEU 87')
+
+Italy: Aldo OLIVIERI - Pietro RAVA, Alfredo FONI - Michele ANDREOLO, Giovanni FERRARI,
+      Ugo LOCATELLI, Pietro SERANTONI - Amedeo BIAVATI, Gino COLAUSSI, Giuseppe MEAZZA [c],
+      Silvio PIOLA
+Brazil: WALTER GOULART - DOMINGOS DA GUIA, MACHADO - MARTIM [c], AFONSINHO, ZEZE PROCOPIO -
+      LOPES, PERACIO, PATESKO, LUISINHO, ROMEU
+
+Refs: Hans WUETHRICH (SUI), Alois BERANEK (AUT), Paul MARENCO (FRA)
+
+
+Thu Jun 16 18:00 UTC+2 @ Parc des Princes, Paris
+  Hungary v Sweden  5-1
+     (Sven JACOBSSON 19'(og), Pal TITKOS 37', Gyula ZSENGELLER 39', 85', Gyorgy SAROSI 65';
+      Arne NYBERG 1')
+
+Hungary: Antal SZABO - Sandor BIRO, Lajos KORANYI - Gyula LAZAR, Antal SZALAY,
+      Jozsef TURAY - Gyorgy SAROSI [c], Pal TITKOS, Gyula ZSENGELLER, Ferenc SAS,
+      Geza TOLDI
+Sweden: Henock ABRAHAMSSON - Ivar ERIKSSON, Olle KALLGREN - Erik ALMGREN, Sven JACOBSSON,
+      Kurt SVANSTROM - Harry ANDERSSON, Sven JONASSON, Tore KELLER [c], Arne NYBERG,
+      Gustav WETTERSTROM
+
+Refs: Lucien LECLERCQ (FRA), Johannes VAN MOORSEL (NED), Giuseppe SCARPI (ITA)
+
+
+▪ Match for third place
+Sun Jun 19 17:00 UTC+2 @ Stade de Bordeaux, Bordeaux
+  Brazil v Sweden  4-2
+     (ROMEU 44', LEONIDAS 63', 74', PERACIO 80';
+      Sven JONASSON 28', Arne NYBERG 38')
+
+Brazil: BATATAIS - DOMINGOS DA GUIA, MACHADO - AFONSINHO, ZEZE PROCOPIO, BRANDAO -
+      PERACIO, PATESKO, LEONIDAS [c], ROMEU, ROBERTO
+Sweden: Henock ABRAHAMSSON - Ivar ERIKSSON, Erik NILSSON - Erik ALMGREN, Arne LINDERHOLM,
+      Kurt SVANSTROM [c] - Ake ANDERSSON, Harry ANDERSSON, Sven JONASSON, Arne NYBERG,
+      Erik PERSSON
+
+Refs: Jean LANGENUS (BEL), D. OLIVE (FRA), Ferdinand VALPREDE (FRA)
+
+
+▪ Final
+Sun Jun 19 17:00 UTC+2 @ Stade Olympique, Paris (Colombes)
+  Italy v Hungary  4-2
+     (Gino COLAUSSI 6', 35', Silvio PIOLA 16', 82';
+      Pal TITKOS 8', Gyorgy SAROSI 70')
+
+Italy: Aldo OLIVIERI - Pietro RAVA, Alfredo FONI - Michele ANDREOLO, Giovanni FERRARI,
+      Ugo LOCATELLI, Pietro SERANTONI - Amedeo BIAVATI, Gino COLAUSSI, Giuseppe MEAZZA [c],
+      Silvio PIOLA
+Hungary: Antal SZABO - Sandor BIRO, Gyula POLGAR - Gyula LAZAR, Antal SZALAY,
+      Gyorgy SZUCS - Gyorgy SAROSI [c], Pal TITKOS, Gyula ZSENGELLER, Ferenc SAS,
+      Jeno VINCZE
+
+Refs: Georges CAPDEVILLE (FRA), Hans WUETHRICH (SUI), Gustav KRIST (TCH)
+
+

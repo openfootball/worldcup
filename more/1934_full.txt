@@ -1,0 +1,267 @@
+= World Cup 1934
+
+# Dates    Sun May 27 - Sun Jun 10 1934 (14d)
+# Teams    16
+# Matches  17
+# Venues   8 (in 8 cities)
+#   Littorale, Bologna (ITA)
+#   Giovanni Berta, Florence (ITA)
+#   Estadio Luigi Ferraris, Genoa (ITA)
+#   Stadio Giuseppe Meazza, Milan (ITA)
+#   Giorgio Ascarelli, Naples (ITA)
+#   Nazionale PNF, Rome (ITA)
+#   Littorio, Trieste (ITA)
+#   Stadio Olimpico, Turin (ITA)
+
+▪ Preliminary Round
+Sun May 27 16:30 UTC+2 @ Littorio, Trieste
+  Czechoslovakia v Romania  2-1
+     (Antonin PUC 50', Oldrich NEJEDLY 67';
+      Stefan DOBAY 11')
+
+Czechoslovakia: Frantisek PLANICKA [c] - Josef CTYROKY, Ladislav ZENISEK - Stefan CAMBAL,
+      Josef KOSTALEK, Rudolf KRCIL - Oldrich NEJEDLY, Antonin PUC, Frantisek JUNEK,
+      Josef SILNY, Jiri SOBOTKA
+Romania: William ZOMBORY - Gheorghe ALBU - Rudolf KOTORMANY, Vasile DEHELEANU,
+      Josif MORAVETZ, Emerich VOGL [c] - Silviu BINDEA, Iuliu BODOLA, Stefan DOBAY,
+      Nicolae KOVACS, Gratian SEPI
+
+Refs: Jean LANGENUS (BEL), Giuseppe SCARPI (ITA), Raffaele SCORZONI (ITA)
+
+
+Sun May 27 16:30 UTC+2 @ Giovanni Berta, Florence
+  Germany v Belgium  5-2
+     (Stanislaus KOBIERSKI 25', Otto SIFFLING 49', Edmund CONEN 66', 70', 87';
+      Bernard VOORHOOF 29', 43')
+
+Germany: Willibald KRESS - Sigmund HARINGER, Paul JANES, Hans SCHWARTZ - Paul ZIELINSKI -
+      Edmund CONEN, Karl HOHMANN, Stanislaus KOBIERSKI, Ernest LEHNER, Otto SIFFLING,
+      Fritz SZEPAN [c]
+Belgium: Andre VAN DE WEYER - Costant JOACIM, Philibert SMELLINCKX - Jean CLAESSENS,
+      Frans PEERAER, Felix WELKENHUYSEN [c] - Jean CAPELLE, Francois DE VRIES,
+      Laurent GRIMMONPREZ, Bernard VOORHOOF, Albert HEREMANS
+
+Refs: Francesco MATTEA (ITA), Ermenegildo MELANDRI (ITA), Jacques BAERT (FRA)
+
+
+Sun May 27 16:30 UTC+2 @ Stadio Olimpico, Turin
+  Austria v France  3-2 a.e.t.
+     (Matthias SINDELAR 44', Toni SCHALL 93', Josef BICAN 109';
+      Jean NICOLAS 18', Georges VERRIEST 116'(p))
+
+Austria: Peter PLATZER - Karl SESTA, Franz CISAR - Josef SMISTIK [c], Hans URBANEK,
+      Franz WAGNER - Josef BICAN, Toni SCHALL, Matthias SINDELAR, Rudi VIERTL,
+      Karl ZISCHEK
+France: Alex THEPOT [c] - Jacques MAIRESSE, Etienne MATTLER - Edmond DELFOUR,
+      Noel LIETAER, Roger RIO, Georges VERRIEST - Joseph ALCAZAR, Alfred ASTON,
+      Fritz KELLER, Jean NICOLAS
+
+Refs: Johannes VAN MOORSEL (NED), Camillo CAIRONI (ITA), Louis BAERT (BEL)
+
+
+Sun May 27 16:30 UTC+2 @ Stadio Giuseppe Meazza, Milan
+  Switzerland v Netherlands  3-2
+     (Leopold KIELHOLZ 7', 43', Andre ABEGGLEN 66';
+      Kick SMIT 29', Leen VENTE 69')
+
+Switzerland: Frank SECHEHAYE - Severino MINELLI [c], Walter WEILER - Albert GUINCHARD,
+      Ernst HUFSCHMID, Fernand JACCARD - Andre ABEGGLEN, Giuseppe BOSSI, Leopold KIELHOLZ,
+      Raymond PASELLO, Willy VON KAENEL
+Netherlands: Gejus VAN DER MEULEN - Sjef VAN RUN, Mauk WEBER - Puck VAN HEEL [c],
+      Willem ANDERIESEN, Henk PELLIKAAN - Beb BAKHUYS, Kick SMIT, Joop VAN NELLEN,
+      Leen VENTE, Frank WELS
+
+Refs: Ivan EKLIND (SWE), Alois BERANEK (AUT), Ferruccio BONIVENTO (ITA)
+
+
+Sun May 27 16:30 UTC+2 @ Estadio Luigi Ferraris, Genoa
+  Spain v Brazil  3-1
+     (IRARAGORRI 18'(p), 25', Isidro LANGARA 29';
+      LEONIDAS 55')
+
+Spain: Ricardo ZAMORA [c] - I QUINCOCES, CIRIACO, MARCULETA - CILAURREN, IRARAGORRI,
+      Simon LECUE, Jose MUGUERZA - GOROSTIZA, LAFUENTE, Isidro LANGARA
+Brazil: PEDROSA - LUIZ LUZ, SYLVIO HOFFMANN - CANALLI, TINOCO, MARTIM [c] - WALDEMAR DE BRITTO,
+      PATESKO, ARMANDINHO, LEONIDAS, LUISINHO
+
+Refs: Alfred  BIRLEM (GER), Ettore CARMINATI (ITA), Mihaly IVANCSICS (HUN)
+
+
+Sun May 27 16:30 UTC+2 @ Littorale, Bologna
+  Sweden v Argentina  3-2
+     (Sven JONASSON 9', 67', Knut KROON 79';
+      Ernesto BELIS 4', Alberto GALATEO 48')
+
+Sweden: Anders RYDBERG - Nils AXELSSON, Sven ANDERSSON - Ernst ANDERSSON, Rune CARLSSON,
+      Nils ROSEN [c] - Gosta DUNKER, Ragnar GUSTAVSSON, Sven JONASSON, Tore KELLER,
+      Knut KROON
+Argentina: Hector FRESCHI - Ernesto BELIS, Juan PEDEVILLA - Arcadio LOPEZ, Jose NEHIN,
+      Costantino URBIETA SOSA - Alfredo DE VINCENZI [c], Alberto GALATEO, Roberto IRANETA,
+      Francisco RUA, Federico WILDE
+
+Refs: Eugen BRAUN (AUT), Albino CARRARO (ITA), Giuseppe TURBIANI (ITA)
+
+
+Sun May 27 16:30 UTC+2 @ Nazionale PNF, Rome
+  Italy v USA  7-1
+     (Angelo SCHIAVIO 18', 29', 64', Raimundo ORSI 20', 69', Giovanni FERRARI 63', Giuseppe MEAZZA 90';
+      Aldo DONELLI 57')
+
+Italy: Giampiero COMBI - Luigi ALLEMANDI, Virginio ROSETTA [c] - Luigi BERTOLINI,
+      Giovanni FERRARI, Giuseppe MEAZZA, Luis MONTI, Mario PIZZIOLO - Raimundo ORSI,
+      Angelo SCHIAVIO, Anfilogino GUARISI
+USA: Julius HJULIAN - Ed CZERKIEWICZ, George MOORHOUSE [c] - Peter PIETRAS -
+      Walter DICK, Aldo DONELLI, Tom FLORIE, Billy GONSALVES, Bill McLEAN,
+      Werner NILSEN, Francis RYAN
+
+Refs: Rene MERCET (SUI), Pedro ESCARTIN (ESP), Bohumil ZENISEK (TCH)
+
+
+Sun May 27 16:30 UTC+2 @ Giorgio Ascarelli, Naples
+  Hungary v Egypt  4-2
+     (Pal TELEKI 11', Geza TOLDI 31', 61', Jeno VINCZE 53';
+      Abdel Rahman FAWZI 35', 39')
+
+Hungary: Antal SZABO - Gyula FUTO, Laszlo STERNBERG [c] - Gyula LAZAR, Istvan PALOTAS,
+      Gyorgy SZUCS - Imre MARKOS, Gabor SZABO, Pal TELEKI, Geza TOLDI, Jeno VINCZE
+Egypt: Kamel MASOUD - Ali Mohammed EL KAF, Ismail RAFA AT, Abdel SHARLI - Hassan EL FAR,
+      Mohamed Hassan HELMI, Mohamed LATIF, Hassan RAGHAB, Mostafa KAMEL TAHA -
+      Abdel Rahman FAWZI, Mahmoud MOUKHTAR [c]
+
+Refs: Rinaldo BARLASSINA (ITA), Generoso DATTILO (ITA), Otello SASSI (ITA)
+
+
+▪ Quarter-final
+Thu May 31 16:30 UTC+2 @ Littorale, Bologna
+  Austria v Hungary  2-1
+     (Johann HORVATH 8', Karl ZISCHEK 51';
+      Gyorgy SAROSI 60'(p))
+
+Austria: Peter PLATZER - Karl SESTA, Franz CISAR - Josef SMISTIK, Hans URBANEK,
+      Franz WAGNER - Josef BICAN, Matthias SINDELAR, Johann HORVATH [c], Rudi VIERTL,
+      Karl ZISCHEK
+Hungary: Antal SZABO - Laszlo STERNBERG [c], Jozsef VAGO - Istvan PALOTAS, Antal SZALAY,
+      Gyorgy SZUCS - Gyorgy SAROSI, Istvan AVAR, Tibor KEMENY, Imre MARKOS [R 63'],
+      Geza TOLDI
+
+Refs: Francesco MATTEA (ITA), Pedro ESCARTIN (ESP), Alfred  BIRLEM (GER)
+
+
+Thu May 31 16:30 UTC+2 @ Giovanni Berta, Florence
+  Italy v Spain  1-1 a.e.t.
+     (Giovanni FERRARI 44'; Luis REGUEIRO 30')
+
+Italy: Giampiero COMBI [c] - Luigi ALLEMANDI, Eraldo MONZEGLIO - Armando CASTELLAZZI,
+      Giovanni FERRARI, Giuseppe MEAZZA, Luis MONTI, Mario PIZZIOLO - Enrique GUAITA,
+      Raimundo ORSI, Angelo SCHIAVIO
+Spain: Ricardo ZAMORA [c] - I QUINCOCES, CIRIACO - CILAURREN, IRARAGORRI, Jose MUGUERZA -
+      FEDE, GOROSTIZA, LAFUENTE, Isidro LANGARA, Luis REGUEIRO
+
+Refs: Louis BAERT (BEL), Bohumil ZENISEK (TCH), Mihaly IVANCSICS (HUN)
+
+
+Thu May 31 16:30 UTC+2 @ Stadio Giuseppe Meazza, Milan
+  Germany v Sweden  2-1
+     (Karl HOHMANN 60', 63';
+      Gosta DUNKER 82')
+
+Germany: Willibald KRESS - Willy BUSCH, Sigmund HARINGER - Rudolf GRAMLICH, Paul ZIELINSKI -
+      Edmund CONEN, Karl HOHMANN, Stanislaus KOBIERSKI, Ernest LEHNER, Otto SIFFLING,
+      Fritz SZEPAN [c]
+Sweden: Anders RYDBERG - Nils AXELSSON, Sven ANDERSSON - Ernst ANDERSSON, Rune CARLSSON,
+      Nils ROSEN [c] - Gosta DUNKER, Ragnar GUSTAVSSON, Sven JONASSON, Tore KELLER,
+      Knut KROON
+
+Refs: Rinaldo BARLASSINA (ITA), Rene MERCET (SUI), Johannes VAN MOORSEL (NED)
+
+
+Thu May 31 16:30 UTC+2 @ Stadio Olimpico, Turin
+  Czechoslovakia v Switzerland  3-2
+     (Frantisek SVOBODA 24', Jiri SOBOTKA 49', Oldrich NEJEDLY 82';
+      Leopold KIELHOLZ 18', Willy JAEGGI 78')
+
+Czechoslovakia: Frantisek PLANICKA [c] - Josef CTYROKY, Ladislav ZENISEK - Stefan CAMBAL,
+      Josef KOSTALEK, Rudolf KRCIL - Oldrich NEJEDLY, Antonin PUC, Frantisek JUNEK,
+      Jiri SOBOTKA, Frantisek SVOBODA
+Switzerland: Frank SECHEHAYE - Severino MINELLI [c], Walter WEILER - Albert GUINCHARD,
+      Ernst HUFSCHMID, Fernand JACCARD - Andre ABEGGLEN, Alfred JAECK, Willy JAEGGI,
+      Leopold KIELHOLZ, Willy VON KAENEL
+
+Refs: Alois BERANEK (AUT), Youssuf MOHAMED (EGY), Jacques BAERT (FRA)
+
+
+Fri Jun 1 16:30 UTC+2 @ Giovanni Berta, Florence
+  Italy v Spain  1-0
+     (Giuseppe MEAZZA 11')
+
+Italy: Giampiero COMBI [c] - Luigi ALLEMANDI, Eraldo MONZEGLIO - Luigi BERTOLINI,
+      Giuseppe MEAZZA, Luis MONTI, Attilio FERRARIS - Felice BOREL, Atilio DEMARIA,
+      Enrique GUAITA, Raimundo ORSI
+Spain: Juan NOGUES - I QUINCOCES [c], ZABALO - CILAURREN, Simon LECUE, Jose MUGUERZA -
+      CRISANTO BOSCH, I Guillermo CAMPANAL, CHACHO, Luis REGUEIRO, Martin VENTOLRA
+
+Refs: Rene MERCET (SUI), Mihaly IVANCSICS (HUN), Bohumil ZENISEK (TCH)
+
+
+▪ Semi-final
+Sun Jun 3 16:30 UTC+2 @ Stadio Giuseppe Meazza, Milan
+  Italy v Austria  1-0
+     (Enrique GUAITA 19')
+
+Italy: Giampiero COMBI [c] - Luigi ALLEMANDI, Eraldo MONZEGLIO - Luigi BERTOLINI,
+      Giovanni FERRARI, Attilio FERRARIS, Giuseppe MEAZZA, Luis MONTI - Enrique GUAITA,
+      Raimundo ORSI, Angelo SCHIAVIO
+Austria: Peter PLATZER - Karl SESTA, Franz CISAR - Josef SMISTIK [c], Hans URBANEK,
+      Franz WAGNER - Josef BICAN, Toni SCHALL, Matthias SINDELAR, Rudi VIERTL,
+      Karl ZISCHEK
+
+Refs: Ivan EKLIND (SWE), Louis BAERT (BEL), Bohumil ZENISEK (TCH)
+
+
+Sun Jun 3 16:30 UTC+2 @ Nazionale PNF, Rome
+  Czechoslovakia v Germany  3-1
+     (Oldrich NEJEDLY 21', 69', 80';
+      Rudolf NOACK 62')
+
+Czechoslovakia: Frantisek PLANICKA [c] - Josef CTYROKY, Jaroslav BURGR - Stefan CAMBAL,
+      Josef KOSTALEK, Rudolf KRCIL - Oldrich NEJEDLY, Antonin PUC, Frantisek JUNEK,
+      Jiri SOBOTKA, Frantisek SVOBODA
+Germany: Willibald KRESS - Willy BUSCH, Sigmund HARINGER - Paul ZIELINSKI - Jakob BENDER,
+      Edmund CONEN, Stanislaus KOBIERSKI, Ernest LEHNER, Rudolf NOACK, Otto SIFFLING,
+      Fritz SZEPAN [c]
+
+Refs: Rinaldo BARLASSINA (ITA), Alois BERANEK (AUT), Pedro ESCARTIN (ESP)
+
+
+▪ Match for third place
+Thu Jun 7 18:00 UTC+2 @ Giorgio Ascarelli, Naples
+  Germany v Austria  3-2
+     (Ernest LEHNER 1', 42', Edmund CONEN 27';
+      Johann HORVATH 28', Karl SESTA 54')
+
+Germany: Hans JAKOB - Willy BUSCH, Paul JANES, Reinhold MUENZENBERG - Paul ZIELINSKI -
+      Jakob BENDER, Edmund CONEN, Mathias HEIDEMANN, Ernest LEHNER, Otto SIFFLING,
+      Fritz SZEPAN [c]
+Austria: Peter PLATZER - Karl SESTA, Franz CISAR - Josef SMISTIK, Hans URBANEK,
+      Franz WAGNER - Josef BICAN, Georg BRAUN, Johann HORVATH [c], Rudi VIERTL,
+      Karl ZISCHEK
+
+Refs: Albino CARRARO (ITA), Camillo CAIRONI (ITA), Pedro ESCARTIN (ESP)
+
+
+▪ Final
+Sun Jun 10 17:30 UTC+2 @ Nazionale PNF, Rome
+  Italy v Czechoslovakia  2-1 a.e.t.
+     (Raimundo ORSI 81', Angelo SCHIAVIO 95';
+      Antonin PUC 71')
+
+Italy: Giampiero COMBI [c] - Luigi ALLEMANDI, Eraldo MONZEGLIO - Luigi BERTOLINI,
+      Giovanni FERRARI, Attilio FERRARIS, Giuseppe MEAZZA, Luis MONTI - Enrique GUAITA,
+      Raimundo ORSI, Angelo SCHIAVIO
+Czechoslovakia: Frantisek PLANICKA [c] - Josef CTYROKY, Ladislav ZENISEK - Stefan CAMBAL,
+      Josef KOSTALEK, Rudolf KRCIL - Oldrich NEJEDLY, Antonin PUC, Frantisek JUNEK,
+      Jiri SOBOTKA, Frantisek SVOBODA
+
+Refs: Ivan EKLIND (SWE), Alfred  BIRLEM (GER), Mihaly IVANCSICS (HUN)
+
+

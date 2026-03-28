@@ -1,0 +1,485 @@
+= World Cup 1970
+
+# Dates    Sun May 31 - Sun Jun 21 1970 (21d)
+# Teams    16
+# Matches  32
+# Venues   5 (in 5 cities)
+#   Estadio Jalisco, Guadalajara (MEX)
+#   Nou Camp, León (MEX)
+#   Estadio Azteca, Mexico City (MEX)
+#   Estadio Cuauhtemoc, Puebla (MEX)
+#   Bombonera, Toluca (MEX)
+
+▪ Group Matches
+▪▪ Group 1
+Sun May 31 12:00 UTC-5 @ Estadio Azteca, Mexico City
+  Mexico v Soviet Union  0-0
+
+Mexico: Ignacio CALDERON - Gustavo PENA [c] [Y 60'], Mario PEREZ, Guillermo HERNANDEZ,
+      Jose VANTOLRA, Javier GUZMAN - Hector PULIDO, Mario VELARDE (67' Antonio MUNGUIA) -
+      Horacio LOPEZ SALGADO, Javier VALDIVIA, Javier FRAGOSO
+Soviet Union: Anzor KAVAZASHVILI - Vladimir KAPLICHNI, Evgeni LOVCHEV [Y 34'], Gennadi LOGOFET [Y 72'],
+      Albert SHESTERNYOV [c] - Kakhi ASATIANI [Y 30'], Vladimir MUNTYAN, Viktor SEREBRYANIKOV (45+1' Anatoli PUZACH) -
+      Anatoly BISHOVETS, Gennadi YEVRYUZHIKHIN, Givili NODIYA [Y 31'] (66' Vitali KHMELNITSKI)
+
+Refs: Kurt TSCHENSCHER (GER), Keith DUNSTAN (BER), John TAYLOR (ENG)
+
+
+Wed Jun 3 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  Belgium v El Salvador  3-0
+     (Wilfried VAN MOER 12', 54', Raoul LAMBERT 79'(p))
+
+Belgium: Christian PIOT - Georges HEYLENS, Jean THISSEN, Nicolas DEWALQUE - Jan DOCKX,
+      Leon SEMMELING (79' Odilon POLLEUNIS), Wilfried VAN MOER - Johannes DEVRINDT,
+      Paul VAN HIMST [c], Wilfried PUIS, Raoul LAMBERT
+El Salvador: Raul MAGANA - Roberto RIVAS, Salvador MARIONA [c], Saturnino OSORIO,
+      Mauricio MANZANO (67' Santiago CORTES) - Jose QUINTANILLA, Mauricio RODRIGUEZ (80' Genaro SERMENO),
+      Alfredo VASQUEZ, Juan MARTINEZ - Salvador CABEZAS, Ernesto APARICIO
+
+Refs: Andrei RADULESCU (ROU), Kurt TSCHENSCHER (GER)
+
+
+Sat Jun 6 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  Soviet Union v Belgium  4-1
+     (Anatoly BISHOVETS 14', 63', Kakhi ASATIANI 57', Vitali KHMELNITSKI 76';
+      Raoul LAMBERT 86')
+
+Soviet Union: Anzor KAVAZASHVILI - Valentin AFONIN, Revaz DZODZVASHVILI (73' Nicolai KISELYOV),
+      Vladimir KAPLICHNI (34' Evgeni LOVCHEV), Murtaz KHURTSILAVA, Albert SHESTERNYOV [c] -
+      Kakhi ASATIANI, Vladimir MUNTYAN - Anatoly BISHOVETS, Gennadi YEVRYUZHIKHIN,
+      Vitali KHMELNITSKI
+Belgium: Christian PIOT - Georges HEYLENS, Jean THISSEN, Nicolas DEWALQUE, Leon JECK -
+      Jan DOCKX, Leon SEMMELING, Wilfried VAN MOER - Paul VAN HIMST [c], Wilfried PUIS,
+      Raoul LAMBERT
+
+Refs: Ruedi SCHEURER (SUI), Henry LANDAUER (USA), Bob DAVIDSON (SCO)
+
+
+Sun Jun 7 12:00 UTC-5 @ Estadio Azteca, Mexico City
+  Mexico v El Salvador  4-0
+     (Javier VALDIVIA 45', 46', Javier FRAGOSO 58', Juan Ignacio BASAGUREN 83')
+
+Mexico: Ignacio CALDERON - Gustavo PENA [c], Mario PEREZ, Jose VANTOLRA, Javier GUZMAN -
+      Antonio MUNGUIA, Jose Luis GONZALEZ - Enrique BORJA (45+1' Horacio LOPEZ SALGADO (76' Juan Ignacio BASAGUREN)),
+      Aaron PADILLA, Javier VALDIVIA, Javier FRAGOSO
+El Salvador: Raul MAGANA [Y 45'] - Roberto RIVAS, Salvador MARIONA [c] [Y 33'], Santiago CORTES [Y 13'] (68' Mario MONGE),
+      Saturnino OSORIO - Jose QUINTANILLA, Mauricio RODRIGUEZ, Alfredo VASQUEZ,
+      Juan MARTINEZ - Salvador CABEZAS [Y 57'], Ernesto APARICIO (58' Sergio MENDEZ)
+
+Refs: Aly Hussein KANDIL (EGY), Keith DUNSTAN (BER), John TAYLOR (ENG)
+
+
+Wed Jun 10 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  Soviet Union v El Salvador  2-0
+     (Anatoly BISHOVETS 51', 74')
+
+Soviet Union: Anzor KAVAZASHVILI - Valentin AFONIN, Revaz DZODZVASHVILI, Murtaz KHURTSILAVA,
+      Albert SHESTERNYOV [c] - Nicolai KISELYOV (81' Kakhi ASATIANI), Vladimir MUNTYAN,
+      Viktor SEREBRYANIKOV - Anatoly BISHOVETS, Anatoli PUZACH, Vitali KHMELNITSKI [Y 90']
+El Salvador: Raul MAGANA - Roberto RIVAS, Salvador MARIONA [c], Saturnino OSORIO,
+      Guillermo CASTRO - Mauricio RODRIGUEZ (86' Genaro SERMENO), Alfredo VASQUEZ,
+      Mario MONGE, Sergio MENDEZ - Salvador CABEZAS (82' Ernesto APARICIO),
+      Jaime PORTILLO
+
+Refs: Rafael HORMAZABAL DIAZ (CHI), Norberto Angel COEREZZA (ARG), Ayrton Vieira DE MORAES (BRA)
+
+
+Thu Jun 11 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  Mexico v Belgium  1-0
+     (Gustavo PENA 14'(p))
+
+Mexico: Ignacio CALDERON - Gustavo PENA [c] [Y 29'], Mario PEREZ, Jose VANTOLRA,
+      Javier GUZMAN - Antonio MUNGUIA, Hector PULIDO, Jose Luis GONZALEZ -
+      Aaron PADILLA, Javier VALDIVIA [Y 19'] (45+1' Juan Ignacio BASAGUREN),
+      Javier FRAGOSO
+Belgium: Christian PIOT - Georges HEYLENS, Jean THISSEN [Y 29'], Nicolas DEWALQUE,
+      Leon JECK - Jan DOCKX, Leon SEMMELING, Wilfried VAN MOER - Paul VAN HIMST [c] [Y 15'],
+      Wilfried PUIS, Odilon POLLEUNIS [Y 62'] (65' Johannes DEVRINDT)
+
+Refs: Norberto Angel COEREZZA (ARG), Henry LANDAUER (USA), Rafael HORMAZABAL DIAZ (CHI)
+
+
+▪▪ Group 2
+Tue Jun 2 16:00 UTC-5 @ Estadio Cuauhtemoc, Puebla
+  Uruguay v Israel  2-0
+     (Ildo MANEIRO 23', Juan MUJICA 50')
+
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS, Luis UBINA,
+      Juan MUJICA - Julio MONTERO, Luis CUBILLA, Pedro ROCHA [c] (12' Julio CORTES),
+      Victor ESPARRAGO, Ildo MANEIRO - Julio LOSADA
+Israel: Itzhak VISSOKER - David PRIMO, Zvi ROSEN, Shmuel ROSENTHAL, Yeshaiyahu SCHWAGER -
+      Itzhak SCHUM, Giora SPIEGEL - Jehoshua FAIGENBAUM, Mordechai SPIEGLER [c],
+      Dani SHMULEVICH-ROM (57' Johanan VALLACH), Rahamim TALBI (45+1' Shraga BAR)
+
+Refs: Bob DAVIDSON (SCO), Ruedi SCHEURER (SUI), Seyoum TAREKEGN (ETH)
+
+
+Wed Jun 3 16:00 UTC-5 @ Bombonera, Toluca
+  Italy v Sweden  1-0
+     (Angelo DOMENGHINI 10')
+
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI [c], Pierluigi CERA,
+      Comunardo NICCOLAI (37' Roberto ROSATO) - Mario BERTINI, Sandro MAZZOLA,
+      Giancarlo DE SISTI - Gigi RIVA, Angelo DOMENGHINI, Roberto BONINSEGNA
+Sweden: Ronnie HELLSTROM - Kurt AXELSSON, Bjorn NORDQVIST [c], Roland GRIP, Jan OLSSON -
+      Tommy SVENSSON, Bo LARSSON (80' Goran NICKLASSON), Leif ERIKSSON (56' Inge EJDERSTEDT) -
+      Ove KINDVALL, Ove GRAHN, Claes CRONQVIST [Y 56']
+
+Refs: John TAYLOR (ENG), Ruedi SCHEURER (SUI), Aly Hussein KANDIL (EGY)
+
+
+Sat Jun 6 16:00 UTC-5 @ Estadio Cuauhtemoc, Puebla
+  Uruguay v Italy  0-0
+
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS, Luis UBINA [c],
+      Juan MUJICA - Julio MONTERO, Luis CUBILLA, Victor ESPARRAGO, Ildo MANEIRO,
+      Julio CORTES [Y 1'] - Ruben BARENO (70' Oscar ZUBIA)
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI [c], Pierluigi CERA,
+      Roberto ROSATO - Mario BERTINI, Sandro MAZZOLA, Giancarlo DE SISTI -
+      Gigi RIVA, Angelo DOMENGHINI (45+1' Giuseppe FURINO), Roberto BONINSEGNA
+
+Refs: Kurt TSCHENSCHER (GER), Drago HORVAT (YUG)
+
+
+Sun Jun 7 12:00 UTC-5 @ Bombonera, Toluca
+  Sweden v Israel  1-1
+     (Tom TURESSON 53'; Mordechai SPIEGLER 56')
+
+Sweden: Sven-Gunnar LARSSON - Hans SELANDER, Kurt AXELSSON, Roland GRIP, Jan OLSSON -
+      Tommy SVENSSON [c], Bo LARSSON, Orjan PERSSON [Y 72'] (76' Sten PALSSON),
+      Thomas NORDAHL - Ove KINDVALL, Tom TURESSON
+Israel: Itzhak VISSOKER - Shraga BAR [Y 38'], David PRIMO [Y 89'], Zvi ROSEN,
+      Shmuel ROSENTHAL, Yeshaiyahu SCHWAGER, Johanan VALLACH (51' Aharon SHURUK) -
+      Itzhak SCHUM, Giora SPIEGEL - Jehoshua FAIGENBAUM, Mordechai SPIEGLER [c]
+
+Refs: Seyoum TAREKEGN (ETH), Andrei RADULESCU (ROU), Drago HORVAT (YUG)
+
+
+Wed Jun 10 16:00 UTC-5 @ Estadio Cuauhtemoc, Puebla
+  Sweden v Uruguay  1-0
+     (Ove GRAHN 90')
+
+Sweden: Sven-Gunnar LARSSON - Hans SELANDER, Kurt AXELSSON, Bjorn NORDQVIST [c],
+      Roland GRIP - Tommy SVENSSON, Bo LARSSON, Leif ERIKSSON, Orjan PERSSON,
+      Goran NICKLASSON (84' Ove GRAHN) - Ove KINDVALL (58' Tom TURESSON)
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS, Luis UBINA [c],
+      Juan MUJICA - Julio MONTERO, Victor ESPARRAGO (61' Dagoberto FONTES),
+      Ildo MANEIRO, Julio CORTES - Oscar ZUBIA, Julio LOSADA
+
+Refs: Henry LANDAUER (USA), John TAYLOR (ENG), Andrei RADULESCU (ROU)
+
+
+Thu Jun 11 16:00 UTC-5 @ Bombonera, Toluca
+  Italy v Israel  0-0
+
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI [c], Pierluigi CERA,
+      Roberto ROSATO - Mario BERTINI, Sandro MAZZOLA, Giancarlo DE SISTI -
+      Gigi RIVA, Angelo DOMENGHINI, Roberto BONINSEGNA [Y 90']
+Israel: Itzhak VISSOKER - Shraga BAR, Menachem BELLO [Y 67'], David PRIMO [Y 62'],
+      Zvi ROSEN, Shmuel ROSENTHAL, Yeshaiyahu SCHWAGER - Itzhak SCHUM, Giora SPIEGEL -
+      Jehoshua FAIGENBAUM (45+1' Dani SHMULEVICH-ROM), Mordechai SPIEGLER [c]
+
+Refs: Ayrton Vieira DE MORAES (BRA), Seyoum TAREKEGN (ETH), Kurt TSCHENSCHER (GER)
+
+
+▪▪ Group 3
+Tue Jun 2 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  England v Romania  1-0
+     (Geoff HURST 65')
+
+England: Gordon BANKS - Keith NEWTON (51' Tommy WRIGHT), Terry COOPER, Brian LABONE,
+      Bobby MOORE [c] - Alan MULLERY, Alan BALL, Bobby CHARLTON - Francis LEE (75' Peter OSGOOD),
+      Geoff HURST, Martin PETERS
+Romania: Stere ADAMACHE - Ludovic SATMAREANU, Nicolae LUPESCU, Mihai MOCANU, Cornel DINU -
+      Emerich DEMBROVSCHI, Radu NUNWEILLER, Ion DUMITRU - Florea DUMITRACHE,
+      Mircea LUCESCU [c], Gheorghe TATARU (73' Alexandru NEAGU)
+
+Refs: Vital LORAUX (BEL), Roger MACHIN (FRA), Diego DE LEO (MEX)
+
+
+Wed Jun 3 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Brazil v Czechoslovakia  4-1
+     (RIVELLINO 24', PELE 59', JAIRZINHO 61', 83';
+      Ladislav PETRAS 11')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c], EVERALDO - CLODOALDO,
+      GERSON [Y 31'] (62' PAULO CESAR), TOSTAO [Y 1'], RIVELLINO - JAIRZINHO,
+      PELE
+Czechoslovakia: Ivo VIKTOR - Karol DOBIAS, Vaclav MIGAS, Vladimir HAGARA, Alexander HORVATH [c] [Y 1'] -
+      Ladislav KUNA, Ivan HRDLICKA (46' Andrej KVASNAK), Frantisek VESELY (75' Bohumil VESELY) -
+      Ladislav PETRAS, Jozef ADAMEC, Karol JOKL
+
+Refs: Ramon BARRETO RUIZ (URU), Abraham KLEIN (ISR), Arturo YAMASAKI MALDONADO (MEX)
+
+
+Sat Jun 6 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Romania v Czechoslovakia  2-1
+     (Alexandru NEAGU 52', Florea DUMITRACHE 75'(p);
+      Ladislav PETRAS 5')
+
+Romania: Stere ADAMACHE - Ludovic SATMAREANU, Nicolae LUPESCU, Mihai MOCANU, Cornel DINU -
+      Emerich DEMBROVSCHI, Radu NUNWEILLER [Y 83'], Ion DUMITRU (81' Laszlo GERGELY),
+      Alexandru NEAGU - Florea DUMITRACHE, Mircea LUCESCU [c] (69' Gheorghe TATARU)
+Czechoslovakia: Alexander VENCEL - Karol DOBIAS, Vaclav MIGAS, Alexander HORVATH [c],
+      Jan ZLOCHA - Andrej KVASNAK [Y 83'], Bohumil VESELY, Ladislav KUNA -
+      Ladislav PETRAS, Karol JOKL (69' Frantisek VESELY), Jozef JURKANIN (45+1' Jozef ADAMEC)
+
+Refs: Diego DE LEO (MEX), Gyula EMSBERGER (HUN), Vital LORAUX (BEL)
+
+
+Sun Jun 7 12:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Brazil v England  1-0
+     (JAIRZINHO 59')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c], EVERALDO - CLODOALDO,
+      TOSTAO (68' ROBERTO), RIVELLINO, PAULO CESAR - JAIRZINHO, PELE
+England: Gordon BANKS - Terry COOPER, Brian LABONE, Bobby MOORE [c], Tommy WRIGHT -
+      Alan MULLERY, Alan BALL, Bobby CHARLTON (63' Colin BELL) - Francis LEE [Y 32'] (63' Jeff ASTLE),
+      Geoff HURST, Martin PETERS
+
+Refs: Abraham KLEIN (ISR), Arturo YAMASAKI MALDONADO (MEX), Roger MACHIN (FRA)
+
+
+Wed Jun 10 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Brazil v Romania  3-2
+     (PELE 19', 67', JAIRZINHO 22';
+      Florea DUMITRACHE 34', Emerich DEMBROVSCHI 84')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c], FONTANA, EVERALDO (60' MARCO ANTONIO) -
+      CLODOALDO (74' EDU), TOSTAO, PAULO CESAR - JAIRZINHO, PELE
+Romania: Stere ADAMACHE (27' Necula RADUCANU) - Ludovic SATMAREANU, Nicolae LUPESCU,
+      Mihai MOCANU [Y 78'], Cornel DINU - Emerich DEMBROVSCHI, Radu NUNWEILLER,
+      Ion DUMITRU [Y 44'], Alexandru NEAGU - Florea DUMITRACHE (72' Gheorghe TATARU),
+      Mircea LUCESCU [c]
+
+Refs: Ferdinand MARSCHALL (AUT), Ramon BARRETO RUIZ (URU), Vital LORAUX (BEL)
+
+
+Thu Jun 11 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  England v Czechoslovakia  1-0
+     (Allan CLARKE 50'(p))
+
+England: Gordon BANKS - Keith NEWTON, Terry COOPER, Bobby MOORE [c], Jack CHARLTON -
+      Alan MULLERY, Bobby CHARLTON (65' Alan BALL), Colin BELL - Martin PETERS,
+      Allan CLARKE, Jeff ASTLE (65' Peter OSGOOD)
+Czechoslovakia: Ivo VIKTOR [c] - Karol DOBIAS [Y 78'], Vaclav MIGAS, Vladimir HAGARA,
+      Vladimir HRIVNAK - Ladislav KUNA, Jaroslav POLLAK, Frantisek VESELY -
+      Ladislav PETRAS, Jozef ADAMEC, Jozef CAPKOVIC (72' Karol JOKL)
+
+Refs: Roger MACHIN (FRA), Gyula EMSBERGER (HUN), Ferdinand MARSCHALL (AUT)
+
+
+▪▪ Group 4
+Tue Jun 2 16:00 UTC-5 @ Nou Camp, León
+  Peru v Bulgaria  3-2
+     (Alberto GALLARDO 50', Hector CHUMPITAZ 55', Teofilo CUBILLAS 73';
+      Dinko DERMENDZHIEV 13', Hristo BONEV 49')
+
+Peru: Luis RUBINOS - Eloy CAMPOS (29' Javier GONZALES), Orlando DE LA TORRE,
+      Hector CHUMPITAZ [c], Nicolas FUENTES - Ramon MIFFLIN, Roberto CHALLE,
+      Julio BAYLON (51' Hugo SOTIL) - Pedro LEON, Teofilo CUBILLAS, Alberto GALLARDO
+Bulgaria: Simeon SIMEONOV - Aleksandar SHALAMANOV, Ivan DIMITROV [c], Stefan ALADZHOV,
+      Dimitar PENEV - Ivan DAVIDOV, Hristo BONEV (73' Georgi ASPARUKHOV), Dinko DERMENDZHIEV -
+      Georgi POPOV (59' Dimitar MARASHLIEV), Petar ZHEKOV, Dimitar YAKIMOV
+
+Refs: Antonio SBARDELLA (ITA), Abel AGUILAR ELIZALDE (MEX), Yoshiyuki MARUYAMA (JPN)
+
+
+Wed Jun 3 16:00 UTC-5 @ Nou Camp, León
+  West Germany v Morocco  2-1
+     (Uwe SEELER 56', Gerd MUELLER 80';
+      Houmane JARIR 21')
+
+West Germany: Sepp MAIER - Horst-Dieter HOETTGES (77' Hennes LOEHR), Franz BECKENBAUER,
+      Willi SCHULZ, Berti VOGTS, Klaus FICHTEL - Helmut HALLER (45' Juergen GRABOWSKI),
+      Wolfgang OVERATH - Uwe SEELER [c], Sigi HELD, Gerd MUELLER
+Morocco: Allal BEN KASSOU - Abdallah LAMRANI, Boujamaa BENKHRIF, Driss KANOUSSI,
+      Kassem SLIMANI - Mohamed MAAROUFI, Ghandi SAID, Driss BAMOUS [c] (72' Ahmed FARAS),
+      Mohamed EL FILALI - Mahjoub GHAZOUANI (56' Abdelkader EL KHYATI), Houmane JARIR
+
+Refs: Laurens VAN RAVENS (NED), Jose Maria ORTIZ DE MENDIBIL (ESP), Guillermo VELASQUEZ (COL)
+
+
+Sat Jun 6 16:00 UTC-5 @ Nou Camp, León
+  Peru v Morocco  3-0
+     (Teofilo CUBILLAS 65', 75', Roberto CHALLE 67')
+
+Peru: Luis RUBINOS - Orlando DE LA TORRE, Hector CHUMPITAZ [c], Nicolas FUENTES,
+      Pedro GONZALES - Ramon MIFFLIN (56' Luis CRUZADO), Roberto CHALLE - Pedro LEON,
+      Teofilo CUBILLAS, Alberto GALLARDO (76' Osvaldo RAMIREZ), Hugo SOTIL
+Morocco: Allal BEN KASSOU - Abdallah LAMRANI, Boujamaa BENKHRIF (66' Jilali FADILI),
+      Driss KANOUSSI, Kassem SLIMANI - Mohamed MAAROUFI, Ghandi SAID (81' Ahmed ALAOUI),
+      Driss BAMOUS [c], Mohamed EL FILALI - Mahjoub GHAZOUANI, Houmane JARIR
+
+Refs: Tofik BAKHRAMOV (URS), Yoshiyuki MARUYAMA (JPN), Antonio SBARDELLA (ITA)
+
+
+Sun Jun 7 12:00 UTC-5 @ Nou Camp, León
+  West Germany v Bulgaria  5-2
+     (Stan LIBUDA 20', Gerd MUELLER 27', 52'(p), 88', Uwe SEELER 70';
+      Asparukh NIKODIMOV 12', Todor KOLEV 89')
+
+West Germany: Sepp MAIER - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Franz BECKENBAUER (72' Wolfgang WEBER),
+      Berti VOGTS, Klaus FICHTEL - Wolfgang OVERATH - Uwe SEELER [c], Gerd MUELLER,
+      Stan LIBUDA, Hennes LOEHR (58' Juergen GRABOWSKI)
+Bulgaria: Simeon SIMEONOV - Dimitar PENEV, Milko GAIDARSKI, Dobromir JECHEV, Boris GAGANELOV [c] (58' Aleksandar SHALAMANOV) -
+      Hristo BONEV, Dinko DERMENDZHIEV (45+1' Vasil MITKOV), Asparukh NIKODIMOV,
+      Todor KOLEV - Dimitar MARASHLIEV, Georgi ASPARUKHOV
+
+Refs: Jose Maria ORTIZ DE MENDIBIL (ESP), Guillermo VELASQUEZ (COL), Antonio SALDANHA RIBEIRO (POR)
+
+
+Wed Jun 10 16:00 UTC-5 @ Nou Camp, León
+  West Germany v Peru  3-1
+     (Gerd MUELLER 19', 26', 39';
+      Teofilo CUBILLAS 44')
+
+West Germany: Sepp MAIER - Horst-Dieter HOETTGES (45+1' Bernd PATZKE), Karl-Heinz SCHNELLINGER,
+      Franz BECKENBAUER, Berti VOGTS, Klaus FICHTEL - Wolfgang OVERATH - Uwe SEELER [c],
+      Gerd MUELLER, Stan LIBUDA (75' Juergen GRABOWSKI), Hennes LOEHR
+Peru: Luis RUBINOS - Orlando DE LA TORRE, Hector CHUMPITAZ [c], Nicolas FUENTES,
+      Pedro GONZALES - Ramon MIFFLIN, Roberto CHALLE (72' Luis CRUZADO) - Pedro LEON (56' Osvaldo RAMIREZ),
+      Teofilo CUBILLAS, Alberto GALLARDO, Hugo SOTIL
+
+Refs: Abel AGUILAR ELIZALDE (MEX), Jose Maria ORTIZ DE MENDIBIL (ESP), Antonio SBARDELLA (ITA)
+
+
+Thu Jun 11 16:00 UTC-5 @ Nou Camp, León
+  Bulgaria v Morocco  1-1
+     (Dobromir JECHEV 40'; Mahjoub GHAZOUANI 61')
+
+Bulgaria: Stoyan YORDANOV - Aleksandar SHALAMANOV [c], Dimitar PENEV (42' Ivan DIMITROV),
+      Milko GAIDARSKI, Dobromir JECHEV - Asparukh NIKODIMOV, Todor KOLEV -
+      Georgi POPOV, Dimitar YAKIMOV (50' Hristo BONEV), Georgi ASPARUKHOV,
+      Vasil MITKOV
+Morocco: Mohamed HAZZAZ - Boujamaa BENKHRIF, Driss KANOUSSI, Kassem SLIMANI, Jilali FADILI -
+      Mohamed MAAROUFI, Ghandi SAID, Driss BAMOUS [c] (45+1' Mustafa CHOUKRI),
+      Mohamed EL FILALI - Mahjoub GHAZOUANI, Ahmed ALAOUI (74' Ahmed FARAS)
+
+Refs: Antonio SALDANHA RIBEIRO (POR), Tofik BAKHRAMOV (URS), Laurens VAN RAVENS (NED)
+
+
+▪ Quarter-final
+Sun Jun 14 12:00 UTC-5 @ Estadio Azteca, Mexico City
+  Uruguay v Soviet Union  1-0 a.e.t.
+     (Victor ESPARRAGO 117')
+
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS [Y 9'], Luis UBINA [c] [Y 59'],
+      Juan MUJICA - Julio MONTERO [Y 17'], Luis CUBILLA, Ildo MANEIRO, Julio CORTES -
+      Julio MORALES (96' Alberto GOMEZ), Dagoberto FONTES (103' Victor ESPARRAGO)
+Soviet Union: Anzor KAVAZASHVILI - Valentin AFONIN, Revaz DZODZVASHVILI, Vladimir KAPLICHNI [Y 76'],
+      Murtaz KHURTSILAVA (86' Gennadi LOGOFET), Albert SHESTERNYOV [c] - Kakhi ASATIANI [Y 32'] (71' Nicolai KISELYOV),
+      Vladimir MUNTYAN - Anatoly BISHOVETS [Y 118'], Gennadi YEVRYUZHIKHIN,
+      Vitali KHMELNITSKI
+
+Refs: Laurens VAN RAVENS (NED), Bob DAVIDSON (SCO)
+
+
+Sun Jun 14 12:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Brazil v Peru  4-2
+     (RIVELLINO 11', TOSTAO 15', 52', JAIRZINHO 75';
+      Alberto GALLARDO 28', Teofilo CUBILLAS 70')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c], MARCO ANTONIO - CLODOALDO,
+      GERSON (67' PAULO CESAR), TOSTAO, RIVELLINO - JAIRZINHO (80' ROBERTO),
+      PELE
+Peru: Luis RUBINOS - Eloy CAMPOS, Hector CHUMPITAZ [c], Nicolas FUENTES, Jose FERNANDEZ -
+      Ramon MIFFLIN, Roberto CHALLE, Julio BAYLON (54' Hugo SOTIL) - Pedro LEON (61' Eladio REYES),
+      Teofilo CUBILLAS, Alberto GALLARDO
+
+Refs: Vital LORAUX (BEL), Ferdinand MARSCHALL (AUT), Gyula EMSBERGER (HUN)
+
+
+Sun Jun 14 12:00 UTC-5 @ Nou Camp, León
+  West Germany v England  3-2 a.e.t.
+     (Franz BECKENBAUER 68', Uwe SEELER 82', Gerd MUELLER 108';
+      Alan MULLERY 31', Martin PETERS 49')
+
+West Germany: Sepp MAIER - Horst-Dieter HOETTGES (45' Willi SCHULZ), Karl-Heinz SCHNELLINGER,
+      Franz BECKENBAUER, Berti VOGTS, Klaus FICHTEL - Wolfgang OVERATH - Uwe SEELER [c],
+      Gerd MUELLER [Y 18'], Stan LIBUDA (55' Juergen GRABOWSKI), Hennes LOEHR
+England: Peter BONETTI - Keith NEWTON, Terry COOPER, Brian LABONE, Bobby MOORE [c] -
+      Alan MULLERY, Alan BALL, Bobby CHARLTON (70' Colin BELL) - Francis LEE [Y 10'],
+      Geoff HURST, Martin PETERS (81' Norman HUNTER)
+
+Refs: Norberto Angel COEREZZA (ARG), Guillermo VELASQUEZ (COL), Jose Maria ORTIZ DE MENDIBIL (ESP)
+
+
+Sun Jun 14 12:00 UTC-5 @ Bombonera, Toluca
+  Italy v Mexico  4-1
+     (Javier GUZMAN 25'(og), Gigi RIVA 63', 76', Gianni RIVERA 70';
+      Jose Luis GONZALEZ 13')
+
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI [c], Pierluigi CERA,
+      Roberto ROSATO - Mario BERTINI, Sandro MAZZOLA (45+1' Gianni RIVERA [Y 67']),
+      Giancarlo DE SISTI - Gigi RIVA, Angelo DOMENGHINI (84' Sergio GORI),
+      Roberto BONINSEGNA
+Mexico: Ignacio CALDERON - Gustavo PENA [c], Mario PEREZ, Jose VANTOLRA, Javier GUZMAN -
+      Antonio MUNGUIA (60' Isidoro DIAZ), Hector PULIDO, Jose Luis GONZALEZ (68' Enrique BORJA) -
+      Aaron PADILLA, Javier VALDIVIA, Javier FRAGOSO
+
+Refs: Ruedi SCHEURER (SUI), Keith DUNSTAN (BER), Henry LANDAUER (USA)
+
+
+▪ Semi-final
+Wed Jun 17 16:00 UTC-5 @ Estadio Jalisco, Guadalajara
+  Brazil v Uruguay  3-1
+     (CLODOALDO 44', JAIRZINHO 76', RIVELLINO 89';
+      Luis CUBILLA 19')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c] [Y 33'], EVERALDO -
+      CLODOALDO, GERSON, TOSTAO, RIVELLINO - JAIRZINHO, PELE
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS, Luis UBINA [c],
+      Juan MUJICA [Y 5'] - Julio MONTERO, Luis CUBILLA, Ildo MANEIRO [Y 37'] (77' Victor ESPARRAGO),
+      Julio CORTES - Julio MORALES, Dagoberto FONTES [Y 18']
+
+Refs: Jose Maria ORTIZ DE MENDIBIL (ESP), Tofik BAKHRAMOV (URS), Ferdinand MARSCHALL (AUT)
+
+
+Wed Jun 17 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  Italy v West Germany  4-3 a.e.t.
+     (Roberto BONINSEGNA 8', Tarcisio BURGNICH 98', Gigi RIVA 104', Gianni RIVERA 111';
+      Karl-Heinz SCHNELLINGER 90', Gerd MUELLER 94', 110')
+
+Italy: Enrico ALBERTOSI [Y 73'] - Tarcisio BURGNICH, Giacinto FACCHETTI [c],
+      Pierluigi CERA, Roberto ROSATO [Y 38'] (90+1' Fabrizio POLETTI) - Mario BERTINI,
+      Sandro MAZZOLA (45+1' Gianni RIVERA), Giancarlo DE SISTI [Y 103'] - Gigi RIVA,
+      Angelo DOMENGHINI [Y 113'], Roberto BONINSEGNA
+West Germany: Sepp MAIER - Karl-Heinz SCHNELLINGER, Franz BECKENBAUER, Willi SCHULZ,
+      Berti VOGTS, Bernd PATZKE (66' Sigi HELD) - Wolfgang OVERATH [Y 53'] -
+      Uwe SEELER [c], Gerd MUELLER [Y 66'], Hennes LOEHR (53' Stan LIBUDA),
+      Juergen GRABOWSKI
+
+Refs: Arturo YAMASAKI MALDONADO (MEX), Rafael HORMAZABAL DIAZ (CHI), Guillermo VELASQUEZ (COL)
+
+
+▪ Match for third place
+Sat Jun 20 16:00 UTC-5 @ Estadio Azteca, Mexico City
+  West Germany v Uruguay  1-0
+     (Wolfgang OVERATH 26')
+
+West Germany: Horst WOLTER - Karl-Heinz SCHNELLINGER (45+1' Max LORENZ [Y 64']), Wolfgang WEBER,
+      Berti VOGTS, Klaus FICHTEL, Bernd PATZKE - Wolfgang OVERATH - Uwe SEELER [c],
+      Sigi HELD, Gerd MUELLER, Stan LIBUDA (73' Hennes LOEHR [Y 90'])
+Uruguay: Ladislao MAZURKIEWICZ - Atilio ANCHETA, Roberto MATOSAS, Luis UBINA [c] [Y 89'],
+      Juan MUJICA - Julio MONTERO [Y 90'], Luis CUBILLA, Ildo MANEIRO (67' Rodolfo SANDOVAL),
+      Julio CORTES - Julio MORALES, Dagoberto FONTES [Y 90'] (45+1' Victor ESPARRAGO)
+
+Refs: Antonio SBARDELLA (ITA), Ferdinand MARSCHALL (AUT), Abel AGUILAR ELIZALDE (MEX)
+
+
+▪ Final
+Sun Jun 21 12:00 UTC-5 @ Estadio Azteca, Mexico City
+  Brazil v Italy  4-1
+     (PELE 18', GERSON 66', JAIRZINHO 71', CARLOS ALBERTO 86';
+      Roberto BONINSEGNA 37')
+
+Brazil: FELIX - BRITO, WILSON PIAZZA, CARLOS ALBERTO [c], EVERALDO - CLODOALDO,
+      GERSON, TOSTAO, RIVELLINO [Y 45'] - JAIRZINHO, PELE
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH [Y 27'], Giacinto FACCHETTI [c],
+      Pierluigi CERA, Roberto ROSATO - Mario BERTINI (74' Antonio JULIANO),
+      Sandro MAZZOLA, Giancarlo DE SISTI - Gigi RIVA, Angelo DOMENGHINI, Roberto BONINSEGNA (84' Gianni RIVERA)
+
+Refs: Ruedi SCHEURER (SUI), Norberto Angel COEREZZA (ARG)
+
+

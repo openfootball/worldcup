@@ -1,0 +1,473 @@
+= World Cup 1966
+
+# Dates    Mon Jul 11 - Sat Jul 30 1966 (19d)
+# Teams    16
+# Matches  32
+# Venues   8 (in 7 cities)
+#   Villa Park, Birmingham (ENG)
+#   Goodison Park, Liverpool (ENG)
+#   White City, London (ENG)
+#   Wembley Stadium, London (ENG)
+#   Old Trafford Stadium, Manchester (ENG)
+#   Ayresome Park, Middlesbrough (ENG)
+#   Hillsborough, Sheffield (ENG)
+#   Roker Park Ground, Sunderland (ENG)
+
+▪ Group Matches
+▪▪ Group 1
+Mon Jul 11 19:30 UTC+1 @ Wembley Stadium, London
+  England v Uruguay  0-0
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES, Alan BALL - Jimmy GREAVES, Bobby CHARLTON, John CONNELLY,
+      Roger HUNT
+Uruguay: Ladislao MAZURKIEWICZ - Horacio TROCHE [c], Jorge MANICERA, Nestor GONCALVES,
+      Luis UBINA - Omar CAETANO, Julio CORTES, Hector SILVA - Pedro ROCHA,
+      Domingo PEREZ, Milton VIERA
+
+Refs: Istvan ZSOLT (HUN), Tofik BAKHRAMOV (URS), Dimitar RUMENTCHEV (BUL)
+
+
+Wed Jul 13 19:30 UTC+1 @ Wembley Stadium, London
+  France v Mexico  1-1
+     (Gerard HAUSSER 62'; Enrique BORJA 48')
+
+France: Marcel AUBOUR - Bernard BOSQUIER, Robert BUDZYNSKI, Gabriel DE MICHELE,
+      Jean DJORKAEFF - Marcel ARTELESA [c], Joseph BONNEL, Robert HERBIN -
+      Nestor COMBIN, Philippe GONDET, Gerard HAUSSER
+Mexico: Ignacio CALDERON - Arturo CHAIREZ, Gustavo PENA [c], Gabriel NUNEZ -
+      Isidoro DIAZ, Guillermo HERNANDEZ, Magdaleno MERCADO - Aaron PADILLA,
+      Javier FRAGOSO, Salvador REYES, Enrique BORJA
+
+Refs: Menachem ASHKENAZI (ISR), Joaquim FERNANDES CAMPOS (POR), Karol GALBA (TCH)
+
+
+Fri Jul 15 19:30 UTC+1 @ White City, London
+  Uruguay v France  2-1
+     (Pedro ROCHA 26', Julio CORTES 31';
+      Hector DE BOURGOING 15'(p))
+
+Uruguay: Ladislao MAZURKIEWICZ - Horacio TROCHE [c], Jorge MANICERA, Nestor GONCALVES,
+      Luis UBINA - Omar CAETANO, Julio CORTES - Jose SASIA, Pedro ROCHA, Domingo PEREZ,
+      Milton VIERA
+France: Marcel AUBOUR - Bernard BOSQUIER, Robert BUDZYNSKI, Jean DJORKAEFF -
+      Marcel ARTELESA [c], Joseph BONNEL, Yves HERBERT - Hector DE BOURGOING,
+      Philippe GONDET, Gerard HAUSSER, Jacques SIMON
+
+Refs: Karol GALBA (TCH), Leo CALLAGHAN (WAL), Armando MARQUES (BRA)
+
+
+Sat Jul 16 19:30 UTC+1 @ Wembley Stadium, London
+  England v Mexico  2-0
+     (Bobby CHARLTON 37', Roger HUNT 75')
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES, Martin PETERS - Jimmy GREAVES, Bobby CHARLTON, Terry PAINE,
+      Roger HUNT
+Mexico: Ignacio CALDERON - Arturo CHAIREZ, Gustavo PENA [c], Jesus DEL MURO,
+      Ignacio JAUREGUI, Gabriel NUNEZ - Isidoro DIAZ, Guillermo HERNANDEZ -
+      Aaron PADILLA, Salvador REYES, Enrique BORJA
+
+Refs: Concetto LO BELLO (ITA), CHOI Duk Ryong (PRK), Menachem ASHKENAZI (ISR)
+
+
+Tue Jul 19 16:30 UTC+1 @ Wembley Stadium, London
+  Uruguay v Mexico  0-0
+
+Uruguay: Ladislao MAZURKIEWICZ - Horacio TROCHE [c], Jorge MANICERA, Nestor GONCALVES,
+      Luis UBINA - Omar CAETANO, Julio CORTES - Jose SASIA, Pedro ROCHA, Domingo PEREZ,
+      Milton VIERA
+Mexico: Antonio CARBAJAL - Arturo CHAIREZ, Gustavo PENA [c], Gabriel NUNEZ -
+      Isidoro DIAZ, Ernesto CISNEROS, Guillermo HERNANDEZ, Magdaleno MERCADO -
+      Aaron PADILLA, Salvador REYES, Enrique BORJA
+
+Refs: Bertil LOEOEW (SWE), Claudio VICUNA (CHI), Concetto LO BELLO (ITA)
+
+
+Wed Jul 20 19:30 UTC+1 @ Wembley Stadium, London
+  England v France  2-0
+     (Roger HUNT 38', 75')
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES [Y 44'], Martin PETERS, Ian CALLAGHAN - Jimmy GREAVES, Bobby CHARLTON,
+      Roger HUNT
+France: Marcel AUBOUR - Bernard BOSQUIER, Robert BUDZYNSKI, Jean DJORKAEFF -
+      Marcel ARTELESA [c], Joseph BONNEL, Yves HERBERT, Robert HERBIN - Philippe GONDET,
+      Gerard HAUSSER, Jacques SIMON
+
+Refs: Arturo YAMASAKI MALDONADO (MEX), Karol GALBA (TCH), Dimitar RUMENTCHEV (BUL)
+
+
+▪▪ Group 2
+Tue Jul 12 19:30 UTC+1 @ Hillsborough, Sheffield
+  West Germany v Switzerland  5-0
+     (Sigi HELD 15', Helmut HALLER 20', 77'(p), Franz BECKENBAUER 39', 52')
+
+West Germany: Hans TILKOWSKI - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Wolfgang WEBER - Franz BECKENBAUER, Albert BRUELLS, Helmut HALLER, Wolfgang OVERATH -
+      Uwe SEELER [c], Sigi HELD
+Switzerland: Charly ELSENER - Hans-Ruedi FUHRER, Andre GROBETY, Heinz SCHNEITER [c],
+      Ely TACCHELLA - Heinz BAENI, Richard DUERR, Karl ODERMATT - Robert HOSP,
+      Fritz KUENZLI, Jean-Claude SCHINDELHOLZ
+
+Refs: Hugh PHILLIPS (SCO), John ADAIR (NIR), Bertil LOEOEW (SWE)
+
+
+Wed Jul 13 19:30 UTC+1 @ Villa Park, Birmingham
+  Argentina v Spain  2-1
+     (Luis ARTIME 65', 79';
+      PIRRI 71')
+
+Argentina: Antonio ROMA - Roberto PERFUMO, Silvio MARZOLINI, Roberto FERRERO - Antonio RATTIN [c],
+      Rafael ALBRECHT - Jorge SOLARI, Alberto GONZALEZ, Luis ARTIME, Ermindo ONEGA,
+      Oscar MAS
+Spain: Jose IRIBAR - Manuel SANCHIS, ELADIO - Luis DEL SOL, Ignacio ZOCO, Luis SUAREZ,
+      GALLEGO, PIRRI - Armando UFARTE, Francisco GENTO [c], Joaquin PEIRO
+
+Refs: Dimitar RUMENTCHEV (BUL), Arturo YAMASAKI MALDONADO (MEX), Konstantin ZECEVIC (YUG)
+
+
+Fri Jul 15 19:30 UTC+1 @ Hillsborough, Sheffield
+  Spain v Switzerland  2-1
+     (Manuel SANCHIS 57', AMANCIO 75';
+      Rene-Pierre QUENTIN 28')
+
+Spain: Jose IRIBAR - Manuel SANCHIS, Severino REIJA - Luis DEL SOL, Ignacio ZOCO,
+      Luis SUAREZ, GALLEGO, PIRRI - AMANCIO, Francisco GENTO [c], Joaquin PEIRO
+Switzerland: Charly ELSENER - Kurt ARMBRUSTER, Rene BRODMANN [c], Hans-Ruedi FUHRER,
+      Werner LEIMGRUBER, Xavier STIERLI - Heinz BAENI, Koebi KUHN - Vittore GOTTARDI,
+      Robert HOSP, Rene-Pierre QUENTIN
+
+Refs: Tofik BAKHRAMOV (URS), Istvan ZSOLT (HUN), Hugh PHILLIPS (SCO)
+
+
+Sat Jul 16 15:00 UTC+1 @ Villa Park, Birmingham
+  West Germany v Argentina  0-0
+
+West Germany: Hans TILKOWSKI - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Wolfgang WEBER - Franz BECKENBAUER [Y 48'], Albert BRUELLS, Helmut HALLER,
+      Wolfgang OVERATH - Uwe SEELER [c], Sigi HELD
+Argentina: Antonio ROMA - Roberto PERFUMO, Silvio MARZOLINI, Roberto FERRERO - Antonio RATTIN [c],
+      Rafael ALBRECHT [R 65'] - Jorge SOLARI, Alberto GONZALEZ, Luis ARTIME,
+      Ermindo ONEGA, Oscar MAS
+
+Refs: Konstantin ZECEVIC (YUG), Joaquim FERNANDES CAMPOS (POR), Bertil LOEOEW (SWE)
+
+
+Tue Jul 19 19:30 UTC+1 @ Hillsborough, Sheffield
+  Argentina v Switzerland  2-0
+     (Luis ARTIME 53', Ermindo ONEGA 81')
+
+Argentina: Antonio ROMA - Roberto PERFUMO, Oscar CALICS, Silvio MARZOLINI, Roberto FERRERO -
+      Antonio RATTIN [c] - Jorge SOLARI, Alberto GONZALEZ, Luis ARTIME, Ermindo ONEGA,
+      Oscar MAS
+Switzerland: Leo EICHMANN - Kurt ARMBRUSTER, Rene BRODMANN [c], Hans-Ruedi FUHRER,
+      Xavier STIERLI - Heinz BAENI, Koebi KUHN - Vittore GOTTARDI, Robert HOSP,
+      Fritz KUENZLI, Rene-Pierre QUENTIN
+
+Refs: Joaquim FERNANDES CAMPOS (POR), Istvan ZSOLT (HUN), Tofik BAKHRAMOV (URS)
+
+
+Wed Jul 20 19:30 UTC+1 @ Villa Park, Birmingham
+  West Germany v Spain  2-1
+     (Lothar EMMERICH 38', Uwe SEELER 84';
+      Jose Maria FUSTE 22')
+
+West Germany: Hans TILKOWSKI - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Wolfgang WEBER - Franz BECKENBAUER, Wolfgang OVERATH [Y 46'] - Uwe SEELER [c],
+      Sigi HELD, Lothar EMMERICH, Werner KRAEMER
+Spain: Jose IRIBAR - Manuel SANCHIS, Severino REIJA, ADELARDO - Ignacio ZOCO [c],
+      Jesus GLARIA [Y 33'], GALLEGO - AMANCIO, MARCELINO, Jose Maria FUSTE,
+      Carlos LAPETRA
+
+Refs: Armando MARQUES (BRA), Claudio VICUNA (CHI), CHOI Duk Ryong (PRK)
+
+
+▪▪ Group 3
+Tue Jul 12 19:30 UTC+1 @ Goodison Park, Liverpool
+  Brazil v Bulgaria  2-0
+     (PELE 15', GARRINCHA 63')
+
+Brazil: GILMAR - DJALMA SANTOS, BELLINI [c], ALTAIR, PAULO HENRIQUE - DENILSON [Y 87'],
+      LIMA - PELE, GARRINCHA, JAIRZINHO, ALCINDO
+Bulgaria: Georgi NAIDENOV - Aleksandar SHALAMANOV, Ivan VUTSOV, Boris GAGANELOV [c],
+      Dimitar PENEV - Dinko DERMENDZHIEV, Stoyan KITOV - Dobromir JECHEV [Y 36'],
+      Georgi ASPARUKHOV, Ivan KOLEV [Y 66'], Dimitar YAKIMOV
+
+Refs: Kurt TSCHENSCHER (GER), George McCABE (ENG), John TAYLOR (ENG)
+
+
+Wed Jul 13 19:30 UTC+1 @ Old Trafford Stadium, Manchester
+  Portugal v Hungary  3-1
+     (JOSE AUGUSTO 2', 67', JOSE TORRES 90';
+      Ferenc BENE 60')
+
+Portugal: CARVALHO - VICENTE, HILARIO, MORAIS, ALEXANDRE BAPTISTA - MARIO COLUNA [c],
+      JAIME GRACA - ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO, JOSE TORRES
+Hungary: Antal SZENTIMIHALYI - Beno KAPOSZTA, Sandor MATRAI, Kalman SOVARI, Kalman MESZOLY -
+      Ferenc SIPOS [c], Istvan NAGY - Ferenc BENE, Florian ALBERT, Janos FARKAS,
+      Gyula RAKOSI
+
+Refs: Leo CALLAGHAN (WAL), Kevin HOWLEY (ENG), William CLEMENTS (ENG)
+
+
+Fri Jul 15 19:30 UTC+1 @ Goodison Park, Liverpool
+  Hungary v Brazil  3-1
+     (Ferenc BENE 2', Janos FARKAS 64', Kalman MESZOLY 73'(p);
+      TOSTAO 14')
+
+Hungary: Jozsef GELEI - Beno KAPOSZTA, Sandor MATRAI, Kalman MESZOLY, Gusztav SZEPESI -
+      Ferenc SIPOS [c], Imre MATHESZ - Ferenc BENE, Florian ALBERT, Janos FARKAS,
+      Gyula RAKOSI
+Brazil: GILMAR - DJALMA SANTOS, BELLINI [c], ALTAIR, PAULO HENRIQUE - GERSON,
+      LIMA, TOSTAO - GARRINCHA, JAIRZINHO, ALCINDO
+
+Refs: Kenneth DAGNALL (ENG), Kevin HOWLEY (ENG), Arturo YAMASAKI MALDONADO (MEX)
+
+
+Sat Jul 16 15:00 UTC+1 @ Old Trafford Stadium, Manchester
+  Portugal v Bulgaria  3-0
+     (Ivan VUTSOV 17'(og), EUSEBIO 38', JOSE TORRES 81')
+
+Portugal: JOSE PEREIRA - VICENTE, GERMANO, HILARIO, FESTA - MARIO COLUNA [c], JAIME GRACA -
+      ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO [Y 70'], JOSE TORRES
+Bulgaria: Georgi NAIDENOV - Aleksandar SHALAMANOV, Ivan VUTSOV, Boris GAGANELOV [c],
+      Dimitar PENEV - Dinko DERMENDZHIEV [Y 70'] - Dobromir JECHEV, Georgi ASPARUKHOV,
+      Petar ZHEKOV, Dimitar YAKIMOV, Aleksandar KOSTOV
+
+Refs: Jose Maria CODESAL (URU), Roberto GOICOECHEA (ARG), Kurt TSCHENSCHER (GER)
+
+
+Tue Jul 19 19:30 UTC+1 @ Goodison Park, Liverpool
+  Portugal v Brazil  3-1
+     (ANTONIO SIMOES 15', EUSEBIO 27', 85';
+      RILDO 73')
+
+Portugal: JOSE PEREIRA - VICENTE, HILARIO, MORAIS, ALEXANDRE BAPTISTA - MARIO COLUNA [c],
+      JAIME GRACA - ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO, JOSE TORRES
+Brazil: MANGA - FIDELIS, BRITO, ORLANDO [c], RILDO - DENILSON, LIMA - PELE, JAIRZINHO,
+      SILVA BATUTA, PARANA
+
+Refs: George McCABE (ENG), Leo CALLAGHAN (WAL), Kenneth DAGNALL (ENG)
+
+
+Wed Jul 20 19:30 UTC+1 @ Old Trafford Stadium, Manchester
+  Hungary v Bulgaria  3-1
+     (Ivan DAVIDOV 43'(og), Kalman MESZOLY 45', Ferenc BENE 54';
+      Georgi ASPARUKHOV 15')
+
+Hungary: Jozsef GELEI - Beno KAPOSZTA, Sandor MATRAI, Kalman MESZOLY, Gusztav SZEPESI -
+      Ferenc SIPOS [c], Imre MATHESZ - Ferenc BENE, Florian ALBERT, Janos FARKAS,
+      Gyula RAKOSI
+Bulgaria: Simeon SIMEONOV - Ivan VUTSOV, Boris GAGANELOV [c], Dimitar PENEV, Dimitar LARGOV -
+      Ivan DAVIDOV - Dobromir JECHEV, Georgi ASPARUKHOV, Ivan KOLEV, Dimitar YAKIMOV,
+      Nikola KOTKOV
+
+Refs: Roberto GOICOECHEA (ARG), Juan GARDEAZABAL (ESP), Jose Maria CODESAL (URU)
+
+
+▪▪ Group 4
+Tue Jul 12 19:30 UTC+1 @ Ayresome Park, Middlesbrough
+  Soviet Union v North Korea  3-0
+     (Eduard MALOFEYEV 31', 88', Anatoli BANISHEVSKI 33')
+
+Soviet Union: Anzor KAVAZASHVILI - Leonid OSTROVSKI, Vladimir PONOMARYOV, Albert SHESTERNYOV [c] -
+      Murtaz KHURTSILAVA, Yozhef SABO, Georgi SICHINAVA - Igor CHISLENKO, Galimzyan KHUSAINOV [Y 77'],
+      Anatoli BANISHEVSKI, Eduard MALOFEYEV
+North Korea: LEE Chang Myung - PAK Li Sup, SHIN Yung Kyoo, KANG Bong Chil, LIM Zoong Sun -
+      IM Seung Hwi, PAK Doo Ik, KANG Ryong Woon, HAN Bong Zin - PAK Seung Zin [c],
+      KIM Seung Il
+
+Refs: Juan GARDEAZABAL (ESP), Aly Hussein KANDIL (EGY), Gottfried DIENST (SUI)
+
+
+Wed Jul 13 19:30 UTC+1 @ Roker Park Ground, Sunderland
+  Italy v Chile  2-0
+     (Sandro MAZZOLA 8', Paolo BARISON 88')
+
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI, Roberto ROSATO,
+      Sandro SALVADORE [c] - Giacomo BULGARELLI, Giovanni LODETTI, Sandro MAZZOLA,
+      Gianni RIVERA - Paolo BARISON, Marino PERANI
+Chile: Juan OLIVARES - Luis EYZAGUIRRE, Elias FIGUEROA, Hugo VILLANUEVA - Humberto CRUZ,
+      Alberto FOUILLOUX, Ruben MARCOS, Ignacio PRIETO, Leonel SANCHEZ [c] -
+      Pedro ARAYA, Armando TOBAR
+
+Refs: Gottfried DIENST (SUI), Jim FINNEY (ENG), Rudolf KREITLEIN (GER)
+
+
+Fri Jul 15 19:30 UTC+1 @ Ayresome Park, Middlesbrough
+  North Korea v Chile  1-1
+     (PAK Seung Zin 88'; Ruben MARCOS 26'(p))
+
+North Korea: LEE Chang Myung - PAK Li Sup, SHIN Yung Kyoo, LIM Zoong Sun, LI Dong Woon -
+      IM Seung Hwi, PAK Doo Ik, HAN Bong Zin, OH Yoon Kyung - PAK Seung Zin [c],
+      KIM Seung Il
+Chile: Juan OLIVARES - Elias FIGUEROA, Alberto VALENTINI, Hugo VILLANUEVA -
+      Humberto CRUZ, Alberto FOUILLOUX, Ruben MARCOS [Y 17'], Ignacio PRIETO,
+      Leonel SANCHEZ [c] - Pedro ARAYA, Honorino LANDA
+
+Refs: Aly Hussein KANDIL (EGY), William CRAWFORD (SCO), Jim FINNEY (ENG)
+
+
+Sat Jul 16 15:00 UTC+1 @ Roker Park Ground, Sunderland
+  Soviet Union v Italy  1-0
+     (Igor CHISLENKO 57')
+
+Soviet Union: Lev YASHIN - Vladimir PONOMARYOV, Albert SHESTERNYOV [c], Vasily DANILOV -
+      Murtaz KHURTSILAVA, Yozhef SABO [Y 77'], Valeri VORONIN - Igor CHISLENKO,
+      Galimzyan KHUSAINOV, Anatoli BANISHEVSKI, Eduard MALOFEYEV
+Italy: Enrico ALBERTOSI - Tarcisio BURGNICH, Giacinto FACCHETTI, Roberto ROSATO,
+      Sandro SALVADORE [c] - Giacomo BULGARELLI, Gianfranco LEONCINI, Giovanni LODETTI,
+      Sandro MAZZOLA - Luigi MERONI, Ezio PASCUTTI
+
+Refs: Rudolf KREITLEIN (GER), William CRAWFORD (SCO), Aly Hussein KANDIL (EGY)
+
+
+Tue Jul 19 19:30 UTC+1 @ Ayresome Park, Middlesbrough
+  North Korea v Italy  1-0
+     (PAK Doo Ik 42')
+
+North Korea: LEE Chang Myung - SHIN Yung Kyoo, LIM Zoong Sun - IM Seung Hwi, PAK Doo Ik,
+      HAN Bong Zin, OH Yoon Kyung, HA Yung Won - PAK Seung Zin [c], YANG Seung Kook,
+      KIM Bong Hwan
+Italy: Enrico ALBERTOSI - Giacinto FACCHETTI, Aristide GUARNERI, Francesco JANICH,
+      Spartaco LANDINI - Giacomo BULGARELLI [c], Romano FOGLI, Sandro MAZZOLA,
+      Gianni RIVERA - Paolo BARISON, Marino PERANI
+
+Refs: Pierre SCHWINTE (FRA), John ADAIR (NIR), John TAYLOR (ENG)
+
+
+Wed Jul 20 19:30 UTC+1 @ Roker Park Ground, Sunderland
+  Soviet Union v Chile  2-1
+     (Valeriy PORKUYAN 28', 85';
+      Ruben MARCOS 32')
+
+Soviet Union: Anzor KAVAZASHVILI - Leonid OSTROVSKI, Valentin AFONIN, Albert SHESTERNYOV [c],
+      Viktor GETMANOV, Alexey KORNEEV - Valeri VORONIN - Viktor SEREBRYANIKOV,
+      Slava METREVELI, Valeriy PORKUYAN, Eduard MARKAROV
+Chile: Juan OLIVARES - Elias FIGUEROA, Alberto VALENTINI, Hugo VILLANUEVA -
+      Humberto CRUZ, Ruben MARCOS, Ignacio PRIETO, Leonel SANCHEZ [c] - Pedro ARAYA,
+      Honorino LANDA, Guillermo YAVAR
+
+Refs: John ADAIR (NIR), Pierre SCHWINTE (FRA), William CLEMENTS (ENG)
+
+
+▪ Quarter-final
+Sat Jul 23 15:00 UTC+1 @ Roker Park Ground, Sunderland
+  Soviet Union v Hungary  2-1
+     (Igor CHISLENKO 5', Valeriy PORKUYAN 46';
+      Ferenc BENE 57')
+
+Soviet Union: Lev YASHIN - Vladimir PONOMARYOV, Albert SHESTERNYOV [c], Vasily DANILOV -
+      Yozhef SABO, Valeri VORONIN - Igor CHISLENKO, Galimzyan KHUSAINOV, Valeriy PORKUYAN,
+      Anatoli BANISHEVSKI, Eduard MALOFEYEV
+Hungary: Jozsef GELEI - Beno KAPOSZTA, Sandor MATRAI, Kalman MESZOLY, Gusztav SZEPESI -
+      Ferenc SIPOS [c], Istvan NAGY - Ferenc BENE, Florian ALBERT, Janos FARKAS,
+      Gyula RAKOSI
+
+Refs: Juan GARDEAZABAL (ESP), Jose Maria CODESAL (URU), Joaquim FERNANDES CAMPOS (POR)
+
+
+Sat Jul 23 15:00 UTC+1 @ Goodison Park, Liverpool
+  Portugal v North Korea  5-3
+     (EUSEBIO 27', 43'(p), 56', 59'(p), JOSE AUGUSTO 80';
+      PAK Seung Zin 1', LI Dong Woon 22', YANG Seung Kook 25')
+
+Portugal: JOSE PEREIRA - VICENTE, HILARIO, MORAIS, ALEXANDRE BAPTISTA - MARIO COLUNA [c] [Y 41'],
+      JAIME GRACA - ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO, JOSE TORRES
+North Korea: LEE Chang Myung - SHIN Yung Kyoo, LIM Zoong Sun, LI Dong Woon - IM Seung Hwi,
+      PAK Doo Ik, HAN Bong Zin, OH Yoon Kyung, HA Yung Won - PAK Seung Zin [c],
+      YANG Seung Kook
+
+Refs: Menachem ASHKENAZI (ISR), Karol GALBA (TCH), Pierre SCHWINTE (FRA)
+
+
+Sat Jul 23 15:00 UTC+1 @ Hillsborough, Sheffield
+  West Germany v Uruguay  4-0
+     (Helmut HALLER 11', 83', Franz BECKENBAUER 70', Uwe SEELER 75')
+
+West Germany: Hans TILKOWSKI - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Wolfgang WEBER [Y 86'] - Franz BECKENBAUER, Helmut HALLER, Wolfgang OVERATH -
+      Uwe SEELER [c], Sigi HELD, Lothar EMMERICH
+Uruguay: Ladislao MAZURKIEWICZ - Horacio TROCHE [c] [R 49'], Jorge MANICERA, Nestor GONCALVES,
+      Luis UBINA - Omar CAETANO, Julio CORTES, Hector SILVA [Y 20'] [R 54'] -
+      Pedro ROCHA, Domingo PEREZ, Hector SALVA [Y 86']
+
+Refs: Jim FINNEY (ENG), Aly Hussein KANDIL (EGY), Hugh PHILLIPS (SCO)
+
+
+Sat Jul 23 15:00 UTC+1 @ Wembley Stadium, London
+  England v Argentina  1-0
+     (Geoff HURST 78')
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES, Alan BALL, Martin PETERS - Bobby CHARLTON, Geoff HURST,
+      Roger HUNT
+Argentina: Antonio ROMA - Roberto PERFUMO, Silvio MARZOLINI, Roberto FERRERO - Antonio RATTIN [c] [Y 35'] [R 35'],
+      Rafael ALBRECHT - Jorge SOLARI [Y 24'], Alberto GONZALEZ, Luis ARTIME [Y 45'],
+      Ermindo ONEGA, Oscar MAS [Y 89']
+
+Refs: Rudolf KREITLEIN (GER), Gottfried DIENST (SUI), Istvan ZSOLT (HUN)
+
+
+▪ Semi-final
+Mon Jul 25 19:30 UTC+1 @ Goodison Park, Liverpool
+  West Germany v Soviet Union  2-1
+     (Helmut HALLER 43', Franz BECKENBAUER 67';
+      Valeriy PORKUYAN 88')
+
+West Germany: Hans TILKOWSKI - Karl-Heinz SCHNELLINGER, Willi SCHULZ, Wolfgang WEBER,
+      Friedel LUTZ - Franz BECKENBAUER [Y 72'], Helmut HALLER, Wolfgang OVERATH -
+      Uwe SEELER [c], Sigi HELD, Lothar EMMERICH
+Soviet Union: Lev YASHIN - Vladimir PONOMARYOV, Albert SHESTERNYOV [c], Vasily DANILOV -
+      Yozhef SABO, Valeri VORONIN [Y 20'] - Igor CHISLENKO [R 44'], Galimzyan KHUSAINOV,
+      Valeriy PORKUYAN, Anatoli BANISHEVSKI, Eduard MALOFEYEV
+
+Refs: Concetto LO BELLO (ITA), Jose Maria CODESAL (URU), Juan GARDEAZABAL (ESP)
+
+
+Tue Jul 26 19:30 UTC+1 @ Wembley Stadium, London
+  England v Portugal  2-1
+     (Bobby CHARLTON 30', 80';
+      EUSEBIO 82'(p))
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES, Alan BALL, Martin PETERS - Bobby CHARLTON, Geoff HURST,
+      Roger HUNT
+Portugal: JOSE PEREIRA - HILARIO, ALEXANDRE BAPTISTA, JOSE CARLOS, FESTA - MARIO COLUNA [c],
+      JAIME GRACA - ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO, JOSE TORRES
+
+Refs: Pierre SCHWINTE (FRA), Arturo YAMASAKI MALDONADO (MEX), Konstantin ZECEVIC (YUG)
+
+
+▪ Match for third place
+Thu Jul 28 19:30 UTC+1 @ Wembley Stadium, London
+  Portugal v Soviet Union  2-1
+     (EUSEBIO 12'(p), JOSE TORRES 89';
+      Eduard MALOFEYEV 43')
+
+Portugal: JOSE PEREIRA - HILARIO, ALEXANDRE BAPTISTA, JOSE CARLOS, FESTA - MARIO COLUNA [c],
+      JAIME GRACA - ANTONIO SIMOES, JOSE AUGUSTO, EUSEBIO, JOSE TORRES
+Soviet Union: Lev YASHIN [c] - Vladimir PONOMARYOV, Vasily DANILOV, Alexey KORNEEV -
+      Murtaz KHURTSILAVA, Valeri VORONIN, Georgi SICHINAVA - Viktor SEREBRYANIKOV,
+      Slava METREVELI, Anatoli BANISHEVSKI, Eduard MALOFEYEV
+
+Refs: Kenneth DAGNALL (ENG), Kevin HOWLEY (ENG), Aly Hussein KANDIL (EGY)
+
+
+▪ Final
+Sat Jul 30 15:00 UTC+1 @ Wembley Stadium, London
+  England v West Germany  4-2 a.e.t.
+     (Geoff HURST 18', 101', 120', Martin PETERS 78';
+      Helmut HALLER 12', Wolfgang WEBER 89')
+
+England: Gordon BANKS - George COHEN, Ray WILSON, Jack CHARLTON, Bobby MOORE [c] -
+      Nobby STILES, Alan BALL, Martin PETERS [Y 22'] - Bobby CHARLTON, Geoff HURST,
+      Roger HUNT
+West Germany: Hans TILKOWSKI - Horst-Dieter HOETTGES, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Wolfgang WEBER - Franz BECKENBAUER, Helmut HALLER, Wolfgang OVERATH -
+      Uwe SEELER [c], Sigi HELD, Lothar EMMERICH
+
+Refs: Gottfried DIENST (SUI), Tofik BAKHRAMOV (URS), Karol GALBA (TCH)
+
+

@@ -1,0 +1,1073 @@
+= World Cup 2022
+
+# Dates    Sun Nov 20 - Sun Dec 18 2022 (28d)
+# Teams    32
+# Matches  64
+# Venues   8 (in 5 cities)
+#   Lusail Stadium, Al Daayen (QAT)
+#   Al Bayt Stadium, Al Khor (QAT)
+#   Al Janoub Stadium, Al Wakrah (QAT)
+#   Ahmad Bin Ali Stadium, Ar-Rayyan (QAT)
+#   Khalifa International Stadium, Ar-Rayyan (QAT)
+#   Education City Stadium, Doha (QAT)
+#   Stadium 974, Doha (QAT)
+#   Al Thumama Stadium, Doha (QAT)
+
+▪ First stage
+▪▪ Group A
+Sun Nov 20 19:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 67372
+  Qatar v Ecuador  0-2
+     (Enner VALENCIA 16'(p), 31')
+
+Qatar: SAAD ALSHEEB [Y 15'] - PEDRO MIGUEL, ABDELKARIM HASSAN, HOMAM AHMED,
+      BASSAM HISHAM, BOUALEM KHOUKHI - ABDULAZIZ HATEM, HASSAN ALHAYDOS [c] (72' MOHAMMED WAAD),
+      KARIM BOUDIAF [Y 36'] - AKRAM AFIF [Y 78'], ALMOEZ ALI [Y 22'] (72' MOHAMMED MUNTARI)
+Ecuador: Hernan GALINDEZ - Felix TORRES, Piero HINCAPIE, Pervis ESTUPINAN, Angelo PRECIADO -
+      Romario IBARRA (68' Jeremy SARMIENTO), Gonzalo PLATA, Jhegson MENDEZ [Y 56'],
+      Moises CAICEDO [Y 29'] (90' Alan FRANCO) - Michael ESTRADA (90' Kevin RODRIGUEZ),
+      Enner VALENCIA [c] (77' Jose CIFUENTES)
+
+Refs: Daniele Orsato (ITA), Ciro Carbone (ITA), Alessandro Giallatini (ITA)
+
+
+Mon Nov 21 19:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 41721
+  Senegal v Netherlands  0-2
+     (Cody GAKPO 84', Davy KLAASSEN 90+9')
+
+Senegal: Edouard MENDY - Kalidou KOULIBALY [c], Pape Abou CISSE, Youssouf SABALY,
+      Abdou DIALLO (62' Ismail JAKOBS) - Idrissa Gana GUEYE [Y 90+6'], Nampalys MENDY [Y 90+4'],
+      Cheikhou KOUYATE (73' Pape GUEYE), Krepin DIATTA (73' Nicolas JACKSON),
+      Ismaila SARR - Boulaye DIA (69' Cheikh DIENG)
+Netherlands: Andries NOPPERT - Matthijs DE LIGT [Y 56'], Virgil VAN DIJK [c], Nathan AKE -
+      Cody GAKPO (90+4' Marten DE ROON), Steven BERGHUIS (79' Teun KOOPMEINERS),
+      Daley BLIND, Frenkie DE JONG, Denzel DUMFRIES - Steven BERGWIJN (79' Davy KLAASSEN),
+      Vincent JANSSEN (62' Memphis DEPAY)
+
+Refs: Wilton SAMPAIO (BRA), Bruno Boschilia (BRA), Bruno PIRES (BRA)
+
+
+Fri Nov 25 16:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 41797
+  Qatar v Senegal  1-3
+     (MOHAMMED MUNTARI 78';
+      Boulaye DIA 41', Famara DIEDHIOU 48', Cheikh DIENG 84')
+
+Qatar: MESHAAL BARSHAM - PEDRO MIGUEL (83' MOHAMMED WAAD), ABDELKARIM HASSAN,
+      HOMAM AHMED [Y 45+2'] (83' TAREK SALMAN), BOUALEM KHOUKHI, ISMAIL MOHAMAD [Y 20'] -
+      HASSAN ALHAYDOS [c] (74' MOHAMMED MUNTARI), KARIM BOUDIAF (69' ABDULAZIZ HATEM),
+      ASSIM MADIBO [Y 90+1'] - AKRAM AFIF, ALMOEZ ALI
+Senegal: Edouard MENDY - Kalidou KOULIBALY [c], Ismail JAKOBS [Y 52'] (78' Pape Abou CISSE),
+      Youssouf SABALY, Abdou DIALLO - Idrissa Gana GUEYE, Nampalys MENDY (78' Pape SARR),
+      Krepin DIATTA (64' Pathe CISS [Y 87']), Ismaila SARR (74' Iliman NDIAYE) -
+      Boulaye DIA [Y 30'], Famara DIEDHIOU (74' Cheikh DIENG)
+
+Refs: Antonio MATEU (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
+
+
+Fri Nov 25 19:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44833
+  Netherlands v Ecuador  1-1
+     (Cody GAKPO 6'; Enner VALENCIA 49')
+
+Netherlands: Andries NOPPERT - Jurrien TIMBER, Virgil VAN DIJK [c], Nathan AKE - Davy KLAASSEN (69' Steven BERGHUIS),
+      Daley BLIND, Teun KOOPMEINERS (79' Marten DE ROON), Frenkie DE JONG,
+      Denzel DUMFRIES - Steven BERGWIJN (46' Memphis DEPAY), Cody GAKPO (79' Wout WEGHORST)
+Ecuador: Hernan GALINDEZ - Felix TORRES, Piero HINCAPIE, Jackson POROZO - Pervis ESTUPINAN,
+      Angelo PRECIADO, Jhegson MENDEZ [Y 57'], Moises CAICEDO - Michael ESTRADA (74' Jeremy SARMIENTO),
+      Enner VALENCIA [c] (90' Kevin RODRIGUEZ), Gonzalo PLATA (90' Romario IBARRA)
+
+Refs: Mustapha Ghorbal (ALG), Mokrane Gourari (ALG), Abdelhak ETCHIALI (ALG)
+
+
+Tue Nov 29 18:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 66784
+  Netherlands v Qatar  2-0
+     (Cody GAKPO 26', Frenkie DE JONG 49')
+
+Netherlands: Andries NOPPERT - Jurrien TIMBER, Virgil VAN DIJK [c], Nathan AKE [Y 52'] -
+      Davy KLAASSEN (66' Steven BERGHUIS), Marten DE ROON (82' Teun KOOPMEINERS),
+      Daley BLIND, Frenkie DE JONG (86' Kenneth TAYLOR), Denzel DUMFRIES -
+      Cody GAKPO (82' Wout WEGHORST), Memphis DEPAY (66' Vincent JANSSEN)
+Qatar: MESHAAL BARSHAM - PEDRO MIGUEL, ABDELKARIM HASSAN, HOMAM AHMED, BOUALEM KHOUKHI,
+      ISMAIL MOHAMAD (85' MUSAAB KHIDIR) - ABDULAZIZ HATEM (85' AHMED ALAAELDIN),
+      HASSAN ALHAYDOS [c] (64' ALI ASSADALLA), ASSIM MADIBO (64' KARIM BOUDIAF) -
+      AKRAM AFIF, ALMOEZ ALI (64' MOHAMMED MUNTARI)
+
+Refs: Bakary GASSAMA (GAM), Elvis NOUPUE (CMR), Mahmoud Ahmed Kamel Abo El Regal (EGY)
+
+
+Tue Nov 29 18:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44569
+  Ecuador v Senegal  1-2
+     (Moises CAICEDO 67';
+      Ismaila SARR 44'(p), Kalidou KOULIBALY 70')
+
+Ecuador: Hernan GALINDEZ - Felix TORRES, Piero HINCAPIE, Pervis ESTUPINAN, Angelo PRECIADO (85' Jackson POROZO) -
+      Carlos GRUEZO (46' Jose CIFUENTES), Alan FRANCO (46' Jeremy SARMIENTO),
+      Moises CAICEDO - Michael ESTRADA (64' Djorkaeff REASCO), Enner VALENCIA [c],
+      Gonzalo PLATA
+Senegal: Edouard MENDY - Kalidou KOULIBALY [c], Ismail JAKOBS, Youssouf SABALY,
+      Abdou DIALLO - Idrissa Gana GUEYE [Y 66'], Pathe CISS (74' Nampalys MENDY),
+      Pape GUEYE - Boulaye DIA (90+5' Pape Abou CISSE), Iliman NDIAYE (74' Cheikh DIENG),
+      Ismaila SARR
+
+Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
+
+
+▪▪ Group B
+Mon Nov 21 16:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45334
+  England v Iran  6-2
+     (Jude BELLINGHAM 35', Bukayo SAKA 43', 62', Raheem STERLING 45+1', Marcus RASHFORD 71', Jack GREALISH 90';
+      Mehdi TAREMI 65', 90+13'(p))
+
+England: Jordan PICKFORD - Luke SHAW, John STONES, Harry MAGUIRE (70' Eric  DIER),
+      Kieran TRIPPIER - Declan RICE, Mason MOUNT (70' Phil FODEN), Jude BELLINGHAM -
+      Harry KANE [c] (75' Callum WILSON), Raheem STERLING (70' Jack GREALISH),
+      Bukayo SAKA (70' Marcus RASHFORD)
+Iran: Ali BEIRANVAND (20' Hossein HOSSEINI) - Sadegh MOHARRAMI, Milad MOHAMMADI (63' Mahdi TORABI),
+      Morteza POURALIGANJI [Y 48'], Roozbeh CHESHMI (46' Mohammad KANAANI),
+      Majid HOSSEINI - Ehsan HAJI SAFI [c], Ali KARIMI (46' Saeid EZATOLAHI),
+      Ahmad NOOROLLAHI (77' Sardar AZMOUN) - Alireza JAHANBAKHSH [Y 25'] (46' Ali GHOLIZADEH),
+      Mehdi TAREMI
+
+Refs: Raphael Claus (BRA), Rodrigo Figueiredo Henrique Correa (BRA), Danilo SIMON (BRA)
+
+
+Mon Nov 21 22:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 43418
+  USA v Wales  1-1
+     (Tim WEAH 36'; Gareth BALE 82'(p))
+
+USA: Matt TURNER - Sergino DEST [Y 11'] (74' DeAndre YEDLIN), Walker ZIMMERMAN,
+      Antonee ROBINSON, Tim REAM [Y 51'] - Tyler  ADAMS [c], Yunus MUSAH (74' Kellyn PERRY-ACOSTA [Y 90+10']),
+      Weston McKENNIE [Y 13'] (66' Brenden AARONSON) - Christian  PULISIC,
+      Tim WEAH (88' Jordan MORRIS), Josh SARGENT (74' Haji WRIGHT)
+Wales: Wayne HENNESSEY - Neco WILLIAMS (79' Brennan JOHNSON), Ben DAVIES, Chris MEPHAM [Y 45+2'],
+      Joe RODON, Connor ROBERTS - Harry WILSON (90+3' Sorba THOMAS), Aaron RAMSEY,
+      Ethan AMPADU (90+5' Joseff MORRELL) - Gareth BALE [c] [Y 40'], Daniel JAMES (46' Kieffer MOORE)
+
+Refs: Abdulrahman AL JASSIM (QAT), Taleb AL MARRI (QAT), Saoud AL MAQALEH (QAT)
+
+
+Fri Nov 25 13:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 40875
+  Wales v Iran  0-2
+     (Roozbeh CHESHMI 90+8', Ramin REZAEIAN 90+11')
+
+Wales: Wayne HENNESSEY [R 86'] - Ben DAVIES, Chris MEPHAM, Joe RODON [Y 45+3'] -
+      Neco WILLIAMS, Aaron RAMSEY (87' Danny WARD), Connor ROBERTS (57' Brennan JOHNSON),
+      Ethan AMPADU (77' Joe ALLEN) - Harry WILSON (57' Daniel JAMES), Gareth BALE [c],
+      Kieffer MOORE
+Iran: Hossein HOSSEINI - Milad MOHAMMADI, Morteza POURALIGANJI, Majid HOSSEINI,
+      Ramin REZAEIAN [Y 90+5'] - Ehsan HAJI SAFI [c] (77' Mahdi TORABI), Saeid EZATOLAHI (83' Ali KARIMI),
+      Ahmad NOOROLLAHI (77' Roozbeh CHESHMI) - Mehdi TAREMI, Ali GHOLIZADEH (77' Alireza JAHANBAKHSH [Y 90+5']),
+      Sardar AZMOUN (68' Karim ANSARIFARD)
+
+Refs: Mario Alberto Escobar Toca (GUA), Caleb Wales (TRI), Juan Carlos Mora (CRC)
+
+
+Fri Nov 25 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 68463
+  England v USA  0-0
+
+England: Jordan PICKFORD - Luke SHAW, John STONES, Harry MAGUIRE, Kieran TRIPPIER -
+      Declan RICE, Mason MOUNT, Jude BELLINGHAM (68' Jordan HENDERSON) - Harry KANE [c],
+      Raheem STERLING (68' Jack GREALISH), Bukayo SAKA (77' Marcus RASHFORD)
+USA: Matt TURNER - Sergino DEST (77' Shaquell MOORE), Walker ZIMMERMAN, Antonee ROBINSON,
+      Tim REAM - Tyler  ADAMS [c], Yunus MUSAH, Weston McKENNIE (77' Brenden AARONSON) -
+      Christian  PULISIC, Haji WRIGHT (83' Josh SARGENT), Tim WEAH (83' Giovanni REYNA)
+
+Refs: Jesús Valenzuela Sáez (VEN), Jorge Urrego Martínez (VEN), Tulio Moreno (VEN)
+
+
+Tue Nov 29 22:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 44297
+  Wales v England  0-3
+     (Marcus RASHFORD 50', 68', Phil FODEN 51')
+
+Wales: Danny WARD - Neco WILLIAMS (36' Connor ROBERTS), Ben DAVIES (57' Joseff MORRELL),
+      Chris MEPHAM, Joe RODON - Joe ALLEN (81' Rubin COLWILL), Aaron RAMSEY [Y 61'],
+      Gareth BALE [c] (46' Brennan JOHNSON), Ethan AMPADU, Daniel JAMES [Y 29'] (77' Harry WILSON) -
+      Kieffer MOORE
+England: Jordan PICKFORD - Kyle WALKER (57' Trent ALEXANDER-ARNOLD), Luke SHAW (65' Kieran TRIPPIER),
+      John STONES, Harry MAGUIRE - Declan RICE (57' Kalvin PHILLIPS), Jordan HENDERSON,
+      Jude BELLINGHAM - Harry KANE [c] (57' Callum WILSON), Marcus RASHFORD (75' Jack GREALISH),
+      Phil FODEN
+
+Refs: Slavko VINCIC (SVN), Tomaz KLANCNIK (SVN), Andraz KOVACIC (SVN)
+
+
+Tue Nov 29 22:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 42127
+  Iran v USA  0-1
+     (Christian  PULISIC 38')
+
+Iran: Ali BEIRANVAND - Milad MOHAMMADI (45+2' Ali KARIMI), Morteza POURALIGANJI,
+      Majid HOSSEINI [Y 77'], Ramin REZAEIAN - Ehsan HAJI SAFI [c] (71' Abolfazl JALALI [Y 90+6']),
+      Saeid EZATOLAHI, Mehdi TAREMI, Ali GHOLIZADEH (77' Karim ANSARIFARD),
+      Ahmad NOOROLLAHI (71' Mahdi TORABI) - Sardar AZMOUN (46' Saman GHODDOS)
+USA: Matt TURNER - Sergino DEST (82' Shaquell MOORE), Antonee ROBINSON, Tim REAM,
+      Cameron CARTER-VICKERS - Tyler  ADAMS [c] [Y 43'], Yunus MUSAH, Weston McKENNIE (65' Kellyn PERRY-ACOSTA) -
+      Christian  PULISIC (46' Brenden AARONSON), Tim WEAH (82' Walker ZIMMERMAN),
+      Josh SARGENT (77' Haji WRIGHT)
+
+Refs: Antonio MATEU (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
+
+
+▪▪ Group C
+Tue Nov 22 13:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88012
+  Argentina v Saudi Arabia  1-2
+     (Lionel MESSI 10'(p);
+      SALEH ALSHEHRI 48', SALEM ALDAWSARI 53')
+
+Argentina: Emiliano MARTINEZ - Nicolas TAGLIAFICO (71' Marcos ACUNA), Cristian ROMERO (59' Lisandro MARTINEZ),
+      Nicolas OTAMENDI, Nahuel MOLINA - Leandro PAREDES (59' Enzo FERNANDEZ),
+      Rodrigo DE PAUL, Angel DI MARIA, Alejandro GOMEZ (59' Julian ALVAREZ) -
+      Lionel MESSI [c], Lautaro MARTINEZ
+Saudi Arabia: MOHAMMED ALOWAIS [Y 90+2'] - ALI ALBULAYHI [Y 75'], SAUD ABDULHAMID [Y 82'],
+      YASSER ALSHAHRANI (90+9' MOHAMMED ALBURAYK), Hassan ALTAMBAKTI - SALMAN ALFARAJ [c] (45+4' NAWAF AL ABID [Y 88'] (89' Abdulelah ALAMRI)),
+      ABDULELAH ALMALKI [Y 67'], MOHAMED KANNO - FERAS ALBRIKAN (89' HAITHAM ASIRI),
+      SALEM ALDAWSARI [Y 79'], SALEH ALSHEHRI (78' SULTAN ALGHANNAM)
+
+Refs: Slavko VINCIC (SVN), Tomaz KLANCNIK (SVN), Andraz KOVACIC (SVN)
+
+
+Tue Nov 22 19:00 UTC+3 @ Stadium 974, Doha, Att: 39369
+  Mexico v Poland  0-0
+
+Mexico: Guillermo OCHOA [c] - Cesar  MONTES, Hector MORENO [Y 56'], Jorge SANCHEZ [Y 29'],
+      Jesus GALLARDO - Edson ALVAREZ, Hector HERRERA (71' Carlos RODRIGUEZ),
+      Luis CHAVEZ - Alexis VEGA (84' Uriel ANTUNA), Henry MARTIN (71' Raul JIMENEZ),
+      Hirving  LOZANO
+Poland: Wojciech SZCZESNY - Matty CASH, Jakub KIWIOR, Kamil GLIK, Bartosz BERESZYNSKI -
+      Grzegorz KRYCHOWIAK, Jakub KAMINSKI, Sebastian SZYMANSKI (71' Przemyslaw FRANKOWSKI [Y 76']),
+      Piotr ZIELINSKI (87' Arkadiusz MILIK), Nicola ZALEWSKI (46' Krystian BIELIK) -
+      Robert LEWANDOWSKI [c]
+
+Refs: Chris Beath (AUS), Anton Schetinin (AUS), Ashley Beecham (AUS)
+
+
+Sat Nov 26 16:00 UTC+3 @ Education City Stadium, Doha, Att: 44259
+  Poland v Saudi Arabia  2-0
+     (Piotr ZIELINSKI 39', Robert LEWANDOWSKI 82')
+
+Poland: Wojciech SZCZESNY - Matty CASH [Y 16'], Jakub KIWIOR [Y 15'], Kamil GLIK,
+      Bartosz BERESZYNSKI - Krystian BIELIK, Arkadiusz MILIK [Y 19'] (71' Krzysztof PIATEK),
+      Grzegorz KRYCHOWIAK, Piotr ZIELINSKI (63' Jakub KAMINSKI), Przemyslaw FRANKOWSKI -
+      Robert LEWANDOWSKI [c]
+Saudi Arabia: MOHAMMED ALOWAIS - Abdulelah ALAMRI [Y 45+4'], ALI ALBULAYHI, MOHAMMED ALBURAYK (65' SULTAN ALGHANNAM),
+      SAUD ABDULHAMID - ABDULELAH ALMALKI [Y 20'] (85' ABDULRAHMAN ALOBUD),
+      FERAS ALBRIKAN, SALEM ALDAWSARI [c], Sami ALNAJI (46' NAWAF AL ABID (90+5' HATAN BAHBRI)),
+      MOHAMED KANNO - SALEH ALSHEHRI (85' Nasser ALDAWSARI)
+
+Refs: Wilton SAMPAIO (BRA), Bruno Boschilia (BRA), Bruno PIRES (BRA)
+
+
+Sat Nov 26 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88966
+  Argentina v Mexico  2-0
+     (Lionel MESSI 64', Enzo FERNANDEZ 87')
+
+Argentina: Emiliano MARTINEZ - Gonzalo MONTIEL [Y 43'] (63' Nahuel MOLINA), Marcos ACUNA,
+      Nicolas OTAMENDI, Lisandro MARTINEZ - Rodrigo DE PAUL, Angel DI MARIA (69' Cristian ROMERO),
+      RODRIGUEZ GUIDO (57' Enzo FERNANDEZ), Alexis MAC ALLISTER (69' Exequiel PALACIOS) -
+      Lionel MESSI [c], Lautaro MARTINEZ (63' Julian ALVAREZ)
+Mexico: Guillermo OCHOA - Nestor ARAUJO [Y 22'], Cesar  MONTES, Hector MORENO,
+      Jesus GALLARDO, Kevin ALVAREZ (66' Raul JIMENEZ) - Hector HERRERA [Y 66'],
+      Andres GUARDADO [c] (42' Erick GUTIERREZ [Y 50']), Luis CHAVEZ - Alexis VEGA (66' Uriel ANTUNA),
+      Hirving  LOZANO (73' Roberto ALVARADO [Y 89'])
+
+Refs: Daniele Orsato (ITA), Ciro Carbone (ITA), Alessandro Giallatini (ITA)
+
+
+Wed Nov 30 22:00 UTC+3 @ Stadium 974, Doha, Att: 44089
+  Poland v Argentina  0-2
+     (Alexis MAC ALLISTER 46', Julian ALVAREZ 67')
+
+Poland: Wojciech SZCZESNY - Matty CASH, Jakub KIWIOR, Kamil GLIK, Bartosz BERESZYNSKI (72' Artur JEDRZEJCZYK) -
+      Krystian BIELIK (62' Damian SZYMANSKI), Grzegorz KRYCHOWIAK [Y 78'] (83' Krzysztof PIATEK),
+      Karol SWIDERSKI (46' Michal SKORAS), Piotr ZIELINSKI, Przemyslaw FRANKOWSKI (46' Jakub KAMINSKI) -
+      Robert LEWANDOWSKI [c]
+Argentina: Emiliano MARTINEZ - Marcos ACUNA [Y 49'] (59' Nicolas TAGLIAFICO), Cristian ROMERO,
+      Nicolas OTAMENDI, Nahuel MOLINA - Rodrigo DE PAUL, Alexis MAC ALLISTER (83' Thiago ALMADA),
+      Enzo FERNANDEZ (79' German PEZZELLA) - Julian ALVAREZ (79' Lautaro MARTINEZ),
+      Lionel MESSI [c], Angel DI MARIA (59' Leandro PAREDES)
+
+Refs: Danny Desmond Makkelie (NED), Hessel Steegstra (NED), Jan de Vries (NED)
+
+
+Wed Nov 30 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 84985
+  Saudi Arabia v Mexico  1-2
+     (SALEM ALDAWSARI 90+5';
+      Henry MARTIN 47', Luis CHAVEZ 52')
+
+Saudi Arabia: MOHAMMED ALOWAIS - SULTAN ALGHANNAM (88' HATAN BAHBRI [Y 90+7']), Abdulelah ALAMRI [Y 90+1'],
+      ALI ALBULAYHI (37' RIYADH SHARAHILI), Hassan ALTAMBAKTI [Y 52'] - FERAS ALBRIKAN,
+      SALEM ALDAWSARI [c], SAUD ABDULHAMID, ALI ALHASSAN [Y 34'] (46' ABDULLAH MADU [Y 81']) -
+      SALEH ALSHEHRI [Y 28'] (62' ABDULRAHMAN ALOBUD), MOHAMED KANNO
+Mexico: Guillermo OCHOA [c] - Cesar  MONTES, Hector MORENO, Jorge SANCHEZ (86' Kevin ALVAREZ),
+      Jesus GALLARDO - Edson ALVAREZ [Y 16'] (86' Rogelio FUNES MORI), Alexis VEGA (46' Uriel ANTUNA),
+      Orbelin PINEDA (77' Carlos RODRIGUEZ), Hirving  LOZANO, Luis CHAVEZ -
+      Henry MARTIN (77' Raul JIMENEZ)
+
+Refs: Michael Oliver (ENG), Stuart Burt (ENG), Simon Bennett (ENG)
+
+
+▪▪ Group D
+Tue Nov 22 16:00 UTC+3 @ Education City Stadium, Doha, Att: 42925
+  Denmark v Tunisia  0-0
+
+Denmark: Kasper  SCHMEICHEL - Joachim ANDERSEN, Simon KJAER [c] (65' Mathias JENSEN [Y 78']),
+      Andreas CHRISTENSEN - Joakim MAEHLE, Thomas DELANEY (45+1' Mikkel DAMSGAARD),
+      Christian ERIKSEN, Rasmus KRISTENSEN [Y 24'], Pierre-Emile HOJBJERG -
+      Andreas SKOV OLSEN (65' Jesper LINDSTROM), Kasper DOLBERG (65' Andreas CORNELIUS)
+Tunisia: Aymen DAHMEN - Montassar TALBI, Yassine MERIAH, Dylan BRONN - Aissa LAIDOUNI (88' Ferjani SASSI),
+      Ellyes SKHIRI, Mohamed DRAGER (88' Wajdi KECHRIDA), Ali ABDI - Youssef MSAKNI [c] (80' Hannibal MEJBRI),
+      Issam JEBALI (80' Taha KHENISSI [Y 86']), Anis SLIMANE (67' Naim SLITI)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Alberto Morín Méndez (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+Tue Nov 22 22:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 40875
+  France v Australia  4-1
+     (Adrien RABIOT 27', Olivier GIROUD 32', 71', Kylian MBAPPE 68';
+      Craig GOODWIN 9')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD (89' Jules KOUNDE), Dayot UPAMECANO,
+      Lucas HERNANDEZ (13' Theo HERNANDEZ), Ibrahima KONATE - Antoine GRIEZMANN,
+      Aurelien TCHOUAMENI (77' Youssouf Fofana), Adrien RABIOT - Olivier GIROUD (89' Marcus THURAM),
+      Kylian MBAPPE, Ousmane DEMBELE (77' Kingsley COMAN)
+Australia: Mathew RYAN [c] - Nathaniel ATKINSON (85' Milos DEGENEK), Kye ROWLES,
+      Aziz BEHICH, Harry SOUTTAR - Aaron MOOY [Y 90+5'], Riley McGREE (73' Awer MABIL),
+      Jackson IRVINE [Y 80'] (85' Keanu BACCUS) - Mathew LECKIE, Mitch DUKE [Y 55'] (56' Jason CUMMINGS),
+      Craig GOODWIN (73' Garang KUOL)
+
+Refs: Victor GOMES (RSA), Zakhele SIWELA (RSA), Souru PHATSOANE (LES)
+
+
+Sat Nov 26 13:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 41823
+  Tunisia v Australia  0-1
+     (Mitch DUKE 23')
+
+Tunisia: Aymen DAHMEN - Montassar TALBI, Yassine MERIAH, Dylan BRONN (73' Wajdi KECHRIDA) -
+      Aissa LAIDOUNI [Y 26'] (67' Wahbi KHAZRI), Ellyes SKHIRI, Mohamed DRAGER (46' Ferjani SASSI [Y 90+3']),
+      Ali ABDI [Y 64'] - Youssef MSAKNI [c], Issam JEBALI (73' Taha KHENISSI),
+      Naim SLITI
+Australia: Mathew RYAN [c] - Kye ROWLES, Fran KARACIC (75' Milos DEGENEK), Aziz BEHICH,
+      Harry SOUTTAR - Mathew LECKIE (85' Keanu BACCUS), Aaron MOOY, Jackson IRVINE,
+      Craig GOODWIN (85' Awer MABIL) - Riley McGREE (64' Ajdin HRUSTIC), Mitch DUKE (64' Jamie MacLAREN)
+
+Refs: Daniel SIEBERT (GER), Jan Seidel (GER), Rafael FOLTYN (GER)
+
+
+Sat Nov 26 19:00 UTC+3 @ Stadium 974, Doha, Att: 42860
+  France v Denmark  2-1
+     (Kylian MBAPPE 61', 86';
+      Andreas CHRISTENSEN 68')
+
+France: Hugo LLORIS [c] - Raphael VARANE (75' Ibrahima KONATE), Jules KOUNDE [Y 43'],
+      Dayot UPAMECANO, Theo HERNANDEZ - Antoine GRIEZMANN (90+2' Youssouf Fofana),
+      Aurelien TCHOUAMENI, Kylian MBAPPE, Ousmane DEMBELE (75' Kingsley COMAN),
+      Adrien RABIOT - Olivier GIROUD (63' Marcus THURAM)
+Denmark: Kasper  SCHMEICHEL [c] - Joachim ANDERSEN, Victor NELSSON, Andreas CHRISTENSEN [Y 20'] -
+      Joakim MAEHLE, Christian ERIKSEN, Rasmus KRISTENSEN (90+2' Alexander BAH),
+      Pierre-Emile HOJBJERG - Mikkel DAMSGAARD (73' Kasper DOLBERG), Andreas CORNELIUS [Y 23'] (46' Martin BRAITHWAITE),
+      Jesper LINDSTROM (85' Christian NORGAARD)
+
+Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
+
+
+Wed Nov 30 18:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 41232
+  Australia v Denmark  1-0
+     (Mathew LECKIE 60')
+
+Australia: Mathew RYAN [c] - Milos DEGENEK [Y 57'], Kye ROWLES, Aziz BEHICH [Y 4'],
+      Harry SOUTTAR - Mathew LECKIE (89' Ajdin HRUSTIC), Aaron MOOY, Jackson IRVINE,
+      Craig GOODWIN (46' Keanu BACCUS) - Riley McGREE (74' Bailey WRIGHT),
+      Mitch DUKE (82' Jamie MacLAREN)
+Denmark: Kasper  SCHMEICHEL - Joachim ANDERSEN, Joakim MAEHLE (69' Andreas CORNELIUS),
+      Andreas CHRISTENSEN, Rasmus KRISTENSEN (46' Alexander BAH) - Mathias JENSEN (59' Mikkel DAMSGAARD),
+      Christian ERIKSEN [c], Pierre-Emile HOJBJERG - Martin BRAITHWAITE (59' Kasper DOLBERG),
+      Andreas SKOV OLSEN (69' Robert SKOV [Y 75']), Jesper LINDSTROM
+
+Refs: Mustapha Ghorbal (ALG), Mokrane Gourari (ALG), Abdelhak ETCHIALI (ALG)
+
+
+Wed Nov 30 18:00 UTC+3 @ Education City Stadium, Doha, Att: 43627
+  Tunisia v France  1-0
+     (Wahbi KHAZRI 58')
+
+Tunisia: Aymen DAHMEN - Montassar TALBI, Yassine MERIAH, Nader GHANDRI - Ali MAALOUL,
+      Aissa LAIDOUNI, Ellyes SKHIRI, Wajdi KECHRIDA [Y 28'] - Wahbi KHAZRI [c] (60' Issam JEBALI),
+      BEN ROMDHANE Ali (74' Ghaylen CHAALELI), Anis SLIMANE (83' Ali ABDI)
+France: Steve MANDANDA - Axel DISASI, Raphael VARANE [c] (63' William SALIBA),
+      Ibrahima KONATE, Eduardo CAMAVINGA - Aurelien TCHOUAMENI, Youssouf Fofana (73' Antoine GRIEZMANN),
+      Jordan VERETOUT (63' Adrien RABIOT) - Matteo GUENDOUZI (79' Ousmane DEMBELE),
+      Randal KOLO MUANI, Kingsley COMAN (63' Kylian MBAPPE)
+
+Refs: Matthew CONGER (NZL), Tevita MAKASINI (TGA), Mark RULE (NZL)
+
+
+▪▪ Group E
+Wed Nov 23 16:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 42608
+  Germany v Japan  1-2
+     (Ilkay GUENDOGAN 33'(p);
+      Ritsu DOAN 75', Takuma ASANO 83')
+
+Germany: Manuel NEUER [c] - Antonio RUEDIGER, David RAUM, Niklas SUELE, Nico SCHLOTTERBECK -
+      Joshua KIMMICH, Serge GNABRY (90' Youssoufa MOUKOKO), Thomas MUELLER (67' Jonas HOFMANN),
+      Jamal MUSIALA (79' Mario GOETZE), Ilkay GUENDOGAN (67' Leon GORETZKA) -
+      Kai HAVERTZ (79' Niclas FUELLKRUG)
+Japan: Shuichi GONDA - Kou ITAKURA, Yuto NAGATOMO (57' Kaoru MITOMA), Hiroki SAKAI (75' Takumi MINAMINO),
+      Maya YOSHIDA [c] - Wataru ENDO, Takefusa KUBO (46' Takehiro TOMIYASU),
+      Junya ITO, Daichi KAMADA, Ao TANAKA (71' Ritsu DOAN) - Daizen MAEDA (57' Takuma ASANO)
+
+Refs: Ivan Arcides Barton Cisneros (SLV), David Jonathan Morán Santos (SLV), Zachari Zeegelaar (SUR)
+
+
+Wed Nov 23 19:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 40013
+  Spain v Costa Rica  7-0
+     (Dani OLMO 11', Marco ASENSIO 21', Ferran TORRES 31'(p), 54', GAVI 74', Carlos SOLER 90', Alvaro MORATA 90+2')
+
+Spain: Unai SIMON - Cesar AZPILICUETA, RODRI, Jordi ALBA (64' Alejandro BALDE),
+      Aymeric LAPORTE - Sergio BUSQUETS [c] (64' KOKE), GAVI, Pedri GONZALEZ (57' Carlos SOLER) -
+      Marco ASENSIO (69' Nico WILLIAMS), Ferran TORRES (57' Alvaro MORATA),
+      Dani OLMO
+Costa Rica: Keylor NAVAS [c] - Oscar DUARTE, Bryan OVIEDO (82' Ronald MATARRITA),
+      Francisco CALVO [Y 68'], Carlos MARTINEZ (46' Kendall WASTON) - Keysher FULLER,
+      Celso BORGES (72' Brandon AGUILERA), Jewison BENNETTE (61' Bryan RUIZ),
+      Yeltsin TEJEDA - Anthony CONTRERAS (61' Alvaro ZAMORA), Joel CAMPBELL [Y 90+7']
+
+Refs: Mohammed ABDULLA (UAE), Mohamed AL HAMMADI (UAE), Hasan AL MAHRI (UAE)
+
+
+Sun Nov 27 13:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 41479
+  Japan v Costa Rica  0-1
+     (Keysher FULLER 81')
+
+Japan: Shuichi GONDA - Miki YAMANE [Y 44'] (62' Kaoru MITOMA), Kou ITAKURA [Y 84'],
+      Yuto NAGATOMO (46' Hiroki ITO), Maya YOSHIDA [c] - Wataru ENDO [Y 90+3'],
+      Ritsu DOAN (67' Junya ITO), Hidemasa MORITA, Daichi KAMADA, Yuki SOMA (82' Takumi MINAMINO) -
+      Ayase UEDA (46' Takuma ASANO)
+Costa Rica: Keylor NAVAS [c] - Oscar DUARTE, Francisco CALVO [Y 70'], Kendall WASTON -
+      Keysher FULLER, Celso BORGES [Y 61'] (89' Youstin SALAS), Bryan OVIEDO,
+      Joel CAMPBELL (90+5' Daniel CHACON), Gerson TORRES (65' Brandon AGUILERA),
+      Yeltsin TEJEDA - Anthony CONTRERAS [Y 41'] (65' Jewison BENNETTE)
+
+Refs: Michael Oliver (ENG), Stuart Burt (ENG), Simon Bennett (ENG)
+
+
+Sun Nov 27 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 68895
+  Spain v Germany  1-1
+     (Alvaro MORATA 62'; Niclas FUELLKRUG 83')
+
+Spain: Unai SIMON - RODRI, Jordi ALBA (82' Alejandro BALDE), Dani CARVAJAL,
+      Aymeric LAPORTE - Sergio BUSQUETS [c] [Y 44'], GAVI (66' Nico WILLIAMS),
+      Pedri GONZALEZ - Marco ASENSIO (66' KOKE), Ferran TORRES (54' Alvaro MORATA),
+      Dani OLMO
+Germany: Manuel NEUER [c] - Antonio RUEDIGER, David RAUM (87' Nico SCHLOTTERBECK),
+      Thilo KEHRER [Y 37'] (70' Lukas KLOSTERMANN), Niklas SUELE - Joshua KIMMICH [Y 60'],
+      Leon GORETZKA [Y 58'], Serge GNABRY (85' Jonas HOFMANN), Jamal MUSIALA,
+      Ilkay GUENDOGAN (70' Leroy SANE) - Thomas MUELLER (70' Niclas FUELLKRUG)
+
+Refs: Danny Desmond Makkelie (NED), Hessel Steegstra (NED), Jan de Vries (NED)
+
+
+Thu Dec 1 22:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44851
+  Japan v Spain  2-1
+     (Ritsu DOAN 48', Ao TANAKA 51';
+      Alvaro MORATA 11')
+
+Japan: Shuichi GONDA - Shogo TANIGUCHI [Y 44'], Kou ITAKURA [Y 39'], Maya YOSHIDA [c] [Y 45'] -
+      Yuto NAGATOMO (46' Kaoru MITOMA), Hidemasa MORITA, Junya ITO, Ao TANAKA (87' Wataru ENDO) -
+      Takefusa KUBO (46' Ritsu DOAN), Daichi KAMADA (68' Takehiro TOMIYASU),
+      Daizen MAEDA (62' Takuma ASANO)
+Spain: Unai SIMON - Cesar AZPILICUETA (46' Dani CARVAJAL), Pau TORRES, Alejandro BALDE (68' Jordi ALBA),
+      RODRI - Sergio BUSQUETS [c], GAVI (68' Ansu FATI), Pedri GONZALEZ - Alvaro MORATA (57' Marco ASENSIO),
+      Nico WILLIAMS (57' Ferran TORRES), Dani OLMO
+
+Refs: Victor GOMES (RSA), Zakhele SIWELA (RSA), Souru PHATSOANE (LES)
+
+
+Thu Dec 1 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 67054
+  Costa Rica v Germany  2-4
+     (Yeltsin TEJEDA 58', Juan VARGAS 70';
+      Serge GNABRY 10', Kai HAVERTZ 73', 85', Niclas FUELLKRUG 89')
+
+Costa Rica: Keylor NAVAS [c] - Juan VARGAS, Keysher FULLER (74' Jewison BENNETTE),
+      Oscar DUARTE [Y 77'], Bryan OVIEDO (90+3' Anthony CONTRERAS), Kendall WASTON -
+      Celso BORGES, Joel CAMPBELL, Yeltsin TEJEDA (90+3' Roan WILSON), Brandon AGUILERA (46' Youstin SALAS) -
+      Johan VENEGAS (74' Ronald MATARRITA)
+Germany: Manuel NEUER [c] - Antonio RUEDIGER, David RAUM (66' Mario GOETZE), Joshua KIMMICH,
+      Niklas SUELE (90+3' Matthias GINTER) - Leon GORETZKA (46' Lukas KLOSTERMANN),
+      Jamal MUSIALA, Ilkay GUENDOGAN (55' Niclas FUELLKRUG) - Serge GNABRY,
+      Thomas MUELLER (66' Kai HAVERTZ), Leroy SANE
+
+Refs: Stéphanie Frappart (FRA), Neuza Ines Back (BRA), Karen DIAZ MEDINA (MEX)
+
+
+▪▪ Group F
+Wed Nov 23 13:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 59407
+  Morocco v Croatia  0-0
+
+Morocco: Yassine BOUNOU - Achraf HAKIMI, Noussair MAZRAOUI (60' Yahya ATTIAT-ALLAH),
+      Nayef AGUERD, Romain SAISS [c] - Sofyan AMRABAT [Y 78'], Azzedine OUNAHI (81' Abdelhamid SABIRI),
+      Selim AMALLAH - Hakim ZIYECH, Sofiane BOUFAL (65' Abde EZZALZOULI), Youssef EN NESYRI (81' Abderrazak HAMDALLAH)
+Croatia: Dominik LIVAKOVIC - Dejan LOVREN, Borna SOSA, Josko GVARDIOL, Josip JURANOVIC -
+      Mateo KOVACIC (79' Lovro MAJER), Luka MODRIC [c], Marcelo BROZOVIC -
+      Ivan PERISIC (90' Mislav ORSIC), Andrej KRAMARIC (71' Marko LIVAJA),
+      Nikola VLASIC (46' Mario PASALIC)
+
+Refs: Fernando Andrés Rapallini (ARG), Juan Pablo Belatti (ARG), Diego Yamil Bonfá (ARG)
+
+
+Wed Nov 23 22:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 40432
+  Belgium v Canada  1-0
+     (Michy BATSHUAYI 44')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Jan VERTONGHEN, Leander DENDONCKER -
+      Axel WITSEL, Youri TIELEMANS (46' Amadou ONANA [Y 56']), Eden HAZARD [c] (62' Leandro TROSSARD),
+      Yannick CARRASCO [Y 9'] (46' Thomas MEUNIER [Y 54']), Timothy CASTAGNE -
+      Kevin DE BRUYNE, Michy BATSHUAYI (78' Lois OPENDA)
+Canada: Milan BORJAN - Alistair JOHNSTON [Y 83'], Kamal MILLER, Steven VITORIA -
+      Stephen EUSTAQUIO (81' Jonathan OSORIO), Atiba HUTCHINSON [c] (58' Ismael KONE),
+      Alphonso DAVIES [Y 81'], Richie LARYEA (74' Sam ADEKUGBE) - Junior HOILETT (58' Cyle LARIN),
+      Tajon BUCHANAN (81' Liam MILLAR), Jonathan DAVID
+
+Refs: Janny SIKAZWE (ZAM), Jerson DOS SANTOS (ANG), Arsenio MARINGULE (MOZ)
+
+
+Sun Nov 27 16:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 43738
+  Belgium v Morocco  0-2
+     (Romain SAISS 73', Zakaria ABOUKHLAL 90+2')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Jan VERTONGHEN, Timothy CASTAGNE -
+      Axel WITSEL, Thomas MEUNIER (81' Romelu LUKAKU), Thorgan HAZARD (75' Leandro TROSSARD),
+      Amadou ONANA [Y 29'] (60' Youri TIELEMANS) - Kevin DE BRUYNE, Eden HAZARD [c] (60' Dries MERTENS),
+      Michy BATSHUAYI (75' DE KETELAERE)
+Morocco: Monir EL KAJOUI - Achraf HAKIMI (68' Abdelhamid SABIRI [Y 90+5']), Noussair MAZRAOUI,
+      Nayef AGUERD, Romain SAISS [c] - Sofyan AMRABAT, Azzedine OUNAHI (78' Jawad EL YAMIQ),
+      Selim AMALLAH (68' Yahya ATTIAT-ALLAH) - Hakim ZIYECH, Sofiane BOUFAL (73' Zakaria ABOUKHLAL),
+      Youssef EN NESYRI (73' Abderrazak HAMDALLAH)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Alberto Morín Méndez (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+Sun Nov 27 19:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44374
+  Croatia v Canada  4-1
+     (Andrej KRAMARIC 36', 70', Marko LIVAJA 44', Lovro MAJER 90+4';
+      Alphonso DAVIES 2')
+
+Croatia: Dominik LIVAKOVIC - Dejan LOVREN [Y 56'], Borna SOSA, Josko GVARDIOL,
+      Josip JURANOVIC - Mateo KOVACIC (86' Lovro MAJER), Luka MODRIC [c] [Y 85'] (86' Mario PASALIC),
+      Marcelo BROZOVIC - Ivan PERISIC (86' Mislav ORSIC), Andrej KRAMARIC (72' Nikola VLASIC),
+      Marko LIVAJA (60' Bruno PETKOVIC)
+Canada: Milan BORJAN - Alistair JOHNSTON, Kamal MILLER [Y 85'], Steven VITORIA,
+      Richie LARYEA (62' Junior HOILETT) - Stephen EUSTAQUIO (46' Ismael KONE),
+      Tajon BUCHANAN [Y 52'], Atiba HUTCHINSON [c] (72' Sam ADEKUGBE), Alphonso DAVIES -
+      Cyle LARIN (46' Jonathan OSORIO), Jonathan DAVID (72' Lucas CAVALLINI)
+
+Refs: Andres Matias MATONTE CABRERA (URU), Nicolás Taran (URU), Martin SOPPI (URU)
+
+
+Thu Dec 1 18:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 43984
+  Croatia v Belgium  0-0
+
+Croatia: Dominik LIVAKOVIC - Dejan LOVREN, Borna SOSA, Josko GVARDIOL, Josip JURANOVIC -
+      Mateo KOVACIC (90+2' Lovro MAJER), Luka MODRIC [c], Marcelo BROZOVIC -
+      Ivan PERISIC, Andrej KRAMARIC (64' Mario PASALIC), Marko LIVAJA (64' Bruno PETKOVIC)
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Jan VERTONGHEN, Timothy CASTAGNE -
+      Axel WITSEL, Yannick CARRASCO (72' Jeremy DOKU), Thomas MEUNIER (87' Eden HAZARD),
+      Leander DENDONCKER [Y 67'] (72' Youri TIELEMANS) - Kevin DE BRUYNE [c],
+      Dries MERTENS (46' Romelu LUKAKU), Leandro TROSSARD (59' Thorgan HAZARD)
+
+Refs: Anthony Taylor (ENG), Gary Beswick (ENG), Adam Nunn (ENG)
+
+
+Thu Dec 1 18:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 43102
+  Canada v Morocco  1-2
+     (Nayef AGUERD 40'(og);
+      Hakim ZIYECH 4', Youssef EN NESYRI 23')
+
+Canada: Milan BORJAN [c] - Alistair JOHNSTON, Sam ADEKUGBE [Y 45+2'] (60' Ismael KONE),
+      Kamal MILLER, Steven VITORIA [Y 84'] - Tajon BUCHANAN, Mark-Anthony KAYE (60' Atiba HUTCHINSON),
+      Alphonso DAVIES, Jonathan OSORIO [Y 26'] (65' Richie LARYEA) - Junior HOILETT [Y 7'] (76' David WOTHERSPOON),
+      Cyle LARIN (60' Jonathan DAVID)
+Morocco: Yassine BOUNOU - Achraf HAKIMI (85' Yahya JABRANE), Noussair MAZRAOUI,
+      Nayef AGUERD, Romain SAISS [c] - Sofyan AMRABAT, Azzedine OUNAHI (76' Jawad EL YAMIQ),
+      Abdelhamid SABIRI (65' Selim AMALLAH) - Hakim ZIYECH (76' Abderrazak HAMDALLAH),
+      Sofiane BOUFAL (65' Zakaria ABOUKHLAL), Youssef EN NESYRI
+
+Refs: Raphael Claus (BRA), Rodrigo Figueiredo Henrique Correa (BRA), Danilo SIMON (BRA)
+
+
+▪▪ Group G
+Thu Nov 24 13:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 39089
+  Switzerland v Cameroon  1-0
+     (Breel EMBOLO 48')
+
+Switzerland: Yann SOMMER - Silvan WIDMER, Nico ELVEDI [Y 64'], Manuel AKANJI [Y 83'],
+      Ricardo RODRIGUEZ (90' Eray COMERT) - Remo FREULER, Granit XHAKA [c],
+      Mohameth SOW (72' Fabian FREI) - Breel EMBOLO (72' Haris SEFEROVIC),
+      Ruben VARGAS (81' Fabian RIEDER), Xherdan SHAQIRI (72' Noah OKAFOR)
+Cameroon: Andre ONANA - Nicolas NKOULOU, Collins FAI [Y 36'], Jean-Charles CASTELLETTO,
+      Nouhou TOLO - Andre-Frank ZAMBO ANGUISSA, Samuel GOUET, Martin HONGLA (68' Gael ONDOUA) -
+      Karl TOKO EKAMBI (74' Georges-Kevin NKOUDOU), Eric Maxim CHOUPO-MOTING [c] (74' Vincent ABOUBAKAR),
+      Bryan MBEUMO (81' Nicolas NGAMALEU)
+
+Refs: Facundo TELLO (ARG), Ezequiel BRAILOVSKY (ARG), Gabriel CHADE (ARG)
+
+
+Thu Nov 24 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88103
+  Brazil v Serbia  2-0
+     (RICHARLISON 62', 73')
+
+Brazil: ALISSON - DANILO, THIAGO SILVA [c], MARQUINHOS, ALEX SANDRO - CASEMIRO,
+      LUCAS PAQUETA (75' FRED), NEYMAR (79' ANTONY) - RICHARLISON (79' GABRIEL JESUS),
+      RAPHINHA (87' GABRIEL MARTINELLI), VINICIUS JR (75' RODRYGO)
+Serbia: Vanja MILINKOVIC - Strahinja PAVLOVIC [Y 7'], Nikola MILENKOVIC, Milos VELJKOVIC -
+      Nemanja GUDELJ [Y 49'] (57' Ivan ILIC), Andrija ZIVKOVIC (57' Nemanja RADONJIC),
+      Sasa LUKIC [Y 64'] (66' Darko LAZOVIC), Filip MLADENOVIC (66' Dusan VLAHOVIC) -
+      Aleksandar MITROVIC (83' Nemanja MAKSIMOVIC), Dusan TADIC [c], Sergej MILINKOVIC-SAVIC
+
+Refs: Alireza FAGHANI (IRN), Mohammadreza MANSOURI (IRN), Mohammadreza ABOLFAZLI (IRN)
+
+
+Mon Nov 28 13:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 39789
+  Cameroon v Serbia  3-3
+     (Jean-Charles CASTELLETTO 29', Vincent ABOUBAKAR 63', Eric Maxim CHOUPO-MOTING 66';
+      Strahinja PAVLOVIC 45+1', Sergej MILINKOVIC-SAVIC 45+3', Aleksandar MITROVIC 53')
+
+Cameroon: Devis EPASSY - Nicolas NKOULOU [Y 24'], Collins FAI, Jean-Charles CASTELLETTO,
+      Nouhou TOLO - Andre-Frank ZAMBO ANGUISSA (81' Samuel GOUET), Pierre KUNDE (67' Gael ONDOUA),
+      Martin HONGLA (55' Vincent ABOUBAKAR) - Karl TOKO EKAMBI (67' Christian BASSOGOG [Y 30']),
+      Eric Maxim CHOUPO-MOTING [c], Bryan MBEUMO (81' Georges-Kevin NKOUDOU)
+Serbia: Vanja MILINKOVIC - Strahinja PAVLOVIC (55' Stefan MITROVIC), Nikola MILENKOVIC [Y 90+3'],
+      Milos VELJKOVIC (78' Srdan BABIC) - Nemanja MAKSIMOVIC, Andrija ZIVKOVIC (78' Nemanja RADONJIC),
+      Sasa LUKIC, Filip KOSTIC (90+2' Filip DJURICIC) - Aleksandar MITROVIC,
+      Dusan TADIC [c], Sergej MILINKOVIC-SAVIC (78' Marko GRUJIC)
+
+Refs: Mohammed ABDULLA (UAE), Mohamed AL HAMMADI (UAE), Hasan AL MAHRI (UAE)
+
+
+Mon Nov 28 19:00 UTC+3 @ Stadium 974, Doha, Att: 43649
+  Brazil v Switzerland  1-0
+     (CASEMIRO 83')
+
+Brazil: ALISSON - THIAGO SILVA [c], MARQUINHOS, ALEX SANDRO (86' ALEX TELLES),
+      EDER MILITAO - CASEMIRO, LUCAS PAQUETA (46' RODRYGO), FRED [Y 52'] (58' BRUNO GUIMARAES) -
+      RICHARLISON (73' GABRIEL JESUS), RAPHINHA (73' ANTONY), VINICIUS JR
+Switzerland: Yann SOMMER - Silvan WIDMER (86' Fabian FREI), Nico ELVEDI, Manuel AKANJI,
+      Ricardo RODRIGUEZ - Remo FREULER, Granit XHAKA [c], Mohameth SOW (76' Michel AEBISCHER),
+      Ruben VARGAS (58' Edimilson FERNANDES), Fabian RIEDER [Y 50'] (58' Renato STEFFEN) -
+      Breel EMBOLO (76' Haris SEFEROVIC)
+
+Refs: Ivan Arcides Barton Cisneros (SLV), David Jonathan Morán Santos (SLV), Zachari Zeegelaar (SUR)
+
+
+Fri Dec 2 22:00 UTC+3 @ Stadium 974, Doha, Att: 41378
+  Serbia v Switzerland  2-3
+     (Aleksandar MITROVIC 26', Dusan VLAHOVIC 35';
+      Xherdan SHAQIRI 20', Breel EMBOLO 44', Remo FREULER 48')
+
+Serbia: Vanja MILINKOVIC - Strahinja PAVLOVIC [Y 56'], Nikola MILENKOVIC [Y 90+5'],
+      Milos VELJKOVIC (55' Nemanja GUDELJ [Y 81']) - Dusan TADIC [c] (78' Filip DJURICIC),
+      Andrija ZIVKOVIC (78' Nemanja RADONJIC), Sasa LUKIC [Y 90+10'], Filip KOSTIC,
+      Sergej MILINKOVIC-SAVIC [Y 47'] (68' Nemanja MAKSIMOVIC) - Aleksandar MITROVIC [Y 82'],
+      Dusan VLAHOVIC (55' Luka JOVIC)
+Switzerland: Gregor KOBEL - Silvan WIDMER [Y 15'], Manuel AKANJI, Ricardo RODRIGUEZ,
+      Fabian SCHAER [Y 90+9'] - Remo FREULER, Granit XHAKA [c] [Y 90+5'], Mohameth SOW (69' Edimilson FERNANDES),
+      Ruben VARGAS [Y 34'] (83' Christian FASSNACHT), Xherdan SHAQIRI (69' Denis ZAKARIA) -
+      Breel EMBOLO (90+6' Noah OKAFOR)
+
+Refs: Fernando Andrés Rapallini (ARG), Juan Pablo Belatti (ARG), Diego Yamil Bonfá (ARG)
+
+
+Fri Dec 2 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 85986
+  Cameroon v Brazil  1-0
+     (Vincent ABOUBAKAR 90+2')
+
+Cameroon: Devis EPASSY - Christopher WOOH, Collins FAI [Y 32'], Enzo EBOSSE, Nouhou TOLO [Y 6'] -
+      Nicolas NGAMALEU (86' Jerome NGOM MBEKELI), Andre-Frank ZAMBO ANGUISSA,
+      Pierre KUNDE [Y 28'] (68' Olivier NTCHAM), Bryan MBEUMO (64' Karl TOKO EKAMBI) -
+      Vincent ABOUBAKAR [c] [Y 81'] [Y/R 90+3'], Eric Maxim CHOUPO-MOTING
+Brazil: EDERSON - DANI ALVES [c], EDER MILITAO [Y 7'], ALEX TELLES (54' MARQUINHOS),
+      BREMER - FRED (54' BRUNO GUIMARAES [Y 85']), FABINHO, ANTONY (79' RAPHINHA),
+      GABRIEL MARTINELLI - GABRIEL JESUS (64' PEDRO), RODRYGO (54' EVERTON RIBEIRO)
+
+Refs: Ismail Elfath (USA), Corey Parker (USA), Kyle Atkins (USA)
+
+
+▪▪ Group H
+Thu Nov 24 16:00 UTC+3 @ Education City Stadium, Doha, Att: 41663
+  Uruguay v South Korea  0-0
+
+Uruguay: Sergio ROCHET - Jose GIMENEZ, Diego GODIN [c], Mathias OLIVERA (79' Matias VINA),
+      Martin CACERES [Y 57'] - Matias VECINO (79' Nicolas DE LA CRUZ), Rodrigo BENTANCUR,
+      Federico VALVERDE - Facundo PELLISTRI (88' Guillermo VARELA), Luis SUAREZ (64' Edinson CAVANI),
+      Darwin NUNEZ
+South Korea: KIM Seunggyu - KIM Jinsu, Kim MINJAE, KIM Moonhwan , KIM Younggwon -
+      JUNG Wooyoung, HWANG Inbeom, LEE Jaesung (74' SON Junho) - SON Heungmin [c],
+      HWANG Uijo (74' CHO Guesung [Y 88']), NA Sangho (74' LEE Kangin)
+
+Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
+
+
+Thu Nov 24 19:00 UTC+3 @ Stadium 974, Doha, Att: 42662
+  Portugal v Ghana  3-2
+     (CRISTIANO RONALDO 65'(p), JOAO FELIX 78', RAFAEL LEAO 80';
+      Andre AYEW 73', Osman BUKARI 89')
+
+Portugal: DIOGO COSTA - RUBEN DIAS, RAPHAEL GUERREIRO, DANILO [Y 90+1'], JOAO CANCELO -
+      BERNARDO SILVA (88' JOAO PALHINHA), RUBEN NEVES (77' RAFAEL LEAO), OTAVIO (56' WILLIAM) -
+      CRISTIANO RONALDO [c] (88' GONCALO RAMOS), BRUNO FERNANDES [Y 90+5'],
+      JOAO FELIX (88' JOAO MARIO)
+Ghana: Lawrence Ati ZIGI - Mohammed SALISU, Daniel AMARTEY, Alexander DJIKU (90+2' Antoine SEMENYO) -
+      Thomas PARTEY, Baba RAHMAN, Kudus MOHAMMED [Y 45+1'] (77' Osman BUKARI),
+      Salis ABDUL SAMED (90+2' Daniel-Kofi KYEREH), Seidu ALIDU [Y 57'] (66' Tariq LAMPTEY) -
+      Andre AYEW [c] [Y 49'] (77' Jordan AYEW), Inaki WILLIAMS [Y 90+1']
+
+Refs: Ismail Elfath (USA), Kyle Atkins (USA), Corey Parker (USA)
+
+
+Mon Nov 28 16:00 UTC+3 @ Education City Stadium, Doha, Att: 43983
+  South Korea v Ghana  2-3
+     (CHO Guesung 58', 61';
+      Mohammed SALISU 24', Kudus MOHAMMED 34', 68')
+
+South Korea: KIM Seunggyu - KIM Jinsu, Kim MINJAE (90+2' KWON Kyungwon), KIM Moonhwan ,
+      KIM Younggwon [Y 77'] - JUNG Wooyoung [Y 27'] (78' HWANG Uijo), HWANG Inbeom,
+      SON Heungmin [c], KWON Changhoon (57' LEE Kangin), JEONG Wooyeong (46' NA Sangho) -
+      CHO Guesung
+Ghana: Lawrence Ati ZIGI - Tariq LAMPTEY [Y 73'] (78' Denis ODOI), Mohammed SALISU,
+      Gideon MENSAH (88' Baba RAHMAN), Daniel AMARTEY [Y 21'] - Thomas PARTEY,
+      Jordan AYEW (78' Kamaldeen SULEMANA), Andre AYEW [c] (78' Daniel-Kofi KYEREH),
+      Kudus MOHAMMED (83' Alexander DJIKU), Salis ABDUL SAMED - Inaki WILLIAMS
+
+Refs: Anthony Taylor (ENG), Gary Beswick (ENG), Adam Nunn (ENG)
+
+
+Mon Nov 28 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88668
+  Portugal v Uruguay  2-0
+     (BRUNO FERNANDES 54', 90+3'(p))
+
+Portugal: DIOGO COSTA - PEPE, RUBEN DIAS [Y 89'], NUNO MENDES (42' RAPHAEL GUERREIRO),
+      JOAO CANCELO - BERNARDO SILVA, WILLIAM (82' JOAO PALHINHA), RUBEN NEVES [Y 38'] (69' RAFAEL LEAO) -
+      CRISTIANO RONALDO [c] (82' GONCALO RAMOS), BRUNO FERNANDES, JOAO FELIX [Y 77'] (82' MATHEUS NUNES)
+Uruguay: Sergio ROCHET - Jose GIMENEZ, Diego GODIN [c] (62' Facundo PELLISTRI),
+      Guillermo VARELA, Mathias OLIVERA [Y 44'] (86' Matias VINA), Sebastian COATES -
+      Matias VECINO (62' Giorgian DE ARRASCAETA), Rodrigo BENTANCUR [Y 6'],
+      Federico VALVERDE - Darwin NUNEZ (72' Maximiliano GOMEZ), Edinson CAVANI (72' Luis SUAREZ)
+
+Refs: Alireza FAGHANI (IRN), Mohammadreza MANSOURI (IRN), Mohammadreza ABOLFAZLI (IRN)
+
+
+Fri Dec 2 18:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 43443
+  Ghana v Uruguay  0-2
+     (Giorgian DE ARRASCAETA 26', 32')
+
+Ghana: Lawrence Ati ZIGI - Mohammed SALISU, Baba RAHMAN, Daniel AMARTEY, Seidu ALIDU [Y 90+9'] -
+      Thomas PARTEY, Jordan AYEW (46' Kamaldeen SULEMANA [Y 86']), Andre AYEW [c] (46' Osman BUKARI),
+      Kudus MOHAMMED (90+8' Abdul Fatawu ISSAHAKU), Salis ABDUL SAMED (72' Daniel-Kofi KYEREH) -
+      Inaki WILLIAMS (72' Antoine SEMENYO)
+Uruguay: Sergio ROCHET - Jose GIMENEZ [Y 90+10'], Guillermo VARELA, Mathias OLIVERA,
+      Sebastian COATES [Y 87'] - Rodrigo BENTANCUR (34' Matias VECINO), Giorgian DE ARRASCAETA (80' Maximiliano GOMEZ),
+      Federico VALVERDE - Facundo PELLISTRI (66' Nicolas DE LA CRUZ), Luis SUAREZ [c] [Y 60'] (66' Edinson CAVANI [Y 90+10']),
+      Darwin NUNEZ [Y 20'] (80' Agustin CANOBBIO)
+
+Refs: Daniel SIEBERT (GER), Jan Seidel (GER), Rafael FOLTYN (GER)
+
+
+Fri Dec 2 18:00 UTC+3 @ Education City Stadium, Doha, Att: 44097
+  South Korea v Portugal  2-1
+     (KIM Younggwon 27', HWANG Heechan 90+1';
+      Ricardo HORTA 5')
+
+South Korea: KIM Seunggyu - KIM Jinsu, KIM Moonhwan , KIM Younggwon (81' SON Junho),
+      KWON Kyungwon - JUNG Wooyoung, HWANG Inbeom, LEE Kangin [Y 36'] (81' HWANG Uijo) -
+      SON Heungmin [c], CHO Guesung (90+3' CHO Yumin ), LEE Jaesung (65' HWANG Heechan [Y 90+2'])
+Portugal: DIOGO COSTA - DIOGO DALOT, PEPE, JOAO CANCELO, ANTONIO SILVA - VITINHA (81' BERNARDO SILVA),
+      JOAO MARIO (81' WILLIAM), RUBEN NEVES (65' RAFAEL LEAO), Ricardo HORTA,
+      MATHEUS NUNES (65' JOAO PALHINHA) - CRISTIANO RONALDO [c] (65' ANDRE SILVA)
+
+Refs: Facundo TELLO (ARG), Ezequiel BRAILOVSKY (ARG), Gabriel CHADE (ARG)
+
+
+▪ Round of 16
+Sat Dec 3 18:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44846
+  Netherlands v USA  3-1
+     (Memphis DEPAY 10', Daley BLIND 45+1', Denzel DUMFRIES 81';
+      Haji WRIGHT 76')
+
+Netherlands: Andries NOPPERT - Jurrien TIMBER, Virgil VAN DIJK [c], Nathan AKE (90+3' Matthijs DE LIGT) -
+      Davy KLAASSEN (46' Teun KOOPMEINERS [Y 60']), Marten DE ROON (46' Steven BERGWIJN),
+      Daley BLIND, Frenkie DE JONG [Y 87'], Denzel DUMFRIES - Cody GAKPO (90+3' Wout WEGHORST),
+      Memphis DEPAY (83' Xavi SIMONS)
+USA: Matt TURNER - Sergino DEST (75' DeAndre YEDLIN), Walker ZIMMERMAN, Antonee ROBINSON (90+2' Jordan MORRIS),
+      Tim REAM - Tyler  ADAMS [c], Yunus MUSAH, Weston McKENNIE (67' Haji WRIGHT) -
+      Jesus FERREIRA (46' Giovanni REYNA), Christian  PULISIC, Tim WEAH (67' Brenden AARONSON)
+
+Refs: Wilton SAMPAIO (BRA), Bruno Boschilia (BRA), Bruno PIRES (BRA)
+
+
+Sat Dec 3 22:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 45032
+  Argentina v Australia  2-1
+     (Lionel MESSI 35', Julian ALVAREZ 57';
+      Enzo FERNANDEZ 77'(og))
+
+Argentina: Emiliano MARTINEZ - Marcos ACUNA (71' Nicolas TAGLIAFICO), Cristian ROMERO,
+      Nicolas OTAMENDI, Nahuel MOLINA (80' Exequiel PALACIOS) - Rodrigo DE PAUL,
+      Alexis MAC ALLISTER (80' Gonzalo MONTIEL), Enzo FERNANDEZ - Julian ALVAREZ (71' Lautaro MARTINEZ),
+      Lionel MESSI [c], Alejandro GOMEZ (50' Lisandro MARTINEZ)
+Australia: Mathew RYAN [c] - Milos DEGENEK [Y 38'] (71' Fran KARACIC), Kye ROWLES,
+      Aziz BEHICH, Harry SOUTTAR - Mathew LECKIE (71' Garang KUOL), Aaron MOOY,
+      Riley McGREE (58' Craig GOODWIN), Keanu BACCUS (58' Ajdin HRUSTIC) -
+      Mitch DUKE (71' Jamie MacLAREN), Jackson IRVINE [Y 15']
+
+Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
+
+
+Sun Dec 4 18:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 40989
+  France v Poland  3-1
+     (Olivier GIROUD 44', Kylian MBAPPE 74', 90+1';
+      Robert LEWANDOWSKI 90+9'(p))
+
+France: Hugo LLORIS [c] - Raphael VARANE, Jules KOUNDE (90+2' Axel DISASI), Dayot UPAMECANO,
+      Theo HERNANDEZ - Antoine GRIEZMANN, Aurelien TCHOUAMENI [Y 32'] (66' Youssouf Fofana),
+      Kylian MBAPPE, Ousmane DEMBELE (76' Kingsley COMAN), Adrien RABIOT -
+      Olivier GIROUD (76' Marcus THURAM)
+Poland: Wojciech SZCZESNY - Matty CASH [Y 88'], Jakub KIWIOR (87' Jan BEDNAREK),
+      Kamil GLIK, Bartosz BERESZYNSKI [Y 47'] - Grzegorz KRYCHOWIAK (71' Krystian BIELIK),
+      Jakub KAMINSKI (71' Nicola ZALEWSKI), Sebastian SZYMANSKI (64' Arkadiusz MILIK),
+      Piotr ZIELINSKI, Przemyslaw FRANKOWSKI (87' Kamil GROSICKI) - Robert LEWANDOWSKI [c]
+
+Refs: Jesús Valenzuela Sáez (VEN), Jorge Urrego Martínez (VEN), Tulio Moreno (VEN)
+
+
+Sun Dec 4 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 65985
+  England v Senegal  3-0
+     (Jordan HENDERSON 38', Harry KANE 45+3', Bukayo SAKA 57')
+
+England: Jordan PICKFORD - Kyle WALKER, Luke SHAW, John STONES (76' Eric  DIER),
+      Harry MAGUIRE - Declan RICE, Jordan HENDERSON (82' Kalvin PHILLIPS),
+      Jude BELLINGHAM (76' Mason MOUNT) - Harry KANE [c], Bukayo SAKA (65' Marcus RASHFORD),
+      Phil FODEN (65' Jack GREALISH)
+Senegal: Edouard MENDY - Kalidou KOULIBALY [c] [Y 76'], Ismail JAKOBS (84' Fode BALLO),
+      Youssouf SABALY, Abdou DIALLO - Nampalys MENDY, Pathe CISS (46' Pape GUEYE),
+      Krepin DIATTA (46' Pape SARR), Ismaila SARR - Boulaye DIA (72' Famara DIEDHIOU),
+      Iliman NDIAYE (46' Cheikh DIENG)
+
+Refs: Ivan Arcides Barton Cisneros (SLV), David Jonathan Morán Santos (SLV), Katie Nesbitt (USA)
+
+
+Mon Dec 5 18:00 UTC+3 @ Al Janoub Stadium, Al Wakrah, Att: 42523
+  Japan v Croatia  1-1 a.e.t., 1-3 pen.
+     (Daizen MAEDA 43'; Ivan PERISIC 55')
+
+Penalties:     Takumi MINAMINO (missed), 0-1 Nikola VLASIC,
+               Kaoru MITOMA (missed), 0-2 Marcelo BROZOVIC,
+           1-2 Takuma ASANO,     Marko LIVAJA (missed),
+               Maya YOSHIDA (missed), 1-3 Mario PASALIC
+
+Japan: Shuichi GONDA - Shogo TANIGUCHI, Takehiro TOMIYASU, Maya YOSHIDA [c] -
+      Yuto NAGATOMO (64' Kaoru MITOMA), Wataru ENDO, Hidemasa MORITA (106' Ao TANAKA),
+      Junya ITO - Ritsu DOAN (87' Takumi MINAMINO), Daichi KAMADA (75' Hiroki SAKAI),
+      Daizen MAEDA (64' Takuma ASANO)
+Croatia: Dominik LIVAKOVIC - Borna BARISIC [Y 116'], Dejan LOVREN, Josko GVARDIOL,
+      Josip JURANOVIC - Mateo KOVACIC [Y 90'] (99' Nikola VLASIC), Luka MODRIC [c] (99' Lovro MAJER),
+      Marcelo BROZOVIC - Ivan PERISIC (106' Mislav ORSIC), Andrej KRAMARIC (68' Mario PASALIC),
+      Bruno PETKOVIC (62' Ante BUDIMIR (106' Marko LIVAJA))
+
+Refs: Ismail Elfath (USA), Corey Parker (USA), Kyle Atkins (USA)
+
+
+Mon Dec 5 22:00 UTC+3 @ Stadium 974, Doha, Att: 43847
+  Brazil v South Korea  4-1
+     (VINICIUS JR 7', NEYMAR 13'(p), RICHARLISON 29', LUCAS PAQUETA 36';
+      PAIK Seungho 76')
+
+Brazil: ALISSON (80' WEVERTON) - DANILO (72' BREMER), THIAGO SILVA [c], MARQUINHOS,
+      EDER MILITAO (63' DANI ALVES) - CASEMIRO, LUCAS PAQUETA, NEYMAR (80' RODRYGO) -
+      RICHARLISON, RAPHINHA, VINICIUS JR (72' GABRIEL MARTINELLI)
+South Korea: KIM Seunggyu - KIM Jinsu (46' HONG Chul), Kim MINJAE, KIM Moonhwan ,
+      KIM Younggwon - JUNG Wooyoung [Y 44'] (46' SON Junho), HWANG Inbeom (65' PAIK Seungho),
+      LEE Jaesung (74' LEE Kangin), HWANG Heechan - SON Heungmin [c], CHO Guesung (80' HWANG Uijo)
+
+Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
+
+
+Tue Dec 6 18:00 UTC+3 @ Education City Stadium, Doha, Att: 44667
+  Morocco v Spain  0-0 a.e.t., 3-0 pen.
+
+Penalties: 1-0 Abdelhamid SABIRI,     Pablo SARABIA (missed),
+           2-0 Hakim ZIYECH,     Carlos SOLER (missed),
+               Badr BENOUN (missed),     Sergio BUSQUETS (missed),
+           3-0 Achraf HAKIMI
+
+Morocco: Yassine BOUNOU - Achraf HAKIMI, Noussair MAZRAOUI (82' Yahya ATTIAT-ALLAH),
+      Nayef AGUERD (84' Jawad EL YAMIQ), Romain SAISS [c] [Y 90'] - Sofyan AMRABAT,
+      Azzedine OUNAHI (120' Badr BENOUN), Selim AMALLAH (82' Walid CHEDDIRA) -
+      Hakim ZIYECH, Sofiane BOUFAL (66' Abde EZZALZOULI), Youssef EN NESYRI (82' Abdelhamid SABIRI)
+Spain: Unai SIMON - Marcos LLORENTE, RODRI, Jordi ALBA (98' Alejandro BALDE),
+      Aymeric LAPORTE [Y 77'] - Sergio BUSQUETS [c], GAVI (63' Carlos SOLER),
+      Pedri GONZALEZ - Marco ASENSIO (63' Alvaro MORATA), Ferran TORRES (75' Nico WILLIAMS (118' Pablo SARABIA)),
+      Dani OLMO (98' Ansu FATI)
+
+Refs: Fernando Andrés Rapallini (ARG), Juan Pablo Belatti (ARG), Diego Yamil Bonfá (ARG)
+
+
+Tue Dec 6 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 83720
+  Portugal v Switzerland  6-1
+     (GONCALO RAMOS 17', 51', 67', PEPE 33', RAPHAEL GUERREIRO 55', RAFAEL LEAO 90+2';
+      Manuel AKANJI 58')
+
+Portugal: DIOGO COSTA - DIOGO DALOT, PEPE [c], RUBEN DIAS, RAPHAEL GUERREIRO -
+      BERNARDO SILVA (81' RUBEN NEVES), WILLIAM, OTAVIO (74' VITINHA) - BRUNO FERNANDES (87' RAFAEL LEAO),
+      JOAO FELIX (74' CRISTIANO RONALDO), GONCALO RAMOS (74' Ricardo HORTA)
+Switzerland: Yann SOMMER - Manuel AKANJI, Ricardo RODRIGUEZ, Fabian SCHAER [Y 43'] (46' Eray COMERT [Y 59']) -
+      Edimilson FERNANDES, Remo FREULER (54' Denis ZAKARIA), Granit XHAKA [c],
+      Mohameth SOW (54' Haris SEFEROVIC), Ruben VARGAS (66' Noah OKAFOR) -
+      Breel EMBOLO (89' Ardon JASHARI), Xherdan SHAQIRI
+
+Refs: César Arturo Ramos Palazuelos (MEX), Alberto Morín Méndez (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+▪ Quarter-final
+Fri Dec 9 18:00 UTC+3 @ Education City Stadium, Doha, Att: 43893
+  Croatia v Brazil  1-1 a.e.t., 4-2 pen.
+     (Bruno PETKOVIC 117'; NEYMAR 105+1')
+
+Penalties: 1-0 Nikola VLASIC,     RODRYGO (missed),
+           2-0 Lovro MAJER, 2-1 CASEMIRO,
+           3-1 Luka MODRIC, 3-2 PEDRO,
+           4-2 Mislav ORSIC,     MARQUINHOS (missed)
+
+Croatia: Dominik LIVAKOVIC - Dejan LOVREN, Borna SOSA (110' Ante BUDIMIR), Josko GVARDIOL,
+      Josip JURANOVIC - Mateo KOVACIC (106' Lovro MAJER), Luka MODRIC [c],
+      Marcelo BROZOVIC [Y 31'] (114' Mislav ORSIC) - Ivan PERISIC, Andrej KRAMARIC (72' Bruno PETKOVIC [Y 117']),
+      Mario PASALIC (72' Nikola VLASIC)
+Brazil: ALISSON - DANILO [Y 25'], THIAGO SILVA [c], MARQUINHOS [Y 77'], EDER MILITAO (106' ALEX SANDRO) -
+      CASEMIRO [Y 68'], LUCAS PAQUETA (106' FRED), NEYMAR - RICHARLISON (84' PEDRO),
+      RAPHINHA (56' ANTONY), VINICIUS JR (64' RODRYGO)
+
+Refs: Michael Oliver (ENG), Stuart Burt (ENG), Gary Beswick (ENG)
+
+
+Fri Dec 9 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88235
+  Netherlands v Argentina  2-2 a.e.t., 3-4 pen.
+     (Wout WEGHORST 83', 90+11';
+      Nahuel MOLINA 35', Lionel MESSI 73'(p))
+
+Penalties:     Virgil VAN DIJK (missed), 0-1 Lionel MESSI,
+               Steven BERGHUIS (missed), 0-2 Leandro PAREDES,
+           1-2 Teun KOOPMEINERS, 1-3 Gonzalo MONTIEL,
+           2-3 Wout WEGHORST,     Enzo FERNANDEZ (missed),
+           3-3 Luuk DE JONG, 3-4 Lautaro MARTINEZ
+
+Netherlands: Andries NOPPERT - Jurrien TIMBER [Y 43'], Virgil VAN DIJK [c], Nathan AKE -
+      Cody GAKPO (113' Noa LANG [Y 129']), Marten DE ROON (46' Teun KOOPMEINERS),
+      Daley BLIND (64' Luuk DE JONG), Frenkie DE JONG, Denzel DUMFRIES [Y 128'] [Y/R 129'] -
+      Steven BERGWIJN [Y 91'] (46' Steven BERGHUIS [Y 88']), Memphis DEPAY [Y 76'] (78' Wout WEGHORST [Y 45+2'])
+Argentina: Emiliano MARTINEZ - Cristian ROMERO [Y 45'] (78' German PEZZELLA [Y 112']),
+      Nicolas OTAMENDI [Y 90+12'], Lisandro MARTINEZ [Y 76'] (112' Angel DI MARIA) -
+      Rodrigo DE PAUL (67' Leandro PAREDES [Y 89']), Marcos ACUNA [Y 43'] (78' Nicolas TAGLIAFICO),
+      Alexis MAC ALLISTER, Enzo FERNANDEZ, Nahuel MOLINA (106' Gonzalo MONTIEL [Y 109']) -
+      Julian ALVAREZ (82' Lautaro MARTINEZ), Lionel MESSI [c] [Y 90+10']
+
+Refs: Antonio MATEU (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
+
+
+Sat Dec 10 18:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 44198
+  Morocco v Portugal  1-0
+     (Youssef EN NESYRI 42')
+
+Morocco: Yassine BOUNOU - Achraf HAKIMI, Romain SAISS [c] (57' Achraf DARI [Y 70']),
+      Jawad EL YAMIQ, Yahya ATTIAT-ALLAH - Sofyan AMRABAT, Azzedine OUNAHI,
+      Selim AMALLAH (65' Walid CHEDDIRA [Y 90+1'] [Y/R 90+3']) - Hakim ZIYECH (82' Zakaria ABOUKHLAL),
+      Sofiane BOUFAL (82' Yahya JABRANE), Youssef EN NESYRI (65' Badr BENOUN)
+Portugal: DIOGO COSTA - DIOGO DALOT (79' Ricardo HORTA), PEPE [c], RUBEN DIAS,
+      RAPHAEL GUERREIRO (51' JOAO CANCELO) - BERNARDO SILVA, RUBEN NEVES (51' CRISTIANO RONALDO),
+      OTAVIO (69' VITINHA [Y 87']) - BRUNO FERNANDES, JOAO FELIX, GONCALO RAMOS (69' RAFAEL LEAO)
+
+Refs: Facundo TELLO (ARG), Ezequiel BRAILOVSKY (ARG), Gabriel CHADE (ARG)
+
+
+Sat Dec 10 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 68895
+  England v France  1-2
+     (Harry KANE 54'(p);
+      Aurelien TCHOUAMENI 17', Olivier GIROUD 78')
+
+England: Jordan PICKFORD - Kyle WALKER, Luke SHAW, John STONES (90+8' Jack GREALISH),
+      Harry MAGUIRE [Y 90'] - Declan RICE, Jordan HENDERSON (79' Mason MOUNT),
+      Jude BELLINGHAM - Harry KANE [c], Bukayo SAKA (79' Raheem STERLING),
+      Phil FODEN (85' Marcus RASHFORD)
+France: Hugo LLORIS [c] - Raphael VARANE, Jules KOUNDE, Dayot UPAMECANO, Theo HERNANDEZ [Y 82'] -
+      Antoine GRIEZMANN [Y 43'], Aurelien TCHOUAMENI, Kylian MBAPPE, Ousmane DEMBELE [Y 46'] (79' Kingsley COMAN),
+      Adrien RABIOT - Olivier GIROUD
+
+Refs: Wilton SAMPAIO (BRA), Bruno Boschilia (BRA), Bruno PIRES (BRA)
+
+
+▪ Semi-final
+Tue Dec 13 22:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88966
+  Argentina v Croatia  3-0
+     (Lionel MESSI 34'(p), Julian ALVAREZ 39', 69')
+
+Argentina: Emiliano MARTINEZ - Nicolas TAGLIAFICO, Cristian ROMERO [Y 68'], Nicolas OTAMENDI [Y 71'],
+      Nahuel MOLINA (86' Juan FOYTH) - Leandro PAREDES (62' Lisandro MARTINEZ),
+      Rodrigo DE PAUL (74' Exequiel PALACIOS), Alexis MAC ALLISTER (86' Angel CORREA),
+      Enzo FERNANDEZ - Julian ALVAREZ (74' Paulo DYBALA), Lionel MESSI [c]
+Croatia: Dominik LIVAKOVIC [Y 32'] - Dejan LOVREN, Borna SOSA (46' Mislav ORSIC),
+      Josko GVARDIOL, Josip JURANOVIC - Mateo KOVACIC [Y 32'], Luka MODRIC [c] (81' Lovro MAJER),
+      Marcelo BROZOVIC (50' Bruno PETKOVIC) - Ivan PERISIC, Andrej KRAMARIC (72' Marko LIVAJA),
+      Mario PASALIC (46' Nikola VLASIC)
+
+Refs: Daniele Orsato (ITA), Ciro Carbone (ITA), Alessandro Giallatini (ITA)
+
+
+Wed Dec 14 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 68294
+  France v Morocco  2-0
+     (Theo HERNANDEZ 5', Randal KOLO MUANI 79')
+
+France: Hugo LLORIS [c] - Raphael VARANE, Jules KOUNDE, Theo HERNANDEZ, Ibrahima KONATE -
+      Antoine GRIEZMANN, Aurelien TCHOUAMENI, Youssouf Fofana - Olivier GIROUD (65' Marcus THURAM),
+      Kylian MBAPPE, Ousmane DEMBELE (78' Randal KOLO MUANI)
+Morocco: Yassine BOUNOU - Romain SAISS [c] (21' Selim AMALLAH (78' Abde EZZALZOULI)),
+      Jawad EL YAMIQ, Achraf DARI - Achraf HAKIMI, Noussair MAZRAOUI (46' Yahya ATTIAT-ALLAH),
+      Sofyan AMRABAT, Azzedine OUNAHI - Hakim ZIYECH, Sofiane BOUFAL [Y 27'] (66' Zakaria ABOUKHLAL),
+      Youssef EN NESYRI (66' Abderrazak HAMDALLAH)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Alberto Morín Méndez (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+▪ Play-off for third place
+Sat Dec 17 18:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 44137
+  Croatia v Morocco  2-1
+     (Josko GVARDIOL 7', Mislav ORSIC 42';
+      Achraf DARI 9')
+
+Croatia: Dominik LIVAKOVIC - Josip STANISIC, Ivan PERISIC, Josko GVARDIOL, Josip SUTALO -
+      Lovro MAJER (66' Mario PASALIC), Mateo KOVACIC, Luka MODRIC [c], Mislav ORSIC (90+5' Kristijan JAKIC) -
+      Andrej KRAMARIC (61' Nikola VLASIC), Marko LIVAJA (66' Bruno PETKOVIC)
+Morocco: Yassine BOUNOU - Achraf HAKIMI, Jawad EL YAMIQ (66' Selim AMALLAH [Y 84']),
+      Achraf DARI (64' Badr BENOUN), Yahya ATTIAT-ALLAH - Sofyan AMRABAT, Abdelhamid SABIRI (46' Ilias CHAIR),
+      Bilal EL KHANNOUSS (56' Azzedine OUNAHI [Y 69']) - Hakim ZIYECH [c],
+      Sofiane BOUFAL (64' Anass ZAROURY), Youssef EN NESYRI
+
+Refs: Abdulrahman AL JASSIM (QAT), Taleb AL MARRI (QAT), Saoud AL MAQALEH (QAT)
+
+
+▪ Final
+Sun Dec 18 18:00 UTC+3 @ Lusail Stadium, Al Daayen, Att: 88966
+  Argentina v France  3-3 a.e.t., 4-2 pen.
+     (Lionel MESSI 23'(p), 108', Angel DI MARIA 36';
+      Kylian MBAPPE 80'(p), 81', 118'(p))
+
+Penalties: 0-1 Kylian MBAPPE, 1-1 Lionel MESSI,
+               Kingsley COMAN (missed), 2-1 Paulo DYBALA,
+               Aurelien TCHOUAMENI (missed), 3-1 Leandro PAREDES,
+           3-2 Randal KOLO MUANI, 4-2 Gonzalo MONTIEL
+
+Argentina: Emiliano MARTINEZ [Y 125'] - Nicolas TAGLIAFICO (120+1' Paulo DYBALA),
+      Cristian ROMERO, Nicolas OTAMENDI, Nahuel MOLINA (91' Gonzalo MONTIEL [Y 116']) -
+      Rodrigo DE PAUL (102' Leandro PAREDES [Y 114']), Alexis MAC ALLISTER (116' German PEZZELLA),
+      Enzo FERNANDEZ [Y 45+7'] - Julian ALVAREZ (102' Lautaro MARTINEZ), Lionel MESSI [c],
+      Angel DI MARIA (64' Marcos ACUNA [Y 90+8'])
+France: Hugo LLORIS [c] - Raphael VARANE (113' Ibrahima KONATE), Jules KOUNDE (120+1' Axel DISASI),
+      Dayot UPAMECANO, Theo HERNANDEZ (71' Eduardo CAMAVINGA) - Antoine GRIEZMANN (71' Kingsley COMAN),
+      Aurelien TCHOUAMENI, Adrien RABIOT [Y 55'] (96' Youssouf Fofana) - Olivier GIROUD [Y 90+5'] (41' Marcus THURAM [Y 87']),
+      Kylian MBAPPE, Ousmane DEMBELE (41' Randal KOLO MUANI)
+
+Refs: Szymon MARCINIAK (POL), Pawel SOKOLNICKI (POL), Tomasz LISTKIEWICZ (POL)
+
+

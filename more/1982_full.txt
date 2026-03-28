@@ -1,0 +1,799 @@
+= World Cup 1982
+
+# Dates    Sun Jun 13 - Sun Jul 11 1982 (28d)
+# Teams    24
+# Matches  52
+# Venues   17 (in 14 cities)
+#   Estadio Municipal de Riazor, A Coruña (ESP)
+#   Estadio José Rico Pérez, Alicante (ESP)
+#   Sarria, Barcelona (ESP)
+#   Camp Nou, Barcelona (ESP)
+#   San Mames, Bilbao (ESP)
+#   Nuevo Estadio, Elche (ESP)
+#   El Molinon, Gijón (ESP)
+#   Vicente Calderon, Madrid (ESP)
+#   Santiago Bernabeu, Madrid (ESP)
+#   Estadio La Rosaleda, Málaga (ESP)
+#   Carlos Tartiere, Oviedo (ESP)
+#   Ramon Sanchez Pizjuan, Seville (ESP)
+#   Estadio Benito Villamarin, Seville (ESP)
+#   Luis Casanova, Valencia (ESP)
+#   Jose Zorrilla, Valladolid (ESP)
+#   Estadio Municipal de Balaídos, Vigo (ESP)
+#   La Romareda, Zaragoza (ESP)
+
+▪ Group Matches
+▪▪ Group 1
+Mon Jun 14 17:15 UTC+2 @ Estadio Municipal de Balaídos, Vigo
+  Italy v Poland  0-0
+
+Italy: Dino ZOFF [c] - Antonio CABRINI, Fulvio COLLOVATI, Claudio GENTILE, Gaetano SCIREA [Y 47'] -
+      Giancarlo ANTOGNONI, Giampiero MARINI [Y 1'], Marco TARDELLI, Bruno CONTI -
+      Francesco GRAZIANI, Paolo ROSSI
+Poland: Jozef MLYNARCZYK - Pawel JANAS, Jan JALOCHA, Wladyslaw ZMUDA [c], Stefan MAJEWSKI -
+      Waldemar MATYSIK, Andrzej BUNCOL - Wlodimierz SMOLAREK, Grzegorz LATO,
+      Andrzej IWAN (72' Marek KUSTO), Zbigniew BONIEK [Y 10']
+
+Refs: Michel VAUTROT (FRA), Nicolae RAINEA (ROU)
+
+
+Tue Jun 15 17:15 UTC+2 @ Estadio Municipal de Riazor, A Coruña
+  Peru v Cameroon  0-0
+
+Peru: Ramon QUIROGA - Jaime DUARTE, Rafael SALGUERO, Ruben DIAZ [c], Jorge OLAECHEA -
+      Jose VELASQUEZ, Cesar CUETO, Julio Cesar URIBE, Teofilo CUBILLAS (57' Guillermo LA ROSA) -
+      German LEGUIA (57' Geronimo BARBADILLO), Juan Carlos OBLITAS
+Cameroon: Thomas NKONO [c] [Y 80'] - Michel KAHAM, Rene NDJEYA, Jean ONANA, Emmanuel KUNDE,
+      Ephrem MBOM, Ibrahim AOUDOU - Gregoire MBIDA, Theophile ABEGA - Roger MILLA (89' Jean Pierre TOKOTO),
+      Jacques NGUEA (73' Paul BAHOKEN)
+
+Refs: Franz WOEHRER (AUT), Nicolae RAINEA (ROU)
+
+
+Fri Jun 18 17:15 UTC+2 @ Estadio Municipal de Balaídos, Vigo
+  Italy v Peru  1-1
+     (Bruno CONTI 18'; Ruben DIAZ 83')
+
+Italy: Dino ZOFF [c] - Antonio CABRINI, Fulvio COLLOVATI, Claudio GENTILE, Gaetano SCIREA -
+      Giancarlo ANTOGNONI, Giampiero MARINI, Marco TARDELLI [Y 52'], Bruno CONTI -
+      Francesco GRAZIANI, Paolo ROSSI (45+1' Franco CAUSIO)
+Peru: Ramon QUIROGA - Jaime DUARTE [Y 76'], Rafael SALGUERO, Ruben DIAZ [c],
+      Jorge OLAECHEA - Jose VELASQUEZ, Cesar CUETO, Julio Cesar URIBE (65' Guillermo LA ROSA),
+      Teofilo CUBILLAS - Geronimo BARBADILLO (65' German LEGUIA), Juan Carlos OBLITAS
+
+Refs: Walter ESCHWEILER (GER), Mario RUBIO VAZQUEZ (MEX), Abraham KLEIN (ISR)
+
+
+Sat Jun 19 19:15 UTC+2 @ Estadio Municipal de Riazor, A Coruña
+  Poland v Cameroon  0-0
+
+Poland: Jozef MLYNARCZYK - Pawel JANAS, Jan JALOCHA, Wladyslaw ZMUDA [c], Stefan MAJEWSKI -
+      Andrzej BUNCOL, Andrzej PALASZ [Y 34'] (66' Marek KUSTO) - Wlodimierz SMOLAREK,
+      Grzegorz LATO, Andrzej IWAN (25' Andrzej SZARMACH), Zbigniew BONIEK
+Cameroon: Thomas NKONO [c] - Michel KAHAM, Rene NDJEYA, Jean ONANA, Emmanuel KUNDE,
+      Ephrem MBOM, Ibrahim AOUDOU [Y 40'] - Gregoire MBIDA, Theophile ABEGA -
+      Roger MILLA [Y 80'], Jacques NGUEA (45+1' Jean Pierre TOKOTO)
+
+Refs: Alexis PONNET (BEL), Walter ESCHWEILER (GER), Mario RUBIO VAZQUEZ (MEX)
+
+
+Tue Jun 22 17:15 UTC+2 @ Estadio Municipal de Riazor, A Coruña
+  Poland v Peru  5-1
+     (Wlodimierz SMOLAREK 55', Grzegorz LATO 58', Zbigniew BONIEK 61', Andrzej BUNCOL 68', Wlodzimierz CIOLEK 76';
+      Guillermo LA ROSA 83')
+
+Poland: Jozef MLYNARCZYK - Janusz KUPCEWICZ, Pawel JANAS, Jan JALOCHA (26' Marek DZIUBA),
+      Wladyslaw ZMUDA [c], Stefan MAJEWSKI - Waldemar MATYSIK, Andrzej BUNCOL -
+      Wlodimierz SMOLAREK (74' Wlodzimierz CIOLEK), Grzegorz LATO, Zbigniew BONIEK
+Peru: Ramon QUIROGA - Jaime DUARTE, Rafael SALGUERO, Ruben DIAZ [c], Jorge OLAECHEA -
+      Jose VELASQUEZ [Y 31'], Cesar CUETO, Teofilo CUBILLAS (50' Julio Cesar URIBE) -
+      German LEGUIA, Juan Carlos OBLITAS (50' Geronimo BARBADILLO), Guillermo LA ROSA
+
+Refs: Mario RUBIO VAZQUEZ (MEX), Emilio SORIANO ALADREN (ESP), Victoriano SANCHEZ ARMINIO (ESP)
+
+
+Wed Jun 23 17:15 UTC+2 @ Estadio Municipal de Balaídos, Vigo
+  Italy v Cameroon  1-1
+     (Francesco GRAZIANI 60'; Gregoire MBIDA 61')
+
+Italy: Dino ZOFF [c] - Antonio CABRINI, Fulvio COLLOVATI, Claudio GENTILE, Gaetano SCIREA -
+      Giancarlo ANTOGNONI [Y 36'], Gabriele ORIALI, Marco TARDELLI, Bruno CONTI -
+      Francesco GRAZIANI, Paolo ROSSI
+Cameroon: Thomas NKONO [c] - Michel KAHAM, Rene NDJEYA [Y 36'], Jean ONANA, Emmanuel KUNDE,
+      Ephrem MBOM, Ibrahim AOUDOU - Gregoire MBIDA, Theophile ABEGA - Roger MILLA,
+      Jean Pierre TOKOTO
+
+Refs: Bogdan DOTCHEV (BUL), Emilio SORIANO ALADREN (ESP), Victoriano SANCHEZ ARMINIO (ESP)
+
+
+▪▪ Group 2
+Wed Jun 16 17:15 UTC+2 @ El Molinon, Gijón
+  West Germany v Algeria  1-2
+     (Karl-Heinz RUMMENIGGE 67';
+      Rabah MADJER 54', Lakhdar BELLOUMI 68')
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL, Karlheinz FOERSTER, Uli STIELIKE,
+      Manfred KALTZ - Paul BREITNER, Wolfgang DREMMLER, Pierre LITTBARSKI,
+      Felix MAGATH (83' Klaus FISCHER) - Horst HRUBESCH [Y 57'], Karl-Heinz RUMMENIGGE [c]
+Algeria: Mahdi CERBAH - Mahmoud GUENDOUZ, Nordine KOURICHI, Chaabane MERZEKANE,
+      Faouzi MANSOURI - Ali FERGANI [c], Lakhdar BELLOUMI, Djamel ZIDANE (64' Tedj BENSAOULA),
+      Mustafa DAHLEB - Salah ASSAD, Rabah MADJER [Y 83'] (88' Salah LARBES)
+
+Refs: Enrique LABO REVOREDO (PER), Gilberto ARISTIZABAL MURCIA (COL), Paolo CASARIN (ITA)
+
+
+Thu Jun 17 17:15 UTC+2 @ Carlos Tartiere, Oviedo
+  Chile v Austria  0-1
+     (Walter SCHACHNER 22')
+
+Chile: Mario OSBEN - Lizardo GARRIDO [Y 29'], Rene VALENZUELA, Vladimir BIGORRA,
+      Elias FIGUEROA [c] - Rodolfo DUBO, Eduardo BONVALLET, Miguel NEIRA (71' Manuel ROJAS) -
+      Gustavo MOSCOSO (69' Miguel GAMBOA), Carlos CASZELY, Patricio YANEZ
+Austria: Friedl KONCILIA - Bernd KRAUSS, Erich OBERMAYER [c], Josef DEGEORGI [Y 12'] (78' Ernst BAUMEISTER),
+      Bruno PEZZEY, Heribert WEBER (79' Gernot JURTIN) - Roland HATTENBERGER [Y 66'],
+      Herbert PROHASKA, Reinhold HINTERMAIER - Walter SCHACHNER, Hans KRANKL
+
+Refs: Juan CARDELLINO (URU), Paolo CASARIN (ITA), Gilberto ARISTIZABAL MURCIA (COL)
+
+
+Sun Jun 20 17:15 UTC+2 @ El Molinon, Gijón
+  West Germany v Chile  4-1
+     (Karl-Heinz RUMMENIGGE 9', 57', 66', Uwe REINDERS 83';
+      Gustavo MOSCOSO 90')
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL, Karlheinz FOERSTER, Uli STIELIKE,
+      Manfred KALTZ - Paul BREITNER (61' Lothar MATTHAEUS), Wolfgang DREMMLER,
+      Pierre LITTBARSKI (79' Uwe REINDERS), Felix MAGATH - Horst HRUBESCH,
+      Karl-Heinz RUMMENIGGE [c]
+Chile: Mario OSBEN - Lizardo GARRIDO, Rene VALENZUELA, Vladimir BIGORRA, Elias FIGUEROA [c],
+      Mario SOTO (45+1' Juan LETELIER) - Rodolfo DUBO [Y 11'], Eduardo BONVALLET -
+      Gustavo MOSCOSO, Patricio YANEZ, Miguel GAMBOA [Y 29'] (66' Miguel NEIRA)
+
+Refs: Bruno GALLER (SUI), Vojtech CHRISTOV (TCH), Tony BOSKOVIC (AUS)
+
+
+Mon Jun 21 17:15 UTC+2 @ Carlos Tartiere, Oviedo
+  Algeria v Austria  0-2
+     (Walter SCHACHNER 55', Hans KRANKL 67')
+
+Algeria: Mahdi CERBAH - Mahmoud GUENDOUZ, Nordine KOURICHI, Chaabane MERZEKANE,
+      Faouzi MANSOURI [Y 67'] - Ali FERGANI [c], Lakhdar BELLOUMI (65' Tedj BENSAOULA),
+      Djamel ZIDANE, Mustafa DAHLEB (76' Djamel TLEMCANI) - Salah ASSAD, Rabah MADJER
+Austria: Friedl KONCILIA - Bernd KRAUSS, Erich OBERMAYER [c], Josef DEGEORGI,
+      Bruno PEZZEY - Roland HATTENBERGER, Herbert PROHASKA (80' Heribert WEBER),
+      Reinhold HINTERMAIER, Ernst BAUMEISTER (45+1' Kurt WELZL) - Walter SCHACHNER,
+      Hans KRANKL
+
+Refs: Tony BOSKOVIC (AUS), Vojtech CHRISTOV (TCH), Ebrahim AL DOY (BHR)
+
+
+Thu Jun 24 17:15 UTC+2 @ Carlos Tartiere, Oviedo
+  Algeria v Chile  3-2
+     (Salah ASSAD 7', 31', Tedj BENSAOULA 35';
+      Miguel NEIRA 59'(p), Juan LETELIER 73')
+
+Algeria: Mahdi CERBAH - Mahmoud GUENDOUZ, Nordine KOURICHI, Chaabane MERZEKANE,
+      Salah LARBES, Faouzi MANSOURI (75' Mustafa DAHLEB) - Ali FERGANI [c] -
+      Salah ASSAD, Tedj BENSAOULA, Rabah MADJER, Abdelmajid BOUREBBOU (31' Hocine YAHI)
+Chile: Mario OSBEN - Rene VALENZUELA, Vladimir BIGORRA, Elias FIGUEROA [c],
+      Mario GALINDO - Rodolfo DUBO, Eduardo BONVALLET (37' Mario SOTO), Miguel NEIRA -
+      Gustavo MOSCOSO, Carlos CASZELY (58' Juan LETELIER [Y 88']), Patricio YANEZ
+
+Refs: Romulo MENDEZ (GUA), Erik FREDRIKSSON (SWE), Arnaldo COELHO (BRA)
+
+
+Fri Jun 25 17:15 UTC+2 @ El Molinon, Gijón
+  West Germany v Austria  1-0
+     (Horst HRUBESCH 10')
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL, Karlheinz FOERSTER, Uli STIELIKE,
+      Manfred KALTZ - Paul BREITNER, Wolfgang DREMMLER, Pierre LITTBARSKI,
+      Felix MAGATH - Horst HRUBESCH (69' Klaus FISCHER), Karl-Heinz RUMMENIGGE [c] (66' Lothar MATTHAEUS)
+Austria: Friedl KONCILIA - Bernd KRAUSS, Erich OBERMAYER [c], Josef DEGEORGI,
+      Bruno PEZZEY, Heribert WEBER - Roland HATTENBERGER, Herbert PROHASKA,
+      Reinhold HINTERMAIER [Y 32'] - Walter SCHACHNER [Y 32'], Hans KRANKL
+
+Refs: Robert VALENTINE (SCO), Ebrahim AL DOY (BHR), Arnaldo COELHO (BRA)
+
+
+▪▪ Group 3
+Sun Jun 13 20:00 UTC+2 @ Camp Nou, Barcelona
+  Argentina v Belgium  0-1
+     (Erwin VANDENBERGH 62')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES, Americo GALLEGO, Diego MARADONA - Daniel BERTONI [Y 55'],
+      Ramon DIAZ (63' Jorge VALDANO), Mario KEMPES
+Belgium: Jean Marie PFAFF - Eric GERETS [c], Luc MILLECAMPS [Y 50'], Marc BAECKE,
+      Maurits DE SCHRIJVER - Frank VERCAUTEREN, Ludo COECK - Erwin VANDENBERGH,
+      Jan CEULEMANS, Guy VANDERSMISSEN, Alex CZERNIATYNSKI
+
+Refs: Vojtech CHRISTOV (TCH), Karoly PALOTAI (HUN), Alojzy JARGUZ (POL)
+
+
+Tue Jun 15 21:00 UTC+2 @ Nuevo Estadio, Elche
+  Hungary v El Salvador  10-1
+     (Tibor NYILASI 4', 83', Gabor POLOSKEI 11', Laszlo FAZEKAS 23', 54', Jozsef TOTH 50', Laszlo KISS 69', 72', 76', Lazar SZENTES 70';
+      Luis RAMIREZ 64')
+
+Hungary: Ferenc MESZAROS - Gyozo MARTOS, Laszlo BALINT, Jozsef TOTH, Imre GARABA,
+      Sandor SALLAI - Sandor MULLER (68' Lazar SZENTES), Tibor NYILASI [c] [Y 74'] -
+      Laszlo FAZEKAS [Y 32'], Andras TOROCSIK (56' Laszlo KISS), Gabor POLOSKEI
+El Salvador: Luis GUEVARA MORA - Mario CASTILLO, Jose JOVEL, Carlos RECINOS, Jaime RODRIGUEZ -
+      Joaquin VENTURA (79' Ramon FAGOAGA), Jose RUGAMAS (26' Luis RAMIREZ),
+      Jose HUEZO [c] - Francisco HERNANDEZ, Jorge GONZALEZ, Jose RIVAS
+
+Refs: Ebrahim AL DOY (BHR), Charles CORVER (NED), Henning LUND-SORENSEN (DEN)
+
+
+Fri Jun 18 21:00 UTC+2 @ Estadio José Rico Pérez, Alicante
+  Argentina v Hungary  4-1
+     (Daniel BERTONI 26', Diego MARADONA 28', 57', Osvaldo ARDILES 60';
+      Gabor POLOSKEI 76')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI (51' Juan BARBAS) -
+      Osvaldo ARDILES, Americo GALLEGO, Diego MARADONA - Daniel BERTONI, Mario KEMPES,
+      Jorge VALDANO (24' Gabriel CALDERON)
+Hungary: Ferenc MESZAROS - Gyozo MARTOS (46' Laszlo FAZEKAS), Laszlo BALINT, Jozsef TOTH,
+      Imre GARABA, Tibor RAB, Sandor SALLAI, Jozsef VARGA - Tibor NYILASI [c] -
+      Laszlo KISS (61' Lazar SZENTES), Gabor POLOSKEI
+
+Refs: Belaïd LACARNE (ALG), Michel VAUTROT (FRA), Nicolae RAINEA (ROU)
+
+
+Sat Jun 19 21:00 UTC+2 @ Nuevo Estadio, Elche
+  Belgium v El Salvador  1-0
+     (Ludo COECK 19')
+
+Belgium: Jean Marie PFAFF - Eric GERETS [c], Luc MILLECAMPS, Walter MEEUWS, Marc BAECKE -
+      Frank VERCAUTEREN, Ludo COECK - Erwin VANDENBERGH, Jan CEULEMANS (80' Wilfried VAN MOER),
+      Guy VANDERSMISSEN, Alex CZERNIATYNSKI
+El Salvador: Luis GUEVARA MORA - Jose JOVEL, Carlos RECINOS, Ramon FAGOAGA [Y 74'],
+      Francisco OSORTO [Y 17'] (45+1' Miguel Angel DIAZ), Jaime RODRIGUEZ -
+      Joaquin VENTURA, Jose HUEZO [c] - Jorge GONZALEZ, Jose RIVAS, Luis RAMIREZ
+
+Refs: Malcolm MOFFATT (NIR), Gaston CASTRO (CHI), Alojzy JARGUZ (POL)
+
+
+Tue Jun 22 21:00 UTC+2 @ Nuevo Estadio, Elche
+  Belgium v Hungary  1-1
+     (Alex CZERNIATYNSKI 76'; Jozsef VARGA 27')
+
+Belgium: Jean Marie PFAFF [Y 65'] - Eric GERETS [c] (62' Gerard PLESSERS), Luc MILLECAMPS,
+      Walter MEEUWS [Y 79'], Marc BAECKE - Frank VERCAUTEREN, Ludo COECK -
+      Erwin VANDENBERGH, Jan CEULEMANS, Guy VANDERSMISSEN (45+1' Wilfried VAN MOER),
+      Alex CZERNIATYNSKI
+Hungary: Ferenc MESZAROS - Gyozo MARTOS, Imre GARABA, Attila KEREKES, Jozsef VARGA -
+      Sandor MULLER (67' Sandor SALLAI), Tibor NYILASI [c] - Laszlo FAZEKAS,
+      Andras TOROCSIK, Laszlo KISS (70' Ferenc CSONGRADI), Gabor POLOSKEI
+
+Refs: Clive WHITE (ENG), Walter ESCHWEILER (GER), Belaïd LACARNE (ALG)
+
+
+Wed Jun 23 21:00 UTC+2 @ Estadio José Rico Pérez, Alicante
+  Argentina v El Salvador  2-0
+     (Daniel PASSARELLA 22'(p), Daniel BERTONI 54')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN [Y 31'], Daniel PASSARELLA [c],
+      Alberto TARANTINI - Osvaldo ARDILES, Americo GALLEGO [Y 44'], Diego MARADONA -
+      Daniel BERTONI (67' Ramon DIAZ), Gabriel CALDERON (78' Santiago SANTAMARIA),
+      Mario KEMPES
+El Salvador: Luis GUEVARA MORA - Jose JOVEL, Carlos RECINOS [Y 45'], Francisco OSORTO [Y 20'] (33' Miguel Angel DIAZ),
+      Jaime RODRIGUEZ - Joaquin VENTURA (78' Mauricio ALFARO), Jose RUGAMAS,
+      Jose HUEZO [c] - Jorge GONZALEZ, Jose RIVAS, Luis RAMIREZ [Y 26']
+
+Refs: Luis BARRANCOS (BOL), Augusto LAMO CASTILLO (ESP), Belaïd LACARNE (ALG)
+
+
+▪▪ Group 4
+Wed Jun 16 17:15 UTC+2 @ San Mames, Bilbao
+  England v France  3-1
+     (Bryan ROBSON 1', 67', Paul MARINER 83';
+      Gerard SOLER 24')
+
+England: Peter SHILTON - Terry BUTCHER [Y 34'], Mick MILLS [c], Kenny SANSOM (90' Philip NEAL),
+      Phil THOMPSON - Steve COPPELL, Graham RIX, Bryan ROBSON, Ray WILKINS -
+      Trevor FRANCIS, Paul MARINER
+France: Jean Luc ETTORI - Patrick BATTISTON, Maxime BOSSIS, Christian LOPEZ,
+      Marius TRESOR - Michel PLATINI [c], Rene GIRARD, Alain GIRESSE, Jean Francois LARIOS (74' Jean TIGANA) -
+      Dominique ROCHETEAU (71' Didier SIX), Gerard SOLER
+
+Refs: Antonio GARRIDO (POR), Gaston CASTRO (CHI), Arnaldo COELHO (BRA)
+
+
+Thu Jun 17 17:45 UTC+2 @ Jose Zorrilla, Valladolid
+  Czechoslovakia v Kuwait  1-1
+     (Antonin PANENKA 21'(p); Faisal AL DAKHIL 57')
+
+Czechoslovakia: Zdenek HRUSKA - Jan FIALA, Ladislav JURKEMIK, Jozef BARMOS, Jozef KUKUCKA -
+      Antonin PANENKA, Jan BERGER - Ladislav VIZEK, Tomas KRIZ (61' Premysl BICOVSKY),
+      Zdenek NEHODA [c], Petr JANECKA (68' Vlastimil PETRZELA)
+Kuwait: Ahmed AL TARABULSI - Naim FAJAH, MAHBOUB MUBARAK, Walid AL MUBARAK, Abdullah MAYUF -
+      Saad AL HUTTI [c], Abdulaziz AL BALUSHI, Mohamed KARAM (57' Fathi MATAR) -
+      Jasem SULTAN, Abdulaziz AL ANBARI, Faisal AL DAKHIL
+
+Refs: Benjamin DWOMOH (GHA), Romulo MENDEZ (GUA), Robert VALENTINE (SCO)
+
+
+Sun Jun 20 17:15 UTC+2 @ San Mames, Bilbao
+  England v Czechoslovakia  2-0
+     (Trevor FRANCIS 62', Jozef BARMOS 66'(og))
+
+England: Peter SHILTON - Terry BUTCHER, Mick MILLS [c], Kenny SANSOM, Phil THOMPSON -
+      Steve COPPELL, Graham RIX, Bryan ROBSON (45+1' Glenn HODDLE), Ray WILKINS -
+      Trevor FRANCIS, Paul MARINER
+Czechoslovakia: Stanislav SEMAN (75' Karel STROMSIK) - Jan FIALA, Ladislav JURKEMIK,
+      Jozef BARMOS, Rostilav VOJACEK, Libor RADIMEC - Jan BERGER, Pavel CHALOUPKA [Y 40'] -
+      Ladislav VIZEK, Zdenek NEHODA [c], Petr JANECKA (77' Marian MASNY)
+
+Refs: Charles CORVER (NED), Bogdan DOTCHEV (BUL), Gilberto ARISTIZABAL MURCIA (COL)
+
+
+Mon Jun 21 17:15 UTC+2 @ Jose Zorrilla, Valladolid
+  France v Kuwait  4-1
+     (Bernard GENGHINI 31', Michel PLATINI 43', Didier SIX 48', Maxime BOSSIS 89';
+      Abdulaziz AL BALUSHI 75')
+
+France: Jean Luc ETTORI - Manuel AMOROS [Y 68'], Maxime BOSSIS, Gerard JANVION (59' Christian LOPEZ),
+      Marius TRESOR - Bernard GENGHINI, Michel PLATINI [c] (81' Rene GIRARD),
+      Alain GIRESSE - Bernard LACOMBE, Didier SIX, Gerard SOLER
+Kuwait: Ahmed AL TARABULSI - Naim FAJAH, MAHBOUB MUBARAK, Walid AL MUBARAK (78' Hamud AL SHEMMARI),
+      Abdullah MAYUF - Saad AL HUTTI [c], Abdulaziz AL BALUSHI, Mohamed KARAM (45+1' Fathi MATAR [Y 85']) -
+      Jasem SULTAN, Abdulaziz AL ANBARI [Y 30'], Faisal AL DAKHIL
+
+Refs: Miroslav STUPAR (URS), Erik FREDRIKSSON (SWE), Damir MATOVINOVIC (CRO)
+
+
+Thu Jun 24 17:15 UTC+2 @ Jose Zorrilla, Valladolid
+  France v Czechoslovakia  1-1
+     (Didier SIX 66'; Antonin PANENKA 84'(p))
+
+France: Jean Luc ETTORI - Manuel AMOROS [Y 47'], Maxime BOSSIS, Gerard JANVION,
+      Marius TRESOR - Bernard GENGHINI, Michel PLATINI [c], Alain GIRESSE -
+      Bernard LACOMBE (70' Alain COURIOL), Didier SIX, Gerard SOLER (89' Rene GIRARD)
+Czechoslovakia: Karel STROMSIK - Jan FIALA, Jozef BARMOS, Rostilav VOJACEK, Libor RADIMEC -
+      Premysl BICOVSKY, Frantisek STAMBACHER - Ladislav VIZEK [R 87'], Tomas KRIZ (31' Marian MASNY),
+      Zdenek NEHODA [c], Petr JANECKA (70' Antonin PANENKA [Y 75'])
+
+Refs: Paolo CASARIN (ITA), Benjamin DWOMOH (GHA), Karoly PALOTAI (HUN)
+
+
+Fri Jun 25 17:15 UTC+2 @ San Mames, Bilbao
+  England v Kuwait  1-0
+     (Trevor FRANCIS 27')
+
+England: Peter SHILTON - Steve FOSTER, Mick MILLS [c], Philip NEAL, Phil THOMPSON -
+      Steve COPPELL, Glenn HODDLE, Graham RIX, Ray WILKINS - Trevor FRANCIS,
+      Paul MARINER [Y 43']
+Kuwait: Ahmed AL TARABULSI - Naim FAJAH [Y 44'], MAHBOUB MUBARAK, Walid AL MUBARAK (76' Hamud AL SHEMMARI),
+      Abdullah MAYUF - Saad AL HUTTI [c], Fathi MATAR, Abdulaziz AL BALUSHI,
+      Yusuf FARAJ - Abdulaziz AL ANBARI, Faisal AL DAKHIL
+
+Refs: Gilberto ARISTIZABAL MURCIA (COL), Henning LUND-SORENSEN (DEN), Jose L. GARCIA CARRION (ESP)
+
+
+▪▪ Group 5
+Wed Jun 16 21:00 UTC+2 @ Luis Casanova, Valencia
+  Spain v Honduras  1-1
+     (LOPEZ UFARTE 65'(p); Hector ZELAYA 7')
+
+Spain: Luis ARCONADA [c] - Jose Antonio CAMACHO, Rafael GORDILLO, Miguel TENDILLO,
+      Jose ALEXANKO - Miguel ALONSO, Joaquin ALONSO (45+1' Jose SANCHEZ), Jesus ZAMORA -
+      JUANITO (45+1' Enrique SAURA), Jesus SATRUSTEGUI, LOPEZ UFARTE
+Honduras: Julio Cesar ARZU - Cesar GUTIERREZ, Jaime VILLEGAS, Jose BULNES, Allan COSTLY -
+      Ramon MARADIAGA [c], Hector ZELAYA, Gilberto YEARWOOD - Porfirio BETANCOURT,
+      Jose FIGUEROA, Prudencio NORALES (69' Carlos CABELLERO)
+
+Refs: Arturo Andres ITHURRALDE (ARG), Bogdan DOTCHEV (BUL), Luis BARRANCOS (BOL)
+
+
+Thu Jun 17 21:00 UTC+2 @ La Romareda, Zaragoza
+  Yugoslavia v Northern Ireland  0-0
+
+Yugoslavia: Dragan PANTELIC - Velimir ZAJEC, Nenad STOJKOVIC, Nikola JOVANOVIC, Milos HRSTIC -
+      Ivan GUDELJ, Vladimir PETROVIC, Edhem SLJIVO - Zlatko VUJOVIC, Safet SUSIC,
+      Ivica SURJAK [c]
+Northern Ireland: Pat JENNINGS - Jimmy NICHOLL, Mal DONAGHY, Chris NICHOLL, John McCLELLAND -
+      David McCREERY, Martin O NEILL [c], Sam McILROY - Gerry ARMSTRONG, Billy HAMILTON,
+      Norman WHITESIDE [Y 62']
+
+Refs: Erik FREDRIKSSON (SWE), Bruno GALLER (SUI), Karoly PALOTAI (HUN)
+
+
+Sun Jun 20 21:00 UTC+2 @ Luis Casanova, Valencia
+  Spain v Yugoslavia  2-1
+     (JUANITO 14'(p), Enrique SAURA 66';
+      Ivan GUDELJ 10')
+
+Spain: Luis ARCONADA [c] - Jose Antonio CAMACHO, Rafael GORDILLO [Y 87'], Miguel TENDILLO,
+      Jose ALEXANKO - Miguel ALONSO, Jesus ZAMORA [Y 80'], Jose SANCHEZ (63' QUINI) -
+      JUANITO, Jesus SATRUSTEGUI (63' Enrique SAURA), LOPEZ UFARTE
+Yugoslavia: Dragan PANTELIC - Velimir ZAJEC, Nenad STOJKOVIC [Y 35'], Zlatko KRMPOTIC,
+      Nikola JOVANOVIC (74' Vahid HALILHODZIC) - Ivan GUDELJ, Vladimir PETROVIC,
+      Edhem SLJIVO [Y 78'] - Zlatko VUJOVIC (83' Milos SESTIC), Safet SUSIC,
+      Ivica SURJAK [c]
+
+Refs: Henning LUND-SORENSEN (DEN), Antonio GARRIDO (POR), Arturo Andres ITHURRALDE (ARG)
+
+
+Mon Jun 21 21:00 UTC+2 @ La Romareda, Zaragoza
+  Honduras v Northern Ireland  1-1
+     (Eduardo LAING 60'; Gerry ARMSTRONG 9')
+
+Honduras: Julio Cesar ARZU - Cesar GUTIERREZ, Jaime VILLEGAS, Allan COSTLY, Jose CRUZ -
+      Ramon MARADIAGA [c], Hector ZELAYA, Gilberto YEARWOOD - Porfirio BETANCOURT,
+      Jose FIGUEROA, Prudencio NORALES (58' Eduardo LAING)
+Northern Ireland: Pat JENNINGS - Jimmy NICHOLL, Mal DONAGHY, Chris NICHOLL, John McCLELLAND -
+      David McCREERY, Martin O NEILL [c] (78' Felix HEALEY), Sam McILROY -
+      Gerry ARMSTRONG, Billy HAMILTON, Norman WHITESIDE (66' Noel BROTHERSTON)
+
+Refs: CHAN Thomson Tam Sun (HKG), Enrique LABO REVOREDO (PER), Paolo CASARIN (ITA)
+
+
+Thu Jun 24 21:00 UTC+2 @ La Romareda, Zaragoza
+  Honduras v Yugoslavia  0-1
+     (Vladimir PETROVIC 88'(p))
+
+Honduras: Julio Cesar ARZU - Jaime VILLEGAS, Jose BULNES, Allan COSTLY, Domingo DRUMMOND -
+      Ramon MARADIAGA [c] [Y 85'], Juan CRUZ (65' Eduardo LAING), Hector ZELAYA,
+      Gilberto YEARWOOD [R 89'] - Porfirio BETANCOURT, Jose FIGUEROA
+Yugoslavia: Dragan PANTELIC - Velimir ZAJEC, Nenad STOJKOVIC, Zlatko KRMPOTIC [Y 81'],
+      Nikola JOVANOVIC (45+1' Vahid HALILHODZIC) - Ivan GUDELJ, Vladimir PETROVIC,
+      Edhem SLJIVO - Zlatko VUJOVIC (62' Milos SESTIC), Safet SUSIC, Ivica SURJAK [c]
+
+Refs: Gaston CASTRO (CHI), Jesus Paulino SILES (CRC), Arturo Andres ITHURRALDE (ARG)
+
+
+Fri Jun 25 21:00 UTC+2 @ Luis Casanova, Valencia
+  Northern Ireland v Spain  1-0
+     (Gerry ARMSTRONG 47')
+
+Northern Ireland: Pat JENNINGS - Jimmy NICHOLL, Mal DONAGHY [R 62'], Chris NICHOLL, John McCLELLAND -
+      David McCREERY, Martin O NEILL [c], Sam McILROY [Y 42'] (50' Tommy CASSIDY) -
+      Gerry ARMSTRONG, Billy HAMILTON [Y 41'], Norman WHITESIDE (73' Sammy NELSON)
+Spain: Luis ARCONADA [c] - Jose Antonio CAMACHO, Rafael GORDILLO, Miguel TENDILLO,
+      Jose ALEXANKO - Miguel ALONSO, Enrique SAURA, Jose SANCHEZ - JUANITO [Y 20'],
+      Jesus SATRUSTEGUI (45+1' QUINI), LOPEZ UFARTE (78' Ricardo GALLEGO)
+
+Refs: Hector ORTIZ (PAR), Enrique LABO REVOREDO (PER), Alexis PONNET (BEL)
+
+
+▪▪ Group 6
+Mon Jun 14 21:00 UTC+2 @ Ramon Sanchez Pizjuan, Seville
+  Brazil v Soviet Union  2-1
+     (SOCRATES 75', EDER 88';
+      Andrei BAL 34')
+
+Brazil: WALDIR PERES - LEANDRO, OSCAR, LUIZINHO, JUNIOR - SOCRATES [c], ZICO,
+      EDER, FALCAO - SERGINHO, DIRCEU (45+1' PAULO ISIDORO)
+Soviet Union: Rinat DASAEV - Tengiz SULAKVELIDZE, Aleksandre CHIVADZE [c], Sergei BALTACHA,
+      Anatoli DEMYANENKO - Vladimir BESSONOV, Yuri GAVRILOV (74' Yuri SUSLOPAROV),
+      Andrei BAL, Vitali DARASELIA - Ramaz SHENGELIA (88' Sergei ANDREYEV),
+      Oleg BLOKHIN
+
+Refs: Augusto LAMO CASTILLO (ESP), Victoriano SANCHEZ ARMINIO (ESP), Jose L. GARCIA CARRION (ESP)
+
+
+Tue Jun 15 21:00 UTC+2 @ Estadio La Rosaleda, Málaga
+  Scotland v New Zealand  5-2
+     (Kenny DALGLISH 18', John WARK 29', 32', John ROBERTSON 73', Steve ARCHIBALD 79';
+      Steve SUMNER 54', Steve WOODDIN 64')
+
+Scotland: Alan ROUGH - Danny McGRAIN [c], Frank GRAY, Alan HANSEN, Allan EVANS -
+      Graeme SOUNESS, Gordon STRACHAN (83' David NAREY), John WARK - Kenny DALGLISH,
+      Alan BRAZIL (53' Steve ARCHIBALD), John ROBERTSON
+New Zealand: Frank VAN HATTUM - Robert ALMOND (66' Ricki HERBERT), Sam MALCOLMSON (77' Duncan COLE),
+      Adrian ELRICK, John HILL - Steve SUMNER [c], Keith McKAY, Kenny CRESSWELL,
+      Allan BOATH - Wynton RUFER, Steve WOODDIN
+
+Refs: David SOCHA (USA), CHAN Thomson Tam Sun (HKG), Yusef Mohamed EL GHOUL (LBY)
+
+
+Fri Jun 18 21:00 UTC+2 @ Estadio Benito Villamarin, Seville
+  Brazil v Scotland  4-1
+     (ZICO 33', OSCAR 48', EDER 63', FALCAO 87';
+      David NAREY 18')
+
+Brazil: WALDIR PERES - LEANDRO, OSCAR, LUIZINHO, JUNIOR - TONINHO CEREZO, SOCRATES [c],
+      ZICO, EDER, FALCAO - SERGINHO (80' PAULO ISIDORO)
+Scotland: Alan ROUGH - Frank GRAY, Alan HANSEN, Willie MILLER, David NAREY - Graeme SOUNESS [c],
+      Gordon STRACHAN (65' Kenny DALGLISH), John WARK, Asa HARTFORD (68' Alex McLEISH) -
+      John ROBERTSON, Steve ARCHIBALD
+
+Refs: Jesus Paulino SILES (CRC), CHAN Thomson Tam Sun (HKG)
+
+
+Sat Jun 19 21:00 UTC+2 @ Estadio La Rosaleda, Málaga
+  Soviet Union v New Zealand  3-0
+     (Yuri GAVRILOV 24', Oleg BLOKHIN 48', Sergei BALTACHA 68')
+
+Soviet Union: Rinat DASAEV - Tengiz SULAKVELIDZE, Aleksandre CHIVADZE [c], Sergei BALTACHA,
+      Anatoli DEMYANENKO - Vladimir BESSONOV, Yuri GAVRILOV (79' Sergei RODIONOV),
+      Andrei BAL, Vitali DARASELIA (45+1' Khoren OGANESIAN) - Ramaz SHENGELIA,
+      Oleg BLOKHIN
+New Zealand: Frank VAN HATTUM - Glen DODS, Ricki HERBERT, Adrian ELRICK - Duncan COLE,
+      Steve SUMNER [c], Keith McKAY, Kenny CRESSWELL, Allan BOATH - Wynton RUFER,
+      Steve WOODDIN
+
+Refs: Yusef Mohamed EL GHOUL (LBY), Emilio SORIANO ALADREN (ESP), Clive WHITE (ENG)
+
+
+Tue Jun 22 21:00 UTC+2 @ Estadio La Rosaleda, Málaga
+  Soviet Union v Scotland  2-2
+     (Aleksandre CHIVADZE 59', Ramaz SHENGELIA 84';
+      Joe JORDAN 15', Graeme SOUNESS 86')
+
+Soviet Union: Rinat DASAEV - Tengiz SULAKVELIDZE, Aleksandre CHIVADZE [c], Sergei BALTACHA,
+      Anatoli DEMYANENKO, Sergei BOROVSKI - Vladimir BESSONOV, Yuri GAVRILOV,
+      Andrei BAL - Ramaz SHENGELIA (88' Sergei ANDREYEV), Oleg BLOKHIN
+Scotland: Alan ROUGH - Frank GRAY, Alan HANSEN, Willie MILLER, David NAREY - Graeme SOUNESS [c] [Y 5'],
+      Gordon STRACHAN (71' Alan BRAZIL), John WARK - John ROBERTSON, Joe JORDAN (71' Danny McGRAIN),
+      Steve ARCHIBALD
+
+Refs: Nicolae RAINEA (ROU), Alojzy JARGUZ (POL), Alexis PONNET (BEL)
+
+
+Wed Jun 23 21:00 UTC+2 @ Estadio Benito Villamarin, Seville
+  Brazil v New Zealand  4-0
+     (ZICO 28', 31', FALCAO 64', SERGINHO 70')
+
+Brazil: WALDIR PERES - LEANDRO, OSCAR (75' PAULO ISIDORO), LUIZINHO, JUNIOR -
+      TONINHO CEREZO, SOCRATES [c], ZICO, EDER, FALCAO - SERGINHO (75' EDINHO)
+New Zealand: Frank VAN HATTUM - Glen DODS, Ricki HERBERT, Robert ALMOND, Adrian ELRICK -
+      Steve SUMNER [c], Keith McKAY, Kenny CRESSWELL (78' Duncan COLE), Allan BOATH -
+      Wynton RUFER (78' Brian TURNER), Steve WOODDIN
+
+Refs: Damir MATOVINOVIC (CRO), Abraham KLEIN (ISR), Charles CORVER (NED)
+
+
+▪ Second Round
+▪▪ Group A
+Mon Jun 28 21:00 UTC+2 @ Camp Nou, Barcelona
+  Poland v Belgium  3-0
+     (Zbigniew BONIEK 4', 26', 53')
+
+Poland: Jozef MLYNARCZYK - Marek DZIUBA, Janusz KUPCEWICZ (82' Wlodzimierz CIOLEK),
+      Pawel JANAS, Wladyslaw ZMUDA [c], Stefan MAJEWSKI - Waldemar MATYSIK,
+      Andrzej BUNCOL - Wlodimierz SMOLAREK [Y 48'], Grzegorz LATO, Zbigniew BONIEK
+Belgium: Theo CUSTERS - Luc MILLECAMPS, Walter MEEUWS [c], Michel RENQUIN, Gerard PLESSERS (88' Marc BAECKE) -
+      Frank VERCAUTEREN, Wilfried VAN MOER (45+1' Francois VAN DER ELST), Ludo COECK -
+      Erwin VANDENBERGH, Jan CEULEMANS, Alex CZERNIATYNSKI
+
+Refs: Jesus Paulino SILES (CRC), Enrique LABO REVOREDO (PER), Gaston CASTRO (CHI)
+
+
+Thu Jul 1 21:00 UTC+2 @ Camp Nou, Barcelona
+  Belgium v Soviet Union  0-1
+     (Khoren OGANESIAN 48')
+
+Belgium: Jacques MUNARON - Luc MILLECAMPS, Walter MEEUWS [c], Michel RENQUIN,
+      Maurits DE SCHRIJVER (65' Marc MILLECAMPS) - Frank VERCAUTEREN, Ludo COECK,
+      Rene VERHEYEN - Erwin VANDENBERGH, Jan CEULEMANS, Guy VANDERSMISSEN (67' Alex CZERNIATYNSKI)
+Soviet Union: Rinat DASAEV - Aleksandre CHIVADZE [c], Sergei BALTACHA, Anatoli DEMYANENKO,
+      Sergei BOROVSKI - Vladimir BESSONOV [Y 75'], Yuri GAVRILOV, Khoren OGANESIAN,
+      Andrei BAL (87' Vitali DARASELIA) - Ramaz SHENGELIA (89' Sergei RODIONOV),
+      Oleg BLOKHIN
+
+Refs: Michel VAUTROT (FRA), Charles CORVER (NED), Antonio GARRIDO (POR)
+
+
+Sun Jul 4 21:00 UTC+2 @ Camp Nou, Barcelona
+  Poland v Soviet Union  0-0
+
+Poland: Jozef MLYNARCZYK - Marek DZIUBA, Janusz KUPCEWICZ (52' Wlodzimierz CIOLEK),
+      Pawel JANAS, Wladyslaw ZMUDA [c], Stefan MAJEWSKI - Waldemar MATYSIK,
+      Andrzej BUNCOL [Y 65'] - Wlodimierz SMOLAREK, Grzegorz LATO, Zbigniew BONIEK [Y 88']
+Soviet Union: Rinat DASAEV - Tengiz SULAKVELIDZE, Aleksandre CHIVADZE [c] [Y 39'],
+      Sergei BALTACHA [Y 90'], Anatoli DEMYANENKO, Sergei BOROVSKI [Y 87'] -
+      Vladimir BESSONOV, Yuri GAVRILOV (78' Vitali DARASELIA), Khoren OGANESIAN -
+      Ramaz SHENGELIA (57' Sergei ANDREYEV), Oleg BLOKHIN
+
+Refs: Robert VALENTINE (SCO), Henning LUND-SORENSEN (DEN), Clive WHITE (ENG)
+
+
+▪▪ Group B
+Tue Jun 29 21:00 UTC+2 @ Santiago Bernabeu, Madrid
+  West Germany v England  0-0
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL, Karlheinz FOERSTER, Bernd FOERSTER,
+      Uli STIELIKE [Y 68'], Manfred KALTZ - Paul BREITNER, Wolfgang DREMMLER,
+      Hansi MUELLER (74' Klaus FISCHER) - Karl-Heinz RUMMENIGGE [c], Uwe REINDERS (63' Pierre LITTBARSKI)
+England: Peter SHILTON - Terry BUTCHER, Mick MILLS [c], Kenny SANSOM, Phil THOMPSON -
+      Steve COPPELL, Graham RIX, Bryan ROBSON, Ray WILKINS - Trevor FRANCIS (77' Tony WOODCOCK),
+      Paul MARINER
+
+Refs: Arnaldo COELHO (BRA), Hector ORTIZ (PAR), Romulo MENDEZ (GUA)
+
+
+Fri Jul 2 21:00 UTC+2 @ Santiago Bernabeu, Madrid
+  West Germany v Spain  2-1
+     (Pierre LITTBARSKI 50', Klaus FISCHER 75';
+      Jesus ZAMORA 82')
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL [Y 84'], Karlheinz FOERSTER, Bernd FOERSTER,
+      Uli STIELIKE, Manfred KALTZ - Paul BREITNER, Wolfgang DREMMLER, Pierre LITTBARSKI -
+      Klaus FISCHER [Y 10'], Karl-Heinz RUMMENIGGE [c]
+Spain: Luis ARCONADA [c] - Jose Antonio CAMACHO [Y 83'], Rafael GORDILLO, Miguel TENDILLO,
+      Jose ALEXANKO [Y 9'], Santiago URQUIAGA - Miguel ALONSO, Jesus ZAMORA -
+      JUANITO (45+1' LOPEZ UFARTE), SANTILLANA, QUINI (65' Jose SANCHEZ [Y 84'])
+
+Refs: Paolo CASARIN (ITA), Franz WOEHRER (AUT), Karoly PALOTAI (HUN)
+
+
+Mon Jul 5 21:00 UTC+2 @ Santiago Bernabeu, Madrid
+  Spain v England  0-0
+
+Spain: Luis ARCONADA [c] - Jose Antonio CAMACHO, Rafael GORDILLO, Miguel TENDILLO (73' Antonio MACEDA),
+      Jose ALEXANKO, Santiago URQUIAGA - Miguel ALONSO, Jesus ZAMORA, Enrique SAURA (67' Pedro URALDE) -
+      Jesus SATRUSTEGUI, SANTILLANA
+England: Peter SHILTON - Terry BUTCHER, Mick MILLS [c], Kenny SANSOM, Phil THOMPSON -
+      Graham RIX (63' Trevor BROOKING), Bryan ROBSON, Ray WILKINS [Y 15'] -
+      Trevor FRANCIS, Paul MARINER, Tony WOODCOCK (64' Kevin KEEGAN)
+
+Refs: Alexis PONNET (BEL), Michel VAUTROT (FRA), Belaïd LACARNE (ALG)
+
+
+▪▪ Group C
+Tue Jun 29 17:15 UTC+2 @ Sarria, Barcelona
+  Italy v Argentina  2-1
+     (Marco TARDELLI 57', Antonio CABRINI 67';
+      Daniel PASSARELLA 83')
+
+Italy: Dino ZOFF [c] - Antonio CABRINI, Fulvio COLLOVATI, Claudio GENTILE [Y 42'],
+      Gaetano SCIREA - Giancarlo ANTOGNONI, Gabriele ORIALI (75' Giampiero MARINI),
+      Marco TARDELLI, Bruno CONTI - Francesco GRAZIANI, Paolo ROSSI [Y 15'] (80' Alessandro ALTOBELLI)
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES [Y 39'], Americo GALLEGO [R 84'], Diego MARADONA [Y 35'] -
+      Daniel BERTONI, Ramon DIAZ (58' Jose VALENCIA), Mario KEMPES [Y 32'] (58' Gabriel CALDERON)
+
+Refs: Nicolae RAINEA (ROU), Bruno GALLER (SUI), Belaïd LACARNE (ALG)
+
+
+Fri Jul 2 17:15 UTC+2 @ Sarria, Barcelona
+  Argentina v Brazil  1-3
+     (Ramon DIAZ 89';
+      ZICO 11', SERGINHO 66', JUNIOR 75')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c] [Y 33'],
+      Alberto TARANTINI - Osvaldo ARDILES, Juan BARBAS, Diego MARADONA [R 85'] -
+      Daniel BERTONI (64' Santiago SANTAMARIA), Gabriel CALDERON, Mario KEMPES (45+1' Ramon DIAZ)
+Brazil: WALDIR PERES [Y 77'] - LEANDRO (82' EDEVALDO), OSCAR, LUIZINHO, JUNIOR -
+      TONINHO CEREZO, SOCRATES [c], ZICO (83' BATISTA), EDER, FALCAO [Y 85'] -
+      SERGINHO
+
+Refs: Mario RUBIO VAZQUEZ (MEX), Gilberto ARISTIZABAL MURCIA (COL), Gaston CASTRO (CHI)
+
+
+Mon Jul 5 17:15 UTC+2 @ Sarria, Barcelona
+  Italy v Brazil  3-2
+     (Paolo ROSSI 5', 25', 74';
+      SOCRATES 12', FALCAO 68')
+
+Italy: Dino ZOFF [c] - Antonio CABRINI, Fulvio COLLOVATI (34' Giuseppe BERGOMI),
+      Claudio GENTILE [Y 13'], Gaetano SCIREA - Giancarlo ANTOGNONI, Gabriele ORIALI [Y 78'],
+      Marco TARDELLI (75' Giampiero MARINI), Bruno CONTI - Francesco GRAZIANI,
+      Paolo ROSSI
+Brazil: WALDIR PERES - LEANDRO, OSCAR, LUIZINHO, JUNIOR - TONINHO CEREZO, SOCRATES [c],
+      ZICO, EDER, FALCAO - SERGINHO (69' PAULO ISIDORO)
+
+Refs: Abraham KLEIN (ISR), CHAN Thomson Tam Sun (HKG), Bogdan DOTCHEV (BUL)
+
+
+▪▪ Group D
+Mon Jun 28 17:15 UTC+2 @ Vicente Calderon, Madrid
+  Austria v France  0-1
+     (Bernard GENGHINI 39')
+
+Austria: Friedl KONCILIA - Bernd KRAUSS, Erich OBERMAYER [c] [Y 60'], Josef DEGEORGI (45+1' Kurt WELZL),
+      Bruno PEZZEY - Roland HATTENBERGER, Herbert PROHASKA, Reinhold HINTERMAIER,
+      Kurt JARA (45+1' Ernst BAUMEISTER) - Walter SCHACHNER, Hans KRANKL
+France: Jean Luc ETTORI - Patrick BATTISTON, Maxime BOSSIS, Gerard JANVION, Marius TRESOR [c] -
+      Bernard GENGHINI (85' Rene GIRARD), Alain GIRESSE, Jean TIGANA - Bernard LACOMBE (15' Dominique ROCHETEAU),
+      Didier SIX, Gerard SOLER
+
+Refs: Karoly PALOTAI (HUN), Vojtech CHRISTOV (TCH), Damir MATOVINOVIC (CRO)
+
+
+Thu Jul 1 17:15 UTC+2 @ Vicente Calderon, Madrid
+  Austria v Northern Ireland  2-2
+     (Bruno PEZZEY 50', Reinhold HINTERMAIER 68';
+      Billy HAMILTON 27', 75')
+
+Austria: Friedl KONCILIA - Bernd KRAUSS, Erich OBERMAYER [c], Bruno PEZZEY, Johann PREGESBAUER (45+1' Kurt WELZL) -
+      Herbert PROHASKA, Andy PICHLER [Y 86'], Ernst BAUMEISTER - Walter SCHACHNER,
+      Max HAGMAYR (45+1' Reinhold HINTERMAIER), Gernot JURTIN
+Northern Ireland: Jim PLATT - Jimmy NICHOLL, Chris NICHOLL, John McCLELLAND, Sammy NELSON -
+      David McCREERY, Martin O NEILL [c], Sam McILROY - Gerry ARMSTRONG, Billy HAMILTON,
+      Norman WHITESIDE (68' Noel BROTHERSTON)
+
+Refs: Erik FREDRIKSSON (SWE), Walter ESCHWEILER (GER)
+
+
+Sun Jul 4 17:15 UTC+2 @ Vicente Calderon, Madrid
+  France v Northern Ireland  4-1
+     (Alain GIRESSE 33', 80', Dominique ROCHETEAU 46', 68';
+      Gerry ARMSTRONG 75')
+
+France: Jean Luc ETTORI - Manuel AMOROS, Maxime BOSSIS, Gerard JANVION, Marius TRESOR -
+      Bernard GENGHINI, Michel PLATINI [c], Alain GIRESSE, Jean TIGANA [Y 57'] -
+      Dominique ROCHETEAU (83' Alain COURIOL), Gerard SOLER (63' Didier SIX)
+Northern Ireland: Pat JENNINGS - Jimmy NICHOLL, Mal DONAGHY, Chris NICHOLL, John McCLELLAND -
+      David McCREERY (86' John O NEILL), Martin O NEILL [c], Sam McILROY -
+      Gerry ARMSTRONG, Billy HAMILTON [Y 59'], Norman WHITESIDE
+
+Refs: Alojzy JARGUZ (POL), Nicolae RAINEA (ROU), Yusef Mohamed EL GHOUL (LBY)
+
+
+▪ Semi-final
+Thu Jul 8 17:15 UTC+2 @ Camp Nou, Barcelona
+  Poland v Italy  0-2
+     (Paolo ROSSI 22', 73')
+
+Poland: Jozef MLYNARCZYK - Marek DZIUBA, Janusz KUPCEWICZ, Pawel JANAS, Wladyslaw ZMUDA [c] [Y 51'],
+      Stefan MAJEWSKI [Y 43'] - Waldemar MATYSIK, Andrzej BUNCOL, Wlodzimierz CIOLEK (45+1' Andrzej PALASZ) -
+      Wlodimierz SMOLAREK [Y 57'] (77' Marek KUSTO), Grzegorz LATO
+Italy: Dino ZOFF [c] - Giuseppe BERGOMI, Antonio CABRINI, Fulvio COLLOVATI [Y 57'],
+      Gaetano SCIREA - Giancarlo ANTOGNONI (28' Giampiero MARINI), Gabriele ORIALI,
+      Marco TARDELLI, Bruno CONTI - Francesco GRAZIANI (70' Alessandro ALTOBELLI),
+      Paolo ROSSI
+
+Refs: Juan CARDELLINO (URU), David SOCHA (USA), Gilberto ARISTIZABAL MURCIA (COL)
+
+
+Thu Jul 8 21:00 UTC+2 @ Ramon Sanchez Pizjuan, Seville
+  West Germany v France  3-3 a.e.t., 5-4 pen.
+     (Pierre LITTBARSKI 17', Karl-Heinz RUMMENIGGE 102', Klaus FISCHER 108';
+      Michel PLATINI 26'(p), Marius TRESOR 92', Alain GIRESSE 98')
+
+Penalties: 0-1 Alain GIRESSE, 1-1 Manfred KALTZ,
+           1-2 Manuel AMOROS, 2-2 Paul BREITNER,
+           2-3 Dominique ROCHETEAU,     Uli STIELIKE (missed),
+               Didier SIX (missed), 3-3 Pierre LITTBARSKI,
+           3-4 Michel PLATINI, 4-4 Karl-Heinz RUMMENIGGE,
+               Maxime BOSSIS (missed), 5-4 Horst HRUBESCH
+
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL (97' Karl-Heinz RUMMENIGGE), Karlheinz FOERSTER,
+      Bernd FOERSTER [Y 46'], Uli STIELIKE, Manfred KALTZ [c] - Paul BREITNER,
+      Wolfgang DREMMLER, Pierre LITTBARSKI, Felix MAGATH (73' Horst HRUBESCH) -
+      Klaus FISCHER
+France: Jean Luc ETTORI - Manuel AMOROS, Maxime BOSSIS, Gerard JANVION, Marius TRESOR -
+      Bernard GENGHINI [Y 40'] (50' Patrick BATTISTON (60' Christian LOPEZ)),
+      Michel PLATINI [c], Alain GIRESSE [Y 35'], Jean TIGANA - Dominique ROCHETEAU,
+      Didier SIX
+
+Refs: Charles CORVER (NED), Bruno GALLER (SUI), Robert VALENTINE (SCO)
+
+
+▪ Match for third place
+Sat Jul 10 20:00 UTC+2 @ Estadio José Rico Pérez, Alicante
+  Poland v France  3-2
+     (Andrzej SZARMACH 40', Stefan MAJEWSKI 44', Janusz KUPCEWICZ 46';
+      Rene GIRARD 13', Alain COURIOL 72')
+
+Poland: Jozef MLYNARCZYK - Marek DZIUBA, Janusz KUPCEWICZ, Pawel JANAS, Wladyslaw ZMUDA [c],
+      Stefan MAJEWSKI - Waldemar MATYSIK (45+1' Roman WOJCICKI [Y 71']), Andrzej BUNCOL [Y 62'] -
+      Grzegorz LATO, Andrzej SZARMACH, Zbigniew BONIEK
+France: Jean CASTANEDA - Manuel AMOROS, Gerard JANVION (66' Christian LOPEZ),
+      Philippe MAHUT, Marius TRESOR [c] - Rene GIRARD, Jean Francois LARIOS,
+      Jean TIGANA (83' Didier SIX) - Bruno BELLONE, Alain COURIOL, Gerard SOLER [Y 79']
+
+Refs: Antonio GARRIDO (POR), Mario RUBIO VAZQUEZ (MEX), Belaïd LACARNE (ALG)
+
+
+▪ Final
+Sun Jul 11 20:00 UTC+2 @ Santiago Bernabeu, Madrid
+  Italy v West Germany  3-1
+     (Paolo ROSSI 57', Marco TARDELLI 69', Alessandro ALTOBELLI 81';
+      Paul BREITNER 83')
+
+Italy: Dino ZOFF [c] - Giuseppe BERGOMI, Antonio CABRINI, Fulvio COLLOVATI,
+      Claudio GENTILE, Gaetano SCIREA - Gabriele ORIALI [Y 73'], Marco TARDELLI,
+      Bruno CONTI [Y 31'] - Francesco GRAZIANI (7' Alessandro ALTOBELLI (89' Franco CAUSIO)),
+      Paolo ROSSI
+West Germany: Harald SCHUMACHER - Hans Peter BRIEGEL, Karlheinz FOERSTER, Bernd FOERSTER,
+      Uli STIELIKE [Y 73'], Manfred KALTZ - Paul BREITNER, Wolfgang DREMMLER [Y 61'] (62' Horst HRUBESCH),
+      Pierre LITTBARSKI [Y 88'] - Klaus FISCHER, Karl-Heinz RUMMENIGGE [c] (70' Hansi MUELLER)
+
+Refs: Arnaldo COELHO (BRA), Abraham KLEIN (ISR), Vojtech CHRISTOV (TCH)
+
+

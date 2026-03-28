@@ -1,0 +1,568 @@
+= World Cup 1978
+
+# Dates    Thu Jun 1 - Sun Jun 25 1978 (24d)
+# Teams    16
+# Matches  38
+# Venues   6 (in 5 cities)
+#   El Monumental, Buenos Aires (ARG)
+#   Estadio Jose Amalfitani, Buenos Aires (ARG)
+#   Estadio Mario Alberto Kempes, Córdoba (ARG)
+#   Estadio José María Minella, Mar del Plata (ARG)
+#   Estadio Libertador General San Martín, Mendoza (ARG)
+#   Arroyito, Rosario (ARG)
+
+▪ Group Matches
+▪▪ Group 1
+Fri Jun 2 13:45 UTC-3 @ Estadio José María Minella, Mar del Plata
+  Italy v France  2-1
+     (Paolo ROSSI 29', Renato ZACCARELLI 54';
+      Bernard LACOMBE 1')
+
+Italy: Dino ZOFF [c] - Mauro BELLUGI, Antonio CABRINI, Claudio GENTILE, Gaetano SCIREA -
+      Giancarlo ANTOGNONI (45+1' Renato ZACCARELLI), Romeo BENETTI, Marco TARDELLI [Y 35'],
+      Franco CAUSIO - Roberto BETTEGA, Paolo ROSSI
+France: Jean Paul BERTRAND DEMANES - Maxime BOSSIS, Gerard JANVION, Patrice RIO,
+      Marius TRESOR [c] - Jean Marc GUILLOU, Henri MICHEL [Y 80'], Michel PLATINI [Y 60'] -
+      Christian DALGER, Bernard LACOMBE (74' Marc BERDOLL), Didier SIX (76' Olivier ROUYER)
+
+Refs: Nicolae RAINEA (ROU), Erich LINEMAYR (AUT), Juan SILVAGNO CAVANNA (CHI)
+
+
+Fri Jun 2 19:15 UTC-3 @ El Monumental, Buenos Aires
+  Argentina v Hungary  2-1
+     (Leopoldo LUQUE 15', Daniel BERTONI 83';
+      Karoly CSAPO 10')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c] [Y 77'],
+      Alberto TARANTINI - Osvaldo ARDILES, Americo GALLEGO, Rene HOUSEMAN (67' Daniel BERTONI),
+      Jose VALENCIA (75' Norberto ALONSO) - Mario KEMPES, Leopoldo LUQUE
+Hungary: Sandor GUJDAR - Peter TOROK (45+1' Gyozo MARTOS), Istvan KOCSIS, Jozsef TOTH,
+      Zoltan KEREKI [c] - Sandor ZOMBORI, Tibor NYILASI [Y 21'] [R 89'], Sandor PINTER,
+      Karoly CSAPO, Laszlo NAGY - Andras TOROCSIK [Y 48'] [R 88']
+
+Refs: Antonio GARRIDO (POR), Youssou NDIAYE (SEN), Pat PARTRIDGE (ENG)
+
+
+Tue Jun 6 13:45 UTC-3 @ Estadio José María Minella, Mar del Plata
+  Italy v Hungary  3-1
+     (Paolo ROSSI 34', Roberto BETTEGA 36', Romeo BENETTI 60';
+      Andras TOTH 81'(p))
+
+Italy: Dino ZOFF [c] - Mauro BELLUGI, Antonio CABRINI (79' Antonello CUCCUREDDU),
+      Claudio GENTILE, Gaetano SCIREA - Giancarlo ANTOGNONI, Romeo BENETTI,
+      Marco TARDELLI, Franco CAUSIO - Roberto BETTEGA (83' Francesco GRAZIANI),
+      Paolo ROSSI
+Hungary: Ferenc MESZAROS - Istvan KOCSIS, Jozsef TOTH, Zoltan KEREKI [c], Gyozo MARTOS [Y 64'] -
+      Sandor ZOMBORI [Y 26'], Sandor PINTER, Karoly CSAPO, Laszlo NAGY (45+1' Istvan HALASZ) -
+      Laszlo FAZEKAS (45+1' Andras TOTH), Laszlo PUSZTAI
+
+Refs: Ramon BARRETO RUIZ (URU), Ferdinand BIWERSI (GER), John GORDON (SCO)
+
+
+Tue Jun 6 19:15 UTC-3 @ El Monumental, Buenos Aires
+  Argentina v France  2-1
+     (Daniel PASSARELLA 45'(p), Leopoldo LUQUE 73';
+      Michel PLATINI 60')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES, Americo GALLEGO, Rene HOUSEMAN, Jose VALENCIA (64' Norberto ALONSO (71' Oscar ORTIZ)) -
+      Mario KEMPES, Leopoldo LUQUE
+France: Jean Paul BERTRAND DEMANES (55' Dominique BARATELLI) - Patrick BATTISTON,
+      Maxime BOSSIS, Christian LOPEZ, Marius TRESOR [c] - Dominique BATHENAY,
+      Henri MICHEL, Michel PLATINI - Bernard LACOMBE, Dominique ROCHETEAU,
+      Didier SIX [Y 53']
+
+Refs: Jean DUBACH (SUI), Cesar OROZCO GUERRERO (PER), Werner WINSEMANN (CAN)
+
+
+Sat Jun 10 15:10 UTC-3 @ Estadio José María Minella, Mar del Plata
+  France v Hungary  3-1
+     (Christian LOPEZ 22', Marc BERDOLL 37', Dominique ROCHETEAU 42';
+      Sandor ZOMBORI 41')
+
+France: Dominique DROPSY - Gerard JANVION, Francois BRACCI, Christian LOPEZ,
+      Marius TRESOR [c] - Dominique BATHENAY, Claude PAPI (45+1' Michel PLATINI),
+      Jean PETIT - Marc BERDOLL, Dominique ROCHETEAU (75' Didier SIX), Olivier ROUYER
+Hungary: Sandor GUJDAR - Jozsef TOTH, Zoltan KEREKI [c], Gyozo MARTOS, Laszlo BALINT -
+      Sandor ZOMBORI, Tibor NYILASI, Sandor PINTER, Laszlo NAGY (73' Karoly CSAPO) -
+      Andras TOROCSIK, Laszlo PUSZTAI
+
+Refs: Arnaldo COELHO (BRA), Pat PARTRIDGE (ENG), Juan SILVAGNO CAVANNA (CHI)
+
+
+Sat Jun 10 19:15 UTC-3 @ El Monumental, Buenos Aires
+  Italy v Argentina  1-0
+     (Roberto BETTEGA 67')
+
+Italy: Dino ZOFF [c] - Mauro BELLUGI (6' Antonello CUCCUREDDU), Antonio CABRINI,
+      Claudio GENTILE, Gaetano SCIREA - Giancarlo ANTOGNONI (73' Renato ZACCARELLI),
+      Romeo BENETTI [Y 60'], Marco TARDELLI, Franco CAUSIO - Roberto BETTEGA,
+      Paolo ROSSI
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES, Americo GALLEGO, Jose VALENCIA - Daniel BERTONI, Mario KEMPES,
+      Oscar ORTIZ (72' Rene HOUSEMAN)
+
+Refs: Abraham KLEIN (ISR), Alfonso GONZALEZ ARCHUNDIA (MEX), Francis RION (BEL)
+
+
+▪▪ Group 2
+Thu Jun 1 15:00 UTC-3 @ El Monumental, Buenos Aires
+  West Germany v Poland  0-0
+
+West Germany: Sepp MAIER - Berti VOGTS [c], Rolf RUESSMANN, Manfred KALTZ, Herbert ZIMMERMANN -
+      Rainer BONHOF, Heinz FLOHE, Erich BEER, Hansi MUELLER - Ruediger ABRAMCZIK,
+      Klaus FISCHER
+Poland: Jan TOMASZEWSKI - Henryk MACULEWICZ, Antoni SZYMANOWSKI, Jerzy GORGON,
+      Wladyslaw ZMUDA - Adam NAWALKA, Bohdan MASZTALER (84' Henryk KASPERCZAK),
+      Kazimierz DEYNA [c] - Grzegorz LATO, Andrzej SZARMACH, Wlodzimierz LUBANSKI (79' Zbigniew BONIEK)
+
+Refs: Norberto Angel COEREZZA (ARG), Arturo Andres ITHURRALDE (ARG), Miguel COMESANA (ARG)
+
+
+Fri Jun 2 16:45 UTC-3 @ Arroyito, Rosario
+  Tunisia v Mexico  3-1
+     (Ali KAABI 55', Nejib GHOMMIDH 79', Mokhtar DOUIEB 87';
+      Arturo VAZQUEZ 45'(p))
+
+Tunisia: Mokhtar NAILI - Mokhtar DOUIEB, Ali KAABI, Mohsen LABIDI, Omar JEBALI -
+      Nejib GHOMMIDH, Hamadi AGREBI, Tarek DHIAB - Temime LAKHZAMI [c] (88' Khemais LABIDI),
+      Mohamed AKID, Raouf BEN AZIZA (81' Salah KAROUI)
+Mexico: Jose REYES - Alfredo TENA, Eduardo RAMOS, Arturo VAZQUEZ [c], Jesus MARTINEZ -
+      Guillermo MENDIZABAL (67' Gerardo LUGO), Antonio DE LA TORRE, Leonardo CUELLAR -
+      Victor RANGEL, Hugo SANCHEZ, Raul ISIORDIA
+
+Refs: John GORDON (SCO), Jean DUBACH (SUI), Sergio GONELLA (ITA)
+
+
+Tue Jun 6 16:45 UTC-3 @ Arroyito, Rosario
+  Poland v Tunisia  1-0
+     (Grzegorz LATO 43')
+
+Poland: Jan TOMASZEWSKI - Henryk MACULEWICZ, Antoni SZYMANOWSKI, Jerzy GORGON,
+      Wladyslaw ZMUDA - Adam NAWALKA, Henryk KASPERCZAK, Kazimierz DEYNA [c] -
+      Grzegorz LATO, Andrzej SZARMACH (60' Andrzej IWAN), Wlodzimierz LUBANSKI (76' Zbigniew BONIEK)
+Tunisia: Mokhtar NAILI - Mokhtar DOUIEB, Ali KAABI, Omar JEBALI - Khaled GASMI,
+      Nejib GHOMMIDH, Hamadi AGREBI, Tarek DHIAB, Khemais LABIDI - Temime LAKHZAMI [c],
+      Mohamed AKID
+
+Refs: Angel MARTINEZ (ESP), Luis PESTARINO (ARG), Clive THOMAS (WAL)
+
+
+Tue Jun 6 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  West Germany v Mexico  6-0
+     (Dieter MUELLER 15', Hansi MUELLER 30', Karl-Heinz RUMMENIGGE 38', 73', Heinz FLOHE 44', 89')
+
+West Germany: Sepp MAIER - Berti VOGTS [c], Bernd DIETZ, Rolf RUESSMANN, Manfred KALTZ -
+      Rainer BONHOF [Y 43'], Heinz FLOHE, Hansi MUELLER - Klaus FISCHER, Karl-Heinz RUMMENIGGE,
+      Dieter MUELLER
+Mexico: Jose REYES (39' Pedro SOTO) - Alfredo TENA, Eduardo RAMOS, Arturo VAZQUEZ [c] [Y 44'],
+      Jesus MARTINEZ - Guillermo MENDIZABAL, Antonio DE LA TORRE, Leonardo CUELLAR -
+      Enrique LOPEZ ZARZA (45+1' Gerardo LUGO), Victor RANGEL, Hugo SANCHEZ
+
+Refs: Farouk BOUZO (SYR), Antonio GARRIDO (POR), Francis RION (BEL)
+
+
+Sat Jun 10 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  West Germany v Tunisia  0-0
+
+West Germany: Sepp MAIER - Berti VOGTS [c], Bernd DIETZ, Rolf RUESSMANN, Manfred KALTZ -
+      Rainer BONHOF, Heinz FLOHE, Hansi MUELLER [Y 24'] - Klaus FISCHER, Karl-Heinz RUMMENIGGE,
+      Dieter MUELLER
+Tunisia: Mokhtar NAILI - Mokhtar DOUIEB, Ali KAABI, Omar JEBALI - Khaled GASMI,
+      Nejib GHOMMIDH, Hamadi AGREBI, Tarek DHIAB [Y 68'], Khemais LABIDI -
+      Temime LAKHZAMI [c], Mohamed AKID (82' Raouf BEN AZIZA)
+
+Refs: Cesar OROZCO GUERRERO (PER), Miguel COMESANA (ARG), Luis PESTARINO (ARG)
+
+
+Sat Jun 10 16:45 UTC-3 @ Arroyito, Rosario
+  Poland v Mexico  3-1
+     (Zbigniew BONIEK 43', 84', Kazimierz DEYNA 56';
+      Victor RANGEL 52')
+
+Poland: Jan TOMASZEWSKI - Antoni SZYMANOWSKI, Jerzy GORGON, Wladyslaw ZMUDA,
+      Wojciech RUDY (84' Henryk MACULEWICZ) - Henryk KASPERCZAK, Bohdan MASZTALER,
+      Kazimierz DEYNA [c] - Andrzej IWAN (76' Wlodzimierz LUBANSKI), Grzegorz LATO,
+      Zbigniew BONIEK
+Mexico: Pedro SOTO - Arturo VAZQUEZ [c], Rigoberto CISNEROS, Carlos GOMEZ, Ignacio FLORES -
+      Antonio DE LA TORRE, Javier CARDENAS (45+1' Guillermo MENDIZABAL), Leonardo CUELLAR -
+      Victor RANGEL, Cristobal ORTEGA, Hugo SANCHEZ
+
+Refs: Jafar NAMDAR (IRN), Ulf ERIKSSON (SWE), Charles CORVER (NED)
+
+
+▪▪ Group 3
+Sat Jun 3 13:45 UTC-3 @ Estadio José María Minella, Mar del Plata
+  Sweden v Brazil  1-1
+     (Thomas SJOBERG 37'; REINALDO 45')
+
+Sweden: Ronnie HELLSTROM - Hasse BORG, Roy ANDERSSON, Bjorn NORDQVIST [c], Ingemar ERLANDSSON -
+      Staffan TAPPER, Anders LINDEROTH, Bo LARSSON, Lennart LARSSON (81' Ralf EDSTROM) -
+      Thomas SJOBERG, Benny WENDT
+Brazil: LEAO - TONINHO, OSCAR [Y 87'], AMARAL, EDINHO - TONINHO CEREZO (86' DIRCEU),
+      ZICO, RIVELLINO [c], BATISTA - REINALDO, GIL (66' NELINHO)
+
+Refs: Clive THOMAS (WAL), Alojzy JARGUZ (POL), Jafar NAMDAR (IRN)
+
+
+Sat Jun 3 13:45 UTC-3 @ Estadio Jose Amalfitani, Buenos Aires
+  Austria v Spain  2-1
+     (Walter SCHACHNER 9', Hans KRANKL 76';
+      DANI 21')
+
+Austria: Friedl KONCILIA - Robert SARA [c], Erich OBERMAYER, Gerhard BREITENBERGER,
+      Bruno PEZZEY - Josef HICKERSBERGER (67' Heribert WEBER), Herbert PROHASKA,
+      Wilhelm KREUZ, Kurt JARA - Hans KRANKL, Walter SCHACHNER (80' Hans PIRKNER)
+Spain: MIGUEL ANGEL - Antonio DE LA CRUZ, MIGUELI, MARCELINO, PIRRI [c] - Juan Manuel ASENSI,
+      Julio CARDENOSA (45+1' Eugenio LEAL), Isidoro SAN JOSE - DANI, Carles REXACH (60' QUINI),
+      RUBEN CANO
+
+Refs: Karoly PALOTAI (HUN), Ramon BARRETO RUIZ (URU), Anatoly IVANOV (URS)
+
+
+Wed Jun 7 13:45 UTC-3 @ Estadio José María Minella, Mar del Plata
+  Brazil v Spain  0-0
+
+Brazil: LEAO [c] - TONINHO, OSCAR, AMARAL, EDINHO, NELINHO (70' GIL) - TONINHO CEREZO,
+      ZICO (83' JORGE MENDONCA), DIRCEU, BATISTA - REINALDO
+Spain: MIGUEL ANGEL - Francisco URIA (80' Antonio GUZMAN), MIGUELI (51' Antonio BIOSCA),
+      Antonio OLMO, MARCELINO - Juan Manuel ASENSI [c], Julio CARDENOSA, Eugenio LEAL [Y 60'],
+      Isidoro SAN JOSE - JUANITO, SANTILLANA
+
+Refs: Sergio GONELLA (ITA), Abraham KLEIN (ISR), Arturo Andres ITHURRALDE (ARG)
+
+
+Wed Jun 7 13:45 UTC-3 @ Estadio Jose Amalfitani, Buenos Aires
+  Austria v Sweden  1-0
+     (Hans KRANKL 42'(p))
+
+Austria: Friedl KONCILIA - Robert SARA [c], Erich OBERMAYER, Gerhard BREITENBERGER,
+      Bruno PEZZEY - Josef HICKERSBERGER, Herbert PROHASKA, Wilhelm KREUZ,
+      Kurt JARA, Eduard KRIEGER (71' Heribert WEBER) - Hans KRANKL
+Sweden: Ronnie HELLSTROM - Hasse BORG, Roy ANDERSSON, Bjorn NORDQVIST [c], Ingemar ERLANDSSON -
+      Staffan TAPPER (36' Conny TORSTENSSON), Anders LINDEROTH (60' Ralf EDSTROM),
+      Bo LARSSON, Lennart LARSSON - Thomas SJOBERG, Benny WENDT
+
+Refs: Charles CORVER (NED), Dusan MAKSIMOVIC (SCG), Hedi SEOUDI (TUN)
+
+
+Sun Jun 11 13:45 UTC-3 @ Estadio José María Minella, Mar del Plata
+  Brazil v Austria  1-0
+     (ROBERTO DINAMITE 40')
+
+Brazil: LEAO [c] - TONINHO, OSCAR, AMARAL, RODRIGUES NETO - TONINHO CEREZO (71' CHICAO),
+      DIRCEU, BATISTA - GIL, JORGE MENDONCA (84' ZICO), ROBERTO DINAMITE
+Austria: Friedl KONCILIA - Robert SARA [c], Erich OBERMAYER, Gerhard BREITENBERGER,
+      Bruno PEZZEY - Josef HICKERSBERGER (61' Heribert WEBER), Herbert PROHASKA,
+      Wilhelm KREUZ, Kurt JARA, Eduard KRIEGER (84' Gunter HAPPICH) - Hans KRANKL
+
+Refs: Robert WURTZ (FRA), Farouk BOUZO (SYR), Tesfaye GEBREYESUS (ERI)
+
+
+Sun Jun 11 13:45 UTC-3 @ Estadio Jose Amalfitani, Buenos Aires
+  Spain v Sweden  1-0
+     (Juan Manuel ASENSI 75')
+
+Spain: MIGUEL ANGEL - Francisco URIA, Antonio BIOSCA, Antonio OLMO (45+1' PIRRI),
+      MARCELINO - Juan Manuel ASENSI [c], Julio CARDENOSA, Eugenio LEAL, Isidoro SAN JOSE -
+      JUANITO, SANTILLANA
+Sweden: Ronnie HELLSTROM - Hasse BORG [Y 37'], Roy ANDERSSON, Bjorn NORDQVIST [c],
+      Ingemar ERLANDSSON - Bo LARSSON, Lennart LARSSON, Olle NORDIN - Thomas SJOBERG (66' Anders LINDEROTH),
+      Torbjorn NILSSON, Ralf EDSTROM (59' Benny WENDT)
+
+Refs: Ferdinand BIWERSI (GER), Arturo Andres ITHURRALDE (ARG)
+
+
+▪▪ Group 4
+Sat Jun 3 16:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Netherlands v Iran  3-0
+     (Rob RENSENBRINK 40'(p), 62', 79'(p))
+
+Netherlands: Jan JONGBLOED - Ruud KROL [c], Wim RIJSBERGEN, Wim SUURBIER - Wim JANSEN,
+      Arie HAAN, Willy VAN DE KERKHOF, Johan NEESKENS - Rene VAN DE KERKHOF (70' Dick NANNINGA),
+      Rob RENSENBRINK, Johnny REP
+Iran: Nasser HEJAZI - Hassan NAZARI, Andranik ESKANDARIAN [Y 78'], Hussein KAZERANI -
+      Hassan NAIBAGHA, Ali PARWIN [c], Ebrahim KASSEMPOOR, Mohammad SADEQI -
+      Ghafoor JAHANI, Hussein FARAKI (50' Hassan ROWSHAN), Nasrollah ABDOLLAHI
+
+Refs: Alfonso GONZALEZ ARCHUNDIA (MEX), Robert WURTZ (FRA), Miguel COMESANA (ARG)
+
+
+Sat Jun 3 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  Peru v Scotland  3-1
+     (Cesar CUETO 43', Teofilo CUBILLAS 71', 77';
+      Joe JORDAN 14')
+
+Peru: Ramon QUIROGA - Jaime DUARTE, Rodolfo MANZO, Hector CHUMPITAZ [c], Ruben DIAZ -
+      Jose VELASQUEZ [Y 19'], Cesar CUETO (82' Percy ROJAS) - Juan MUNANTE,
+      Teofilo CUBILLAS, Juan Carlos OBLITAS, Guillermo LA ROSA (62' Hugo SOTIL)
+Scotland: Alan ROUGH - Martin BUCHAN, Stuart KENNEDY, Tom FORSYTH, Kenny BURNS -
+      Bruce RIOCH [c] (75' Archie GEMMILL), Don MASSON (75' Lou MACARI), Asa HARTFORD -
+      Kenny DALGLISH, Joe JORDAN, Willie JOHNSTON
+
+Refs: Ulf ERIKSSON (SWE), Tesfaye GEBREYESUS (ERI), Angel MARTINEZ (ESP)
+
+
+Wed Jun 7 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  Scotland v Iran  1-1
+     (Andranik ESKANDARIAN 43'(og); Iraj DANAEIFARD 60')
+
+Scotland: Alan ROUGH - Sandy JARDINE, Willie DONACHIE, Martin BUCHAN (56' Tom FORSYTH),
+      Kenny BURNS - Asa HARTFORD, Archie GEMMILL [c], Lou MACARI - Kenny DALGLISH (74' Joe HARPER),
+      Joe JORDAN, John ROBERTSON
+Iran: Nasser HEJAZI - Hassan NAZARI, Andranik ESKANDARIAN [Y 49'], Hussein KAZERANI -
+      Iraj DANAEIFARD (89' Hassan NAIBAGHA), Ali PARWIN [c], Ebrahim KASSEMPOOR,
+      Mohammad SADEQI - Ghafoor JAHANI, Hussein FARAKI (84' Hassan ROWSHAN),
+      Nasrollah ABDOLLAHI
+
+Refs: Youssou NDIAYE (SEN), Nicolae RAINEA (ROU), Arnaldo COELHO (BRA)
+
+
+Wed Jun 7 16:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Netherlands v Peru  0-0
+
+Netherlands: Jan JONGBLOED - Jan POORTVLIET, Ruud KROL [c], Wim RIJSBERGEN, Wim SUURBIER -
+      Wim JANSEN, Arie HAAN, Willy VAN DE KERKHOF, Johan NEESKENS (68' Dick NANNINGA) -
+      Rene VAN DE KERKHOF [Y 25'], Rob RENSENBRINK
+Peru: Ramon QUIROGA - Jaime DUARTE, Rodolfo MANZO, Hector CHUMPITAZ [c], Ruben DIAZ -
+      Jose VELASQUEZ, Cesar CUETO - Juan MUNANTE [Y 65'], Teofilo CUBILLAS,
+      Juan Carlos OBLITAS, Guillermo LA ROSA (62' Hugo SOTIL)
+
+Refs: Norberto Angel COEREZZA (ARG), Anatoly IVANOV (URS)
+
+
+Sun Jun 11 16:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Scotland v Netherlands  3-2
+     (Kenny DALGLISH 44', Archie GEMMILL 47'(p), 68';
+      Rob RENSENBRINK 34'(p), Johnny REP 71')
+
+Scotland: Alan ROUGH - Willie DONACHIE, Martin BUCHAN, Stuart KENNEDY, Tom FORSYTH -
+      Bruce RIOCH [c], Asa HARTFORD, Archie GEMMILL [Y 35'], Graeme SOUNESS -
+      Kenny DALGLISH, Joe JORDAN
+Netherlands: Jan JONGBLOED - Jan POORTVLIET, Ruud KROL [c], Wim RIJSBERGEN (44' Pieter WILDSCHUT),
+      Wim SUURBIER - Wim JANSEN, Willy VAN DE KERKHOF, Johan NEESKENS (10' Johan BOSKAMP) -
+      Rene VAN DE KERKHOF, Rob RENSENBRINK, Johnny REP
+
+Refs: Erich LINEMAYR (AUT), Karoly PALOTAI (HUN), Hedi SEOUDI (TUN)
+
+
+Sun Jun 11 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  Peru v Iran  4-1
+     (Jose VELASQUEZ 2', Teofilo CUBILLAS 36'(p), 39'(p), 79';
+      Hassan ROWSHAN 41')
+
+Peru: Ramon QUIROGA - Jaime DUARTE, Rodolfo MANZO (67' German LEGUIA), Hector CHUMPITAZ [c],
+      Ruben DIAZ - Jose VELASQUEZ, Cesar CUETO - Juan MUNANTE, Teofilo CUBILLAS,
+      Juan Carlos OBLITAS, Guillermo LA ROSA (60' Hugo SOTIL)
+Iran: Nasser HEJAZI - Jawad ALLAHWARDI, Hassan NAZARI [Y 60'], Hussein KAZERANI -
+      Iraj DANAEIFARD, Ali PARWIN [c], Ebrahim KASSEMPOOR, Mohammad SADEQI -
+      Hassan ROWSHAN (66' Behtash FARIBA), Hussein FARAKI (51' Ghafoor JAHANI),
+      Nasrollah ABDOLLAHI
+
+Refs: Alojzy JARGUZ (POL), Dusan MAKSIMOVIC (SCG), Werner WINSEMANN (CAN)
+
+
+▪ Second Round
+▪▪ Group A
+Wed Jun 14 13:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  Netherlands v Austria  5-1
+     (Ernie BRANDTS 6', Rob RENSENBRINK 35'(p), Johnny REP 36', 53', Willy VAN DE KERKHOF 82';
+      Erich OBERMAYER 79')
+
+Netherlands: Piet SCHRIJVERS - Jan POORTVLIET, Ruud KROL [c], Pieter WILDSCHUT, Ernie BRANDTS (66' Adri VAN KRAAY) -
+      Wim JANSEN, Arie HAAN, Willy VAN DE KERKHOF - Rene VAN DE KERKHOF (60' Dirk SCHOENAKER),
+      Rob RENSENBRINK, Johnny REP
+Austria: Friedl KONCILIA - Robert SARA [c], Erich OBERMAYER, Gerhard BREITENBERGER,
+      Bruno PEZZEY - Josef HICKERSBERGER, Herbert PROHASKA, Wilhelm KREUZ,
+      Kurt JARA, Eduard KRIEGER - Hans KRANKL
+
+Refs: John GORDON (SCO), Arturo Andres ITHURRALDE (ARG), Farouk BOUZO (SYR)
+
+
+Wed Jun 14 13:45 UTC-3 @ El Monumental, Buenos Aires
+  West Germany v Italy  0-0
+
+West Germany: Sepp MAIER - Berti VOGTS [c], Bernd DIETZ, Rolf RUESSMANN, Manfred KALTZ,
+      Herbert ZIMMERMANN (53' Harald KONOPKA) - Rainer BONHOF, Heinz FLOHE (68' Erich BEER) -
+      Klaus FISCHER, Karl-Heinz RUMMENIGGE, Bernd HOELZENBEIN
+Italy: Dino ZOFF [c] - Mauro BELLUGI, Antonio CABRINI, Claudio GENTILE, Gaetano SCIREA -
+      Giancarlo ANTOGNONI (45+1' Renato ZACCARELLI), Romeo BENETTI, Marco TARDELLI,
+      Franco CAUSIO - Roberto BETTEGA, Paolo ROSSI
+
+Refs: Dusan MAKSIMOVIC (SCG), Alfonso GONZALEZ ARCHUNDIA (MEX), Miguel COMESANA (ARG)
+
+
+Sun Jun 18 16:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  West Germany v Netherlands  2-2
+     (Ruediger ABRAMCZIK 3', Dieter MUELLER 70';
+      Arie HAAN 27', Rene VAN DE KERKHOF 84')
+
+West Germany: Sepp MAIER [Y 45'] - Berti VOGTS [c], Bernd DIETZ, Rolf RUESSMANN, Manfred KALTZ -
+      Rainer BONHOF, Erich BEER - Ruediger ABRAMCZIK, Karl-Heinz RUMMENIGGE,
+      Dieter MUELLER, Bernd HOELZENBEIN
+Netherlands: Piet SCHRIJVERS - Jan POORTVLIET, Ruud KROL [c], Pieter WILDSCHUT (79' Dick NANNINGA [Y 88'] [R 88']),
+      Ernie BRANDTS - Wim JANSEN, Arie HAAN, Willy VAN DE KERKHOF [Y 6'] -
+      Rene VAN DE KERKHOF, Rob RENSENBRINK, Johnny REP
+
+Refs: Ramon BARRETO RUIZ (URU), Miguel COMESANA (ARG), Arnaldo COELHO (BRA)
+
+
+Sun Jun 18 16:45 UTC-3 @ El Monumental, Buenos Aires
+  Italy v Austria  1-0
+     (Paolo ROSSI 14')
+
+Italy: Dino ZOFF [c] - Mauro BELLUGI (45+1' Antonello CUCCUREDDU), Antonio CABRINI,
+      Claudio GENTILE, Gaetano SCIREA - Romeo BENETTI, Marco TARDELLI, Renato ZACCARELLI,
+      Franco CAUSIO - Roberto BETTEGA (72' Francesco GRAZIANI), Paolo ROSSI
+Austria: Friedl KONCILIA - Robert SARA [c], Erich OBERMAYER, Bruno PEZZEY, Heinrich STRASSER -
+      Josef HICKERSBERGER, Herbert PROHASKA, Wilhelm KREUZ, Eduard KRIEGER -
+      Hans KRANKL, Walter SCHACHNER (63' Hans PIRKNER)
+
+Refs: Francis RION (BEL), Norberto Angel COEREZZA (ARG), Youssou NDIAYE (SEN)
+
+
+Wed Jun 21 13:45 UTC-3 @ El Monumental, Buenos Aires
+  Netherlands v Italy  2-1
+     (Ernie BRANDTS 50', Arie HAAN 75';
+      Ernie BRANDTS 18'(og))
+
+Netherlands: Piet SCHRIJVERS (21' Jan JONGBLOED) - Jan POORTVLIET, Ruud KROL [c],
+      Ernie BRANDTS - Wim JANSEN, Arie HAAN [Y 50'], Willy VAN DE KERKHOF,
+      Johan NEESKENS - Rene VAN DE KERKHOF, Rob RENSENBRINK, Johnny REP [Y 35'] (65' Adri VAN KRAAY)
+Italy: Dino ZOFF [c] - Antonio CABRINI [Y 65'], Antonello CUCCUREDDU, Claudio GENTILE,
+      Gaetano SCIREA - Romeo BENETTI [Y 40'] (77' Francesco GRAZIANI), Marco TARDELLI [Y 70'],
+      Renato ZACCARELLI, Franco CAUSIO (45+1' Claudio SALA) - Roberto BETTEGA,
+      Paolo ROSSI
+
+Refs: Angel MARTINEZ (ESP), Luis PESTARINO (ARG), Cesar OROZCO GUERRERO (PER)
+
+
+Wed Jun 21 13:45 UTC-3 @ Estadio Mario Alberto Kempes, Córdoba
+  Austria v West Germany  3-2
+     (Berti VOGTS 59'(og), Hans KRANKL 66', 87';
+      Karl-Heinz RUMMENIGGE 19', Bernd HOELZENBEIN 68')
+
+Austria: Friedl KONCILIA - Robert SARA [c] [Y 70'], Erich OBERMAYER, Bruno PEZZEY,
+      Heinrich STRASSER - Josef HICKERSBERGER, Herbert PROHASKA [Y 3'], Wilhelm KREUZ,
+      Eduard KRIEGER - Hans KRANKL, Walter SCHACHNER (71' Franz OBERACHER)
+West Germany: Sepp MAIER - Berti VOGTS [c], Bernd DIETZ, Rolf RUESSMANN, Manfred KALTZ -
+      Rainer BONHOF, Erich BEER (45+1' Hansi MUELLER) - Ruediger ABRAMCZIK [Y 69'],
+      Karl-Heinz RUMMENIGGE, Dieter MUELLER (60' Klaus FISCHER), Bernd HOELZENBEIN
+
+Refs: Abraham KLEIN (ISR), Alojzy JARGUZ (POL), Antonio GARRIDO (POR)
+
+
+▪▪ Group B
+Wed Jun 14 16:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Brazil v Peru  3-0
+     (DIRCEU 15', 28', ZICO 73'(p))
+
+Brazil: LEAO [c] - TONINHO (76' CHICAO), OSCAR, AMARAL, RODRIGUES NETO - TONINHO CEREZO,
+      DIRCEU, BATISTA - GIL (70' ZICO), JORGE MENDONCA, ROBERTO DINAMITE [Y 80']
+Peru: Ramon QUIROGA - Jaime DUARTE, Rodolfo MANZO, Hector CHUMPITAZ [c], Ruben DIAZ (11' Jose NAVARRO) -
+      Jose VELASQUEZ [Y 75'], Cesar CUETO - Juan MUNANTE, Teofilo CUBILLAS,
+      Juan Carlos OBLITAS (45+1' Percy ROJAS), Guillermo LA ROSA
+
+Refs: Nicolae RAINEA (ROU), Jean DUBACH (SUI), Werner WINSEMANN (CAN)
+
+
+Wed Jun 14 19:15 UTC-3 @ Arroyito, Rosario
+  Argentina v Poland  2-0
+     (Mario KEMPES 16', 71')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES, Americo GALLEGO [Y 80'], Rene HOUSEMAN (83' Oscar ORTIZ),
+      Jose VALENCIA (45+1' Ricardo VILLA) - Daniel BERTONI, Mario KEMPES
+Poland: Jan TOMASZEWSKI - Henryk MACULEWICZ [Y 75'], Antoni SZYMANOWSKI, Wladyslaw ZMUDA -
+      Adam NAWALKA, Henryk KASPERCZAK, Bohdan MASZTALER (64' Wlodzimierz MAZUR),
+      Kazimierz DEYNA [c] - Grzegorz LATO, Andrzej SZARMACH, Zbigniew BONIEK
+
+Refs: Ulf ERIKSSON (SWE), Jafar NAMDAR (IRN), Tesfaye GEBREYESUS (ERI)
+
+
+Sun Jun 18 13:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Poland v Peru  1-0
+     (Andrzej SZARMACH 65')
+
+Poland: Zygmunt KUKLA - Henryk MACULEWICZ, Antoni SZYMANOWSKI, Jerzy GORGON [Y 59'],
+      Wladyslaw ZMUDA - Adam NAWALKA, Bohdan MASZTALER (45+1' Henryk KASPERCZAK),
+      Kazimierz DEYNA [c] - Grzegorz LATO, Andrzej SZARMACH, Zbigniew BONIEK [Y 75'] (86' Wlodzimierz LUBANSKI)
+Peru: Ramon QUIROGA [Y 89'] - Jaime DUARTE, Rodolfo MANZO [Y 7'], Hector CHUMPITAZ [c],
+      Jose NAVARRO - Cesar CUETO, Alfredo QUESADA - Juan MUNANTE (45+1' Percy ROJAS),
+      Teofilo CUBILLAS, Juan Carlos OBLITAS, Guillermo LA ROSA (74' Hugo SOTIL)
+
+Refs: Pat PARTRIDGE (ENG), Thomas CLIVE (WAL), Charles CORVER (NED)
+
+
+Sun Jun 18 19:15 UTC-3 @ Arroyito, Rosario
+  Argentina v Brazil  0-0
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES (45+1' Ricardo VILLA [Y 48']), Americo GALLEGO - Daniel BERTONI,
+      Mario KEMPES, Leopoldo LUQUE, Oscar ORTIZ (60' Norberto ALONSO)
+Brazil: LEAO [c] - TONINHO, OSCAR, AMARAL, RODRIGUES NETO (34' EDINHO [Y 66']) -
+      DIRCEU, BATISTA, CHICAO [Y 45'] - GIL, JORGE MENDONCA (67' ZICO [Y 74']),
+      ROBERTO DINAMITE
+
+Refs: Karoly PALOTAI (HUN), Erich LINEMAYR (AUT)
+
+
+Wed Jun 21 16:45 UTC-3 @ Estadio Libertador General San Martín, Mendoza
+  Brazil v Poland  3-1
+     (NELINHO 12', ROBERTO DINAMITE 57', 63';
+      Grzegorz LATO 45')
+
+Brazil: LEAO [c] - TONINHO, OSCAR, AMARAL, NELINHO - TONINHO CEREZO [Y 53'] (77' RIVELLINO),
+      ZICO (7' JORGE MENDONCA [Y 50']), DIRCEU, BATISTA - GIL, ROBERTO DINAMITE
+Poland: Zygmunt KUKLA - Henryk MACULEWICZ, Antoni SZYMANOWSKI, Jerzy GORGON,
+      Wladyslaw ZMUDA - Adam NAWALKA, Henryk KASPERCZAK (64' Wlodzimierz LUBANSKI),
+      Kazimierz DEYNA [c] - Grzegorz LATO, Andrzej SZARMACH, Zbigniew BONIEK
+
+Refs: Juan SILVAGNO CAVANNA (CHI), Anatoly IVANOV (URS), Alfonso GONZALEZ ARCHUNDIA (MEX)
+
+
+Wed Jun 21 19:15 UTC-3 @ Arroyito, Rosario
+  Argentina v Peru  6-0
+     (Mario KEMPES 21', 48', Alberto TARANTINI 43', Leopoldo LUQUE 50', 72', Rene HOUSEMAN 67')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Americo GALLEGO (85' Miguel OVIEDO), Omar LARROSA - Daniel BERTONI (64' Rene HOUSEMAN),
+      Mario KEMPES, Leopoldo LUQUE, Oscar ORTIZ
+Peru: Ramon QUIROGA - Jaime DUARTE, Rodolfo MANZO, Hector CHUMPITAZ [c], Roberto ROJAS -
+      Jose VELASQUEZ [Y 48'] (51' Raul GORRITI), Cesar CUETO, Alfredo QUESADA [Y 36'] -
+      Juan MUNANTE, Teofilo CUBILLAS, Juan Carlos OBLITAS
+
+Refs: Robert WURTZ (FRA), Ferdinand BIWERSI (GER), Sergio GONELLA (ITA)
+
+
+▪ Match for third place
+Sat Jun 24 15:00 UTC-3 @ El Monumental, Buenos Aires
+  Brazil v Italy  2-1
+     (NELINHO 64', DIRCEU 72';
+      Franco CAUSIO 38')
+
+Brazil: LEAO [c] - OSCAR, AMARAL, NELINHO [Y 35'], RODRIGUES NETO - TONINHO CEREZO (64' RIVELLINO),
+      DIRCEU, BATISTA [Y 44'] - GIL (45+1' REINALDO), JORGE MENDONCA, ROBERTO DINAMITE
+Italy: Dino ZOFF [c] - Antonio CABRINI, Antonello CUCCUREDDU, Claudio GENTILE [Y 72'],
+      Aldo MALDERA, Gaetano SCIREA - Giancarlo ANTOGNONI (78' Claudio SALA),
+      Patrizio SALA, Franco CAUSIO - Roberto BETTEGA, Paolo ROSSI
+
+Refs: Abraham KLEIN (ISR), Alfonso GONZALEZ ARCHUNDIA (MEX), Karoly PALOTAI (HUN)
+
+
+▪ Final
+Sun Jun 25 15:00 UTC-3 @ El Monumental, Buenos Aires
+  Argentina v Netherlands  3-1 a.e.t.
+     (Mario KEMPES 38', 105', Daniel BERTONI 115';
+      Dick NANNINGA 82')
+
+Argentina: Ubaldo FILLOL - Luis GALVAN, Jorge OLGUIN, Daniel PASSARELLA [c], Alberto TARANTINI -
+      Osvaldo ARDILES [Y 40'] (65' Omar LARROSA [Y 93']), Americo GALLEGO -
+      Daniel BERTONI, Mario KEMPES, Leopoldo LUQUE, Oscar ORTIZ (74' Rene HOUSEMAN)
+Netherlands: Jan JONGBLOED - Jan POORTVLIET, Ruud KROL [c] [Y 15'], Ernie BRANDTS -
+      Wim JANSEN (72' Wim SUURBIER [Y 94']), Arie HAAN, Willy VAN DE KERKHOF,
+      Johan NEESKENS [Y 96'] - Rene VAN DE KERKHOF, Rob RENSENBRINK, Johnny REP (59' Dick NANNINGA)
+
+Refs: Sergio GONELLA (ITA), Ramon BARRETO RUIZ (URU), Erich LINEMAYR (AUT)
+
+

@@ -1,0 +1,333 @@
+= World Cup 1950
+
+# Dates    Sat Jun 24 - Sun Jul 16 1950 (22d)
+# Teams    13
+# Matches  22
+# Venues   6 (in 6 cities)
+#   Independencia, Belo Horizonte (BRA)
+#   Estádio Durival Britto e Silva, Curitiba (BRA)
+#   Eucaliptos, Porto Alegre (BRA)
+#   Ilha do Retiro, Recife (BRA)
+#   Maracanã, Rio de Janeiro (BRA)
+#   Estádio do Pacaembu, São Paulo (BRA)
+
+▪ Group Matches
+▪▪ Group 1
+Sat Jun 24 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Brazil v Mexico  4-0
+     (ADEMIR 30', 79', JAIR 65', BALTAZAR 71')
+
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL, ELY DO AMPARO - DANILO ALVIM, BIGODE -
+      FRIACA, JAIR, MANECA, BALTAZAR, ADEMIR
+Mexico: Antonio CARBAJAL - Alfonso MONTEMAYOR [c], Jose ROCA, Rodrigo RUIZ, Felipe ZETTER -
+      Mario OCHOA, Hector ORTIZ - Horacio CASARIN, Mario PEREZ, Carlos SEPTIEN,
+      Jose VELAZQUEZ
+
+Refs: George READER (ENG), Benjamin GRIFFITHS (WAL), George MITCHELL (SCO)
+
+
+Sun Jun 25 15:00 UTC-3 @ Independencia, Belo Horizonte
+  Yugoslavia v Switzerland  3-0
+     (Rajko MITIC 59', Kosta TOMASEVIC 70', Tihomir OGNJANOV 84')
+
+Yugoslavia: Srdjan MRKUSIC - Ivan HORVAT, Branko STANKOVIC - Predrag DJAJIC, Miodrag JOVANOVIC -
+      Stjepan BOBEK, Rajko MITIC [c], Bernard VUKAS, Zeljko CAJKOVSKI, Tihomir OGNJANOV,
+      Kosta TOMASEVIC
+Switzerland: Georges STUBER - Roger BOCQUET, Andre NEURY, Gerhard LUSENTI - Oliver EGGIMANN,
+      Roger QUINCHE - Kiki ANTENEN, Rene BADER, Fredy BICKEL [c], Jackie FATTON,
+      Jean TAMINI
+
+Refs: Giovanni GALEATI (ITA), Ivan EKLIND (SWE), Generoso DATTILO (ITA)
+
+
+Wed Jun 28 15:00 UTC-3 @ Eucaliptos, Porto Alegre
+  Yugoslavia v Mexico  4-1
+     (Stjepan BOBEK 20', Zeljko CAJKOVSKI 23', 51', Kosta TOMASEVIC 81';
+      Hector ORTIZ 89'(p))
+
+Yugoslavia: Srdjan MRKUSIC - Ivan HORVAT [c], Branko STANKOVIC - Zlatko CAJKOVSKI,
+      Predrag DJAJIC, Miodrag JOVANOVIC - Stjepan BOBEK, Rajko MITIC, Zeljko CAJKOVSKI,
+      Prvoslav MIHAJLOVIC, Kosta TOMASEVIC
+Mexico: Antonio CARBAJAL - Gregorio GOMEZ, Manuel GUTIERREZ, Jose ROCA - Samuel CUBURU,
+      Hector ORTIZ - Horacio CASARIN [c], Mario PEREZ, Carlos SEPTIEN, Jose VELAZQUEZ,
+      Jose NARANJO
+
+Refs: Reginald LEAFE (ENG), Gunnar DAHLNER (SWE), Karel VAN DER MEER (NED)
+
+
+Wed Jun 28 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Brazil v Switzerland  2-2
+     (ALFREDO II 3', BALTAZAR 32';
+      Jackie FATTON 17', 88')
+
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL - BAUER, RUY, NORONHA - FRIACA, MANECA,
+      BALTAZAR, ADEMIR, ALFREDO II
+Switzerland: Georges STUBER - Roger BOCQUET, Gerhard LUSENTI, Andre NEURY - Oliver EGGIMANN,
+      Roger QUINCHE - Rene BADER, Fredy BICKEL [c], Jackie FATTON, Hans-Peter FRIEDLAENDER,
+      Jean TAMINI
+
+Refs: Ramon AZON ROMA (ESP), Sergio BUSTAMANTE (CHI), Cayetano DE NICOLA (PAR)
+
+
+Sat Jul 1 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Brazil v Yugoslavia  2-0
+     (ADEMIR 4', ZIZINHO 69')
+
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL - BAUER, DANILO ALVIM, BIGODE, ZIZINHO -
+      JAIR, CHICO, MANECA, ADEMIR
+Yugoslavia: Srdjan MRKUSIC - Ivan HORVAT, Branko STANKOVIC - Zlatko CAJKOVSKI [c],
+      Predrag DJAJIC, Miodrag JOVANOVIC - Stjepan BOBEK, Rajko MITIC, Bernard VUKAS,
+      Zeljko CAJKOVSKI, Kosta TOMASEVIC
+
+Refs: Benjamin GRIFFITHS (WAL), Alois BERANEK (AUT), Jose DA COSTA VIEIRA (POR)
+
+
+Sun Jul 2 15:40 UTC-3 @ Eucaliptos, Porto Alegre
+  Switzerland v Mexico  2-1
+     (Rene BADER 10', Kiki ANTENEN 44';
+      Horacio CASARIN 89')
+
+Switzerland: Adolphe HUG - Roger BOCQUET [c], Gerhard LUSENTI, Andre NEURY - Oliver EGGIMANN,
+      Roger QUINCHE - Kiki ANTENEN, Rene BADER, Jackie FATTON, Hans-Peter FRIEDLAENDER,
+      Jean TAMINI
+Mexico: Antonio CARBAJAL - Gregorio GOMEZ, Manuel GUTIERREZ, Jose ROCA - Antonio FLORES,
+      Mario OCHOA, Hector ORTIZ - Horacio CASARIN [c], Jose NARANJO, Jose VELAZQUEZ,
+      Jose BORBOLLA
+
+Refs: Ivan EKLIND (SWE), Gunnar DAHLNER (SWE), Sergio BUSTAMANTE (CHI)
+
+
+▪▪ Group 2
+Sun Jun 25 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  England v Chile  2-0
+     (Stan MORTENSEN 39', Wilf MANNION 51')
+
+England: Bert WILLIAMS - John ASTON, Alf RAMSEY, Billy WRIGHT [c] - Jimmy DICKINSON,
+      Laurie HUGHES - Stan MORTENSEN, Roy BENTLEY, Tom FINNEY, Wilf MANNION,
+      Jimmy MULLEN
+Chile: Sergio LIVINGSTONE [c] - Manuel ALVAREZ, Arturo FARIAS, Fernando ROLDAN -
+      Miguel BUSQUETS, Hernan CARVALLO - Atilio CREMASCHI, Guillermo DIAZ,
+      Luis MAYANES, Manuel MUNOZ, Jorge ROBLEDO
+
+Refs: Karel VAN DER MEER (NED), Mario GARDELLI (BRA), Gunnar DAHLNER (SWE)
+
+
+Sun Jun 25 15:00 UTC-3 @ Estádio Durival Britto e Silva, Curitiba
+  Spain v USA  3-1
+     (Silvestre IGOA 81', Estanislao BASORA 83', ZARRA 89';
+      Gino PARIANI 17')
+
+Spain: Ignacio EIZAGUIRRE [c] - GABRIEL ALONSO, GONZALVO II, ANTUNEZ - GONZALVO III,
+      Antonio PUCHADES - Estanislao BASORA, GAINZA, ROSENDO HERNANDEZ, Silvestre IGOA,
+      ZARRA
+USA: Frank BORGHI - Harry KEOUGH [c], Joe MACA - Walter BAHR, Charlie COLOMBO,
+      Ed McILVENNY, John SOUZA - Joe GAETJENS, Gino PARIANI, Frank WALLACE,
+      Adam WOLANIN
+
+Refs: Mario VIANA (BRA), Jose DA COSTA VIEIRA (POR), Charles DE LA SALLE (FRA)
+
+
+Thu Jun 29 15:00 UTC-3 @ Independencia, Belo Horizonte
+  USA v England  1-0
+     (Joe GAETJENS 38')
+
+USA: Frank BORGHI - Harry KEOUGH, Joe MACA - Walter BAHR, Charlie COLOMBO,
+      Ed McILVENNY [c], John SOUZA - Joe GAETJENS, Gino PARIANI, Ed SOUZA,
+      Frank WALLACE
+England: Bert WILLIAMS - John ASTON, Alf RAMSEY, Billy WRIGHT [c] - Jimmy DICKINSON,
+      Laurie HUGHES - Stan MORTENSEN, Roy BENTLEY, Tom FINNEY, Wilf MANNION,
+      Jimmy MULLEN
+
+Refs: Generoso DATTILO (ITA), Charles DE LA SALLE (FRA), Giovanni GALEATI (ITA)
+
+
+Thu Jun 29 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Spain v Chile  2-0
+     (Estanislao BASORA 17', ZARRA 30')
+
+Spain: Antonio RAMALLETS - GABRIEL ALONSO, GONZALVO II, Jose PARRA - GONZALVO III,
+      Antonio PUCHADES - Estanislao BASORA, GAINZA [c], Silvestre IGOA, Jose PANIZO,
+      ZARRA
+Chile: Sergio LIVINGSTONE [c] - Manuel ALVAREZ, Arturo FARIAS, Fernando ROLDAN -
+      Miguel BUSQUETS, Hernan CARVALLO - Atilio CREMASCHI, Guillermo DIAZ,
+      Andres PRIETO, Jorge ROBLEDO, Manuel MUNOZ
+
+Refs: Alberto MALCHER (BRA), Esteban MARINO (URU), Alfredo ALVAREZ (BOL)
+
+
+Sun Jul 2 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Spain v England  1-0
+     (ZARRA 48')
+
+Spain: Antonio RAMALLETS - GABRIEL ALONSO, GONZALVO II, Jose PARRA - GONZALVO III,
+      Antonio PUCHADES - Estanislao BASORA, GAINZA [c], Silvestre IGOA, Jose PANIZO,
+      ZARRA
+England: Bert WILLIAMS - Alf RAMSEY, Billy WRIGHT [c], Bill ECKERSLEY - Jimmy DICKINSON,
+      Laurie HUGHES - Stanley MATTHEWS, Stan MORTENSEN, Eddie BAILY, Tom FINNEY,
+      Jackie MILBURN
+
+Refs: Giovanni GALEATI (ITA), Jean LUTZ (SUI), Generoso DATTILO (ITA)
+
+
+Sun Jul 2 15:00 UTC-3 @ Ilha do Retiro, Recife
+  Chile v USA  5-2
+     (Jorge ROBLEDO 16', Atilio CREMASCHI 32', 60', Andres PRIETO 54', Fernando RIERA 82';
+      Frank WALLACE 47', Joe MACA 48'(p))
+
+Chile: Sergio LIVINGSTONE [c] - Manuel ALVAREZ, Arturo FARIAS, Manuel MACHUCA -
+      Miguel BUSQUETS, Carlos ROJAS - Atilio CREMASCHI, Carlos IBANEZ, Andres PRIETO,
+      Fernando RIERA, Jorge ROBLEDO
+USA: Frank BORGHI - Harry KEOUGH, Joe MACA - Walter BAHR [c], Charlie COLOMBO,
+      Ed McILVENNY, John SOUZA - Joe GAETJENS, Gino PARIANI, Ed SOUZA, Frank WALLACE
+
+Refs: Mario GARDELLI (BRA), Mario Ruben HEYEN (PAR), Alfredo ALVAREZ (BOL)
+
+
+▪▪ Group 3
+Sun Jun 25 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Sweden v Italy  3-2
+     (Hans JEPPSSON 25', 69', Sune ANDERSSON 34';
+      Riccardo CARAPELLESE 7', Ermes MUCCINELLI 78')
+
+Sweden: Kalle SVENSSON - Sune ANDERSSON, Erik NILSSON [c], Lennart SAMUELSSON -
+      Knut NORDAHL, Ingvar GARD - Lennart SKOGLUND, Hans JEPPSSON, Stellan NILSSON,
+      Karl-Erik PALMER, Stig SUNDQVIST
+Italy: Lucidio SENTIMENTI - Carlo PAROLA, Zeffiro FURIASSI, Attilio GIOVANNINI -
+      Carlo ANNOVAZZI, Aldo CAMPATELLI, Augusto MAGLI - Giampiero BONIPERTI,
+      Gino CAPPELLO, Riccardo CARAPELLESE [c], Ermes MUCCINELLI
+
+Refs: Jean LUTZ (SUI), Alois BERANEK (AUT), Carlos TEJADA (MEX)
+
+
+Thu Jun 29 15:30 UTC-3 @ Estádio Durival Britto e Silva, Curitiba
+  Sweden v Paraguay  2-2
+     (Stig SUNDQVIST 17', Karl-Erik PALMER 26';
+      Cesar LOPEZ FRETES 35', Atilio LOPEZ 74')
+
+Sweden: Kalle SVENSSON - Sune ANDERSSON, Erik NILSSON [c], Lennart SAMUELSSON -
+      Knut NORDAHL, Ingvar GARD - Lennart SKOGLUND, Hans JEPPSSON, Egon JONSSON,
+      Karl-Erik PALMER, Stig SUNDQVIST
+Paraguay: Marcelino VARGAS - Casiano CESPEDES, Manuel GAVILAN, Alberto GONZALEZ -
+      Castor CANTERO, Victoriano LEGUIZAMON - Leongino UNZAIN, Enrique AVALOS,
+      Atilio LOPEZ, Cesar LOPEZ FRETES [c], Dario JARA SAGUIER
+
+Refs: Robert MITCHELL (SCO), Leo LEMESIC (YUG), Prudencio GARCIA (USA)
+
+
+Sun Jul 2 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Italy v Paraguay  2-0
+     (Riccardo CARAPELLESE 12', Egisto PANDOLFINI 63')
+
+Italy: Giuseppe MORO - Ivano BLASON, Zeffiro FURIASSI, Leandro REMONDINI - Osvaldo FATTORI,
+      Giacomo MARI - Amedeo AMADEI, Gino CAPPELLO, Riccardo CARAPELLESE [c],
+      Ermes MUCCINELLI, Egisto PANDOLFINI
+Paraguay: Marcelino VARGAS - Casiano CESPEDES, Manuel GAVILAN, Alberto GONZALEZ -
+      Castor CANTERO, Victoriano LEGUIZAMON - Leongino UNZAIN, Enrique AVALOS,
+      Atilio LOPEZ, Cesar LOPEZ FRETES [c], Dario JARA SAGUIER
+
+Refs: Arthur ELLIS (ENG), Prudencio GARCIA (USA), Charles DE LA SALLE (FRA)
+
+
+▪▪ Group 4
+Sun Jul 2 15:00 UTC-3 @ Independencia, Belo Horizonte
+  Uruguay v Bolivia  8-0
+     (Oscar MIGUEZ 14', 40', 51', Ernesto VIDAL 18', Juan SCHIAFFINO 23', 54', Julio PEREZ 83', Alcides GHIGGIA 87')
+
+Uruguay: Roque MASPOLI - Matias GONZALEZ, Eusebio TEJERA - Obdulio VARELA [c],
+      Victor RODRIGUEZ ANDRADE, Juan Carlos GONZALEZ - Alcides GHIGGIA, Juan SCHIAFFINO,
+      Ernesto VIDAL, Oscar MIGUEZ, Julio PEREZ
+Bolivia: Eduardo GUTIERREZ - Alberto ACHA, Jose BUSTAMANTE-NAVA [c] - Leonardo FERREL,
+      Antonio GRECCO, Antonio VALENCIA - Victor ALGARANAZ, Roberto CAPPARELLI,
+      Benigno GUTIERREZ, Benjamin MALDONADO, Victor UGARTE
+
+Refs: George READER (ENG), Mario VIANA (BRA), Leo LEMESIC (YUG)
+
+
+▪ Final Round
+Sun Jul 9 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Brazil v Sweden  7-1
+     (ADEMIR 17', 36', 52', 58', CHICO 39', 88', MANECA 85';
+      Sune ANDERSSON 67'(p))
+
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL - BAUER, DANILO ALVIM, BIGODE, ZIZINHO -
+      JAIR, CHICO, MANECA, ADEMIR
+Sweden: Kalle SVENSSON - Sune ANDERSSON, Erik NILSSON [c], Lennart SAMUELSSON -
+      Knut NORDAHL, Ingvar GARD - Lennart SKOGLUND, Hans JEPPSSON, Stellan NILSSON,
+      Karl-Erik PALMER, Stig SUNDQVIST
+
+Refs: Arthur ELLIS (ENG), Prudencio GARCIA (USA), Charles DE LA SALLE (FRA)
+
+
+Sun Jul 9 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Uruguay v Spain  2-2
+     (Alcides GHIGGIA 29', Obdulio VARELA 73';
+      Estanislao BASORA 37', 39')
+
+Uruguay: Roque MASPOLI - Matias GONZALEZ, Eusebio TEJERA - Obdulio VARELA [c],
+      Victor RODRIGUEZ ANDRADE, Juan Carlos GONZALEZ - Alcides GHIGGIA, Juan SCHIAFFINO,
+      Ernesto VIDAL, Oscar MIGUEZ, Julio PEREZ
+Spain: Antonio RAMALLETS - GABRIEL ALONSO, GONZALVO II, Jose PARRA - GONZALVO III,
+      Antonio PUCHADES - Estanislao BASORA, GAINZA [c], Silvestre IGOA, Luis MOLOWNY,
+      ZARRA
+
+Refs: Benjamin GRIFFITHS (WAL), Generoso DATTILO (ITA), Alfredo ALVAREZ (BOL)
+
+
+Thu Jul 13 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Uruguay v Sweden  3-2
+     (Alcides GHIGGIA 39', Oscar MIGUEZ 77', 85';
+      Karl-Erik PALMER 5', Stig SUNDQVIST 40')
+
+Uruguay: Anibal PAZ - Schubert GAMBETTA, Matias GONZALEZ, Eusebio TEJERA - Obdulio VARELA [c],
+      Victor RODRIGUEZ ANDRADE - Alcides GHIGGIA, Juan SCHIAFFINO, Ernesto VIDAL,
+      Oscar MIGUEZ, Julio PEREZ
+Sweden: Kalle SVENSSON - Sune ANDERSSON, Gunnar JOHANSSON II, Erik NILSSON [c],
+      Lennart SAMUELSSON - Ingvar GARD - Hans JEPPSSON, Egon JONSSON, Bror MELLBERG,
+      Karl-Erik PALMER, Stig SUNDQVIST
+
+Refs: Giovanni GALEATI (ITA), Alois BERANEK (AUT), Cayetano DE NICOLA (PAR)
+
+
+Thu Jul 13 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Brazil v Spain  6-1
+     (ADEMIR 15', 57', JAIR 21', CHICO 31', 55', ZIZINHO 67';
+      Silvestre IGOA 71')
+
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL - BAUER, DANILO ALVIM, BIGODE [Y 1'],
+      ZIZINHO - FRIACA, JAIR, CHICO, ADEMIR
+Spain: Antonio RAMALLETS - GABRIEL ALONSO, GONZALVO II, Jose PARRA - GONZALVO III,
+      Antonio PUCHADES - Estanislao BASORA, GAINZA [c], Silvestre IGOA, Jose PANIZO,
+      ZARRA
+
+Refs: Reginald LEAFE (ENG), George MITCHELL (SCO), Jose DA COSTA VIEIRA (POR)
+
+
+Sun Jul 16 15:00 UTC-3 @ Maracanã, Rio de Janeiro
+  Uruguay v Brazil  2-1
+     (Juan SCHIAFFINO 66', Alcides GHIGGIA 79';
+      FRIACA 47')
+
+Uruguay: Roque MASPOLI - Matias GONZALEZ, Eusebio TEJERA, Schubert GAMBETTA -
+      Obdulio VARELA [c], Victor RODRIGUEZ ANDRADE - Alcides GHIGGIA, Oscar MIGUEZ,
+      Juan SCHIAFFINO, Ruben MORAN, Julio PEREZ
+Brazil: BARBOSA - AUGUSTO [c], JUVENAL - BAUER, BIGODE, DANILO ALVIM, ZIZINHO -
+      ADEMIR, FRIACA, JAIR, CHICO
+
+Refs: George READER (ENG), Arthur ELLIS (ENG), George MITCHELL (SCO)
+
+
+Sun Jul 16 15:00 UTC-3 @ Estádio do Pacaembu, São Paulo
+  Sweden v Spain  3-1
+     (Stig SUNDQVIST 15', Bror MELLBERG 33', Karl-Erik PALMER 80';
+      ZARRA 82')
+
+Sweden: Kalle SVENSSON - Sune ANDERSSON, Lennart SAMUELSSON, Erik NILSSON [c],
+      Gunnar JOHANSSON II - Ingvar GARD - Ingvar RYDELL, Stig SUNDQVIST, Bror MELLBERG,
+      Karl-Erik PALMER, Egon JONSSON
+Spain: Ignacio EIZAGUIRRE - GABRIEL ALONSO, Vicente ASENSI, Alfonso SILVA, Jose PARRA -
+      Antonio PUCHADES - ROSENDO HERNANDEZ, Estanislao BASORA, ZARRA [c], Jose PANIZO,
+      Jose JUNCOSA
+
+Refs: Karel VAN DER MEER (NED), Jean LUTZ (SUI), Prudencio GARCIA (USA)
+
+

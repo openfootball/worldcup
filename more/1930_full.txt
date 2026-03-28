@@ -1,0 +1,275 @@
+= World Cup 1930
+
+# Dates    Sun Jul 13 - Wed Jul 30 1930 (17d)
+# Teams    13
+# Matches  18
+# Venues   3 (in 1 city)
+#   Parque Central, Montevideo (URU)
+#   Estadio Centenario, Montevideo (URU)
+#   Pocitos, Montevideo (URU)
+
+▪ Group Matches
+▪▪ Group 1
+Sun Jul 13 15:00 UTC-3 @ Pocitos, Montevideo
+  France v Mexico  4-1
+     (Lucien LAURENT 19', Marcel LANGILLER 40', Andre MASCHINOT 43', 87';
+      Juan CARRENO 70')
+
+France: Alex THEPOT - Marcel CAPELLE, Etienne MATTLER - Augustin CHANTREL, Marcel PINEL,
+      Alex VILLAPLANE [c] - Edmond DELFOUR, Marcel LANGILLER, Lucien LAURENT,
+      Ernest LIBERATI, Andre MASCHINOT
+Mexico: Oscar BONFIGLIO - Rafael GARZA [c], Manuel ROSAS - Efrain AMEZCUA, Felipe ROSAS,
+      Alfredo SANCHEZ - Juan CARRENO, Hilario LOPEZ, Dionisio MEJIA, Jose RUIZ,
+      Luis PEREZ
+
+Refs: Domingo LOMBARDI (URU), Henry CRISTOPHE (BEL), Gilberto REGO (BRA)
+
+
+Tue Jul 15 16:00 UTC-3 @ Parque Central, Montevideo
+  Argentina v France  1-0
+     (Luis MONTI 81')
+
+Argentina: Angel BOSSIO - Jose DELLA TORRE, Ramon MUTTIS - Luis MONTI, Juan EVARISTO,
+      Pedro SUAREZ - Francisco VARALLO, Mario EVARISTO, Manuel FERREIRA [c],
+      Roberto CERRO, Natalio PERINETTI
+France: Alex THEPOT - Marcel CAPELLE, Etienne MATTLER - Augustin CHANTREL, Marcel PINEL,
+      Alex VILLAPLANE [c] - Edmond DELFOUR, Marcel LANGILLER, Lucien LAURENT,
+      Ernest LIBERATI, Andre MASCHINOT
+
+Refs: Gilberto REGO (BRA), Ulises SAUCEDO (BOL), Constantin RADULESCU (ROU)
+
+
+Wed Jul 16 14:45 UTC-3 @ Parque Central, Montevideo
+  Chile v Mexico  3-0
+     (Carlos VIDAL 3', 65', Manuel ROSAS 51'(og))
+
+Chile: Roberto CORTES - Victor MORALES, Ulises POIRIER - Humberto ELGUETA, Guillermo SAAVEDRA,
+      Arturo TORRES - Tomas OJEDA, Carlos SCHNEBERGER [c], Guillermo SUBIABRE,
+      Carlos VIDAL, Eberardo VILLALOBOS
+Mexico: Isidoro SOTA - Rafael GARZA [c], Manuel ROSAS - Efrain AMEZCUA, Alfredo SANCHEZ,
+      Felipe ROSAS - Juan CARRENO, Roberto GAYON, Hilario LOPEZ, Jose RUIZ,
+      Luis PEREZ
+
+Refs: Henry CRISTOPHE (BEL), Martin APHESTEGUY (URU), Jean LANGENUS (BEL)
+
+
+Sat Jul 19 12:50 UTC-3 @ Estadio Centenario, Montevideo
+  Chile v France  1-0
+     (Guillermo SUBIABRE 65')
+
+Chile: Roberto CORTES - Ernesto CHAPARRO, Guillermo RIVEROS - Guillermo SAAVEDRA,
+      Arturo TORRES, Casimiro TORRES - Tomas OJEDA, Carlos SCHNEBERGER [c],
+      Guillermo SUBIABRE, Carlos VIDAL, Eberardo VILLALOBOS
+France: Alex THEPOT - Marcel CAPELLE, Etienne MATTLER - Augustin CHANTREL, Marcel PINEL,
+      Alex VILLAPLANE [c], Celestin DELMER - Edmond DELFOUR, Marcel LANGILLER,
+      Ernest LIBERATI, Emile VEINANTE
+
+Refs: Anibal TEJADA (URU), Domingo LOMBARDI (URU), Gilberto REGO (BRA)
+
+
+Sat Jul 19 15:00 UTC-3 @ Estadio Centenario, Montevideo
+  Argentina v Mexico  6-3
+     (Guillermo STABILE 8', 17', 80', Adolfo ZUMELZU 12', 55', Francisco VARALLO 53';
+      Manuel ROSAS 42'(p), 65', Roberto GAYON 75')
+
+Argentina: Angel BOSSIO [c] - Alberto CHIVIDINI, Jose DELLA TORRE, Rodolfo ORLANDINI,
+      Fernando PATERNOSTER, Adolfo ZUMELZU - Atilio DEMARIA, Carlos PEUCELLE,
+      Francisco VARALLO, Carlos SPADARO, Guillermo STABILE
+Mexico: Oscar BONFIGLIO - Francisco GARZA GUTIERREZ, Rafael GARZA [c], Manuel ROSAS -
+      Raimundo RODRIGUEZ, Felipe ROSAS, Alfredo SANCHEZ - Juan CARRENO, Roberto GAYON,
+      Hilario LOPEZ, Felipe OLIVARES
+
+Refs: Ulises SAUCEDO (BOL), Gualberto ALONSO (URU), Constantin RADULESCU (ROU)
+
+
+Tue Jul 22 14:45 UTC-3 @ Estadio Centenario, Montevideo
+  Argentina v Chile  3-1
+     (Guillermo STABILE 12', 13', Mario EVARISTO 51';
+      Guillermo SUBIABRE 15')
+
+Argentina: Angel BOSSIO - Jose DELLA TORRE, Rodolfo ORLANDINI, Fernando PATERNOSTER -
+      Luis MONTI, Juan EVARISTO - Carlos PEUCELLE, Francisco VARALLO, Mario EVARISTO,
+      Manuel FERREIRA [c], Guillermo STABILE
+Chile: Roberto CORTES - Ernesto CHAPARRO, Victor MORALES - Guillermo SAAVEDRA,
+      Arturo TORRES, Casimiro TORRES - Juan AGUILERA, Guillermo ARELLANO, Guillermo SUBIABRE [c],
+      Carlos VIDAL, Eberardo VILLALOBOS
+
+Refs: Jean LANGENUS (BEL), Henry CRISTOPHE (BEL), Ulises SAUCEDO (BOL)
+
+
+▪▪ Group 2
+Mon Jul 14 12:45 UTC-3 @ Parque Central, Montevideo
+  Yugoslavia v Brazil  2-1
+     (Aleksandar TIRNANIC 21', Ivica BEK 30';
+      PREGUINHO 62')
+
+Yugoslavia: Milovan JAKSIC - Milutin IVKOVIC [c], Dragan MIHAJLOVIC, Ljubisa STEFANOVIC -
+      Milorad ARSENIJEVIC, Momcilo DJOKIC - Ivica BEK, Blagoje MARJANOVIC,
+      Branislav SEKULIC, Djordje VUJADINOVIC, Aleksandar TIRNANIC
+Brazil: JOEL - ITALIA, BRILHANTE - FAUSTO, HERMOGENES, FERNANDO GIUDICELLI -
+      TEOPHILO, POLY, PREGUINHO [c], NILO, ARAKEN
+
+Refs: Anibal TEJADA (URU), Ricardo VALLARINO (URU), Thomas BALWAY (FRA)
+
+
+Thu Jul 17 12:45 UTC-3 @ Parque Central, Montevideo
+  Yugoslavia v Bolivia  4-0
+     (Ivica BEK 60', 67', Blagoje MARJANOVIC 65', Djordje VUJADINOVIC 85')
+
+Yugoslavia: Milovan JAKSIC - Milutin IVKOVIC [c], Dragan MIHAJLOVIC, Ljubisa STEFANOVIC -
+      Milorad ARSENIJEVIC, Momcilo DJOKIC - Ivica BEK, Blagoje MARJANOVIC,
+      Dragutin NAJDANOVIC, Djordje VUJADINOVIC, Aleksandar TIRNANIC
+Bolivia: Jesus BERMUDEZ - Casiano CHAVARRIA, Segundo DURANDAL - Jorge ARGOTE,
+      Diogenes LARA, Jorge BALDERRAMA - Mario ALBORTA, Jose BUSTAMANTE, Rene FERNANDEZ,
+      Gumercindo GOMEZ, Rafael MENDEZ [c]
+
+Refs: Francisco MATEUCCI (URU), Domingo LOMBARDI (URU), Alberto WARNKEN (CHI)
+
+
+Sun Jul 20 13:00 UTC-3 @ Estadio Centenario, Montevideo
+  Brazil v Bolivia  4-0
+     (MODERATO 37', 73', PREGUINHO 67', 83')
+
+Brazil: VELLOSO - ITALIA, ZE LUIS - FAUSTO, HERMOGENES, FERNANDO GIUDICELLI -
+      CARVALHO LEITE, BENEDICTO, MODERATO, RUSSINHO, PREGUINHO [c]
+Bolivia: Jesus BERMUDEZ - Casiano CHAVARRIA, Segundo DURANDAL - Diogenes LARA,
+      Renato SAINZ, Jorge BALDERRAMA - Mario ALBORTA, Jose BUSTAMANTE, Rene FERNANDEZ,
+      Rafael MENDEZ [c], Eduardo REYES ORTIZ
+
+Refs: Thomas BALWAY (FRA), Francisco MATEUCCI (URU), Gaspar VALLEJO (MEX)
+
+
+▪▪ Group 3
+Mon Jul 14 14:50 UTC-3 @ Pocitos, Montevideo
+  Romania v Peru  3-1
+     (Adalbert DESU 1', Constantin STANCIU 79', Nicolae KOVACS 89';
+      Luis SOUZA 75')
+
+Romania: Ion LAPUSNEANU - Rudolf BUERGER, Adalbert STEINER, Emerich VOGL [c] -
+      Alfred EISENBEISSER, Ladislau RAFFINSKY - Adalbert DESU, Nicolae KOVACS,
+      Constantin STANCIU, Rudolf WETZER, Stefan BARBU
+Peru: Juan VALDIVIESO - Mario DE LAS CASAS, Alberto SORIA - Alberto DENEGRI,
+      Placido GALINDO [c] [R 70'], Domingo GARCIA - Jose Maria LAVALLE, Demetrio NEYRA,
+      Luis SOUZA, Alejandro VILLANUEVA, Julio LORES
+
+Refs: Alberto WARNKEN (CHI), Jean LANGENUS (BEL), Francisco MATEUCCI (URU)
+
+
+Fri Jul 18 14:30 UTC-3 @ Estadio Centenario, Montevideo
+  Uruguay v Peru  1-0
+     (Hector CASTRO 60')
+
+Uruguay: Enrique BALLESTRERO - Jose NASAZZI [c], Domingo TEJERA - Jose ANDRADE,
+      Lorenzo FERNANDEZ, Alvaro GESTIDO - Hector CASTRO, Pedro CEA, Victoriano IRIARTE,
+      Pedro PETRONE, Santos URDINARAN
+Peru: Jorge PARDON - Mario DE LAS CASAS, Antonio MAQUILON [c] - Eduardo ASTENGO,
+      Alberto DENEGRI, Placido GALINDO - Jose Maria LAVALLE, Demetrio NEYRA,
+      Luis SOUZA, Alejandro VILLANUEVA, Julio LORES
+
+Refs: Jean LANGENUS (BEL), Thomas BALWAY (FRA), Henry CRISTOPHE (BEL)
+
+
+Mon Jul 21 14:50 UTC-3 @ Estadio Centenario, Montevideo
+  Uruguay v Romania  4-0
+     (Pablo DORADO 7', Hector SCARONE 24', Juan ANSELMO 30', Pedro CEA 35')
+
+Uruguay: Enrique BALLESTRERO - Jose NASAZZI [c], Ernesto MASCHERONI - Jose ANDRADE,
+      Lorenzo FERNANDEZ, Alvaro GESTIDO - Juan ANSELMO, Pedro CEA, Pablo DORADO,
+      Victoriano IRIARTE, Hector SCARONE
+Romania: Ion LAPUSNEANU - Rudolf BUERGER, Emerich VOGL [c], Iosif CZAKO - Alfred EISENBEISSER,
+      Ladislau RAFFINSKY, Corneliu ROBE - Adalbert DESU, Nicolae KOVACS, Rudolf WETZER,
+      Stefan BARBU
+
+Refs: Gilberto REGO (BRA), Alberto WARNKEN (CHI), Ulises SAUCEDO (BOL)
+
+
+▪▪ Group 4
+Sun Jul 13 15:00 UTC-3 @ Parque Central, Montevideo
+  USA v Belgium  3-0
+     (Bart McGHEE 23', Tom FLORIE 45', Bert PATENAUDE 69')
+
+USA: Jimmy DOUGLAS - George MOORHOUSE, Ralph TRACY, Alexander WOOD - Jimmy GALLAGHER -
+      Andrew AULD, Jim BROWN, Tom FLORIE [c], Billy GONSALVES, Bart McGHEE,
+      Bert PATENAUDE
+Belgium: Arnold BADJOU - Nikolaas HOYDONCKX, Theodore NOUWENS - Jean DE CLERQ,
+      Jan DIDDENS, Auguste HELLEMANS, Pierre BRAINE [c] - Fernand ADAMS, Jacques MOESCHAL,
+      Louis VERSYP, Bernard VOORHOOF
+
+Refs: Jose MACIAS (ARG), Francisco MATEUCCI (URU), Alberto WARNKEN (CHI)
+
+
+Thu Jul 17 14:45 UTC-3 @ Parque Central, Montevideo
+  USA v Paraguay  3-0
+     (Bert PATENAUDE 10', 15', 50')
+
+USA: Jimmy DOUGLAS - George MOORHOUSE, Ralph TRACY, Alexander WOOD - Jimmy GALLAGHER -
+      Andrew AULD, Jim BROWN, Tom FLORIE [c], Billy GONSALVES, Bart McGHEE,
+      Bert PATENAUDE
+Paraguay: Modesto DENIS - Jose Leon MIRACCA, Quiterio OLMEDO - Francisco AGUIRRE,
+      Eusebio DIAZ, Romildo ETCHEVERRY - Diogenes DOMINGUEZ, Aurelio GONZALEZ,
+      Lino NESSI, Luis VARGAS PENA [c], Delfin BENITEZ CACERES
+
+Refs: Jose MACIAS (ARG), Martin APHESTEGUY (URU), Anibal TEJADA (URU)
+
+
+Sun Jul 20 15:00 UTC-3 @ Estadio Centenario, Montevideo
+  Paraguay v Belgium  1-0
+     (Luis VARGAS PENA 40')
+
+Paraguay: Pedro BENITEZ - Salvador FLORES, Quiterio OLMEDO - Santiago BENITEZ,
+      Eusebio DIAZ, Tranquilino GARCETE - Delfin BENITEZ CACERES, Aurelio GONZALEZ,
+      Lino NESSI, Luis VARGAS PENA [c], Gerardo ROMERO
+Belgium: Arnold BADJOU - Henri DE DEKEN, Nikolaas HOYDONCKX, Theodore NOUWENS -
+      Jan DIDDENS, Auguste HELLEMANS, Pierre BRAINE [c] - Fernand ADAMS, Gerard DELBEKE,
+      Jacques MOESCHAL, Louis VERSYP
+
+Refs: Ricardo VALLARINO (URU), Jose MACIAS (ARG), Domingo LOMBARDI (URU)
+
+
+▪ Semi-final
+Sat Jul 26 14:45 UTC-3 @ Estadio Centenario, Montevideo
+  Argentina v USA  6-1
+     (Luis MONTI 20', Alejandro SCOPELLI 56', Guillermo STABILE 69', 87', Carlos PEUCELLE 80', 85';
+      Jim BROWN 89')
+
+Argentina: Juan BOTASSO - Jose DELLA TORRE, Rodolfo ORLANDINI, Fernando PATERNOSTER -
+      Luis MONTI, Juan EVARISTO - Carlos PEUCELLE, Mario EVARISTO, Manuel FERREIRA [c],
+      Alejandro SCOPELLI, Guillermo STABILE
+USA: Jimmy DOUGLAS - George MOORHOUSE, Ralph TRACY, Alexander WOOD - Jimmy GALLAGHER -
+      Andrew AULD, Jim BROWN, Tom FLORIE [c], Billy GONSALVES, Bart McGHEE,
+      Bert PATENAUDE
+
+Refs: Jean LANGENUS (BEL), Gaspar VALLEJO (MEX), Alberto WARNKEN (CHI)
+
+
+Sun Jul 27 14:45 UTC-3 @ Estadio Centenario, Montevideo
+  Uruguay v Yugoslavia  6-1
+     (Pedro CEA 18', 67', 72', Juan ANSELMO 20', 31', Victoriano IRIARTE 61';
+      Djordje VUJADINOVIC 4')
+
+Uruguay: Enrique BALLESTRERO - Jose NASAZZI [c], Ernesto MASCHERONI - Jose ANDRADE,
+      Lorenzo FERNANDEZ, Alvaro GESTIDO - Juan ANSELMO, Pedro CEA, Pablo DORADO,
+      Victoriano IRIARTE, Hector SCARONE
+Yugoslavia: Milovan JAKSIC - Milutin IVKOVIC [c], Dragan MIHAJLOVIC, Ljubisa STEFANOVIC -
+      Milorad ARSENIJEVIC, Momcilo DJOKIC - Ivica BEK, Blagoje MARJANOVIC,
+      Branislav SEKULIC, Djordje VUJADINOVIC, Aleksandar TIRNANIC
+
+Refs: Gilberto REGO (BRA), Ulises SAUCEDO (BOL), Thomas BALWAY (FRA)
+
+
+▪ Final
+Wed Jul 30 14:15 UTC-3 @ Estadio Centenario, Montevideo
+  Uruguay v Argentina  4-2
+     (Pablo DORADO 12', Pedro CEA 57', Victoriano IRIARTE 68', Hector CASTRO 89';
+      Carlos PEUCELLE 20', Guillermo STABILE 37')
+
+Uruguay: Enrique BALLESTRERO - Jose NASAZZI [c], Ernesto MASCHERONI - Jose ANDRADE,
+      Lorenzo FERNANDEZ, Alvaro GESTIDO - Hector CASTRO, Pedro CEA, Pablo DORADO,
+      Victoriano IRIARTE, Hector SCARONE
+Argentina: Juan BOTASSO - Jose DELLA TORRE, Fernando PATERNOSTER - Luis MONTI, Juan EVARISTO,
+      Pedro SUAREZ - Carlos PEUCELLE, Francisco VARALLO, Mario EVARISTO, Manuel FERREIRA [c],
+      Guillermo STABILE
+
+Refs: Jean LANGENUS (BEL), Ulises SAUCEDO (BOL), Henry CRISTOPHE (BEL)
+
+

@@ -1,0 +1,529 @@
+= World Cup 1958
+
+# Dates    Sun Jun 8 - Sun Jun 29 1958 (21d)
+# Teams    16
+# Matches  35
+# Venues   12 (in 12 cities)
+#   Ryavallen, Borås (SWE)
+#   Tunavallen, Eskilstuna (SWE)
+#   Nya Ullevi, Gothenburg (SWE)
+#   Orjans Vall, Halmstad (SWE)
+#   Olympia Stadium, Helsingborg (SWE)
+#   Malmo Stadion, Malmö (SWE)
+#   Idrottsparken, Norrköping (SWE)
+#   Jarnvallen, Sandviken (SWE)
+#   Rasunda Stadium, Solna (SWE)
+#   Rimnersvallen, Uddevalla (SWE)
+#   Arosvallen, Västerås (SWE)
+#   Eyravallen, Örebro (SWE)
+
+▪ Group Matches
+▪▪ Group 1
+Sun Jun 8 19:00 UTC+2 @ Malmo Stadion, Malmö
+  Argentina v West Germany  1-3
+     (Oreste Omar CORBATTA 2';
+      Helmut RAHN 32', 79', Uwe SEELER 40')
+
+Argentina: Amadeo CARRIZO - Federico VAIRO, Juan Francesco LOMBARDO - Pedro DELLACHA [c],
+      Nestor ROSSI, Jose VARACKA - Oreste Omar CORBATTA, Eliseo PRADO, Norberto MENENDEZ,
+      Alfredo ROJAS, Osvaldo CRUZ
+West Germany: Fritz HERKENRATH - Herbert ERHARDT, Erich JUSKOWIAK, Georg STOLLENWERK -
+      Horst ECKEL, Horst SZYMANIAK, Fritz WALTER, Alfred SCHMIDT - Helmut RAHN,
+      Hans SCHAEFER [c], Uwe SEELER
+
+Refs: Reginald LEAFE (ENG), Leo HELGE (DEN), Sten AHLNER (SWE)
+
+
+Sun Jun 8 19:00 UTC+2 @ Orjans Vall, Halmstad
+  Northern Ireland v Czechoslovakia  1-0
+     (Wilbur CUSH 20')
+
+Northern Ireland: Harry GREGG - Willie CUNNINGHAM, Alfred McMICHAEL, Richard KEITH - Danny BLANCHFLOWER [c],
+      Bertie PEACOCK, Jimmy McILROY - Billy BINGHAM, Wilbur CUSH, Peter McPARLAND,
+      Derek DOUGAN
+Czechoslovakia: Bretislav DOLEJSI - Gustav MRAZ, Ladislav NOVAK [c] - Jiri CADEK, Josef MASOPUST,
+      Svatopluk PLUSKAL, Jan HERTL - Milan DVORAK, Jaroslav BOROVICKA, Tadeas KRAUS,
+      Vaclav HOVORKA
+
+Refs: Fritz SEIPELT (AUT), Arthur ELLIS (ENG), Joaquim FERNANDES CAMPOS (POR)
+
+
+Wed Jun 11 19:00 UTC+2 @ Olympia Stadium, Helsingborg
+  West Germany v Czechoslovakia  2-2
+     (Hans SCHAEFER 59', Helmut RAHN 70';
+      Milan DVORAK 24'(p), Zdenek ZIKAN 43')
+
+West Germany: Fritz HERKENRATH - Herbert ERHARDT, Erich JUSKOWIAK, Georg STOLLENWERK,
+      Karl-Heinz SCHNELLINGER - Horst SZYMANIAK, Fritz WALTER - Helmut RAHN,
+      Hans SCHAEFER [c], Uwe SEELER, Berni KLODT
+Czechoslovakia: Bretislav DOLEJSI - Gustav MRAZ, Ladislav NOVAK [c], Jan POPLUHAR - Josef MASOPUST,
+      Svatopluk PLUSKAL - Milan DVORAK, Pavol MOLNAR, Zdenek ZIKAN, Vaclav HOVORKA,
+      Jiri FEUREISL
+
+Refs: Arthur ELLIS (ENG), Reginald LEAFE (ENG), Fritz SEIPELT (AUT)
+
+
+Wed Jun 11 19:00 UTC+2 @ Orjans Vall, Halmstad
+  Argentina v Northern Ireland  3-1
+     (Oreste Omar CORBATTA 38'(p), Norberto MENENDEZ 55', Ludovico AVIO 59';
+      Peter McPARLAND 3')
+
+Argentina: Amadeo CARRIZO - Federico VAIRO, Juan Francesco LOMBARDO - Pedro DELLACHA [c],
+      Nestor ROSSI, Jose VARACKA - Oreste Omar CORBATTA, Norberto MENENDEZ,
+      Angel LABRUNA, Norberto BOGGIO, Ludovico AVIO
+Northern Ireland: Harry GREGG - Willie CUNNINGHAM, Alfred McMICHAEL, Richard KEITH - Danny BLANCHFLOWER [c],
+      Bertie PEACOCK, Jimmy McILROY - Billy BINGHAM, Wilbur CUSH, Peter McPARLAND,
+      Fay COYLE
+
+Refs: Sten AHLNER (SWE), Joaquim FERNANDES CAMPOS (POR), Leo HELGE (DEN)
+
+
+Sun Jun 15 19:00 UTC+2 @ Olympia Stadium, Helsingborg
+  Czechoslovakia v Argentina  6-1
+     (Milan DVORAK 8', Zdenek ZIKAN 17', 40', Jiri FEUREISL 69', Vaclav HOVORKA 82', 89';
+      Oreste Omar CORBATTA 65'(p))
+
+Czechoslovakia: Bretislav DOLEJSI - Gustav MRAZ, Ladislav NOVAK [c], Jan POPLUHAR - Josef MASOPUST -
+      Milan DVORAK, Pavol MOLNAR, Jaroslav BOROVICKA, Zdenek ZIKAN, Vaclav HOVORKA,
+      Jiri FEUREISL
+Argentina: Amadeo CARRIZO - Federico VAIRO, Juan Francesco LOMBARDO - Pedro DELLACHA [c],
+      Nestor ROSSI, Jose VARACKA - Oreste Omar CORBATTA, Norberto MENENDEZ,
+      Angel LABRUNA, Ludovico AVIO, Osvaldo CRUZ
+
+Refs: Arthur ELLIS (ENG), Reginald LEAFE (ENG), Fritz SEIPELT (AUT)
+
+
+Sun Jun 15 19:00 UTC+2 @ Malmo Stadion, Malmö
+  West Germany v Northern Ireland  2-2
+     (Helmut RAHN 20', Uwe SEELER 79';
+      Peter McPARLAND 19', 60')
+
+West Germany: Fritz HERKENRATH - Herbert ERHARDT, Erich JUSKOWIAK, Georg STOLLENWERK -
+      Horst ECKEL, Horst SZYMANIAK, Fritz WALTER - Helmut RAHN, Hans SCHAEFER [c],
+      Uwe SEELER, Berni KLODT
+Northern Ireland: Harry GREGG - Willie CUNNINGHAM, Alfred McMICHAEL, Richard KEITH - Danny BLANCHFLOWER [c],
+      Bertie PEACOCK, Jimmy McILROY - Billy BINGHAM, Wilbur CUSH, Peter McPARLAND,
+      Tommy CASEY
+
+Refs: Joaquim FERNANDES CAMPOS (POR), Sten AHLNER (SWE), Leo HELGE (DEN)
+
+
+Tue Jun 17 19:00 UTC+2 @ Malmo Stadion, Malmö
+  Northern Ireland v Czechoslovakia  2-1 a.e.t.
+     (Peter McPARLAND 44', 99';
+      Zdenek ZIKAN 19')
+
+Northern Ireland: Norman UPRICHARD - Willie CUNNINGHAM, Alfred McMICHAEL, Richard KEITH -
+      Danny BLANCHFLOWER [c], Bertie PEACOCK, Jimmy McILROY - Billy BINGHAM,
+      Wilbur CUSH, Peter McPARLAND, Jackie SCOTT
+Czechoslovakia: Bretislav DOLEJSI - Gustav MRAZ, Ladislav NOVAK [c], Jan POPLUHAR, Titus BUBERNIK [R 102'] -
+      Josef MASOPUST - Milan DVORAK, Pavol MOLNAR, Jaroslav BOROVICKA, Zdenek ZIKAN,
+      Jiri FEUREISL
+
+Refs: Maurice GUIGUE (FRA), Joaquim FERNANDES CAMPOS (POR), Sten AHLNER (SWE)
+
+
+▪▪ Group 2
+Sun Jun 8 19:00 UTC+2 @ Idrottsparken, Norrköping
+  France v Paraguay  7-3
+     (Just FONTAINE 24', 30', 67', Roger PIANTONI 52', Maryan WISNIEWSKI 61', Raymond KOPA 70', Jean VINCENT 83';
+      Florencio AMARILLA 20', 44'(p), Jorge ROMERO 50')
+
+France: Francois REMETTER - Raymond KAELBEL, Andre LEROND - Robert JONQUET [c],
+      Jean-Jacques MARCEL, Armand PENVERNE - Just FONTAINE, Raymond KOPA, Roger PIANTONI,
+      Jean VINCENT, Maryan WISNIEWSKI
+Paraguay: Ramon MAYEREGGER - Edelmiro AREVALO, Juan Vicente LEZCANO, Ignacio ACHUCARRO,
+      Agustin MIRANDA - Salvador VILLALBA - Juan AGUERO [c], Jose PARODI, Jorge ROMERO,
+      Florencio AMARILLA, Cayetano RE
+
+Refs: Juan GARDEAZABAL (ESP), Benjamin GRIFFITHS (WAL), Juan BROZZI (ARG)
+
+
+Sun Jun 8 19:00 UTC+2 @ Arosvallen, Västerås
+  Yugoslavia v Scotland  1-1
+     (Aleksandar PETAKOVIC 6'; Jimmy MURRAY 49')
+
+Yugoslavia: Vladimir BEARA - Vasilije SIJAKOVIC, Tomislav CRNKOVIC - Branko ZEBEC [c],
+      Dobrosav KRSTIC, Vujadin BOSKOV, Dragoslav SEKULARAC - Milos MILUTINOVIC,
+      Aleksandar PETAKOVIC, Toza VESELINOVIC, Zdravko RAJKOV
+Scotland: Tommy YOUNGER [c] - Eric CALDOW, John HEWIE, Bobby EVANS - Doug COWIE -
+      Eddie TURNBULL, Graham LEGGAT, Jimmy MURRAY, Jackie MUDIE, Bobby COLLINS,
+      Stuart IMLACH
+
+Refs: Paul WYSSLING (SUI), Vincenzo ORLANDINI (ITA), Martin MACKO (TCH)
+
+
+Wed Jun 11 19:00 UTC+2 @ Arosvallen, Västerås
+  Yugoslavia v France  3-2
+     (Aleksandar PETAKOVIC 16', Toza VESELINOVIC 63', 88';
+      Just FONTAINE 4', 85')
+
+Yugoslavia: Vladimir BEARA - Tomislav CRNKOVIC, Novak TOMIC - Branko ZEBEC [c], Dobrosav KRSTIC,
+      Vujadin BOSKOV, Dragoslav SEKULARAC - Milos MILUTINOVIC, Aleksandar PETAKOVIC,
+      Toza VESELINOVIC, Zdravko RAJKOV
+France: Francois REMETTER - Raymond KAELBEL, Andre LEROND, Roger MARCHE [c] -
+      Robert JONQUET, Armand PENVERNE - Just FONTAINE, Raymond KOPA, Roger PIANTONI,
+      Jean VINCENT, Maryan WISNIEWSKI
+
+Refs: Benjamin GRIFFITHS (WAL), Paul WYSSLING (SUI), Georg DRAGVOLL (NOR)
+
+
+Wed Jun 11 19:00 UTC+2 @ Idrottsparken, Norrköping
+  Paraguay v Scotland  3-2
+     (Juan AGUERO 4', Cayetano RE 45', Jose PARODI 73';
+      Jackie MUDIE 24', Bobby COLLINS 76')
+
+Paraguay: Samuel AGUILAR - Edelmiro AREVALO, Juan Vicente LEZCANO, Ignacio ACHUCARRO,
+      Eligio ECHAGUE - Salvador VILLALBA - Juan AGUERO [c], Jose PARODI, Jorge ROMERO,
+      Florencio AMARILLA, Cayetano RE
+Scotland: Tommy YOUNGER [c] - Alex PARKER, Eric CALDOW, Bobby EVANS - Doug COWIE -
+      Eddie TURNBULL, Graham LEGGAT, Jackie MUDIE, Bobby COLLINS, Archie ROBERTSON,
+      Willie FERNIE
+
+Refs: Vincenzo ORLANDINI (ITA), Juan GARDEAZABAL (ESP), Bengt ANDREN (SWE)
+
+
+Sun Jun 15 19:00 UTC+2 @ Tunavallen, Eskilstuna
+  Paraguay v Yugoslavia  3-3
+     (Jose PARODI 20', Juan AGUERO 49', Jorge ROMERO 80';
+      Radivoje OGNJANOVIC 12', Toza VESELINOVIC 29', Zdravko RAJKOV 73')
+
+Paraguay: Samuel AGUILAR - Edelmiro AREVALO, Juan Vicente LEZCANO, Ignacio ACHUCARRO,
+      Eligio ECHAGUE - Salvador VILLALBA - Juan AGUERO [c], Jose PARODI, Jorge ROMERO,
+      Florencio AMARILLA, Cayetano RE
+Yugoslavia: Vladimir BEARA - Tomislav CRNKOVIC, Novak TOMIC - Branko ZEBEC [c], Dobrosav KRSTIC,
+      Vujadin BOSKOV, Dragoslav SEKULARAC - Aleksandar PETAKOVIC, Toza VESELINOVIC,
+      Zdravko RAJKOV, Radivoje OGNJANOVIC
+
+Refs: Martin MACKO (TCH), Benjamin GRIFFITHS (WAL), Juan GARDEAZABAL (ESP)
+
+
+Sun Jun 15 19:00 UTC+2 @ Eyravallen, Örebro
+  France v Scotland  2-1
+     (Raymond KOPA 22', Just FONTAINE 44';
+      Sammy BAIRD 66')
+
+France: Claude ABBES - Raymond KAELBEL, Andre LEROND - Robert JONQUET [c], Jean-Jacques MARCEL,
+      Armand PENVERNE - Just FONTAINE, Raymond KOPA, Roger PIANTONI, Jean VINCENT,
+      Maryan WISNIEWSKI
+Scotland: Bill BROWN - Eric CALDOW, John HEWIE, Bobby EVANS [c] - Dave MACKAY,
+      Sammy BAIRD - Eddie TURNBULL, Jimmy MURRAY, Jackie MUDIE, Bobby COLLINS,
+      Stuart IMLACH
+
+Refs: Juan BROZZI (ARG), Vincenzo ORLANDINI (ITA), Paul WYSSLING (SUI)
+
+
+▪▪ Group 3
+Sun Jun 8 14:00 UTC+2 @ Rasunda Stadium, Solna
+  Sweden v Mexico  3-0
+     (Agne SIMONSSON 17', 64', Nils LIEDHOLM 57'(p))
+
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Nils LIEDHOLM [c], Sigge PARLING,
+      Gunnar GREN, Bengt GUSTAVSSON - Kurt HAMRIN, Agne SIMONSSON, Lennart SKOGLUND,
+      Bror MELLBERG
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Jorge ROMO, Jose VILLEGAS - Alfonso PORTUGAL,
+      Francisco FLORES, Alfredo HERNANDEZ - Salvador REYES, Carlos CALDERON DE LA BARCA,
+      Crescencio GUTIERREZ, Enrique SESMA
+
+Refs: Nikolaj LATYCHEV (URS), Jack MOWAT (SCO), Arne ERIKSSON (FIN)
+
+
+Sun Jun 8 19:00 UTC+2 @ Jarnvallen, Sandviken
+  Hungary v Wales  1-1
+     (Jozsef BOZSIK 5'; John CHARLES 27')
+
+Hungary: Gyula GROSICS - Sandor MATRAI, Ferenc SIPOS, Laszlo SAROSI - Jozsef BOZSIK,
+      Pal BERENDY - Lajos TICHY, Nandor HIDEGKUTI [c], Dezso BUNDZSAK, Karoly SANDOR,
+      Mate FENYVESI
+Wales: Jack KELSEY - Stuart WILLIAMS, Mel HOPKINS, Derek SULLIVAN - Mel CHARLES,
+      David BOWEN [c] - Terry MEDWIN, John CHARLES, Ivor ALLCHURCH, Cliff JONES,
+      Colin WEBSTER
+
+Refs: Jose Maria CODESAL (URU), Leo LEMESIC (YUG), Lucien VAN NUFFEL (BEL)
+
+
+Wed Jun 11 19:00 UTC+2 @ Rasunda Stadium, Solna
+  Mexico v Wales  1-1
+     (Jaime BELMONTE 89'; Ivor ALLCHURCH 32')
+
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Jorge ROMO, Miguel GUTIERREZ -
+      Francisco FLORES, Raul CARDENAS, Carlos BLANCO - Salvador REYES, Enrique SESMA,
+      Jaime BELMONTE, Carlos GONZALEZ
+Wales: Jack KELSEY - Stuart WILLIAMS, Mel HOPKINS - Mel CHARLES, David BOWEN [c],
+      Colin BAKER - Terry MEDWIN, John CHARLES, Ivor ALLCHURCH, Cliff JONES,
+      Colin WEBSTER
+
+Refs: Leo LEMESIC (YUG), Nikolaj LATYCHEV (URS), Jose Maria CODESAL (URU)
+
+
+Thu Jun 12 19:00 UTC+2 @ Rasunda Stadium, Solna
+  Sweden v Hungary  2-1
+     (Kurt HAMRIN 34', 55';
+      Lajos TICHY 77')
+
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Nils LIEDHOLM [c], Sigge PARLING,
+      Gunnar GREN, Bengt GUSTAVSSON - Kurt HAMRIN, Agne SIMONSSON, Lennart SKOGLUND,
+      Bror MELLBERG
+Hungary: Gyula GROSICS - Sandor MATRAI, Ferenc SIPOS, Laszlo SAROSI, Ferenc SZOJKA -
+      Jozsef BOZSIK [c], Pal BERENDY - Lajos TICHY, Dezso BUNDZSAK, Karoly SANDOR,
+      Mate FENYVESI
+
+Refs: Jack MOWAT (SCO), Lucien VAN NUFFEL (BEL), Georg DRAGVOLL (NOR)
+
+
+Sun Jun 15 14:00 UTC+2 @ Rasunda Stadium, Solna
+  Sweden v Wales  0-0
+
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Sigge PARLING, Bengt GUSTAVSSON [c],
+      Reino BORJESSON - Arne SELMOSSON, Lennart SKOGLUND, Gosta LOFGREN, Henry KALLGREN,
+      Bengt BERNDTSSON
+Wales: Jack KELSEY - Stuart WILLIAMS, Mel HOPKINS, Derek SULLIVAN - Mel CHARLES,
+      David BOWEN [c] - Ron HEWITT, John CHARLES, Ivor ALLCHURCH, Cliff JONES,
+      Roy VERNON
+
+Refs: Lucien VAN NUFFEL (BEL), Leo LEMESIC (YUG), Nikolaj LATYCHEV (URS)
+
+
+Sun Jun 15 19:00 UTC+2 @ Jarnvallen, Sandviken
+  Hungary v Mexico  4-0
+     (Lajos TICHY 19', 46', Karoly SANDOR 54', Jozsef BENCSIS 69')
+
+Hungary: Istvan ILKU - Sandor MATRAI, Ferenc SIPOS, Laszlo SAROSI, Ferenc SZOJKA -
+      Antal KOTASZ - Laszlo BUDAI, Lajos TICHY, Nandor HIDEGKUTI [c], Karoly SANDOR,
+      Jozsef BENCSIS
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Miguel GUTIERREZ, Guillermo SEPULVEDA -
+      Francisco FLORES, Raul CARDENAS, Carlos BLANCO - Salvador REYES, Enrique SESMA,
+      Jaime BELMONTE, Carlos GONZALEZ
+
+Refs: Arne ERIKSSON (FIN), Jose Maria CODESAL (URU), Jack MOWAT (SCO)
+
+
+Tue Jun 17 19:00 UTC+2 @ Rasunda Stadium, Solna
+  Wales v Hungary  2-1
+     (Ivor ALLCHURCH 55', Terry MEDWIN 76';
+      Lajos TICHY 33')
+
+Wales: Jack KELSEY - Stuart WILLIAMS, Mel HOPKINS, Derek SULLIVAN - Mel CHARLES,
+      David BOWEN [c] - Terry MEDWIN, Ron HEWITT, John CHARLES, Ivor ALLCHURCH,
+      Cliff JONES
+Hungary: Gyula GROSICS - Sandor MATRAI, Ferenc SIPOS [R 79'], Laszlo SAROSI -
+      Jozsef BOZSIK [c], Antal KOTASZ - Laszlo BUDAI, Lajos TICHY, Dezso BUNDZSAK,
+      Jozsef BENCSIS, Mate FENYVESI
+
+Refs: Nikolaj LATYCHEV (URS), Jose Maria CODESAL (URU), Arne ERIKSSON (FIN)
+
+
+▪▪ Group 4
+Sun Jun 8 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Soviet Union v England  2-2
+     (Nikita SIMONYAN 13', Aleksandr IVANOV 55';
+      Derek KEVAN 66', Tom FINNEY 85'(p))
+
+Soviet Union: Lev YASHIN - Vladimir KESAREV, Konstantin KRIZHEVSKI, Boris KUZNETSOV -
+      Juri VOINOV, Viktor TSARYOV - Valentin IVANOV, Nikita SIMONYAN [c], Sergei SALNIKOV,
+      Anatoli ILYIN, Aleksandr IVANOV
+England: Colin MC DONALD - Don HOWE, Tommy BANKS, Eddie CLAMP, Billy WRIGHT [c] -
+      Bill SLATER - Bryan DOUGLAS, Bobby ROBSON, Derek KEVAN, John HAYNES,
+      Tom FINNEY
+
+Refs: Istvan ZSOLT (HUN), Birger NILSEN (NOR), Carl Frederik JORGENSEN (DEN)
+
+
+Sun Jun 8 19:00 UTC+2 @ Rimnersvallen, Uddevalla
+  Brazil v Austria  3-0
+     (Jose ALTAFINI 38', 89', NILTON SANTOS 49')
+
+Brazil: GILMAR - BELLINI [c], NILTON SANTOS, DE SORDI, ORLANDO - DINO SANI, DIDI -
+      Mario ZAGALLO, JOEL, Jose ALTAFINI, DIDA
+Austria: Rudolf SZANWALD - Paul HALLA, Ernst HAPPEL, Franz SWOBODA, Gerhard HANAPPI [c] -
+      Karl KOLLER - Walter HORAK, Hans BUZEK, Alfred KOERNER, Helmut SENEKOWITSCH,
+      Walter SCHLEGER
+
+Refs: Maurice GUIGUE (FRA), Albert DUSCH (GER), Jan BRONKHORST (NED)
+
+
+Wed Jun 11 19:00 UTC+2 @ Ryavallen, Borås
+  Soviet Union v Austria  2-0
+     (Anatoli ILYIN 15', Valentin IVANOV 63')
+
+Soviet Union: Lev YASHIN - Vladimir KESAREV, Konstantin KRIZHEVSKI, Boris KUZNETSOV -
+      Juri VOINOV, Viktor TSARYOV - Valentin IVANOV, Nikita SIMONYAN [c], Sergei SALNIKOV,
+      Anatoli ILYIN, Aleksandr IVANOV
+Austria: Kurt SCHMIED - Franz SWOBODA, Gerhard HANAPPI [c] - Karl KOLLER, Karl STOTZ,
+      Ernst KOZLICEK - Walter HORAK, Paul KOZLICEK, Hans BUZEK, Alfred KOERNER,
+      Helmut SENEKOWITSCH
+
+Refs: Carl Frederik JORGENSEN (DEN), Birger NILSEN (NOR), Gosta ACKEBORN (SWE)
+
+
+Wed Jun 11 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Brazil v England  0-0
+
+Brazil: GILMAR - BELLINI [c], NILTON SANTOS, DE SORDI, ORLANDO - DINO SANI, DIDI -
+      Mario ZAGALLO, JOEL, Jose ALTAFINI, VAVA
+England: Colin MC DONALD - Don HOWE, Tommy BANKS, Eddie CLAMP, Billy WRIGHT [c] -
+      Bill SLATER - Bryan DOUGLAS, Bobby ROBSON, Derek KEVAN, John HAYNES,
+      Alan A COURT
+
+Refs: Albert DUSCH (GER), Bertil LOEOEW (SWE), Istvan ZSOLT (HUN)
+
+
+Sun Jun 15 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Brazil v Soviet Union  2-0
+     (VAVA 3', 77')
+
+Brazil: GILMAR - BELLINI [c], NILTON SANTOS, DE SORDI, ORLANDO - DIDI, ZITO -
+      Mario ZAGALLO, PELE, GARRINCHA, VAVA
+Soviet Union: Lev YASHIN - Vladimir KESAREV, Konstantin KRIZHEVSKI, Boris KUZNETSOV -
+      Juri VOINOV, Igor NETTO [c], Viktor TSARYOV - Valentin IVANOV, Nikita SIMONYAN,
+      Anatoli ILYIN, Aleksandr IVANOV
+
+Refs: Maurice GUIGUE (FRA), Birger NILSEN (NOR), Carl Frederik JORGENSEN (DEN)
+
+
+Sun Jun 15 19:00 UTC+2 @ Ryavallen, Borås
+  England v Austria  2-2
+     (John HAYNES 56', Derek KEVAN 73';
+      Karl KOLLER 16', Alfred KOERNER 70')
+
+England: Colin MC DONALD - Don HOWE, Tommy BANKS, Eddie CLAMP, Billy WRIGHT [c] -
+      Bill SLATER - Bryan DOUGLAS, Bobby ROBSON, Derek KEVAN, John HAYNES,
+      Alan A COURT
+Austria: Rudolf SZANWALD - Ernst HAPPEL, Franz SWOBODA, Gerhard HANAPPI [c], Walter KOLLMANN -
+      Karl KOLLER, Ernst KOZLICEK - Paul KOZLICEK, Hans BUZEK, Alfred KOERNER,
+      Helmut SENEKOWITSCH
+
+Refs: Jan BRONKHORST (NED), Albert DUSCH (GER), Istvan ZSOLT (HUN)
+
+
+Tue Jun 17 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Soviet Union v England  1-0
+     (Anatoli ILYIN 68')
+
+Soviet Union: Lev YASHIN - Vladimir KESAREV, Konstantin KRIZHEVSKI, Boris KUZNETSOV -
+      Juri VOINOV, Viktor TSARYOV - German APUKTHIN, Valentin IVANOV, Nikita SIMONYAN [c],
+      Anatoli ILYIN, Yuri FALIN
+England: Colin MC DONALD - Don HOWE, Tommy BANKS, Billy WRIGHT [c] - Bill SLATER,
+      Ronald CLAYTON - Derek KEVAN, John HAYNES, Peter BRABROOK, Peter BROADBENT,
+      Alan A COURT
+
+Refs: Albert DUSCH (GER), Jan BRONKHORST (NED), Fritz SEIPELT (AUT)
+
+
+▪ Quarter-final
+Thu Jun 19 19:00 UTC+2 @ Malmo Stadion, Malmö
+  West Germany v Yugoslavia  1-0
+     (Helmut RAHN 12')
+
+West Germany: Fritz HERKENRATH - Herbert ERHARDT, Erich JUSKOWIAK, Georg STOLLENWERK -
+      Horst ECKEL, Horst SZYMANIAK, Fritz WALTER, Alfred SCHMIDT - Helmut RAHN,
+      Hans SCHAEFER [c], Uwe SEELER
+Yugoslavia: Srboljub KRIVOKUCA - Vasilije SIJAKOVIC, Tomislav CRNKOVIC - Branko ZEBEC [c],
+      Dobrosav KRSTIC, Vujadin BOSKOV - Milos MILUTINOVIC, Aleksandar PETAKOVIC,
+      Toza VESELINOVIC, Zdravko RAJKOV, Radivoje OGNJANOVIC
+
+Refs: Paul WYSSLING (SUI), Joaquim FERNANDES CAMPOS (POR), Leo HELGE (DEN)
+
+
+Thu Jun 19 19:00 UTC+2 @ Rasunda Stadium, Solna
+  Sweden v Soviet Union  2-0
+     (Kurt HAMRIN 49', Agne SIMONSSON 88')
+
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Nils LIEDHOLM [c], Sigge PARLING,
+      Gunnar GREN, Bengt GUSTAVSSON, Reino BORJESSON - Kurt HAMRIN, Agne SIMONSSON,
+      Lennart SKOGLUND
+Soviet Union: Lev YASHIN - Vladimir KESAREV, Konstantin KRIZHEVSKI, Boris KUZNETSOV -
+      Juri VOINOV, Viktor TSARYOV - Valentin IVANOV, Nikita SIMONYAN [c], Sergei SALNIKOV,
+      Anatoli ILYIN, Aleksandr IVANOV
+
+Refs: Reginald LEAFE (ENG), Juan BROZZI (ARG), Georg DRAGVOLL (NOR)
+
+
+Thu Jun 19 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Brazil v Wales  1-0
+     (PELE 66')
+
+Brazil: GILMAR - BELLINI [c], NILTON SANTOS, DE SORDI, ORLANDO - DIDI, ZITO -
+      Mario ZAGALLO, PELE, GARRINCHA, Jose ALTAFINI
+Wales: Jack KELSEY - Stuart WILLIAMS, Mel HOPKINS, Derek SULLIVAN - Mel CHARLES,
+      David BOWEN [c] - Terry MEDWIN, Ron HEWITT, Ivor ALLCHURCH, Cliff JONES,
+      Colin WEBSTER
+
+Refs: Fritz SEIPELT (AUT), Maurice GUIGUE (FRA), Albert DUSCH (GER)
+
+
+Thu Jun 19 19:00 UTC+2 @ Idrottsparken, Norrköping
+  France v Northern Ireland  4-0
+     (Maryan WISNIEWSKI 44', Just FONTAINE 55', 63', Roger PIANTONI 68')
+
+France: Claude ABBES - Raymond KAELBEL, Andre LEROND - Robert JONQUET [c], Jean-Jacques MARCEL,
+      Armand PENVERNE - Just FONTAINE, Raymond KOPA, Roger PIANTONI, Jean VINCENT,
+      Maryan WISNIEWSKI
+Northern Ireland: Harry GREGG - Willie CUNNINGHAM, Alfred McMICHAEL, Richard KEITH - Danny BLANCHFLOWER [c],
+      Jimmy McILROY - Billy BINGHAM, Wilbur CUSH, Peter McPARLAND, Tommy CASEY,
+      Jackie SCOTT
+
+Refs: Juan GARDEAZABAL (ESP), Nikolaj LATYCHEV (URS), Bengt ANDREN (SWE)
+
+
+▪ Semi-final
+Tue Jun 24 19:00 UTC+2 @ Rasunda Stadium, Solna
+  Brazil v France  5-2
+     (VAVA 2', DIDI 39', PELE 52', 64', 75';
+      Just FONTAINE 9', Roger PIANTONI 83')
+
+Brazil: GILMAR - BELLINI [c], NILTON SANTOS, DE SORDI, ORLANDO - DIDI, ZITO -
+      Mario ZAGALLO, PELE, GARRINCHA, VAVA
+France: Claude ABBES - Raymond KAELBEL, Andre LEROND - Robert JONQUET [c], Jean-Jacques MARCEL,
+      Armand PENVERNE - Just FONTAINE, Raymond KOPA, Roger PIANTONI, Jean VINCENT,
+      Maryan WISNIEWSKI
+
+Refs: Benjamin GRIFFITHS (WAL), Paul WYSSLING (SUI), Reginald LEAFE (ENG)
+
+
+Tue Jun 24 19:00 UTC+2 @ Nya Ullevi, Gothenburg
+  Sweden v West Germany  3-1
+     (Lennart SKOGLUND 32', Gunnar GREN 81', Kurt HAMRIN 88';
+      Hans SCHAEFER 24')
+
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Nils LIEDHOLM [c], Sigge PARLING,
+      Gunnar GREN, Bengt GUSTAVSSON, Reino BORJESSON - Kurt HAMRIN, Agne SIMONSSON,
+      Lennart SKOGLUND
+West Germany: Fritz HERKENRATH - Herbert ERHARDT, Erich JUSKOWIAK [R 59'], Georg STOLLENWERK -
+      Horst ECKEL, Horst SZYMANIAK, Fritz WALTER - Helmut RAHN, Hans SCHAEFER [c],
+      Uwe SEELER, Hans CIESCLARCZYK
+
+Refs: Istvan ZSOLT (HUN), Fritz SEIPELT (AUT), Arthur ELLIS (ENG)
+
+
+▪ Match for third place
+Sat Jun 28 17:00 UTC+2 @ Nya Ullevi, Gothenburg
+  France v West Germany  6-3
+     (Just FONTAINE 16', 36', 78', 89', Raymond KOPA 27'(p), Yvon DOUIS 50';
+      Hans CIESCLARCZYK 18', Helmut RAHN 52', Hans SCHAEFER 84')
+
+France: Claude ABBES - Raymond KAELBEL, Andre LEROND - Maurice LAFONT, Jean-Jacques MARCEL,
+      Armand PENVERNE [c] - Yvon DOUIS, Just FONTAINE, Raymond KOPA, Jean VINCENT,
+      Maryan WISNIEWSKI
+West Germany: Heinz KWIATKOWSKI - Herbert ERHARDT, Heinz WEWERS, Georg STOLLENWERK,
+      Karl-Heinz SCHNELLINGER - Horst SZYMANIAK - Helmut RAHN, Hans SCHAEFER [c],
+      Hans CIESCLARCZYK, Alfred KELBASSA, Hans STURM
+
+Refs: Juan BROZZI (ARG), Arthur ELLIS (ENG), Bengt LUNDELL (SWE)
+
+
+▪ Final
+Sun Jun 29 15:00 UTC+2 @ Rasunda Stadium, Solna
+  Brazil v Sweden  5-2
+     (VAVA 9', 32', PELE 55', 90', Mario ZAGALLO 68';
+      Nils LIEDHOLM 4', Agne SIMONSSON 80')
+
+Brazil: GILMAR - BELLINI [c], DJALMA SANTOS, NILTON SANTOS, ORLANDO - DIDI, ZITO -
+      Mario ZAGALLO, PELE, GARRINCHA, VAVA
+Sweden: Kalle SVENSSON - Orvar BERGMARK, Sven AXBOM - Nils LIEDHOLM [c], Sigge PARLING,
+      Gunnar GREN, Bengt GUSTAVSSON, Reino BORJESSON - Kurt HAMRIN, Agne SIMONSSON,
+      Lennart SKOGLUND
+
+Refs: Maurice GUIGUE (FRA), Albert DUSCH (GER), Juan GARDEAZABAL (ESP)
+
+

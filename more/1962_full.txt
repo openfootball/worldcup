@@ -1,0 +1,471 @@
+= World Cup 1962
+
+# Dates    Wed May 30 - Sun Jun 17 1962 (18d)
+# Teams    16
+# Matches  32
+# Venues   4 (in 4 cities)
+#   Carlos Dittborn, Arica (CHI)
+#   Estadio Braden Copper Co., Rancagua (CHI)
+#   Estadio Nacional Julio Martínez Prádanos, Santiago (CHI)
+#   Estadio Sausalito, Viña del Mar (CHI)
+
+▪ Group Matches
+▪▪ Group 1
+Wed May 30 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Uruguay v Colombia  2-1
+     (Luis CUBILLA 56', Jose SASIA 75';
+      Francisco ZULUAGA 19'(p))
+
+Uruguay: Roberto Eduardo SOSA - Horacio TROCHE [c], Emilio ALVAREZ, Mario MENDEZ,
+      Nestor GONCALVES, Eliseo ALVAREZ - Pedro ROCHA - Domingo PEREZ, Jose SASIA,
+      Luis CUBILLA, Ronald LANGON
+Colombia: Efrain SANCHEZ - Francisco ZULUAGA [c], Jaime GONZALEZ, Hector ECHEVERRI,
+      Oscar LOPEZ - Jaime SILVA, Marcos COLL - German ACEROS, Marino KLINGER,
+      Delio GAMBOA, Jairo ARIAS
+
+Refs: Andor DOROGI (HUN), Joao ETZEL FILHO (BRA), Karol GALBA (TCH)
+
+
+Thu May 31 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Soviet Union v Yugoslavia  2-0
+     (Valentin IVANOV 51', Viktor PONEDELNIK 83')
+
+Soviet Union: Lev YASHIN - Eduard DUBINSKI, Leonid OSTROVSKI, Anatoli MASLYONKIN -
+      Igor NETTO [c], Valeri VORONIN - Valentin IVANOV, Viktor KANEVSKI, Mikhail MESKHI,
+      Slava METREVELI, Viktor PONEDELNIK
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Fahrudin JUSUFI, Vlatko MARKOVIC -
+      Vladica POPOVIC, Dragoslav SEKULARAC, Zeljko MATUS, Muhamed MUJIC - Drazen JERKOVIC,
+      Milan GALIC [c], Josip SKOBLAR
+
+Refs: Albert DUSCH (GER), Joao ETZEL FILHO (BRA), Carlos ROBLES (CHI)
+
+
+Sat Jun 2 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Yugoslavia v Uruguay  3-1
+     (Josip SKOBLAR 25'(p), Milan GALIC 29', Drazen JERKOVIC 49';
+      Angel Ruben CABRERA 19')
+
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Fahrudin JUSUFI, Vlatko MARKOVIC -
+      Petar RADAKOVIC, Vladica POPOVIC [R 71'], Dragoslav SEKULARAC - Drazen JERKOVIC,
+      Milan GALIC [c], Josip SKOBLAR, Vojislav MELIC
+Uruguay: Roberto Eduardo SOSA - Horacio TROCHE [c], Emilio ALVAREZ, Mario MENDEZ,
+      Nestor GONCALVES, Eliseo ALVAREZ - Pedro ROCHA, Angel Ruben CABRERA [R 71'] -
+      Domingo PEREZ, Jose SASIA, Mario BERGARA
+
+Refs: Karol GALBA (TCH), Albert DUSCH (GER), Cesare JONNI (ITA)
+
+
+Sun Jun 3 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Soviet Union v Colombia  4-4
+     (Valentin IVANOV 8', 11', Igor CHISLENKO 10', Viktor PONEDELNIK 56';
+      German ACEROS 21', Marcos COLL 68', Antonio RADA 72', Marino KLINGER 76')
+
+Soviet Union: Lev YASHIN - Georgi CHOKHELI, Leonid OSTROVSKI, Anatoli MASLYONKIN -
+      Igor NETTO [c], Valeri VORONIN - Valentin IVANOV, Viktor KANEVSKI, Mikhail MESKHI,
+      Viktor PONEDELNIK, Igor CHISLENKO
+Colombia: Efrain SANCHEZ [c] - Anibal ALZATE, Jaime GONZALEZ, Hector ECHEVERRI,
+      Oscar LOPEZ - Rolando SERRANO, Marcos COLL - German ACEROS, Marino KLINGER,
+      Antonio RADA, Hector GONZALEZ
+
+Refs: Joao ETZEL FILHO (BRA), Andor DOROGI (HUN), Carlos ROBLES (CHI)
+
+
+Wed Jun 6 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Soviet Union v Uruguay  2-1
+     (Aleksei MAMYKIN 38', Valentin IVANOV 89';
+      Jose SASIA 54')
+
+Soviet Union: Lev YASHIN - Georgi CHOKHELI, Leonid OSTROVSKI, Anatoli MASLYONKIN -
+      Igor NETTO [c], Valeri VORONIN - Valentin IVANOV, Aleksei MAMYKIN, Viktor PONEDELNIK,
+      Galimzyan KHUSAINOV, Igor CHISLENKO
+Uruguay: Roberto Eduardo SOSA - Horacio TROCHE [c], Emilio ALVAREZ, Mario MENDEZ,
+      Nestor GONCALVES, Eliseo ALVAREZ - Julio CORTES, Angel Ruben CABRERA -
+      Domingo PEREZ, Jose SASIA, Luis CUBILLA
+
+Refs: Cesare JONNI (ITA), Andor DOROGI (HUN), Albert DUSCH (GER)
+
+
+Thu Jun 7 15:00 UTC-4 @ Carlos Dittborn, Arica
+  Yugoslavia v Colombia  5-0
+     (Milan GALIC 20', 61', Drazen JERKOVIC 25', 87', Vojislav MELIC 82')
+
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Fahrudin JUSUFI, Vlatko MARKOVIC -
+      Petar RADAKOVIC, Vladica POPOVIC, Andrija ANKOVIC, Dragoslav SEKULARAC -
+      Drazen JERKOVIC, Milan GALIC [c], Vojislav MELIC
+Colombia: Efrain SANCHEZ [c] - Anibal ALZATE, Jaime GONZALEZ, Hector ECHEVERRI,
+      Oscar LOPEZ - Rolando SERRANO, Marcos COLL - German ACEROS, Marino KLINGER,
+      Antonio RADA, Hector GONZALEZ
+
+Refs: Carlos ROBLES (CHI), Cesare JONNI (ITA), Karol GALBA (TCH)
+
+
+▪▪ Group 2
+Wed May 30 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Chile v Switzerland  3-1
+     (Leonel SANCHEZ 44', 55', Jaime RAMIREZ 51';
+      Rolf WUETHRICH 6')
+
+Chile: Misael ESCUTI - Luis EYZAGUIRRE, Raul SANCHEZ, Sergio NAVARRO [c], Carlos CONTRERAS -
+      Eladio ROJAS, Jorge TORO, Alberto FOUILLOUX - Jaime RAMIREZ, Honorino LANDA,
+      Leonel SANCHEZ
+Switzerland: Charly ELSENER - Fritz MORF, Heinz SCHNEITER, Ely TACCHELLA, Andre GROBETY -
+      Hans WEBER, Rolf WUETHRICH - Toni ALLEMANN, Kiki ANTENEN [c], Norbert ESCHMANN,
+      Philippe POTTIER
+
+Refs: Ken ASTON (ENG), Arthur BLAVIER (BEL), Arturo YAMASAKI MALDONADO (MEX)
+
+
+Thu May 31 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  West Germany v Italy  0-0
+
+West Germany: Wolfgang FAHRIAN - Herbert ERHARDT, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Hans NOWAK - Horst SZYMANIAK, Helmut HALLER, Albert BRUELLS, Hans STURM -
+      Uwe SEELER, Hans SCHAEFER [c]
+Italy: Lorenzo BUFFON [c] - Giacomo LOSI, Sandro SALVADORE, Cesare MALDINI,
+      Enzo ROBOTTI - Luigi RADICE, Giorgio FERRINI - Jose ALTAFINI, Omar SIVORI,
+      Giampaolo MENICHELLI, Gianni RIVERA
+
+Refs: Bob DAVIDSON (SCO), Raymond MORGAN (CAN)
+
+
+Sat Jun 2 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Chile v Italy  2-0
+     (Jaime RAMIREZ 73', Jorge TORO 87')
+
+Chile: Misael ESCUTI - Luis EYZAGUIRRE, Raul SANCHEZ, Sergio NAVARRO [c], Carlos CONTRERAS -
+      Eladio ROJAS, Jorge TORO, Alberto FOUILLOUX - Jaime RAMIREZ, Honorino LANDA,
+      Leonel SANCHEZ
+Italy: Carlo MATTREL - Sandro SALVADORE, Enzo ROBOTTI, Mario DAVID [R 41'],
+      Francesco JANICH - Paride TUMBURUS, Giorgio FERRINI [R 8'] - Bruno MORA [c],
+      Humberto MASCHIO, Jose ALTAFINI, Giampaolo MENICHELLI
+
+Refs: Ken ASTON (ENG), Leo GOLDSTEIN (USA), Fernando BUERGO (MEX)
+
+
+Sun Jun 3 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  West Germany v Switzerland  2-1
+     (Albert BRUELLS 45', Uwe SEELER 59';
+      Heinz SCHNEITER 73')
+
+West Germany: Wolfgang FAHRIAN - Herbert ERHARDT, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Hans NOWAK - Horst SZYMANIAK, Helmut HALLER, Albert BRUELLS - Willi KOSLOWSKI,
+      Uwe SEELER, Hans SCHAEFER [c]
+Switzerland: Charly ELSENER - Heinz SCHNEITER, Ely TACCHELLA, Andre GROBETY - Hans WEBER,
+      Richard DUERR, Rolf WUETHRICH - Toni ALLEMANN, Kiki ANTENEN [c], Norbert ESCHMANN,
+      Roger VONLANTHEN
+
+Refs: Leo HORN (NED), Nikolaj LATYCHEV (URS)
+
+
+Wed Jun 6 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  West Germany v Chile  2-0
+     (Horst SZYMANIAK 21'(p), Uwe SEELER 82')
+
+West Germany: Wolfgang FAHRIAN - Herbert ERHARDT, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Hans NOWAK - Horst SZYMANIAK, Albert BRUELLS, Willy GIESEMANN - Uwe SEELER,
+      Hans SCHAEFER [c], Engelbert KRAUS
+Chile: Misael ESCUTI - Luis EYZAGUIRRE, Raul SANCHEZ, Sergio NAVARRO [c], Carlos CONTRERAS -
+      Eladio ROJAS - Jaime RAMIREZ, Honorino LANDA, Leonel SANCHEZ, Mario MORENO,
+      Armando TOBAR
+
+Refs: Bob DAVIDSON (SCO), Ken ASTON (ENG), Leo HORN (NED)
+
+
+Thu Jun 7 15:00 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Italy v Switzerland  3-0
+     (Bruno MORA 2', Giacomo BULGARELLI 65', 67')
+
+Italy: Lorenzo BUFFON [c] - Giacomo LOSI, Sandro SALVADORE, Cesare MALDINI,
+      Enzo ROBOTTI - Luigi RADICE - Bruno MORA, Omar SIVORI, Angelo SORMANI,
+      Ezio PASCUTTI, Giacomo BULGARELLI
+Switzerland: Charly ELSENER - Heinz SCHNEITER, Ely TACCHELLA, Andre GROBETY - Eugen MEIER,
+      Hans WEBER, Richard DUERR, Rolf WUETHRICH - Toni ALLEMANN, Kiki ANTENEN [c],
+      Roger VONLANTHEN
+
+Refs: Nikolaj LATYCHEV (URS), Bob DAVIDSON (SCO), Dimitar RUMENTCHEV (BUL)
+
+
+▪▪ Group 3
+Wed May 30 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Brazil v Mexico  2-0
+     (Mario ZAGALLO 56', PELE 73')
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA, PELE, VAVA, Mario ZAGALLO
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Guillermo SEPULVEDA, Jose VILLEGAS -
+      Raul CARDENAS, Pedro NAJERA - Alfredo DEL AGUILA, Salvador REYES, Hector HERNANDEZ,
+      Isidoro DIAZ, Antonio JASSO
+
+Refs: Gottfried DIENST (SUI), Carl STEINER (AUT), Pierre SCHWINTE (FRA)
+
+
+Thu May 31 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Czechoslovakia v Spain  1-0
+     (Josef STIBRANYI 80')
+
+Czechoslovakia: Viliam SCHROJF - Jan LALA, Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL -
+      Josef MASOPUST, Josef STIBRANYI, Andrej KVASNAK - Adolf SCHERER, Jozef ADAMEC,
+      Josef JELINEK
+Spain: CARMELO - Feliciano RIVILLA, Severino REIJA, Jose SANTAMARIA, Joan SEGARRA [c] -
+      Luis DEL SOL, GARAY, Luis SUAREZ - Francisco GENTO, Ferenc PUSKAS, Eulogio MARTINEZ
+
+Refs: Carl STEINER (AUT), Esteban MARINO (URU), Walter VAN ROSBERG (CUW)
+
+
+Sat Jun 2 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Brazil v Czechoslovakia  0-0
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA, PELE, VAVA, Mario ZAGALLO
+Czechoslovakia: Viliam SCHROJF - Jan LALA, Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL -
+      Josef MASOPUST, Josef STIBRANYI, Andrej KVASNAK - Adolf SCHERER, Jozef ADAMEC,
+      Josef JELINEK
+
+Refs: Pierre SCHWINTE (FRA), Artur MASSARO (CHI), Gottfried DIENST (SUI)
+
+
+Sun Jun 3 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Spain v Mexico  1-0
+     (Joaquin PEIRO 90')
+
+Spain: CARMELO - GRACIA, PACHIN, RODRI, Jose SANTAMARIA - Luis DEL SOL, Luis SUAREZ,
+      MARTI VERGES - Francisco GENTO [c], Joaquin PEIRO, Ferenc PUSKAS
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Guillermo SEPULVEDA, Ignacio JAUREGUI -
+      Raul CARDENAS, Pedro NAJERA - Alfredo DEL AGUILA, Salvador REYES, Hector HERNANDEZ,
+      Isidoro DIAZ, Antonio JASSO
+
+Refs: Branko TESANIC (YUG), Claudio VICUNA (CHI), Walter VAN ROSBERG (CUW)
+
+
+Wed Jun 6 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Brazil v Spain  2-1
+     (AMARILDO 72', 86';
+      ADELARDO 35')
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA, VAVA, AMARILDO, Mario ZAGALLO
+Spain: Jose ARAQUISTAIN - Luis Maria ECHEBERRIA, GRACIA, PACHIN, RODRI - MARTI VERGES -
+      Enrique COLLAR [c], Francisco GENTO, Joaquin PEIRO, Ferenc PUSKAS, ADELARDO
+
+Refs: Sergio BUSTAMANTE (CHI), Esteban MARINO (URU), Jose Antonio SUNDHEIM (COL)
+
+
+Thu Jun 7 15:00 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Mexico v Czechoslovakia  3-1
+     (Isidoro DIAZ 12', Alfredo DEL AGUILA 29', Hector HERNANDEZ 90'(p);
+      Vaclav MASEK 1')
+
+Mexico: Antonio CARBAJAL [c] - Jesus DEL MURO, Guillermo SEPULVEDA, Ignacio JAUREGUI -
+      Raul CARDENAS, Pedro NAJERA, Alfredo HERNANDEZ - Alfredo DEL AGUILA,
+      Salvador REYES, Hector HERNANDEZ, Isidoro DIAZ
+Czechoslovakia: Viliam SCHROJF - Jan LALA, Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL -
+      Josef MASOPUST, Josef STIBRANYI, Andrej KVASNAK - Adolf SCHERER, Jozef ADAMEC,
+      Vaclav MASEK
+
+Refs: Gottfried DIENST (SUI), Branko TESANIC (YUG), Jose Antonio SUNDHEIM (COL)
+
+
+▪▪ Group 4
+Wed May 30 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  Argentina v Bulgaria  1-0
+     (Hector FACUNDO 4')
+
+Argentina: Antonio ROMA - Silvio MARZOLINI, Alberto SAINZ, Raul PAEZ, Ruben NAVARRO [c] [Y 1'] -
+      Federico SACCHI, Oscar ROSSI - Hector FACUNDO, Marcelo PAGANI, Jose SANFILIPPO,
+      Raul BELEN
+Bulgaria: Georgi NAIDENOV - Kiril RAKAROV [c], Ivan DIMITROV, Stoyan KITOV, Dimitar KOSTOV -
+      Nikola KOVACHEV, Todor DIEV - Hristo ILIEV, Ivan KOLEV, Dimitar YAKIMOV,
+      Petar VELICHKOV
+
+Refs: Juan GARDEAZABAL (ESP), Fernando BUERGO (MEX), Raymond MORGAN (CAN)
+
+
+Thu May 31 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  Hungary v England  2-1
+     (Lajos TICHY 17', Florian ALBERT 71';
+      Ron FLOWERS 60'(p))
+
+Hungary: Gyula GROSICS [c] - Sandor MATRAI, Kalman MESZOLY, Laszlo SAROSI, Erno SOLYMOSI,
+      Ferenc SIPOS - Karoly SANDOR, Florian ALBERT, Lajos TICHY, Mate FENYVESI,
+      Gyula RAKOSI
+England: Ron SPRINGETT - Jimmy ARMFIELD, Ray WILSON, Maurice NORMAN, Bobby MOORE -
+      Ron FLOWERS - Jimmy GREAVES, Gerry HITCHENS, John HAYNES [c], Bobby CHARLTON,
+      Bryan DOUGLAS
+
+Refs: Leo HORN (NED), Arthur BLAVIER (BEL), Leo GOLDSTEIN (USA)
+
+
+Sat Jun 2 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  England v Argentina  3-1
+     (Ron FLOWERS 17'(p), Bobby CHARLTON 42', Jimmy GREAVES 67';
+      Jose SANFILIPPO 81')
+
+England: Ron SPRINGETT - Jimmy ARMFIELD, Ray WILSON, Maurice NORMAN, Bobby MOORE -
+      Ron FLOWERS - Jimmy GREAVES, John HAYNES [c], Bobby CHARLTON, Bryan DOUGLAS,
+      Alan PEACOCK
+Argentina: Antonio ROMA - Silvio MARZOLINI, Raul PAEZ, Ruben NAVARRO [c], Vladislao CAP -
+      Federico SACCHI, Antonio RATTIN - Jose SANFILIPPO, Raul BELEN, Ruben SOSA,
+      Juan OLENIAK
+
+Refs: Nikolaj LATYCHEV (URS), Adolfe Molina REGINATO (CHI), Raymond MORGAN (CAN)
+
+
+Sun Jun 3 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  Hungary v Bulgaria  6-1
+     (Florian ALBERT 1', 6', 53', Lajos TICHY 8', 70', Erno SOLYMOSI 12';
+      Georgi SOKOLOV 64')
+
+Hungary: Istvan ILKU - Sandor MATRAI, Kalman MESZOLY, Laszlo SAROSI [c], Erno SOLYMOSI,
+      Ferenc SIPOS - Janos GOROCS - Karoly SANDOR, Florian ALBERT, Lajos TICHY,
+      Mate FENYVESI
+Bulgaria: Georgi NAIDENOV - Kiril RAKAROV [c], Ivan DIMITROV, Stoyan KITOV, Dimitar KOSTOV -
+      Nikola KOVACHEV - Ivan KOLEV, Petar VELICHKOV, Georgi SOKOLOV, Georgi ASPARUKHOV,
+      Dinko DERMENDZHIEV
+
+Refs: Juan GARDEAZABAL (ESP), Bob DAVIDSON (SCO), Luis SILVA (CHI)
+
+
+Wed Jun 6 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  Hungary v Argentina  0-0
+
+Hungary: Gyula GROSICS [c] - Sandor MATRAI, Kalman MESZOLY, Laszlo SAROSI, Erno SOLYMOSI,
+      Ferenc SIPOS - Janos GOROCS - Lajos TICHY, Gyula RAKOSI, Tivadar MONOSTORI,
+      Bela KUHARSZKI
+Argentina: Rogelio DOMINGUEZ - Jose RAMOS DELGADO, Silvio MARZOLINI, Alberto SAINZ,
+      Vladislao CAP - Federico SACCHI - Hector FACUNDO, Martin PANDO [c], Marcelo PAGANI,
+      Juan OLENIAK, Alberto GONZALEZ
+
+Refs: Arturo YAMASAKI MALDONADO (MEX), R. BULNES (CHI), Juan GARDEAZABAL (ESP)
+
+
+Thu Jun 7 15:00 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  England v Bulgaria  0-0
+
+England: Ron SPRINGETT - Jimmy ARMFIELD, Ray WILSON, Maurice NORMAN, Bobby MOORE -
+      Ron FLOWERS - Jimmy GREAVES, John HAYNES [c], Bobby CHARLTON, Bryan DOUGLAS,
+      Alan PEACOCK
+Bulgaria: Georgi NAIDENOV - Ivan DIMITROV, Dimitar KOSTOV, Dimitar DIMOV, Dobromir JECHEV -
+      Nikola KOVACHEV [c], Aleksandar KOSTOV - Ivan KOLEV, Petar VELICHKOV,
+      Georgi SOKOLOV, Dinko DERMENDZHIEV
+
+Refs: Arthur BLAVIER (BEL), Adolfe Molina REGINATO (CHI), R. BULNES (CHI)
+
+
+▪ Quarter-final
+Sun Jun 10 14:30 UTC-4 @ Carlos Dittborn, Arica
+  Chile v Soviet Union  2-1
+     (Leonel SANCHEZ 11', Eladio ROJAS 29';
+      Igor CHISLENKO 26')
+
+Chile: Misael ESCUTI - Luis EYZAGUIRRE, Raul SANCHEZ, Sergio NAVARRO [c], Carlos CONTRERAS -
+      Eladio ROJAS, Jorge TORO - Jaime RAMIREZ, Honorino LANDA, Leonel SANCHEZ,
+      Armando TOBAR
+Soviet Union: Lev YASHIN - Georgi CHOKHELI, Leonid OSTROVSKI, Anatoli MASLYONKIN -
+      Igor NETTO [c], Valeri VORONIN - Valentin IVANOV, Aleksei MAMYKIN, Mikhail MESKHI,
+      Viktor PONEDELNIK, Igor CHISLENKO
+
+Refs: Leo HORN (NED), Joao ETZEL FILHO (BRA), Karol GALBA (TCH)
+
+
+Sun Jun 10 14:30 UTC-4 @ Estadio Braden Copper Co., Rancagua
+  Czechoslovakia v Hungary  1-0
+     (Adolf SCHERER 13')
+
+Czechoslovakia: Viliam SCHROJF - Jan LALA, Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL -
+      Josef MASOPUST, Andrej KVASNAK - Adolf SCHERER, Josef JELINEK, Tomas POSPICHAL,
+      Josef KADRABA
+Hungary: Gyula GROSICS [c] - Sandor MATRAI, Kalman MESZOLY, Laszlo SAROSI, Erno SOLYMOSI,
+      Ferenc SIPOS - Karoly SANDOR, Florian ALBERT, Lajos TICHY, Mate FENYVESI,
+      Gyula RAKOSI
+
+Refs: Nikolaj LATYCHEV (URS), Fernando BUERGO (MEX), Dimitar RUMENTCHEV (BUL)
+
+
+Sun Jun 10 14:30 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Yugoslavia v West Germany  1-0
+     (Petar RADAKOVIC 85')
+
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Fahrudin JUSUFI, Vlatko MARKOVIC -
+      Petar RADAKOVIC, Vladica POPOVIC, Dragoslav SEKULARAC - Drazen JERKOVIC,
+      Milan GALIC [c], Josip SKOBLAR, Vladimir KOVACEVIC
+West Germany: Wolfgang FAHRIAN - Herbert ERHARDT, Karl-Heinz SCHNELLINGER, Willi SCHULZ,
+      Hans NOWAK - Horst SZYMANIAK, Helmut HALLER, Albert BRUELLS, Willy GIESEMANN -
+      Uwe SEELER, Hans SCHAEFER [c]
+
+Refs: Arturo YAMASAKI MALDONADO (MEX), Jose Antonio SILVA (CHI)
+
+
+Sun Jun 10 14:30 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Brazil v England  3-1
+     (GARRINCHA 31', 59', VAVA 53';
+      Gerry HITCHENS 38')
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA, VAVA, AMARILDO, Mario ZAGALLO
+England: Ron SPRINGETT - Jimmy ARMFIELD, Ray WILSON, Maurice NORMAN, Bobby MOORE -
+      Ron FLOWERS - Jimmy GREAVES, Gerry HITCHENS, John HAYNES [c], Bobby CHARLTON,
+      Bryan DOUGLAS
+
+Refs: Pierre SCHWINTE (FRA), Gottfried DIENST (SUI), Sergio BUSTAMANTE (CHI)
+
+
+▪ Semi-final
+Wed Jun 13 14:30 UTC-4 @ Estadio Sausalito, Viña del Mar
+  Czechoslovakia v Yugoslavia  3-1
+     (Josef KADRABA 48', Adolf SCHERER 80', 84'(p);
+      Drazen JERKOVIC 69')
+
+Czechoslovakia: Viliam SCHROJF - Jan LALA, Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL -
+      Josef MASOPUST, Andrej KVASNAK - Adolf SCHERER, Josef JELINEK, Tomas POSPICHAL,
+      Josef KADRABA
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Fahrudin JUSUFI, Vlatko MARKOVIC,
+      Vasilije SIJAKOVIC - Petar RADAKOVIC, Vladica POPOVIC, Dragoslav SEKULARAC -
+      Drazen JERKOVIC, Milan GALIC [c], Josip SKOBLAR
+
+Refs: Gottfried DIENST (SUI), Carl STEINER (AUT), Cesare JONNI (ITA)
+
+
+Wed Jun 13 14:30 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Brazil v Chile  4-2
+     (GARRINCHA 9', 32', VAVA 47', 78';
+      Jorge TORO 42', Leonel SANCHEZ 61'(p))
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA [R 83'], VAVA, AMARILDO, Mario ZAGALLO
+Chile: Misael ESCUTI - Luis EYZAGUIRRE, Raul SANCHEZ, Carlos CONTRERAS, Manuel RODRIGUEZ -
+      Eladio ROJAS, Jorge TORO [c] - Jaime RAMIREZ, Honorino LANDA [R 80'],
+      Leonel SANCHEZ, Armando TOBAR
+
+Refs: Arturo YAMASAKI MALDONADO (MEX), Esteban MARINO (URU)
+
+
+▪ Match for third place
+Sat Jun 16 14:30 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Chile v Yugoslavia  1-0
+     (Eladio ROJAS 90')
+
+Chile: Adan GODOY - Luis EYZAGUIRRE, Raul SANCHEZ, Manuel RODRIGUEZ, Humberto CRUZ -
+      Eladio ROJAS, Jorge TORO [c] - Jaime RAMIREZ, Leonel SANCHEZ, Carlos CAMPOS,
+      Armando TOBAR
+Yugoslavia: Milutin SOSKIC - Vladimir DURKOVIC, Vlatko MARKOVIC, Slavko SVINJAREVIC -
+      Petar RADAKOVIC, Vladica POPOVIC, Dragoslav SEKULARAC - Drazen JERKOVIC,
+      Milan GALIC [c], Josip SKOBLAR, Vladimir KOVACEVIC
+
+Refs: Juan GARDEAZABAL (ESP), Albert DUSCH (GER), Andor DOROGI (HUN)
+
+
+▪ Final
+Sun Jun 17 14:30 UTC-4 @ Estadio Nacional Julio Martínez Prádanos, Santiago
+  Brazil v Czechoslovakia  3-1
+     (AMARILDO 17', ZITO 69', VAVA 78';
+      Josef MASOPUST 15')
+
+Brazil: GILMAR - DJALMA SANTOS, MAURO RAMOS [c], ZOZIMO, NILTON SANTOS - ZITO,
+      DIDI - GARRINCHA, VAVA, AMARILDO, Mario ZAGALLO
+Czechoslovakia: Viliam SCHROJF - Jan POPLUHAR, Ladislav NOVAK [c], Svatopluk PLUSKAL,
+      Jiri TICHY - Josef MASOPUST, Andrej KVASNAK - Adolf SCHERER, Josef JELINEK,
+      Tomas POSPICHAL, Josef KADRABA
+
+Refs: Nikolaj LATYCHEV (URS), Leo HORN (NED), Bob DAVIDSON (SCO)
+
+

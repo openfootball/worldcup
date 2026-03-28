@@ -1,0 +1,396 @@
+= World Cup 1954
+
+# Dates    Wed Jun 16 - Sun Jul 4 1954 (18d)
+# Teams    16
+# Matches  26
+# Venues   6 (in 6 cities)
+#   St. Jakob-Park, Basel (SUI)
+#   Stade de Suisse, Bern (SUI)
+#   Charmilles, Geneva (SUI)
+#   La Pontaise, Lausanne (SUI)
+#   Comunale di Cornaredo, Lugano (SUI)
+#   Hardturm, Zürich (SUI)
+
+▪ Group Matches
+▪▪ Group 1
+Wed Jun 16 18:00 UTC+2 @ Charmilles, Geneva
+  Brazil v Mexico  5-0
+     (BALTAZAR 23', DIDI 30', PINGA 34', 43', JULINHO 69')
+
+Brazil: CASTILHO - DJALMA SANTOS, NILTON SANTOS, BRANDAOZINHO, BAUER [c] - PINHEIRO,
+      DIDI - JULINHO, BALTAZAR, PINGA, RODRIGUES
+Mexico: Salvador MOTA - Narciso LOPEZ, Jorge ROMO, Juan GOMEZ - Raul CARDENAS,
+      Rafael AVALOS - Alfredo TORRES, Jose NARANJO [c], Jose LAMADRID, Tomas BALCAZAR,
+      Raul ARELLANO
+
+Refs: Paul WYSSLING (SUI), Ernest SCHONHOLZER (SUI), Jose DA COSTA VIEIRA (POR)
+
+
+Wed Jun 16 18:00 UTC+2 @ La Pontaise, Lausanne
+  Yugoslavia v France  1-0
+     (Milos MILUTINOVIC 15')
+
+Yugoslavia: Vladimir BEARA - Branko STANKOVIC, Tomislav CRNKOVIC, Ivan HORVAT - Zlatko CAJKOVSKI,
+      Vujadin BOSKOV, Branko ZEBEC - Rajko MITIC, Bernard VUKAS, Stjepan BOBEK [c],
+      Milos MILUTINOVIC
+France: Francois REMETTER - Lazare GIANESSI, Raymond KAELBEL, Robert JONQUET [c],
+      Armand PENVERNE - Jean-Jacques MARCEL - Rene DEREUDDRE, Leon GLOVACKI,
+      Raymond KOPA, Andre STRAPPE, Jean VINCENT
+
+Refs: Benjamin GRIFFITHS (WAL), Rene BAUMBERGER (SUI), Manuel ASENSI (ESP)
+
+
+Sat Jun 19 17:00 UTC+2 @ La Pontaise, Lausanne
+  Brazil v Yugoslavia  1-1 a.e.t.
+     (DIDI 69'; Branko ZEBEC 48')
+
+Brazil: CASTILHO - DJALMA SANTOS, NILTON SANTOS, BRANDAOZINHO, BAUER [c] - PINHEIRO,
+      DIDI - JULINHO, BALTAZAR, PINGA, RODRIGUES
+Yugoslavia: Vladimir BEARA - Branko STANKOVIC, Tomislav CRNKOVIC, Ivan HORVAT - Zlatko CAJKOVSKI,
+      Vujadin BOSKOV, Branko ZEBEC - Rajko MITIC [c], Bernard VUKAS, Milos MILUTINOVIC,
+      Dionizije DVORNIC
+
+Refs: Charlie FAULTLESS (SCO), Arthur ELLIS (ENG), Albert VON GUNTER (SUI)
+
+
+Sat Jun 19 17:10 UTC+2 @ Charmilles, Geneva
+  France v Mexico  3-2
+     (Jean VINCENT 19', Raul CARDENAS 46'(og), Raymond KOPA 88'(p);
+      Jose LAMADRID 54', Tomas BALCAZAR 85')
+
+France: Francois REMETTER - Lazare GIANESSI, Raymond KAELBEL, Roger MARCHE [c] -
+      Jean-Jacques MARCEL, Abderrhamane MAHJOUB, Abdelaziz BEN-TIFOUR - Rene DEREUDDRE,
+      Raymond KOPA, Andre STRAPPE, Jean VINCENT
+Mexico: Antonio CARBAJAL - Narciso LOPEZ, Jorge ROMO, Saturnino MARTINEZ - Raul CARDENAS,
+      Rafael AVALOS - Alfredo TORRES, Jose NARANJO [c], Jose LAMADRID, Tomas BALCAZAR,
+      Raul ARELLANO
+
+Refs: Manuel ASENSI (ESP), Laurent FRANKEN (BEL), Rene BAUMBERGER (SUI)
+
+
+▪▪ Group 2
+Thu Jun 17 18:00 UTC+2 @ Hardturm, Zürich
+  Hungary v South Korea  9-0
+     (Ferenc PUSKAS 12', 89', Mihaly LANTOS 18', Sandor KOCSIS 24', 36', 50', Zoltan CZIBOR 59', Peter PALOTAS 75', 83')
+
+Hungary: Gyula GROSICS - Jeno BUZANSZKY, Mihaly LANTOS - Gyula LORANT, Jozsef BOZSIK,
+      Ferenc SZOJKA - Sandor KOCSIS, Ferenc PUSKAS [c], Zoltan CZIBOR, Laszlo BUDAI,
+      Peter PALOTAS
+South Korea: HONG Dook Jong - PARK Kyu Chong, PARK Yae Seung, MIN Byung Dae [c] -
+      KANG Chang Gi, CHUNG Nam Sik, CHU Yung Kwang - CHOI Chung Min, WOO Sang Kwon,
+      SUNG Nak Woon, PARK Il Kap
+
+Refs: Raymond VINCENTI (FRA), Albert VON GUNTER (SUI), Carl STEINER (AUT)
+
+
+Thu Jun 17 18:00 UTC+2 @ Stade de Suisse, Bern
+  West Germany v Turkey  4-1
+     (Hans SCHAEFER 14', Berni KLODT 52', Ottmar WALTER 60', Max MORLOCK 84';
+      Suat MAMAT 2')
+
+West Germany: Toni TUREK - Fritz LABAND, Werner KOHLMEYER, Jupp POSIPAL - Karl MAI,
+      Fritz WALTER [c] - Horst ECKEL, Max MORLOCK, Berni KLODT, Ottmar WALTER,
+      Hans SCHAEFER
+Turkey: Turgay SEREN [c] - Ridvan BOLATLI, Basri DIRIMLILI, Mustafa ERTAN - Cetin ZEYBEK,
+      Rober ERYOL - Erol KESKIN, Suat MAMAT, Ismail FERIDUN, Buhran SARGUN,
+      Lefter KUCUKANDONYADIS
+
+Refs: Jose DA COSTA VIEIRA (POR), Istvan ZSOLT (HUN), Armand MERLOTTI (SUI)
+
+
+Sun Jun 20 16:50 UTC+2 @ St. Jakob-Park, Basel
+  Hungary v West Germany  8-3
+     (Sandor KOCSIS 3', 21', 69', 78', Ferenc PUSKAS 17', Nandor HIDEGKUTI 52', 54', Jozsef TOTH 75';
+      Alfred PFAFF 25', Helmut RAHN 77', Richard HERRMANN 84')
+
+Hungary: Gyula GROSICS - Jeno BUZANSZKY, Mihaly LANTOS - Gyula LORANT, Jozsef BOZSIK,
+      Jozsef ZAKARIAS - Jozsef TOTH, Sandor KOCSIS, Nandor HIDEGKUTI, Ferenc PUSKAS [c],
+      Zoltan CZIBOR
+West Germany: Heinz KWIATKOWSKI - Werner KOHLMEYER, Hans BAUER, Jupp POSIPAL, Werner LIEBRICH -
+      Paul MEBUS, Fritz WALTER [c] - Horst ECKEL, Helmut RAHN, Richard HERRMANN,
+      Alfred PFAFF
+
+Refs: William LING (ENG), Werner SCHICKER (SUI), Benjamin GRIFFITHS (WAL)
+
+
+Sun Jun 20 17:00 UTC+2 @ Charmilles, Geneva
+  Turkey v South Korea  7-0
+     (Suat MAMAT 10', 30', Lefter KUCUKANDONYADIS 18', Buhran SARGUN 37', 64', 70', Erol KESKIN 76')
+
+Turkey: Turgay SEREN [c] - Ridvan BOLATLI, Basri DIRIMLILI, Mustafa ERTAN - Cetin ZEYBEK,
+      Rober ERYOL - Erol KESKIN, Suat MAMAT, Ismail FERIDUN, Buhran SARGUN,
+      Lefter KUCUKANDONYADIS
+South Korea: HONG Dook Jong - PARK Kyu Chong [c], LI Jong Kap, HAN Chung Wa - KANG Chang Gi,
+      KIM Ji Sung - LI Sao Nam, WOO Sang Kwon, LI Ki Joo, YUNG Kook Chin
+
+Refs: Esteban MARINO (URU), Vincenzo ORLANDINI (ITA), Ernest SCHONHOLZER (SUI)
+
+
+Wed Jun 23 18:00 UTC+2 @ Hardturm, Zürich
+  West Germany v Turkey  7-2
+     (Ottmar WALTER 7', Hans SCHAEFER 12', 79', Max MORLOCK 30', 60', 77', Fritz WALTER 62';
+      Mustafa ERTAN 21', Lefter KUCUKANDONYADIS 82')
+
+West Germany: Toni TUREK - Fritz LABAND, Hans BAUER, Jupp POSIPAL - Karl MAI, Fritz WALTER [c] -
+      Horst ECKEL, Max MORLOCK, Berni KLODT, Ottmar WALTER, Hans SCHAEFER
+Turkey: Sukru ERSOY - Ridvan BOLATLI, Basri DIRIMLILI, Mustafa ERTAN, Naci ERDEM -
+      Cetin ZEYBEK, Rober ERYOL - Erol KESKIN, Lefter KUCUKANDONYADIS [c],
+      Onarici NECMI, Coskun TAS
+
+Refs: Raymond VINCENTI (FRA), Charlie FAULTLESS (SCO)
+
+
+▪▪ Group 3
+Wed Jun 16 18:00 UTC+2 @ Hardturm, Zürich
+  Austria v Scotland  1-0
+     (Erich PROBST 33')
+
+Austria: Kurt SCHMIED [c] - Gerhard HANAPPI, Ernst HAPPEL, Leopold BARSCHANDT -
+      Ernst OCWIRK, Karl KOLLER - Robert KOERNER, Walter SCHLEGER, Erich PROBST,
+      Alfred KOERNER, Robert DIENST
+Scotland: Fred MARTIN - Willie CUNNINGHAM [c], Jock AIRD, Jimmy DAVIDSON - Tommy DOCHERTY,
+      Doug COWIE - John McKENZIE, Allan BROWN, Neil MOCHAN, Willie FERNIE,
+      Willie ORMOND
+
+Refs: Laurent FRANKEN (BEL), Mario VIANA (BRA), Josef GULDE (SUI)
+
+
+Wed Jun 16 18:00 UTC+2 @ Stade de Suisse, Bern
+  Uruguay v Czechoslovakia  2-0
+     (Oscar MIGUEZ 71', Juan SCHIAFFINO 84')
+
+Uruguay: Roque MASPOLI - Jose SANTAMARIA, William MARTINEZ, Victor RODRIGUEZ ANDRADE -
+      Obdulio VARELA [c], Luis CRUZ - Julio ABBADIE, Oscar MIGUEZ, Juan SCHIAFFINO,
+      Carlos BORGES, Javier AMBROIS
+Czechoslovakia: Theodor REIMANN - Frantisek SAFRANEK, Ladislav NOVAK [c], Jiri TRNKA -
+      Jiri HLEDIK, Jan HERTL - Vladislav HLAVACEK, Otto HEMELE, Emil PAZICKY,
+      Jiri PESEK, Ladislav KACANI
+
+Refs: Arthur ELLIS (ENG), William LING (ENG), Werner SCHICKER (SUI)
+
+
+Sat Jun 19 16:50 UTC+2 @ St. Jakob-Park, Basel
+  Uruguay v Scotland  7-0
+     (Carlos BORGES 17', 47', 57', Oscar MIGUEZ 30', 83', Julio ABBADIE 54', 85')
+
+Uruguay: Roque MASPOLI - Jose SANTAMARIA, William MARTINEZ, Victor RODRIGUEZ ANDRADE -
+      Obdulio VARELA [c], Luis CRUZ - Julio ABBADIE, Oscar MIGUEZ, Juan SCHIAFFINO,
+      Carlos BORGES, Javier AMBROIS
+Scotland: Fred MARTIN - Willie CUNNINGHAM [c], Jock AIRD, Jimmy DAVIDSON - Tommy DOCHERTY,
+      Doug COWIE - John McKENZIE, Allan BROWN, Neil MOCHAN, Willie FERNIE,
+      Willie ORMOND
+
+Refs: Vincenzo ORLANDINI (ITA), Paul WYSSLING (SUI), Denilo GUIDI (SUI)
+
+
+Sat Jun 19 17:00 UTC+2 @ Hardturm, Zürich
+  Austria v Czechoslovakia  5-0
+     (Ernst STOJASPAL 3', 65', Erich PROBST 4', 21', 24')
+
+Austria: Kurt SCHMIED - Gerhard HANAPPI, Ernst HAPPEL, Leopold BARSCHANDT - Ernst OCWIRK [c],
+      Karl KOLLER - Robert KOERNER, Theodor WAGNER, Erich PROBST, Alfred KOERNER,
+      Ernst STOJASPAL
+Czechoslovakia: Imrich STACHO - Frantisek SAFRANEK, Ladislav NOVAK [c], Jiri TRNKA -
+      Svatopluk PLUSKAL, Jan HERTL - Vladislav HLAVACEK, Otto HEMELE, Emil PAZICKY,
+      Ladislav KACANI, Tadeas KRAUS
+
+Refs: Vasa STEFANOVIC (YUG), Josef GULDE (SUI)
+
+
+▪▪ Group 4
+Thu Jun 17 17:50 UTC+2 @ La Pontaise, Lausanne
+  Switzerland v Italy  2-1
+     (Robert BALLAMAN 18', Sepp HUEGI 78';
+      Giampiero BONIPERTI 44')
+
+Switzerland: Eugene PARLIER - Roger BOCQUET [c], Marcel FLUECKIGER, Andre NEURY, Willy KERNEN -
+      Charles CASALI - Robert BALLAMAN, Jackie FATTON, Sepp HUEGI, Eugen MEIER,
+      Roger VONLANTHEN
+Italy: Giorgio GHEZZI - Guido VINCENZI, Giovanni GIACOMAZZI - Maino NERI, Omero TOGNON,
+      Fulvio NESTI - Ermes MUCCINELLI, Egisto PANDOLFINI, Carlo GALLI, Benito LORENZI,
+      Giampiero BONIPERTI [c]
+
+Refs: Mario VIANA (BRA), Manuel ASENSI (ESP), Esteban MARINO (URU)
+
+
+Thu Jun 17 18:10 UTC+2 @ St. Jakob-Park, Basel
+  England v Belgium  4-4 a.e.t.
+     (Ivor BROADIS 26', 63', Nat LOFTHOUSE 36', 91';
+      Leopold ANOUL 5', 71', Rik COPPENS 67', Jimmy DICKINSON 94'(og))
+
+England: Gilbert MERRICK - Ron STANIFORTH, Roger BYRNE, Billy WRIGHT [c], Syd OWEN -
+      Jimmy DICKINSON - Stanley MATTHEWS, Ivor BROADIS, Nat LOFTHOUSE, Tommy TAYLOR,
+      Tom FINNEY
+Belgium: Leopold GERNAEY - Marcel DRIES, Alfons VAN BRANDT - Constant HUYSMANS,
+      Louis CARRE, Victor MEES - Denis HOUF, Rik COPPENS, Leopold ANOUL, Joseph MERMANS [c],
+      Pieter VAN DEN BOSCH
+
+Refs: Emil SCHMETZER (FRG), Fritz BUCHMUELLER (SUI), Willy RUFFLI (SUI)
+
+
+Sun Jun 20 17:00 UTC+2 @ Comunale di Cornaredo, Lugano
+  Italy v Belgium  4-1
+     (Egisto PANDOLFINI 41'(p), Carlo GALLI 48', Amleto FRIGNANI 58', Benito LORENZI 78';
+      Leopold ANOUL 81')
+
+Italy: Giorgio GHEZZI - Giovanni GIACOMAZZI, Ardico MAGNINI - Maino NERI, Omero TOGNON,
+      Fulvio NESTI - Egisto PANDOLFINI [c], Carlo GALLI, Gino CAPPELLO, Benito LORENZI,
+      Amleto FRIGNANI
+Belgium: Leopold GERNAEY - Marcel DRIES, Alfons VAN BRANDT - Constant HUYSMANS,
+      Louis CARRE, Victor MEES - Rik COPPENS, Leopold ANOUL, Joseph MERMANS [c],
+      Poly VAN DEN BOSCH, Pieter VAN DEN BOSCH
+
+Refs: Carl STEINER (AUT), Raymond VINCENTI (FRA), Emil SCHMETZER (FRG)
+
+
+Sun Jun 20 17:10 UTC+2 @ Stade de Suisse, Bern
+  England v Switzerland  2-0
+     (Jimmy MULLEN 43', Dennis WILSHAW 69')
+
+England: Gilbert MERRICK - Ron STANIFORTH, Roger BYRNE, Billy WRIGHT [c] - Jimmy DICKINSON,
+      Bill McGARRY - Ivor BROADIS, Tommy TAYLOR, Tom FINNEY, Dennis WILSHAW,
+      Jimmy MULLEN
+Switzerland: Eugene PARLIER - Roger BOCQUET [c], Andre NEURY, Oliver EGGIMANN, Willy KERNEN -
+      Heinz BIGLER - Kiki ANTENEN, Robert BALLAMAN, Jackie FATTON, Eugen MEIER,
+      Roger VONLANTHEN
+
+Refs: Istvan ZSOLT (HUN), Jose DA COSTA VIEIRA (POR), Vasa STEFANOVIC (YUG)
+
+
+Wed Jun 23 18:00 UTC+2 @ St. Jakob-Park, Basel
+  Switzerland v Italy  4-1
+     (Sepp HUEGI 14', 85', Robert BALLAMAN 48', Jackie FATTON 90';
+      Fulvio NESTI 67')
+
+Switzerland: Eugene PARLIER - Roger BOCQUET [c], Andre NEURY, Oliver EGGIMANN, Willy KERNEN -
+      Charles CASALI - Kiki ANTENEN, Robert BALLAMAN, Jackie FATTON, Sepp HUEGI,
+      Roger VONLANTHEN
+Italy: Giovanni VIOLA - Giovanni GIACOMAZZI, Ardico MAGNINI - Omero TOGNON,
+      Fulvio NESTI, Giacomo MARI, Armando SEGATO - Ermes MUCCINELLI, Egisto PANDOLFINI [c],
+      Benito LORENZI, Amleto FRIGNANI
+
+Refs: Benjamin GRIFFITHS (WAL), Jose DA COSTA VIEIRA (POR), William LING (ENG)
+
+
+▪ Quarter-final
+Sat Jun 26 17:00 UTC+2 @ La Pontaise, Lausanne
+  Austria v Switzerland  7-5
+     (Theodor WAGNER 25', 27', 53', Alfred KOERNER 26', 34', Ernst OCWIRK 32', Erich PROBST 76';
+      Robert BALLAMAN 16', 39', Sepp HUEGI 17', 19', 60')
+
+Austria: Kurt SCHMIED - Gerhard HANAPPI, Ernst HAPPEL, Leopold BARSCHANDT - Ernst OCWIRK [c],
+      Karl KOLLER - Robert KOERNER, Theodor WAGNER, Erich PROBST, Alfred KOERNER,
+      Ernst STOJASPAL
+Switzerland: Eugene PARLIER - Roger BOCQUET [c], Andre NEURY, Oliver EGGIMANN, Willy KERNEN -
+      Charles CASALI - Kiki ANTENEN, Robert BALLAMAN, Jackie FATTON, Sepp HUEGI,
+      Roger VONLANTHEN
+
+Refs: Charlie FAULTLESS (SCO), Manuel ASENSI (ESP), Emil SCHMETZER (FRG)
+
+
+Sat Jun 26 17:00 UTC+2 @ St. Jakob-Park, Basel
+  Uruguay v England  4-2
+     (Carlos BORGES 5', Obdulio VARELA 39', Juan SCHIAFFINO 46', Javier AMBROIS 78';
+      Nat LOFTHOUSE 16', Tom FINNEY 67')
+
+Uruguay: Roque MASPOLI - Jose SANTAMARIA, William MARTINEZ, Victor RODRIGUEZ ANDRADE -
+      Obdulio VARELA [c], Luis CRUZ - Julio ABBADIE, Oscar MIGUEZ, Juan SCHIAFFINO,
+      Carlos BORGES, Javier AMBROIS
+England: Gilbert MERRICK - Ron STANIFORTH, Roger BYRNE, Billy WRIGHT [c] - Jimmy DICKINSON,
+      Bill McGARRY - Stanley MATTHEWS, Ivor BROADIS, Nat LOFTHOUSE, Tom FINNEY,
+      Dennis WILSHAW
+
+Refs: Carl STEINER (AUT), Vasa STEFANOVIC (YUG), Vincenzo ORLANDINI (ITA)
+
+
+Sun Jun 27 17:00 UTC+2 @ Charmilles, Geneva
+  West Germany v Yugoslavia  2-0
+     (Ivan HORVAT 9'(og), Helmut RAHN 85')
+
+West Germany: Toni TUREK - Fritz LABAND, Werner KOHLMEYER, Werner LIEBRICH - Karl MAI,
+      Fritz WALTER [c] - Horst ECKEL, Helmut RAHN, Max MORLOCK, Ottmar WALTER,
+      Hans SCHAEFER
+Yugoslavia: Vladimir BEARA - Branko STANKOVIC, Tomislav CRNKOVIC, Ivan HORVAT - Zlatko CAJKOVSKI,
+      Vujadin BOSKOV, Branko ZEBEC - Rajko MITIC [c], Bernard VUKAS, Stjepan BOBEK,
+      Milos MILUTINOVIC
+
+Refs: Istvan ZSOLT (HUN), Laurent FRANKEN (BEL), Fritz BUCHMUELLER (SUI)
+
+
+Sun Jun 27 17:00 UTC+2 @ Stade de Suisse, Bern
+  Hungary v Brazil  4-2
+     (Nandor HIDEGKUTI 4', Sandor KOCSIS 7', 88', Mihaly LANTOS 60'(p);
+      DJALMA SANTOS 18'(p), JULINHO 65')
+
+Hungary: Gyula GROSICS - Jeno BUZANSZKY, Mihaly LANTOS - Gyula LORANT, Jozsef BOZSIK [c] [R 71'],
+      Jozsef ZAKARIAS - Jozsef TOTH, Sandor KOCSIS, Nandor HIDEGKUTI, Zoltan CZIBOR,
+      Mihaly TOTH
+Brazil: CASTILHO - DJALMA SANTOS, NILTON SANTOS [R 71'], BRANDAOZINHO, BAUER [c] -
+      PINHEIRO, DIDI - JULINHO, MAURINHO, HUMBERTO [R 79'], INDIO
+
+Refs: Arthur ELLIS (ENG), William LING (ENG), Paul WYSSLING (SUI)
+
+
+▪ Semi-final
+Wed Jun 30 18:00 UTC+2 @ St. Jakob-Park, Basel
+  West Germany v Austria  6-1
+     (Hans SCHAEFER 31', Max MORLOCK 47', Fritz WALTER 54'(p), 64'(p), Ottmar WALTER 61', 89';
+      Erich PROBST 51')
+
+West Germany: Toni TUREK - Werner KOHLMEYER, Jupp POSIPAL, Werner LIEBRICH - Karl MAI,
+      Fritz WALTER [c] - Horst ECKEL, Helmut RAHN, Max MORLOCK, Ottmar WALTER,
+      Hans SCHAEFER
+Austria: Walter ZEMAN - Gerhard HANAPPI, Ernst HAPPEL - Ernst OCWIRK [c], Karl KOLLER -
+      Robert KOERNER, Walter SCHLEGER, Theodor WAGNER, Erich PROBST, Alfred KOERNER,
+      Ernst STOJASPAL
+
+Refs: Vincenzo ORLANDINI (ITA), Arthur ELLIS (ENG), Fritz BUCHMUELLER (SUI)
+
+
+Wed Jun 30 18:00 UTC+2 @ La Pontaise, Lausanne
+  Hungary v Uruguay  4-2 a.e.t.
+     (Zoltan CZIBOR 12', Nandor HIDEGKUTI 47', Sandor KOCSIS 109', 116';
+      Juan HOHBERG 75', 86')
+
+Hungary: Gyula GROSICS - Jeno BUZANSZKY, Mihaly LANTOS - Gyula LORANT, Jozsef BOZSIK [c],
+      Jozsef ZAKARIAS - Sandor KOCSIS, Nandor HIDEGKUTI, Zoltan CZIBOR, Laszlo BUDAI,
+      Peter PALOTAS
+Uruguay: Roque MASPOLI - Jose SANTAMARIA, William MARTINEZ [c], Victor RODRIGUEZ ANDRADE,
+      Nestor CARBALLO - Luis CRUZ - Juan HOHBERG, Juan SCHIAFFINO, Carlos BORGES,
+      Rafael SOUTO, Javier AMBROIS
+
+Refs: Benjamin GRIFFITHS (WAL), Charlie FAULTLESS (SCO), Raymond VINCENTI (FRA)
+
+
+▪ Match for third place
+Sat Jul 3 17:00 UTC+2 @ Hardturm, Zürich
+  Austria v Uruguay  3-1
+     (Ernst STOJASPAL 16'(p), Luis CRUZ 59'(og), Ernst OCWIRK 79';
+      Juan HOHBERG 22')
+
+Austria: Kurt SCHMIED - Gerhard HANAPPI, Leopold BARSCHANDT, Walter KOLLMANN -
+      Ernst OCWIRK [c], Karl KOLLER - Robert KOERNER, Theodor WAGNER, Erich PROBST,
+      Robert DIENST, Ernst STOJASPAL
+Uruguay: Roque MASPOLI - Jose SANTAMARIA, William MARTINEZ [c], Victor RODRIGUEZ ANDRADE,
+      Nestor CARBALLO - Luis CRUZ - Julio ABBADIE, Juan HOHBERG, Juan SCHIAFFINO,
+      Carlos BORGES, Omar MENDEZ
+
+Refs: Paul WYSSLING (SUI), Istvan ZSOLT (HUN), Arthur ELLIS (ENG)
+
+
+▪ Final
+Sun Jul 4 17:00 UTC+2 @ Stade de Suisse, Bern
+  West Germany v Hungary  3-2
+     (Max MORLOCK 10', Helmut RAHN 18', 84';
+      Ferenc PUSKAS 6', Zoltan CZIBOR 8')
+
+West Germany: Toni TUREK - Werner KOHLMEYER, Jupp POSIPAL, Werner LIEBRICH - Karl MAI,
+      Fritz WALTER [c] - Horst ECKEL, Helmut RAHN, Max MORLOCK, Ottmar WALTER,
+      Hans SCHAEFER
+Hungary: Gyula GROSICS - Jeno BUZANSZKY, Mihaly LANTOS - Gyula LORANT, Jozsef BOZSIK,
+      Jozsef ZAKARIAS - Sandor KOCSIS, Nandor HIDEGKUTI, Ferenc PUSKAS [c],
+      Zoltan CZIBOR, Mihaly TOTH
+
+Refs: William LING (ENG), Vincenzo ORLANDINI (ITA), Benjamin GRIFFITHS (WAL)
+
+

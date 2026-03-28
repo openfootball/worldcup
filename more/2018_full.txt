@@ -1,0 +1,1022 @@
+= World Cup 2018
+
+# Dates    Thu Jun 14 - Sun Jul 15 2018 (31d)
+# Teams    32
+# Matches  64
+# Venues   12 (in 11 cities)
+#   Kaliningrad Stadium, Kaliningrad (RUS)
+#   Ak Bars Arena, Kazan (RUS)
+#   Otkrytiye Arena, Moscow (RUS)
+#   Lenin, Moscow (RUS)
+#   Nizhny Novgorod Stadium, Nizhny Novgorod (RUS)
+#   Rostov Arena, Rostov-on-Don (RUS)
+#   Krestovsky Stadium, Saint Petersburg (RUS)
+#   Samara Arena, Samara (RUS)
+#   Mordovia Arena, Saransk (RUS)
+#   Fisht Olympic Stadium, Sochi (RUS)
+#   Central Stadium, Volgograd (RUS)
+#   Ekaterinburg Arena, Yekaterinburg (RUS)
+
+▪ First stage
+▪▪ Group A
+Thu Jun 14 18:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Russia v Saudi Arabia  5-0
+     (Iury GAZINSKY 12', Denis CHERYSHEV 43', 90+1', Artem DZYUBA 71', Aleksandr GOLOVIN 90+4')
+
+Russia: Igor AKINFEEV [c] - MARIO FERNANDES, Ilya KUTEPOV, Sergey IGNASHEVICH,
+      Yury ZHIRKOV - Iury GAZINSKY, Alan DZAGOEV (24' Denis CHERYSHEV), Roman ZOBNIN,
+      Aleksandr GOLOVIN [Y 88'], Alexander SAMEDOV (64' Daler KUZIAEV) - Fedor SMOLOV (70' Artem DZYUBA)
+Saudi Arabia: ABDULLAH ALMUAIOUF - OSAMA HAWSAWI [c], OMAR HAWSAWI, MOHAMMED ALBURAYK,
+      YASIR ALSHAHRANI - SALMAN ALFARAJ, YAHIA ALSHEHRI (72' HATAN BAHBRI),
+      ABDULLAH OTAYF (64' FAHAD ALMUWALLAD), TAISEER ALJASSAM [Y 90+3'], SALEM ALDAWSARI -
+      MOHAMMED ALSAHLAWI (84' MUHANNAD ASIRI)
+
+Refs: Néstor Fabián Pitana (ARG), Hernán Maidana (ARG), Juan Pablo Belatti (ARG)
+
+
+Fri Jun 15 17:00 UTC+5 @ Ekaterinburg Arena, Yekaterinburg, Att: 27015
+  Egypt v Uruguay  0-1
+     (Jose GIMENEZ 90')
+
+Egypt: MOHAMED ELSHENAWY - ALI GABR, AHMED HEGAZY [Y 90+6'], AHMED FATHI [c],
+      MOHAMED ABDELSHAFY - TAREK HAMED (50' SAM MORSY [Y 90+4']), MOHAMED ELNENY,
+      ABDALLA SAID, TREZEGUET, AMR WARDA (82' RAMADAN SOBHI) - MARWAN MOHSEN (63' KAHRABA)
+Uruguay: Fernando MUSLERA - Jose GIMENEZ, Diego GODIN [c], Guillermo VARELA, Martin CACERES -
+      Rodrigo BENTANCUR, Nahitan NANDEZ (58' Carlos SANCHEZ), Giorgian DE ARRASCAETA (59' Cristian RODRIGUEZ),
+      Matias VECINO (87' Lucas TORREIRA) - Luis SUAREZ, Edinson CAVANI
+
+Refs: Björn Kuipers (NED), Sander van Roekel (NED), Erwin Zeinstra (NED)
+
+
+Tue Jun 19 21:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64468
+  Russia v Egypt  3-1
+     (AHMED FATHI 47'(og), Denis CHERYSHEV 59', Artem DZYUBA 62';
+      MOHAMED SALAH 73')
+
+Russia: Igor AKINFEEV [c] - MARIO FERNANDES, Ilya KUTEPOV, Sergey IGNASHEVICH,
+      Yury ZHIRKOV (86' Fedor KUDRIASHOV) - Denis CHERYSHEV (74' Daler KUZIAEV),
+      Iury GAZINSKY, Roman ZOBNIN, Aleksandr GOLOVIN, Alexander SAMEDOV - Artem DZYUBA (79' Fedor SMOLOV [Y 84'])
+Egypt: MOHAMED ELSHENAWY - ALI GABR, AHMED HEGAZY, AHMED FATHI [c], MOHAMED ABDELSHAFY -
+      TAREK HAMED, MOHAMED SALAH, MOHAMED ELNENY (64' AMR WARDA), ABDALLA SAID,
+      TREZEGUET [Y 57'] (68' RAMADAN SOBHI) - MARWAN MOHSEN (82' KAHRABA)
+
+Refs: Enrique Patricio Cáceres Villafañe (PAR), Eduardo Cardozo (PAR), Juan Bautista Zorrilla Castellano (PAR)
+
+
+Wed Jun 20 18:00 UTC+3 @ Rostov Arena, Rostov-on-Don, Att: 42678
+  Uruguay v Saudi Arabia  1-0
+     (Luis SUAREZ 23')
+
+Uruguay: Fernando MUSLERA - Jose GIMENEZ, Diego GODIN [c], Guillermo VARELA, Martin CACERES -
+      Carlos SANCHEZ (82' Nahitan NANDEZ), Rodrigo BENTANCUR, Cristian RODRIGUEZ (59' Diego LAXALT),
+      Matias VECINO (59' Lucas TORREIRA) - Luis SUAREZ, Edinson CAVANI
+Saudi Arabia: MOHAMMED ALOWAIS - OSAMA HAWSAWI [c], ALI AL BULAYHI, MOHAMMED ALBURAYK,
+      YASIR ALSHAHRANI - SALMAN ALFARAJ, HATAN BAHBRI (75' MOHAMED KANNO),
+      ABDULLAH OTAYF, TAISEER ALJASSAM (44' HUSSAIN ALMOQAHWI), SALEM ALDAWSARI -
+      FAHAD ALMUWALLAD (78' MOHAMMED ALSAHLAWI)
+
+Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
+
+
+Mon Jun 25 17:00 UTC+3 @ Central Stadium, Volgograd, Att: 36823
+  Saudi Arabia v Egypt  2-1
+     (SALMAN ALFARAJ 45+6', SALEM ALDAWSARI 90+5';
+      MOHAMED SALAH 22')
+
+Saudi Arabia: YASSER ALMOSAILEM - OSAMA HAWSAWI [c], MOHAMMED ALBURAYK, YASIR ALSHAHRANI,
+      MOTAZ HAWSAWI - SALMAN ALFARAJ, HATAN BAHBRI (65' MUHANNAD ASIRI), ABDULLAH OTAYF,
+      HUSSAIN ALMOQAHWI, SALEM ALDAWSARI - FAHAD ALMUWALLAD (79' YAHIA ALSHEHRI)
+Egypt: ESSAM ELHADARY [c] - ALI GABR [Y 45+5'], AHMED HEGAZY, AHMED FATHI [Y 86'],
+      MOHAMED ABDELSHAFY - TAREK HAMED, MOHAMED ELNENY, ABDALLA SAID (45+7' AMR WARDA),
+      TREZEGUET (81' KAHRABA) - MARWAN MOHSEN (64' RAMADAN SOBHI), MOHAMED SALAH
+
+Refs: Wilmar Alexander Roldán Pérez (COL), Alexander Guzmán Bonilla (COL), Cristian DE LA CRUZ (COL)
+
+
+Mon Jun 25 18:00 UTC+4 @ Samara Arena, Samara, Att: 41970
+  Uruguay v Russia  3-0
+     (Luis SUAREZ 10', Denis CHERYSHEV 23'(og), Edinson CAVANI 90')
+
+Uruguay: Fernando MUSLERA - Diego GODIN [c], Diego LAXALT, Sebastian COATES, Martin CACERES -
+      Rodrigo BENTANCUR (63' Giorgian DE ARRASCAETA), Nahitan NANDEZ (73' Cristian RODRIGUEZ),
+      Lucas TORREIRA, Matias VECINO - Luis SUAREZ, Edinson CAVANI (90+3' Maximiliano GOMEZ)
+Russia: Igor AKINFEEV [c] - Ilya KUTEPOV, Sergey IGNASHEVICH, Fedor KUDRIASHOV,
+      Igor SMOLNIKOV [Y 28'] [Y/R 36'] - Denis CHERYSHEV (38' MARIO FERNANDES),
+      Iury GAZINSKY [Y 9'] (46' Daler KUZIAEV), Roman ZOBNIN, Alexey MIRANCHUK (60' Fedor SMOLOV),
+      Alexander SAMEDOV - Artem DZYUBA
+
+Refs: Malang DIEDHIOU (SEN), Djibril Camara (SEN), El Hadji Malick Samba (SEN)
+
+
+▪▪ Group B
+Fri Jun 15 18:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 62548
+  Morocco v Iran  0-1
+     (Aziz BOUHADDOUZ 90+5'(og))
+
+Morocco: Monir EL KAJOUI - Achraf HAKIMI, Mehdi BENATIA [c], Romain SAISS, Noureddine AMRABAT (76' Sofyan AMRABAT) -
+      Hakim ZIYECH, Karim EL AHMADI [Y 34'], Younes BELHANDA, Mbark BOUSSOUFA,
+      Amine HARIT (82' Manuel DA COSTA) - Ayoub EL KAABI (77' Aziz BOUHADDOUZ)
+Iran: Ali BEIRANVAND - Ehsan HAJI SAFI, Roozbeh CHESHMI, Morteza POURALIGANJI,
+      Ramin REZAEIAN - Masoud SHOJAEI [c] [Y 10'] (68' Mehdi TAREMI), Omid EBRAHIMI (79' Majid HOSSEINI),
+      Karim ANSARIFARD [Y 90+2'], Vahid AMIRI, Alireza JAHANBAKHSH [Y 47'] (85' Saman GHODDOS) -
+      Sardar AZMOUN
+
+Refs: Cüneyt Çakιr (TUR), Bahattin Duran (TUR), Tarık Ongun (TUR)
+
+
+Fri Jun 15 21:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 43866
+  Portugal v Spain  3-3
+     (CRISTIANO RONALDO 4', 44', 88';
+      Diego COSTA 24', 55', NACHO 58')
+
+Portugal: RUI PATRICIO - PEPE, RAPHAEL GUERREIRO, JOSE FONTE, CEDRIC - JOAO MOUTINHO,
+      BERNARDO SILVA (69' RICARDO QUARESMA), WILLIAM, BRUNO FERNANDES [Y 28'] (68' JOAO MARIO) -
+      CRISTIANO RONALDO [c], GONCALO GUEDES (80' ANDRE SILVA)
+Spain: David DE GEA - Gerard PIQUE, NACHO, Sergio RAMOS [c], Jordi ALBA - Sergio BUSQUETS [Y 17'],
+      Andres INIESTA (70' THIAGO), KOKE, David SILVA (86' Lucas VAZQUEZ), ISCO -
+      Diego COSTA (77' Iago ASPAS)
+
+Refs: Gianluca Rocchi (ITA), Elenito Di Liberatore (ITA), Mauro Tonolini (ITA)
+
+
+Wed Jun 20 15:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Portugal v Morocco  1-0
+     (CRISTIANO RONALDO 4')
+
+Portugal: RUI PATRICIO - PEPE, RAPHAEL GUERREIRO, JOSE FONTE, CEDRIC - JOAO MOUTINHO (89' ADRIEN SILVA [Y 90+2']),
+      JOAO MARIO (70' BRUNO FERNANDES), BERNARDO SILVA (59' GELSON MARTINS),
+      WILLIAM - CRISTIANO RONALDO [c], GONCALO GUEDES
+Morocco: Monir EL KAJOUI - Achraf HAKIMI, Manuel DA COSTA, Mehdi BENATIA [c] [Y 40'],
+      Nabil DIRAR - Hakim ZIYECH, Karim EL AHMADI (86' Faycal FAJR), Younes BELHANDA (75' Mehdi CARCELA),
+      Mbark BOUSSOUFA, Noureddine AMRABAT - Khalid BOUTAIB (69' Ayoub EL KAABI)
+
+Refs: Mark GEIGER (USA), Joe FLETCHER (CAN), Frank Anderson (USA)
+
+
+Wed Jun 20 21:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 42718
+  Iran v Spain  0-1
+     (Diego COSTA 54')
+
+Iran: Ali BEIRANVAND - Ehsan HAJI SAFI [c] (69' Milad MOHAMMADI), Morteza POURALIGANJI,
+      Majid HOSSEINI, Ramin REZAEIAN - Saeid EZATOLAHI, Omid EBRAHIMI [Y 90+2'],
+      Karim ANSARIFARD (74' Alireza JAHANBAKHSH), Vahid AMIRI [Y 79'] (86' Saman GHODDOS),
+      Mehdi TAREMI - Sardar AZMOUN
+Spain: David DE GEA - Dani CARVAJAL, Gerard PIQUE, Sergio RAMOS [c], Jordi ALBA -
+      Sergio BUSQUETS, Andres INIESTA (71' KOKE), Lucas VAZQUEZ (79' Marco ASENSIO),
+      David SILVA, ISCO - Diego COSTA (89' RODRIGO)
+
+Refs: Andrés Cunha (URU), Nicolás Taran (URU), Mauricio ESPINOSA (URU)
+
+
+Mon Jun 25 21:00 UTC+3 @ Mordovia Arena, Saransk, Att: 41685
+  Iran v Portugal  1-1
+     (Karim ANSARIFARD 90+3'; RICARDO QUARESMA 45')
+
+Iran: Ali BEIRANVAND - Ehsan HAJI SAFI [c] [Y 52'] (56' Milad MOHAMMADI), Morteza POURALIGANJI,
+      Majid HOSSEINI, Ramin REZAEIAN - Saeid EZATOLAHI (76' Karim ANSARIFARD),
+      Omid EBRAHIMI, Vahid AMIRI, Mehdi TAREMI, Alireza JAHANBAKHSH (70' Saman GHODDOS) -
+      Sardar AZMOUN [Y 54']
+Portugal: RUI PATRICIO - PEPE, RAPHAEL GUERREIRO [Y 33'], JOSE FONTE, CEDRIC [Y 90+8'] -
+      JOAO MARIO (84' JOAO MOUTINHO), WILLIAM, RICARDO QUARESMA [Y 64'] (70' BERNARDO SILVA),
+      ADRIEN SILVA - CRISTIANO RONALDO [c] [Y 83'], ANDRE SILVA (90+6' GONCALO GUEDES)
+
+Refs: Enrique Patricio Cáceres Villafañe (PAR), Eduardo Cardozo (PAR), Juan Bautista Zorrilla Castellano (PAR)
+
+
+Mon Jun 25 20:00 UTC+2 @ Kaliningrad Stadium, Kaliningrad, Att: 33973
+  Spain v Morocco  2-2
+     (ISCO 19', Iago ASPAS 90+1';
+      Khalid BOUTAIB 14', Youssef EN NESYRI 81')
+
+Spain: David DE GEA - Dani CARVAJAL, Gerard PIQUE, Sergio RAMOS [c], Jordi ALBA -
+      Sergio BUSQUETS, Andres INIESTA, THIAGO (74' Marco ASENSIO), David SILVA (84' RODRIGO),
+      ISCO - Diego COSTA (74' Iago ASPAS)
+Morocco: Monir EL KAJOUI [Y 89'] - Achraf HAKIMI [Y 90+4'], Manuel DA COSTA [Y 31'],
+      Romain SAISS, Nabil DIRAR - Hakim ZIYECH (85' Aziz BOUHADDOUZ), Karim EL AHMADI [Y 22'],
+      Younes BELHANDA (64' Faycal FAJR), Mbark BOUSSOUFA [c] [Y 31'], Noureddine AMRABAT [Y 29'] -
+      Khalid BOUTAIB (72' Youssef EN NESYRI)
+
+Refs: Ravshan IRMATOV (UZB), Abdukhamidullo RASULOV (UZB), Jakhongir SAIDOV (UZB)
+
+
+▪▪ Group C
+Sat Jun 16 13:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 41279
+  France v Australia  2-1
+     (Antoine GRIEZMANN 58', Paul POGBA 82';
+      Mile JEDINAK 62')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD, Raphael VARANE, Samuel UMTITI, Lucas HERNANDEZ -
+      Paul POGBA, Corentin TOLISSO [Y 76'] (78' Blaise MATUIDI), Ngolo KANTE -
+      Antoine GRIEZMANN (70' Olivier GIROUD), Kylian MBAPPE, Ousmane DEMBELE (70' Nabil FEKIR)
+Australia: Mathew RYAN - Mark MILLIGAN, Aziz BEHICH [Y 87'], Joshua RISDON [Y 57'],
+      Trent SAINSBURY - Mathew LECKIE [Y 13'], Robbie KRUSE (84' Daniel ARZANI),
+      Aaron MOOY, Mile JEDINAK [c], Tom ROGIC (72' Jackson IRVINE) - Andrew NABBOUT (64' Tomi JURIC)
+
+Refs: Andrés Cunha (URU), Nicolás Taran (URU), Mauricio ESPINOSA (URU)
+
+
+Sat Jun 16 19:00 UTC+3 @ Mordovia Arena, Saransk, Att: 40502
+  Peru v Denmark  0-1
+     (Yussuf Yurary POULSEN 59')
+
+Peru: Pedro GALLESE - Alberto RODRIGUEZ [c], Miguel TRAUCO, Christian RAMOS,
+      Luis ADVINCULA - Christian CUEVA, Renato TAPIA [Y 38'] (87' Pedro AQUINO),
+      Andre CARRILLO, Yoshimar YOTUN, Edison FLORES (62' Paolo GUERRERO) -
+      Jefferson FARFAN (85' Raul RUIDIAZ)
+Denmark: Kasper SCHMEICHEL - Simon KJAER [c], Andreas CHRISTENSEN (81' Mathias JORGENSEN),
+      Henrik DALSGAARD, Jens Stryger LARSEN - William KVIST (36' Lasse SCHONE),
+      Thomas DELANEY [Y 86'], Christian ERIKSEN, Yussuf Yurary POULSEN [Y 90+3'],
+      Pione SISTO (67' Martin BRAITHWAITE) - Nicolai JORGENSEN
+
+Refs: Bakary GASSAMA (GAM), Jean Claude BIRUMUSHAHU (BDI), Abdelhak Etchiali (ALG)
+
+
+Thu Jun 21 16:00 UTC+4 @ Samara Arena, Samara, Att: 40727
+  Denmark v Australia  1-1
+     (Christian ERIKSEN 7'; Mile JEDINAK 38')
+
+Denmark: Kasper SCHMEICHEL - Simon KJAER [c], Andreas CHRISTENSEN, Henrik DALSGAARD,
+      Jens Stryger LARSEN - Thomas DELANEY, Christian ERIKSEN, Lasse SCHONE,
+      Yussuf Yurary POULSEN [Y 37'] (59' Martin BRAITHWAITE), Pione SISTO [Y 84'] -
+      Nicolai JORGENSEN (68' Andreas CORNELIUS)
+Australia: Mathew RYAN - Mark MILLIGAN, Aziz BEHICH, Joshua RISDON, Trent SAINSBURY -
+      Mathew LECKIE, Robbie KRUSE (68' Daniel ARZANI), Aaron MOOY, Mile JEDINAK [c],
+      Tom ROGIC (82' Jackson IRVINE) - Andrew NABBOUT (75' Tomi JURIC)
+
+Refs: Antonio Miguel Mateu Lahoz (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
+
+
+Thu Jun 21 20:00 UTC+5 @ Ekaterinburg Arena, Yekaterinburg, Att: 32789
+  France v Peru  1-0
+     (Kylian MBAPPE 34')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD, Raphael VARANE, Samuel UMTITI, Lucas HERNANDEZ -
+      Paul POGBA [Y 86'] (89' Steven NZONZI), Antoine GRIEZMANN (80' Nabil FEKIR),
+      Kylian MBAPPE (75' Ousmane DEMBELE), Ngolo KANTE, Blaise MATUIDI [Y 16'] -
+      Olivier GIROUD
+Peru: Pedro GALLESE - Alberto RODRIGUEZ (46' Anderson SANTAMARIA), Miguel TRAUCO,
+      Christian RAMOS, Luis ADVINCULA - Christian CUEVA (82' Raul RUIDIAZ),
+      Andre CARRILLO, Yoshimar YOTUN (46' Jefferson FARFAN), Edison FLORES,
+      Pedro AQUINO [Y 81'] - Paolo GUERRERO [c] [Y 23']
+
+Refs: Mohammed ABDULLA (UAE), Mohamed AL HAMMADI (UAE), Hasan AL MAHRI (UAE)
+
+
+Tue Jun 26 17:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Denmark v France  0-0
+
+Denmark: Kasper SCHMEICHEL - Simon KJAER [c], Mathias JORGENSEN [Y 45+3'], Henrik DALSGAARD,
+      Jens Stryger LARSEN - Andreas CHRISTENSEN, Thomas DELANEY (90+2' Lukas LERAGER),
+      Christian ERIKSEN, Martin BRAITHWAITE, Pione SISTO (60' Viktor FISCHER) -
+      Andreas CORNELIUS (75' Kasper DOLBERG)
+France: Steve MANDANDA - Presnel KIMPEMBE, Raphael VARANE [c], Djibril SIDIBE,
+      Lucas HERNANDEZ (50' Benjamin MENDY) - Antoine GRIEZMANN (69' Nabil FEKIR),
+      Thomas LEMAR, Ousmane DEMBELE (78' Kylian MBAPPE), Ngolo KANTE, Steven NZONZI -
+      Olivier GIROUD
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+
+Tue Jun 26 17:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 44073
+  Australia v Peru  0-2
+     (Andre CARRILLO 18', Paolo GUERRERO 50')
+
+Australia: Mathew RYAN - Mark MILLIGAN [Y 88'], Aziz BEHICH, Joshua RISDON, Trent SAINSBURY -
+      Mathew LECKIE, Robbie KRUSE (58' Daniel ARZANI [Y 60']), Aaron MOOY,
+      Mile JEDINAK [c] [Y 10'], Tom ROGIC [Y 66'] (72' Jackson IRVINE) - Tomi JURIC (53' Tim CAHILL)
+Peru: Pedro GALLESE - Anderson SANTAMARIA, Miguel TRAUCO, Christian RAMOS,
+      Luis ADVINCULA - Christian CUEVA, Renato TAPIA (63' Paolo HURTADO [Y 79']),
+      Andre CARRILLO (79' Wilder CARTAGENA), Yoshimar YOTUN [Y 45'] (46' Pedro AQUINO),
+      Edison FLORES - Paolo GUERRERO [c]
+
+Refs: Sergey Karasev (RUS), Anton Averianov (RUS), Tikhon KALUGIN (RUS)
+
+
+▪▪ Group D
+Sat Jun 16 16:00 UTC+3 @ Otkrytiye Arena, Moscow, Att: 44190
+  Argentina v Iceland  1-1
+     (Sergio AGUERO 19'; Alfred FINNBOGASON 23')
+
+Argentina: Wilfredo CABALLERO - Nicolas TAGLIAFICO, Marcos ROJO, Nicolas OTAMENDI,
+      Eduardo SALVIO - Lucas BIGLIA (54' Ever BANEGA), Lionel MESSI [c], Angel DI MARIA (75' Cristian PAVON),
+      Maximiliano MEZA (84' Gonzalo HIGUAIN), Javier MASCHERANO - Sergio AGUERO
+Iceland: Hannes HALLDORSSON - Birkir SAEVARSSON, Ragnar SIGURDSSON, Kari ARNASON,
+      Hordur MAGNUSSON - Johann GUDMUNDSSON (63' Rurik GISLASON), Birkir BJARNASON,
+      Aron GUNNARSSON [c] (76' Ari SKULASON), Emil HALLFREDSSON - Gylfi SIGURDSSON,
+      Alfred FINNBOGASON (89' Bjorn SIGURDARSON)
+
+Refs: Szymon Marciniak (POL), Pawel Sokolnicki (POL), Tomasz Listkiewicz (POL)
+
+
+Sat Jun 16 21:00 UTC+2 @ Kaliningrad Stadium, Kaliningrad, Att: 31136
+  Croatia v Nigeria  2-0
+     (Oghenekaro ETEBO 33'(og), Luka MODRIC 71')
+
+Croatia: Danijel SUBASIC - Sime VRSALJKO, Ivan STRINIC, Dejan LOVREN, Domagoj VIDA -
+      Ivan PERISIC, Ivan RAKITIC [Y 30'], Andrej KRAMARIC (60' Marcelo BROZOVIC [Y 89']),
+      Luka MODRIC [c], Ante REBIC (78' Mateo KOVACIC) - Mario MANDZUKIC (85' Marko PJACA)
+Nigeria: Francis UZOHO - Bryan IDOWU, William EKONG [Y 70'], Leon BALOGUN, Abdullahi SHEHU -
+      Wilfred NDIDI, Oghenekaro ETEBO, Victor MOSES, Alex IWOBI (62' Ahmed MUSA) -
+      Odion IGHALO (72' Kelechi IHEANACHO), John Obi MIKEL [c] (88' Simeon NWANKWO)
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+
+Thu Jun 21 21:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 43319
+  Argentina v Croatia  0-3
+     (Ante REBIC 53', Luka MODRIC 80', Ivan RAKITIC 90+1')
+
+Argentina: Wilfredo CABALLERO - Gabriel MERCADO [Y 51'], Nicolas TAGLIAFICO, Nicolas OTAMENDI [Y 85'] -
+      Marcos ACUNA [Y 87'], Javier MASCHERANO, Enzo PEREZ (68' Paulo DYBALA),
+      Eduardo SALVIO (56' Cristian PAVON) - Lionel MESSI [c], Maximiliano MEZA,
+      Sergio AGUERO (54' Gonzalo HIGUAIN)
+Croatia: Danijel SUBASIC - Sime VRSALJKO [Y 67'], Ivan STRINIC, Dejan LOVREN,
+      Domagoj VIDA - Ivan PERISIC (82' Mateo KOVACIC), Ivan RAKITIC, Luka MODRIC [c],
+      Marcelo BROZOVIC, Ante REBIC [Y 39'] (57' Andrej KRAMARIC) - Mario MANDZUKIC [Y 58'] (90+2' Vedran CORLUKA [Y 90+4'])
+
+Refs: Ravshan IRMATOV (UZB), Abdukhamidullo RASULOV (UZB), Jakhongir SAIDOV (UZB)
+
+
+Fri Jun 22 18:00 UTC+3 @ Central Stadium, Volgograd, Att: 40904
+  Nigeria v Iceland  2-0
+     (Ahmed MUSA 49', 75')
+
+Nigeria: Francis UZOHO - William EKONG, Leon BALOGUN, Kenneth OMERUO - Bryan IDOWU [Y 44'] (46' Tyronne EBUEHI),
+      Wilfred NDIDI, Oghenekaro ETEBO (90' Alex IWOBI), John Obi MIKEL [c],
+      Victor MOSES - Ahmed MUSA, Kelechi IHEANACHO (85' Odion IGHALO)
+Iceland: Hannes HALLDORSSON - Birkir SAEVARSSON, Ragnar SIGURDSSON (65' Sverrir INGASON),
+      Kari ARNASON, Hordur MAGNUSSON - Birkir BJARNASON, Gylfi SIGURDSSON,
+      Aron GUNNARSSON [c] (87' Ari SKULASON), Rurik GISLASON - Alfred FINNBOGASON,
+      Jon BODVARSSON (71' Bjorn SIGURDARSON)
+
+Refs: Matthew Rowell Conger (NZL), Simon LOUNT (NZL), Tevita MAKASINI (TGA)
+
+
+Tue Jun 26 21:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64468
+  Nigeria v Argentina  1-2
+     (Victor MOSES 51';
+      Lionel MESSI 14', Marcos ROJO 86')
+
+Nigeria: Francis UZOHO - William EKONG, Leon BALOGUN [Y 32'], Kenneth OMERUO (90' Alex IWOBI) -
+      Bryan IDOWU, Wilfred NDIDI, Oghenekaro ETEBO, John Obi MIKEL [c] [Y 90+1'],
+      Victor MOSES - Ahmed MUSA (90+2' Simeon NWANKWO), Kelechi IHEANACHO (46' Odion IGHALO)
+Argentina: Franco ARMANI - Gabriel MERCADO, Nicolas TAGLIAFICO (80' Sergio AGUERO),
+      Marcos ROJO, Nicolas OTAMENDI - Ever BANEGA [Y 64'], Javier MASCHERANO [Y 49'],
+      Enzo PEREZ (61' Cristian PAVON) - Gonzalo HIGUAIN, Lionel MESSI [c] [Y 90+4'],
+      Angel DI MARIA (72' Maximiliano MEZA)
+
+Refs: Cüneyt Çakιr (TUR), Bahattin Duran (TUR), Tarık Ongun (TUR)
+
+
+Tue Jun 26 21:00 UTC+3 @ Rostov Arena, Rostov-on-Don, Att: 43472
+  Iceland v Croatia  1-2
+     (Gylfi SIGURDSSON 76';
+      Milan BADELJ 53', Ivan PERISIC 90')
+
+Iceland: Hannes HALLDORSSON - Birkir SAEVARSSON [Y 84'], Sverrir INGASON, Ragnar SIGURDSSON (70' Bjorn SIGURDARSON),
+      Hordur MAGNUSSON - Johann GUDMUNDSSON, Birkir BJARNASON (90' Arnor TRAUSTASON),
+      Gylfi SIGURDSSON, Aron GUNNARSSON [c], Emil HALLFREDSSON [Y 59'] - Alfred FINNBOGASON [Y 64'] (85' Albert GUDMUNDSSON)
+Croatia: Lovre KALINIC - Vedran CORLUKA, Tin JEDVAJ [Y 83'], Duje CALETA-CAR,
+      Josip PIVARIC - Ivan PERISIC, Mateo KOVACIC (81' Ivan RAKITIC), Luka MODRIC [c] (65' Filip BRADARIC),
+      Milan BADELJ, Marko PJACA [Y 14'] (70' Dejan LOVREN) - Andrej KRAMARIC
+
+Refs: Antonio Miguel Mateu Lahoz (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
+
+
+▪▪ Group E
+Sun Jun 17 16:00 UTC+4 @ Samara Arena, Samara, Att: 41432
+  Costa Rica v Serbia  0-1
+     (Aleksandar KOLAROV 56')
+
+Costa Rica: Keylor NAVAS - Johnny ACOSTA, Giancarlo GONZALEZ, Oscar DUARTE - Celso BORGES,
+      Bryan RUIZ [c], Johan VENEGAS (60' Christian BOLANOS), Francisco CALVO [Y 22'],
+      Cristian GAMBOA, David GUZMAN [Y 56'] (73' Daniel COLINDRES) - Marcos URENA (66' Joel CAMPBELL)
+Serbia: Vladimir STOJKOVIC - Dusko TOSIC, Branislav IVANOVIC [Y 59'], Aleksandar KOLAROV [c],
+      Nikola MILENKOVIC - Luka MILIVOJEVIC, Dusan TADIC (82' Antonio RUKAVINA),
+      Sergej MILINKOVIC-SAVIC, Nemanja MATIC, Adem LJAJIC (70' Filip KOSTIC) -
+      Aleksandar MITROVIC (90' Aleksandar PRIJOVIC [Y 90+8'])
+
+Refs: Malang DIEDHIOU (SEN), Djibril Camara (SEN), El Hadji Malick Samba (SEN)
+
+
+Sun Jun 17 21:00 UTC+3 @ Rostov Arena, Rostov-on-Don, Att: 43109
+  Brazil v Switzerland  1-1
+     (PHILIPPE COUTINHO 20'; Steven ZUBER 50')
+
+Brazil: ALISSON - THIAGO SILVA, MIRANDA, MARCELO [c], DANILO - CASEMIRO [Y 47'] (60' FERNANDINHO),
+      PHILIPPE COUTINHO, PAULINHO (67' RENATO AUGUSTO) - GABRIEL JESUS (79' ROBERTO FIRMINO),
+      NEYMAR, WILLIAN
+Switzerland: Yann SOMMER - Stephan LICHTSTEINER [c] [Y 31'] (87' Michael LANG), Manuel AKANJI,
+      Ricardo RODRIGUEZ, Fabian SCHAER [Y 65'] - Granit XHAKA, Valon BEHRAMI [Y 68'] (71' Denis ZAKARIA),
+      Steven ZUBER, Blerim DZEMAILI, Xherdan SHAQIRI - Haris SEFEROVIC (80' Breel EMBOLO)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+Fri Jun 22 15:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64468
+  Brazil v Costa Rica  2-0
+     (PHILIPPE COUTINHO 90+1', NEYMAR 90+7')
+
+Brazil: ALISSON - THIAGO SILVA [c], MIRANDA, MARCELO, FAGNER - CASEMIRO, PHILIPPE COUTINHO [Y 81'],
+      PAULINHO (68' ROBERTO FIRMINO) - GABRIEL JESUS (90+3' FERNANDINHO), NEYMAR [Y 81'],
+      WILLIAN (46' DOUGLAS COSTA)
+Costa Rica: Keylor NAVAS - Johnny ACOSTA [Y 84'], Giancarlo GONZALEZ, Oscar DUARTE -
+      Celso BORGES, Bryan OVIEDO, Bryan RUIZ [c], Johan VENEGAS, Cristian GAMBOA (75' Francisco CALVO),
+      David GUZMAN (83' Yeltsin TEJEDA) - Marcos URENA (54' Christian BOLANOS)
+
+Refs: Björn Kuipers (NED), Sander van Roekel (NED), Erwin Zeinstra (NED)
+
+
+Fri Jun 22 20:00 UTC+2 @ Kaliningrad Stadium, Kaliningrad, Att: 33167
+  Serbia v Switzerland  1-2
+     (Aleksandar MITROVIC 5';
+      Granit XHAKA 52', Xherdan SHAQIRI 90')
+
+Serbia: Vladimir STOJKOVIC - Dusko TOSIC, Branislav IVANOVIC, Aleksandar KOLAROV [c],
+      Nikola MILENKOVIC - Luka MILIVOJEVIC [Y 39'] (81' Nemanja RADONJIC),
+      Dusan TADIC, Filip KOSTIC (65' Adem LJAJIC), Sergej MILINKOVIC-SAVIC [Y 33'],
+      Nemanja MATIC [Y 45+2'] - Aleksandar MITROVIC [Y 87']
+Switzerland: Yann SOMMER - Stephan LICHTSTEINER [c], Manuel AKANJI, Ricardo RODRIGUEZ,
+      Fabian SCHAER - Granit XHAKA, Valon BEHRAMI, Steven ZUBER (90+4' Josip DRMIC),
+      Blerim DZEMAILI (73' Breel EMBOLO), Xherdan SHAQIRI [Y 90+1'] - Haris SEFEROVIC (46' Mario GAVRANOVIC)
+
+Refs: Felix Brych (GER), Mark Borsch (GER), Stefan Lupp (GER)
+
+
+Wed Jun 27 21:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 43319
+  Switzerland v Costa Rica  2-2
+     (Blerim DZEMAILI 31', Josip DRMIC 88';
+      Kendall WASTON 56', Bryan RUIZ 90+3')
+
+Switzerland: Yann SOMMER - Stephan LICHTSTEINER [c] [Y 37'], Manuel AKANJI, Ricardo RODRIGUEZ,
+      Fabian SCHAER [Y 83'] - Breel EMBOLO, Granit XHAKA, Valon BEHRAMI (60' Denis ZAKARIA [Y 75']),
+      Blerim DZEMAILI, Xherdan SHAQIRI (81' Michael LANG) - Mario GAVRANOVIC (69' Josip DRMIC)
+Costa Rica: Keylor NAVAS - Johnny ACOSTA, Giancarlo GONZALEZ, Kendall WASTON [Y 89'] -
+      Celso BORGES, Bryan OVIEDO, Daniel COLINDRES (81' Rodney WALLACE), Bryan RUIZ [c],
+      Cristian GAMBOA [Y 12'] (90+3' Ian SMITH), David GUZMAN (90+1' Randall AZOFEIFA) -
+      Joel CAMPBELL [Y 29']
+
+Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
+
+
+Wed Jun 27 21:00 UTC+3 @ Otkrytiye Arena, Moscow, Att: 44190
+  Serbia v Brazil  0-2
+     (PAULINHO 36', THIAGO SILVA 68')
+
+Serbia: Vladimir STOJKOVIC - Antonio RUKAVINA, Aleksandar KOLAROV [c], Milos VELJKOVIC,
+      Nikola MILENKOVIC - Dusan TADIC, Filip KOSTIC (82' Nemanja RADONJIC),
+      Sergej MILINKOVIC-SAVIC, Nemanja MATIC [Y 48'], Adem LJAJIC [Y 33'] (75' Andrija ZIVKOVIC) -
+      Aleksandar MITROVIC [Y 71'] (89' Luka JOVIC)
+Brazil: ALISSON - THIAGO SILVA, MIRANDA [c], MARCELO (10' FILIPE LUIS), FAGNER -
+      CASEMIRO, PHILIPPE COUTINHO (80' RENATO AUGUSTO), PAULINHO (66' FERNANDINHO) -
+      GABRIEL JESUS, NEYMAR, WILLIAN
+
+Refs: Alireza Faghani (IRN), Reza SOKHANDAN (IRN), Mohammad Reza Mansouri (IRN)
+
+
+▪▪ Group F
+Sun Jun 17 18:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Germany v Mexico  0-1
+     (Hirving LOZANO 35')
+
+Germany: Manuel NEUER [c] - Marvin PLATTENHARDT (79' Mario GOMEZ), Mats HUMMELS [Y 84'],
+      Jerome BOATENG, Joshua KIMMICH - Sami KHEDIRA (60' Marco REUS), Julian DRAXLER,
+      Toni KROOS, Mesut OEZIL, Thomas MUELLER [Y 83'] - Timo WERNER (86' Julian BRANDT)
+Mexico: Guillermo OCHOA - Hugo AYALA, Carlos SALCEDO, Hector MORENO [Y 40'],
+      Jesus GALLARDO - Miguel LAYUN, Carlos VELA (58' Edson ALVAREZ), Hector HERRERA [Y 90'],
+      Andres GUARDADO [c] (74' Rafael MARQUEZ), Hirving LOZANO (66' Raul JIMENEZ) -
+      Javier HERNANDEZ
+
+Refs: Alireza Faghani (IRN), Reza SOKHANDAN (IRN), Mohammad Reza Mansouri (IRN)
+
+
+Mon Jun 18 15:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 42300
+  Sweden v South Korea  1-0
+     (Andreas GRANQVIST 65')
+
+Sweden: Robin OLSEN - Mikael LUSTIG, Andreas GRANQVIST [c], Ludwig AUGUSTINSSON,
+      Pontus JANSSON - Sebastian LARSSON (81' Gustav SVENSSON), Albin EKDAL (71' Oscar HILJEMARK),
+      Emil FORSBERG, Viktor CLAESSON [Y 61'] - Marcus BERG, Ola TOIVONEN (77' Isaac Kiese THELIN)
+South Korea: JO Hyeonwoo - LEE Yong, PARK Jooho (28' KIM Minwoo), KIM Younggwon, JANG Hyunsoo -
+      KOO Jacheol (72' LEE Seungwoo), KI Sungyueng [c], LEE Jaesung - SON Heungmin,
+      KIM Shinwook [Y 13'] (66' JUNG Wooyoung), HWANG Heechan [Y 55']
+
+Refs: Joel Antonio Aguilar Chicas (SLV), Juan Francisco Zumba (SLV), Juan Carlos Mora (CRC)
+
+
+Sat Jun 23 18:00 UTC+3 @ Rostov Arena, Rostov-on-Don, Att: 43472
+  South Korea v Mexico  1-2
+     (SON Heungmin 90+3';
+      Carlos VELA 26', Javier HERNANDEZ 66')
+
+South Korea: JO Hyeonwoo - LEE Yong [Y 63'], KIM Minwoo (84' HONG Chul), KIM Younggwon [Y 58'],
+      JANG Hyunsoo - JU Sejong (64' LEE Seungwoo [Y 72']), HWANG Heechan, KI Sungyueng [c],
+      LEE Jaesung, MOON Seonmin (77' JUNG Wooyoung [Y 80']) - SON Heungmin
+Mexico: Guillermo OCHOA - Carlos SALCEDO, Hector MORENO, Edson ALVAREZ, Jesus GALLARDO -
+      Miguel LAYUN, Carlos VELA (77' Giovani DOS SANTOS), Hector HERRERA, Andres GUARDADO [c] (68' Rafael MARQUEZ),
+      Hirving LOZANO (71' Jesus CORONA) - Javier HERNANDEZ
+
+Refs: Milorad Mažić (SRB), Milovan Ristić (SRB), Dalibor Đurđević (SRB)
+
+
+Sat Jun 23 21:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 44287
+  Germany v Sweden  2-1
+     (Marco REUS 48', Toni KROOS 90+5';
+      Ola TOIVONEN 32')
+
+Germany: Manuel NEUER [c] - Jonas HECTOR (87' Julian BRANDT), Antonio RUEDIGER,
+      Jerome BOATENG [Y 71'] [Y/R 82'], Joshua KIMMICH - Julian DRAXLER (46' Mario GOMEZ),
+      Toni KROOS, Marco REUS, Thomas MUELLER, Sebastian RUDY (31' Ilkay GUENDOGAN) -
+      Timo WERNER
+Sweden: Robin OLSEN - Mikael LUSTIG, Victor LINDELOF, Andreas GRANQVIST [c],
+      Ludwig AUGUSTINSSON - Sebastian LARSSON [Y 90+7'], Albin EKDAL [Y 52'],
+      Emil FORSBERG, Viktor CLAESSON (74' Jimmy DURMAZ) - Marcus BERG (90' Isaac Kiese THELIN),
+      Ola TOIVONEN (78' John GUIDETTI)
+
+Refs: Szymon Marciniak (POL), Pawel Sokolnicki (POL), Tomasz Listkiewicz (POL)
+
+
+Wed Jun 27 19:00 UTC+5 @ Ekaterinburg Arena, Yekaterinburg, Att: 33061
+  Mexico v Sweden  0-3
+     (Ludwig AUGUSTINSSON 50', Andreas GRANQVIST 62', Edson ALVAREZ 74'(og))
+
+Mexico: Guillermo OCHOA - Carlos SALCEDO, Hector MORENO [Y 61'], Edson ALVAREZ,
+      Jesus GALLARDO [Y 1'] (65' Marco FABIAN) - Miguel LAYUN [Y 85'] (89' Oribe PERALTA),
+      Carlos VELA, Hector HERRERA, Andres GUARDADO [c] (75' Jesus CORONA),
+      Hirving LOZANO - Javier HERNANDEZ
+Sweden: Robin OLSEN - Mikael LUSTIG [Y 88'], Victor LINDELOF, Andreas GRANQVIST [c],
+      Ludwig AUGUSTINSSON - Sebastian LARSSON [Y 26'] (57' Gustav SVENSSON),
+      Albin EKDAL (80' Oscar HILJEMARK), Emil FORSBERG, Viktor CLAESSON - Marcus BERG (68' Isaac Kiese THELIN),
+      Ola TOIVONEN
+
+Refs: Néstor Fabián Pitana (ARG), Hernán Maidana (ARG), Juan Pablo Belatti (ARG)
+
+
+Wed Jun 27 17:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 41835
+  South Korea v Germany  2-0
+     (KIM Younggwon 90+4', SON Heungmin 90+6')
+
+South Korea: JO Hyeonwoo - LEE Yong, YUN Youngsun, HONG Chul, KIM Younggwon - KOO Jacheol (56' HWANG Heechan (79' GO Yohan)),
+      JUNG Wooyoung [Y 9'], LEE Jaesung [Y 23'], MOON Seonmin [Y 48'] (69' JU Sejong),
+      JANG Hyunsoo - SON Heungmin [c] [Y 65']
+Germany: Manuel NEUER [c] - Jonas HECTOR (78' Julian BRANDT), Mats HUMMELS, Niklas SUELE,
+      Joshua KIMMICH - Sami KHEDIRA (58' Mario GOMEZ), Toni KROOS, Mesut OEZIL,
+      Marco REUS, Leon GORETZKA (63' Thomas MUELLER) - Timo WERNER
+
+Refs: Mark GEIGER (USA), Joe FLETCHER (CAN), Frank Anderson (USA)
+
+
+▪▪ Group G
+Mon Jun 18 18:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 43257
+  Belgium v Panama  3-0
+     (Dries MERTENS 47', Romelu LUKAKU 69', 75')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Jan VERTONGHEN [Y 59'], Dedryck BOYATA -
+      Axel WITSEL (90' Nacer CHADLI), Kevin DE BRUYNE [Y 88'], Yannick CARRASCO (74' Moussa DEMBELE),
+      Thomas MEUNIER [Y 14'] - Romelu LUKAKU, Eden HAZARD [c], Dries MERTENS (83' Thorgan HAZARD)
+Panama: Jaime PENEDO - Michael MURILLO [Y 51'], Fidel ESCOBAR, Roman TORRES [c],
+      Eric DAVIS [Y 18'] - Gabriel GOMEZ, Edgar BARCENAS [Y 45+2'] (63' Gabriel TORRES),
+      Armando COOPER [Y 49'], Anibal GODOY [Y 57'], Jose Luis RODRIGUEZ (63' Ismael DIAZ) -
+      Blas PEREZ (73' Luis TEJADA)
+
+Refs: Janny Sikazwe (ZAM), Jerson Emiliano dos Santos (ANG), Zakhele SIWELA (RSA)
+
+
+Mon Jun 18 21:00 UTC+3 @ Central Stadium, Volgograd, Att: 41064
+  Tunisia v England  1-2
+     (Ferjani SASSI 35';
+      Harry KANE 11', 90+1')
+
+Tunisia: Mouez HASSEN (15' Farouk BEN MUSTAPHA) - Syam BEN YOUSSEF, Yassine MERIAH,
+      Dylan BRONN, Ali MAALOUL - Fakhreddine BEN YOUSSEF, Anice BADRI, Ferjani SASSI,
+      Ellyes SKHIRI, Naim SLITI (74' Mohamed BEN AMOR) - Wahbi KHAZRI [c] (85' Saber KHALIFA)
+England: Jordan PICKFORD - Kyle WALKER [Y 34'], John STONES, Harry MAGUIRE - Jesse LINGARD (90+3' Eric DIER),
+      Jordan HENDERSON, Kieran TRIPPIER, Ashley YOUNG, Dele ALLI (80' Ruben LOFTUS-CHEEK) -
+      Harry KANE [c], Raheem STERLING (68' Marcus RASHFORD)
+
+Refs: Wilmar Alexander Roldán Pérez (COL), Alexander Guzmán Bonilla (COL), Cristian DE LA CRUZ (COL)
+
+
+Sat Jun 23 15:00 UTC+3 @ Otkrytiye Arena, Moscow, Att: 44190
+  Belgium v Tunisia  5-2
+     (Eden HAZARD 6', 51', Romelu LUKAKU 16', 45+3', Michy BATSHUAYI 90';
+      Dylan BRONN 18', Wahbi KHAZRI 90+3')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Jan VERTONGHEN, Dedryck BOYATA -
+      Axel WITSEL, Kevin DE BRUYNE, Yannick CARRASCO, Thomas MEUNIER - Romelu LUKAKU (59' Marouane FELLAINI),
+      Eden HAZARD [c] (68' Michy BATSHUAYI), Dries MERTENS (86' Youri TIELEMANS)
+Tunisia: Farouk BEN MUSTAPHA - Syam BEN YOUSSEF (41' Yohan BEN ALOUANE), Yassine MERIAH,
+      Dylan BRONN (24' Hamdi NAGUEZ), Ali MAALOUL - Saifeddine KHAOUI, Fakhreddine BEN YOUSSEF,
+      Anice BADRI, Ferjani SASSI [Y 14'] (59' Naim SLITI), Ellyes SKHIRI -
+      Wahbi KHAZRI [c]
+
+Refs: Jair Marrufo (USA), Corey Rockwell (USA), Juan Francisco Zumba (SLV)
+
+
+Sun Jun 24 15:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 43319
+  England v Panama  6-1
+     (John STONES 8', 40', Harry KANE 22', 45+1', 62', Jesse LINGARD 36';
+      Felipe BALOY 78')
+
+England: Jordan PICKFORD - Kyle WALKER, John STONES, Harry MAGUIRE - Jesse LINGARD (63' Fabian DELPH),
+      Jordan HENDERSON, Kieran TRIPPIER (70' Danny ROSE), Ashley YOUNG, Ruben LOFTUS-CHEEK [Y 23'] -
+      Harry KANE [c] (63' Jamie VARDY), Raheem STERLING
+Panama: Jaime PENEDO - Michael MURILLO [Y 72'], Fidel ESCOBAR [Y 45'], Roman TORRES [c],
+      Eric DAVIS - Gabriel GOMEZ (69' Felipe BALOY), Edgar BARCENAS (69' Abdiel ARROYO),
+      Armando COOPER [Y 10'], Anibal GODOY (64' Ricardo AVILA), Jose Luis RODRIGUEZ -
+      Blas PEREZ
+
+Refs: Ghead GRISHA (EGY), Redouane ACHIK (MAR), Waleed AHMED (SDN)
+
+
+Thu Jun 28 20:00 UTC+2 @ Kaliningrad Stadium, Kaliningrad, Att: 33973
+  England v Belgium  0-1
+     (Adnan JANUZAJ 51')
+
+England: Jordan PICKFORD - John STONES (46' Harry MAGUIRE), Gary CAHILL, Phil JONES -
+      Danny ROSE, Eric DIER [c], Fabian DELPH, Ruben LOFTUS-CHEEK, Trent ALEXANDER-ARNOLD (79' Danny WELBECK) -
+      Jamie VARDY, Marcus RASHFORD
+Belgium: Thibaut COURTOIS [c] - Thomas VERMAELEN (75' Vincent KOMPANY), Dedryck BOYATA,
+      Leander DENDONCKER [Y 33'] - Marouane FELLAINI, Thorgan HAZARD, Youri TIELEMANS [Y 19'],
+      Adnan JANUZAJ (86' Dries MERTENS), Moussa DEMBELE, Nacer CHADLI - Michy BATSHUAYI
+
+Refs: Damir SKOMINA (SVN), Jure Praprotnik (SVN), Robert Vukan (SVN)
+
+
+Thu Jun 28 21:00 UTC+3 @ Mordovia Arena, Saransk, Att: 37168
+  Panama v Tunisia  1-2
+     (Yassine MERIAH 33'(og);
+      Fakhreddine BEN YOUSSEF 51', Wahbi KHAZRI 66')
+
+Panama: Jaime PENEDO - Fidel ESCOBAR, Roman TORRES [c] (56' Luis TEJADA [Y 90+6']),
+      Adolfo MACHADO, Luis OVALLE - Gabriel GOMEZ [Y 80'], Edgar BARCENAS,
+      Ricardo AVILA [Y 78'] (81' Abdiel ARROYO), Anibal GODOY, Jose Luis RODRIGUEZ -
+      Gabriel TORRES (46' Harold CUMMINGS)
+Tunisia: Aymen MATHLOUTHI [c] - Yassine MERIAH, Oussama HADDADI, Rami BEDOUI,
+      Hamdi NAGUEZ - Ferjani SASSI [Y 44'] (46' Anice BADRI [Y 71']), Ellyes SKHIRI,
+      Ghaylen CHAALELI [Y 90+3'] - Fakhreddine BEN YOUSSEF, Wahbi KHAZRI (89' Bassem SRARFI),
+      Naim SLITI (76' Ahmed KHALIL)
+
+Refs: Nawaf Abdulla Ghayyath Shukralla (BHR), Yaser TULEFAT (BHR), Taleb Salem Al Marri (QAT)
+
+
+▪▪ Group H
+Tue Jun 19 15:00 UTC+3 @ Mordovia Arena, Saransk, Att: 40842
+  Colombia v Japan  1-2
+     (Juan QUINTERO 39';
+      Shinji KAGAWA 6', Yuya OSAKO 73')
+
+Colombia: David OSPINA - Oscar MURILLO, Santiago ARIAS, Johan MOJICA, Davinson SANCHEZ -
+      Carlos SANCHEZ [R 4'], Juan CUADRADO (31' Wilmar BARRIOS [Y 64']), Jefferson LERMA,
+      Juan QUINTERO (59' James RODRIGUEZ [Y 86']), Jose IZQUIERDO (70' Carlos BACCA) -
+      Radamel FALCAO [c]
+Japan: Eiji KAWASHIMA [Y 90+3'] - Gen SHOJI, Yuto NAGATOMO, Hiroki SAKAI, Maya YOSHIDA -
+      Gaku SHIBASAKI (80' Hotaru YAMAGUCHI), Genki HARAGUCHI, Shinji KAGAWA (70' Keisuke HONDA),
+      Takashi INUI, Makoto HASEBE [c] - Yuya OSAKO (85' Shinji OKAZAKI)
+
+Refs: Damir SKOMINA (SVN), Jure Praprotnik (SVN), Robert Vukan (SVN)
+
+
+Tue Jun 19 18:00 UTC+3 @ Otkrytiye Arena, Moscow, Att: 44190
+  Poland v Senegal  1-2
+     (Grzegorz KRYCHOWIAK 86';
+      Thiago CIONEK 37'(og), Mbaye NIANG 61')
+
+Poland: Wojciech SZCZESNY - Michal PAZDAN, Thiago CIONEK, Maciej RYBUS, Lukasz PISZCZEK (83' Bartosz BERESZYNSKI) -
+      Grzegorz KRYCHOWIAK [Y 12'], Kamil GROSICKI, Jakub BLASZCZYKOWSKI (46' Jan BEDNAREK),
+      Piotr ZIELINSKI - Arkadiusz MILIK (73' Dawid KOWNACKI), Robert LEWANDOWSKI [c]
+Senegal: Khadim NDIAYE - Kalidou KOULIBALY, Salif SANE [Y 49'], Youssouf SABALY,
+      Moussa WAGUE - Idrissa Gana GUEYE [Y 72'], Sadio MANE [c], Alfred NDIAYE (87' Cheikhou KOUYATE),
+      Ismaila SARR - Mame DIOUF (62' Cheikh NDOYE), Mbaye NIANG (75' Moussa KONATE)
+
+Refs: Nawaf Abdulla Ghayyath Shukralla (BHR), Yaser TULEFAT (BHR), Taleb Salem Al Marri (QAT)
+
+
+Sun Jun 24 20:00 UTC+5 @ Ekaterinburg Arena, Yekaterinburg, Att: 32572
+  Japan v Senegal  2-2
+     (Takashi INUI 34', Keisuke HONDA 78';
+      Sadio MANE 12', Moussa WAGUE 71')
+
+Japan: Eiji KAWASHIMA - Gen SHOJI, Yuto NAGATOMO, Hiroki SAKAI, Maya YOSHIDA -
+      Gaku SHIBASAKI, Genki HARAGUCHI (75' Shinji OKAZAKI), Shinji KAGAWA (72' Keisuke HONDA),
+      Takashi INUI [Y 68'] (87' Takashi USAMI), Makoto HASEBE [c] [Y 90+4'] -
+      Yuya OSAKO
+Senegal: Khadim NDIAYE - Kalidou KOULIBALY, Salif SANE, Youssouf SABALY [Y 90'],
+      Moussa WAGUE - Idrissa Gana GUEYE, Sadio MANE [c], Alfred NDIAYE (65' Cheikhou KOUYATE),
+      Pape Alioune NDIAYE (81' Cheikh NDOYE [Y 90+1']), Ismaila SARR - Mbaye NIANG [Y 59'] (86' Mame DIOUF)
+
+Refs: Gianluca Rocchi (ITA), Elenito Di Liberatore (ITA), Mauro Tonolini (ITA)
+
+
+Sun Jun 24 21:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 42873
+  Poland v Colombia  0-3
+     (Yerry MINA 40', Radamel FALCAO 70', Juan CUADRADO 75')
+
+Poland: Wojciech SZCZESNY - Michal PAZDAN (80' Kamil GLIK), Jan BEDNAREK [Y 61'],
+      Lukasz PISZCZEK - Jacek GORALSKI [Y 85'], Grzegorz KRYCHOWIAK, Maciej RYBUS,
+      Bartosz BERESZYNSKI (72' Lukasz TEODORCZYK) - Robert LEWANDOWSKI [c],
+      Piotr ZIELINSKI, Dawid KOWNACKI (57' Kamil GROSICKI)
+Colombia: David OSPINA - Santiago ARIAS, Yerry MINA, Johan MOJICA, Davinson SANCHEZ -
+      Wilmar BARRIOS, Abel AGUILAR (32' Mateus URIBE), James RODRIGUEZ, Juan CUADRADO,
+      Juan QUINTERO (73' Jefferson LERMA) - Radamel FALCAO [c] (78' Carlos BACCA)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+Thu Jun 28 17:00 UTC+3 @ Central Stadium, Volgograd, Att: 42189
+  Japan v Poland  0-1
+     (Jan BEDNAREK 59')
+
+Japan: Eiji KAWASHIMA [c] - Yuto NAGATOMO, Hiroki SAKAI, Tomoaki MAKINO [Y 66'],
+      Maya YOSHIDA - Gaku SHIBASAKI, Takashi USAMI (65' Takashi INUI), Hotaru YAMAGUCHI,
+      Gotoku SAKAI - Shinji OKAZAKI (47' Yuya OSAKO), Yoshinori MUTO (82' Makoto HASEBE)
+Poland: Lukasz FABIANSKI - Artur JEDRZEJCZYK, Jan BEDNAREK, Kamil GLIK, Bartosz BERESZYNSKI -
+      Jacek GORALSKI, Grzegorz KRYCHOWIAK, Kamil GROSICKI, Rafal KURZAWA (79' Slawomir PESZKO) -
+      Robert LEWANDOWSKI [c], Piotr ZIELINSKI (79' Lukasz TEODORCZYK)
+
+Refs: Janny Sikazwe (ZAM), Jerson Emiliano dos Santos (ANG), Zakhele SIWELA (RSA)
+
+
+Thu Jun 28 18:00 UTC+4 @ Samara Arena, Samara, Att: 41970
+  Senegal v Colombia  0-1
+     (Yerry MINA 74')
+
+Senegal: Khadim NDIAYE - Kalidou KOULIBALY, Salif SANE, Youssouf SABALY (74' Moussa WAGUE),
+      Lamine GASSAMA - Idrissa Gana GUEYE, Cheikhou KOUYATE [c], Ismaila SARR,
+      Keita BALDE (80' Moussa KONATE) - Sadio MANE, Mbaye NIANG [Y 51'] (86' Diafra SAKHO)
+Colombia: David OSPINA - Santiago ARIAS, Yerry MINA, Johan MOJICA [Y 45'], Davinson SANCHEZ -
+      Carlos SANCHEZ, James RODRIGUEZ (31' Luis MURIEL), Juan CUADRADO, Mateus URIBE (83' Jefferson LERMA),
+      Juan QUINTERO - Radamel FALCAO [c] (89' Miguel BORJA)
+
+Refs: Milorad Mažić (SRB), Milovan Ristić (SRB), Dalibor Đurđević (SRB)
+
+
+▪ Round of 16
+Sat Jun 30 17:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 42873
+  France v Argentina  4-3
+     (Antoine GRIEZMANN 13', Benjamin PAVARD 57', Kylian MBAPPE 64', 68';
+      Angel DI MARIA 41', Gabriel MERCADO 48', Sergio AGUERO 90+3')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD [Y 73'], Raphael VARANE, Samuel UMTITI,
+      Lucas HERNANDEZ - Paul POGBA, Antoine GRIEZMANN (83' Nabil FEKIR), Kylian MBAPPE (89' Florian THAUVIN),
+      Ngolo KANTE, Blaise MATUIDI [Y 72'] (75' Corentin TOLISSO) - Olivier GIROUD [Y 90+3']
+Argentina: Franco ARMANI - Gabriel MERCADO, Nicolas TAGLIAFICO [Y 19'], Marcos ROJO [Y 11'] (46' Federico FAZIO),
+      Nicolas OTAMENDI [Y 90+3'] - Ever BANEGA [Y 50'], Javier MASCHERANO [Y 43'],
+      Enzo PEREZ (66' Sergio AGUERO) - Lionel MESSI [c], Angel DI MARIA, Cristian PAVON (75' Maximiliano MEZA)
+
+Refs: Alireza Faghani (IRN), Reza SOKHANDAN (IRN), Mohammad Reza Mansouri (IRN)
+
+
+Sat Jun 30 21:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 44287
+  Uruguay v Portugal  2-1
+     (Edinson CAVANI 7', 62';
+      PEPE 55')
+
+Uruguay: Fernando MUSLERA - Jose GIMENEZ, Diego GODIN [c], Diego LAXALT, Martin CACERES -
+      Rodrigo BENTANCUR (63' Cristian RODRIGUEZ), Nahitan NANDEZ (81' Carlos SANCHEZ),
+      Lucas TORREIRA, Matias VECINO - Luis SUAREZ, Edinson CAVANI (74' Cristhian STUANI)
+Portugal: RUI PATRICIO - PEPE, RAPHAEL GUERREIRO, JOSE FONTE, RICARDO - JOAO MARIO (85' MANUEL FERNANDES),
+      BERNARDO SILVA, WILLIAM, ADRIEN SILVA (65' RICARDO QUARESMA) - CRISTIANO RONALDO [c] [Y 90+3'],
+      GONCALO GUEDES (74' ANDRE SILVA)
+
+Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+Sun Jul 1 17:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Spain v Russia  1-1 a.e.t., 3-4 pen.
+     (Sergey IGNASHEVICH 12'(og); Artem DZYUBA 41')
+
+Penalties: 1-0 Andres INIESTA, 1-1 Fedor SMOLOV,
+           2-1 Gerard PIQUE, 2-2 Sergey IGNASHEVICH,
+               KOKE (missed), 2-3 Aleksandr GOLOVIN,
+           3-3 Sergio RAMOS, 3-4 Denis CHERYSHEV,
+               Iago ASPAS (missed)
+
+Spain: David DE GEA - Gerard PIQUE [Y 40'], NACHO (70' Dani CARVAJAL), Sergio RAMOS [c],
+      Jordi ALBA - Sergio BUSQUETS, KOKE, Marco ASENSIO (104' RODRIGO), David SILVA (67' Andres INIESTA),
+      ISCO - Diego COSTA (80' Iago ASPAS)
+Russia: Igor AKINFEEV [c] - MARIO FERNANDES, Ilya KUTEPOV [Y 54'], Sergey IGNASHEVICH,
+      Fedor KUDRIASHOV, Yury ZHIRKOV (46' Vladimir GRANAT) - Daler KUZIAEV (97' Aleksandr EROKHIN),
+      Roman ZOBNIN [Y 71'], Aleksandr GOLOVIN, Alexander SAMEDOV (61' Denis CHERYSHEV) -
+      Artem DZYUBA (65' Fedor SMOLOV)
+
+Refs: Björn Kuipers (NED), Sander van Roekel (NED), Erwin Zeinstra (NED)
+
+
+Sun Jul 1 21:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 40851
+  Croatia v Denmark  1-1 a.e.t., 3-2 pen.
+     (Mario MANDZUKIC 4'; Mathias JORGENSEN 1')
+
+Penalties:     Christian ERIKSEN (missed),     Milan BADELJ (missed),
+           0-1 Simon KJAER, 1-1 Andrej KRAMARIC,
+           1-2 Michael KROHN-DEHLI, 2-2 Luka MODRIC,
+               Lasse SCHONE (missed),     Josip PIVARIC (missed),
+               Nicolai JORGENSEN (missed), 3-2 Ivan RAKITIC
+
+Croatia: Danijel SUBASIC - Sime VRSALJKO, Ivan STRINIC (81' Josip PIVARIC), Dejan LOVREN,
+      Domagoj VIDA - Ivan PERISIC (97' Andrej KRAMARIC), Ivan RAKITIC, Luka MODRIC [c],
+      Marcelo BROZOVIC (71' Mateo KOVACIC), Ante REBIC - Mario MANDZUKIC (108' Milan BADELJ)
+Denmark: Kasper SCHMEICHEL - Simon KJAER [c], Jonas KNUDSEN, Mathias JORGENSEN [Y 115'],
+      Henrik DALSGAARD - Andreas CHRISTENSEN (46' Lasse SCHONE), Thomas DELANEY (98' Michael KROHN-DEHLI),
+      Martin BRAITHWAITE (106' Pione SISTO), Yussuf Yurary POULSEN - Christian ERIKSEN,
+      Andreas CORNELIUS (66' Nicolai JORGENSEN)
+
+Refs: Néstor Fabián Pitana (ARG), Hernán Maidana (ARG), Juan Pablo Belatti (ARG)
+
+
+Mon Jul 2 18:00 UTC+4 @ Samara Arena, Samara, Att: 41970
+  Brazil v Mexico  2-0
+     (NEYMAR 51', ROBERTO FIRMINO 88')
+
+Brazil: ALISSON - THIAGO SILVA [c], MIRANDA, FILIPE LUIS [Y 43'], FAGNER - CASEMIRO [Y 60'],
+      PHILIPPE COUTINHO (86' ROBERTO FIRMINO), PAULINHO (80' FERNANDINHO) -
+      GABRIEL JESUS, NEYMAR, WILLIAN (90+1' MARQUINHOS)
+Mexico: Guillermo OCHOA - Hugo AYALA, Carlos SALCEDO [Y 77'], Edson ALVAREZ [Y 38'] (55' Jonathan DOS SANTOS),
+      Jesus GALLARDO - Rafael MARQUEZ [c] (46' Miguel LAYUN), Hector HERRERA [Y 55'],
+      Andres GUARDADO [Y 90+2'] - Carlos VELA, Javier HERNANDEZ (60' Raul JIMENEZ),
+      Hirving LOZANO
+
+Refs: Gianluca Rocchi (ITA), Elenito Di Liberatore (ITA), Mauro Tonolini (ITA)
+
+
+Mon Jul 2 21:00 UTC+3 @ Rostov Arena, Rostov-on-Don, Att: 41466
+  Belgium v Japan  3-2
+     (Jan VERTONGHEN 69', Marouane FELLAINI 74', Nacer CHADLI 90+4';
+      Genki HARAGUCHI 48', Takashi INUI 52')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Vincent KOMPANY, Jan VERTONGHEN -
+      Axel WITSEL, Kevin DE BRUYNE, Yannick CARRASCO (65' Nacer CHADLI), Thomas MEUNIER -
+      Romelu LUKAKU, Eden HAZARD [c], Dries MERTENS (65' Marouane FELLAINI)
+Japan: Eiji KAWASHIMA - Gen SHOJI, Yuto NAGATOMO, Hiroki SAKAI, Maya YOSHIDA -
+      Gaku SHIBASAKI [Y 40'] (81' Hotaru YAMAGUCHI), Genki HARAGUCHI (81' Keisuke HONDA),
+      Shinji KAGAWA, Takashi INUI, Makoto HASEBE [c] - Yuya OSAKO
+
+Refs: Malang DIEDHIOU (SEN), Djibril Camara (SEN), El Hadji Malick Samba (SEN)
+
+
+Tue Jul 3 17:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64042
+  Sweden v Switzerland  1-0
+     (Emil FORSBERG 66')
+
+Sweden: Robin OLSEN - Mikael LUSTIG [Y 31'] (82' Emil KRAFTH), Victor LINDELOF,
+      Andreas GRANQVIST [c], Ludwig AUGUSTINSSON - Albin EKDAL, Emil FORSBERG (82' Martin OLSSON),
+      Gustav SVENSSON, Viktor CLAESSON - Marcus BERG (90+1' Isaac Kiese THELIN),
+      Ola TOIVONEN
+Switzerland: Yann SOMMER - Manuel AKANJI, Michael LANG [R 90+4'], Ricardo RODRIGUEZ,
+      Johan DJOUROU - Granit XHAKA [Y 68'], Valon BEHRAMI [c] [Y 61'], Steven ZUBER (73' Breel EMBOLO),
+      Blerim DZEMAILI (73' Haris SEFEROVIC), Xherdan SHAQIRI - Josip DRMIC
+
+Refs: Damir SKOMINA (SVN), Jure Praprotnik (SVN), Robert Vukan (SVN)
+
+
+Tue Jul 3 21:00 UTC+3 @ Otkrytiye Arena, Moscow, Att: 44190
+  Colombia v England  1-1 a.e.t., 3-4 pen.
+     (Yerry MINA 90+3'; Harry KANE 57')
+
+Penalties: 1-0 Radamel FALCAO, 1-1 Harry KANE,
+           2-1 Juan CUADRADO, 2-2 Marcus RASHFORD,
+           3-2 Luis MURIEL,     Jordan HENDERSON (missed),
+               Mateus URIBE (missed), 3-3 Kieran TRIPPIER,
+               Carlos BACCA (missed), 3-4 Eric DIER
+
+Colombia: David OSPINA - Santiago ARIAS [Y 52'] (116' Cristian ZAPATA), Yerry MINA,
+      Johan MOJICA, Davinson SANCHEZ - Wilmar BARRIOS [Y 41'], Carlos SANCHEZ [Y 54'] (79' Mateus URIBE),
+      Jefferson LERMA (62' Carlos BACCA [Y 64']), Juan QUINTERO (88' Luis MURIEL) -
+      Radamel FALCAO [c] [Y 63'], Juan CUADRADO [Y 118']
+England: Jordan PICKFORD - Kyle WALKER (113' Marcus RASHFORD), John STONES, Harry MAGUIRE -
+      Jesse LINGARD [Y 69'], Jordan HENDERSON [Y 56'], Kieran TRIPPIER, Ashley YOUNG (102' Danny ROSE),
+      Dele ALLI (81' Eric DIER) - Harry KANE [c], Raheem STERLING (88' Jamie VARDY)
+
+Refs: Mark GEIGER (USA), Joe FLETCHER (CAN), Frank Anderson (USA)
+
+
+▪ Quarter-final
+Fri Jul 6 17:00 UTC+3 @ Nizhny Novgorod Stadium, Nizhny Novgorod, Att: 43319
+  Uruguay v France  0-2
+     (Raphael VARANE 40', Antoine GRIEZMANN 61')
+
+Uruguay: Fernando MUSLERA - Jose GIMENEZ, Diego GODIN [c], Diego LAXALT, Martin CACERES -
+      Rodrigo BENTANCUR [Y 38'] (59' Cristian RODRIGUEZ [Y 69']), Nahitan NANDEZ (73' Jonathan URRETAVISCAYA),
+      Lucas TORREIRA, Matias VECINO - Luis SUAREZ, Cristhian STUANI (59' Maximiliano GOMEZ)
+France: Hugo LLORIS [c] - Benjamin PAVARD, Raphael VARANE, Samuel UMTITI, Lucas HERNANDEZ [Y 33'] -
+      Paul POGBA, Antoine GRIEZMANN (90+3' Nabil FEKIR), Kylian MBAPPE [Y 69'] (88' Ousmane DEMBELE),
+      Corentin TOLISSO (80' Steven NZONZI), Ngolo KANTE - Olivier GIROUD
+
+Refs: Néstor Fabián Pitana (ARG), Hernán Maidana (ARG), Juan Pablo Belatti (ARG)
+
+
+Fri Jul 6 21:00 UTC+3 @ Ak Bars Arena, Kazan, Att: 42873
+  Brazil v Belgium  1-2
+     (RENATO AUGUSTO 76';
+      FERNANDINHO 13'(og), Kevin DE BRUYNE 31')
+
+Brazil: ALISSON - THIAGO SILVA, MIRANDA [c], MARCELO, FAGNER [Y 90'] - PHILIPPE COUTINHO,
+      PAULINHO (73' RENATO AUGUSTO), FERNANDINHO [Y 85'] - GABRIEL JESUS (58' DOUGLAS COSTA),
+      NEYMAR, WILLIAN (46' ROBERTO FIRMINO)
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD [Y 48'], Vincent KOMPANY, Jan VERTONGHEN,
+      Thomas MEUNIER [Y 71'] - Axel WITSEL, Marouane FELLAINI, Nacer CHADLI (83' Thomas VERMAELEN) -
+      Kevin DE BRUYNE, Romelu LUKAKU (87' Youri TIELEMANS), Eden HAZARD [c]
+
+Refs: Milorad Mažić (SRB), Milovan Ristić (SRB), Dalibor Đurđević (SRB)
+
+
+Sat Jul 7 18:00 UTC+4 @ Samara Arena, Samara, Att: 39991
+  Sweden v England  0-2
+     (Harry MAGUIRE 30', Dele ALLI 59')
+
+Sweden: Robin OLSEN - Victor LINDELOF, Andreas GRANQVIST [c], Ludwig AUGUSTINSSON,
+      Emil KRAFTH (85' Pontus JANSSON) - Sebastian LARSSON [Y 90+4'], Albin EKDAL,
+      Emil FORSBERG (65' Martin OLSSON), Viktor CLAESSON - Marcus BERG, Ola TOIVONEN (65' John GUIDETTI [Y 87'])
+England: Jordan PICKFORD - Kyle WALKER, John STONES, Harry MAGUIRE [Y 87'] - Jesse LINGARD,
+      Jordan HENDERSON (85' Eric DIER), Kieran TRIPPIER, Ashley YOUNG, Dele ALLI (76' Fabian DELPH) -
+      Harry KANE [c], Raheem STERLING (90+1' Marcus RASHFORD)
+
+Refs: Björn Kuipers (NED), Sander van Roekel (NED), Erwin Zeinstra (NED)
+
+
+Sat Jul 7 21:00 UTC+3 @ Fisht Olympic Stadium, Sochi, Att: 44287
+  Russia v Croatia  2-2 a.e.t., 3-4 pen.
+     (Denis CHERYSHEV 31', MARIO FERNANDES 115';
+      Andrej KRAMARIC 40', Domagoj VIDA 101')
+
+Penalties:     Fedor SMOLOV (missed), 0-1 Marcelo BROZOVIC,
+           1-1 Alan DZAGOEV,     Mateo KOVACIC (missed),
+               MARIO FERNANDES (missed), 1-2 Luka MODRIC,
+           2-2 Sergey IGNASHEVICH, 2-3 Domagoj VIDA,
+           3-3 Daler KUZIAEV, 3-4 Ivan RAKITIC
+
+Russia: Igor AKINFEEV [c] - MARIO FERNANDES, Ilya KUTEPOV, Sergey IGNASHEVICH,
+      Fedor KUDRIASHOV - Denis CHERYSHEV (67' Fedor SMOLOV), Daler KUZIAEV,
+      Roman ZOBNIN, Alexander SAMEDOV (54' Aleksandr EROKHIN) - Aleksandr GOLOVIN (102' Alan DZAGOEV),
+      Artem DZYUBA (79' Iury GAZINSKY [Y 109'])
+Croatia: Danijel SUBASIC - Sime VRSALJKO (97' Vedran CORLUKA), Ivan STRINIC [Y 38'] (74' Josip PIVARIC [Y 114']),
+      Dejan LOVREN [Y 35'], Domagoj VIDA [Y 101'] - Ivan PERISIC (63' Marcelo BROZOVIC),
+      Ivan RAKITIC, Andrej KRAMARIC (88' Mateo KOVACIC), Luka MODRIC [c], Ante REBIC -
+      Mario MANDZUKIC
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+
+▪ Semi-final
+Tue Jul 10 21:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64286
+  France v Belgium  1-0
+     (Samuel UMTITI 51')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD, Raphael VARANE, Samuel UMTITI, Lucas HERNANDEZ -
+      Paul POGBA, Antoine GRIEZMANN, Kylian MBAPPE [Y 90+3'], Ngolo KANTE [Y 87'],
+      Blaise MATUIDI (86' Corentin TOLISSO) - Olivier GIROUD (85' Steven NZONZI)
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD [Y 71'], Vincent KOMPANY, Jan VERTONGHEN [Y 90+4'],
+      Nacer CHADLI (90+1' Michy BATSHUAYI) - Axel WITSEL, Marouane FELLAINI (80' Yannick CARRASCO),
+      Moussa DEMBELE (60' Dries MERTENS) - Kevin DE BRUYNE, Romelu LUKAKU,
+      Eden HAZARD [c] [Y 63']
+
+Refs: Andrés Cunha (URU), Nicolás Taran (URU), Mauricio ESPINOSA (URU)
+
+
+Wed Jul 11 21:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  Croatia v England  2-1 a.e.t.
+     (Ivan PERISIC 68', Mario MANDZUKIC 109';
+      Kieran TRIPPIER 5')
+
+Croatia: Danijel SUBASIC - Sime VRSALJKO, Ivan STRINIC (95' Josip PIVARIC), Dejan LOVREN,
+      Domagoj VIDA - Ivan PERISIC, Ivan RAKITIC, Luka MODRIC [c] (119' Milan BADELJ),
+      Marcelo BROZOVIC, Ante REBIC [Y 96'] (101' Andrej KRAMARIC) - Mario MANDZUKIC [Y 48'] (115' Vedran CORLUKA)
+England: Jordan PICKFORD - Kyle WALKER [Y 54'] (112' Jamie VARDY), John STONES,
+      Harry MAGUIRE - Jesse LINGARD, Jordan HENDERSON (97' Eric DIER), Kieran TRIPPIER,
+      Ashley YOUNG (91' Danny ROSE), Dele ALLI - Harry KANE [c], Raheem STERLING (74' Marcus RASHFORD)
+
+Refs: Cüneyt Çakιr (TUR), Bahattin Duran (TUR), Tarık Ongun (TUR)
+
+
+▪ Play-off for third place
+Sat Jul 14 17:00 UTC+3 @ Krestovsky Stadium, Saint Petersburg, Att: 64406
+  Belgium v England  2-0
+     (Thomas MEUNIER 4', Eden HAZARD 82')
+
+Belgium: Thibaut COURTOIS - Toby ALDERWEIRELD, Vincent KOMPANY, Jan VERTONGHEN -
+      Axel WITSEL [Y 90+3'], Thomas MEUNIER, Youri TIELEMANS (78' Moussa DEMBELE),
+      Nacer CHADLI (39' Thomas VERMAELEN) - Kevin DE BRUYNE, Romelu LUKAKU (60' Dries MERTENS),
+      Eden HAZARD [c]
+England: Jordan PICKFORD - John STONES [Y 52'], Harry MAGUIRE [Y 78'], Phil JONES -
+      Danny ROSE (46' Jesse LINGARD), Eric DIER, Kieran TRIPPIER, Fabian DELPH,
+      Ruben LOFTUS-CHEEK (84' Dele ALLI) - Harry KANE [c], Raheem STERLING (46' Marcus RASHFORD)
+
+Refs: Alireza Faghani (IRN), Reza SOKHANDAN (IRN), Mohammad Reza Mansouri (IRN)
+
+
+▪ Final
+Sun Jul 15 18:00 UTC+3 @ Lenin, Moscow, Att: 78011
+  France v Croatia  4-2
+     (Mario MANDZUKIC 18'(og), Antoine GRIEZMANN 38', Paul POGBA 59', Kylian MBAPPE 65';
+      Ivan PERISIC 28', Mario MANDZUKIC 69')
+
+France: Hugo LLORIS [c] - Benjamin PAVARD, Raphael VARANE, Samuel UMTITI, Lucas HERNANDEZ [Y 41'] -
+      Paul POGBA, Antoine GRIEZMANN, Kylian MBAPPE, Ngolo KANTE [Y 27'] (55' Steven NZONZI),
+      Blaise MATUIDI (73' Corentin TOLISSO) - Olivier GIROUD (81' Nabil FEKIR)
+Croatia: Danijel SUBASIC - Sime VRSALJKO [Y 90+3'], Ivan STRINIC (82' Marko PJACA),
+      Dejan LOVREN, Domagoj VIDA - Ivan PERISIC, Ivan RAKITIC, Luka MODRIC [c],
+      Marcelo BROZOVIC, Ante REBIC (71' Andrej KRAMARIC) - Mario MANDZUKIC
+
+Refs: Néstor Fabián Pitana (ARG), Hernán Maidana (ARG), Juan Pablo Belatti (ARG)
+
+
