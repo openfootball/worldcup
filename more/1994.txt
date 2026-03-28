@@ -43,16 +43,16 @@ Sun Jun 19
                    Roger LJUNG 8', Martin DAHLIN 75')
 Mon Jun 20
   16:00 UTC-7   Brazil  2-0  Russia   @ Stanford Stadium, San Francisco (Stanford)
-                  (ROMÁRIO (Romário de Souza Faria) 26', RAI 52'(p))
+                  (ROMÁRIO 26', RAI 52'(p))
 Fri Jun 24
   16:00 UTC-7   Brazil  3-0  Cameroon   @ Stanford Stadium, San Francisco (Stanford)
-                  (ROMÁRIO (Romário de Souza Faria) 39', MARCIO SANTOS 66', BEBETO 73')
+                  (ROMÁRIO 39', MARCIO SANTOS 66', BEBETO 73')
   19:30 UTC-4   Sweden  3-1  Russia   @ Pontiac Silverdome, Detroit (Pontiac)
                   (Tomas BROLIN 37'(p), Martin DAHLIN 59', 81';
                    Oleg SALENKO 4'(p))
 Tue Jun 28
   16:00 UTC-4   Brazil  1-1  Sweden   @ Pontiac Silverdome, Detroit (Pontiac)
-                  (ROMÁRIO (Romário de Souza Faria) 46'; Kennet ANDERSSON 23')
+                  (ROMÁRIO 46'; Kennet ANDERSSON 23')
   16:00 UTC-7   Russia  6-1  Cameroon   @ Stanford Stadium, San Francisco (Stanford)
                   (Oleg SALENKO 15', 41', 44'(p), 72', 75', Dmitri RADCHENKO 81';
                    Roger MILLA 46')
@@ -169,7 +169,7 @@ Sat Jul 9
                    Jose Luis CAMINERO 58')
   14:30 UTC-5   Netherlands  2-3  Brazil   @ Cotton Bowl, Dallas
                   (Dennis BERGKAMP 64', Aron WINTER 76';
-                   ROMÁRIO (Romário de Souza Faria) 53', BEBETO 63', BRANCO 81')
+                   ROMÁRIO 53', BEBETO 63', BRANCO 81')
 Sun Jul 10
   12:00 UTC-4   Bulgaria  2-1  Germany   @ Giants Stadium, New York/New Jersey (East Rutherford)
                   (Hristo STOICHKOV 75', Iordan LETCHKOV 78';
@@ -184,7 +184,7 @@ Wed Jul 13
                   (Hristo STOICHKOV 44'(p);
                    Roberto BAGGIO 21', 25')
   16:30 UTC-7   Sweden  0-1  Brazil   @ Rose Bowl, Los Angeles (Pasadena)
-                  (ROMÁRIO (Romário de Souza Faria) 80')
+                  (ROMÁRIO 80')
 
 ▪ Match for third place
 Sat Jul 16

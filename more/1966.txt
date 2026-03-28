@@ -70,10 +70,10 @@ Fri Jul 15
                    TOSTAO 14')
 Sat Jul 16
   15:00 UTC+1   Portugal  3-0  Bulgaria   @ Old Trafford Stadium, Manchester
-                  (Ivan VUTSOV 17'(og), EUSEBIO (Eusebio da Silva Ferreira) 38', JOSE TORRES 81')
+                  (Ivan VUTSOV 17'(og), EUSEBIO 38', JOSE TORRES 81')
 Tue Jul 19
   19:30 UTC+1   Portugal  3-1  Brazil   @ Goodison Park, Liverpool
-                  (ANTONIO SIMOES 15', EUSEBIO (Eusebio da Silva Ferreira) 27', 85';
+                  (ANTONIO SIMOES 15', EUSEBIO 27', 85';
                    RILDO 73')
 Wed Jul 20
   19:30 UTC+1   Hungary  3-1  Bulgaria   @ Old Trafford Stadium, Manchester
@@ -107,7 +107,7 @@ Sat Jul 23
                   (Igor CHISLENKO 5', Valeriy PORKUYAN 46';
                    Ferenc BENE 57')
   15:00 UTC+1   Portugal  5-3  North Korea   @ Goodison Park, Liverpool
-                  (EUSEBIO (Eusebio da Silva Ferreira) 27', 43'(p), 56', 59'(p), JOSE AUGUSTO 80';
+                  (EUSEBIO 27', 43'(p), 56', 59'(p), JOSE AUGUSTO 80';
                    PAK Seung Zin 1', LI Dong Woon 22', YANG Seung Kook 25')
   15:00 UTC+1   West Germany  4-0  Uruguay   @ Hillsborough, Sheffield
                   (Helmut HALLER 11', 83', Franz BECKENBAUER 70', Uwe SEELER 75')
@@ -122,12 +122,12 @@ Mon Jul 25
 Tue Jul 26
   19:30 UTC+1   England  2-1  Portugal   @ Wembley Stadium, London
                   (Bobby CHARLTON 30', 80';
-                   EUSEBIO (Eusebio da Silva Ferreira) 82'(p))
+                   EUSEBIO 82'(p))
 
 ▪ Match for third place
 Thu Jul 28
   19:30 UTC+1   Portugal  2-1  Soviet Union   @ Wembley Stadium, London
-                  (EUSEBIO (Eusebio da Silva Ferreira) 12'(p), JOSE TORRES 89';
+                  (EUSEBIO 12'(p), JOSE TORRES 89';
                    Eduard MALOFEYEV 43')
 
 ▪ Final
