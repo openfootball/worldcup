@@ -1,0 +1,389 @@
+= World Cup 1950     # 13 Teams
+
+== Bolivia     # 19 Players
+
+   Vicente ARRAYA,                GK,  b. 1922/01/25
+   Eduardo GUTIERREZ,             GK,  b. 1925/01/17
+
+   Jose BUSTAMANTE-NAVA,          DF,  b. 1922/03/05
+   Alberto ACHA,                  DF,  b. 1920/04/03
+
+   Leonardo FERREL,               MF,  b. 1923/07/07
+   Antonio GRECCO,                MF,  b. 1923/01/01
+   Rene CABRERA,                  MF,  b. 1925/10/21
+   Hector SAAVEDRA,               MF,  b. 1923/03/08
+   Duberty ARAOZ,                 MF,  b. 1920/12/21
+   Antonio VALENCIA,              MF,  b. 1925/05/05
+
+   Victor UGARTE,                 FW,  b. 1926/05/05
+   Victor BROWN,                  FW,  b. 1927/03/07
+   Victor ALGARANAZ,              FW,  b. 1924/04/06
+   Benjamin MALDONADO,            FW,  b. 1928/01/01
+   Roberto CAPPARELLI,            FW,  b. 1921/11/18
+   Benigno GUTIERREZ,             FW,  b. 1925/09/01
+   Juan GUERRA,                   FW,  b. 1927/04/13
+   Benedicto GODOY,               FW,  b. 1924/07/28
+   Mario MENA,                    FW,  b. 1928/07/28
+
+   Mario PRETTO (ITA),            MG,  b. 1915/10/07
+
+
+== USA     # 17 Players
+
+   Frank BORGHI,                  GK,  b. 1925/04/09
+   Gino GARDASSANICH,             GK,  b. 1922/11/26
+
+   Geoff COOMBES,                 DF,  b. 1919/04/23
+   Bob ANNIS,                     DF,  b. 1928/09/05
+   Harry KEOUGH,                  DF,  b. 1927/11/15
+   Joe MACA,                      DF,  b. 1920/09/28
+
+   Charlie COLOMBO,               MF,  b. 1920/07/20
+   Ed McILVENNY,                  MF,  b. 1924/10/21
+   Walter BAHR,                   MF,  b. 1927/04/01
+   John SOUZA,                    MF,  b. 1920/07/12
+
+   Frank WALLACE,                 FW,  b. 1922/07/15
+   Joe GAETJENS,                  FW,  b. 1924/03/19
+   Bob CRADDOCK,                  FW,  b. 1923/09/05
+   Nick DI ORIO,                  FW,  b. 1921/02/04
+   Gino PARIANI,                  FW,  b. 1928/02/21
+   Ed SOUZA,                      FW,  b. 1921/09/22
+   Adam WOLANIN,                  FW,  b. 1919/11/13
+
+   Bill JEFFREY (SCO),            MG,  b. 1892/08/03
+
+
+== Uruguay     # 22 Players
+
+   Roque MASPOLI,                 GK,  b. 1917/10/12
+   Anibal PAZ,                    GK,  b. 1917/05/21
+
+   Hector VILCHES,                DF,  b. 1926/02/14
+   William MARTINEZ,              DF,  b. 1928/01/13
+   Schubert GAMBETTA,             DF,  b. 1920/04/14
+   Matias GONZALEZ,               DF,  b. 1925/08/06
+   Eusebio TEJERA,                DF,  b. 1922/01/06
+
+   Washington ORTUNO,             MF,  b. 1928/05/13
+   Rodolfo PINI,                  MF,  b. 1926/11/12
+   Obdulio VARELA,                MF,  b. 1917/09/20
+   Victor RODRIGUEZ ANDRADE,      MF,  b. 1927/02/14
+   Juan Carlos GONZALEZ,          MF,  b. 1924/08/22
+   Carlos ROMERO,                 MF,  b. 1927/09/07
+
+   Juan BURGUENO,                 FW,  b. 1923/02/04
+   Ruben MORAN,                   FW,  b. 1930/08/06
+   Oscar MIGUEZ,                  FW,  b. 1927/12/05
+   Luis RIJO,                     FW,  b. 1927/09/28
+   Julio Cesar BRITOS,            FW,  b. 1926/05/18
+   Julio PEREZ,                   FW,  b. 1926/06/19
+   Ernesto VIDAL,                 FW,  b. 1921/11/15
+   Alcides GHIGGIA,               FW,  b. 1926/12/22
+   Juan SCHIAFFINO,               FW,  b. 1925/07/28
+
+   Juan LOPEZ (URU),              MG,  b. 1908/03/15
+
+
+== Paraguay     # 22 Players
+
+   Pablo CENTURION,               GK,            
+   Marcelino VARGAS,              GK,  b. 1921/01/01
+
+   Antonio CABRERA,               DF,  b. 1928/01/01
+   Alberto GONZALEZ,              DF,  b. 1922/01/01
+   Casiano CESPEDES,              DF,  b. 1924/01/01
+   Manuel GAVILAN,                DF,  b. 1921/01/01
+   Elioro PAREDES,                DF,  b. 1921/02/19
+
+   Melanio BAEZ,                  MF,            
+   Victoriano LEGUIZAMON,         MF,  b. 1923/01/01
+   Castor CANTERO,                MF,  b. 1918/01/01
+   Armando GONZALEZ,              MF,            
+
+   Dario JARA SAGUIER,            FW,  b. 1926/09/01
+   Cesar LOPEZ FRETES,            FW,  b. 1923/03/21
+   Marcial AVALOS,                FW,  b. 1921/12/05
+   Atilio LOPEZ,                  FW,  b. 1925/01/01
+   Angel BERNI,                   FW,  b. 1931/01/09
+   Lorenzo CALONGA,               FW,  b. 1929/08/23
+   Juan Leon CANETE,              FW,  b. 1929/07/27
+   Enrique AVALOS,                FW,  b. 1922/01/01
+   Hilarion OSORIO,               FW,  b. 1928/10/21
+   Leongino UNZAIN,               FW,  b. 1925/05/16
+   Francisco SOSA,                FW,            
+
+   Manuel FLEITAS SOLICH (PAR),   MG,  b. 1900/12/30
+
+
+== Brazil     # 22 Players
+
+   BARBOSA,                       GK,  b. 1921/03/27
+   CASTILHO,                      GK,  b. 1927/11/27
+
+   JUVENAL,                       DF,  b. 1923/11/27
+   NENA,                          DF,  b. 1923/07/11
+   NILTON SANTOS,                 DF,  b. 1925/05/16
+   AUGUSTO,                       DF,  b. 1920/10/22
+   ELY DO AMPARO,                 DF,  b. 1921/05/14
+
+   RUY,                           MF,  b. 1922/02/02
+   DANILO ALVIM,                  MF,  b. 1920/12/03
+   BIGODE,                        MF,  b. 1922/04/04
+   ZIZINHO,                       MF,  b. 1921/09/14
+   NORONHA,                       MF,  b. 1918/09/25
+   BAUER,                         MF,  b. 1925/11/21
+
+   CHICO,                         FW,  b. 1923/01/07
+   JAIR,                          FW,  b. 1921/03/21
+   MANECA,                        FW,  b. 1926/01/28
+   BALTAZAR,                      FW,  b. 1926/01/14
+   FRIACA,                        FW,  b. 1924/10/20
+   ALFREDO II,                    FW,  b. 1920/01/01
+   ADAOZINHO,                     FW,  b. 1923/04/02
+   ADEMIR,                        FW,  b. 1922/11/08
+   RODRIGUES,                     FW,  b. 1925/06/27
+
+   Flavio COSTA (BRA),            MG,  b. 1906/09/14
+
+
+== Spain     # 22 Players
+
+   Juan ACUNA,                    GK,  b. 1923/01/11
+   Ignacio EIZAGUIRRE,            GK,  b. 1920/11/07
+   Antonio RAMALLETS,             GK,  b. 1924/07/04
+
+   LESMES II,                     DF,  b. 1926/11/09
+   Vicente ASENSI,                DF,  b. 1919/01/28
+   GABRIEL ALONSO,                DF,  b. 1923/11/09
+   GONZALVO II,                   DF,  b. 1920/01/16
+   Alfonso SILVA,                 DF,  b. 1926/03/19
+   ANTUNEZ,                       DF,  b. 1922/11/01
+   Jose PARRA,                    DF,  b. 1925/08/28
+
+   NANDO,                         MF,  b. 1921/02/01
+   Antonio PUCHADES,              MF,  b. 1925/06/04
+   GONZALVO III,                  MF,  b. 1922/03/22
+
+   Jose PANIZO,                   FW,  b. 1922/02/06
+   Jose JUNCOSA,                  FW,  b. 1922/02/02
+   Silvestre IGOA,                FW,  b. 1920/09/05
+   ZARRA,                         FW,  b. 1921/01/20
+   ROSENDO HERNANDEZ,             FW,  b. 1921/03/01
+   GAINZA,                        FW,  b. 1922/05/28
+   Estanislao BASORA,             FW,  b. 1926/11/18
+   CESAR,                         FW,  b. 1920/06/29
+   Luis MOLOWNY,                  FW,  b. 1925/05/12
+
+   Guillermo EIZAGUIRRE (ESP),    MG,  b. 1909/05/27
+
+
+== England     # 21 Players
+
+   Bert WILLIAMS,                 GK,  b. 1920/01/31
+   Ted DITCHBURN,                 GK,  b. 1921/10/24
+
+   Laurie SCOTT,                  DF,  b. 1917/04/23
+   Jim TAYLOR,                    DF,  b. 1917/11/05
+   Billy WRIGHT,                  DF,  b. 1924/02/06
+   Alf RAMSEY,                    DF,  b. 1920/01/22
+   Bill ECKERSLEY,                DF,  b. 1925/07/16
+   John ASTON,                    DF,  b. 1921/09/03
+
+   Laurie HUGHES,                 MF,  b. 1924/03/02
+   Bill NICHOLSON,                MF,  b. 1919/01/26
+   Willie WATSON,                 MF,  b. 1920/03/07
+   Jimmy DICKINSON,               MF,  b. 1925/04/24
+
+   Jackie MILBURN,                FW,  b. 1924/05/11
+   Tom FINNEY,                    FW,  b. 1922/04/05
+   Henry COCKBURN,                FW,  b. 1921/09/14
+   Eddie BAILY,                   FW,  b. 1925/08/06
+   Roy BENTLEY,                   FW,  b. 1924/05/17
+   Jimmy MULLEN,                  FW,  b. 1923/01/06
+   Wilf MANNION,                  FW,  b. 1918/05/16
+   Stanley MATTHEWS,              FW,  b. 1915/02/01
+   Stan MORTENSEN,                FW,  b. 1921/05/26
+
+   Walter WINTERBOTTOM (ENG),     MG,  b. 1913/03/31
+
+
+== Mexico     # 22 Players
+
+   Raul CORDOBA,                  GK,  b. 1924/04/14
+   Antonio CARBAJAL,              GK,  b. 1929/06/07
+
+   Rodrigo RUIZ,                  DF,  b. 1923/04/14
+   Felipe ZETTER,                 DF,  b. 1923/07/03
+   Gregorio GOMEZ,                DF,  b. 1924/06/26
+   Alfonso MONTEMAYOR,            DF,  b. 1922/04/28
+   Manuel GUTIERREZ,              DF,  b. 1920/04/08
+   Jose ROCA,                     DF,  b. 1928/05/24
+
+   Antonio FLORES,                MF,  b. 1923/07/13
+   Mario OCHOA,                   MF,  b. 1927/01/01
+   Samuel CUBURU,                 MF,  b. 1928/02/20
+   Carlos GUEVARA,                MF,  b. 1930/04/03
+   Francisco HERNANDEZ,           MF,  b. 1923/08/01
+   Hector ORTIZ,                  MF,  b. 1928/12/20
+
+   Carlos SEPTIEN,                FW,  b. 1923/01/18
+   Guadalupe VELAZQUEZ,           FW,  b. 1923/08/12
+   Jose NARANJO,                  FW,  b. 1926/03/19
+   Horacio CASARIN,               FW,  b. 1918/05/25
+   Jose NAVARRO,                  FW,            
+   Jose BORBOLLA,                 FW,  b. 1920/01/31
+   Mario PEREZ,                   FW,  b. 1927/02/19
+   Max PRIETO,                    FW,  b. 1919/03/28
+
+   Octavio VIAL (MEX),            MG,  b. 1918/11/26
+
+
+== Switzerland     # 19 Players
+
+   Adolphe HUG,                   GK,  b. 1923/09/23
+   Eugenio CORRODI,               GK,  b. 1922/07/02
+   Georges STUBER,                GK,  b. 1925/05/11
+
+   Kurt REY,                      DF,  b. 1923/02/26
+   Andre NEURY,                   DF,  b. 1921/09/03
+   Roger BOCQUET,                 DF,  b. 1921/04/09
+   Felice SOLDINI,                DF,  b. 1915/01/01
+   Ruedi GYGER,                   DF,  b. 1920/04/16
+   Gerhard LUSENTI,               DF,  b. 1921/04/24
+
+   Roger QUINCHE,                 MF,  b. 1922/07/22
+   Oliver EGGIMANN,               MF,  b. 1919/01/28
+
+   Jackie FATTON,                 FW,  b. 1925/12/19
+   Fredy BICKEL,                  FW,  b. 1918/05/12
+   Rene BADER,                    FW,  b. 1922/08/07
+   Hans-Peter FRIEDLAENDER,       FW,  b. 1920/11/06
+   Jean TAMINI,                   FW,  b. 1919/12/09
+   Walter BEERLI,                 FW,  b. 1928/07/23
+   Hans SIEGENTHALER,             FW,  b. 1923/01/01
+   Kiki ANTENEN,                  FW,  b. 1929/11/03
+
+   Franco ANDREOLI (SUI),         MG,  b. 1915/12/02
+
+
+== Chile     # 22 Players
+
+   Rene QUITRAL,                  GK,  b. 1920/07/22
+   Sergio LIVINGSTONE,            GK,  b. 1920/03/26
+
+   Fernando ROLDAN,               DF,  b. 1921/01/01
+   Miguel FLORES,                 DF,            
+   Arturo FARIAS,                 DF,  b. 1927/11/01
+   Manuel MACHUCA,                DF,  b. 1924/01/01
+   Francisco URROZ,               DF,  b. 1921/10/31
+   Manuel ALVAREZ,                DF,  b. 1928/05/23
+
+   Carlos ROJAS,                  MF,  b. 1928/01/01
+   Miguel BUSQUETS,               MF,  b. 1920/10/15
+   Osvaldo SAEZ,                  MF,  b. 1923/08/13
+   Hernan CARVALLO,               MF,  b. 1922/08/19
+   Fernando CAMPOS,               MF,  b. 1921/01/01
+
+   Atilio CREMASCHI,              FW,  b. 1923/03/08
+   Carlos IBANEZ,                 FW,  b. 1931/11/30
+   Guillermo DIAZ,                FW,  b. 1930/12/29
+   Manuel MUNOZ,                  FW,  b. 1928/04/28
+   Luis MAYANES,                  FW,  b. 1925/01/15
+   Jorge ROBLEDO,                 FW,  b. 1926/04/14
+   Fernando RIERA,                FW,  b. 1920/06/27
+   Raymundo INFANTE,              FW,  b. 1928/02/02
+   Andres PRIETO,                 FW,  b. 1928/12/19
+
+   Arturo BUCCIARDI (CHI),        MG,  b. 1914/05/11
+
+
+== Italy     # 22 Players
+
+   Lucidio SENTIMENTI,            GK,  b. 1920/07/01
+   Giuseppe CASARI,               GK,  b. 1922/04/10
+   Giuseppe MORO,                 GK,  b. 1921/01/16
+
+   Carlo PAROLA,                  DF,  b. 1921/09/20
+   Ivano BLASON,                  DF,  b. 1923/05/24
+   Attilio GIOVANNINI,            DF,  b. 1924/07/30
+   Zeffiro FURIASSI,              DF,  b. 1923/01/19
+   Leandro REMONDINI,             DF,  b. 1917/11/17
+
+   Augusto MAGLI,                 MF,  b. 1923/03/09
+   Giacomo MARI,                  MF,  b. 1924/10/17
+   Carlo ANNOVAZZI,               MF,  b. 1925/05/24
+   Aldo CAMPATELLI,               MF,  b. 1919/04/07
+   Omero TOGNON,                  MF,  b. 1924/03/03
+   Osvaldo FATTORI,               MF,  b. 1922/06/22
+
+   Riccardo CARAPELLESE,          FW,  b. 1922/07/01
+   Amedeo AMADEI,                 FW,  b. 1921/07/26
+   Emilio CAPRILE,                FW,  b. 1928/09/30
+   Gino CAPPELLO,                 FW,  b. 1920/06/02
+   Giampiero BONIPERTI,           FW,  b. 1928/07/04
+   Benito LORENZI,                FW,  b. 1925/12/20
+   Ermes MUCCINELLI,              FW,  b. 1927/07/28
+   Egisto PANDOLFINI,             FW,  b. 1926/02/19
+
+   Ferruccio NOVO (ITA),          MG,  b. 1897/06/14
+
+
+== Sweden     # 18 Players
+
+   Kalle SVENSSON,                GK,  b. 1925/11/11
+   Torsten LINDBERG,              GK,  b. 1917/04/14
+
+   Erik NILSSON,                  DF,  b. 1916/08/06
+   Sune ANDERSSON,                DF,  b. 1921/02/27
+   Gunnar JOHANSSON II,           DF,  b. 1924/02/29
+   Arne MANSSON,                  DF,  b. 1925/11/11
+   Lennart SAMUELSSON,            DF,  b. 1924/07/07
+
+   Olle AHLUND,                   MF,  b. 1920/08/22
+   Ingvar GARD,                   MF,  b. 1921/10/06
+   Knut NORDAHL,                  MF,  b. 1920/01/13
+
+   Karl-Erik PALMER,              FW,  b. 1929/04/17
+   Stig SUNDQVIST,                FW,  b. 1922/07/19
+   Bror MELLBERG,                 FW,  b. 1923/12/09
+   Hans JEPPSSON,                 FW,  b. 1925/05/10
+   Egon JONSSON,                  FW,  b. 1921/10/08
+   Stellan NILSSON,               FW,  b. 1922/05/28
+   Ingvar RYDELL,                 FW,  b. 1922/05/07
+   Lennart SKOGLUND,              FW,  b. 1929/12/24
+
+   George RAYNOR (ENG),           MG,  b. 1907/01/13
+
+
+== Yugoslavia     # 22 Players
+
+   Vladimir BEARA,                GK,  b. 1928/11/02
+   Srdjan MRKUSIC,                GK,  b. 1915/05/26
+
+   Branko STANKOVIC,              DF,  b. 1921/10/31
+   Bozo BROKETA,                  DF,  b. 1921/12/24
+   Ratko COLIC,                   DF,  b. 1918/03/17
+   Sinisa ZLATKOVIC,              DF,  b. 1924/06/29
+   Vladimir FIRM,                 DF,  b. 1923/01/01
+   Ivan HORVAT,                   DF,  b. 1926/07/16
+
+   Miodrag JOVANOVIC,             MF,  b. 1922/01/17
+   Predrag DJAJIC,                MF,  b. 1922/05/01
+   Zlatko CAJKOVSKI,              MF,  b. 1923/11/24
+   Bela PALFI,                    MF,  b. 1923/02/16
+   Ivo RADOVNIKOVIC,              MF,  b. 1918/02/09
+   Ervin KATNIC,                  MF,  b. 1922/09/02
+
+   Tihomir OGNJANOV,              FW,  b. 1927/03/02
+   Zeljko CAJKOVSKI,              FW,  b. 1925/05/05
+   Kosta TOMASEVIC,               FW,  b. 1923/07/25
+   Prvoslav MIHAJLOVIC,           FW,  b. 1921/04/13
+   Bernard VUKAS,                 FW,  b. 1927/05/01
+   Stjepan BOBEK,                 FW,  b. 1923/12/03
+   Rajko MITIC,                   FW,  b. 1922/11/19
+   Aleksandar ATANACKOVIC,        FW,  b. 1920/04/29
+
+   Milorad ARSENIJEVIC (YUG),     MG,  b. 1906/06/06
+
+

@@ -1,0 +1,469 @@
+= World Cup 1934     # 16 Teams
+
+== Italy     # 22 Players
+
+   Giuseppe CAVANNA,              GK,  b. 1905/11/18
+   Guido MASETTI,                 GK,  b. 1907/11/22
+   Giampiero COMBI,               GK,  b. 1902/11/20
+
+   Eraldo MONZEGLIO,              DF,  b. 1906/06/05
+   Virginio ROSETTA,              DF,  b. 1902/02/25
+   Umberto CALIGARIS,             DF,  b. 1901/07/26
+   Luigi ALLEMANDI,               DF,  b. 1903/11/08
+
+   Mario VARGLIEN,                MF,  b. 1905/12/16
+   Mario PIZZIOLO,                MF,  b. 1909/12/07
+   Luigi BERTOLINI,               MF,  b. 1904/09/13
+   Luis MONTI,                    MF,  b. 1901/05/15
+   Armando CASTELLAZZI,           MF,  b. 1904/02/07
+   Giovanni FERRARI,              MF,  b. 1907/12/06
+   Attilio FERRARIS,              MF,  b. 1904/03/26
+   Giuseppe MEAZZA,               MF,  b. 1910/08/23
+
+   Felice BOREL,                  FW,  b. 1914/04/05
+   Anfilogino GUARISI,            FW,  b. 1905/12/26
+   Raimundo ORSI,                 FW,  b. 1901/12/02
+   Angelo SCHIAVIO,               FW,  b. 1905/10/15
+   Atilio DEMARIA,                FW,  b. 1909/03/19
+   Pietro ARCARI,                 FW,  b. 1909/12/02
+   Enrique GUAITA,                FW,  b. 1910/07/15
+
+   Vittorio POZZO (ITA),          MG,  b. 1886/03/02
+
+
+== Netherlands     # 22 Players
+
+   Gejus VAN DER MEULEN,          GK,  b. 1903/01/23
+   Adriaan VAN MALE,              GK,  b. 1910/10/07
+   Leo HALLE,                     GK,  b. 1906/01/26
+
+   Jan VAN DIEPENBEEK,            DF,  b. 1903/08/05
+   Mauk WEBER,                    DF,  b. 1914/03/01
+   Sjef VAN RUN,                  DF,  b. 1904/01/12
+
+   Toon OPRINSEN,                 MF,  b. 1910/11/25
+   Willem ANDERIESEN,             MF,  b. 1903/11/27
+   Bas PAAUWE,                    MF,  b. 1911/10/04
+   Henk PELLIKAAN,                MF,  b. 1910/11/10
+   Puck VAN HEEL,                 MF,  b. 1904/01/21
+
+   Leen VENTE,                    FW,  b. 1911/05/14
+   Frank WELS,                    FW,  b. 1909/02/21
+   Alex GRAAFLAND,                FW,  b. 1909/04/16
+   Wim LANGENDAAL,                FW,  b. 1909/04/13
+   Jaap MOL,                      FW,  b. 1912/02/03
+   Kees MIJNDERS,                 FW,  b. 1912/09/28
+   Joop VAN NELLEN,               FW,  b. 1910/03/15
+   Kick SMIT,                     FW,  b. 1911/11/03
+   Beb BAKHUYS,                   FW,  b. 1909/04/16
+   Arie SCHOEMAKER,               FW,  b. 1911/11/08
+   Manus VRAUWDEUNT,              FW,  b. 1914/04/29
+
+   Bob GLENDENNING (ENG),         MG,  b. 1888/06/06
+
+
+== Spain     # 22 Players
+
+   Ricardo ZAMORA,                GK,  b. 1901/01/21
+   Juan NOGUES,                   GK,  b. 1909/03/28
+
+   CIRIACO,                       DF,  b. 1904/08/08
+   ZABALO,                        DF,  b. 1910/06/10
+   I QUINCOCES,                   DF,  b. 1905/07/17
+   MARCULETA,                     DF,  b. 1907/09/24
+
+   Jose MUGUERZA,                 MF,  b. 1911/09/15
+   HILARIO,                       MF,  b. 1905/12/08
+   CILAURREN,                     MF,  b. 1912/11/05
+   IRARAGORRI,                    MF,  b. 1912/03/16
+   Simon LECUE,                   MF,  b. 1912/02/11
+   LUIS MARIN,                    MF,  b. 1906/09/04
+
+   LAFUENTE,                      FW,  b. 1907/12/31
+   GOROSTIZA,                     FW,  b. 1909/02/15
+   FEDE,                          FW,  b. 1912/10/14
+   CHACHO,                        FW,  b. 1911/04/14
+   Luis REGUEIRO,                 FW,  b. 1908/07/01
+   Martin VENTOLRA,               FW,  b. 1906/12/16
+   I Guillermo CAMPANAL,          FW,  b. 1912/12/09
+   CRISANTO BOSCH,                FW,  b. 1907/12/26
+   SOLE,                          FW,  b. 1905/05/07
+   Isidro LANGARA,                FW,  b. 1912/05/15
+
+   Amadeo GARCIA (ESP),           MG,  b. 1886/03/31
+
+
+== Hungary     # 22 Players
+
+   Jozsef HADA,                   GK,  b. 1911/03/02
+   Antal SZABO,                   GK,  b. 1910/09/04
+
+   Gyula FUTO,                    DF,  b. 1908/12/29
+   Laszlo STERNBERG,              DF,  b. 1905/05/28
+   Jozsef VAGO,                   DF,  b. 1906/01/01
+   Sandor BIRO,                   DF,  b. 1911/08/19
+
+   Gyula POLGAR,                  MF,  b. 1912/02/08
+   Gyula LAZAR,                   MF,  b. 1911/01/24
+   Istvan PALOTAS,                MF,  b. 1908/03/05
+   Janos DUDAS,                   MF,  b. 1911/01/01
+   Antal SZALAY,                  MF,  b. 1912/03/12
+   Rezso SOMLAI,                  MF,  b. 1911/01/01
+   Gyorgy SZUCS,                  MF,  b. 1912/04/23
+
+   Pal TELEKI,                    FW,  b. 1906/03/05
+   Geza TOLDI,                    FW,  b. 1909/02/11
+   Istvan TAMASSY,                FW,  b. 1911/01/01
+   Jeno VINCZE,                   FW,  b. 1908/11/20
+   Gabor SZABO,                   FW,  b. 1902/10/14
+   Imre MARKOS,                   FW,  b. 1908/06/09
+   Tibor KEMENY,                  FW,  b. 1913/03/05
+   Istvan AVAR,                   FW,  b. 1905/05/27
+   Gyorgy SAROSI,                 FW,  b. 1912/09/16
+
+   Odon NADAS (HUN),              MG,  b. 1891/09/12
+
+
+== Belgium     # 22 Players
+
+   Andre VAN DE WEYER,            GK,  b. 1909/06/21
+   Arnold BADJOU,                 GK,  b. 1909/06/25
+
+   Jules PAPPAERT,                DF,  b. 1905/11/05
+   Costant JOACIM,                DF,  b. 1908/03/03
+   Philibert SMELLINCKX,          DF,  b. 1911/01/17
+
+   Jean CLAESSENS,                MF,  b. 1908/06/18
+   Auguste HELLEMANS,             MF,  b. 1907/09/14
+   Charles SIMONS,                MF,  b. 1906/06/27
+   Georges PUTMANS,               MF,  b. 1914/05/29
+   Desire BOURGEOIS,              MF,  b. 1908/12/13
+   Frans PEERAER,                 MF,  b. 1913/02/15
+   Jos VAN INGELGEM,              MF,  b. 1912/01/23
+   Felix WELKENHUYSEN,            MF,  b. 1908/12/12
+
+   Rene LEDENT,                   FW,  b. 1907/11/08
+   Laurent GRIMMONPREZ,           FW,  b. 1902/12/14
+   Louis VERSYP,                  FW,  b. 1908/12/05
+   Bernard VOORHOOF,              FW,  b. 1910/05/11
+   Francois DE VRIES,             FW,  b. 1913/08/21
+   Albert HEREMANS,               FW,  b. 1906/04/13
+   Jean CAPELLE,                  FW,  b. 1913/10/26
+   Jean BRICHAUT,                 FW,  b. 1911/07/29
+   Robert LAMOOT,                 FW,  b. 1911/03/18
+
+   Hector GOETINCK (BEL),         MG,  b. 1886/03/05
+
+
+== Argentina     # 18 Players
+
+   Hector FRESCHI,                GK,  b. 1911/05/22
+   Angel GRIPPA,                  GK,  b. 1914/03/02
+
+   Enrique CHIMENTO,              DF,            
+   Ernesto BELIS,                 DF,  b. 1909/02/01
+   Ramon ASTUDILLO,               DF,            
+   Juan PEDEVILLA,                DF,  b. 1909/06/06
+
+   Jose NEHIN,                    MF,  b. 1905/10/13
+   Arcadio LOPEZ,                 MF,  b. 1910/09/15
+   Alfonso LORENZO,               MF,            
+   Ernesto ALBARRACIN,            MF,  b. 1907/09/25
+   Costantino URBIETA SOSA,       MF,  b. 1907/08/12
+
+   Federico WILDE,                FW,  b. 1912/12/14
+   Roberto IRANETA,               FW,  b. 1915/03/21
+   Luca IZZETA,                   FW,            
+   Francisco RUA,                 FW,  b. 1911/02/04
+   Vincente PEREZ,                FW,            
+   Alfredo DE VINCENZI,           FW,  b. 1907/06/09
+   Alberto GALATEO,               FW,  b. 1913/01/01
+
+   Filippo PASCUCCI (ITA),        MG,  b. 1907/06/25
+
+
+== Switzerland     # 23 Players
+
+   Renato BIZZOZERO,              GK,  b. 1912/09/07
+   Willy HUBER,                   GK,  b. 1913/12/17
+   Frank SECHEHAYE,               GK,  b. 1907/11/03
+
+   Max WEILER,                    DF,  b. 1900/09/25
+   Arnaldo ORTELLI,               DF,  b. 1910/12/26
+   Louis GOBET,                   DF,  b. 1908/10/28
+   Walter WEILER,                 DF,  b. 1903/12/04
+   Severino MINELLI,              DF,  b. 1909/09/06
+
+   Ernst HUFSCHMID,               MF,  b. 1913/02/04
+   Albert GUINCHARD,              MF,  b. 1914/11/10
+   Edmond LOICHOT,                MF,            
+   Fernand JACCARD,               MF,  b. 1907/10/08
+   Ernst FRICK,                   MF,            
+
+   Raymond PASELLO,               FW,  b. 1905/01/12
+   Willy JAEGGI,                  FW,  b. 1906/07/28
+   Erwin HOCHSTRASSER,            FW,            
+   Leopold KIELHOLZ,              FW,  b. 1911/06/09
+   Alfred JAECK,                  FW,  b. 1911/08/02
+   Willy VON KAENEL,              FW,  b. 1909/10/30
+   Albert BUCHE,                  FW,  b. 1911/01/01
+   Giuseppe BOSSI,                FW,  b. 1911/08/29
+   Otto BUEHLER,                  FW,            
+   Andre ABEGGLEN,                FW,  b. 1909/03/07
+
+   Henry MUELLER (SUI),           MG,            
+
+
+== Sweden     # 18 Players
+
+   Anders RYDBERG,                GK,  b. 1903/03/03
+   Eivar WIDLUND,                 GK,  b. 1906/01/01
+
+   Otto ANDERSSON,                DF,  b. 1910/05/07
+   Erik GRANATH,                  DF,  b. 1910/10/12
+   Sven ANDERSSON,                DF,  b. 1907/02/14
+   Nils AXELSSON,                 DF,  b. 1906/01/18
+
+   Rune CARLSSON,                 MF,  b. 1909/10/01
+   Ernst ANDERSSON,               MF,  b. 1909/03/26
+   Nils ROSEN,                    MF,  b. 1902/05/22
+   Karl JOHNSSON,                 MF,  b. 1911/02/27
+
+   Tore KELLER,                   FW,  b. 1905/01/04
+   Sven JONASSON,                 FW,  b. 1909/07/09
+   Arvid THOERN,                  FW,            
+   Gunnar JANSSON,                FW,  b. 1908/03/29
+   Ragnar GUSTAVSSON,             FW,  b. 1907/09/28
+   Gosta DUNKER,                  FW,  b. 1905/09/16
+   Gunnar OLSSON,                 FW,  b. 1908/07/19
+   Knut KROON,                    FW,  b. 1906/06/19
+
+   Joszef NAGY (HUN),             MG,  b. 1892/10/15
+
+
+== USA     # 19 Players
+
+   Julius HJULIAN,                GK,  b. 1903/03/15
+
+   Herman RAPP,                   DF,  b. 1907/01/01
+   Al HARKER,                     DF,  b. 1910/04/11
+   George MOORHOUSE,              DF,  b. 1901/05/04
+   Joe MARTINELLI,                DF,  b. 1916/01/01
+   Ed CZERKIEWICZ,                DF,  b. 1912/07/08
+
+   Tom LYNCH,                     MF,            
+   Jimmy GALLAGHER,               MF,  b. 1901/06/07
+   Bill FIEDLER,                  MF,  b. 1910/01/10
+   Tom AMRHEIN,                   MF,  b. 1911/01/01
+   Peter PIETRAS,                 MF,  b. 1908/04/21
+   Bill LEHMANN,                  MF,  b. 1901/12/20
+
+   Billy GONSALVES,               FW,  b. 1908/08/10
+   Tom FLORIE,                    FW,  b. 1897/09/06
+   Aldo DONELLI,                  FW,  b. 1907/07/22
+   Walter DICK,                   FW,  b. 1905/09/20
+   Werner NILSEN,                 FW,  b. 1904/02/24
+   Bill McLEAN,                   FW,  b. 1904/01/27
+   Francis RYAN,                  FW,  b. 1908/01/10
+
+   David GOULD (USA),             MG,  b. 1873/01/09
+
+
+== Germany     # 22 Players
+
+   Hans JAKOB,                    GK,  b. 1908/06/16
+   Willibald KRESS,               GK,  b. 1906/11/13
+   Fritz BUCHLOH,                 GK,  b. 1909/11/26
+
+   Hans SCHWARTZ,                 DF,  b. 1913/03/01
+   Willy BUSCH,                   DF,  b. 1907/01/04
+   Paul JANES,                    DF,  b. 1912/03/11
+   Sigmund HARINGER,              DF,  b. 1908/12/09
+   Reinhold MUENZENBERG,          DF,  b. 1909/01/25
+
+   Ernst ALBRECHT,                MF,  b. 1907/11/12
+   Rudolf GRAMLICH,               MF,  b. 1908/06/06
+   Paul ZIELINSKI,                MF,  b. 1911/11/20
+   Josef STREB,                   MF,  b. 1912/04/16
+
+   Karl HOHMANN,                  FW,  b. 1908/06/18
+   Ernest LEHNER,                 FW,  b. 1912/11/07
+   Mathias HEIDEMANN,             FW,  b. 1912/02/07
+   Rudolf NOACK,                  FW,  b. 1913/03/30
+   Edmund CONEN,                  FW,  b. 1914/11/10
+   Otto SIFFLING,                 FW,  b. 1912/08/03
+   Fritz SZEPAN,                  FW,  b. 1907/09/02
+   Jakob BENDER,                  FW,  b. 1910/03/23
+   Franz DIENERT,                 FW,  b. 1900/01/01
+   Stanislaus KOBIERSKI,          FW,  b. 1910/11/15
+
+   Otto NERZ (GER),               MG,  b. 1892/10/21
+
+
+== Egypt     # 17 Players
+
+   Kamel MASOUD,                  GK,  b. 1914/08/02
+   Aziz FAHMY,                    GK,  b. 1914/01/01
+
+   Ali Mohammed EL KAF,           DF,  b. 1906/06/15
+   Ismail RAFA AT,                DF,  b. 1908/01/01
+   Abdel SHARLI,                  DF,            
+
+   Mohamed LATIF,                 MF,  b. 1909/10/23
+   Hafez KASSEB,                  MF,            
+   Mohamed Hassan HELMI,          MF,  b. 1912/02/13
+   Hassan EL FAR,                 MF,  b. 1913/01/01
+   Hassan RAGHAB,                 MF,  b. 1909/01/01
+   Mostafa KAMEL TAHA,            MF,            
+   Ibrahim HALIM,                 MF,  b. 1910/02/10
+
+   Abdel Rahman FAWZI,            FW,  b. 1909/08/11
+   Mahmoud MOUKHTAR,              FW,  b. 1907/12/23
+   Mahmoud NEGRO,                 FW,            
+   Mostafa MANSOUR,               FW,  b. 1914/08/02
+
+   Hany KAMEL,                    ?,             
+
+   James McREA (SCO),             MG,  b. 1894/09/02
+
+
+== Brazil     # 17 Players
+
+   GERMANO,                       GK,  b. 1911/03/14
+   PEDROSA,                       GK,  b. 1913/07/08
+
+   LUIZ LUZ,                      DF,  b. 1909/11/29
+   OCTACILIO,                     DF,  b. 1909/11/21
+   SYLVIO HOFFMANN,               DF,  b. 1905/05/11
+
+   TINOCO,                        MF,  b. 1904/12/02
+   ARIEL,                         MF,  b. 1910/02/22
+   CANALLI,                       MF,  b. 1907/03/12
+   MARTIM,                        MF,  b. 1911/03/02
+   WALDYR,                        MF,  b. 1912/03/21
+
+   LUISINHO,                      FW,  b. 1911/03/29
+   ATTILA,                        FW,  b. 1910/12/16
+   PATESKO,                       FW,  b. 1910/11/12
+   CARVALHO LEITE,                FW,  b. 1912/06/25
+   WALDEMAR DE BRITTO,            FW,  b. 1913/05/17
+   LEONIDAS,                      FW,  b. 1913/09/06
+   ARMANDINHO,                    FW,  b. 1911/03/06
+
+   LUIZ VINHAES (BRA),            MG,  b. 1896/03/11
+
+
+== Austria     # 22 Players
+
+   Rudolf RAFTL,                  GK,  b. 1911/02/07
+   Friederich FRANZL,             GK,  b. 1905/03/06
+   Peter PLATZER,                 GK,  b. 1910/05/29
+
+   Franz CISAR,                   DF,  b. 1908/11/28
+   Anton JANDA,                   DF,  b. 1904/05/01
+   Willi SCHMAUS,                 DF,  b. 1911/06/16
+   Karl SESTA,                    DF,  b. 1906/03/18
+
+   Josef SMISTIK,                 MF,  b. 1905/11/28
+   Leopold HOFMANN,               MF,  b. 1905/10/31
+   Hans URBANEK,                  MF,  b. 1910/10/10
+   Franz WAGNER,                  MF,  b. 1911/09/23
+
+   Rudi VIERTL,                   FW,  b. 1902/11/12
+   Johann HORVATH,                FW,  b. 1903/05/20
+   Johann WALZHOFER,              FW,  b. 1906/03/23
+   Karl ZISCHEK,                  FW,  b. 1910/08/28
+   Georg BRAUN,                   FW,  b. 1907/02/22
+   Matthias SINDELAR,             FW,  b. 1903/02/10
+   Josef STROH,                   FW,  b. 1913/03/05
+   Mathias KABUREK,               FW,  b. 1911/02/09
+   Josef HASSMANN,                FW,  b. 1910/05/21
+   Josef BICAN,                   FW,  b. 1913/09/25
+   Toni SCHALL,                   FW,  b. 1907/06/22
+
+   Hugo MEISL (AUT),              MG,  b. 1881/11/16
+
+
+== Romania     # 15 Players
+
+   William ZOMBORY,               GK,  b. 1906/01/11
+   Adalbert PULLOCK,              GK,  b. 1907/04/06
+
+   Lazar SFERA,                   DF,  b. 1909/04/29
+   Alexandru CUEDAN,              DF,  b. 1910/09/26
+   Gheorghe ALBU,                 DF,  b. 1909/11/18
+
+   Rudolf KOTORMANY,              MF,  b. 1911/01/23
+   Josif MORAVETZ,                MF,  b. 1911/01/14
+   Vasile DEHELEANU,              MF,  b. 1910/08/12
+   Emerich VOGL,                  MF,  b. 1905/08/12
+
+   Nicolae KOVACS,                FW,  b. 1911/12/29
+   Iuliu BODOLA,                  FW,  b. 1912/02/26
+   Silviu BINDEA,                 FW,  b. 1912/10/24
+   Gheorghe CIOLAC,               FW,  b. 1908/08/10
+   Stefan DOBAY,                  FW,  b. 1909/09/26
+   Gratian SEPI,                  FW,  b. 1910/12/30
+
+   Constantin RADULESCU (ROU),    MG,  b. 1896/10/05
+   Josef URIDIL (AUT),            MG,  b. 1895/12/24
+
+
+== France     # 22 Players
+
+   Rene LLENSE,                   GK,  b. 1913/07/14
+   Robert DEFOSSE,                GK,  b. 1909/06/16
+   Alex THEPOT,                   GK,  b. 1906/07/30
+
+   Georges BEAUCOURT,             DF,  b. 1912/04/15
+   Joseph GONZALEZ,               DF,  b. 1907/02/19
+   Jules VANDOOREN,               DF,  b. 1908/12/30
+   Etienne MATTLER,               DF,  b. 1905/12/25
+   Jacques MAIRESSE,              DF,  b. 1904/02/27
+
+   Noel LIETAER,                  MF,  b. 1908/11/17
+   Edmond DELFOUR,                MF,  b. 1907/11/01
+   Roger RIO,                     MF,  b. 1913/02/13
+   Louis GABRILLARGUES,           MF,  b. 1914/06/16
+   Celestin DELMER,               MF,  b. 1907/02/15
+   Georges VERRIEST,              MF,  b. 1909/07/15
+
+   Fritz KELLER,                  FW,  b. 1913/08/21
+   Jean NICOLAS,                  FW,  b. 1913/06/09
+   Roger COURTOIS,                FW,  b. 1912/05/30
+   Alfred ASTON,                  FW,  b. 1912/05/16
+   Pierre KORB,                   FW,  b. 1908/04/20
+   Joseph ALCAZAR,                FW,  b. 1911/06/15
+   Lucien LAURENT,                FW,  b. 1907/12/10
+   Emile VEINANTE,                FW,  b. 1907/06/12
+
+   George KIMPTON (ENG),          MG,  b. 1887/08/12
+
+
+== Czechoslovakia     # 18 Players
+
+   Cestmir PATZEL,                GK,  b. 1914/12/02
+   Frantisek PLANICKA,            GK,  b. 1904/06/02
+
+   Ladislav ZENISEK,              DF,  b. 1904/03/07
+   Josef CTYROKY,                 DF,  b. 1906/09/30
+   Jaroslav BURGR,                DF,  b. 1906/03/07
+
+   Stefan CAMBAL,                 MF,  b. 1908/12/17
+   Josef KOSTALEK,                MF,  b. 1909/08/31
+   Vlastimil KOPECKY,             MF,  b. 1912/10/14
+   Rudolf KRCIL,                  MF,  b. 1906/03/05
+   Antonin VODICKA,               MF,  b. 1907/03/01
+   Jaroslav BOUCEK,               MF,  b. 1912/11/13
+
+   Frantisek JUNEK,               FW,  b. 1907/01/17
+   Josef SILNY,                   FW,  b. 1902/01/23
+   Frantisek SVOBODA,             FW,  b. 1905/07/05
+   Oldrich NEJEDLY,               FW,  b. 1909/12/26
+   Jiri SOBOTKA,                  FW,  b. 1911/06/06
+   Geza KALOCSAY,                 FW,  b. 1913/05/30
+   Antonin PUC,                   FW,  b. 1907/05/16
+
+   Karel PETRU (TCH),             MG,  b. 1891/01/24
+
+

@@ -1,0 +1,498 @@
+= World Cup 1974     # 16 Teams
+
+== Brazil     # 22 Players
+
+       1, LEAO,                          GK,  b. 1949/07/11
+      12, RENATO,                        GK,  b. 1944/12/05
+      22, WALDIR PERES,                  GK,  b. 1951/01/02
+
+       2, LUIS PEREIRA,                  DF,  b. 1949/06/21
+       3, MARINHO PERES,                 DF,  b. 1947/03/19
+       4, ZE MARIA,                      DF,  b. 1949/05/18
+       5, WILSON PIAZZA,                 DF,  b. 1943/02/25
+       6, MARINHO CHAGAS,                DF,  b. 1952/02/08
+      14, NELINHO,                       DF,  b. 1950/07/26
+      15, ALFREDO,                       DF,  b. 1946/10/18
+      16, MARCO ANTONIO,                 DF,  b. 1951/02/06
+
+      10, RIVELLINO,                     MF,  b. 1946/01/01
+      11, PAULO CESAR,                   MF,  b. 1949/06/16
+      17, CARPEGIANI,                    MF,  b. 1949/02/07
+      18, ADEMIR DA GUIA,                MF,  b. 1942/04/03
+      21, DIRCEU,                        MF,  b. 1952/06/15
+
+       7, JAIRZINHO,                     FW,  b. 1944/12/25
+       8, LEIVINHA,                      FW,  b. 1949/09/11
+       9, CESAR,                         FW,  b. 1945/05/17
+      13, VALDOMIRO,                     FW,  b. 1946/02/17
+      19, MIRANDINHA,                    FW,  b. 1952/02/26
+      20, EDU,                           FW,  b. 1949/08/06
+
+       -, Mario ZAGALLO (BRA),           MG,  b. 1931/08/09
+
+
+== Italy     # 22 Players
+
+       1, Dino ZOFF,                     GK,  b. 1942/02/28
+      12, Enrico ALBERTOSI,              GK,  b. 1939/11/02
+      22, Luciano CASTELLINI,            GK,  b. 1945/12/12
+
+       2, Luciano SPINOSI,               DF,  b. 1950/05/09
+       3, Giacinto FACCHETTI,            DF,  b. 1942/07/18
+       5, Francesco MORINI,              DF,  b. 1944/08/12
+       6, Tarcisio BURGNICH,             DF,  b. 1939/04/25
+      13, Giuseppe SABADINI,             DF,  b. 1949/03/26
+      14, Mauro BELLUGI,                 DF,  b. 1950/02/07
+      15, Giuseppe WILSON,               DF,  b. 1945/10/27
+
+       4, Romeo BENETTI,                 MF,  b. 1945/10/20
+       7, Sandro MAZZOLA,                MF,  b. 1942/11/08
+       8, Fabio CAPELLO,                 MF,  b. 1946/06/18
+      10, Gianni RIVERA,                 MF,  b. 1943/08/18
+      16, Antonio JULIANO,               MF,  b. 1943/01/01
+      17, Luciano RE CECCONI,            MF,  b. 1948/12/01
+      18, Franco CAUSIO,                 MF,  b. 1949/02/01
+
+       9, Giorgio CHINAGLIA,             FW,  b. 1947/01/24
+      11, Gigi RIVA,                     FW,  b. 1944/11/07
+      19, Pietro ANASTASI,               FW,  b. 1948/04/07
+      20, Roberto BONINSEGNA,            FW,  b. 1943/11/13
+      21, Paolo PULICI,                  FW,  b. 1950/04/27
+
+       -, Ferruccio VALCAREGGI (ITA),    MG,  b. 1919/02/12
+
+
+== Argentina     # 22 Players
+
+       1, Daniel CARNEVALI,              GK,  b. 1946/12/04
+      12, Ubaldo FILLOL,                 GK,  b. 1950/07/21
+      21, Miguel SANTORO,                GK,  b. 1942/02/27
+
+       5, Angel BARGAS,                  DF,  b. 1946/10/29
+       7, Jorge CARRASCOSA,              DF,  b. 1948/08/15
+       9, Ruben GLARIA,                  DF,  b. 1948/03/10
+      10, Ramon HEREDIA,                 DF,  b. 1951/02/26
+      14, Roberto PERFUMO,               DF,  b. 1942/10/03
+      16, Francisco SA,                  DF,  b. 1945/10/25
+      17, Carlos SQUEO,                  DF,  b. 1948/06/04
+      19, Nestor TOGNERI,                DF,  b. 1942/11/27
+      20, Enrique WOLFF,                 DF,  b. 1949/02/21
+
+       6, Miguel BRINDISI,               MF,  b. 1950/10/08
+       8, Enrique CHAZARRETA,            MF,  b. 1947/07/29
+      18, Roberto TELCH,                 MF,  b. 1943/11/06
+
+       2, Ruben AYALA,                   FW,  b. 1950/01/08
+       3, Carlos BABINGTON,              FW,  b. 1949/09/20
+       4, Augustin BALBUENA,             FW,  b. 1945/09/01
+      11, Rene HOUSEMAN,                 FW,  b. 1953/07/19
+      13, Mario KEMPES,                  FW,  b. 1954/07/15
+      15, Aldo POY,                      FW,  b. 1945/09/14
+      22, Hector YAZALDE,                FW,  b. 1946/05/29
+
+       -, Vladislao CAP (ARG),           MG,  b. 1934/07/05
+
+
+== Zaire     # 22 Players
+
+       1, Kazadi MUAMBA,                 GK,  b. 1947/03/06
+      12, Tubilandu NDIMBI,              GK,  b. 1948/03/15
+      22, Kalambay OTEPA,                GK,  b. 1948/11/12
+
+       2, Muepu ILUNGA,                  DF,  b. 1949/08/22
+       3, Mwanza Nel MUKOMBO,            DF,  b. 1945/12/17
+       4, Buanga TSHIMEN,                DF,  b. 1949/01/04
+       5, Lobilo BOBA,                   DF,  b. 1950/04/10
+      11, Kabasu BABO,                   DF,  b. 1950/03/04
+      16, Mwape MIALO,                   DF,  b. 1951/12/30
+
+       6, Kilasu MASSAMBA,               MF,  b. 1950/12/22
+       7, Tshinabu WA MUNDA,             MF,  b. 1946/05/08
+       8, Mana MAMBUENE,                 MF,  b. 1947/10/10
+       9, Kembo Uba KEMBO,               MF,  b. 1947/12/27
+      10, Kidumu MANTANTU,               MF,  b. 1946/11/17
+      13, Ndaye MULAMBA,                 MF,  b. 1948/11/04
+      15, Kibonge MAFU,                  MF,  b. 1945/02/12
+      17, Kafula NGOYE,                  MF,  b. 1945/11/11
+
+      14, Mayanga MAKU,                  FW,  b. 1948/10/31
+      18, Mavuda MAFUILA,                FW,  b. 1949/12/15
+      19, Mbungu EKOFO,                  FW,  b. 1948/11/24
+      20, Ntumba KALALA,                 FW,  b. 1949/01/07
+      21, Kakoko ETEPE,                  FW,  b. 1950/11/22
+
+       -, Blagoje VIDINIC (YUG),         MG,  b. 1934/06/11
+
+
+== Chile     # 22 Players
+
+       1, Leopoldo VALLEJOS,             GK,  b. 1944/07/16
+      21, Juan OLIVARES,                 GK,  b. 1941/02/20
+      22, Adolfo NEF,                    GK,  b. 1946/01/18
+
+       2, Rolando GARCIA,                DF,  b. 1942/12/15
+       3, Alberto QUINTANO,              DF,  b. 1946/04/26
+       4, Antonio ARIAS,                 DF,  b. 1944/10/09
+       5, Elias FIGUEROA,                DF,  b. 1946/10/25
+       6, Juan RODRIGUEZ,                DF,  b. 1944/01/16
+      12, Juan MACHUCA,                  DF,  b. 1951/03/07
+      13, Rafael GONZALEZ,               DF,  b. 1950/04/24
+      15, Mario GALINDO,                 DF,  b. 1951/08/10
+
+       8, Francisco VALDES,              MF,  b. 1943/03/19
+      10, Carlos REINOSO,                MF,  b. 1945/03/07
+      14, Alfonso LARA,                  MF,  b. 1946/04/27
+      16, Guillermo PAEZ,                MF,  b. 1945/04/18
+      17, Guillermo YAVAR,               MF,  b. 1943/03/26
+      18, Jorge SOCIAS,                  MF,  b. 1951/10/06
+      19, Rogelio FARIAS,                MF,  b. 1949/08/13
+
+       7, Carlos CASZELY,                FW,  b. 1950/07/05
+       9, Sergio AHUMADA,                FW,  b. 1948/10/02
+      11, Leonardo VELIZ,                FW,  b. 1945/09/03
+      20, Osvaldo CASTRO,                FW,  b. 1947/04/14
+
+       -, Luis ALAMOS (CHI),             MG,  b. 1923/12/25
+
+
+== Uruguay     # 22 Players
+
+       1, Ladislao MAZURKIEWICZ,         GK,  b. 1945/02/14
+      12, Hector SANTOS,                 GK,  b. 1944/10/29
+      22, Gustavo FERNANDEZ,             GK,  b. 1952/02/16
+
+       2, Baudilio JAUREGUI,             DF,  b. 1945/07/09
+       3, Juan MASNIK,                   DF,  b. 1943/03/02
+       4, Pablo FORLAN,                  DF,  b. 1945/07/14
+       5, Julio MONTERO CASTILLO,        DF,  b. 1944/04/25
+       6, Ricardo PAVONI,                DF,  b. 1943/07/08
+      13, Gustavo DE SIMONE,             DF,  b. 1948/04/23
+      14, Luis GARISTO,                  DF,  b. 1945/12/03
+      15, Mario GONZALEZ,                DF,  b. 1950/05/27
+
+       7, Luis CUBILLA,                  MF,  b. 1940/03/28
+       8, Victor ESPARRAGO,              MF,  b. 1944/10/06
+      10, Pedro ROCHA,                   MF,  b. 1942/12/03
+      16, Alberto CARDACCIO,             MF,  b. 1949/08/26
+      17, Julio Cesar JIMENEZ,           MF,  b. 1954/08/27
+      18, Walter MANTEGAZZA,             MF,  b. 1952/06/17
+
+       9, Fernando MORENA,               FW,  b. 1952/02/02
+      11, Ruben CORBO,                   FW,  b. 1952/01/20
+      19, Denis MILAR,                   FW,  b. 1952/06/20
+      20, Juan SILVA,                    FW,  b. 1948/08/30
+      21, Jose GOMEZ,                    FW,  b. 1949/10/23
+
+       -, Roberto PORTA (URU),           MG,  b. 1913/06/07
+
+
+== Bulgaria     # 22 Players
+
+       1, Rumen GORANOV,                 GK,  b. 1950/03/17
+      21, Stefan STAIKOV,                GK,  b. 1949/10/03
+      22, Simeon SIMEONOV,               GK,  b. 1946/04/26
+
+       2, Ivan ZAFIROV,                  DF,  b. 1947/12/30
+       3, Dobromir JECHEV,               DF,  b. 1942/11/12
+       4, Stefan VELICHKOV,              DF,  b. 1949/02/15
+       6, Dimitar PENEV,                 DF,  b. 1945/07/12
+      12, Stefan ALADZHOV,               DF,  b. 1947/10/18
+      17, Asparukh NIKODIMOV,            DF,  b. 1945/08/21
+      18, Tsonyo VASILEV,                DF,  b. 1952/01/07
+      19, Kiril IVKOV,                   DF,  b. 1946/06/21
+
+       5, Bozhil KOLEV,                  MF,  b. 1949/05/20
+       8, Hristo BONEV,                  MF,  b. 1947/02/03
+      10, Ivan STOYANOV,                 MF,  b. 1949/01/20
+
+       7, Voin VOINOV,                   FW,  b. 1952/09/07
+       9, Atanas MIKHAILOV,              FW,  b. 1949/07/05
+      11, Georgi DENEV,                  FW,  b. 1950/04/18
+      13, Mladen VASILEV,                FW,  b. 1947/07/29
+      14, Kiril MILANOV,                 FW,  b. 1948/10/17
+      15, Pavel PANOV,                   FW,  b. 1950/09/14
+      16, Bozhidar GRIGOROV,             FW,  b. 1945/07/27
+      20, Krasimir BORISOV,              FW,  b. 1950/04/08
+
+       -, Hristo MLADENOV (BUL),         MG,  b. 1928/01/07
+
+
+== Haiti     # 22 Players
+
+       1, Henry FRANCILLON,              GK,  b. 1946/05/26
+       2, Wilner PIQUANT,                GK,  b. 1951/12/04
+      22, Gerard JOSEPH,                 GK,  b. 1949/10/22
+
+       3, Arsene AUGUSTE,                DF,  b. 1951/02/03
+       4, Fritz ANDRE,                   DF,  b. 1946/09/18
+       5, Serge DUCOSTE,                 DF,  b. 1944/02/04
+       6, Pierre BAYONNE,                DF,  b. 1949/06/11
+      12, Ernst JEAN-JOSEPH,             DF,  b. 1948/06/11
+      14, Wilner NAZAIRE,                DF,  b. 1950/03/30
+      17, Joseph-Marion LEANDRE,         DF,  b. 1945/05/09
+      21, Wilfred LOUIS,                 DF,  b. 1949/10/25
+
+       7, Philippe VORBE,                MF,  b. 1947/09/14
+       8, Jean Claude DESIR,             MF,  b. 1946/08/08
+       9, Eddy ANTOINE,                  MF,  b. 1949/08/27
+      10, Guy FRANCOIS,                  MF,  b. 1947/09/18
+      13, Serge RACINE,                  MF,  b. 1951/10/09
+      19, Jean-Hubert AUSTIN,            MF,  b. 1950/02/23
+
+      11, Guy SAINT-VIL,                 FW,  b. 1942/10/21
+      15, Roger SAINT-VIL,               FW,  b. 1949/12/08
+      16, Fritz LEANDRE,                 FW,  b. 1948/03/13
+      18, Claude BARTHELEMY,             FW,  b. 1945/05/09
+      20, Emmanuel SANON,                FW,  b. 1951/06/25
+
+       -, Antoine TASSY (HAI),           MG,  b. 1924/03/26
+
+
+== Yugoslavia     # 22 Players
+
+       1, Enver MARIC,                   GK,  b. 1948/04/23
+      21, Ognjen PETROVIC,               GK,  b. 1948/01/02
+      22, Rizah MESKOVIC,                GK,  b. 1947/08/10
+
+       2, Ivan BULJAN,                   DF,  b. 1949/12/11
+       3, Enver HADZIABDIC,              DF,  b. 1945/11/06
+       4, Drazen MUZINIC,                DF,  b. 1953/01/25
+       5, Josip KATALINSKI,              DF,  b. 1948/05/02
+       6, Vladislav BOGICEVIC,           DF,  b. 1950/11/07
+      14, Luka PERUZOVIC,                DF,  b. 1952/02/26
+      15, Kiril DOJCINOVSKI,             DF,  b. 1943/10/17
+
+       7, Ilija PETKOVIC,                MF,  b. 1945/09/22
+       8, Branko OBLAK,                  MF,  b. 1947/05/27
+      10, Jovan ACIMOVIC,                MF,  b. 1948/06/21
+      12, Jurica JERKOVIC,               MF,  b. 1950/02/25
+      13, Miroslav PAVLOVIC,             MF,  b. 1942/12/15
+      16, Franjo VLADIC,                 MF,  b. 1951/10/19
+      20, Vladimir PETROVIC,             MF,  b. 1955/07/01
+
+       9, Ivica SURJAK,                  FW,  b. 1953/03/23
+      11, Dragan DZAJIC,                 FW,  b. 1946/05/30
+      17, Danilo POPIVODA,               FW,  b. 1947/05/01
+      18, Stanislav KARASI,              FW,  b. 1946/11/08
+      19, Dusan BAJEVIC,                 FW,  b. 1948/12/10
+
+       -, Miljan MILJANIC (SRB),         MG,  b. 1930/05/04
+
+
+== West Germany     # 22 Players
+
+       1, Sepp MAIER,                    GK,  b. 1944/02/28
+      21, Norbert NIGBUR,                GK,  b. 1948/05/08
+      22, Wolfgang KLEFF,                GK,  b. 1946/11/16
+
+       2, Berti VOGTS,                   DF,  b. 1946/12/30
+       3, Paul BREITNER,                 DF,  b. 1951/09/05
+       4, Hans Georg SCHWARZENBECK,      DF,  b. 1948/04/03
+       5, Franz BECKENBAUER,             DF,  b. 1945/09/11
+       6, Horst-Dieter HOETTGES,         DF,  b. 1943/09/10
+       8, Bernd CULLMANN,                DF,  b. 1949/11/01
+      20, Helmut KREMERS,                DF,  b. 1949/03/24
+
+       7, Herbert WIMMER,                MF,  b. 1944/11/09
+      10, Guenter NETZER,                MF,  b. 1944/09/14
+      12, Wolfgang OVERATH,              MF,  b. 1943/09/29
+      14, Uli HOENESS,                   MF,  b. 1952/01/05
+      15, Heinz FLOHE,                   MF,  b. 1948/01/28
+      16, Rainer BONHOF,                 MF,  b. 1952/03/29
+      19, Jupp KAPPELLMANN,              MF,  b. 1949/12/19
+
+       9, Juergen GRABOWSKI,             FW,  b. 1944/07/07
+      11, Jupp HEYNCKES,                 FW,  b. 1945/05/09
+      13, Gerd MUELLER,                  FW,  b. 1945/11/03
+      17, Bernd HOELZENBEIN,             FW,  b. 1946/03/09
+      18, Dieter HERZOG,                 FW,  b. 1946/07/15
+
+       -, Helmut SCHOEN (FRG),           MG,  b. 1915/09/15
+
+
+== Australia     # 22 Players
+
+       1, Jack REILLY,                   GK,  b. 1943/08/27
+      21, Jimmy MILISAVLJEVIC,           GK,  b. 1951/04/15
+      22, Allan MAHER,                   GK,  b. 1950/07/21
+
+       2, Doug UTJESENOVIC,              DF,  b. 1946/10/08
+       3, Peter WILSON,                  DF,  b. 1947/09/15
+       4, Manfred SCHAEFER,              DF,  b. 1943/02/12
+       5, Colin CURRAN,                  DF,  b. 1947/08/21
+      15, Harry WILLIAMS,                DF,  b. 1951/05/07
+      16, Ivo RUDIC,                     DF,  b. 1942/01/24
+      18, John WATKISS,                  DF,  b. 1941/03/28
+
+       6, Ray RICHARDS,                  MF,  b. 1946/05/18
+       7, Jimmy ROONEY,                  MF,  b. 1945/10/10
+       8, Jimmy MACKAY,                  MF,  b. 1943/12/19
+       9, John WARREN,                   MF,  b. 1943/05/17
+      14, Max TOLSON,                    MF,  b. 1945/07/18
+      17, Dave HARDING,                  MF,  b. 1946/08/14
+
+      10, Gary MANUEL,                   FW,  b. 1950/02/20
+      11, Attila ABONYI,                 FW,  b. 1946/08/16
+      12, Adrian ALSTON,                 FW,  b. 1949/02/06
+      13, Peter OLLERTON,                FW,  b. 1951/05/20
+      19, Ernie CAMPBELL,                FW,  b. 1949/10/20
+      20, Branko BULJEVIC,               FW,  b. 1947/09/06
+
+       -, Rale RASIC (YUG),              MG,  b. 1935/12/26
+
+
+== Netherlands     # 22 Players
+
+       8, Jan JONGBLOED,                 GK,  b. 1940/11/25
+      18, Piet SCHRIJVERS,               GK,  b. 1946/12/15
+      21, Eddy TREIJTEL,                 GK,  b. 1946/05/28
+
+       4, Cees VAN IERSSEL,              DF,  b. 1945/12/06
+       5, Rinus ISRAEL,                  DF,  b. 1942/03/19
+       7, Theo DE JONG,                  DF,  b. 1947/08/11
+      12, Ruud KROL,                     DF,  b. 1949/03/24
+      17, Wim RIJSBERGEN,                DF,  b. 1952/01/18
+      20, Wim SUURBIER,                  DF,  b. 1945/01/16
+      22, Harry VOS,                     DF,  b. 1946/09/04
+
+       2, Arie HAAN,                     MF,  b. 1948/11/16
+       3, Wim VAN HANEGEM,               MF,  b. 1944/02/20
+       6, Wim JANSEN,                    MF,  b. 1946/10/28
+      11, Willy VAN DE KERKHOF,          MF,  b. 1951/09/16
+      13, Johan NEESKENS,                MF,  b. 1951/09/15
+      19, Pleun STRIK,                   MF,  b. 1944/05/27
+
+       1, Ruud GEELS,                    FW,  b. 1948/07/28
+       9, Piet KEIZER,                   FW,  b. 1943/06/14
+      10, Rene VAN DE KERKHOF,           FW,  b. 1951/09/16
+      14, Johan CRUYFF,                  FW,  b. 1947/04/25
+      15, Rob RENSENBRINK,               FW,  b. 1947/07/03
+      16, Johnny REP,                    FW,  b. 1951/11/25
+
+       -, Rinus MICHELS (NED),           MG,  b. 1928/02/09
+
+
+== Sweden     # 22 Players
+
+       1, Ronnie HELLSTROM,              GK,  b. 1949/02/21
+      12, Sven-Gunnar LARSSON,           GK,  b. 1940/05/10
+      17, Goran HAGBERG,                 GK,  b. 1947/11/08
+
+       2, Jan OLSSON,                    DF,  b. 1944/03/18
+       3, Kent KARLSSON,                 DF,  b. 1945/11/25
+       4, Bjorn NORDQVIST,               DF,  b. 1942/10/06
+       5, Bjorn ANDERSSON,               DF,  b. 1951/07/20
+      13, Roland GRIP,                   DF,  b. 1941/01/01
+      18, Jorgen AUGUSTSSON,             DF,  b. 1952/10/28
+
+       6, Ove GRAHN,                     MF,  b. 1943/05/09
+       7, Bo LARSSON,                    MF,  b. 1944/05/05
+       9, Ove KINDVALL,                  MF,  b. 1943/05/16
+      14, Staffan TAPPER,                MF,  b. 1948/07/10
+      16, Inge EJDERSTEDT,               MF,  b. 1946/12/24
+      19, Claes CRONQVIST,               MF,  b. 1944/10/15
+      20, Sven LINDMAN,                  MF,  b. 1942/04/19
+      21, Orjan PERSSON,                 MF,  b. 1942/08/27
+      22, Thomas AHLSTROM,               MF,  b. 1952/07/17
+
+       8, Conny TORSTENSSON,             FW,  b. 1949/08/28
+      10, Ralf EDSTROM,                  FW,  b. 1952/10/07
+      11, Roland SANDBERG,               FW,  b. 1946/12/16
+      15, Benno MAGNUSSON,               FW,  b. 1953/02/04
+
+       -, Georg ERICSON (SWE),           MG,  b. 1919/12/18
+
+
+== Scotland     # 22 Players
+
+       1, David HARVEY,                  GK,  b. 1948/02/07
+      12, Thomson ALLAN,                 GK,  b. 1946/10/05
+      13, Jim STEWART,                   GK,  b. 1954/03/09
+
+       2, Sandy JARDINE,                 DF,  b. 1948/12/31
+       3, Danny McGRAIN,                 DF,  b. 1950/05/01
+       5, James HOLTON,                  DF,  b. 1951/04/11
+       6, John BLACKLEY,                 DF,  b. 1948/05/12
+      14, Martin BUCHAN,                 DF,  b. 1949/03/06
+      16, Willie DONACHIE,               DF,  b. 1951/10/05
+      21, Gordon McQUEEN,                DF,  b. 1952/06/26
+      22, Erich SCHAEDLER,               DF,  b. 1949/08/06
+
+       4, Billy BREMNER,                 MF,  b. 1942/12/09
+       7, Jimmy JOHNSTONE,               MF,  b. 1944/09/30
+      10, Davie HAY,                     MF,  b. 1948/01/29
+      15, Peter CORMACK,                 MF,  b. 1946/07/17
+      17, Donald FORD,                   MF,  b. 1944/10/25
+      18, Tommy HUTCHISON,               MF,  b. 1947/09/22
+
+       8, Kenny DALGLISH,                FW,  b. 1951/03/04
+       9, Joe JORDAN,                    FW,  b. 1951/12/15
+      11, Peter LORIMER,                 FW,  b. 1946/12/14
+      19, Denis LAW,                     FW,  b. 1940/02/24
+      20, Willie MORGAN,                 FW,  b. 1944/10/02
+
+       -, Willie ORMOND (SCO),           MG,  b. 1927/02/23
+
+
+== Poland     # 22 Players
+
+       1, Andrzej FISCHER,               GK,  b. 1952/01/15
+       2, Jan TOMASZEWSKI,               GK,  b. 1948/01/09
+       3, Zygmunt KALINOWSKI,            GK,  b. 1949/05/02
+
+       4, Antoni SZYMANOWSKI,            DF,  b. 1951/01/13
+       5, Zbigniew GUT,                  DF,  b. 1949/04/17
+       6, Jerzy GORGON,                  DF,  b. 1949/07/18
+       8, Miroslaw BULZACKI,             DF,  b. 1951/10/23
+       9, Wladyslaw ZMUDA,               DF,  b. 1954/06/06
+      10, Adam MUSIAL,                   DF,  b. 1948/12/18
+
+       7, Henryk WIECZOREK,              MF,  b. 1949/12/14
+      11, Leslaw CMIKIEWICZ,             MF,  b. 1948/08/25
+      12, Kazimierz DEYNA,               MF,  b. 1947/10/23
+      13, Henryk KASPERCZAK,             MF,  b. 1946/07/10
+      14, Zygmunt MASZCZYK,              MF,  b. 1945/05/03
+
+      15, Roman JAKOBCZAK,               FW,  b. 1946/02/26
+      16, Grzegorz LATO,                 FW,  b. 1950/04/08
+      17, Andrzej SZARMACH,              FW,  b. 1950/10/03
+      18, Robert GADOCHA,                FW,  b. 1946/01/10
+      19, Jan DOMARSKI,                  FW,  b. 1946/10/28
+      20, Zdzislaw KAPKA,                FW,  b. 1954/12/07
+      21, Kazimierz KMIECIK,             FW,  b. 1951/09/19
+      22, Marek KUSTO,                   FW,  b. 1954/04/29
+
+       -, Kazimierz GORSKI (POL),        MG,  b. 1921/03/02
+
+
+== East Germany     # 22 Players
+
+       1, Juergen CROY,                  GK,  b. 1946/10/19
+      21, Wolfgang BLOCHWITZ,            GK,  b. 1941/02/08
+      22, Werner FRIESE,                 GK,  b. 1946/03/30
+
+       2, Lothar KURBJUWEIT,             DF,  b. 1950/11/06
+       3, Bernd BRANSCH,                 DF,  b. 1944/09/24
+       4, Konrad WEISE,                  DF,  b. 1951/08/17
+       5, Joachim FRITSCHE,              DF,  b. 1951/10/28
+      12, Siegmar WAETZLICH,             DF,  b. 1947/11/16
+      18, Gerd KISCHE,                   DF,  b. 1951/10/23
+
+       6, Ruediger SCHNUPHASE,           MF,  b. 1954/01/23
+       7, Juergen POMMERENKE,            MF,  b. 1953/01/22
+      10, Hans-Juergen KREISCHE,         MF,  b. 1947/07/19
+      13, Reinhard LAUCK,                MF,  b. 1946/09/16
+      14, Juergen SPARWASSER,            MF,  b. 1948/06/04
+      16, Harald IRMSCHER,               MF,  b. 1946/02/12
+      17, Erich HAMANN,                  MF,  b. 1944/11/27
+      19, Wolfgang SEGUIN,               MF,  b. 1945/09/14
+
+       8, Wolfram LOEWE,                 FW,  b. 1945/05/14
+       9, Peter DUCKE,                   FW,  b. 1941/10/14
+      11, Joachim STREICH,               FW,  b. 1951/04/13
+      15, Eberhard VOGEL,                FW,  b. 1943/04/08
+      20, Martin HOFFMANN,               FW,  b. 1955/03/22
+
+       -, Georg BUSCHNER (GER),          MG,  b. 1925/12/26
+
+

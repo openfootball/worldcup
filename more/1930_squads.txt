@@ -1,0 +1,369 @@
+= World Cup 1930     # 13 Teams
+
+== USA     # 16 Players
+
+   Jimmy DOUGLAS,                 GK,  b. 1898/01/12
+   Frank VAUGHN,                  GK,  b. 1902/02/18
+
+   Ralph TRACY,                   DF,  b. 1904/12/23
+   Alexander WOOD,                DF,  b. 1907/06/12
+   George MOORHOUSE,              DF,  b. 1901/05/04
+
+   Jimmy GALLAGHER,               MF,  b. 1901/06/07
+   Mike BOOKIE,                   MF,  b. 1904/09/12
+   Arnie OLIVER,                  MF,  b. 1907/05/22
+   Phil SLONE,                    MF,  b. 1907/01/20
+
+   Billy GONSALVES,               FW,  b. 1908/08/10
+   Tom FLORIE,                    FW,  b. 1897/09/06
+   Jim BROWN,                     FW,  b. 1908/12/31
+   Jim GENTLE,                    FW,  b. 1904/07/21
+   Bart McGHEE,                   FW,  b. 1899/04/30
+   Bert PATENAUDE,                FW,  b. 1909/11/04
+   Andrew AULD,                   FW,  b. 1900/01/26
+
+   Bob MILLAR (USA),              MG,  b. 1890/05/12
+
+
+== Bolivia     # 17 Players
+
+   Jesus BERMUDEZ,                GK,  b. 1902/01/01
+   Miguel MURILLO,                GK,  b. 1898/03/24
+
+   Segundo DURANDAL,              DF,  b. 1907/03/17
+   Casiano CHAVARRIA,             DF,  b. 1901/08/03
+   Luis REYES PENARANDA,          DF,  b. 1911/06/05
+
+   Jorge ARGOTE,                  MF,  b. 1906/01/01
+   Miguel BRITO,                  MF,            
+   Jorge BALDERRAMA,              MF,  b. 1906/12/12
+   Diogenes LARA,                 MF,  b. 1903/04/06
+   Renato SAINZ,                  MF,  b. 1899/12/14
+
+   Rafael MENDEZ,                 FW,  b. 1904/01/01
+   Gumercindo GOMEZ,              FW,  b. 1907/01/01
+   Rene FERNANDEZ,                FW,  b. 1906/01/01
+   Jose NOYA,                     FW,            
+   Jose BUSTAMANTE,               FW,  b. 1907/01/01
+   Mario ALBORTA,                 FW,  b. 1910/09/19
+   Eduardo REYES ORTIZ,           FW,  b. 1907/01/01
+
+   Ulises SAUCEDO (BOL),          MG,  b. 1896/03/03
+
+
+== Brazil     # 24 Players
+
+   VELLOSO,                       GK,  b. 1908/09/25
+   JOEL,                          GK,  b. 1904/05/01
+
+   ITALIA,                        DF,  b. 1907/05/22
+   BRILHANTE,                     DF,  b. 1904/11/05
+   ZE LUIS,                       DF,  b. 1904/11/16
+
+   IVAN MARIZ,                    MF,  b. 1910/05/16
+   PAMPLONA,                      MF,  b. 1904/03/24
+   BENVENUTTO,                    MF,  b. 1903/08/08
+   FERNANDO GIUDICELLI,           MF,  b. 1906/03/01
+   HERMOGENES,                    MF,  b. 1908/11/04
+   OSCARINO,                      MF,  b. 1907/01/17
+   FORTES,                        MF,  b. 1901/09/09
+   FAUSTO,                        MF,  b. 1905/01/28
+
+   PREGUINHO,                     FW,  b. 1905/02/08
+   NILO,                          FW,  b. 1903/04/03
+   MODERATO,                      FW,  b. 1902/07/14
+   ARAKEN,                        FW,  b. 1905/07/17
+   POLY,                          FW,  b. 1909/01/26
+   DOCA,                          FW,  b. 1903/03/07
+   TEOPHILO,                      FW,  b. 1900/04/11
+   BENEDICTO,                     FW,  b. 1910/05/10
+   MANOELZINHO,                   FW,  b. 1907/08/22
+   CARVALHO LEITE,                FW,  b. 1912/06/25
+   RUSSINHO,                      FW,  b. 1902/12/18
+
+   Pindaro DE CARVALHO (BRA),     MG,  b. 1892/06/01
+
+
+== Uruguay     # 22 Players
+
+   Enrique BALLESTRERO,           GK,  b. 1905/01/18
+   Miguel CAPPUCCINI,             GK,  b. 1904/01/05
+
+   Emilio RECOBA,                 DF,  b. 1904/11/03
+   Ernesto MASCHERONI,            DF,  b. 1907/11/21
+   Jose NASAZZI,                  DF,  b. 1901/05/24
+   Domingo TEJERA,                DF,  b. 1899/07/22
+
+   Alvaro GESTIDO,                MF,  b. 1907/05/17
+   Angel MELOGNO,                 MF,  b. 1905/03/22
+   Carlos RIOLFO,                 MF,  b. 1905/11/05
+   Conduelo PIRIZ,                MF,  b. 1904/10/09
+   Lorenzo FERNANDEZ,             MF,  b. 1900/05/20
+   Jose ANDRADE,                  MF,  b. 1901/11/22
+
+   Pedro PETRONE,                 FW,  b. 1905/05/11
+   Santos URDINARAN,              FW,  b. 1900/03/30
+   Juan Carlos CALVO,             FW,  b. 1906/06/26
+   Victoriano IRIARTE,            FW,  b. 1902/11/01
+   Pablo DORADO,                  FW,  b. 1908/06/22
+   Pedro CEA,                     FW,  b. 1900/09/01
+   Hector CASTRO,                 FW,  b. 1904/11/29
+   Juan ANSELMO,                  FW,  b. 1902/04/30
+   Zoilo SALDOMBIDE,              FW,  b. 1905/03/18
+   Hector SCARONE,                FW,  b. 1898/11/26
+
+   Alberto SUPPICI (URU),         MG,  b. 1898/11/20
+
+
+== Mexico     # 17 Players
+
+   Oscar BONFIGLIO,               GK,  b. 1905/10/05
+   Isidoro SOTA,                  GK,  b. 1902/02/04
+
+   Manuel ROSAS,                  DF,  b. 1912/04/17
+   Francisco GARZA GUTIERREZ,     DF,  b. 1904/03/14
+   Rafael GARZA,                  DF,  b. 1896/12/13
+
+   Alfredo SANCHEZ,               MF,  b. 1904/05/28
+   Felipe ROSAS,                  MF,  b. 1910/02/05
+   Efrain AMEZCUA,                MF,  b. 1907/08/03
+   Raimundo RODRIGUEZ,            MF,  b. 1905/04/15
+
+   Hilario LOPEZ,                 FW,  b. 1907/11/18
+   Roberto GAYON,                 FW,  b. 1905/01/01
+   Jose RUIZ,                     FW,  b. 1904/01/01
+   Juan CARRENO,                  FW,  b. 1907/08/14
+   Dionisio MEJIA,                FW,  b. 1907/01/06
+   Felipe OLIVARES,               FW,  b. 1910/02/05
+   Jesus CASTRO,                  FW,  b. 1908/10/16
+   Luis PEREZ,                    FW,  b. 1907/01/01
+
+   Juan LUQUE (MEX),              MG,  b. 1882/05/31
+
+
+== France     # 16 Players
+
+   Alex THEPOT,                   GK,  b. 1906/07/30
+   Andre TASSIN,                  GK,  b. 1902/02/23
+
+   Nouma ANDOIRE,                 DF,  b. 1908/03/19
+   Marcel CAPELLE,                DF,  b. 1904/12/11
+   Etienne MATTLER,               DF,  b. 1905/12/25
+
+   Alex VILLAPLANE,               MF,  b. 1903/09/12
+   Celestin DELMER,               MF,  b. 1907/02/15
+   Augustin CHANTREL,             MF,  b. 1906/11/11
+   Jean LAURENT,                  MF,  b. 1906/12/30
+   Marcel PINEL,                  MF,  b. 1908/07/08
+
+   Emile VEINANTE,                FW,  b. 1907/06/12
+   Ernest LIBERATI,               FW,  b. 1906/03/22
+   Marcel LANGILLER,              FW,  b. 1908/06/02
+   Edmond DELFOUR,                FW,  b. 1907/11/01
+   Lucien LAURENT,                FW,  b. 1907/12/10
+   Andre MASCHINOT,               FW,  b. 1903/06/28
+
+   Raoul CAUDRON (FRA),           MG,  b. 1883/12/07
+
+
+== Argentina     # 22 Players
+
+   Angel BOSSIO,                  GK,  b. 1905/05/05
+   Juan BOTASSO,                  GK,  b. 1908/10/23
+
+   Adolfo ZUMELZU,                DF,  b. 1902/01/05
+   Rodolfo ORLANDINI,             DF,  b. 1905/01/01
+   Alberto CHIVIDINI,             DF,  b. 1907/02/23
+   Jose DELLA TORRE,              DF,  b. 1906/03/23
+   Fernando PATERNOSTER,          DF,  b. 1903/05/24
+   Ramon MUTTIS,                  DF,  b. 1899/03/12
+
+   Luis MONTI,                    MF,  b. 1901/05/15
+   Pedro SUAREZ,                  MF,  b. 1909/12/21
+   Edmundo PIAGGIO,               MF,  b. 1910/10/03
+   Juan EVARISTO,                 MF,  b. 1902/06/20
+
+   Natalio PERINETTI,             FW,  b. 1900/12/28
+   Mario EVARISTO,                FW,  b. 1908/12/10
+   Carlos SPADARO,                FW,  b. 1902/02/05
+   Roberto CERRO,                 FW,  b. 1907/02/23
+   Francisco VARALLO,             FW,  b. 1910/02/05
+   Guillermo STABILE,             FW,  b. 1906/01/17
+   Alejandro SCOPELLI,            FW,  b. 1908/05/12
+   Atilio DEMARIA,                FW,  b. 1909/03/19
+   Manuel FERREIRA,               FW,  b. 1905/10/22
+   Carlos PEUCELLE,               FW,  b. 1908/09/13
+
+   Francisco OLAZAR (ARG),        MG,  b. 1885/07/10
+   Juan TRAMUTOLA (ARG),          MG,  b. 1902/10/21
+
+
+== Chile     # 19 Players
+
+   Roberto CORTES,                GK,  b. 1905/02/02
+   Cesar ESPINOZA,                GK,  b. 1900/09/28
+
+   Ernesto CHAPARRO,              DF,  b. 1901/01/04
+   Guillermo RIVEROS,             DF,  b. 1902/02/10
+   Victor MORALES,                DF,  b. 1905/05/10
+   Ulises POIRIER,                DF,  b. 1897/02/02
+
+   Casimiro TORRES,               MF,  b. 1906/01/01
+   Guillermo SAAVEDRA,            MF,  b. 1903/11/05
+   Arturo TORRES,                 MF,  b. 1906/10/20
+   Humberto ELGUETA,              MF,  b. 1904/09/10
+
+   Tomas OJEDA,                   FW,  b. 1910/04/20
+   Carlos VIDAL,                  FW,  b. 1902/02/24
+   Eberardo VILLALOBOS,           FW,  b. 1908/04/01
+   Guillermo ARELLANO,            FW,  b. 1908/08/21
+   Guillermo SUBIABRE,            FW,  b. 1903/02/25
+   Carlos SCHNEBERGER,            FW,  b. 1902/06/21
+   Arturo CODDOU,                 FW,  b. 1905/01/14
+   Horacio MUNOZ,                 FW,  b. 1900/08/03
+   Juan AGUILERA,                 FW,  b. 1903/10/23
+
+   Gyorgy ORTH (HUN),             MG,  b. 1901/04/30
+
+
+== Peru     # 22 Players
+
+   Juan VALDIVIESO,               GK,  b. 1910/05/06
+   Jorge PARDON,                  GK,  b. 1905/03/04
+
+   Mario DE LAS CASAS,            DF,  b. 1905/08/12
+   Alberto SORIA,                 DF,  b. 1900/01/24
+   Arturo FERNANDEZ,              DF,  b. 1910/02/03
+   Antonio MAQUILON,              DF,  b. 1902/11/29
+
+   Alberto DENEGRI,               MF,            
+   Domingo GARCIA,                MF,  b. 1904/01/01
+   Julio QUINTANA,                MF,  b. 1904/01/01
+   Placido GALINDO,               MF,  b. 1902/03/09
+   Eduardo ASTENGO,               MF,  b. 1905/08/15
+
+   Jorge GONGORA,                 FW,  b. 1906/10/12
+   Alejandro VILLANUEVA,          FW,  b. 1908/06/04
+   Julio LORES,                   FW,  b. 1908/09/15
+   Lizardo NUE RODRIGUEZ,         FW,  b. 1910/08/30
+   Demetrio NEYRA,                FW,  b. 1908/12/15
+   Jose Maria LAVALLE,            FW,  b. 1911/06/05
+   Luis SOUZA,                    FW,  b. 1908/10/06
+   Pablo PACHECO,                 FW,  b. 1908/05/23
+   Carlos CILLONIZ,               FW,  b. 1910/07/01
+   Jorge SARMIENTO,               FW,  b. 1900/11/02
+
+   Jose FLORES,                   ?,             
+
+   Francisco BRU (ESP),           MG,  b. 1885/04/12
+   Guillermo RIVERO (PER),        MG,  b. 1890/01/01
+
+
+== Paraguay     # 22 Players
+
+   Modesto DENIS,                 GK,  b. 1901/01/01
+   Pedro BENITEZ,                 GK,  b. 1901/01/12
+
+   Salvador FLORES,               DF,  b. 1906/01/01
+   Quiterio OLMEDO,               DF,  b. 1907/12/21
+   Eustaquio CHAMORRO,            DF,            
+   Jose Leon MIRACCA,             DF,  b. 1903/09/23
+
+   Diego FLORENTIN,               MF,            
+   Tranquilino GARCETE,           MF,  b. 1907/01/01
+   Santiago BENITEZ,              MF,  b. 1903/01/01
+   Romildo ETCHEVERRY,            MF,  b. 1907/01/01
+   Eusebio DIAZ,                  MF,  b. 1901/01/01
+   Francisco AGUIRRE,             MF,  b. 1908/01/01
+
+   Aurelio GONZALEZ,              FW,  b. 1905/09/25
+   Luis VARGAS PENA,              FW,  b. 1905/01/01
+   Gerardo ROMERO,                FW,  b. 1906/01/01
+   Diogenes DOMINGUEZ,            FW,  b. 1902/01/01
+   Delfin BENITEZ CACERES,        FW,  b. 1910/10/24
+   Bernabe RIVERA,                FW,            
+   Jacinto VILLALBA,              FW,            
+   Amadeo ORTEGA,                 FW,            
+   Cayetano CARRERAS SAGUEIR,     FW,            
+   Lino NESSI,                    FW,  b. 1904/01/01
+
+   Jose DURAND LAGUNA (ARG),      MG,  b. 1889/11/07
+
+
+== Belgium     # 16 Players
+
+   Arnold BADJOU,                 GK,  b. 1909/06/25
+   Jean DE BIE,                   GK,  b. 1892/05/18
+
+   Theodore NOUWENS,              DF,  b. 1908/02/17
+   Henri DE DEKEN,                DF,  b. 1907/08/03
+   Nikolaas HOYDONCKX,            DF,  b. 1900/12/29
+
+   Jan DIDDENS,                   MF,  b. 1906/09/14
+   Auguste HELLEMANS,             MF,  b. 1907/09/14
+   Pierre BRAINE,                 MF,  b. 1900/10/26
+   Alexis CHANTRAINE,             MF,  b. 1901/03/16
+   Jean DE CLERQ,                 MF,  b. 1905/05/17
+
+   Louis VERSYP,                  FW,  b. 1908/12/05
+   Bernard VOORHOOF,              FW,  b. 1910/05/11
+   Gerard DELBEKE,                FW,  b. 1903/09/01
+   Andre SAEYS,                   FW,  b. 1911/02/20
+   Jacques MOESCHAL,              FW,  b. 1900/09/06
+   Fernand ADAMS,                 FW,  b. 1903/05/03
+
+   Hector GOETINCK (BEL),         MG,  b. 1886/03/05
+
+
+== Romania     # 15 Players
+
+   Ion LAPUSNEANU,                GK,  b. 1908/12/08
+   Samuel ZAUBER,                 GK,  b. 1901/01/01
+
+   Adalbert STEINER,              DF,  b. 1907/01/24
+   Emerich VOGL,                  DF,  b. 1905/08/12
+   Iosif CZAKO,                   DF,  b. 1906/06/11
+   Rudolf BUERGER,                DF,  b. 1908/10/31
+
+   Ladislau RAFFINSKY,            MF,  b. 1905/04/23
+   Alfred EISENBEISSER,           MF,  b. 1908/04/07
+   Corneliu ROBE,                 MF,  b. 1908/05/23
+
+   Nicolae KOVACS,                FW,  b. 1911/12/29
+   Rudolf WETZER,                 FW,  b. 1901/03/17
+   Stefan BARBU,                  FW,  b. 1908/03/02
+   Adalbert DESU,                 FW,  b. 1909/03/24
+   Ilile SUBASEANU,               FW,  b. 1906/01/01
+   Constantin STANCIU,            FW,  b. 1911/01/01
+
+   Octav LUCHIDE (ROU),           MG,  b. 1901/02/10
+   Constantin RADULESCU (ROU),    MG,  b. 1896/10/05
+
+
+== Yugoslavia     # 17 Players
+
+   Milan STOJANOVIC,              GK,  b. 1911/12/28
+   Milovan JAKSIC,                GK,  b. 1909/09/21
+
+   Dragan MIHAJLOVIC,             DF,  b. 1906/12/13
+   Milutin IVKOVIC,               DF,  b. 1906/03/03
+   Ljubisa STEFANOVIC,            DF,  b. 1910/01/04
+   Dragan TOSIC,                  DF,  b. 1909/11/08
+
+   Teofilo SPASOJEVIC,            MF,  b. 1909/01/21
+   Milorad ARSENIJEVIC,           MF,  b. 1906/06/06
+   Momcilo DJOKIC,                MF,  b. 1911/02/27
+
+   Blagoje MARJANOVIC,            FW,  b. 1907/09/09
+   Djordje VUJADINOVIC,           FW,  b. 1909/12/06
+   Aleksandar TIRNANIC,           FW,  b. 1910/07/15
+   Ivica BEK,                     FW,  b. 1909/10/29
+   Dragutin NAJDANOVIC,           FW,  b. 1908/04/15
+   Branislav SEKULIC,             FW,  b. 1906/10/29
+   Branislav HRNJICEK,            FW,  b. 1908/06/05
+
+   Vlastimir PETKOVIC,            ?,             
+
+   Bosko SIMONOVIC (YUG),         MG,  b. 1898/02/12
+
+

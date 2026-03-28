@@ -1,0 +1,1028 @@
+= World Cup 2002     # 32 Teams
+
+== France     # 23 Players
+
+       1, Ulrich RAME,                   GK,  b. 1972/09/19
+      16, Fabien BARTHEZ,                GK,  b. 1971/06/28
+      23, Gregory COUPET,                GK,  b. 1972/12/31
+
+       2, Vincent CANDELA,               DF,  b. 1973/10/24
+       3, Bixente LIZARAZU,              DF,  b. 1969/12/09
+       5, Philippe CHRISTANVAL,          DF,  b. 1978/08/31
+       8, Marcel DESAILLY,               DF,  b. 1968/09/07
+      13, Mikael SILVESTRE,              DF,  b. 1977/08/09
+      15, Lilian THURAM,                 DF,  b. 1972/01/01
+      18, Frank LEBOEUF,                 DF,  b. 1968/01/22
+      19, Willy SAGNOL,                  DF,  b. 1977/03/18
+
+       4, Patrick VIEIRA,                MF,  b. 1976/06/23
+       6, Youri DJORKAEFF,               MF,  b. 1968/03/09
+       7, Claude MAKELELE,               MF,  b. 1973/02/18
+      10, Zinedine ZIDANE,               MF,  b. 1972/06/23
+      14, Alain BOGHOSSIAN,              MF,  b. 1970/10/27
+      17, Emmanuel PETIT,                MF,  b. 1970/09/22
+      22, Johan MICOUD,                  MF,  b. 1973/07/24
+
+       9, Djibril CISSE,                 FW,  b. 1981/08/12
+      11, Sylvain WILTORD,               FW,  b. 1974/05/10
+      12, Thierry HENRY,                 FW,  b. 1977/08/17
+      20, David TREZEGUET,               FW,  b. 1977/10/15
+      21, Christophe DUGARRY,            FW,  b. 1972/03/24
+
+       -, Roger LEMERRE (FRA),           MG,  b. 1941/06/18
+
+
+== Cameroon     # 23 Players
+
+       1, Alioum BOUKAR,                 GK,  b. 1972/01/03
+      16, Jacques SONGOO,                GK,  b. 1964/03/17
+      22, Carlos KAMENI,                 GK,  b. 1984/02/18
+
+       2, Bill TCHATO,                   DF,  b. 1975/05/14
+       3, Pierre WOME,                   DF,  b. 1979/03/26
+       4, Rigobert SONG,                 DF,  b. 1976/07/01
+       5, Raymond KALLA,                 DF,  b. 1975/04/22
+       6, Pierre NJANKA,                 DF,  b. 1975/03/15
+       8, GEREMI,                        DF,  b. 1978/12/20
+      13, Lucien METTOMO,                DF,  b. 1977/04/19
+      20, Salomon OLEMBE,                DF,  b. 1980/12/08
+
+      12, LAUREN,                        MF,  b. 1977/01/19
+      14, Joel EPALLE,                   MF,  b. 1978/02/20
+      15, Nicolas ALNOUDJI,              MF,  b. 1979/12/09
+      17, Marc-Vivien FOE,               MF,  b. 1975/05/01
+      23, Daniel KOME,                   MF,  b. 1980/05/19
+
+       7, Joseph NDO,                    FW,  b. 1976/04/28
+       9, Samuel ETOO,                   FW,  b. 1981/03/10
+      10, Patrick MBOMA,                 FW,  b. 1970/11/15
+      11, Pius NDIEFI,                   FW,  b. 1975/07/05
+      18, Patrick SUFFO,                 FW,  b. 1978/01/17
+      19, Eric DJEMBA,                   FW,  b. 1981/05/04
+      21, Joseph-Desire JOB,             FW,  b. 1977/12/01
+
+       -, Winni SCHAEFER (GER),          MG,  b. 1950/01/10
+
+
+== China     # 23 Players
+
+       1, AN Qi,                         GK,  b. 1981/06/21
+      22, JIANG Jin,                     GK,  b. 1968/10/17
+      23, OU Chuliang,                   GK,  b. 1968/08/26
+
+       2, ZHANG Enhua,                   DF,  b. 1973/04/28
+       3, YANG Pu,                       DF,  b. 1978/03/30
+       4, WU Chengying,                  DF,  b. 1975/04/21
+       5, FAN Zhiyi,                     DF,  b. 1970/01/22
+       7, SUN Jihai,                     DF,  b. 1977/09/30
+      14, LI Weifeng,                    DF,  b. 1978/01/26
+      17, DU Wei,                        DF,  b. 1982/02/09
+      21, XU Yunlong,                    DF,  b. 1979/02/17
+
+       6, SHAO Jiayi,                    MF,  b. 1980/04/10
+       8, LI Tie,                        MF,  b. 1977/05/18
+       9, MA Mingyu,                     MF,  b. 1972/08/10
+      11, YU Genwei,                     MF,  b. 1976/08/19
+      13, GAO Yao,                       MF,  b. 1977/07/13
+      15, ZHAO Junzhe,                   MF,  b. 1979/04/18
+      18, LI Xiaopeng,                   MF,  b. 1976/11/05
+      19, QI Hong,                       MF,  b. 1976/06/03
+
+      10, HAO Haidong,                   FW,  b. 1970/08/25
+      12, SU Maozhen,                    FW,  b. 1972/07/30
+      16, QU Bo,                         FW,  b. 1981/07/15
+      20, YANG Chen,                     FW,  b. 1974/01/17
+
+       -, Bora MILUTINOVIC (SRB),        MG,  b. 1944/09/07
+
+
+== South Africa     # 23 Players
+
+       1, Hans VONK,                     GK,  b. 1970/01/30
+      16, Andre ARENDSE,                 GK,  b. 1967/06/27
+      20, Calvin MARLIN,                 GK,  b. 1976/04/20
+
+       2, Cyril NZAMA,                   DF,  b. 1974/06/26
+       3, Bradley CARNELL,               DF,  b. 1977/01/21
+       4, Aaron MOKOENA,                 DF,  b. 1980/11/25
+       5, Jacob LEKGETHO,                DF,  b. 1974/03/24
+      13, Pierre ISSA,                   DF,  b. 1975/09/11
+      19, Lucas RADEBE,                  DF,  b. 1969/04/12
+      22, Thabang MOLEFE,                DF,  b. 1979/04/11
+
+       6, MacBeth SIBAYA,                MF,  b. 1977/11/25
+       7, Quinton FORTUNE,               MF,  b. 1977/05/21
+       8, Thabo MNGOMENI,                MF,  b. 1969/06/24
+       9, MacDonald MUKANSI,             MF,  b. 1975/05/26
+      10, Bennett MNGUNI,                MF,  b. 1974/03/18
+      11, Jabu PULE,                     MF,  b. 1980/07/11
+      12, Teboho MOKOENA,                MF,  b. 1974/07/10
+      15, Sibusiso ZUMA,                 MF,  b. 1975/06/23
+      18, Delron BUCKLEY,                MF,  b. 1977/12/07
+      21, Steven PIENAAR,                MF,  b. 1982/03/17
+
+      14, Siyabonga NOMVETHE,            FW,  b. 1977/12/02
+      17, Benni McCARTHY,                FW,  b. 1977/11/12
+      23, George KOUMANTARAKIS,          FW,  b. 1974/03/27
+
+       -, Jomo SONO (RSA),               MG,  b. 1955/07/17
+
+
+== Senegal     # 23 Players
+
+       1, Tony SYLVA,                    GK,  b. 1975/05/17
+      16, Omar DIALLO,                   GK,  b. 1972/09/28
+      22, Kalidou CISSOKHO,              GK,  b. 1972/12/14
+
+       2, Omar DAF,                      DF,  b. 1977/02/12
+       4, Papa Malick DIOP,              DF,  b. 1974/12/29
+       5, Alassane NDOUR,                DF,  b. 1981/12/12
+       6, Aliou CISSE,                   DF,  b. 1976/03/24
+      13, Lamine DIATTA,                 DF,  b. 1975/07/02
+      17, Ferdinand COLY,                DF,  b. 1973/09/10
+      21, Habib BEYE,                    DF,  b. 1977/10/19
+
+       3, Pape SARR,                     MF,  b. 1977/12/07
+      10, Khalilou FADIGA,               MF,  b. 1974/12/30
+      12, Amdy FAYE,                     MF,  b. 1977/03/12
+      14, Moussa NDIAYE,                 MF,  b. 1979/02/20
+      15, Salif DIAO,                    MF,  b. 1977/02/10
+      19, Bouba DIOP,                    MF,  b. 1978/01/28
+      20, Sylvain NDIAYE,                MF,  b. 1976/06/25
+      23, Makthar NDIAYE,                MF,  b. 1981/12/31
+
+       7, Henri CAMARA,                  FW,  b. 1977/05/10
+       8, Amara TRAORE,                  FW,  b. 1965/09/25
+       9, Souleymane CAMARA,             FW,  b. 1982/12/22
+      11, El Hadji DIOUF,                FW,  b. 1981/01/15
+      18, Pape THIAW,                    FW,  b. 1981/02/05
+
+       -, Bruno METSU (FRA),             MG,  b. 1954/01/28
+
+
+== England     # 23 Players
+
+       1, David SEAMAN,                  GK,  b. 1963/09/19
+      13, Nigel MARTYN,                  GK,  b. 1966/08/11
+      22, David JAMES,                   GK,  b. 1970/08/01
+
+       2, Danny MILLS,                   DF,  b. 1977/05/18
+       3, Ashley COLE,                   DF,  b. 1980/12/20
+       5, Rio FERDINAND,                 DF,  b. 1978/11/07
+       6, Sol CAMPBELL,                  DF,  b. 1974/09/18
+      12, Wes BROWN,                     DF,  b. 1979/10/13
+      14, Wayne BRIDGE,                  DF,  b. 1980/08/05
+      15, Martin KEOWN,                  DF,  b. 1966/07/24
+      16, Gareth SOUTHGATE,              DF,  b. 1970/09/03
+
+       4, Trevor SINCLAIR,               MF,  b. 1973/03/02
+       7, David BECKHAM,                 MF,  b. 1975/05/02
+       8, Paul SCHOLES,                  MF,  b. 1974/11/16
+      18, Owen HARGREAVES,               MF,  b. 1981/01/20
+      19, Joe COLE,                      MF,  b. 1981/11/08
+      21, Nicky BUTT,                    MF,  b. 1975/01/21
+      23, Kieron DYER,                   MF,  b. 1978/12/29
+
+       9, Robbie FOWLER,                 FW,  b. 1975/04/09
+      10, Michael OWEN,                  FW,  b. 1979/12/14
+      11, Emile HESKEY,                  FW,  b. 1978/01/11
+      17, Teddy SHERINGHAM,              FW,  b. 1966/04/02
+      20, Darius VASSELL,                FW,  b. 1980/06/13
+
+       -, Sven Göran ERIKSSON (SWE),     MG,  b. 1948/02/05
+
+
+== Italy     # 23 Players
+
+       1, Gianluigi BUFFON,              GK,  b. 1978/01/28
+      12, Christian ABBIATI,             GK,  b. 1977/07/08
+      22, Francesco TOLDO,               GK,  b. 1971/12/02
+
+       2, Christian PANUCCI,             DF,  b. 1973/04/12
+       3, Paolo MALDINI,                 DF,  b. 1968/06/26
+       4, Francesco COCO,                DF,  b. 1977/01/08
+       5, Fabio CANNAVARO,               DF,  b. 1973/09/13
+      13, Alessandro NESTA,              DF,  b. 1976/03/19
+      15, Mark IULIANO,                  DF,  b. 1973/08/12
+      23, Marco MATERAZZI,               DF,  b. 1973/08/19
+
+       6, Cristiano ZANETTI,             MF,  b. 1977/04/10
+       8, Gennaro GATTUSO,               MF,  b. 1978/01/09
+      11, Cristiano DONI,                MF,  b. 1973/04/01
+      14, Luigi DI BIAGIO,               MF,  b. 1971/06/03
+      16, Angelo DI LIVIO,               MF,  b. 1966/07/26
+      17, Damiano TOMMASI,               MF,  b. 1974/05/17
+      19, Gianluca ZAMBROTTA,            MF,  b. 1977/02/19
+
+       7, Alessandro DEL PIERO,          FW,  b. 1974/11/09
+       9, Filippo INZAGHI,               FW,  b. 1973/08/09
+      10, Francesco TOTTI,               FW,  b. 1976/09/27
+      18, Marco DELVECCHIO,              FW,  b. 1973/04/07
+      20, Vincenzo MONTELLA,             FW,  b. 1974/06/18
+      21, Christian VIERI,               FW,  b. 1973/07/12
+
+       -, Giovanni TRAPATTONI (ITA),     MG,  b. 1939/03/17
+
+
+== Poland     # 23 Players
+
+       1, Jerzy DUDEK,                   GK,  b. 1973/03/23
+      12, Radoslaw MAJDAN,               GK,  b. 1972/05/10
+      22, Adam MATYSEK,                  GK,  b. 1968/07/19
+
+       2, Tomasz KLOS,                   DF,  b. 1973/03/07
+       3, Jacek ZIELINSKI,               DF,  b. 1967/10/10
+       4, Michal ZEWLAKOW,               DF,  b. 1976/04/22
+       6, Tomasz HAJTO,                  DF,  b. 1972/10/16
+      13, Arkadiusz GLOWACKI,            DF,  b. 1979/03/13
+      15, Tomasz WALDOCH,                DF,  b. 1971/05/10
+      20, Jacek BAK,                     DF,  b. 1973/03/24
+
+       5, Tomasz RZASA,                  MF,  b. 1973/03/11
+       7, Piotr SWIERCZEWSKI,            MF,  b. 1972/04/08
+      10, Radoslaw KALUZNY,              MF,  b. 1974/02/02
+      16, Maciej MURAWSKI,               MF,  b. 1974/02/20
+      17, Arkadiusz BAK,                 MF,  b. 1974/10/06
+      18, Jacek KRZYNOWEK,               MF,  b. 1976/05/15
+      21, Marek KOZMINSKI,               MF,  b. 1971/02/07
+      23, Pawel SIBIK,                   MF,  b. 1971/02/15
+
+       8, Cezary KUCHARSKI,              FW,  b. 1972/02/17
+       9, Pawel KRYSZALOWICZ,            FW,  b. 1974/06/23
+      11, Emmanuel OLISADEBE,            FW,  b. 1978/12/22
+      14, Marcin ZEWLAKOW,               FW,  b. 1976/04/22
+      19, Maciej ZURAWSKI,               FW,  b. 1976/09/12
+
+       -, Jerzy ENGEL (POL),             MG,  b. 1952/10/06
+
+
+== Costa Rica     # 23 Players
+
+       1, Erick LONNIS,                  GK,  b. 1965/09/09
+      18, Alvaro MESEN,                  GK,  b. 1972/12/24
+      23, Lester MORGAN,                 GK,  b. 1976/05/02
+
+       2, Jervis DRUMMOND,               DF,  b. 1976/09/08
+       3, Luis MARIN,                    DF,  b. 1974/08/10
+       4, Mauricio WRIGHT,               DF,  b. 1970/12/20
+       5, Gilberto MARTINEZ,             DF,  b. 1979/10/01
+      14, Juan Jose RODRIGUEZ,           DF,  b. 1967/06/23
+      15, Harold WALLACE,                DF,  b. 1975/09/07
+      21, Pablo CHINCHILLA,              DF,  b. 1978/12/21
+      22, Carlos CASTRO,                 DF,  b. 1979/09/10
+
+       6, Wilmer LOPEZ,                  MF,  b. 1971/08/03
+       8, Mauricio SOLIS,                MF,  b. 1972/12/13
+      10, Walter CENTENO,                MF,  b. 1974/10/06
+      13, Daniel VALLEJOS,               MF,  b. 1981/05/27
+      19, Rodrigo CORDERO,               MF,  b. 1973/12/04
+
+       7, Rolando FONSECA,               FW,  b. 1974/08/06
+       9, Paulo WANCHOPE,                FW,  b. 1976/07/31
+      11, Ronald GOMEZ,                  FW,  b. 1975/01/24
+      12, Winston PARKS,                 FW,  b. 1981/10/12
+      16, Steven BRYCE,                  FW,  b. 1977/08/16
+      17, Hernan MEDFORD,                FW,  b. 1968/05/23
+      20, William SUN SING,              FW,  b. 1977/05/12
+
+       -, Alexandre Borges Guimarães (CRC), MG,  b. 1959/11/07
+
+
+== Belgium     # 23 Players
+
+       1, Geert DE VLIEGER,              GK,  b. 1971/10/16
+      13, Franky VANDENDRIESSCHE,        GK,  b. 1971/04/07
+      23, Frederic HERPOEL,              GK,  b. 1974/08/16
+
+       2, Eric DEFLANDRE,                DF,  b. 1973/08/02
+       3, Glen DE BOECK,                 DF,  b. 1971/08/22
+       4, Eric VAN MEIR,                 DF,  b. 1968/02/28
+       5, Nico VAN KERCKHOVEN,           DF,  b. 1970/12/14
+      12, Peter VAN DER HEYDEN,          DF,  b. 1976/07/16
+      15, Jacky PEETERS,                 DF,  b. 1969/12/13
+      16, Daniel VAN BUYTEN,             DF,  b. 1978/02/07
+
+       6, Timmy SIMONS,                  MF,  b. 1976/12/11
+       8, Bart GOOR,                     MF,  b. 1973/04/09
+      10, Johan WALEM,                   MF,  b. 1972/02/01
+      11, Gert VERHEYEN,                 MF,  b. 1970/09/20
+      14, Sven VERMANT,                  MF,  b. 1973/04/04
+      17, Gaetan ENGLEBERT,              MF,  b. 1976/06/11
+      18, Yves VANDERHAEGHE,             MF,  b. 1970/01/30
+      19, Bernd THIJS,                   MF,  b. 1978/06/28
+      21, Danny BOFFIN,                  MF,  b. 1965/07/10
+
+       7, Marc WILMOTS,                  FW,  b. 1969/02/22
+       9, Wesley SONCK,                  FW,  b. 1978/08/09
+      20, Branko STRUPAR,                FW,  b. 1970/02/09
+      22, Mbo MPENZA,                    FW,  b. 1976/12/04
+
+       -, Robert WASEIGE (BEL),          MG,  b. 1939/08/26
+
+
+== Saudi Arabia     # 23 Players
+
+       1, Mohammed AL DEAYEA,            GK,  b. 1972/08/02
+      21, Mabrouk ZAID,                  GK,  b. 1979/02/11
+      22, Mohammed BABKR,                GK,  b. 1973/01/15
+
+       2, Mohammed AL JAHANI,            DF,  b. 1974/09/28
+       3, Redha TUKAR,                   DF,  b. 1975/11/29
+       4, Abdullah ZUBROMAWI,            DF,  b. 1973/11/15
+       5, Mohsin HARTHI,                 DF,  b. 1976/07/17
+       6, Fouzi AL SHEHRI,               DF,  b. 1980/05/15
+      12, Ahmed AL DOSARI,               DF,  b. 1976/10/25
+      13, Hussein AL SULAIMANI,          DF,  b. 1977/01/21
+      23, Mansour ALTHAGAFI,             DF,  b. 1979/01/14
+
+       7, Ibrahim AL SHAHRANI,           MF,  b. 1974/07/21
+       8, Mohammed NOOR,                 MF,  b. 1978/02/26
+      10, Mohammad AL SHALHOUB,          MF,  b. 1980/12/08
+      14, Abdulaziz KHATHRAN,            MF,  b. 1973/07/31
+      16, Khamis AL DOSSARI,             MF,  b. 1973/09/08
+      17, Abdullah Alwaked AL SHAHRANI,  MF,  b. 1975/09/29
+      18, Nawaf AL TEMYAT,               MF,  b. 1976/06/28
+      19, Omar AL GHAMDI,                MF,  b. 1979/04/11
+
+       9, Sami AL JABER,                 FW,  b. 1972/12/11
+      11, Obeid AL DOSARI,               FW,  b. 1975/10/02
+      15, Abdullah Gaman AL DOSARI,      FW,  b. 1977/11/10
+      20, Al Hasan AL YAMI,              FW,  b. 1972/08/21
+
+       -, Nasser AL JOHAR (KSA),         MG,  b. 1946/06/01
+
+
+== Nigeria     # 23 Players
+
+       1, Ibrahim SHORUNMU,              GK,  b. 1967/10/16
+      12, Austine EJIDE,                 GK,  b. 1984/04/08
+      22, Vincent ENYEAMA,               GK,  b. 1982/08/29
+
+       3, Celestine BABAYARO,            DF,  b. 1978/08/29
+       5, Isaac OKORONKWO,               DF,  b. 1978/05/01
+       6, Taribo WEST,                   DF,  b. 1974/03/26
+      13, Rabiu AFOLABI,                 DF,  b. 1980/04/18
+      14, Ifeanyi UDEZE,                 DF,  b. 1980/07/21
+      16, Efetobore SODJE,               DF,  b. 1972/10/05
+      19, Eric EJIOFOR,                  DF,  b. 1979/07/21
+
+       2, Joseph YOBO,                   MF,  b. 1980/09/06
+       8, Mutiu ADEPOJU,                 MF,  b. 1970/12/22
+      10, Jay Jay OKOCHA,                MF,  b. 1973/08/14
+      11, Garba LAWAL,                   MF,  b. 1974/05/22
+      15, Justice CHRISTOPHER,           MF,  b. 1981/12/24
+      20, James OBIORAH,                 MF,  b. 1978/08/24
+
+       4, Nwankwo KANU,                  FW,  b. 1976/08/01
+       7, Pius IKEDIA,                   FW,  b. 1980/07/11
+       9, Bartholomew OGBECHE,           FW,  b. 1984/10/01
+      17, Julius AGHAHOWA,               FW,  b. 1982/02/12
+      18, Benedict AKWUEGBU,             FW,  b. 1974/11/03
+      21, John UTAKA,                    FW,  b. 1982/01/08
+      23, Femi OPABUNMI,                 FW,  b. 1985/03/03
+
+       -, Adegboye ONIGBINDE (NGA),      MG,  b. 1938/03/05
+
+
+== South Korea     # 23 Players
+
+       1, LEE Woonjae,                   GK,  b. 1973/04/26
+      12, Kim BYUNG-JI,                  GK,  b. 1970/04/08
+      23, CHOI Eunsung,                  GK,  b. 1971/04/05
+
+       2, HYUN Young Min,                DF,  b. 1979/12/25
+       4, CHOI Jin Cheul,                DF,  b. 1971/03/26
+       7, KIM Taeyoung,                  DF,  b. 1970/11/08
+      15, LEE Min Sung,                  DF,  b. 1973/06/23
+      20, HONG Myungbo,                  DF,  b. 1969/02/12
+
+       3, CHOI Sung Yong,                MF,  b. 1975/12/25
+       5, KIM Nam Il,                    MF,  b. 1977/03/14
+       6, YOO Sang Chul,                 MF,  b. 1971/10/18
+      10, LEE Young Pyo,                 MF,  b. 1977/04/23
+      13, LEE Eul Yong,                  MF,  b. 1975/09/08
+      17, YOON Jong Hwan,                MF,  b. 1973/02/16
+      19, AHN Jung Hwan,                 MF,  b. 1976/01/27
+      21, PARK Ji Sung,                  MF,  b. 1981/02/25
+      22, SONG Chong Gug,                MF,  b. 1979/02/20
+
+       8, CHOI Tae Uk,                   FW,  b. 1981/03/13
+       9, SEOL Ki Hyeon,                 FW,  b. 1979/01/08
+      11, CHOI Yongsoo,                  FW,  b. 1973/09/10
+      14, LEE Chun Soo,                  FW,  b. 1981/07/09
+      16, CHA Du Ri,                     FW,  b. 1980/07/25
+      18, HWANG Sun Hong,                FW,  b. 1968/07/14
+
+       -, Guus HIDDINK (NED),            MG,  b. 1946/11/08
+
+
+== Spain     # 23 Players
+
+       1, Iker CASILLAS,                 GK,  b. 1981/05/20
+      13, RICARDO,                       GK,  b. 1971/12/30
+      23, Pedro CONTRERAS,               GK,  b. 1972/01/07
+
+       2, CURRO TORRES,                  DF,  b. 1976/12/27
+       3, JUANFRAN,                      DF,  b. 1976/07/15
+       5, Carles PUYOL,                  DF,  b. 1978/04/13
+       6, Fernando HIERRO,               DF,  b. 1968/03/23
+      15, Enrique ROMERO,                DF,  b. 1971/06/23
+      19, Xavi HERNANDEZ,                DF,  b. 1980/01/25
+      20, Miguel Angel NADAL,            DF,  b. 1966/07/28
+
+       4, Ivan HELGUERA,                 MF,  b. 1975/03/28
+       8, Ruben BARAJA,                  MF,  b. 1975/07/11
+      11, DE PEDRO,                      MF,  b. 1973/08/04
+      14, David ALBELDA,                 MF,  b. 1977/09/01
+      16, Gaizka MENDIETA,               MF,  b. 1974/03/27
+      17, Juan Carlos VALERON,           MF,  b. 1975/06/17
+      18, SERGIO,                        MF,  b. 1976/11/10
+      21, LUIS ENRIQUE,                  MF,  b. 1970/05/08
+      22, JOAQUÍN,                       MF,  b. 1981/07/21
+
+       7, RAUL,                          FW,  b. 1977/06/27
+       9, Fernando MORIENTES,            FW,  b. 1976/04/05
+      10, Diego TRISTAN,                 FW,  b. 1976/01/05
+      12, Albert LUQUE,                  FW,  b. 1978/03/11
+
+       -, Jose Antonio CAMACHO (ESP),    MG,  b. 1955/06/08
+
+
+== Tunisia     # 23 Players
+
+       1, Ali BOUMNIJEL,                 GK,  b. 1966/04/13
+      16, Hassen BEJAOUI,                GK,  b. 1976/02/14
+      22, Ahmed JAOUACHI,                GK,  b. 1975/07/13
+
+       2, Khaled BADRA,                  DF,  b. 1973/04/08
+       4, Mohamed MKACHER,               DF,  b. 1975/05/25
+       6, Hatem TRABELSI,                DF,  b. 1977/01/25
+      12, Raouf BOUZAIENE,               DF,  b. 1970/08/16
+      14, Hamdi MARZOUKI,                DF,  b. 1977/01/23
+      15, Radhi JAIDI,                   DF,  b. 1975/08/30
+      17, Tarek THABET,                  DF,  b. 1971/08/16
+      19, Emir MKADEMI,                  DF,  b. 1978/08/20
+      23, CLAYTON,                       DF,  b. 1974/03/21
+
+       3, Zoubeir BEYA,                  MF,  b. 1971/05/15
+       8, Hassan GABSI,                  MF,  b. 1974/02/23
+      10, Kais GHODHBANE,                MF,  b. 1976/01/07
+      13, Riadh BOUAZIZI,                MF,  b. 1973/04/08
+      18, Slim BENACHOUR,                MF,  b. 1981/09/08
+      21, Mourad EL MELKI,               MF,  b. 1975/05/09
+
+       5, Zied JAZIRI,                   FW,  b. 1978/07/12
+       7, Imed MHADHEBI,                 FW,  b. 1976/03/22
+       9, Riadh JELASSI,                 FW,  b. 1971/07/07
+      11, Adel EL SELLIMI,               FW,  b. 1972/11/16
+      20, Ali ZITOUNI,                   FW,  b. 1981/01/11
+
+       -, Ammar Souayah (TUN),           MG,  b. 1957/06/11
+
+
+== Argentina     # 23 Players
+
+       1, German BURGOS,                 GK,  b. 1969/04/16
+      12, Pablo CAVALLERO,               GK,  b. 1974/04/13
+      23, Roberto BONANO,                GK,  b. 1970/01/24
+
+       2, Roberto AYALA,                 DF,  b. 1973/04/14
+       4, Mauricio POCHETTINO,           DF,  b. 1972/03/02
+       6, Walter SAMUEL,                 DF,  b. 1978/03/23
+      13, Diego PLACENTE,                DF,  b. 1977/04/24
+      22, Jose CHAMOT,                   DF,  b. 1969/05/17
+
+       3, Juan SORIN,                    MF,  b. 1976/05/05
+       5, Matias ALMEYDA,                MF,  b. 1973/12/21
+       8, Javier ZANETTI,                MF,  b. 1973/08/10
+      10, Ariel ORTEGA,                  MF,  b. 1974/03/04
+      11, Juan VERON,                    MF,  b. 1975/03/09
+      14, Diego SIMEONE,                 MF,  b. 1970/04/28
+      15, Claudio HUSAIN,                MF,  b. 1974/11/20
+      16, Pablo AIMAR,                   MF,  b. 1979/11/03
+      20, Marcelo GALLARDO,              MF,  b. 1976/01/18
+
+       7, Claudio LOPEZ,                 FW,  b. 1974/07/17
+       9, Gabriel BATISTUTA,             FW,  b. 1969/02/01
+      17, Gustavo LOPEZ,                 FW,  b. 1973/04/13
+      18, Cristian GONZALEZ,             FW,  b. 1974/08/04
+      19, Hernan CRESPO,                 FW,  b. 1975/07/05
+      21, Claudio CANIGGIA,              FW,  b. 1967/01/09
+
+       -, Marcelo BIELSA (ARG),          MG,  b. 1955/07/21
+
+
+== Japan     # 23 Players
+
+       1, Yoshikatsu KAWAGUCHI,          GK,  b. 1975/08/15
+      12, Seigo NARAZAKI,                GK,  b. 1976/04/15
+      23, Hitoshi SOGAHATA,              GK,  b. 1979/08/02
+
+       2, Yutaka AKITA,                  DF,  b. 1970/08/06
+       3, Naoki MATSUDA,                 DF,  b. 1977/03/14
+       4, Ryuzo MORIOKA,                 DF,  b. 1975/10/07
+       6, Toshihiro HATTORI,             DF,  b. 1973/09/23
+      16, Koji NAKATA,                   DF,  b. 1979/07/09
+      17, Tsuneyasu MIYAMOTO,            DF,  b. 1977/02/07
+
+       5, Junichi INAMOTO,               MF,  b. 1979/09/18
+       7, Hidetoshi NAKATA,              MF,  b. 1977/01/22
+       8, Hiroaki MORISHIMA,             MF,  b. 1972/04/30
+      14, Alessandro SANTOS,             MF,  b. 1977/07/20
+      15, Takashi FUKUNISHI,             MF,  b. 1976/09/01
+      18, Shinji Ono,                    MF,  b. 1979/09/27
+      19, Mitsuo OGASAWARA,              MF,  b. 1979/04/05
+      20, Tomokazu MYOJIN,               MF,  b. 1978/01/24
+      21, Kazuyuki TODA,                 MF,  b. 1977/12/30
+      22, Daisuke ICHIKAWA,              MF,  b. 1980/05/14
+
+       9, Akinori NISHIZAWA,             FW,  b. 1976/06/18
+      10, Masashi NAKAYAMA,              FW,  b. 1967/09/23
+      11, Takayuki SUZUKI,               FW,  b. 1976/06/05
+      13, Atsushi YANAGISAWA,            FW,  b. 1977/05/27
+
+       -, Philippe TROUSSIER (FRA),      MG,  b. 1955/03/21
+
+
+== Ireland     # 23 Players
+
+       1, Shay GIVEN,                    GK,  b. 1976/04/20
+      16, Dean KIELY,                    GK,  b. 1970/10/10
+      23, Alan KELLY JR.,                GK,  b. 1968/08/11
+
+       2, Steve FINNAN,                  DF,  b. 1976/04/20
+       3, Ian HARTE,                     DF,  b. 1977/08/31
+       4, Kenny CUNNINGHAM,              DF,  b. 1971/06/28
+       5, Steve STAUNTON,                DF,  b. 1969/01/19
+      14, Gary BREEN,                    DF,  b. 1973/12/12
+      15, Richard DUNNE,                 DF,  b. 1979/09/21
+      18, Gary KELLY,                    DF,  b. 1974/07/09
+      20, Andy O BRIEN,                  DF,  b. 1979/06/29
+
+       6, Roy KEANE,                     MF,  b. 1971/08/10
+       7, Jason McATEER,                 MF,  b. 1971/06/18
+       8, Matt HOLLAND,                  MF,  b. 1974/04/11
+      12, Mark KINSELLA,                 MF,  b. 1972/08/12
+      22, Lee CARSLEY,                   MF,  b. 1974/02/28
+
+       9, Damien DUFF,                   FW,  b. 1979/03/02
+      10, Robbie KEANE,                  FW,  b. 1980/07/08
+      11, Kevin KILBANE,                 FW,  b. 1977/02/01
+      13, David CONNOLLY,                FW,  b. 1977/06/06
+      17, Niall QUINN,                   FW,  b. 1966/10/06
+      19, Clinton MORRISON,              FW,  b. 1979/05/14
+      21, Steven REID,                   FW,  b. 1981/03/10
+
+       -, Mick McCARTHY (IRL),           MG,  b. 1959/02/07
+
+
+== Sweden     # 23 Players
+
+       1, Magnus HEDMAN,                 GK,  b. 1973/03/19
+      12, Magnus KIHLSTEDT,              GK,  b. 1972/02/29
+      23, Andreas ISAKSSON,              GK,  b. 1981/10/03
+
+       2, Olof MELLBERG,                 DF,  b. 1977/09/03
+       3, Patrik ANDERSSON,              DF,  b. 1971/08/18
+       4, Johan MJALLBY,                 DF,  b. 1971/02/09
+       5, Michael SVENSSON,              DF,  b. 1975/11/25
+      13, Tomas ANTONELIUS,              DF,  b. 1973/05/07
+      14, Erik EDMAN,                    DF,  b. 1978/11/11
+      15, Andreas JAKOBSSON,             DF,  b. 1972/10/06
+      16, Teddy LUCIC,                   DF,  b. 1973/04/15
+
+       6, Tobias LINDEROTH,              MF,  b. 1979/04/21
+       7, Niclas ALEXANDERSSON,          MF,  b. 1971/12/29
+       8, Anders SVENSSON,               MF,  b. 1976/07/17
+       9, Fredrik LJUNGBERG,             MF,  b. 1977/04/16
+      17, Magnus SVENSSON,               MF,  b. 1969/03/10
+      18, Mattias JONSON,                MF,  b. 1974/01/16
+      19, Pontus FARNERUD,               MF,  b. 1980/06/04
+      20, Daniel ANDERSSON,              MF,  b. 1977/08/28
+
+      10, Marcus ALLBACK,                FW,  b. 1973/07/05
+      11, Henrik LARSSON,                FW,  b. 1971/09/20
+      21, Zlatan IBRAHIMOVIC,            FW,  b. 1981/10/03
+      22, Andreas ANDERSSON,             FW,  b. 1974/04/10
+
+       -, Tommy SODERBERG (SWE),         MG,  b. 1948/08/19
+       -, Lars LAGERBACK (SWE),          MG,  b. 1948/07/16
+
+
+== Mexico     # 23 Players
+
+       1, Oscar PEREZ,                   GK,  b. 1973/02/01
+      12, Oswaldo SANCHEZ,               GK,  b. 1973/09/21
+      23, Jorge CAMPOS,                  GK,  b. 1966/10/15
+
+       2, Francisco GABRIEL DE ANDA,     DF,  b. 1971/06/05
+       5, Manuel VIDRIO,                 DF,  b. 1972/08/23
+      16, Salvador CARMONA,              DF,  b. 1975/08/22
+      20, Melvin BROWN,                  DF,  b. 1979/01/28
+      22, Alberto RODRIGUEZ,             DF,  b. 1974/04/01
+
+       3, Rafael GARCIA,                 MF,  b. 1974/08/14
+       4, Rafael MARQUEZ,                MF,  b. 1979/02/13
+       6, Gerardo TORRADO,               MF,  b. 1979/04/30
+       7, Ramon MORALES,                 MF,  b. 1975/10/10
+       8, Alberto GARCIA ASPE,           MF,  b. 1967/05/11
+      11, Braulio LUNA,                  MF,  b. 1974/09/08
+      13, Sigifredo MERCADO,             MF,  b. 1968/12/21
+      14, German VILLA,                  MF,  b. 1973/04/02
+      18, Joahan RODRIGUEZ,              MF,  b. 1975/08/15
+      19, Gabriel CABALLERO,             MF,  b. 1971/02/05
+
+       9, Jared BORGETTI,                FW,  b. 1973/08/14
+      10, Cuauhtemoc BLANCO,             FW,  b. 1973/01/17
+      15, Luis HERNANDEZ,                FW,  b. 1968/12/22
+      17, Francisco PALENCIA,            FW,  b. 1973/04/28
+      21, Jesus ARELLANO,                FW,  b. 1973/05/08
+
+       -, Javier Aguirre Onaindía (MEX), MG,  b. 1958/12/01
+
+
+== Paraguay     # 23 Players
+
+       1, Jose Luis CHILAVERT,           GK,  b. 1965/07/27
+      12, Justo VILLAR,                  GK,  b. 1977/06/30
+      22, Ricardo TAVARELLI,             GK,  b. 1970/08/02
+
+       2, Francisco ARCE,                DF,  b. 1971/04/02
+       3, Pedro SARABIA,                 DF,  b. 1975/07/05
+       4, Carlos GAMARRA,                DF,  b. 1971/02/17
+       5, Celso AYALA,                   DF,  b. 1970/08/20
+      17, Juan Carlos FRANCO,            DF,  b. 1973/04/17
+      18, Julio CÉSAR CÁCERES,           DF,  b. 1979/10/05
+      19, Daniel SANABRIA,               DF,  b. 1977/02/08
+      21, Denis CANIZA,                  DF,  b. 1974/08/29
+
+       6, Estanislao STRUWAY,            MF,  b. 1968/06/25
+       8, Guido ALVARENGA,               MF,  b. 1970/08/24
+      10, Roberto ACUNA,                 MF,  b. 1972/03/25
+      13, Carlos PAREDES,                MF,  b. 1976/07/16
+      14, Diego GAVILAN,                 MF,  b. 1980/03/01
+      15, Carlos BONET,                  MF,  b. 1977/10/02
+      16, Gustavo MORINIGO,              MF,  b. 1977/01/23
+
+       7, Richart BAEZ,                  FW,  b. 1973/07/31
+       9, Roque SANTA CRUZ,              FW,  b. 1981/08/16
+      11, Jorge CAMPOS,                  FW,  b. 1970/08/11
+      20, Jose CARDOZO,                  FW,  b. 1971/03/19
+      23, Nelson CUEVAS,                 FW,  b. 1980/01/10
+
+       -, Cesare MALDINI (ITA),          MG,  b. 1932/02/05
+
+
+== Brazil     # 23 Players
+
+       1, MARCOS,                        GK,  b. 1973/08/04
+      12, DIDA,                          GK,  b. 1973/10/07
+      22, ROGERIO CENI,                  GK,  b. 1973/01/22
+
+       2, CAFU,                          DF,  b. 1970/06/07
+       3, LUCIO,                         DF,  b. 1978/05/08
+       4, ROQUE JUNIOR,                  DF,  b. 1976/08/31
+       5, EDMILSON,                      DF,  b. 1976/07/10
+       6, ROBERTO CARLOS,                DF,  b. 1973/04/10
+      13, BELLETTI,                      DF,  b. 1976/06/20
+      14, ANDERSON POLGA,                DF,  b. 1979/02/09
+      16, JUNIOR,                        DF,  b. 1973/06/20
+
+       7, RICARDINHO,                    MF,  b. 1976/05/23
+       8, GILBERTO SILVA,                MF,  b. 1976/10/07
+      10, RIVALDO,                       MF,  b. 1972/04/19
+      11, RONALDINHO,                    MF,  b. 1980/03/21
+      15, KLEBERSON,                     MF,  b. 1979/06/19
+      18, VAMPETA,                       MF,  b. 1974/03/13
+      19, JUNINHO PAULISTA,              MF,  b. 1973/02/22
+
+       9, RONALDO,                       FW,  b. 1976/09/22
+      17, DENILSON,                      FW,  b. 1977/08/24
+      20, EDILSON,                       FW,  b. 1970/09/17
+      21, LUIZAO,                        FW,  b. 1975/11/14
+      23, KAKA,                          FW,  b. 1982/04/22
+
+       -, Luiz Elena Felipe Scolari (BRA), MG,  b. 1948/11/09
+
+
+== Uruguay     # 23 Players
+
+       1, Fabian CARINI,                 GK,  b. 1979/12/26
+      12, Gustavo MUNUA,                 GK,  b. 1978/01/27
+      23, Federico ELDUAYEN,             GK,  b. 1977/06/25
+
+       2, Gustavo MENDEZ,                DF,  b. 1971/02/03
+       3, Alejandro LEMBO,               DF,  b. 1978/02/15
+       4, Paolo MONTERO,                 DF,  b. 1971/09/03
+       6, Dario RODRIGUEZ,               DF,  b. 1974/09/17
+      14, Gonzalo SORONDO,               DF,  b. 1979/10/09
+      19, Joe BIZERA,                    DF,  b. 1980/05/17
+
+       5, Pablo GARCIA,                  MF,  b. 1977/05/11
+       7, Gianni GUIGOU,                 MF,  b. 1975/02/22
+       8, Gustavo VARELA,                MF,  b. 1978/05/14
+      15, Nicolas OLIVERA,               MF,  b. 1978/05/30
+      16, Marcelo ROMERO,                MF,  b. 1976/07/04
+      22, Gonzalo DE LOS SANTOS,         MF,  b. 1976/07/19
+
+       9, Dario SILVA,                   FW,  b. 1972/11/02
+      10, Fabian O NEIL,                 FW,  b. 1973/10/14
+      11, Federico MAGALLANES,           FW,  b. 1976/08/22
+      13, Sebastian ABREU,               FW,  b. 1976/10/17
+      17, Mario REGUEIRO,                FW,  b. 1978/09/14
+      18, Richard MORALES,               FW,  b. 1975/02/21
+      20, Alvaro RECOBA,                 FW,  b. 1976/03/17
+      21, Diego FORLAN,                  FW,  b. 1979/05/19
+
+       -, Victor PUA (URU),              MG,  b. 1956/03/31
+
+
+== Russia     # 23 Players
+
+       1, Ruslan NIGMATULLIN,            GK,  b. 1974/10/07
+      12, Stanislav CHERCHESOV,          GK,  b. 1963/09/02
+      23, Alexander FILIMONOV,           GK,  b. 1973/10/15
+
+       2, Yuri KOVTUN,                   DF,  b. 1970/01/05
+       3, Yuri NIKIFOROV,                DF,  b. 1970/09/16
+       7, Viktor ONOPKO,                 DF,  b. 1969/10/14
+      13, Viacheslav DAEV,               DF,  b. 1972/09/06
+      14, Igor CHUGAINOV,                DF,  b. 1970/04/06
+      18, Dmitri SENNIKOV,               DF,  b. 1976/06/24
+
+       4, Alexei SMERTIN,                MF,  b. 1975/05/01
+       5, Andrei SOLOMATIN,              MF,  b. 1975/09/09
+       6, Igor SEMSHOV,                  MF,  b. 1978/04/06
+       8, Valeri KARPIN,                 MF,  b. 1969/02/02
+       9, Egor TITOV,                    MF,  b. 1976/05/29
+      10, Aleksandr MOSTOVOI,            MF,  b. 1968/08/22
+      15, Dmitry ALENICHEV,              MF,  b. 1972/10/20
+      17, Sergey SEMAK,                  MF,  b. 1976/02/27
+      20, Marat IZMAILOV,                MF,  b. 1982/09/21
+      21, Dmitry KHOKHLOV,               MF,  b. 1975/12/22
+
+      11, Vladimir BESCHASTNYKH,         FW,  b. 1974/04/01
+      16, Aleksandr KERZHAKOV,           FW,  b. 1982/11/27
+      19, Ruslan PIMENOV,                FW,  b. 1981/11/25
+      22, Dmitri SYCHEV,                 FW,  b. 1983/10/26
+
+       -, Oleg ROMANTSEV (RUS),          MG,  b. 1954/01/04
+
+
+== Croatia     # 23 Players
+
+       1, Stipe PLETIKOSA,               GK,  b. 1979/01/08
+      12, Tomislav BUTINA,               GK,  b. 1974/03/30
+      23, Vladimir VASILJ,               GK,  b. 1975/07/06
+
+       2, Anthony SERIC,                 DF,  b. 1979/01/15
+       3, Josip SIMUNIC,                 DF,  b. 1978/02/18
+       4, Stjepan TOMAS,                 DF,  b. 1976/03/06
+       6, Boris ZIVKOVIC,                DF,  b. 1975/11/15
+      15, Daniel SARIC,                  DF,  b. 1972/08/04
+      17, Robert JARNI,                  DF,  b. 1968/10/26
+      20, Dario SIMIC,                   DF,  b. 1975/11/12
+      21, Robert KOVAC,                  DF,  b. 1974/04/06
+
+       5, Milan RAPAIC,                  MF,  b. 1973/08/16
+       7, Davor VUGRINEC,                MF,  b. 1975/03/24
+       8, Robert PROSINECKI,             MF,  b. 1969/01/12
+      10, Niko KOVAC,                    MF,  b. 1971/10/15
+      13, Mario STANIC,                  MF,  b. 1972/04/10
+      14, Zvonimir SOLDO,                MF,  b. 1967/11/02
+      16, Jurica VRANJES,                MF,  b. 1980/01/31
+
+       9, Davor SUKER,                   FW,  b. 1968/01/01
+      11, Alen BOKSIC,                   FW,  b. 1970/01/21
+      18, Ivica OLIC,                    FW,  b. 1979/09/14
+      19, Goran VLAOVIC,                 FW,  b. 1972/08/07
+      22, Bosko BALABAN,                 FW,  b. 1978/10/15
+
+       -, Mirko JOZIC (CRO),             MG,  b. 1940/04/08
+
+
+== Germany     # 23 Players
+
+       1, Oliver KAHN,                   GK,  b. 1969/06/15
+      12, Jens LEHMANN,                  GK,  b. 1969/11/10
+      23, Hans Joerg BUTT,               GK,  b. 1974/05/28
+
+       2, Thomas LINKE,                  DF,  b. 1969/12/26
+       3, Marko REHMER,                  DF,  b. 1972/04/29
+       4, Frank BAUMANN,                 DF,  b. 1975/10/29
+       6, Christian ZIEGE,               DF,  b. 1972/02/01
+      15, Sebastian KEHL,                DF,  b. 1980/02/13
+      18, Joerg BOEHME,                  DF,  b. 1974/01/22
+      21, Christoph METZELDER,           DF,  b. 1980/11/05
+
+       5, Carsten RAMELOW,               MF,  b. 1974/03/20
+       8, Didi HAMANN,                   MF,  b. 1973/08/27
+      10, Lars RICKEN,                   MF,  b. 1976/07/10
+      13, Michael BALLACK,               MF,  b. 1976/09/26
+      16, Jens JEREMIES,                 MF,  b. 1974/03/05
+      19, Bernd SCHNEIDER,               MF,  b. 1973/11/17
+      22, Torsten FRINGS,                MF,  b. 1976/11/22
+
+       7, Oliver NEUVILLE,               FW,  b. 1973/05/01
+       9, Carsten JANCKER,               FW,  b. 1974/08/28
+      11, Miroslav KLOSE,                FW,  b. 1978/06/09
+      14, Gerald ASAMOAH,                FW,  b. 1978/10/03
+      17, Marco BODE,                    FW,  b. 1969/07/23
+      20, Oliver BIERHOFF,               FW,  b. 1968/05/01
+
+       -, Rudi VOELLER (GER),            MG,  b. 1960/04/13
+
+
+== Denmark     # 23 Players
+
+       1, Thomas SØRENSEN,               GK,  b. 1976/06/12
+      16, Peter KJAER,                   GK,  b. 1965/11/05
+      22, Jesper CHRISTIANSEN,           GK,  b. 1978/04/24
+
+       3, Rene HENRIKSEN,                DF,  b. 1969/08/27
+       4, Martin LAURSEN,                DF,  b. 1977/07/26
+       5, Jan HEINTZE,                   DF,  b. 1963/08/17
+       6, Thomas HELVEG,                 DF,  b. 1971/06/24
+      12, Niclas JENSEN,                 DF,  b. 1974/08/17
+      13, Steven LUSTU,                  DF,  b. 1971/04/13
+      20, Kasper BOGELUND,               DF,  b. 1980/10/08
+
+       2, Stig TOFTING,                  MF,  b. 1969/08/14
+       7, Thomas GRAVESEN,               MF,  b. 1976/03/11
+      14, Claus JENSEN,                  MF,  b. 1977/04/29
+      15, Jan MICHAELSEN,                MF,  b. 1970/11/28
+      17, Christian POULSEN,             MF,  b. 1980/02/28
+      23, Brian Steen NIELSEN,           MF,  b. 1968/12/28
+
+       8, Jesper GRONKJAER,              FW,  b. 1977/08/12
+       9, Jon Dahl TOMASSON,             FW,  b. 1976/08/29
+      10, Martin JORGENSEN,              FW,  b. 1975/10/06
+      11, Ebbe SAND,                     FW,  b. 1972/07/19
+      18, Peter LOVENKRANDS,             FW,  b. 1980/01/29
+      19, Dennis ROMMEDAHL,              FW,  b. 1978/07/22
+      21, Peter MADSEN,                  FW,  b. 1978/04/26
+
+       -, Morten OLSEN (DEN),            MG,  b. 1949/08/14
+
+
+== Ecuador     # 23 Players
+
+       1, Jose CEVALLOS,                 GK,  b. 1971/04/17
+      12, Giovanni IBARRA,               GK,  b. 1969/09/08
+      22, Daniel VITERI,                 GK,  b. 1981/12/12
+
+       2, Augusto POROSO,                DF,  b. 1974/04/13
+       3, Ivan HURTADO,                  DF,  b. 1974/08/16
+       4, Ulises DE LA CRUZ,             DF,  b. 1974/02/08
+       6, Raul GUERRON,                  DF,  b. 1976/10/12
+       8, Luis GOMEZ,                    DF,  b. 1972/04/20
+      15, Marlon AYOVI,                  DF,  b. 1971/09/27
+      17, Giovanny ESPINOZA,             DF,  b. 1977/04/12
+      23, Walter AYOVI,                  DF,  b. 1979/08/11
+
+       5, Alfonso OBREGON,               MF,  b. 1972/05/12
+       7, Nicolas ASENCIO,               MF,  b. 1975/04/26
+      10, Alex AGUINAGA,                 MF,  b. 1968/07/09
+      14, Juan Carlos BURBANO,           MF,  b. 1969/02/15
+      16, Clever CHALA,                  MF,  b. 1971/06/29
+      19, Edison MENDEZ,                 MF,  b. 1979/03/16
+      20, Edwin TENORIO,                 MF,  b. 1976/06/16
+      21, Wellington SANCHEZ,            MF,  b. 1974/06/19
+
+       9, Ivan KAVIEDES,                 FW,  b. 1977/10/24
+      11, Agustin DELGADO,               FW,  b. 1974/12/23
+      13, Angel FERNANDEZ,               FW,  b. 1971/08/02
+      18, Tenorio,                       FW,  b. 1979/05/14
+
+       -, Hernan GOMEZ (COL),            MG,  b. 1956/02/03
+
+
+== Slovenia     # 23 Players
+
+       1, Marko SIMEUNOVIC,              GK,  b. 1967/12/06
+      12, Mladen DABANOVIC,              GK,  b. 1971/09/13
+      22, Dejan NEMEC,                   GK,  b. 1977/03/01
+
+       2, Goran SANKOVIC,                DF,  b. 1979/06/18
+       3, Zeljko MILINOVIC,              DF,  b. 1969/10/12
+       4, Muamer VUGDALIC,               DF,  b. 1977/08/25
+       5, Marinko GALIC,                 DF,  b. 1970/04/22
+       6, Aleksander KNAVS,              DF,  b. 1975/12/05
+      23, Spasoje BULAJIC,               DF,  b. 1975/11/24
+
+       7, Doni NOVAK,                    MF,  b. 1969/09/04
+       8, Ales CEH,                      MF,  b. 1968/04/07
+      10, Zlatko ZAHOVIC,                MF,  b. 1971/02/01
+      11, Miran PAVLIN,                  MF,  b. 1971/10/08
+      14, Sasa GAJSER,                   MF,  b. 1974/02/11
+      15, Rajko TAVCAR,                  MF,  b. 1974/07/21
+      17, Zoran PAVLOVIC,                MF,  b. 1976/06/27
+      18, Milenko ACIMOVIC,              MF,  b. 1977/02/15
+      19, Amir KARIC,                    MF,  b. 1973/12/31
+      20, Nastja CEH,                    MF,  b. 1978/01/26
+
+       9, Milan OSTERC,                  FW,  b. 1975/07/04
+      13, Mladen RUDONJA,                FW,  b. 1971/07/26
+      16, Senad TIGANJ,                  FW,  b. 1975/08/28
+      21, Sebastijan CIMIROTIC,          FW,  b. 1974/09/14
+
+       -, Danilo POPIVODA (SRB),         MG,  b. 1947/05/01
+       -, Srečko Katanec (SVN),          MG,  b. 1963/07/16
+
+
+== USA     # 23 Players
+
+       1, Brad FRIEDEL,                  GK,  b. 1971/05/18
+      18, Kasey KELLER,                  GK,  b. 1969/11/29
+      19, Tony MEOLA,                    GK,  b. 1969/02/21
+
+       2, Frankie HEJDUK,                DF,  b. 1974/08/05
+       3, Gregg BERHALTER,               DF,  b. 1973/08/01
+       4, Pablo MASTROENI,               DF,  b. 1976/08/29
+       6, David REGIS,                   DF,  b. 1968/12/02
+      12, Jeff AGOOS,                    DF,  b. 1968/05/02
+      14, Steve CHERUNDOLO,              DF,  b. 1979/02/19
+      16, Carlos LLAMOSA,                DF,  b. 1969/06/30
+      22, Tony SANNEH,                   DF,  b. 1971/06/01
+      23, Eddie POPE,                    DF,  b. 1973/12/24
+
+       5, John O BRIEN,                  MF,  b. 1977/08/29
+       7, Eddie LEWIS,                   MF,  b. 1974/05/17
+       8, Earnie STEWART,                MF,  b. 1969/03/28
+      10, Claudio REYNA,                 MF,  b. 1973/07/20
+      13, Cobi JONES,                    MF,  b. 1970/06/16
+      17, DaMarcus BEASLEY,              MF,  b. 1982/05/24
+      21, Landon DONOVAN,                MF,  b. 1982/03/04
+
+       9, Joe Max MOORE,                 FW,  b. 1971/02/23
+      11, Clint MATHIS,                  FW,  b. 1976/11/25
+      15, Josh WOLFF,                    FW,  b. 1977/02/25
+      20, Brian McBRIDE,                 FW,  b. 1972/06/19
+
+       -, Bruce Arena (USA),             MG,  b. 1951/09/21
+
+
+== Turkey     # 23 Players
+
+       1, Rustu RECBER,                  GK,  b. 1973/05/10
+      12, Omer CATKIC,                   GK,  b. 1974/10/15
+      23, Zafer OZGULTEKIN,              GK,  b. 1975/03/10
+
+       2, Emre ASIK,                     DF,  b. 1973/12/13
+       3, Bulent KORKMAZ,                DF,  b. 1968/11/24
+       4, Fatih AKYEL,                   DF,  b. 1977/12/26
+       5, Alpay OZALAN,                  DF,  b. 1973/05/29
+      16, Umit OZAT,                     DF,  b. 1976/10/30
+      20, Hakan UNSAL,                   DF,  b. 1973/05/14
+
+       7, Okan BURUK,                    MF,  b. 1973/10/19
+       8, Tugay KERIMOGLU,               MF,  b. 1970/08/24
+      10, Yildiray BASTURK,              MF,  b. 1978/12/24
+      13, Muzzy IZZET,                   MF,  b. 1974/10/31
+      14, Tayfur HAVUTCU,                MF,  b. 1970/04/23
+      18, Ergun PENBE,                   MF,  b. 1972/05/17
+      19, Abdullah ERCAN,                MF,  b. 1971/12/08
+      21, Emre BELOZOGLU,                MF,  b. 1980/09/07
+      22, Umit DAVALA,                   MF,  b. 1973/07/30
+
+       6, Arif ERDEM,                    FW,  b. 1972/01/02
+       9, Hakan SUKUR,                   FW,  b. 1971/09/01
+      11, Hasan SAS,                     FW,  b. 1976/08/01
+      15, Nihat KAHVECI,                 FW,  b. 1979/11/23
+      17, Ilhan MANSIZ,                  FW,  b. 1975/08/10
+
+       -, Senol GUNES (TUR),             MG,  b. 1952/06/01
+
+
+== Portugal     # 23 Players
+
+       1, VITOR BAIA,                    GK,  b. 1969/10/15
+      15, NELSON,                        GK,  b. 1975/10/20
+      16, RICARDO,                       GK,  b. 1976/02/11
+
+       2, JORGE COSTA,                   DF,  b. 1971/10/14
+       3, ABEL XAVIER,                   DF,  b. 1972/11/30
+       4, MARCO CANEIRA,                 DF,  b. 1979/02/09
+       5, FERNANDO COUTO,                DF,  b. 1969/08/02
+      13, JORGE ANDRADE,                 DF,  b. 1978/04/09
+      18, FRECHAUT,                      DF,  b. 1977/09/24
+      22, BETO,                          DF,  b. 1976/05/03
+      23, RUI JORGE,                     DF,  b. 1973/03/27
+
+       6, PAULO SOUSA,                   MF,  b. 1970/08/30
+      10, RUI COSTA,                     MF,  b. 1972/03/29
+      12, HUGO VIANA,                    MF,  b. 1983/01/15
+      14, PEDRO BARBOSA,                 MF,  b. 1970/08/06
+      17, PAULO BENTO,                   MF,  b. 1969/06/20
+      20, PETIT,                         MF,  b. 1976/09/25
+
+       7, Luis FIGO,                     FW,  b. 1972/11/04
+       8, JOAO PINTO,                    FW,  b. 1971/08/19
+       9, PAULETA,                       FW,  b. 1973/04/28
+      11, SERGIO CONCEICAO,              FW,  b. 1974/11/15
+      19, CAPUCHO,                       FW,  b. 1972/02/21
+      21, NUNO GOMES,                    FW,  b. 1976/07/05
+
+       -, Antonio OLIVEIRA (POR),        MG,  b. 1952/06/10
+
+
