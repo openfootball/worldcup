@@ -65,10 +65,10 @@ Sat Nov 26
                   (Lionel MESSI 64', Enzo FERNANDEZ 87')
 Wed Nov 30
   22:00 UTC+3   Poland  0-2  Argentina   @ Stadium 974, Doha
-                  (Alexis MAC ALLISTER 46', Julian ALVAREZ 67')
+                  (Alexis MAC ALLISTER 46', Julian ALVAREZ 67')
   22:00 UTC+3   Saudi Arabia  1-2  Mexico   @ Lusail Stadium, Al Daayen
                   (SALEM ALDAWSARI 90+5';
-                   Henry MARTIN 47', Luis CHAVEZ 52')
+                   Henry MARTIN 47', Luis CHAVEZ 52')
 
 ▪▪ Group D
 Tue Nov 22
@@ -78,7 +78,7 @@ Tue Nov 22
                    Craig GOODWIN 9')
 Sat Nov 26
   13:00 UTC+3   Tunisia  0-1  Australia   @ Al Janoub Stadium, Al Wakrah
-                  (Mitch DUKE 23')
+                  (Mitch DUKE 23')
   19:00 UTC+3   France  2-1  Denmark   @ Stadium 974, Doha
                   (Kylian MBAPPE 61', 86';
                    Andreas CHRISTENSEN 68')
@@ -94,7 +94,7 @@ Wed Nov 23
                   (Ilkay GUENDOGAN 33'(p);
                    Ritsu DOAN 75', Takuma ASANO 83')
   19:00 UTC+3   Spain  7-0  Costa Rica   @ Al Thumama Stadium, Doha
-                  (Dani OLMO 11', Marco ASENSIO 21', Ferran TORRES 31'(p), 54', GAVI 74', Carlos SOLER 90', Alvaro MORATA 90+2')
+                  (Dani OLMO 11', Marco ASENSIO 21', Ferran TORRES 31'(p), 54', GAVI 74', Carlos SOLER 90', Alvaro MORATA 90+2')
 Sun Nov 27
   13:00 UTC+3   Japan  0-1  Costa Rica   @ Ahmad Bin Ali Stadium, Ar-Rayyan
                   (Keysher FULLER 81')
@@ -102,7 +102,7 @@ Sun Nov 27
                   (Alvaro MORATA 62'; Niclas FUELLKRUG 83')
 Thu Dec 1
   22:00 UTC+3   Japan  2-1  Spain   @ Khalifa International Stadium, Ar-Rayyan
-                  (Ritsu DOAN 48', Ao TANAKA 51';
+                  (Ritsu DOAN 48', Ao TANAKA 51';
                    Alvaro MORATA 11')
   22:00 UTC+3   Costa Rica  2-4  Germany   @ Al Bayt Stadium, Al Khor
                   (Yeltsin TEJEDA 58', Juan VARGAS 70';
@@ -179,7 +179,7 @@ Sun Dec 4
                   (Jordan HENDERSON 38', Harry KANE 45+3', Bukayo SAKA 57')
 Mon Dec 5
   18:00 UTC+3   Japan  1-1 a.e.t., 1-3 pen.  Croatia   @ Al Janoub Stadium, Al Wakrah
-                  (Daizen MAEDA 43'; Ivan PERISIC 55')
+                  (Daizen MAEDA 43'; Ivan PERISIC 55')
   22:00 UTC+3   Brazil  4-1  South Korea   @ Stadium 974, Doha
                   (VINICIUS JR 7', NEYMAR 13'(p), RICHARLISON 29', LUCAS PAQUETA 36';
                    PAIK Seungho 76')
@@ -209,7 +209,7 @@ Tue Dec 13
                   (Lionel MESSI 34'(p), Julian ALVAREZ 39', 69')
 Wed Dec 14
   22:00 UTC+3   France  2-0  Morocco   @ Al Bayt Stadium, Al Khor
-                  (Theo HERNANDEZ 5', Randal KOLO MUANI 79')
+                  (Theo HERNANDEZ 5', Randal KOLO MUANI 79')
 
 ▪ Play-off for third place
 Sat Dec 17
