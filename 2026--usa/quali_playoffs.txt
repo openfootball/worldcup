@@ -17,39 +17,54 @@
 ▪▪ Path A 
 ▪▪▪ Semi-finals
 
-Th 26/3/26 20:45 CET                Italy - Northern Ireland     @ Bergamo
-Th 26/3/26 20:45 CET (19:45 UTC±0)  Wales - Bosnia & Herzegovina @ Cardiff
+Th 26/3/26 20:45 CET                Italy  2-0  Northern Ireland     @ Bergamo
+                                     (Tonali 56' Kean 80')
+
+Th 26/3/26 20:45 CET (19:45 UTC±0)  Wales  1-1 a.e.t, 2-4 pen.  Bosnia & Herzegovina   @ Cardiff
+                                      (D. James 51'; Džeko 86')
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST     Winner SF2	- Winner SF1   @ Cardiff or Zenica
-
+Tu 31/3/26 20:45 CEST     Bosnia & Herzegovina	1-1 a.e.t., 4-1 pen.  Italy   @ Zenica
+                                 (Tabaković 79'; Kean 15')
 
 ▪▪ Path B
 ▪▪▪ Semi-finals
-Th 26/3/26 20:45 CET      Ukraine - Sweden  @ Valencia (Spain)
-Th 26/3/26 20:45 CET      Poland  - Albania @ Warsaw
+Th 26/3/26 20:45 CET      Ukraine  1-3  Sweden  @ Valencia (Spain)
+                              (Ponomarenko 90'; Gyökeres 6', 51', 73' (pen.))
+
+Th 26/3/26 20:45 CET      Poland  2-1  Albania   @ Warsaw
+                              (Lewandowski 63' Zieliński 73'; Hoxha 42')
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST   Winner SF3 -	Winner SF4   @ Valencia (Spain) or Solna
-
+Tu 31/3/26 20:45 CEST   Sweden  3-2	 Poland   @ Solna
+                            (Elanga 20' Lagerbielke 44' Gyökeres 88';
+                             Zalewski 33' Świderski 55')
 
 ▪▪ Path C
 ▪▪▪ Semi-finals
-Th 26/3/26 18:00 CET (20:00 UTC+3)  Turkey - Romania  @ Istanbul
-Th 26/3/26 20:45 CET               Slovakia - Kosovo  @ Bratislava
+Th 26/3/26 18:00 CET (20:00 UTC+3)  Turkey  1-0  Romania  @ Istanbul
+                                        (Kadıoğlu 53')
 
+Th 26/3/26 20:45 CET               Slovakia  3-4  Kosovo  @ Bratislava
+                                      (Valjent 6' Haraslín 45' Strelec 90+4';
+                                       Hodža 21' Asllani 47' Muslija 60' Hajrizi 72')
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST      Winner SF6 - Winner SF5  @ Bratislava or Pristina
-
+Tu 31/3/26 20:45 CEST      Kosovo  0-1  Turkey  @ Pristina
+                               (Aktürkoğlu 53')
 
 ▪▪ Path D
 ▪▪▪ Semi-finals
-Th 26/3/26 20:45 CET    Denmark        - North Macedonia      @ Copenhagen
-Th 26/3/26 20:45 CET    Czech Republic - Republic of Ireland  @ Prague
+Th 26/3/26 20:45 CET    Denmark        4-0  North Macedonia      @ Copenhagen
+                            (Damsgaard 49' Isaksen  58', 59' Nørgaard 75')
+
+Th 26/3/26 20:45 CET    Czech Republic  2-2 a.e.t., 4-3 pen.  Republic of Ireland  @ Prague
+                           (Schick 27' (pen.) Krejčí  86';
+                            Parrott 19' (pen.) Kovář 23' (og))
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST      Winner SF8 - Winner SF7   @ Prague or Dublin
-
+Tu 31/3/26 20:45 CEST     Czech Republic  2-2 a.e.t., 3-1 pen.  Denmark   @ Prague 
+                              (Šulc 3' Krejčí 100';
+                               Andersen 72' Høgh 111')
 
 
 ==Play-offs==
@@ -68,13 +83,17 @@ Tu 31/3/26 20:45 CEST      Winner SF8 - Winner SF7   @ Prague or Dublin
 ▪ Inter-confederation Play-offs
 
 ▪▪ Pathway 1, Semi-final
-Th 26/3/26 20:00 UTC−6   New Caledonia - Jamaica  @ Guadalajara (Zapopan) 
-
+Th 26/3/26 20:00 UTC−6   New Caledonia  0-1  Jamaica  @ Guadalajara (Zapopan) 
+                                  (Cadamarteri 18')
 ▪▪ Pathway 1, Final
-Tu 31/3/26 15:00 UTC-6   DR Congo -  Winner SF   @ Guadalajara (Zapopan)
+Tu 31/3/26 15:00 UTC-6   DR Congo  1-0 a.e.t.   Jamaica   @ Guadalajara (Zapopan)
+                                    (Tuanzebe 100')
 
 ▪▪ Pathway 2, Semi-final
-Th 26/3/26 17:00 UTC-6   Bolivia  -  Suriname  @ Monterrey (Guadalupe)
-
+Th 26/3/26 17:00 UTC-6   Bolivia  2-1  Suriname  @ Monterrey (Guadalupe)
+                             (Paniagua 72' Terceros 79' (pen.);
+                              Van Gelderen 48')
 ▪▪ Pathway 2, Final
-Tu 31/3/26 21:00 UTC-6   Iraq  -  Winner SF   @ Monterrey (Guadalupe)
+Tu 31/3/26 21:00 UTC-6   Iraq  2-1  Bolivia   @ Monterrey (Guadalupe)
+                             (Al-Hamadi 10' Hussein 53';
+                              Paniagua 38')

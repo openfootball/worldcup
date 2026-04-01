@@ -15,24 +15,24 @@ and the World Cup Quali(fiers). Football.TXT example:
 ```
 = World Cup 2026      # in Canada, USA, and Mexico 
 
-Group A | Mexico 	  South Africa    South Korea	   UEFA Path D winner
-Group B | Canada    UEFA Path A winner  Qatar    Switzerland
-Group C | Brazil    Morocco      Haiti   Scotland
-Group D | USA       Paraguay     Australia   UEFA Path C winner
-Group E | Germany    Curaçao      Ivory Coast   Ecuador
-Group F | Netherlands	  Japan        UEFA Path B winner  Tunisia
-Group G | Belgium       Egypt        Iran        New Zealand
-Group H | Spain        Cape Verde   Saudi Arabia   Uruguay
-Group I | France      Senegal   IC Path 2 winner   Norway
+Group A | Mexico 	      South Africa    South Korea	   Czech Republic
+Group B | Canada      Bosnia & Herzegovina  Qatar    Switzerland
+Group C | Brazil          Morocco      Haiti   Scotland
+Group D | USA   Paraguay     Australia   Turkey
+Group E | Germany         Curaçao      Ivory Coast   Ecuador
+Group F | Netherlands	  Japan        Sweden  Tunisia
+Group G | Belgium         Egypt        Iran        New Zealand
+Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
+Group I | France      Senegal   Iraq   Norway
 Group J | Argentina	   Algeria   Austria   Jordan
-Group K | Portugal   IC Path 1 winner   Uzbekistan  Colombia
+Group K | Portugal   DR Congo   Uzbekistan  Colombia
 Group L | England    Croatia     Ghana   Panama	
 
 
 ▪ Group A
 Thu June 11 
   13:00 UTC-6  Mexico       v South Africa        @ Mexico City
-  20:00 UTC-6  South Korea  v UEFA Path D winner  @ Guadalajara (Zapopan)
+  20:00 UTC-6  South Korea  v Czech Republic      @ Guadalajara (Zapopan)
 
 ...
 
