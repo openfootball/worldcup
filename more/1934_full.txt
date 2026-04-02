@@ -84,7 +84,7 @@ Spain: Ricardo ZAMORA [c] - I QUINCOCES, CIRIACO, MARCULETA - CILAURREN, IRARAGO
 Brazil: PEDROSA - LUIZ LUZ, SYLVIO HOFFMANN - CANALLI, TINOCO, MARTIM [c] - WALDEMAR DE BRITTO,
       PATESKO, ARMANDINHO, LEONIDAS, LUISINHO
 
-Refs: Alfred  BIRLEM (GER), Ettore CARMINATI (ITA), Mihaly IVANCSICS (HUN)
+Refs: Alfred BIRLEM (GER), Ettore CARMINATI (ITA), Mihaly IVANCSICS (HUN)
 
 
 Sun May 27 16:30 UTC+2 @ Littorale, Bologna
@@ -144,7 +144,7 @@ Hungary: Antal SZABO - Laszlo STERNBERG [c], Jozsef VAGO - Istvan PALOTAS, Antal
       Gyorgy SZUCS - Gyorgy SAROSI, Istvan AVAR, Tibor KEMENY, Imre MARKOS [R 63'],
       Geza TOLDI
 
-Refs: Francesco MATTEA (ITA), Pedro ESCARTIN (ESP), Alfred  BIRLEM (GER)
+Refs: Francesco MATTEA (ITA), Pedro ESCARTIN (ESP), Alfred BIRLEM (GER)
 
 
 Thu May 31 16:30 UTC+2 @ Giovanni Berta, Florence
@@ -262,6 +262,6 @@ Czechoslovakia: Frantisek PLANICKA [c] - Josef CTYROKY, Ladislav ZENISEK - Stefa
       Josef KOSTALEK, Rudolf KRCIL - Oldrich NEJEDLY, Antonin PUC, Frantisek JUNEK,
       Jiri SOBOTKA, Frantisek SVOBODA
 
-Refs: Ivan EKLIND (SWE), Alfred  BIRLEM (GER), Mihaly IVANCSICS (HUN)
+Refs: Ivan EKLIND (SWE), Alfred BIRLEM (GER), Mihaly IVANCSICS (HUN)
 
 

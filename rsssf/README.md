@@ -95,3 +95,10 @@ rename to inter-confederation play-offs or such ???
 
 ## NB: Costa Rica qualified
 ```
+
+
+## More notes
+
+- [ ] support "qualifiers" for attendance
+   - (soldout)  or (SOLDOUT!!!)
+   -  or +60000, +80000 (more than 80000 ??)  or -80000  (less than 80000 ??)

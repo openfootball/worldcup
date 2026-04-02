@@ -167,7 +167,7 @@
 
 ▪ FINAL
 
-13.7. @ Rio de Janeiro     Att: 74738
+13.7. @ Rio de Janeiro,     Att: 74738
   Germany           1-0 Argentina        (aet)
      (1-0 Götze 113')
 
@@ -178,5 +178,5 @@ Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'),
            Biglia, Mascherano, E. Pérez (Gago 86'),
            Messi, Higuain (Palacio 78')
 
-## Referee: Rizzoli (Italy)
+Referee: Rizzoli (Italy)
 

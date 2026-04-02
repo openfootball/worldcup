@@ -116,7 +116,7 @@ Mon Nov 21 16:00 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45334
      (Jude BELLINGHAM 35', Bukayo SAKA 43', 62', Raheem STERLING 45+1', Marcus RASHFORD 71', Jack GREALISH 90';
       Mehdi TAREMI 65', 90+13'(p))
 
-England: Jordan PICKFORD - Luke SHAW, John STONES, Harry MAGUIRE (70' Eric  DIER),
+England: Jordan PICKFORD - Luke SHAW, John STONES, Harry MAGUIRE (70' Eric DIER),
       Kieran TRIPPIER - Declan RICE, Mason MOUNT (70' Phil FODEN), Jude BELLINGHAM -
       Harry KANE [c] (75' Callum WILSON), Raheem STERLING (70' Jack GREALISH),
       Bukayo SAKA (70' Marcus RASHFORD)
@@ -134,8 +134,8 @@ Mon Nov 21 22:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 43418
      (Tim WEAH 36'; Gareth BALE 82'(p))
 
 USA: Matt TURNER - Sergino DEST [Y 11'] (74' DeAndre YEDLIN), Walker ZIMMERMAN,
-      Antonee ROBINSON, Tim REAM [Y 51'] - Tyler  ADAMS [c], Yunus MUSAH (74' Kellyn PERRY-ACOSTA [Y 90+10']),
-      Weston McKENNIE [Y 13'] (66' Brenden AARONSON) - Christian  PULISIC,
+      Antonee ROBINSON, Tim REAM [Y 51'] - Tyler ADAMS [c], Yunus MUSAH (74' Kellyn PERRY-ACOSTA [Y 90+10']),
+      Weston McKENNIE [Y 13'] (66' Brenden AARONSON) - Christian PULISIC,
       Tim WEAH (88' Jordan MORRIS), Josh SARGENT (74' Haji WRIGHT)
 Wales: Wayne HENNESSEY - Neco WILLIAMS (79' Brennan JOHNSON), Ben DAVIES, Chris MEPHAM [Y 45+2'],
       Joe RODON, Connor ROBERTS - Harry WILSON (90+3' Sorba THOMAS), Aaron RAMSEY,
@@ -167,8 +167,8 @@ England: Jordan PICKFORD - Luke SHAW, John STONES, Harry MAGUIRE, Kieran TRIPPIE
       Declan RICE, Mason MOUNT, Jude BELLINGHAM (68' Jordan HENDERSON) - Harry KANE [c],
       Raheem STERLING (68' Jack GREALISH), Bukayo SAKA (77' Marcus RASHFORD)
 USA: Matt TURNER - Sergino DEST (77' Shaquell MOORE), Walker ZIMMERMAN, Antonee ROBINSON,
-      Tim REAM - Tyler  ADAMS [c], Yunus MUSAH, Weston McKENNIE (77' Brenden AARONSON) -
-      Christian  PULISIC, Haji WRIGHT (83' Josh SARGENT), Tim WEAH (83' Giovanni REYNA)
+      Tim REAM - Tyler ADAMS [c], Yunus MUSAH, Weston McKENNIE (77' Brenden AARONSON) -
+      Christian PULISIC, Haji WRIGHT (83' Josh SARGENT), Tim WEAH (83' Giovanni REYNA)
 
 Refs: Jesús Valenzuela Sáez (VEN), Jorge Urrego Martínez (VEN), Tulio Moreno (VEN)
 
@@ -191,15 +191,15 @@ Refs: Slavko VINCIC (SVN), Tomaz KLANCNIK (SVN), Andraz KOVACIC (SVN)
 
 Tue Nov 29 22:00 UTC+3 @ Al Thumama Stadium, Doha, Att: 42127
   Iran v USA  0-1
-     (Christian  PULISIC 38')
+     (Christian PULISIC 38')
 
 Iran: Ali BEIRANVAND - Milad MOHAMMADI (45+2' Ali KARIMI), Morteza POURALIGANJI,
       Majid HOSSEINI [Y 77'], Ramin REZAEIAN - Ehsan HAJI SAFI [c] (71' Abolfazl JALALI [Y 90+6']),
       Saeid EZATOLAHI, Mehdi TAREMI, Ali GHOLIZADEH (77' Karim ANSARIFARD),
       Ahmad NOOROLLAHI (71' Mahdi TORABI) - Sardar AZMOUN (46' Saman GHODDOS)
 USA: Matt TURNER - Sergino DEST (82' Shaquell MOORE), Antonee ROBINSON, Tim REAM,
-      Cameron CARTER-VICKERS - Tyler  ADAMS [c] [Y 43'], Yunus MUSAH, Weston McKENNIE (65' Kellyn PERRY-ACOSTA) -
-      Christian  PULISIC (46' Brenden AARONSON), Tim WEAH (82' Walker ZIMMERMAN),
+      Cameron CARTER-VICKERS - Tyler ADAMS [c] [Y 43'], Yunus MUSAH, Weston McKENNIE (65' Kellyn PERRY-ACOSTA) -
+      Christian PULISIC (46' Brenden AARONSON), Tim WEAH (82' Walker ZIMMERMAN),
       Josh SARGENT (77' Haji WRIGHT)
 
 Refs: Antonio MATEU (ESP), Pau Cebrián Devis (ESP), Roberto Díaz Pérez Del Palomar (ESP)
@@ -226,10 +226,10 @@ Refs: Slavko VINCIC (SVN), Tomaz KLANCNIK (SVN), Andraz KOVACIC (SVN)
 Tue Nov 22 19:00 UTC+3 @ Stadium 974, Doha, Att: 39369
   Mexico v Poland  0-0
 
-Mexico: Guillermo OCHOA [c] - Cesar  MONTES, Hector MORENO [Y 56'], Jorge SANCHEZ [Y 29'],
+Mexico: Guillermo OCHOA [c] - Cesar MONTES, Hector MORENO [Y 56'], Jorge SANCHEZ [Y 29'],
       Jesus GALLARDO - Edson ALVAREZ, Hector HERRERA (71' Carlos RODRIGUEZ),
       Luis CHAVEZ - Alexis VEGA (84' Uriel ANTUNA), Henry MARTIN (71' Raul JIMENEZ),
-      Hirving  LOZANO
+      Hirving LOZANO
 Poland: Wojciech SZCZESNY - Matty CASH, Jakub KIWIOR, Kamil GLIK, Bartosz BERESZYNSKI -
       Grzegorz KRYCHOWIAK, Jakub KAMINSKI, Sebastian SZYMANSKI (71' Przemyslaw FRANKOWSKI [Y 76']),
       Piotr ZIELINSKI (87' Arkadiusz MILIK), Nicola ZALEWSKI (46' Krystian BIELIK) -
@@ -262,10 +262,10 @@ Argentina: Emiliano MARTINEZ - Gonzalo MONTIEL [Y 43'] (63' Nahuel MOLINA), Marc
       Nicolas OTAMENDI, Lisandro MARTINEZ - Rodrigo DE PAUL, Angel DI MARIA (69' Cristian ROMERO),
       RODRIGUEZ GUIDO (57' Enzo FERNANDEZ), Alexis MAC ALLISTER (69' Exequiel PALACIOS) -
       Lionel MESSI [c], Lautaro MARTINEZ (63' Julian ALVAREZ)
-Mexico: Guillermo OCHOA - Nestor ARAUJO [Y 22'], Cesar  MONTES, Hector MORENO,
+Mexico: Guillermo OCHOA - Nestor ARAUJO [Y 22'], Cesar MONTES, Hector MORENO,
       Jesus GALLARDO, Kevin ALVAREZ (66' Raul JIMENEZ) - Hector HERRERA [Y 66'],
       Andres GUARDADO [c] (42' Erick GUTIERREZ [Y 50']), Luis CHAVEZ - Alexis VEGA (66' Uriel ANTUNA),
-      Hirving  LOZANO (73' Roberto ALVARADO [Y 89'])
+      Hirving LOZANO (73' Roberto ALVARADO [Y 89'])
 
 Refs: Daniele Orsato (ITA), Ciro Carbone (ITA), Alessandro Giallatini (ITA)
 
@@ -295,9 +295,9 @@ Saudi Arabia: MOHAMMED ALOWAIS - SULTAN ALGHANNAM (88' HATAN BAHBRI [Y 90+7']), 
       ALI ALBULAYHI (37' RIYADH SHARAHILI), Hassan ALTAMBAKTI [Y 52'] - FERAS ALBRIKAN,
       SALEM ALDAWSARI [c], SAUD ABDULHAMID, ALI ALHASSAN [Y 34'] (46' ABDULLAH MADU [Y 81']) -
       SALEH ALSHEHRI [Y 28'] (62' ABDULRAHMAN ALOBUD), MOHAMED KANNO
-Mexico: Guillermo OCHOA [c] - Cesar  MONTES, Hector MORENO, Jorge SANCHEZ (86' Kevin ALVAREZ),
+Mexico: Guillermo OCHOA [c] - Cesar MONTES, Hector MORENO, Jorge SANCHEZ (86' Kevin ALVAREZ),
       Jesus GALLARDO - Edson ALVAREZ [Y 16'] (86' Rogelio FUNES MORI), Alexis VEGA (46' Uriel ANTUNA),
-      Orbelin PINEDA (77' Carlos RODRIGUEZ), Hirving  LOZANO, Luis CHAVEZ -
+      Orbelin PINEDA (77' Carlos RODRIGUEZ), Hirving LOZANO, Luis CHAVEZ -
       Henry MARTIN (77' Raul JIMENEZ)
 
 Refs: Michael Oliver (ENG), Stuart Burt (ENG), Simon Bennett (ENG)
@@ -307,7 +307,7 @@ Refs: Michael Oliver (ENG), Stuart Burt (ENG), Simon Bennett (ENG)
 Tue Nov 22 16:00 UTC+3 @ Education City Stadium, Doha, Att: 42925
   Denmark v Tunisia  0-0
 
-Denmark: Kasper  SCHMEICHEL - Joachim ANDERSEN, Simon KJAER [c] (65' Mathias JENSEN [Y 78']),
+Denmark: Kasper SCHMEICHEL - Joachim ANDERSEN, Simon KJAER [c] (65' Mathias JENSEN [Y 78']),
       Andreas CHRISTENSEN - Joakim MAEHLE, Thomas DELANEY (45+1' Mikkel DAMSGAARD),
       Christian ERIKSEN, Rasmus KRISTENSEN [Y 24'], Pierre-Emile HOJBJERG -
       Andreas SKOV OLSEN (65' Jesper LINDSTROM), Kasper DOLBERG (65' Andreas CORNELIUS)
@@ -359,7 +359,7 @@ France: Hugo LLORIS [c] - Raphael VARANE (75' Ibrahima KONATE), Jules KOUNDE [Y 
       Dayot UPAMECANO, Theo HERNANDEZ - Antoine GRIEZMANN (90+2' Youssouf Fofana),
       Aurelien TCHOUAMENI, Kylian MBAPPE, Ousmane DEMBELE (75' Kingsley COMAN),
       Adrien RABIOT - Olivier GIROUD (63' Marcus THURAM)
-Denmark: Kasper  SCHMEICHEL [c] - Joachim ANDERSEN, Victor NELSSON, Andreas CHRISTENSEN [Y 20'] -
+Denmark: Kasper SCHMEICHEL [c] - Joachim ANDERSEN, Victor NELSSON, Andreas CHRISTENSEN [Y 20'] -
       Joakim MAEHLE, Christian ERIKSEN, Rasmus KRISTENSEN (90+2' Alexander BAH),
       Pierre-Emile HOJBJERG - Mikkel DAMSGAARD (73' Kasper DOLBERG), Andreas CORNELIUS [Y 23'] (46' Martin BRAITHWAITE),
       Jesper LINDSTROM (85' Christian NORGAARD)
@@ -375,7 +375,7 @@ Australia: Mathew RYAN [c] - Milos DEGENEK [Y 57'], Kye ROWLES, Aziz BEHICH [Y 4
       Harry SOUTTAR - Mathew LECKIE (89' Ajdin HRUSTIC), Aaron MOOY, Jackson IRVINE,
       Craig GOODWIN (46' Keanu BACCUS) - Riley McGREE (74' Bailey WRIGHT),
       Mitch DUKE (82' Jamie MacLAREN)
-Denmark: Kasper  SCHMEICHEL - Joachim ANDERSEN, Joakim MAEHLE (69' Andreas CORNELIUS),
+Denmark: Kasper SCHMEICHEL - Joachim ANDERSEN, Joakim MAEHLE (69' Andreas CORNELIUS),
       Andreas CHRISTENSEN, Rasmus KRISTENSEN (46' Alexander BAH) - Mathias JENSEN (59' Mikkel DAMSGAARD),
       Christian ERIKSEN [c], Pierre-Emile HOJBJERG - Martin BRAITHWAITE (59' Kasper DOLBERG),
       Andreas SKOV OLSEN (69' Robert SKOV [Y 75']), Jesper LINDSTROM
@@ -794,8 +794,8 @@ Netherlands: Andries NOPPERT - Jurrien TIMBER, Virgil VAN DIJK [c], Nathan AKE (
       Daley BLIND, Frenkie DE JONG [Y 87'], Denzel DUMFRIES - Cody GAKPO (90+3' Wout WEGHORST),
       Memphis DEPAY (83' Xavi SIMONS)
 USA: Matt TURNER - Sergino DEST (75' DeAndre YEDLIN), Walker ZIMMERMAN, Antonee ROBINSON (90+2' Jordan MORRIS),
-      Tim REAM - Tyler  ADAMS [c], Yunus MUSAH, Weston McKENNIE (67' Haji WRIGHT) -
-      Jesus FERREIRA (46' Giovanni REYNA), Christian  PULISIC, Tim WEAH (67' Brenden AARONSON)
+      Tim REAM - Tyler ADAMS [c], Yunus MUSAH, Weston McKENNIE (67' Haji WRIGHT) -
+      Jesus FERREIRA (46' Giovanni REYNA), Christian PULISIC, Tim WEAH (67' Brenden AARONSON)
 
 Refs: Wilton SAMPAIO (BRA), Bruno Boschilia (BRA), Bruno PIRES (BRA)
 
@@ -838,7 +838,7 @@ Sun Dec 4 22:00 UTC+3 @ Al Bayt Stadium, Al Khor, Att: 65985
   England v Senegal  3-0
      (Jordan HENDERSON 38', Harry KANE 45+3', Bukayo SAKA 57')
 
-England: Jordan PICKFORD - Kyle WALKER, Luke SHAW, John STONES (76' Eric  DIER),
+England: Jordan PICKFORD - Kyle WALKER, Luke SHAW, John STONES (76' Eric DIER),
       Harry MAGUIRE - Declan RICE, Jordan HENDERSON (82' Kalvin PHILLIPS),
       Jude BELLINGHAM (76' Mason MOUNT) - Harry KANE [c], Bukayo SAKA (65' Marcus RASHFORD),
       Phil FODEN (65' Jack GREALISH)
