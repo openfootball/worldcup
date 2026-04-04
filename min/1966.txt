@@ -1,0 +1,55 @@
+= World Cup 1966
+
+# Dates    Mon Jul 11 - Sat Jul 30 1966 (19d)
+# Teams    16
+# Matches  32
+
+
+▪ Group Matches
+▪▪ Group 1
+  England v Uruguay               0-0
+  France v Mexico                 1-1
+  Uruguay v France                2-1
+  England v Mexico                2-0
+  Uruguay v Mexico                0-0
+  England v France                2-0
+
+▪▪ Group 2
+  West Germany v Switzerland      5-0
+  Argentina v Spain               2-1
+  Spain v Switzerland             2-1
+  West Germany v Argentina        0-0
+  Argentina v Switzerland         2-0
+  West Germany v Spain            2-1
+
+▪▪ Group 3
+  Brazil v Bulgaria               2-0
+  Portugal v Hungary              3-1
+  Hungary v Brazil                3-1
+  Portugal v Bulgaria             3-0
+  Portugal v Brazil               3-1
+  Hungary v Bulgaria              3-1
+
+▪▪ Group 4
+  Soviet Union v North Korea      3-0
+  Italy v Chile                   2-0
+  North Korea v Chile             1-1
+  Soviet Union v Italy            1-0
+  North Korea v Italy             1-0
+  Soviet Union v Chile            2-1
+
+▪ Quarter-final
+  Soviet Union v Hungary          2-1
+  Portugal v North Korea          5-3
+  West Germany v Uruguay          4-0
+  England v Argentina             1-0
+
+▪ Semi-final
+  West Germany v Soviet Union     2-1
+  England v Portugal              2-1
+
+▪ Match for third place
+  Portugal v Soviet Union         2-1
+
+▪ Final
+  England v West Germany          4-2 a.e.t.

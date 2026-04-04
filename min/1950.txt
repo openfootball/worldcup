@@ -1,0 +1,39 @@
+= World Cup 1950
+
+# Dates    Sat Jun 24 - Sun Jul 16 1950 (22d)
+# Teams    13
+# Matches  22
+
+
+▪ Group Matches
+▪▪ Group 1
+  Brazil v Mexico                 4-0
+  Yugoslavia v Switzerland        3-0
+  Yugoslavia v Mexico             4-1
+  Brazil v Switzerland            2-2
+  Brazil v Yugoslavia             2-0
+  Switzerland v Mexico            2-1
+
+▪▪ Group 2
+  England v Chile                 2-0
+  Spain v USA                     3-1
+  USA v England                   1-0
+  Spain v Chile                   2-0
+  Spain v England                 1-0
+  Chile v USA                     5-2
+
+▪▪ Group 3
+  Sweden v Italy                  3-2
+  Sweden v Paraguay               2-2
+  Italy v Paraguay                2-0
+
+▪▪ Group 4
+  Uruguay v Bolivia               8-0
+
+▪ Final Round
+  Brazil v Sweden                 7-1
+  Uruguay v Spain                 2-2
+  Uruguay v Sweden                3-2
+  Brazil v Spain                  6-1
+  Uruguay v Brazil                2-1
+  Sweden v Spain                  3-1

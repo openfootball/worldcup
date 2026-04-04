@@ -1,0 +1,86 @@
+= World Cup 1982
+
+# Dates    Sun Jun 13 - Sun Jul 11 1982 (28d)
+# Teams    24
+# Matches  52
+
+
+▪ Group Matches
+▪▪ Group 1
+  Italy v Poland                  0-0
+  Peru v Cameroon                 0-0
+  Italy v Peru                    1-1
+  Poland v Cameroon               0-0
+  Poland v Peru                   5-1
+  Italy v Cameroon                1-1
+
+▪▪ Group 2
+  West Germany v Algeria          1-2
+  Chile v Austria                 0-1
+  West Germany v Chile            4-1
+  Algeria v Austria               0-2
+  Algeria v Chile                 3-2
+  West Germany v Austria          1-0
+
+▪▪ Group 3
+  Argentina v Belgium             0-1
+  Hungary v El Salvador           10-1
+  Argentina v Hungary             4-1
+  Belgium v El Salvador           1-0
+  Belgium v Hungary               1-1
+  Argentina v El Salvador         2-0
+
+▪▪ Group 4
+  England v France                3-1
+  Czechoslovakia v Kuwait         1-1
+  England v Czechoslovakia        2-0
+  France v Kuwait                 4-1
+  France v Czechoslovakia         1-1
+  England v Kuwait                1-0
+
+▪▪ Group 5
+  Spain v Honduras                1-1
+  Yugoslavia v Northern Ireland   0-0
+  Spain v Yugoslavia              2-1
+  Honduras v Northern Ireland     1-1
+  Honduras v Yugoslavia           0-1
+  Northern Ireland v Spain        1-0
+
+▪▪ Group 6
+  Brazil v Soviet Union           2-1
+  Scotland v New Zealand          5-2
+  Brazil v Scotland               4-1
+  Soviet Union v New Zealand      3-0
+  Soviet Union v Scotland         2-2
+  Brazil v New Zealand            4-0
+
+▪ Second Round
+▪▪ Group A
+  Poland v Belgium                3-0
+  Belgium v Soviet Union          0-1
+  Poland v Soviet Union           0-0
+
+▪▪ Group B
+  West Germany v England          0-0
+  West Germany v Spain            2-1
+  Spain v England                 0-0
+
+▪▪ Group C
+  Italy v Argentina               2-1
+  Argentina v Brazil              1-3
+  Italy v Brazil                  3-2
+
+▪▪ Group D
+  Austria v France                0-1
+  Austria v Northern Ireland      2-2
+  France v Northern Ireland       4-1
+
+▪ Semi-final
+  Poland v Italy                  0-2
+  West Germany v France           3-3 a.e.t., 5-4 pen.
+
+▪ Match for third place
+  Poland v France                 3-2
+
+▪ Final
+  Italy v West Germany            3-1

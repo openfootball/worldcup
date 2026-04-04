@@ -1,0 +1,53 @@
+= World Cup 1954
+
+# Dates    Wed Jun 16 - Sun Jul 4 1954 (18d)
+# Teams    16
+# Matches  26
+
+
+▪ Group Matches
+▪▪ Group 1
+  Brazil v Mexico                 5-0
+  Yugoslavia v France             1-0
+  Brazil v Yugoslavia             1-1 a.e.t.
+  France v Mexico                 3-2
+
+▪▪ Group 2
+  Hungary v South Korea           9-0
+  West Germany v Turkey           4-1
+  Hungary v West Germany          8-3
+  Turkey v South Korea            7-0
+
+▪▪ Group 2, Play-off
+  West Germany v Turkey           7-2
+
+▪▪ Group 3
+  Austria v Scotland              1-0
+  Uruguay v Czechoslovakia        2-0
+  Uruguay v Scotland              7-0
+  Austria v Czechoslovakia        5-0
+
+▪▪ Group 4
+  Switzerland v Italy             2-1
+  England v Belgium               4-4 a.e.t.
+  Italy v Belgium                 4-1
+  England v Switzerland           2-0
+
+▪▪ Group 4, Play-off
+  Switzerland v Italy             4-1
+
+▪ Quarter-final
+  Austria v Switzerland           7-5
+  Uruguay v England               4-2
+  West Germany v Yugoslavia       2-0
+  Hungary v Brazil                4-2
+
+▪ Semi-final
+  West Germany v Austria          6-1
+  Hungary v Uruguay               4-2 a.e.t.
+
+▪ Match for third place
+  Austria v Uruguay               3-1
+
+▪ Final
+  West Germany v Hungary          3-2

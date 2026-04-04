@@ -1,0 +1,97 @@
+= World Cup 1998
+
+# Dates    Wed Jun 10 - Sun Jul 12 1998 (32d)
+# Teams    32
+# Matches  64
+
+
+▪ Group Matches
+▪▪ Group A
+  Brazil v Scotland               2-1
+  Morocco v Norway                2-2
+  Scotland v Norway               1-1
+  Brazil v Morocco                3-0
+  Brazil v Norway                 1-2
+  Scotland v Morocco              0-3
+
+▪▪ Group B
+  Italy v Chile                   2-2
+  Cameroon v Austria              1-1
+  Chile v Austria                 1-1
+  Italy v Cameroon                3-0
+  Chile v Cameroon                1-1
+  Italy v Austria                 2-1
+
+▪▪ Group C
+  Saudi Arabia v Denmark          0-1
+  France v South Africa           3-0
+  South Africa v Denmark          1-1
+  France v Saudi Arabia           4-0
+  South Africa v Saudi Arabia     2-2
+  France v Denmark                2-1
+
+▪▪ Group D
+  Paraguay v Bulgaria             0-0
+  Spain v Nigeria                 2-3
+  Nigeria v Bulgaria              1-0
+  Spain v Paraguay                0-0
+  Nigeria v Paraguay              1-3
+  Spain v Bulgaria                6-1
+
+▪▪ Group E
+  South Korea v Mexico            1-3
+  Netherlands v Belgium           0-0
+  Belgium v Mexico                2-2
+  Netherlands v South Korea       5-0
+  Belgium v South Korea           1-1
+  Netherlands v Mexico            2-2
+
+▪▪ Group F
+  Yugoslavia v Iran               1-0
+  Germany v USA                   2-0
+  Germany v Yugoslavia            2-2
+  USA v Iran                      1-2
+  Germany v Iran                  2-0
+  USA v Yugoslavia                0-1
+
+▪▪ Group G
+  England v Tunisia               2-0
+  Romania v Colombia              1-0
+  Colombia v Tunisia              1-0
+  Romania v England               2-1
+  Colombia v England              0-2
+  Romania v Tunisia               1-1
+
+▪▪ Group H
+  Argentina v Japan               1-0
+  Jamaica v Croatia               1-3
+  Japan v Croatia                 0-1
+  Argentina v Jamaica             5-0
+  Argentina v Croatia             1-0
+  Japan v Jamaica                 1-2
+
+▪ Round of 16
+  Italy v Norway                  1-0
+  Brazil v Chile                  4-1
+  France v Paraguay               1-0 a.e.t.
+  Nigeria v Denmark               1-4
+  Germany v Mexico                2-1
+  Netherlands v Yugoslavia        2-1
+  Romania v Croatia               0-1
+  Argentina v England             2-2 a.e.t., 4-3 pen.
+
+▪ Quarter-final
+  Italy v France                  0-0 a.e.t., 3-4 pen.
+  Brazil v Denmark                3-2
+  Netherlands v Argentina         2-1
+  Germany v Croatia               0-3
+
+▪ Semi-final
+  Brazil v Netherlands            1-1 a.e.t., 4-2 pen.
+  France v Croatia                2-1
+
+▪ Match for third place
+  Netherlands v Croatia           1-2
+
+▪ Final
+  Brazil v France                 0-3

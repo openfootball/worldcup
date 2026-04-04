@@ -1,0 +1,55 @@
+= World Cup 1970
+
+# Dates    Sun May 31 - Sun Jun 21 1970 (21d)
+# Teams    16
+# Matches  32
+
+
+▪ Group Matches
+▪▪ Group 1
+  Mexico v Soviet Union           0-0
+  Belgium v El Salvador           3-0
+  Soviet Union v Belgium          4-1
+  Mexico v El Salvador            4-0
+  Soviet Union v El Salvador      2-0
+  Mexico v Belgium                1-0
+
+▪▪ Group 2
+  Uruguay v Israel                2-0
+  Italy v Sweden                  1-0
+  Uruguay v Italy                 0-0
+  Sweden v Israel                 1-1
+  Sweden v Uruguay                1-0
+  Italy v Israel                  0-0
+
+▪▪ Group 3
+  England v Romania               1-0
+  Brazil v Czechoslovakia         4-1
+  Romania v Czechoslovakia        2-1
+  Brazil v England                1-0
+  Brazil v Romania                3-2
+  England v Czechoslovakia        1-0
+
+▪▪ Group 4
+  Peru v Bulgaria                 3-2
+  West Germany v Morocco          2-1
+  Peru v Morocco                  3-0
+  West Germany v Bulgaria         5-2
+  West Germany v Peru             3-1
+  Bulgaria v Morocco              1-1
+
+▪ Quarter-final
+  Uruguay v Soviet Union          1-0 a.e.t.
+  Brazil v Peru                   4-2
+  West Germany v England          3-2 a.e.t.
+  Italy v Mexico                  4-1
+
+▪ Semi-final
+  Brazil v Uruguay                3-1
+  Italy v West Germany            4-3 a.e.t.
+
+▪ Match for third place
+  West Germany v Uruguay          1-0
+
+▪ Final
+  Brazil v Italy                  4-1

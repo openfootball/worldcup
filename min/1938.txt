@@ -1,0 +1,38 @@
+= World Cup 1938
+
+# Dates    Sat Jun 4 - Sun Jun 19 1938 (15d)
+# Teams    15
+# Matches  18
+
+
+▪ 1st Round
+  Switzerland v Germany           1-1 a.e.t.
+  Hungary v Dutch East Indies     6-0
+  France v Belgium                3-1
+  Italy v Norway                  2-1 a.e.t.
+  Cuba v Romania                  3-3 a.e.t.
+  Brazil v Poland                 6-5 a.e.t.
+  Czechoslovakia v Netherlands    3-0 a.e.t.
+
+▪ 1st Round, Replays
+  Cuba v Romania                  2-1
+  Switzerland v Germany           4-2
+
+▪ Quarter-final
+  Hungary v Switzerland           2-0
+  Italy v France                  3-1
+  Brazil v Czechoslovakia         1-1 a.e.t.
+  Sweden v Cuba                   8-0
+
+▪ Quarter-final, Replay
+  Brazil v Czechoslovakia         2-1
+
+▪ Semi-final
+  Italy v Brazil                  2-1
+  Hungary v Sweden                5-1
+
+▪ Match for third place
+  Brazil v Sweden                 4-2
+
+▪ Final
+  Italy v Hungary                 4-2

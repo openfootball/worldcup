@@ -1,0 +1,97 @@
+= World Cup 2022
+
+# Dates    Sun Nov 20 - Sun Dec 18 2022 (28d)
+# Teams    32
+# Matches  64
+
+
+▪ First stage
+▪▪ Group A
+  Qatar v Ecuador                 0-2
+  Senegal v Netherlands           0-2
+  Qatar v Senegal                 1-3
+  Netherlands v Ecuador           1-1
+  Netherlands v Qatar             2-0
+  Ecuador v Senegal               1-2
+
+▪▪ Group B
+  England v Iran                  6-2
+  USA v Wales                     1-1
+  Wales v Iran                    0-2
+  England v USA                   0-0
+  Wales v England                 0-3
+  Iran v USA                      0-1
+
+▪▪ Group C
+  Argentina v Saudi Arabia        1-2
+  Mexico v Poland                 0-0
+  Poland v Saudi Arabia           2-0
+  Argentina v Mexico              2-0
+  Poland v Argentina              0-2
+  Saudi Arabia v Mexico           1-2
+
+▪▪ Group D
+  Denmark v Tunisia               0-0
+  France v Australia              4-1
+  Tunisia v Australia             0-1
+  France v Denmark                2-1
+  Australia v Denmark             1-0
+  Tunisia v France                1-0
+
+▪▪ Group E
+  Germany v Japan                 1-2
+  Spain v Costa Rica              7-0
+  Japan v Costa Rica              0-1
+  Spain v Germany                 1-1
+  Japan v Spain                   2-1
+  Costa Rica v Germany            2-4
+
+▪▪ Group F
+  Morocco v Croatia               0-0
+  Belgium v Canada                1-0
+  Belgium v Morocco               0-2
+  Croatia v Canada                4-1
+  Croatia v Belgium               0-0
+  Canada v Morocco                1-2
+
+▪▪ Group G
+  Switzerland v Cameroon          1-0
+  Brazil v Serbia                 2-0
+  Cameroon v Serbia               3-3
+  Brazil v Switzerland            1-0
+  Serbia v Switzerland            2-3
+  Cameroon v Brazil               1-0
+
+▪▪ Group H
+  Uruguay v South Korea           0-0
+  Portugal v Ghana                3-2
+  South Korea v Ghana             2-3
+  Portugal v Uruguay              2-0
+  Ghana v Uruguay                 0-2
+  South Korea v Portugal          2-1
+
+▪ Round of 16
+  Netherlands v USA               3-1
+  Argentina v Australia           2-1
+  France v Poland                 3-1
+  England v Senegal               3-0
+  Japan v Croatia                 1-1 a.e.t., 1-3 pen.
+  Brazil v South Korea            4-1
+  Morocco v Spain                 0-0 a.e.t., 3-0 pen.
+  Portugal v Switzerland          6-1
+
+▪ Quarter-final
+  Croatia v Brazil                1-1 a.e.t., 4-2 pen.
+  Netherlands v Argentina         2-2 a.e.t., 3-4 pen.
+  Morocco v Portugal              1-0
+  England v France                1-2
+
+▪ Semi-final
+  Argentina v Croatia             3-0
+  France v Morocco                2-0
+
+▪ Play-off for third place
+  Croatia v Morocco               2-1
+
+▪ Final
+  Argentina v France              3-3 a.e.t., 4-2 pen.

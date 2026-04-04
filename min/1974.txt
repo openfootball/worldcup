@@ -1,0 +1,62 @@
+= World Cup 1974
+
+# Dates    Thu Jun 13 - Sun Jul 7 1974 (24d)
+# Teams    16
+# Matches  38
+
+
+▪ Group Matches
+▪▪ Group 1
+  West Germany v Chile            1-0
+  East Germany v Australia        2-0
+  Australia v West Germany        0-3
+  Chile v East Germany            1-1
+  Australia v Chile               0-0
+  East Germany v West Germany     1-0
+
+▪▪ Group 2
+  Brazil v Yugoslavia             0-0
+  Zaire v Scotland                0-2
+  Scotland v Brazil               0-0
+  Yugoslavia v Zaire              9-0
+  Scotland v Yugoslavia           1-1
+  Zaire v Brazil                  0-3
+
+▪▪ Group 3
+  Sweden v Bulgaria               0-0
+  Uruguay v Netherlands           0-2
+  Netherlands v Sweden            0-0
+  Bulgaria v Uruguay              1-1
+  Bulgaria v Netherlands          1-4
+  Sweden v Uruguay                3-0
+
+▪▪ Group 4
+  Italy v Haiti                   3-1
+  Poland v Argentina              3-2
+  Argentina v Italy               1-1
+  Haiti v Poland                  0-7
+  Poland v Italy                  2-1
+  Argentina v Haiti               4-1
+
+▪ Second Round
+▪▪ Group A
+  Brazil v East Germany           1-0
+  Netherlands v Argentina         4-0
+  East Germany v Netherlands      0-2
+  Argentina v Brazil              1-2
+  Argentina v East Germany        1-1
+  Netherlands v Brazil            2-0
+
+▪▪ Group B
+  Yugoslavia v West Germany       0-2
+  Sweden v Poland                 0-1
+  Poland v Yugoslavia             2-1
+  West Germany v Sweden           4-2
+  Poland v West Germany           0-1
+  Sweden v Yugoslavia             2-1
+
+▪ Match for third place
+  Brazil v Poland                 0-1
+
+▪ Final
+  Netherlands v West Germany      1-2

@@ -1,0 +1,35 @@
+= World Cup 1934
+
+# Dates    Sun May 27 - Sun Jun 10 1934 (14d)
+# Teams    16
+# Matches  17
+
+
+▪ Preliminary Round
+  Czechoslovakia v Romania        2-1
+  Germany v Belgium               5-2
+  Austria v France                3-2 a.e.t.
+  Switzerland v Netherlands       3-2
+  Spain v Brazil                  3-1
+  Sweden v Argentina              3-2
+  Italy v USA                     7-1
+  Hungary v Egypt                 4-2
+
+▪ Quarter-final
+  Austria v Hungary               2-1
+  Italy v Spain                   1-1 a.e.t.
+  Germany v Sweden                2-1
+  Czechoslovakia v Switzerland    3-2
+
+▪ Quarter-final, Replay
+  Italy v Spain                   1-0
+
+▪ Semi-final
+  Italy v Austria                 1-0
+  Czechoslovakia v Germany        3-1
+
+▪ Match for third place
+  Germany v Austria               3-2
+
+▪ Final
+  Italy v Czechoslovakia          2-1 a.e.t.

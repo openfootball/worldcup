@@ -1,0 +1,37 @@
+= World Cup 1930
+
+# Dates    Sun Jul 13 - Wed Jul 30 1930 (17d)
+# Teams    13
+# Matches  18
+
+
+▪ Group Matches
+▪▪ Group 1
+  France v Mexico                 4-1
+  Argentina v France              1-0
+  Chile v Mexico                  3-0
+  Chile v France                  1-0
+  Argentina v Mexico              6-3
+  Argentina v Chile               3-1
+
+▪▪ Group 2
+  Yugoslavia v Brazil             2-1
+  Yugoslavia v Bolivia            4-0
+  Brazil v Bolivia                4-0
+
+▪▪ Group 3
+  Romania v Peru                  3-1
+  Uruguay v Peru                  1-0
+  Uruguay v Romania               4-0
+
+▪▪ Group 4
+  USA v Belgium                   3-0
+  USA v Paraguay                  3-0
+  Paraguay v Belgium              1-0
+
+▪ Semi-final
+  Argentina v USA                 6-1
+  Uruguay v Yugoslavia            6-1
+
+▪ Final
+  Uruguay v Argentina             4-2

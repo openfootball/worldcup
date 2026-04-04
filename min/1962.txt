@@ -1,0 +1,55 @@
+= World Cup 1962
+
+# Dates    Wed May 30 - Sun Jun 17 1962 (18d)
+# Teams    16
+# Matches  32
+
+
+▪ Group Matches
+▪▪ Group 1
+  Uruguay v Colombia              2-1
+  Soviet Union v Yugoslavia       2-0
+  Yugoslavia v Uruguay            3-1
+  Soviet Union v Colombia         4-4
+  Soviet Union v Uruguay          2-1
+  Yugoslavia v Colombia           5-0
+
+▪▪ Group 2
+  Chile v Switzerland             3-1
+  West Germany v Italy            0-0
+  Chile v Italy                   2-0
+  West Germany v Switzerland      2-1
+  West Germany v Chile            2-0
+  Italy v Switzerland             3-0
+
+▪▪ Group 3
+  Brazil v Mexico                 2-0
+  Czechoslovakia v Spain          1-0
+  Brazil v Czechoslovakia         0-0
+  Spain v Mexico                  1-0
+  Brazil v Spain                  2-1
+  Mexico v Czechoslovakia         3-1
+
+▪▪ Group 4
+  Argentina v Bulgaria            1-0
+  Hungary v England               2-1
+  England v Argentina             3-1
+  Hungary v Bulgaria              6-1
+  Hungary v Argentina             0-0
+  England v Bulgaria              0-0
+
+▪ Quarter-final
+  Chile v Soviet Union            2-1
+  Czechoslovakia v Hungary        1-0
+  Yugoslavia v West Germany       1-0
+  Brazil v England                3-1
+
+▪ Semi-final
+  Czechoslovakia v Yugoslavia     3-1
+  Brazil v Chile                  4-2
+
+▪ Match for third place
+  Chile v Yugoslavia              1-0
+
+▪ Final
+  Brazil v Czechoslovakia         3-1

@@ -1,0 +1,62 @@
+= World Cup 1978
+
+# Dates    Thu Jun 1 - Sun Jun 25 1978 (24d)
+# Teams    16
+# Matches  38
+
+
+▪ Group Matches
+▪▪ Group 1
+  Italy v France                  2-1
+  Argentina v Hungary             2-1
+  Italy v Hungary                 3-1
+  Argentina v France              2-1
+  France v Hungary                3-1
+  Italy v Argentina               1-0
+
+▪▪ Group 2
+  West Germany v Poland           0-0
+  Tunisia v Mexico                3-1
+  Poland v Tunisia                1-0
+  West Germany v Mexico           6-0
+  West Germany v Tunisia          0-0
+  Poland v Mexico                 3-1
+
+▪▪ Group 3
+  Sweden v Brazil                 1-1
+  Austria v Spain                 2-1
+  Brazil v Spain                  0-0
+  Austria v Sweden                1-0
+  Brazil v Austria                1-0
+  Spain v Sweden                  1-0
+
+▪▪ Group 4
+  Netherlands v Iran              3-0
+  Peru v Scotland                 3-1
+  Scotland v Iran                 1-1
+  Netherlands v Peru              0-0
+  Scotland v Netherlands          3-2
+  Peru v Iran                     4-1
+
+▪ Second Round
+▪▪ Group A
+  Netherlands v Austria           5-1
+  West Germany v Italy            0-0
+  West Germany v Netherlands      2-2
+  Italy v Austria                 1-0
+  Netherlands v Italy             2-1
+  Austria v West Germany          3-2
+
+▪▪ Group B
+  Brazil v Peru                   3-0
+  Argentina v Poland              2-0
+  Poland v Peru                   1-0
+  Argentina v Brazil              0-0
+  Brazil v Poland                 3-1
+  Argentina v Peru                6-0
+
+▪ Match for third place
+  Brazil v Italy                  2-1
+
+▪ Final
+  Argentina v Netherlands         3-1 a.e.t.

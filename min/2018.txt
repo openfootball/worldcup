@@ -1,0 +1,97 @@
+= World Cup 2018
+
+# Dates    Thu Jun 14 - Sun Jul 15 2018 (31d)
+# Teams    32
+# Matches  64
+
+
+▪ First stage
+▪▪ Group A
+  Russia v Saudi Arabia           5-0
+  Egypt v Uruguay                 0-1
+  Russia v Egypt                  3-1
+  Uruguay v Saudi Arabia          1-0
+  Saudi Arabia v Egypt            2-1
+  Uruguay v Russia                3-0
+
+▪▪ Group B
+  Morocco v Iran                  0-1
+  Portugal v Spain                3-3
+  Portugal v Morocco              1-0
+  Iran v Spain                    0-1
+  Iran v Portugal                 1-1
+  Spain v Morocco                 2-2
+
+▪▪ Group C
+  France v Australia              2-1
+  Peru v Denmark                  0-1
+  Denmark v Australia             1-1
+  France v Peru                   1-0
+  Denmark v France                0-0
+  Australia v Peru                0-2
+
+▪▪ Group D
+  Argentina v Iceland             1-1
+  Croatia v Nigeria               2-0
+  Argentina v Croatia             0-3
+  Nigeria v Iceland               2-0
+  Nigeria v Argentina             1-2
+  Iceland v Croatia               1-2
+
+▪▪ Group E
+  Costa Rica v Serbia             0-1
+  Brazil v Switzerland            1-1
+  Brazil v Costa Rica             2-0
+  Serbia v Switzerland            1-2
+  Switzerland v Costa Rica        2-2
+  Serbia v Brazil                 0-2
+
+▪▪ Group F
+  Germany v Mexico                0-1
+  Sweden v South Korea            1-0
+  South Korea v Mexico            1-2
+  Germany v Sweden                2-1
+  Mexico v Sweden                 0-3
+  South Korea v Germany           2-0
+
+▪▪ Group G
+  Belgium v Panama                3-0
+  Tunisia v England               1-2
+  Belgium v Tunisia               5-2
+  England v Panama                6-1
+  England v Belgium               0-1
+  Panama v Tunisia                1-2
+
+▪▪ Group H
+  Colombia v Japan                1-2
+  Poland v Senegal                1-2
+  Japan v Senegal                 2-2
+  Poland v Colombia               0-3
+  Japan v Poland                  0-1
+  Senegal v Colombia              0-1
+
+▪ Round of 16
+  France v Argentina              4-3
+  Uruguay v Portugal              2-1
+  Spain v Russia                  1-1 a.e.t., 3-4 pen.
+  Croatia v Denmark               1-1 a.e.t., 3-2 pen.
+  Brazil v Mexico                 2-0
+  Belgium v Japan                 3-2
+  Sweden v Switzerland            1-0
+  Colombia v England              1-1 a.e.t., 3-4 pen.
+
+▪ Quarter-final
+  Uruguay v France                0-2
+  Brazil v Belgium                1-2
+  Sweden v England                0-2
+  Russia v Croatia                2-2 a.e.t., 3-4 pen.
+
+▪ Semi-final
+  France v Belgium                1-0
+  Croatia v England               2-1 a.e.t.
+
+▪ Play-off for third place
+  Belgium v England               2-0
+
+▪ Final
+  France v Croatia                4-2

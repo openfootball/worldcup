@@ -1,0 +1,97 @@
+= World Cup 2002
+
+# Dates    Fri May 31 - Sun Jun 30 2002 (30d)
+# Teams    32
+# Matches  64
+
+
+▪ Group Stage
+▪▪ Group A
+  France v Senegal                0-1
+  Uruguay v Denmark               1-2
+  Denmark v Senegal               1-1
+  France v Uruguay                0-0
+  Denmark v France                2-0
+  Senegal v Uruguay               3-3
+
+▪▪ Group B
+  Paraguay v South Africa         2-2
+  Spain v Slovenia                3-1
+  Spain v Paraguay                3-1
+  South Africa v Slovenia         1-0
+  Slovenia v Paraguay             1-3
+  South Africa v Spain            2-3
+
+▪▪ Group C
+  Brazil v Turkey                 2-1
+  China v Costa Rica              0-2
+  Brazil v China                  4-0
+  Costa Rica v Turkey             1-1
+  Costa Rica v Brazil             2-5
+  Turkey v China                  3-0
+
+▪▪ Group D
+  South Korea v Poland            2-0
+  USA v Portugal                  3-2
+  South Korea v USA               1-1
+  Portugal v Poland               4-0
+  Poland v USA                    3-1
+  Portugal v South Korea          0-1
+
+▪▪ Group E
+  Ireland v Cameroon              1-1
+  Germany v Saudi Arabia          8-0
+  Germany v Ireland               1-1
+  Cameroon v Saudi Arabia         1-0
+  Saudi Arabia v Ireland          0-3
+  Cameroon v Germany              0-2
+
+▪▪ Group F
+  Argentina v Nigeria             1-0
+  England v Sweden                1-1
+  Sweden v Nigeria                2-1
+  Argentina v England             0-1
+  Sweden v Argentina              1-1
+  Nigeria v England               0-0
+
+▪▪ Group G
+  Croatia v Mexico                0-1
+  Italy v Ecuador                 2-0
+  Italy v Croatia                 1-2
+  Mexico v Ecuador                2-1
+  Mexico v Italy                  1-1
+  Ecuador v Croatia               1-0
+
+▪▪ Group H
+  Japan v Belgium                 2-2
+  Russia v Tunisia                2-0
+  Japan v Russia                  1-0
+  Tunisia v Belgium               1-1
+  Belgium v Russia                3-2
+  Tunisia v Japan                 0-2
+
+▪ Round of 16
+  Germany v Paraguay              1-0
+  Denmark v England               0-3
+  Sweden v Senegal                1-2 a.e.t.
+  Spain v Ireland                 1-1 a.e.t., 3-2 pen.
+  Mexico v USA                    0-2
+  Brazil v Belgium                2-0
+  Japan v Turkey                  0-1
+  South Korea v Italy             2-1 a.e.t.
+
+▪ Quarter-final
+  England v Brazil                1-2
+  Germany v USA                   1-0
+  Spain v South Korea             0-0 a.e.t., 3-5 pen.
+  Senegal v Turkey                0-1 a.e.t.
+
+▪ Semi-final
+  Germany v South Korea           1-0
+  Brazil v Turkey                 1-0
+
+▪ Match for third place
+  South Korea v Turkey            2-3
+
+▪ Final
+  Germany v Brazil                0-2

@@ -1,0 +1,81 @@
+= World Cup 1990
+
+# Dates    Fri Jun 8 - Sun Jul 8 1990 (30d)
+# Teams    24
+# Matches  52
+
+
+▪ Group Matches
+▪▪ Group A
+  Italy v Austria                 1-0
+  USA v Czechoslovakia            1-5
+  Italy v USA                     1-0
+  Austria v Czechoslovakia        0-1
+  Austria v USA                   2-1
+  Italy v Czechoslovakia          2-0
+
+▪▪ Group B
+  Argentina v Cameroon            0-1
+  Soviet Union v Romania          0-2
+  Argentina v Soviet Union        2-0
+  Cameroon v Romania              2-1
+  Cameroon v Soviet Union         0-4
+  Argentina v Romania             1-1
+
+▪▪ Group C
+  Brazil v Sweden                 2-1
+  Costa Rica v Scotland           1-0
+  Brazil v Costa Rica             1-0
+  Sweden v Scotland               1-2
+  Sweden v Costa Rica             1-2
+  Brazil v Scotland               1-0
+
+▪▪ Group D
+  United Arab Emirates v Colombia  0-2
+  West Germany v Yugoslavia       4-1
+  Yugoslavia v Colombia           1-0
+  West Germany v United Arab Emirates  5-1
+  West Germany v Colombia         1-1
+  Yugoslavia v United Arab Emirates  4-1
+
+▪▪ Group E
+  Belgium v South Korea           2-0
+  Uruguay v Spain                 0-0
+  Belgium v Uruguay               3-1
+  South Korea v Spain             1-3
+  Belgium v Spain                 1-2
+  South Korea v Uruguay           0-1
+
+▪▪ Group F
+  England v Ireland               1-1
+  Netherlands v Egypt             1-1
+  England v Netherlands           0-0
+  Ireland v Egypt                 0-0
+  Ireland v Netherlands           1-1
+  England v Egypt                 1-0
+
+▪ Round of 16
+  Cameroon v Colombia             2-1 a.e.t.
+  Czechoslovakia v Costa Rica     4-1
+  Brazil v Argentina              0-1
+  West Germany v Netherlands      2-1
+  Ireland v Romania               0-0 a.e.t., 5-4 pen.
+  Italy v Uruguay                 2-0
+  Spain v Yugoslavia              1-2 a.e.t.
+  England v Belgium               1-0 a.e.t.
+
+▪ Quarter-final
+  Yugoslavia v Argentina          0-0 a.e.t., 2-3 pen.
+  Italy v Ireland                 1-0
+  West Germany v Czechoslovakia   1-0
+  England v Cameroon              3-2 a.e.t.
+
+▪ Semi-final
+  Italy v Argentina               1-1 a.e.t., 3-4 pen.
+  West Germany v England          1-1 a.e.t., 4-3 pen.
+
+▪ Match for third place
+  Italy v England                 2-1
+
+▪ Final
+  West Germany v Argentina        1-0
