@@ -15,6 +15,24 @@ Group J | Argentina	   Algeria   Austria   Jordan
 Group K | Portugal   DR Congo   Uzbekistan  Colombia
 Group L | England    Croatia     Ghana   Panama	
 
+Stadiums:
+Estadio Azteca, Mexico City
+Estadio Akron, Guadalajara (Zapopan)
+Estadio BBVA, Monterrey (Guadalupe)
+Mercedes-Benz Stadium, Atlanta
+Gillette Stadium, Boston (Foxborough)
+AT&T Stadium, Dallas (Arlington)
+NRG Stadium, Houston
+Arrowhead Stadium, Kansas City
+SoFi Stadium, Los Angeles (Inglewood)
+Hard Rock Stadium, Miami (Miami Gardens)
+MetLife Stadium, New York/New Jersey (East Rutherford)
+Lincoln Financial Field, Philadelphia
+Levi's Stadium, San Francisco Bay Area (Santa Clara)
+Lumen Field, Seattle
+BMO Field, Toronto
+BC Place, Vancouver
+
 
 ▪ Matchday 1 | Thu Jun 11
 ▪ Matchday 2 | Fri Jun 12
