@@ -88,7 +88,7 @@ Sat June 13
   21:00 UTC-4        Haiti 	  v Scotland   @ Boston (Foxborough)
 Fri June 19
   18:00 UTC-4        Scotland  v Morocco    @ Boston (Foxborough)
-  21:00 UTC-4        Brazil    v Haiti      @ Philadelphia
+  20:30 UTC-4        Brazil    v Haiti      @ Philadelphia
 Wed June 24
   18:00 UTC-4         Scotland 	 v Brazil   @ Miami (Miami Gardens)
   18:00 UTC-4         Morocco 	 v Haiti    @ Atlanta
@@ -101,7 +101,7 @@ Sat June 13
   21:00 UTC-7    Australia 	     v Turkey   @ Vancouver
 Fri June 19
   12:00 UTC-7    USA 	    v Australia   @ Seattle
-  21:00 UTC-7    Turkey   v Paraguay   @ San Francisco Bay Area (Santa Clara)
+  20:00 UTC-7    Turkey   v Paraguay   @ San Francisco Bay Area (Santa Clara)
 Thu June 25
   19:00 UTC-7    Turkey        	v USA   @ Los Angeles (Inglewood)
   19:00 UTC-7    Paraguay 	    v Australia     @ San Francisco Bay Area (Santa Clara)
