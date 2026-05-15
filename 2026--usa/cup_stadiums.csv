@@ -1,0 +1,28 @@
+#########
+# Worldcup 2026 Stadiums
+#   16 (host) cities in 3 countries (Mexico/USA/Canada), 16 stadiums
+#
+#   note - wikipedia - link to english wikipedia
+#    e.g.    Estadio_Azteca => https://en.wikipedia.org/wiki/Estadio_Azteca
+##
+##  todo - add region eastern/central/western or such - why? why not?
+###
+
+
+city,                   cc,  name,                  cap,   wikipedia, wikidata,     coords
+Mexico City,            mx,  Estadio Azteca,     83000,    Estadio_Azteca,  Q320454,   19°18'11"N 99°09'02"W
+Guadalajara (Zapopan),  mx,  Estadio Akron,       48000,   Estadio_Akron,  Q666183,   20°40'54"N 103°27'46"W
+Monterrey (Guadalupe),  mx,  Estadio BBVA,        53500,   Estadio_BBVA,  Q3058827,   25°40'9"N 100°14'40"W
+Atlanta,                us,  Mercedes-Benz Stadium, 75000,  Mercedes-Benz_Stadium,  Q7007552,    33°45'20"N 84°24'00"W
+Boston (Foxborough),    us,  Gillette Stadium,     65000,   Gillette_Stadium,  Q373355,   42.091°N 71.264°W
+Dallas (Arlington),     us,  AT&T Stadium,        94000,    AT&T_Stadium,  Q838284,  32°44'52"N 97°5'34"W
+Houston,                us,  NRG Stadium,         72000,   NRG_Stadium,   Q1058864,    29°41'5"N 95°24'39"W
+Kansas City,            us,  Arrowhead Stadium,   73000,    Arrowhead_Stadium, Q544553,  39°2'56"N 94°29'2"W
+Los Angeles (Inglewood),us,  SoFi Stadium,        70000,   SoFi_Stadium,  Q19520501,    33.953°N 118.339°W
+Miami (Miami Gardens),  us,  Hard Rock Stadium,   65000,   Hard_Rock_Stadium, Q864339,  25°57'29"N 80°14'20"W
+New York/New Jersey (East Rutherford), us,  MetLife Stadium,   82500,   MetLife_Stadium,  Q10862290, 40°48'48.7"N 74°4'27.7"W
+Philadelphia,           us,  Lincoln Financial Field,   69000,   Lincoln_Financial_Field,  Q1052370,   39°54'3"N 75°10'3"W
+San Francisco Bay Area (Santa Clara), us,  Levi's Stadium, 71000, Levi's_Stadium, Q7419343,  37.403°N 121.970°W
+Seattle,                us,  Lumen Field,   69000,       Lumen_Field,   Q612736,   47°35'43"N 122°19'54"W
+Toronto,                ca,  BMO Field,   45000,      BMO_Field,   Q796351,   43°38'0"N 79°25'07"W
+Vancouver,              ca,  BC Place,     54000,   BC_Place,    Q612227,  49°16'36"N 123°6'43"W
