@@ -1,72 +1,89 @@
-= World Cup 2026      # in Canada, USA, and Mexico 
+= World Cup 2026      # in Canada, USA, and Mexico
 
 #  104 matches featuring 48 teams played across 16 host cities in three countries
 
 # Stadiums:
-#  Mexico City,              Estadio Azteca 
-#  Guadalajara (Zapopan),    Estadio Akron 
-#  Monterrey (Guadalupe),    Estadio BBVA 
-#  Atlanta,                  Mercedes-Benz Stadium 
-#  Boston (Foxborough),      Gillette Stadium 
-#  Dallas (Arlington),       AT&T Stadium 
-#  Houston,                  NRG Stadium 
-#  Kansas City,              Arrowhead Stadium 
-#  Los Angeles (Inglewood),  SoFi Stadium 
-#  Miami (Miami Gardens),    Hard Rock Stadium 
-#  New York/New Jersey (East Rutherford),  MetLife Stadium 
-#  Philadelphia,             Lincoln Financial Field 
-#  San Francisco Bay Area (Santa Clara),   Levi's Stadium 
-#  Seattle,                 Lumen Field 
-#  Toronto,                 BMO Field  
+#  Mexico City,              Estadio Azteca
+#  Guadalajara (Zapopan),    Estadio Akron
+#  Monterrey (Guadalupe),    Estadio BBVA
+#  Atlanta,                  Mercedes-Benz Stadium
+#  Boston (Foxborough),      Gillette Stadium
+#  Dallas (Arlington),       AT&T Stadium
+#  Houston,                  NRG Stadium
+#  Kansas City,              Arrowhead Stadium
+#  Los Angeles (Inglewood),  SoFi Stadium
+#  Miami (Miami Gardens),    Hard Rock Stadium
+#  New York/New Jersey (East Rutherford),  MetLife Stadium
+#  Philadelphia,             Lincoln Financial Field
+#  San Francisco Bay Area (Santa Clara),   Levi's Stadium
+#  Seattle,                 Lumen Field
+#  Toronto,                 BMO Field
 #  Vancouver,               BC Place
 
 
 
-Group A | Mexico 	      South Africa    South Korea	   Czech Republic
+Group A | Mexico        South Africa    South Korea    Czech Republic
 Group B | Canada      Bosnia & Herzegovina  Qatar    Switzerland
 Group C | Brazil          Morocco      Haiti   Scotland
 Group D | USA   Paraguay     Australia   Turkey
 Group E | Germany         Curaçao      Ivory Coast   Ecuador
-Group F | Netherlands	  Japan        Sweden  Tunisia
+Group F | Netherlands   Japan        Sweden  Tunisia
 Group G | Belgium         Egypt        Iran        New Zealand
 Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
 Group I | France      Senegal   Iraq   Norway
-Group J | Argentina	   Algeria   Austria   Jordan
+Group J | Argentina    Algeria   Austria   Jordan
 Group K | Portugal   DR Congo   Uzbekistan  Colombia
-Group L | England    Croatia     Ghana   Panama	
+Group L | England    Croatia     Ghana   Panama
 
+####
+## trivia
+##  note - official (normalized) fifa country names are:
+##      South Korea    => Korea Republic
+##      Iran           => IR Iran
+##      Cape Verde     => Cabo Verde     [pt]
+##      DR Congo       => Congo DR
+##      Ivory Coast    => Côte d'Ivoire  [fr]
+##      Czech Republic => Czechia
+##      Turkey         => Türkiye        [tr]
+
+
+
+## change to only three matchdays in group stage - why? why not?
+##  ▪ Matchday 1 | Jun 11-17
+##  ▪ Matchday 2 | Jun 18-23
+##  ▪ Matchday 3 | Jun 24-27
 
 
 ▪ Matchday 1 | Thu Jun 11
 ▪ Matchday 2 | Fri Jun 12
 ▪ Matchday 3 | Sat Jun 13
 ▪ Matchday 4 | Sun Jun 14
-▪ Matchday 5 | Mon Jun 15 
-▪ Matchday 6 | Tue Jun 16  
-▪ Matchday 7 | Wed Jun 17 
-▪ Matchday 8 | Thu Jun 18 
-▪ Matchday 9 | Fri Jun 19 
-▪ Matchday 10 | Sat Jun 20 
-▪ Matchday 11 | Sun Jun 21 
-▪ Matchday 12 | Mon Jun 22 
-▪ Matchday 13 | Tue Jun 23 
-▪ Matchday 14 | Wed Jun 24 
-▪ Matchday 15 | Thu Jun 25 
-▪ Matchday 16 | Fri Jun 26 
-▪ Matchday 17 | Sat Jun 27 
+▪ Matchday 5 | Mon Jun 15
+▪ Matchday 6 | Tue Jun 16
+▪ Matchday 7 | Wed Jun 17
+▪ Matchday 8 | Thu Jun 18
+▪ Matchday 9 | Fri Jun 19
+▪ Matchday 10 | Sat Jun 20
+▪ Matchday 11 | Sun Jun 21
+▪ Matchday 12 | Mon Jun 22
+▪ Matchday 13 | Tue Jun 23
+▪ Matchday 14 | Wed Jun 24
+▪ Matchday 15 | Thu Jun 25
+▪ Matchday 16 | Fri Jun 26
+▪ Matchday 17 | Sat Jun 27
 
 
 
 ▪ Group A
-Thu June 11 
+Thu June 11
   13:00 UTC-6     Mexico       v South Africa        @ Mexico City
   20:00 UTC-6     South Korea  v Czech Republic     @ Guadalajara (Zapopan)
 Thu June 18
   12:00 UTC-4     Czech Republic    v South Africa   @ Atlanta
-  19:00 UTC-6     Mexico 	          v South Korea    @ Guadalajara (Zapopan)
+  19:00 UTC-6     Mexico            v South Korea    @ Guadalajara (Zapopan)
 Wed June 24
-  19:00 UTC-6     Czech Republic      	v Mexico       @ Mexico City
-  19:00 UTC-6     South Africa 	        v South Korea  @ Monterrey (Guadalupe)
+  19:00 UTC-6     Czech Republic       v Mexico       @ Mexico City
+  19:00 UTC-6     South Africa          v South Korea  @ Monterrey (Guadalupe)
 
 
 ▪ Group B
@@ -76,131 +93,128 @@ Sat June 13
   12:00 UTC-7     Qatar    v Switzerland        @ San Francisco Bay Area (Santa Clara)
 Thu June 18
   12:00 UTC-7     Switzerland  v Bosnia & Herzegovina   @ Los Angeles (Inglewood)
-  15:00 UTC-7     Canada 	     v Qatar                @ Vancouver
+  15:00 UTC-7     Canada       v Qatar                @ Vancouver
 Wed June 24
-  12:00 UTC-7     Switzerland  	        v Canada    @ Vancouver
-  12:00 UTC-7     Bosnia & Herzegovina 	v Qatar     @ Seattle
+  12:00 UTC-7     Switzerland           v Canada    @ Vancouver
+  12:00 UTC-7     Bosnia & Herzegovina  v Qatar     @ Seattle
 
 
 ▪ Group C
 Sat June 13
   18:00 UTC-4        Brazil   v Morocco    @ New York/New Jersey (East Rutherford)
-  21:00 UTC-4        Haiti 	  v Scotland   @ Boston (Foxborough)
+  21:00 UTC-4        Haiti    v Scotland   @ Boston (Foxborough)
 Fri June 19
   18:00 UTC-4        Scotland  v Morocco    @ Boston (Foxborough)
   20:30 UTC-4        Brazil    v Haiti      @ Philadelphia
 Wed June 24
-  18:00 UTC-4         Scotland 	 v Brazil   @ Miami (Miami Gardens)
-  18:00 UTC-4         Morocco 	 v Haiti    @ Atlanta
+  18:00 UTC-4         Scotland   v Brazil   @ Miami (Miami Gardens)
+  18:00 UTC-4         Morocco   v Haiti    @ Atlanta
 
 
 ▪ Group D
 Fri June 12
   18:00 UTC-7    USA   v Paraguay    @ Los Angeles (Inglewood)
 Sat June 13
-  21:00 UTC-7    Australia 	     v Turkey   @ Vancouver
+  21:00 UTC-7    Australia       v Turkey   @ Vancouver
 Fri June 19
-  12:00 UTC-7    USA 	    v Australia   @ Seattle
+  12:00 UTC-7    USA      v Australia   @ Seattle
   20:00 UTC-7    Turkey   v Paraguay   @ San Francisco Bay Area (Santa Clara)
 Thu June 25
-  19:00 UTC-7    Turkey        	v USA   @ Los Angeles (Inglewood)
-  19:00 UTC-7    Paraguay 	    v Australia     @ San Francisco Bay Area (Santa Clara)
+  19:00 UTC-7    Turkey         v USA   @ Los Angeles (Inglewood)
+  19:00 UTC-7    Paraguay      v Australia     @ San Francisco Bay Area (Santa Clara)
 
 
 ▪ Group E
 Sun June 14
-  12:00 UTC-5    Germany 	v Curaçao         @ Houston
-  19:00 UTC-4    Ivory Coast 	v Ecuador     @ Philadelphia
+  12:00 UTC-5    Germany  v Curaçao         @ Houston
+  19:00 UTC-4    Ivory Coast  v Ecuador     @ Philadelphia
 Sat June 20
-  16:00 UTC-4    Germany 	v Ivory Coast    @ Toronto
-  19:00 UTC-5    Ecuador 	v Curaçao        @ Kansas City
+  16:00 UTC-4    Germany  v Ivory Coast    @ Toronto
+  19:00 UTC-5    Ecuador  v Curaçao        @ Kansas City
 Thu June 25
-  16:00 UTC-4    Curaçao 	v Ivory Coast     @ Philadelphia
-  16:00 UTC-4    Ecuador 	v Germany         @ New York/New Jersey (East Rutherford)
+  16:00 UTC-4    Curaçao  v Ivory Coast     @ Philadelphia
+  16:00 UTC-4    Ecuador  v Germany         @ New York/New Jersey (East Rutherford)
 
 
 ▪ Group F
 Sun June 14
-  15:00 UTC-5    Netherlands 	v Japan          @ Dallas (Arlington)
+  15:00 UTC-5    Netherlands  v Japan          @ Dallas (Arlington)
   20:00 UTC-6    Sweden       v Tunisia  @ Monterrey (Guadalupe)
 Sat June 20
-  12:00 UTC-5    Netherlands 	v Sweden         @ Houston
-  22:00 UTC-6    Tunisia 	    v Japan              @ Monterrey (Guadalupe)
+  12:00 UTC-5    Netherlands  v Sweden         @ Houston
+  22:00 UTC-6    Tunisia      v Japan              @ Monterrey (Guadalupe)
 Thu June 25
-  18:00 UTC-5    Japan 	      v Sweden             @ Dallas (Arlington)
-  18:00 UTC-5   Tunisia 	    v Netherlands         @ Kansas City
+  18:00 UTC-5    Japan        v Sweden             @ Dallas (Arlington)
+  18:00 UTC-5   Tunisia      v Netherlands         @ Kansas City
 
 
 ▪ Group G
 Mon June 15
-  12:00 UTC-7    Belgium 	v Egypt        @ Seattle
+  12:00 UTC-7    Belgium  v Egypt        @ Seattle
   18:00 UTC-7    Iran       v New Zealand  @ Los Angeles (Inglewood)
 Sun June 21
-  12:00 UTC-7    Belgium 	    v Iran    @ Los Angeles (Inglewood)
-  18:00 UTC-7    New Zealand 	v Egypt   @ Vancouver
+  12:00 UTC-7    Belgium      v Iran    @ Los Angeles (Inglewood)
+  18:00 UTC-7    New Zealand  v Egypt   @ Vancouver
 Fri June 26
-  20:00 UTC-7    Egypt 	       v Iran      @ Seattle
+  20:00 UTC-7    Egypt         v Iran      @ Seattle
   20:00 UTC-7    New Zealand   v Belgium   @ Vancouver
 
 
 ▪ Group H
 Mon June 15
-  12:00 UTC-4   Spain 	v Cape Verde   @ Atlanta
+  12:00 UTC-4   Spain  v Cape Verde   @ Atlanta
   18:00 UTC-4   Saudi Arabia   v Uruguay  @ Miami (Miami Gardens)
 Sun June 21
   12:00 UTC-4    Spain   v Saudi Arabia   @ Atlanta
   18:00 UTC-4    Uruguay v Cape Verde     @ Miami (Miami Gardens)
 Fri June 26
-  19:00 UTC-5    Cape Verde 	v Saudi Arabia   @ Houston
-  18:00 UTC-6    Uruguay 	    v Spain          @ Guadalajara (Zapopan)
+  19:00 UTC-5    Cape Verde  v Saudi Arabia   @ Houston
+  18:00 UTC-6    Uruguay      v Spain          @ Guadalajara (Zapopan)
 
 
 ▪ Group I
 Tue June 16
-  15:00 UTC-4    France 	v Senegal    @ New York/New Jersey (East Rutherford)
-  18:00 UTC-4    Iraq    	v Norway  @ Boston (Foxborough)
+  15:00 UTC-4    France  v Senegal    @ New York/New Jersey (East Rutherford)
+  18:00 UTC-4    Iraq     v Norway  @ Boston (Foxborough)
 Mon June 22
-  17:00 UTC-4    France 	v Iraq      @ Philadelphia
-  20:00 UTC-4    Norway 	v Senegal    @ New York/New Jersey (East Rutherford)
+  17:00 UTC-4    France  v Iraq      @ Philadelphia
+  20:00 UTC-4    Norway  v Senegal    @ New York/New Jersey (East Rutherford)
 Fri June 26
-  15:00 UTC-4     Norway 	v France         @ Boston (Foxborough)
-  15:00 UTC-4    Senegal 	v Iraq           @ Toronto
+  15:00 UTC-4     Norway  v France         @ Boston (Foxborough)
+  15:00 UTC-4    Senegal  v Iraq           @ Toronto
 
 
 ▪ Group J
 Tue June 16
-  20:00 UTC-5    Argentina 	v Algeria   @ Kansas City
-  21:00 UTC-7    Austria 	v Jordan    @ San Francisco Bay Area (Santa Clara)
+  20:00 UTC-5    Argentina  v Algeria   @ Kansas City
+  21:00 UTC-7    Austria  v Jordan    @ San Francisco Bay Area (Santa Clara)
 Mon June 22
-  12:00 UTC-5    Argentina 	v Austria   @ Dallas (Arlington)
-  20:00 UTC-7    Jordan 	v Algeria   @ San Francisco Bay Area (Santa Clara)
+  12:00 UTC-5    Argentina  v Austria   @ Dallas (Arlington)
+  20:00 UTC-7    Jordan  v Algeria   @ San Francisco Bay Area (Santa Clara)
 Sat June 27
-  21:00 UTC-5    Algeria 	v Austria   @ Kansas City
-  21:00 UTC-5    Jordan 	v Argentina @ Dallas (Arlington)
+  21:00 UTC-5    Algeria  v Austria   @ Kansas City
+  21:00 UTC-5    Jordan  v Argentina @ Dallas (Arlington)
 
 
 ▪ Group K
 Wed June 17
-  12:00 UTC-5    Portugal 	 v DR Congo   @ Houston
+  12:00 UTC-5    Portugal   v DR Congo   @ Houston
   20:00 UTC-6    Uzbekistan  v Colombia           @ Mexico City
 Tue June 23
-  12:00 UTC-5    Portugal 	 v Uzbekistan        @ Houston
-  20:00 UTC-6    Colombia 	 v DR Congo          @ Guadalajara (Zapopan)
+  12:00 UTC-5    Portugal   v Uzbekistan        @ Houston
+  20:00 UTC-6    Colombia   v DR Congo          @ Guadalajara (Zapopan)
 Sat June 27
-  19:30 UTC-4   Colombia 	 v Portugal            @ Miami (Miami Gardens)
+  19:30 UTC-4   Colombia   v Portugal            @ Miami (Miami Gardens)
   19:30 UTC-4   DR Congo   v Uzbekistan   @ Atlanta
 
 
 ▪ Group L
 Wed June 17
-  15:00 UTC-5   England 	v Croatia    @ Dallas (Arlington)
-  19:00 UTC-4   Ghana 	  v Panama     @ Toronto
+  15:00 UTC-5   England  v Croatia    @ Dallas (Arlington)
+  19:00 UTC-4   Ghana    v Panama     @ Toronto
 Tue June 23
-  16:00 UTC-4   England 	v Ghana     @ Boston (Foxborough)
-  19:00 UTC-4   Panama 	  v Croatia   @ Toronto
+  16:00 UTC-4   England  v Ghana     @ Boston (Foxborough)
+  19:00 UTC-4   Panama    v Croatia   @ Toronto
 Sat June 27
-  17:00 UTC-4    Panama 	v England   @ New York/New Jersey (East Rutherford)
-  17:00 UTC-4    Croatia 	v Ghana     @ Philadelphia
-
-
-
+  17:00 UTC-4    Panama  v England   @ New York/New Jersey (East Rutherford)
+  17:00 UTC-4    Croatia  v Ghana     @ Philadelphia

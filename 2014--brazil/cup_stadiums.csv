@@ -1,0 +1,19 @@
+###
+# worldcup 2014 stadiums
+
+
+city, tz, name, cap, wikipedia, coords
+
+Rio de Janeiro,  UTC-3, Estádio do Maracanã,   74738,  Maracanã_Stadium,  22°54'44"S 43°13'49"W
+Brasília,        UTC-3, Estádio Nacional,      69432,  Estádio_Nacional_Mané_Garrincha,  15°47'0.60"S 47°53'56.99"W
+São Paulo,       UTC-3, Arena Corinthians (Arena de São Paulo),   63321,  Arena_Corinthians, 23°32'42.9"S 46°28'27.4"W
+Fortaleza,       UTC-3, Estádio Castelão,                         60348,  Castelão_(Ceará),  3°48'26"S 38°31'21"W
+Belo Horizonte,  UTC-3, Estádio Mineirão,     58259,  Mineirão,  19°51'57"S 43°58'15"W
+Salvador,        UTC-3, Arena Fonte Nova,  51708, Arena_Fonte_Nova, 12°58'43"S 38°30'15"W
+Porto Alegre,    UTC-3, Estádio Beira-Rio,  43394,  Estádio_Beira-Rio, 30°3'56.21"S 51°14'9.91"W
+Recife,          UTC-3, Arena Pernambuco,  42583,  Arena_Pernambuco,  08°02'26"S 35°00'30"W
+Natal,           UTC-3, Arena das Dunas,   39971,  Arena_das_Dunas,   5.826936°S 35.212371°W
+Curitiba,        UTC-3, Arena da Baixada,  39631,  Arena_da_Baixada,  25°26'54"S 49°16'37"W
+
+Cuiabá,          UTC-4, Arena Pantanal,    41112,  Arena_Pantanal,
+Manaus,          UTC-4, Arena da Amazônia, 40549,  Arena_da_Amazônia,  3°4'59"S 60°1'41"W

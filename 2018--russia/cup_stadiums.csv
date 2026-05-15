@@ -1,0 +1,19 @@
+###
+# worldcup stadiums 2018
+
+city, tz, name, cap, wikipedia, coords
+
+Kaliningrad,       UTC+2, Kaliningrad Stadium,               33973,  Kaliningrad_Stadium,   54°41'53"N 20°32'02"E
+
+Moscow (1),        UTC+3, Luzhniki Stadium,                  78011, Luzhniki_Stadium, 55°42'57"N 37°33'13"E
+Moscow (2),        UTC+3, Otkritie Arena (Spartak Stadium),  44190, Lukoil_Arena,     55°49'4.3"N 37°26'24.9"E
+Saint Petersburg,  UTC+3, Krestovsky Stadium (Saint Petersburg Stadium),  64468, Krestovsky_Stadium, 59°58'23"N 30°13'14"E
+Sochi,             UTC+3, Fisht Olympic Stadium (Fisht Stadium), 44287, Fisht_Olympic_Stadium, 43°24'08"N 39°57'22"E
+Volgograd,         UTC+3, Volgograd Arena,                   43713, Volgograd_Arena,    48°44'04"N 44°32'55"E
+Rostov-on-Don,     UTC+3, Rostov Arena,                      43472, Rostov_Arena,      47°12'34"N 39°44'16"E
+Nizhny Novgorod,   UTC+3, Nizhny Novgorod Stadium,           43319, Nizhny_Novgorod_Stadium, 56°20'15"N 43°57'48"E
+Kazan,            UTC+3, Kazan Arena,                       42873, Ak_Bars_Arena,          55°49'16"N 49°09'39"E
+Saransk,          UTC+3, Mordovia Arena,                    41685,  Mordovia_Arena,       54°10'58"N 45°12'05"E
+
+Samara,           UTC+4, Samara Arena,                      41970, Solidarnost_Samara_Arena, 53°16'40"N 50°14'14"E
+Yekaterinburg,     UTC+5, Central Stadium (Ekaterinburg Arena),  33061,  Central_Stadium_(Yekaterinburg), 56°49'57"N 60°34'25"E

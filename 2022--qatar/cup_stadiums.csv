@@ -1,0 +1,12 @@
+#################
+# worldcup 2022 stadiums
+
+city,           tz, name,                   cap,  wikipedia,    coords
+Al Khor,        UTC+3, Al Bayt Stadium,        68895,  Al_Bayt_Stadium, 25°39'08"N 51°29'16"E
+Lusail,         UTC+3, Lusail Stadium,         88966,  Lusail_Stadium,  25°25'15.1"N 51°29'25.4"E
+Al Rayyan (1),  UTC+3, Ahmad bin Ali Stadium,  45032,  Ahmad_bin_Ali_Stadium,  25°19'47"N 51°20'32"E
+Al Rayyan (2),  UTC+3, Education City Stadium, 44667,  Education_City_Stadium,  25°18'39"N 51°25'28"E
+Al Rayyan (3),  UTC+3, Khalifa International Stadium, 45857, Khalifa_International_Stadium,  25°15'49"N 51°26'53"E
+Doha (1),       UTC+3, Al Thumama Stadium,     44400,  Al_Thumama_Stadium,   25°14'07"N 51°31'56"E
+Doha (2),       UTC+3, Stadium 974,            44089,  Stadium_974,    25°17'24"N 51°33'54"E
+Al Wakrah,      UTC+3, Al Janoub Stadium,      44325,  Al_Janoub_Stadium,  25°09'35.2"N 51°34'26.7"E
