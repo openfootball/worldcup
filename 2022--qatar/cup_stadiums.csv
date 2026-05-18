@@ -1,7 +1,7 @@
 #################
 # worldcup 2022 stadiums
 
-city,           tz, name,                   cap,  wikipedia,    coords
+city,           timezone, name,                   capacity,  wikipedia,    coords
 Al Khor,        UTC+3, Al Bayt Stadium,        68895,  Al_Bayt_Stadium, 25°39'08"N 51°29'16"E
 Lusail,         UTC+3, Lusail Stadium,         88966,  Lusail_Stadium,  25°25'15.1"N 51°29'25.4"E
 Al Rayyan (1),  UTC+3, Ahmad bin Ali Stadium,  45032,  Ahmad_bin_Ali_Stadium,  25°19'47"N 51°20'32"E

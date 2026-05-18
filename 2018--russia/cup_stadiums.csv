@@ -1,7 +1,7 @@
 ###
 # worldcup stadiums 2018
 
-city, tz, name, cap, wikipedia, coords
+city, timezone, name, capacity, wikipedia, coords
 
 Kaliningrad,       UTC+2, Kaliningrad Stadium,               33973,  Kaliningrad_Stadium,   54°41'53"N 20°32'02"E
 

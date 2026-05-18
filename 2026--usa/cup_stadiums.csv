@@ -14,7 +14,7 @@
 #  change city to location or geo tree, that is, incl. state/province - why? why not?
 
 
-city,                  tz,    cc,  name,                  cap,   wikipedia, wikidata,     coords
+city,                  timezone,    cc,  name,                  capacity,   wikipedia, wikidata,     coords
 
 ##  Western Region
 Vancouver,             UTC-7, ca,  BC Place,     54000,   BC_Place,    Q612227,  49°16'36"N 123°6'43"W
