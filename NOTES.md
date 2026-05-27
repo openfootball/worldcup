@@ -62,8 +62,8 @@ Quarter-finals replays
 
 Official site - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
-- 32 teams (48 in 2026 USA/Canada/Mexico)
-- 64 matches (104 in 2026 USA/Canada/Mexico)
+- 32 teams (48 in 2026 @ Canada, USA, and Mexico)
+- 64 matches (104 in 2026 @ Canada, USA, and Mexico)
 - every four years
 
 
@@ -79,12 +79,14 @@ World Cup 2010 South Africa
 
 ### Wikipedia
 
+- [2022 FIFA World Cup](https://en.wikipedia.org/wiki/2022_FIFA_World_Cup)
 - [2018 FIFA World Cup](http://en.wikipedia.org/wiki/2018_FIFA_World_Cup)
 - [2014 FIFA World Cup](http://en.wikipedia.org/wiki/2014_FIFA_World_Cup)
 - [2010 FIFA World Cup](http://en.wikipedia.org/wiki/2010_FIFA_World_Cup)
 
 ### Wikipedia (de)
 
+- [Fußball-Weltmeisterschaft 2022 (de)](https://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2022)
 - [Fußball-Weltmeisterschaft 2018 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2018)
 - [Fußball-Weltmeisterschaft 2014 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2014)
 - [Fußball-Weltmeisterschaft 2010 (de)](http://de.wikipedia.org/wiki/Fußball-Weltmeisterschaft_2010)
