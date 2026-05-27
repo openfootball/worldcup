@@ -62,9 +62,9 @@ Quarter-finals replays
 
 Official site - [`www.fifa.com/worldcup`](http://www.fifa.com/worldcup)
 
-- 32 teams
-- 64 matches
-- every four years (next in 2014 in Brazil and 2018 in Russia)
+- 32 teams (48 in 2026 USA/Canada/Mexico)
+- 64 matches (104 in 2026 USA/Canada/Mexico)
+- every four years
 
 
 World Cup 2014 Brazil
