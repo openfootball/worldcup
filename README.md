@@ -177,8 +177,11 @@ Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'),
 
 
 
-## Build Your Own `worldcup.db` Copy
+## Build Your Own `worldcup.db` Database or `worldcup.json/.csv` Datasets
 
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+<!--
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
 from the datasets in (structured) text in the Football.TXT format.
 
@@ -212,6 +215,10 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
+-->
+
+
+
 
 
 
@@ -219,7 +226,6 @@ That's it.
 
 NOTE - For an alternative world cup dataset using the Football.TXT format that incl. lineups, subs, sent offs, and more, 
 see [openfootball/worldcup.more](https://github.com/openfootball/worldcup.more).
-
 
 
 ## Questions? Comments?
