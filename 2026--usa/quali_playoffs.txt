@@ -7,14 +7,14 @@
 ## see
 ##   https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_–_UEFA_second_round
 ##
-##  Times are CET/CEST, as listed by UEFA (local times, if different, are in parentheses). 
+##  Times are CET/CEST, as listed by UEFA (local times, if different, are in parentheses).
 ##     CET = Central European Time (UTC+01:00)
 ##     CEST = Central European Summer Time (UTC+02:00)
 ##   In the night from Sat 28/3 to Sun 29/3/26,
-##    the clocks are changed again from CET to CEST. 
-##    The time change happens at 2:00 on Sun 29/3/26. 
+##    the clocks are changed again from CET to CEST.
+##    The time change happens at 2:00 on Sun 29/3/26.
 
-▪▪ Path A 
+▪▪ Path A
 ▪▪▪ Semi-finals
 
 Th 26/3/26 20:45 CET                Italy  2-0  Northern Ireland     @ Bergamo
@@ -24,7 +24,7 @@ Th 26/3/26 20:45 CET (19:45 UTC±0)  Wales  1-1 a.e.t, 2-4 pen.  Bosnia & Herzeg
                                       (D. James 51'; Džeko 86')
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST     Bosnia & Herzegovina	1-1 a.e.t., 4-1 pen.  Italy   @ Zenica
+Tu 31/3/26 20:45 CEST     Bosnia & Herzegovina  1-1 a.e.t., 4-1 pen.  Italy   @ Zenica
                                  (Tabaković 79'; Kean 15')
 
 ▪▪ Path B
@@ -36,7 +36,7 @@ Th 26/3/26 20:45 CET      Poland  2-1  Albania   @ Warsaw
                               (Lewandowski 63' Zieliński 73'; Hoxha 42')
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST   Sweden  3-2	 Poland   @ Solna
+Tu 31/3/26 20:45 CEST   Sweden  3-2   Poland   @ Solna
                             (Elanga 20' Lagerbielke 44' Gyökeres 88';
                              Zalewski 33' Świderski 55')
 
@@ -62,7 +62,7 @@ Th 26/3/26 20:45 CET    Czech Republic  2-2 a.e.t., 4-3 pen.  Republic of Irelan
                             Parrott 19' (pen.) Kovář 23' (og))
 
 ▪▪▪ Final
-Tu 31/3/26 20:45 CEST     Czech Republic  2-2 a.e.t., 3-1 pen.  Denmark   @ Prague 
+Tu 31/3/26 20:45 CEST     Czech Republic  2-2 a.e.t., 3-1 pen.  Denmark   @ Prague
                               (Šulc 3' Krejčí 100';
                                Andersen 72' Høgh 111')
 
@@ -72,18 +72,18 @@ Tu 31/3/26 20:45 CEST     Czech Republic  2-2 a.e.t., 3-1 pen.  Denmark   @ Prag
 ## see
 ##  https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(inter-confederation_play-offs)
 ##
-##  All times are local, CST (UTC−6).
+##  All times are local, CST (UTC-6).
 ##     CST = Central Standard Time  (Central Time Zone)
 ##      see https://en.wikipedia.org/wiki/Central_Time_Zone
 ##
 ##  The winner of Pathway 1 will enter Group K in the final tournament.
 ##  The winner of Pathway 2 will enter Group I in the final tournament.
- 
+
 
 ▪ Inter-confederation Play-offs
 
 ▪▪ Pathway 1, Semi-final
-Th 26/3/26 20:00 UTC−6   New Caledonia  0-1  Jamaica  @ Guadalajara (Zapopan) 
+Th 26/3/26 20:00 UTC-6   New Caledonia  0-1  Jamaica  @ Guadalajara (Zapopan)
                                   (Cadamarteri 18')
 ▪▪ Pathway 1, Final
 Tu 31/3/26 15:00 UTC-6   DR Congo  1-0 a.e.t.   Jamaica   @ Guadalajara (Zapopan)
