@@ -3,6 +3,12 @@
 
 *.db
 
+###
+#  exclude log or generated stuff
+build.log
+_site/
+*.json
+
 
 ##
 #  exclude for testing   sandbox/ and tmp/
@@ -16,7 +22,3 @@ tmp/
 
 *.v2.txt
 *.v26*.txt
-
-
-
-

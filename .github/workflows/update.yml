@@ -1,0 +1,81 @@
+
+name:  worldcup.json datasets (Read in Football.TXT & Generate JSON)
+
+
+on:
+  push:
+    paths:
+      - '2026--usa/cup.txt'
+      - '2026--usa/cup_finals.txt'
+#  schedule:
+    # note: * is a special character in YAML so you have to quote this string
+    #  see cron guru for more examples / help on syntax
+    #    ->  https://crontab.guru/examples.html
+    # - cron:  '0 22 1,15 * *'       #  every 1 & 15 of the month at 22:00 (utc?)
+    #  note: change to weekly every thursday
+#    - cron:  '0 22 * * THU'       #  every thursday at 22:00 (utc?)
+  workflow_dispatch:
+    ### for testing / debugging allow "manual" start
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
+      BUNDLE_GEMFILE: ${{ github.workspace }}/.github/workflows/Gemfile
+
+##
+## plus try with
+##  bundle lock --add-platform PLATFORM
+##   to pre-generate lock file
+##  platform for ubuntu-latest is:  x86_64-linux
+##   try
+##   $ bundle lock --add-platform=x86_64-linux --gemfile=.github/workflows/Gemfile
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v4
+
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'  # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+        bundler-cache: true  # runs 'bundle install' and caches installed gems automatically
+
+
+    - name: try misc debug stuff
+      run: |
+          echo ${{ github.workspace }}
+          echo $GITHUB_WORKSPACE
+          gem list
+          gem env
+          echo 'loadpath setup v1:'
+          ruby -e 'pp $:'
+          echo 'loadpath setup v2:'
+          ruby -r 'bundler/setup' -e 'pp $:'
+          echo 'loadpath setup v3:'
+          bundle exec ruby -e 'pp $:'
+          echo $BUNDLE_GEMFILE
+  #=> /home/runner/work/copa-america/copa-america
+  #=> /home/runner/work/copa-america/copa-america
+
+
+    - name: run install / add user
+      env:
+        SSH_KEY: ${{ secrets.SSH_KEY }}
+      run: |
+        bundle exec yo -f .github/workflows/Flowfile.rb adduser
+
+    - name: Run ssh_clone
+      run:  bundle exec yo -f .github/workflows/Flowfile.rb clone
+
+    - name: gen json
+      run:  bundle exec ruby .github/workflows/genjson.rb
+      #   add -r 'bundler/setup' - why? why not?
+
+    - name: Run ssh_push
+      run:  bundle exec yo -f .github/workflows/Flowfile.rb push
