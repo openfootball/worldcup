@@ -77,8 +77,10 @@ Group L | England    Croatia     Ghana   Panama
 ▪ Group A
 Thu June 11
   13:00 UTC-6     Mexico  2-0 (1-0)  South Africa        @ Mexico City
-               (Julian Quinones 9' Raul Jimenez 67')
-  20:00 UTC-6     South Korea  v Czech Republic     @ Guadalajara (Zapopan)
+               (Julián Quiñones 9' Raúl Jiménez 67')
+  20:00 UTC-6     South Korea  2-1 (0-0)  Czech Republic     @ Guadalajara (Zapopan)
+                (Hwang In-Beom 67' Oh Hyeon-Gyu 80';
+                  Ladislav Krejcí 59')
 Thu June 18
   12:00 UTC-4     Czech Republic    v South Africa   @ Atlanta
   19:00 UTC-6     Mexico            v South Korea    @ Guadalajara (Zapopan)
