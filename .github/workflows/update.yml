@@ -3,10 +3,10 @@ name:  worldcup.json datasets (Read in Football.TXT & Generate JSON)
 
 
 on:
-  push:
-    paths:
-      - '2026--usa/cup.txt'
-      - '2026--usa/cup_finals.txt'
+#  push:
+#    paths:
+#      - '2026--usa/cup.txt'
+#      - '2026--usa/cup_finals.txt'
 #  schedule:
     # note: * is a special character in YAML so you have to quote this string
     #  see cron guru for more examples / help on syntax
