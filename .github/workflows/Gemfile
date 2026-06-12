@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "yorobot"
+gem "yorobot",   "2026.6.14"
 
 gem "sportdb-parser"
 gem "sportdb-quick"
