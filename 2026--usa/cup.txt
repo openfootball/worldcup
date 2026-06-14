@@ -92,12 +92,10 @@ Wed June 24
 ▪ Group B
 Fri June 12
   15:00 UTC-4     Canada   1-1 (0-1) Bosnia & Herzegovina    @ Toronto
-                    (Cyle Larin 78';
-                       Jovo Lukić 21')
+                    (Cyle Larin 78'; Jovo Lukić 21')
 Sat June 13
   12:00 UTC-7     Qatar    1-1 (0-1) Switzerland        @ San Francisco Bay Area (Santa Clara)
-                    (Boualem Khoukhi 90+4';
-                       Breel Embolo 17' (pen.))
+                    (Boualem Khoukhi 90+4'; Breel Embolo 17'(p))
 Thu June 18
   12:00 UTC-7     Switzerland  v Bosnia & Herzegovina   @ Los Angeles (Inglewood)
   15:00 UTC-7     Canada       v Qatar                @ Vancouver
@@ -109,8 +107,7 @@ Wed June 24
 ▪ Group C
 Sat June 13
   18:00 UTC-4        Brazil   1-1 (1-1) Morocco    @ New York/New Jersey (East Rutherford)
-                    (Vinícius Júnior 32';
-                       Ismael Saibari 21')
+                    (Vinícius Júnior 32'; Ismael Saibari 21')
   21:00 UTC-4        Haiti    0-1 (0-1) Scotland   @ Boston (Foxborough)
                     (John McGinn 28')
 Fri June 19
@@ -124,7 +121,7 @@ Wed June 24
 ▪ Group D
 Fri June 12
   18:00 UTC-7    USA  4-1 (3-0)  Paraguay    @ Los Angeles (Inglewood)
-               (Damian Bobadilla 7'(OG) Folarin Balogun 31', 45+5' Giovanni Reyna 90+8' ;
+               (Damian Bobadilla 7'(og) Folarin Balogun 31', 45+5' Giovanni Reyna 90+8';
                  Mauricio 73' )
 Sat June 13
   21:00 UTC-7    Australia       2-0 (1-0) Turkey   @ Vancouver
@@ -140,8 +137,9 @@ Thu June 25
 ▪ Group E
 Sun June 14
   12:00 UTC-5    Germany 7-1 (3-1) Curaçao         @ Houston
-		 (Felix Nmecha 6' Nico Schlotterbeck 38' Kai Havertz 45+5' (pen.) Jamal Musiala 47' Nathaniel Brown 68' Deniz Undav 78' Kai Havertz 88'; 
-                 Livano Comenencia 21') 
+		 (Felix Nmecha 6' Nico Schlotterbeck 38' Kai Havertz 45+5'(p), 88' Jamal Musiala 47' 
+           Nathaniel Brown 68' Deniz Undav 78'; 
+            Livano Comenencia 21') 
   19:00 UTC-4    Ivory Coast  v Ecuador     @ Philadelphia
 Sat June 20
   16:00 UTC-4    Germany  v Ivory Coast    @ Toronto
