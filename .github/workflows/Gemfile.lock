@@ -1,0 +1,53 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cocos (0.4.1)
+      csvreader (>= 1.2.5)
+      iniparser (>= 1.0.1)
+      tabreader (>= 1.0.1)
+      webclient (>= 0.2.2)
+    csvjson (1.0.1)
+    csvreader (1.2.5)
+      csvjson (>= 1.0.0)
+      csvyaml (>= 0.1.0)
+      tabreader (>= 1.0.1)
+    csvyaml (1.0.0)
+    flow-lite (1.1.0)
+    gitti (0.6.1)
+      shell-lite (>= 0.0.1)
+    gitti-backup (0.4.1)
+      gitti (>= 0.3.0)
+    iniparser (1.0.1)
+    logutils (0.6.1)
+    monofile (0.2.4)
+    monos (1.1.1)
+      gitti (>= 0.6.1)
+      gitti-backup (>= 0.4.1)
+      monofile (>= 0.2.2)
+    season-formats (0.1.0)
+    shell-lite (0.0.1)
+    sportdb-parser (0.7.2)
+      cocos (>= 0.4.1)
+    sportdb-quick (0.7.0)
+      logutils (>= 0.6.1)
+      season-formats (>= 0.1.0)
+      sportdb-parser (>= 0.7.0)
+    tabreader (1.0.1)
+    webclient (0.2.2)
+    yorobot (2026.6.14)
+      flow-lite (>= 1.1.0)
+      gitti (>= 0.6.1)
+      monos (>= 1.1.1)
+
+PLATFORMS
+  ruby
+  x64-mingw-ucrt
+  x86_64-linux
+
+DEPENDENCIES
+  sportdb-parser
+  sportdb-quick
+  yorobot (= 2026.6.14)
+
+BUNDLED WITH
+   2.5.22

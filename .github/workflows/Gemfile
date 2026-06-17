@@ -1,3 +1,12 @@
+##
+##  tip for github actions
+##
+##   $ bundle install    -- generates Gemfile.lock BUT incl. only local platform
+##                                          (e.g. x64-mingw-ucrt)
+##  add github actions linux platform and "generic" ruby
+##    $ bundle lock --add-platform ruby
+##    $ bundle lock --add-platform x86_64-linux
+
 source "https://rubygems.org"
 
 gem "yorobot",   "2026.6.14"
