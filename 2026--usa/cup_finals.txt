@@ -13,16 +13,16 @@
 Sun Jun 28 
   (73) 12:00 UTC-7  2A v 2B           @ Los Angeles (Inglewood)
 Mon Jun 29
-  (74) 16:30 UTC-4  Germany v 3A/B/C/D/F   @ Boston (Foxborough) 
+  (74) 16:30 UTC-4  Germany v 3A/B/C/D/F   @ Boston (Foxborough)      ## 1E
   (75) 19:00 UTC-6  1F v 2C           @ Monterrey (Guadalupe)
   (76) 12:00 UTC-5  1C v 2F           @ Houston
 Tue Jun 30 
   (77) 17:00 UTC-4  1I v 3C/D/F/G/H   @ New York/New Jersey (East Rutherford) 
   (78) 12:00 UTC-5  2E v 2I           @ Dallas (Arlington)
-  (79) 19:00 UTC-6  Mexico v 3C/E/F/H/I   @ Mexico City
+  (79) 19:00 UTC-6  Mexico v 3C/E/F/H/I   @ Mexico City              ## 1A 
 Wed Jul 1 
   (80) 12:00 UTC-4  1L v 3E/H/I/J/K   @ Atlanta
-  (81) 17:00 UTC-7  USA v 3B/E/F/I/J   @ San Francisco Bay Area (Santa Clara)
+  (81) 17:00 UTC-7  USA v 3B/E/F/I/J   @ San Francisco Bay Area (Santa Clara)       ## 1D
   (82) 13:00 UTC-7  1G v 3A/E/H/I/J   @ Seattle
 Thu Jul 2 
   (83) 19:00 UTC-4  2K v 2L           @ Toronto 
