@@ -227,7 +227,9 @@ Tue June 16
 Mon June 22
   17:00 UTC-4    France  3-0 (1-0) Iraq      @ Philadelphia
                     (Kylian Mbappé 14', 54' Ousmane Dembélé 66')
-  20:00 UTC-4    Norway  v Senegal    @ New York/New Jersey (East Rutherford)
+  20:00 UTC-4    Norway  3-2 (1-0) Senegal    @ New York/New Jersey (East Rutherford)
+                    (Marcus Holmgren Pedersen 43' Erling Haaland 48', 58';
+                       Ismaïla Sarr 53', 90+3')
 Fri June 26
   15:00 UTC-4     Norway  v France         @ Boston (Foxborough)
   15:00 UTC-4    Senegal  v Iraq           @ Toronto
