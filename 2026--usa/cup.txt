@@ -245,7 +245,9 @@ Tue June 16
 Mon June 22
   12:00 UTC-5    Argentina  2-0 (1-0) Austria   @ Dallas (Arlington)
                      (Lionel Messi 38', 90+5')
-  20:00 UTC-7    Jordan  v Algeria   @ San Francisco Bay Area (Santa Clara)
+  20:00 UTC-7    Jordan  1-2 (1-0) Algeria   @ San Francisco Bay Area (Santa Clara)
+                    (Nizar Al-Rashdan 36';
+                       Nadhir Benbouali 69' Amine Gouiri 82')
 Sat June 27
   21:00 UTC-5    Algeria  v Austria   @ Kansas City
   21:00 UTC-5    Jordan  v Argentina @ Dallas (Arlington)
