@@ -7,11 +7,12 @@
 =World Cup 2014=
 
 ▪ GROUP A
+<!--
            P  W  D  L   Gls  Pts
 BRAZIL     3  2  1  0   7-2    7
 MEXICO     3  2  1  0   4-1    7
 Croatia    3  1  0  2   6-6    3
-Cameroon   3  0  0  3   1-9    0 
+Cameroon   3  0  0  3   1-9    0 -->
 
 Jun 12  @ Sao Paulo        Brazil          v Croatia           3-1
 Jun 13  @ Natal            Mexico          v Cameroon          1-0
@@ -23,11 +24,12 @@ Jun 23  @ Recife           Croatia         v Mexico            1-3
 
 
 ▪ GROUP B
+<!--
               P  W  D  L   Gls  Pts
 NETHERLANDS   3  3  0  0  10-3    9
 CHILE         3  2  0  1   5-3    6
 Spain         3  1  0  2   4-7    3
-Australia     3  0  0  3   3-9    0  
+Australia     3  0  0  3   3-9    0  -->
 
 Jun 13  @ Salvador         Spain           v Netherlands       1-5
 Jun 13  @ Cuiaba           Chile           v Australia         3-1
@@ -40,11 +42,12 @@ Jun 23  @ Sao Paulo        Netherlands     v Chile             2-0
 
 
 ▪ GROUP C
+<!--
                P  W  D  L   Gls  Pts
 COLOMBIA       3  3  0  0   9-2    9
 GREECE         3  1  1  1   2-4    4
 Côte d'Ivoire  3  1  0  2   4-5    3
-Japan          3  0  1  2   2-6    1  
+Japan          3  0  1  2   2-6    1  -->
 
 Jun 14  @ Belo Horizonte   Colombia        v Greece            3-0
 Jun 14  @ Recife           Côte d'Ivoire   v Japan             2-1
@@ -57,11 +60,12 @@ Jun 24  @ Fortaleza        Greece          v Côte d'Ivoire     2-1
 
 
 ▪ GROUP D
+<!--
               P  W  D  L   Gls  Pts
 COSTA RICA    3  2  1  0   4-1    7
 URUGUAY       3  2  0  1   4-4    6
 Italy         3  1  0  2   2-3    3
-England       3  0  1  2   2-4    1  
+England       3  0  1  2   2-4    1  -->
 
 Jun 14  @ Fortaleza        Uruguay         v Costa Rica        1-3
 Jun 14  @ Manaus           England         v Italy             1-2
@@ -74,11 +78,12 @@ Jun 24  @ Belo Horizonte   Costa Rica      v England           0-0
 
 
 ▪ GROUP E
+<!--
              P  W  D  L   Gls  Pts
 FRANCE       3  2  1  0   8-2    7
 SWITZERLAND  3  2  0  1   7-6    6
 Ecuador      3  1  1  1   3-3    4
-Honduras     3  0  0  3   1-8    0 
+Honduras     3  0  0  3   1-8    0 -->
 
 Jun 15  @ Brasilia         Switzerland     v Ecuador           2-1
 Jun 15  @ Porto Alegre     France          v Honduras          3-0
@@ -91,11 +96,12 @@ Jun 25  @ Rio de Janeiro   Ecuador         v France            0-0
 
 
 ▪ GROUP F
+<!--
                    P  W  D  L   Gls  Pts
 ARGENTINA          3  3  0  0   6-3    9
 NIGERIA            3  1  1  1   3-3    4
 Bosnia-Herzegovina 3  1  0  2   4-4    3
-Iran               3  0  1  2   1-4    1 
+Iran               3  0  1  2   1-4    1 -->
 
 Jun 15  @ Rio de Janeiro   Argentina       v Bosnia-Herzegov.  2-1
 Jun 16  @ Curitiba         Iran            v Nigeria           0-0
@@ -108,11 +114,12 @@ Jun 25  @ Salvador         Bosnia-Herzego. v Iran              3-1
 
 
 ▪ GROUP G
+<!--
                P  W  D  L   Gls  Pts
 GERMANY        3  2  1  0   7-2    7
 UNITED STATES  3  1  1  1   4-4    4
 Portugal       3  1  1  1   4-7    4
-Ghana          3  0  1  2   4-6    1  
+Ghana          3  0  1  2   4-6    1  -->
 
 Jun 16  @ Salvador         Germany         v Portugal          4-0
 Jun 16  @ Natal            Ghana           v United States     1-2
@@ -124,11 +131,12 @@ Jun 26  @ Brasilia         Portugal        v Ghana             2-1
 
 
 ▪ GROUP H
+<!--
                P  W  D  L   Gls  Pts
 BELGIUM        3  3  0  0   4-1    9
 ALGERIA        3  1  1  1   6-5    4
 Russia         3  0  2  1   2-3    2
-South Korea    3  0  1  2   3-6    1 
+South Korea    3  0  1  2   3-6    1 -->
 
 Jun 17  @ Belo Horizonte   Belgium         v Algeria           2-1
 Jun 17  @ Cuiaba           Russia          v South Korea       1-1

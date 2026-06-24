@@ -6,11 +6,12 @@
 =World Cup 2010=
 
 ▪ GROUP A
+<!--
               P  W  D  L   Gls  Pts
 URUGUAY       3  2  1  0   4-0    7
 MEXICO        3  1  1  1   3-2    4
 South Africa  3  1  1  1   3-5    4
-France        3  0  1  2   1-4    1 
+France        3  0  1  2   1-4    1 -->
 
 Jun 11  @ Johannesburg    South Africa  v Mexico         1-1
 Jun 11  @ Cape Town       Uruguay       v France         0-0
@@ -21,11 +22,12 @@ Jun 22  @ Bloemfontein    France        v South Africa   1-2
 
 
 ▪ GROUP B
+<!--
               P  W  D  L   Gls  Pts
 ARGENTINA     3  3  0  0   7-1    9
 SOUTH KOREA   3  1  1  1   5-6    4
 Greece        3  1  0  2   2-5    3
-Nigeria       3  0  1  2   3-5    1  
+Nigeria       3  0  1  2   3-5    1  -->
 
 Jun 12  @ Port Elizabeth  South Korea   v Greece         2-0
 Jun 12  @ Johannesburg    Argentina     v Nigeria        1-0
@@ -38,11 +40,12 @@ Jun 22  @ Polokwane       Greece        v Argentina      0-2
 
 
 ▪ GROUP C
+<!--
                P  W  D  L   Gls  Pts
 UNITED STATES  3  1  2  0   4-3    5
 ENGLAND        3  1  2  0   2-1    5
 Slovenia       3  1  1  1   3-3    4
-Algeria        3  0  1  2   0-2    1 
+Algeria        3  0  1  2   0-2    1 -->
 
 Jun 12  @ Rustenburg      England       v United States  1-1
 Jun 13  @ Polokwane       Algeria       v Slovenia       0-1
@@ -55,11 +58,12 @@ Jun 23  @ Pretoria        United States v Algeria        1-0
 
 
 ▪ GROUP D
+<!--
               P  W  D  L   Gls  Pts
 GERMANY       3  2  0  1   5-1    6
 GHANA         3  1  1  1   2-2    4
 Australia     3  1  1  1   3-6    4
-Serbia        3  1  0  2   2-3    3 
+Serbia        3  1  0  2   2-3    3 -->
 
 Jun 13  @ Pretoria        Serbia        v Ghana          0-1
 Jun 13  @ Durban          Germany       v Australia      4-0
@@ -72,11 +76,12 @@ Jun 23  @ Johannesburg    Ghana         v Germany        0-1
 
 
 ▪ GROUP E
+<!--
               P  W  D  L   Gls  Pts
 NETHERLANDS   3  3  0  0   5-1    9
 JAPAN         3  2  0  1   4-2    6
 Denmark       3  1  0  2   3-6    3
-Cameroon      3  0  0  3   2-5    0 
+Cameroon      3  0  0  3   2-5    0  -->
 
 Jun 14  @ Johannesburg    Netherlands   v Denmark        2-0
 Jun 14  @ Bloemfontein    Japan         v Cameroon       1-0
@@ -89,11 +94,12 @@ Jun 24  @ Cape Town       Cameroon      v Netherlands    1-2
 
 
 ▪ GROUP F
+<!--
               P  W  D  L   Gls  Pts
 PARAGUAY      3  1  2  0   3-1    5
 SLOVAKIA      3  1  1  1   4-5    4
 New Zealand   3  0  3  0   2-2    3
-Italy         3  0  2  1   4-5    2 
+Italy         3  0  2  1   4-5    2 -->
 
 Jun 14  @ Cape Town       Italy         v Paraguay       1-1
 Jun 15  @ Rustenburg      New Zealand   v Slovakia       1-1
@@ -106,11 +112,12 @@ Jun 24  @ Polokwane       Paraguay      v New Zealand    0-0
 
 
 ▪ GROUP G
+<!--
                P  W  D  L   Gls  Pts
 BRAZIL         3  2  1  0   5- 2   7
 PORTUGAL       3  1  2  0   7- 0   5
 Côte d'Ivoire  3  1  1  1   4- 3   4
-North Korea    3  0  0  3   1-12   0 
+North Korea    3  0  0  3   1-12   0 -->
 
 Jun 15  @ Port Elizabeth  Côte d'Ivoire v Portugal       0-0
 Jun 15  @ Johannesburg    Brazil        v North Korea    2-1
@@ -123,11 +130,12 @@ Jun 25  @ Durban          Portugal      v Brazil         0-0
 
 
 ▪ GROUP H
+<!--
               P  W  D  L   Gls  Pts
 SPAIN         3  2  0  1   4-2    6
 CHILE         3  2  0  1   3-2    6
 Switzerland   3  1  1  1   1-1    4
-Honduras      3  0  1  2   0-3    1 
+Honduras      3  0  1  2   0-3    1 -->
 
 Jun 16  @ Nelspruit       Honduras      v Chile          0-1
 Jun 16  @ Durban          Spain         v Switzerland    0-1
@@ -170,5 +178,3 @@ Jul 10  @ Port Elizabeth  Uruguay       v Germany        2-3
 ▪ FINAL
 
 Jul 11  @ Johannesburg    Netherlands   v Spain          0-1 aet
-
-
