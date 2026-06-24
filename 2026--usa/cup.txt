@@ -83,8 +83,7 @@ Thu June 11
                   Ladislav Krejcí 59')
 Thu June 18
   12:00 UTC-4     Czech Republic    1-1 (1-0) South Africa   @ Atlanta
-                    (Michal Sadílek 6';
-                       Teboho Mokoena 83' (pen.))
+                    (Michal Sadílek 6'; Teboho Mokoena 83'(p))
   19:00 UTC-6     Mexico            1-0 (0-0) South Korea    @ Guadalajara (Zapopan)
                     (Luis Romo 50')
 Wed June 24
@@ -98,13 +97,14 @@ Fri June 12
                     (Cyle Larin 78'; Jovo Lukić 21')
 Sat June 13
   12:00 UTC-7     Qatar    1-1 (0-1) Switzerland        @ San Francisco Bay Area (Santa Clara)
-                    (Miro Muheim 90+4' (OG); Breel Embolo 17'(p))
+                    (Miro Muheim 90+4'(og); Breel Embolo 17'(p))
 Thu June 18
   12:00 UTC-7     Switzerland  4-1 (0-0) Bosnia & Herzegovina   @ Los Angeles (Inglewood)
-                    (Johan Manzambi 74' Rubén Vargas 84' Johan Manzambi 90' Granit Xhaka 90+7' (pen.);
+                    (Johan Manzambi 74',90' Rubén Vargas 84' Granit Xhaka 90+7'(p);
                        Ermin Mahmic 90+3')
   15:00 UTC-7     Canada       6-0 (3-0) Qatar                @ Vancouver
-                    (Cyle Larin 16' Jonathan David 29', 45+3' Nathan Saliba 64' Mohamed Manai 75'(OG) Jonathan David 90+2')
+                    (Cyle Larin 16' Jonathan David 29',45+3'
+                     Nathan Saliba 64' Mohamed Manai 75'(og) Jonathan David 90+2')
 Wed June 24
   12:00 UTC-7     Switzerland           v Canada    @ Vancouver
   12:00 UTC-7     Bosnia & Herzegovina  v Qatar     @ Seattle
@@ -120,7 +120,7 @@ Fri June 19
   18:00 UTC-4        Scotland  0-1 (0-1) Morocco    @ Boston (Foxborough)
                     (Ismael Saibari 2')
   20:30 UTC-4        Brazil    3-0 (3-0) Haiti      @ Philadelphia
-                    (Matheus Cunha 23', 36' Vinícius Júnior 45+3')
+                    (Matheus Cunha 23',36' Vinícius Júnior 45+3')
 Wed June 24
   18:00 UTC-4         Scotland   v Brazil   @ Miami (Miami Gardens)
   18:00 UTC-4         Morocco   v Haiti    @ Atlanta
@@ -129,14 +129,14 @@ Wed June 24
 ▪ Group D
 Fri June 12
   18:00 UTC-7    USA  4-1 (3-0)  Paraguay    @ Los Angeles (Inglewood)
-               (Damian Bobadilla 7'(og) Folarin Balogun 31', 45+5' Giovanni Reyna 90+8';
+               (Damian Bobadilla 7'(og) Folarin Balogun 31',45+5' Giovanni Reyna 90+8';
                  Mauricio 73' )
 Sat June 13
   21:00 UTC-7    Australia       2-0 (1-0) Turkey   @ Vancouver
                     (Nestory Irankunda 27' Connor Metcalfe 75')
 Fri June 19
   12:00 UTC-7    USA      2-0 (2-0) Australia   @ Seattle
-                    (Cameron Burgess 11'(OG) Alex Freeman 43')
+                    (Cameron Burgess 11'(og) Alex Freeman 43')
   20:00 UTC-7    Turkey   0-1 (0-1) Paraguay   @ San Francisco Bay Area (Santa Clara)
                     (Matías Galarza 2')
 Thu June 25
@@ -147,15 +147,14 @@ Thu June 25
 ▪ Group E
 Sun June 14
   12:00 UTC-5    Germany 7-1 (3-1) Curaçao         @ Houston
-		 (Felix Nmecha 6' Nico Schlotterbeck 38' Kai Havertz 45+5'(p), 88' Jamal Musiala 47' 
-           Nathaniel Brown 68' Deniz Undav 78'; 
-            Livano Comenencia 21') 
+     (Felix Nmecha 6' Nico Schlotterbeck 38' Kai Havertz 45+5'(p),88'
+        Jamal Musiala 47' Nathaniel Brown 68' Deniz Undav 78';
+        Livano Comenencia 21')
   19:00 UTC-4    Ivory Coast  1-0 (0-0) Ecuador     @ Philadelphia
                     (Amad Diallo 90')
 Sat June 20
   16:00 UTC-4    Germany  2-1 (0-1) Ivory Coast    @ Toronto
-                    (Deniz Undav 68', 90+4';
-                       Franck Kessié 30')
+                    (Deniz Undav 68',90+4'; Franck Kessié 30')
   19:00 UTC-5    Ecuador  0-0 (0-0) Curaçao        @ Kansas City
 Thu June 25
   16:00 UTC-4    Curaçao  v Ivory Coast     @ Philadelphia
@@ -168,14 +167,15 @@ Sun June 14
                     (Virgil van Dijk 51' Crysencio Summerville 64';
                        Keito Nakamura 57' Daichi Kamada 88')
   20:00 UTC-6    Sweden       5-1 (2-1) Tunisia  @ Monterrey (Guadalupe)
-                    (Yasin Ayari 7' Alexander Isak 30' Viktor Gyökeres 59' Mattias Svanberg 84' Yasin Ayari 90+6';
+                    (Yasin Ayari 7',90+6' Alexander Isak 30' Viktor Gyökeres 59'
+                      Mattias Svanberg 84';
                        Omar Rekik 43')
 Sat June 20
   12:00 UTC-5    Netherlands  5-1 (2-0) Sweden         @ Houston
-                    (Brian Brobbey 5', 17' Cody Gakpo 47', 54' Crysencio Summerville 89';
+                    (Brian Brobbey 5',17' Cody Gakpo 47',54' Crysencio Summerville 89';
                        Anthony Elanga 59')
   22:00 UTC-6    Tunisia      0-4 (0-2) Japan              @ Monterrey (Guadalupe)
-                    (Daichi Kamada 4' Ayase Ueda 31' Junya Ito 69' Ayase Ueda 83')
+                    (Daichi Kamada 4' Ayase Ueda 31',83' Junya Ito 69')
 Thu June 25
   18:00 UTC-5    Japan        v Sweden             @ Dallas (Arlington)
   18:00 UTC-5   Tunisia      v Netherlands         @ Kansas City
@@ -184,8 +184,8 @@ Thu June 25
 ▪ Group G
 Mon June 15
   12:00 UTC-7    Belgium  1-1 (0-1) Egypt        @ Seattle
-				(Mohamed Hany 66'(og);
-					Emam Ashour 19')
+                    (Mohamed Hany 66'(og);
+                      Emam Ashour 19')
   18:00 UTC-7    Iran       2-2 (1-1) New Zealand  @ Los Angeles (Inglewood)
                     (Ramin Rezaeian 32' Mohammad Mohebbi 64';
                        Elijah Just 7', 54')
@@ -203,11 +203,10 @@ Fri June 26
 Mon June 15
   12:00 UTC-4   Spain  0-0 (0-0) Cape Verde   @ Atlanta
   18:00 UTC-4   Saudi Arabia   1-1 (1-0) Uruguay  @ Miami (Miami Gardens)
-                    (Abdulelah Al-Amri 41';
-                       Maxi Araújo 80')
+                    (Abdulelah Al-Amri 41'; Maxi Araújo 80')
 Sun June 21
   12:00 UTC-4    Spain   4-0 (3-0) Saudi Arabia   @ Atlanta
-                    (Lamine Yamal 10' Mikel Oyarzabal 21', 24' Hassan Al-Tambakti 49'(OG))
+                    (Lamine Yamal 10' Mikel Oyarzabal 21',24' Hassan Al-Tambakti 49'(og))
   18:00 UTC-4    Uruguay 2-2 (2-1) Cape Verde     @ Miami (Miami Gardens)
                     (Maxi Araújo 44' Agustín Cano 45+6';
                        Kevin Pina 21' Hélio Varela 61')
@@ -219,17 +218,17 @@ Fri June 26
 ▪ Group I
 Tue June 16
   15:00 UTC-4    France  3-1 (0-0) Senegal    @ New York/New Jersey (East Rutherford)
-                    (Kylian Mbappé 66' Bradley Barcola 82' Kylian Mbappé 90+6';
+                    (Kylian Mbappé 66',90+6' Bradley Barcola 82';
                        Ibrahim Mbaye 90+5')
   18:00 UTC-4    Iraq     1-4 (1-2) Norway  @ Boston (Foxborough)
                     (Aymen Hussein 39';
-                       Erling Haaland 29', 43' Leo Østigard 76' Aymen Hussein 90+6'(OG))
+                       Erling Haaland 29',43' Leo Østigard 76' Aymen Hussein 90+6'(og))
 Mon June 22
   17:00 UTC-4    France  3-0 (1-0) Iraq      @ Philadelphia
-                    (Kylian Mbappé 14', 54' Ousmane Dembélé 66')
+                    (Kylian Mbappé 14',54' Ousmane Dembélé 66')
   20:00 UTC-4    Norway  3-2 (1-0) Senegal    @ New York/New Jersey (East Rutherford)
                     (Marcus Holmgren Pedersen 43' Erling Haaland 48', 58';
-                       Ismaïla Sarr 53', 90+3')
+                       Ismaïla Sarr 53',90+3')
 Fri June 26
   15:00 UTC-4     Norway  v France         @ Boston (Foxborough)
   15:00 UTC-4    Senegal  v Iraq           @ Toronto
@@ -238,13 +237,13 @@ Fri June 26
 ▪ Group J
 Tue June 16
   20:00 UTC-5    Argentina  3-0 (1-0) Algeria   @ Kansas City
-                    (Lionel Messi 17', 60', 76')
+                    (Lionel Messi 17',60',76')
   21:00 UTC-7    Austria  3-1 (1-0) Jordan    @ San Francisco Bay Area (Santa Clara)
-                    (Romano Schmid 21' Yazan Al-Arab 76'(OG) Marko Arnautovic 90+12' (pen.);
+                    (Romano Schmid 21' Yazan Al-Arab 76'(og) Marko Arnautovic 90+12'(p);
                        Ali Olwan 50')
 Mon June 22
   12:00 UTC-5    Argentina  2-0 (1-0) Austria   @ Dallas (Arlington)
-                     (Lionel Messi 38', 90+5')
+                     (Lionel Messi 38',90+5')
   20:00 UTC-7    Jordan  1-2 (1-0) Algeria   @ San Francisco Bay Area (Santa Clara)
                     (Nizar Al-Rashdan 36';
                        Nadhir Benbouali 69' Amine Gouiri 82')
@@ -263,7 +262,8 @@ Wed June 17
                        Daniel Muñoz 40' Luis Díaz 65' Jáminton Campaz 90+9')
 Tue June 23
   12:00 UTC-5    Portugal   5-0 (3-0) Uzbekistan        @ Houston
-                    (Cristiano Ronaldo 6' Nuno Mendes 17' Cristiano Ronaldo 39' Abduvohid Nematov 60'(OG) Rafael Leão 87')
+                    (Cristiano Ronaldo 6',39' Nuno Mendes 17'
+                      Abduvohid Nematov 60'(og) Rafael Leão 87')
   20:00 UTC-6    Colombia   1-0 (0-0) DR Congo          @ Guadalajara (Zapopan)
                     (Daniel Muñoz 76')
 Sat June 27
@@ -274,7 +274,7 @@ Sat June 27
 ▪ Group L
 Wed June 17
   15:00 UTC-5   England  4-2 (2-2) Croatia    @ Dallas (Arlington)
-                    (Harry Kane 12' (pen.), 42' Jude Bellingham 47' Marcus Rashford 85';
+                    (Harry Kane 12'(p),42' Jude Bellingham 47' Marcus Rashford 85';
                        Martin Baturina 36' Petar Musa 45+5')
   19:00 UTC-4   Ghana    1-0 (0-0) Panama     @ Toronto
                     (Caleb Yirenkyi 90+5')
