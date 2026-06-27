@@ -13,25 +13,25 @@
 Sun Jun 28 
   (73) 12:00 UTC-7  South Africa v Canada   @ Los Angeles (Inglewood)   ## 2A / 2B
 Mon Jun 29
-  (74) 16:30 UTC-4  Germany v 3A/B/C/D/F   @ Boston (Foxborough)      ## 1E
+  (74) 16:30 UTC-4  Germany v Paraguay   @ Boston (Foxborough)      ## 1E / 3D
   (75) 19:00 UTC-6  Netherlands v Morocco   @ Monterrey (Guadalupe)   ## 1F / 2C
   (76) 12:00 UTC-5  Brazil v Japan   @ Houston   ## 1C / 2F
 Tue Jun 30 
-  (77) 17:00 UTC-4  1I v 3C/D/F/G/H   @ New York/New Jersey (East Rutherford) 
-  (78) 12:00 UTC-5  Ivory Coast v 2I   @ Dallas (Arlington)   ## 2E
+	(77) 17:00 UTC-4  France v Sweden   @ New York/New Jersey (East Rutherford)   ## 1I / 3F 
+  (78) 12:00 UTC-5  Ivory Coast v Norway   @ Dallas (Arlington)   ## 2E / 2I
   (79) 19:00 UTC-6  Mexico v 3C/E/F/H/I   @ Mexico City              ## 1A 
 Wed Jul 1 
   (80) 12:00 UTC-4  1L v 3E/H/I/J/K   @ Atlanta
-  (81) 17:00 UTC-7  USA v 3B/E/F/I/J   @ San Francisco Bay Area (Santa Clara)       ## 1D
-  (82) 13:00 UTC-7  1G v 3A/E/H/I/J   @ Seattle
+  (81) 17:00 UTC-7  USA v Bosnia and Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B
+  (82) 13:00 UTC-7  Belgium v 3A/E/H/I/J   @ Seattle   ## 1G
 Thu Jul 2 
   (83) 19:00 UTC-4  2K v 2L           @ Toronto 
-  (84) 12:00 UTC-7  1H v 2J           @ Los Angeles (Inglewood)
+  (84) 12:00 UTC-7  Spain v 2J           @ Los Angeles (Inglewood)   ## 1H
   (85) 20:00 UTC-7  Switzerland v 3E/F/G/I/J   @ Vancouver   ## 1B
 Fri Jul 3 
-  (86) 18:00 UTC-4  1J v 2H           @ Miami (Miami Gardens)
+  (86) 18:00 UTC-4  Argentina v Cape Verde           @ Miami (Miami Gardens)   ## 1J / 2H
   (87) 20:30 UTC-5  1K v 3D/E/I/J/L   @ Kansas City
-  (88) 13:00 UTC-5  Australia v 2G   @ Dallas (Arlington)   ## 2D
+  (88) 13:00 UTC-5  Australia v Egypt   @ Dallas (Arlington)   ## 2D / 2G
 
 
 ▪ Round of 16 
