@@ -311,4 +311,6 @@ Tue June 23
 Sat June 27
   17:00 UTC-4    Panama  0-2 (0-0) England   @ New York/New Jersey (East Rutherford)
                     (Jude Bellingham 62' Harry Kane 67')
-  17:00 UTC-4    Croatia  v Ghana     @ Philadelphia
+  17:00 UTC-4    Croatia  2-1 (1-0) Ghana     @ Philadelphia
+                    (Petar Sucic 31' Nikola Vlasic 83';
+                       Derrick Luckassen 73')
