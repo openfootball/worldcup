@@ -22,7 +22,7 @@ Tue Jun 30
   (79) 19:00 UTC-6  Mexico v 3C/E/F/H/I   @ Mexico City              ## 1A 
 Wed Jul 1 
   (80) 12:00 UTC-4  1L v 3E/H/I/J/K   @ Atlanta
-  (81) 17:00 UTC-7  USA v Bosnia and Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B
+  (81) 17:00 UTC-7  USA v Bosnia & Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B
   (82) 13:00 UTC-7  Belgium v 3A/E/H/I/J   @ Seattle   ## 1G
 Thu Jul 2 
   (83) 19:00 UTC-4  2K v 2L           @ Toronto 
