@@ -17,7 +17,7 @@ Mon Jun 29
   (75) 19:00 UTC-6  Netherlands v Morocco   @ Monterrey (Guadalupe)   ## 1F / 2C
   (76) 12:00 UTC-5  Brazil v Japan   @ Houston   ## 1C / 2F
 Tue Jun 30 
-	(77) 17:00 UTC-4  France v Sweden   @ New York/New Jersey (East Rutherford)   ## 1I / 3F 
+  (77) 17:00 UTC-4  France v Sweden   @ New York/New Jersey (East Rutherford)   ## 1I / 3F 
   (78) 12:00 UTC-5  Ivory Coast v Norway   @ Dallas (Arlington)   ## 2E / 2I
   (79) 19:00 UTC-6  Mexico v 3C/E/F/H/I   @ Mexico City              ## 1A 
 Wed Jul 1 
