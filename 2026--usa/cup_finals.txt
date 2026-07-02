@@ -35,7 +35,8 @@ Wed Jul 1
   (80) 12:00 UTC-4  England 2-1 (0-1) DR Congo   @ Atlanta   ## 1L / 3E/H/I/J/K
                     (Harry Kane 75', 86';
                        Brian Cipenga 7')
-  (81) 17:00 UTC-7  USA v Bosnia & Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B/E/F/I/J
+  (81) 17:00 UTC-7  USA 2-0 (1-0) Bosnia & Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B/E/F/I/J
+                    (Folarin Balogun 45' Malik Tillman 82')
   (82) 13:00 UTC-7  Belgium 3-2 a.e.t. (2-2, 0-1) Senegal   @ Seattle   ## 1G / 3A/E/H/I/J
                     (Romelu Lukaku 86' Youri Tielemans 89', 120+5' (pen.);
                        Habib Diarra 25' Ismaïla Sarr 51')
