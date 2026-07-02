@@ -56,10 +56,10 @@ Sat Jul 4
   (90) 12:00 UTC-5  Canada v Morocco   @ Houston   ## W73 / W75
 Sun Jul 5 
   (91) 16:00 UTC-4  Brazil v Norway   @ New York/New Jersey (East Rutherford)   ## W76 / W78
-  (92) 18:00 UTC-6  Mexico v W80   @ Mexico City   ## W79
+  (92) 18:00 UTC-6  Mexico v England   @ Mexico City   ## W79 / W80
 Mon Jul 6 
   (93) 14:00 UTC-5  W83 v W84   @ Dallas (Arlington) 
-  (94) 17:00 UTC-7  W81 v W82   @ Seattle 
+  (94) 17:00 UTC-7  USA v Belgium   @ Seattle   ## W81 / W82
 Tue Jul 7 
   (95) 12:00 UTC-4  W86 v W88   @ Atlanta
   (96) 13:00 UTC-7  W85 v W87   @ Vancouver
