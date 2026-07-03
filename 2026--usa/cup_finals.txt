@@ -12,42 +12,36 @@
 ▪ Round of 32
 Sun Jun 28 
   (73) 12:00 UTC-7  South Africa 0-1 (0-0) Canada   @ Los Angeles (Inglewood)   ## 2A / 2B
-                       (Stephan Eustáquio 90'+2)
+                      (Stephan Eustáquio 90+2')
 Mon Jun 29
   (74) 16:30 UTC-4  Germany 1-1 a.e.t. (1-1, 0-1), 3-4 pen. Paraguay   @ Boston (Foxborough)      ## 1E / 3A/B/C/D/F
-                    (Kai Havertz 54';
-                       Julio Enciso 42')
+                      (Kai Havertz 54'; Julio Enciso 42')
   (75) 19:00 UTC-6  Netherlands 1-1 a.e.t. (1-1, 0-0), 2-3 pen. Morocco   @ Monterrey (Guadalupe)   ## 1F / 2C
-                    (Cody Gakpo 72';
-                       Issa Diop 90+1')
+                      (Cody Gakpo 72'; Issa Diop 90+1')
   (76) 12:00 UTC-5  Brazil 2-1 (0-1) Japan   @ Houston   ## 1C / 2F
-                    (Casemiro 56' Gabriel Martinelli 90+5';
-                       Kaishu Sano 29')
+                      (Casemiro 56' Gabriel Martinelli 90+5'; Kaishu Sano 29')
 Tue Jun 30 
   (77) 17:00 UTC-4  France 3-0 (1-0) Sweden   @ New York/New Jersey (East Rutherford)   ## 1I / 3C/D/F/G/H
-                    (Kylian Mbappé 45' Bradley Barcola 53' Kylian Mbappé 74')
+                      (Kylian Mbappé 45', 74' Bradley Barcola 53')
   (78) 12:00 UTC-5  Ivory Coast 1-2 (0-1) Norway   @ Dallas (Arlington)   ## 2E / 2I
-                    (Amad Diallo 74';
-                       Antonio Nusa 39' Erling Haaland 86')
+                      (Amad Diallo 74'; Antonio Nusa 39' Erling Haaland 86')
   (79) 19:00 UTC-6  Mexico 2-0 (1-0) Ecuador   @ Mexico City              ## 1A / 3C/E/F/H/I
-                    (Julián Quiñones 31' Raúl Jiménez 45+1')
+                      (Julián Quiñones 31' Raúl Jiménez 45+1')
 Wed Jul 1 
   (80) 12:00 UTC-4  England 2-1 (0-1) DR Congo   @ Atlanta   ## 1L / 3E/H/I/J/K
-                    (Harry Kane 75', 86';
-                       Brian Cipenga 7')
+                      (Harry Kane 75', 86'; Brian Cipenga 7')
   (81) 17:00 UTC-7  USA 2-0 (1-0) Bosnia & Herzegovina   @ San Francisco Bay Area (Santa Clara)       ## 1D / 3B/E/F/I/J
-                    (Folarin Balogun 45' Malik Tillman 82')
+                      (Folarin Balogun 45' Malik Tillman 82')
   (82) 13:00 UTC-7  Belgium 3-2 a.e.t. (2-2, 0-1) Senegal   @ Seattle   ## 1G / 3A/E/H/I/J
-                    (Romelu Lukaku 86' Youri Tielemans 89', 120+5' (pen.);
+                      (Romelu Lukaku 86' Youri Tielemans 89', 120+5'(p);
                        Habib Diarra 25' Ismaïla Sarr 51')
 Thu Jul 2 
   (83) 19:00 UTC-4  Portugal 2-1 (0-0) Croatia   @ Toronto   ## 2K / 2L
-                    (Cristiano Ronaldo 68' (pen.) Gonçalo Ramos 90+4';
-                       Ivan Perisic 53')
+                      (Cristiano Ronaldo 68'(p) Gonçalo Ramos 90+4'; Ivan Perisic 53')
   (84) 12:00 UTC-7  Spain 3-0 (1-0) Austria   @ Los Angeles (Inglewood)   ## 1H / 2J
-                    (Mikel Oyarzabal 36' Pedro Porro 66' Mikel Oyarzabal 89')
+                      (Mikel Oyarzabal 36', 89' Pedro Porro 66')
   (85) 20:00 UTC-7  Switzerland 2-0 (1-0) Algeria   @ Vancouver   ## 1B / 3E/F/G/I/J
-                    (Breel Embolo 10' Dan Ndoye 46')
+                      (Breel Embolo 10' Dan Ndoye 46')
 Fri Jul 3 
   (86) 18:00 UTC-4  Argentina v Cape Verde   @ Miami (Miami Gardens)   ## 1J / 2H
   (87) 20:30 UTC-5  Colombia v Ghana   @ Kansas City   ## 1K / 3D/E/I/J/L
@@ -56,17 +50,17 @@ Fri Jul 3
 
 ▪ Round of 16 
 Sat Jul 4 
-  (89) 17:00 UTC-4  Paraguay v France   @ Philadelphia   ## W74 / W77
-  (90) 12:00 UTC-5  Canada v Morocco   @ Houston   ## W73 / W75
+  (89) 17:00 UTC-4  Paraguay v France     @ Philadelphia   ## W74 / W77
+  (90) 12:00 UTC-5  Canada   v Morocco    @ Houston   ## W73 / W75
 Sun Jul 5 
-  (91) 16:00 UTC-4  Brazil v Norway   @ New York/New Jersey (East Rutherford)   ## W76 / W78
-  (92) 18:00 UTC-6  Mexico v England   @ Mexico City   ## W79 / W80
+  (91) 16:00 UTC-4  Brazil   v Norway     @ New York/New Jersey (East Rutherford)   ## W76 / W78
+  (92) 18:00 UTC-6  Mexico   v England    @ Mexico City   ## W79 / W80
 Mon Jul 6 
-  (93) 14:00 UTC-5  W83 v W84   @ Dallas (Arlington) 
-  (94) 17:00 UTC-7  USA v Belgium   @ Seattle   ## W81 / W82
+  (93) 14:00 UTC-5  Portugal v Spain      @ Dallas (Arlington)   ## W83 / W84 
+  (94) 17:00 UTC-7  USA      v Belgium    @ Seattle   ## W81 / W82
 Tue Jul 7 
   (95) 12:00 UTC-4  W86 v W88   @ Atlanta
-  (96) 13:00 UTC-7  W85 v W87   @ Vancouver
+  (96) 13:00 UTC-7  Switzerland v W87   @ Vancouver   ## W85
 
 
 ▪ Quarter-final 
