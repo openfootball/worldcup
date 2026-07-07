@@ -60,16 +60,15 @@ Sat Jul 4
                       (Azzedine Ounahi 50', 82' Soufiane Rahimi 90+8')
 Sun Jul 5 
   (91) 16:00 UTC-4  Brazil   1-2 (0-0) Norway     @ New York/New Jersey (East Rutherford)   ## W76 / W78
-                    (Neymar 90+10' (pen.);
-                       Erling Haaland 79', 90')
+                      (Neymar 90+10' (p); Erling Haaland 79', 90')
   (92) 18:00 UTC-6  Mexico   2-3 (1-2) England    @ Mexico City   ## W79 / W80
-                    (Julián Quiñones 42' Raúl Jiménez 69' (pen.);
-                       Jude Bellingham 36', 38' Harry Kane 60' (pen.))
+                      (Julián Quiñones 42' Raúl Jiménez 69' (p);
+                       Jude Bellingham 36', 38' Harry Kane 60' (p))
 Mon Jul 6 
   (93) 14:00 UTC-5  Portugal 0-1 (0-0) Spain      @ Dallas (Arlington)   ## W83 / W84 
-                    (Mikel Merino 90+1')
+                      (Mikel Merino 90+1')
   (94) 17:00 UTC-7  USA      1-4 (1-2) Belgium    @ Seattle   ## W81 / W82
-                    (Malik Tillman 31';
+                      (Malik Tillman 31';
                        Charles De Ketelaere 9', 33' Hans Vanaken 57' Romelu Lukaku 90+3')
 Tue Jul 7 
   (95) 12:00 UTC-4  Argentina   v Egypt      @ Atlanta     ## W86 / W88
@@ -78,11 +77,11 @@ Tue Jul 7
 
 ▪ Quarter-final 
 Thu Jul 9 
-  (97) 16:00 UTC-4  France v Morocco    @ Boston (Foxborough)    ## W89 / W90 
+  (97) 16:00 UTC-4  France  v Morocco    @ Boston (Foxborough)      ## W89 / W90 
 Fri Jul 10 
-  (98) 12:00 UTC-7  W93 v W94   @ Los Angeles (Inglewood)
+  (98) 12:00 UTC-7  Spain   v Belgium    @ Los Angeles (Inglewood)  ## W93 / W94
 Sat Jul 11 
-  (99) 17:00 UTC-4  Norway v England   @ Miami (Miami Gardens)    ## W91 / W92 
+  (99) 17:00 UTC-4  Norway  v England    @ Miami (Miami Gardens)    ## W91 / W92 
  (100) 20:00 UTC-5  W95 v W96   @ Kansas City
 
 
