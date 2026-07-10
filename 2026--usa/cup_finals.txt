@@ -82,7 +82,9 @@ Thu Jul 9
   (97) 16:00 UTC-4  France  2-0 (0-0) Morocco    @ Boston (Foxborough)      ## W89 / W90 
                     (Kylian Mbappé 60' Ousmane Dembélé 66')
 Fri Jul 10 
-  (98) 12:00 UTC-7  Spain   v Belgium    @ Los Angeles (Inglewood)  ## W93 / W94
+  (98) 12:00 UTC-7  Spain   2-1 (1-1) Belgium    @ Los Angeles (Inglewood)  ## W93 / W94
+                    (Fabián Ruiz 30' Mikel Merino 88';
+                       Charles De Ketelaere 41')
 Sat Jul 11 
   (99) 17:00 UTC-4  Norway  v England    @ Miami (Miami Gardens)    ## W91 / W92 
  (100) 20:00 UTC-5  Argentina v Switzerland   @ Kansas City    ## W96 / W95 
