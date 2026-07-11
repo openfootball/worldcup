@@ -72,7 +72,7 @@ Mon Jul 6
                        Charles De Ketelaere 9', 33' Hans Vanaken 57' Romelu Lukaku 90+3')
 Tue Jul 7 
   (95) 12:00 UTC-4  Argentina   3-2 (0-1) Egypt      @ Atlanta     ## W86 / W88
-                    (Cristian Romero 79' Lionel Messi 83' Enzo Fernández 90+2';
+                      (Cristian Romero 79' Lionel Messi 83' Enzo Fernández 90+2';
                        Yasser Ibrahim 15' Mostafa Zico 67')
   (96) 13:00 UTC-7  Switzerland 0-0 a.e.t. (0-0, 0-0), 4-3 pen. Colombia   @ Vancouver   ## W85 / W87
 
@@ -80,10 +80,10 @@ Tue Jul 7
 ▪ Quarter-final 
 Thu Jul 9 
   (97) 16:00 UTC-4  France  2-0 (0-0) Morocco    @ Boston (Foxborough)      ## W89 / W90 
-                    (Kylian Mbappé 60' Ousmane Dembélé 66')
+                      (Kylian Mbappé 60' Ousmane Dembélé 66')
 Fri Jul 10 
   (98) 12:00 UTC-7  Spain   2-1 (1-1) Belgium    @ Los Angeles (Inglewood)  ## W93 / W94
-                    (Fabián Ruiz 30' Mikel Merino 88';
+                      (Fabián Ruiz 30' Mikel Merino 88';
                        Charles De Ketelaere 41')
 Sat Jul 11 
   (99) 17:00 UTC-4  Norway  v England    @ Miami (Miami Gardens)    ## W91 / W92 
@@ -92,7 +92,7 @@ Sat Jul 11
 
 ▪ Semi-final 
 Tue Jul 14 
- (101) 14:00 UTC-5  W97 v W98   @ Dallas (Arlington)
+ (101) 14:00 UTC-5  France  v  Spain   @ Dallas (Arlington)   ##  W97 / W98
 Wed Jul 15 
  (102) 15:00 UTC-4  W99 v W100  @ Atlanta 
 
