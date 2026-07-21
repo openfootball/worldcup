@@ -31,22 +31,22 @@ Group L | England    Croatia     Ghana   Panama
 
 ▪ Group A, Matchday 1
 Thu June 11
-  13:00 UTC-6     Mexico  2-0 (1-0)  South Africa            @ Mexico City
-               (Julián Quiñones 9' Raúl Jiménez 67')
-  20:00 UTC-6     South Korea  2-1 (0-0)  Czech Republic     @ Guadalajara (Zapopan)
-                (Hwang In-Beom 67' Oh Hyeon-Gyu 80';
-                 Ladislav Krejcí 59')
+  13:00 UTC-6   Mexico v South Africa    2-0 (1-0)         @ Mexico City
+                   (Julián Quiñones 9' Raúl Jiménez 67')
+  20:00 UTC-6   South Korea v Czech Republic   2-1 (0-0)     @ Guadalajara (Zapopan)
+                   (Hwang In-Beom 67' Oh Hyeon-Gyu 80';
+                   Ladislav Krejcí 59')
 ...
 
 ▪ Match for third place   
 Sat Jul 18 
-  17:00 UTC-4    France 4-6 (0-4) England    @ Miami (Miami Gardens) 
+  17:00 UTC-4   France v England   4-6 (0-4)    @ Miami (Miami Gardens) 
                     (Kylian Mbappé 48',66' Bradley Barcola 54' Ousmane Dembélé 90+6';
                      Declan Rice 3' Ezri Konsa 18' Bukayo Saka 37', 45+1', 87'(p) Jude Bellingham 90+8')
 
 ▪ Final
 Sun Jul 19 
-  15:00 UTC-4  Spain 1-0 a.e.t. (0-0, 0-0) Argentina    @ New York/New Jersey (East Rutherford)
+  15:00 UTC-4   Spain v Argentina  1-0 a.e.t. (0-0, 0-0)   @ New York/New Jersey (East Rutherford)
                      (Ferran Torres 106')
 
 ```
