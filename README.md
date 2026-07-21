@@ -29,20 +29,26 @@ Group K | Portugal   DR Congo   Uzbekistan  Colombia
 Group L | England    Croatia     Ghana   Panama	
 
 
-▪ Group A
-Thu June 11 
-  13:00 UTC-6  Mexico       v South Africa        @ Mexico City
-  20:00 UTC-6  South Korea  v Czech Republic      @ Guadalajara (Zapopan)
-
+▪ Group A, Matchday 1
+Thu June 11
+  13:00 UTC-6     Mexico  2-0 (1-0)  South Africa            @ Mexico City
+               (Julián Quiñones 9' Raúl Jiménez 67')
+  20:00 UTC-6     South Korea  2-1 (0-0)  Czech Republic     @ Guadalajara (Zapopan)
+                (Hwang In-Beom 67' Oh Hyeon-Gyu 80';
+                 Ladislav Krejcí 59')
 ...
 
 ▪ Match for third place   
 Sat Jul 18 
-  17:00 UTC-4  L101 v L102    @ Miami (Miami Gardens)
+  17:00 UTC-4    France 4-6 (0-4) England    @ Miami (Miami Gardens) 
+                    (Kylian Mbappé 48',66' Bradley Barcola 54' Ousmane Dembélé 90+6';
+                     Declan Rice 3' Ezri Konsa 18' Bukayo Saka 37', 45+1', 87'(p) Jude Bellingham 90+8')
 
 ▪ Final
 Sun Jul 19 
-  15:00 UTC-4  W101 v W102    @ New York/New Jersey (East Rutherford)
+  15:00 UTC-4  Spain 1-0 a.e.t. (0-0, 0-0) Argentina    @ New York/New Jersey (East Rutherford)
+                     (Ferran Torres 106')
+
 ```
 
 or
@@ -60,7 +66,7 @@ Group F  | Belgium    Canada   Morocco    Croatia
 Group G  | Brazil    Serbia  Switzerland   Cameroon
 Group H  | Portugal   Ghana   Uruguay    South Korea
 
-▪ Group A
+▪ Group A, Matchday 1
 Sun Nov 20
   19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
                (Enner Valencia 16'(p), 31')
@@ -180,6 +186,7 @@ Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'),
 ## Build Your Own `worldcup.db` Database or `worldcup.json/.csv` Datasets
 
 Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
 
 <!--
 Use the `sportdb` command line tool to build your own `worldcup.db` copy
