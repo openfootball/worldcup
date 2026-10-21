@@ -154,7 +154,7 @@ Fri Jun 24 19:30 UTC-4 @ Pontiac Silverdome, Detroit (Pontiac)
 Sweden: Thomas RAVELLI - Roland NILSSON, Patrik ANDERSSON, Joachim BJORKLUND (89' Magnus ERLINGMARK),
       Roger LJUNG - Stefan SCHWARZ [Y 51'], Klas INGESSON, Jonas THERN [c] -
       Martin DAHLIN [Y 58'], Tomas BROLIN, Kennet ANDERSSON [Y 41'] (84' Henrik LARSSON)
-Russia: Dmitri KHARIN [c] [Y 34'] - Dmitri KUZNETSOV, Sergei GORLUKOVICH [Y 1'],
+Russia: Dmitri KHARIN [c] [Y 34'] - Dmitri KUZNETSOV, Sergei GORLUKOVICH [Y 1'] [Y/R 49'],
       Yuri NIKIFOROV, Viktor ONOPKO, Dmitri KHLESTOV - Dmitri POPOV (40' Valeri KARPIN),
       Aleksandr BORODYUK (51' Dimitri GALIAMIN), Aleksandr MOSTOVOI - Oleg SALENKO,
       Dmitri RADCHENKO
@@ -242,7 +242,7 @@ South Korea: CHOI In Young [c] - KIM Pan Keun, PARK Jung Bae [Y 89'], SHIN Hong 
       HONG Myungbo - LEE Young Jin, NOH Jung Yoon (71' CHOI Youngil), KIM Joo Sung,
       KO Jeong Woon [Y 38'] - SEO Jung Won (65' HA Seok Ju), HWANG Sun Hong
 Bolivia: Carlos TRUCCO - Marco Antonio SANDY, Miguel Angel RIMBA [Y 22'], Gustavo QUINTEROS,
-      Luis CRISTALDO [Y 22'] - Carlos BORJA [c], Milton MELGAR, Vladimir SORIA,
+      Luis CRISTALDO [Y 22'] [Y/R 82'] - Carlos BORJA [c], Milton MELGAR, Vladimir SORIA,
       Erwin SANCHEZ, Julio Cesar BALDIVIESO [Y 32'] - Luis RAMALLO (66' Alvaro PENA)
 
 Refs: Leslie MOTTRAM (SCO), Luc MATTHYS (BEL), Mikael EVERSTIG (SWE)
@@ -360,7 +360,7 @@ Thu Jun 30 19:30 UTC-5 @ Cotton Bowl, Dallas
 Argentina: Luis ISLAS - Jose CHAMOT, Oscar RUGGERI [c] [Y 34'], Fernando CACERES,
       Hernan DIAZ - Fernando REDONDO, Diego SIMEONE, Leonardo RODRIGUEZ [Y 44'] (67' Ramon MEDINA BELLO) -
       Claudio CANIGGIA (26' Ariel ORTEGA), Gabriel BATISTUTA [Y 81'], Abel BALBO
-Bulgaria: Borislav MIHAYLOV [c] - Emil KREMENLIEV, Trifon IVANOV [Y 58'], Tsanko TSVETANOV [Y 45'],
+Bulgaria: Borislav MIHAYLOV [c] - Emil KREMENLIEV, Trifon IVANOV [Y 58'], Tsanko TSVETANOV [Y 45'] [Y/R 67'],
       Petar HUBCHEV - Zlatko YANKOV [Y 24'], Iordan LETCHKOV (77' Daniel BORIMIROV),
       Krasimir BALAKOV [Y 74'] - Emil KOSTADINOV (74' Ilian KIRYAKOV), Hristo STOICHKOV [Y 7'],
       Nasko SIRAKOV
@@ -630,7 +630,7 @@ Mon Jul 4 12:30 UTC-7 @ Stanford Stadium, San Francisco (Stanford)
 Brazil: TAFFAREL - JORGINHO [Y 16'], ALDAIR, MARCIO SANTOS - MAURO SILVA, DUNGA [c],
       ZINHO (68' CAFU), LEONARDO [R 43'], MAZINHO [Y 8'] - BEBETO, ROMÁRIO
 USA: Tony MEOLA [c] - Thomas DOOLEY [Y 80'], Marcelo BALBOA, Paul CALIGIURI [Y 49'],
-      Fernando CLAVIJO [Y 64'], Alexi LALAS - Hugo PEREZ (66' Roy WEGERLE),
+      Fernando CLAVIJO [Y 64'] [Y/R 85'], Alexi LALAS - Hugo PEREZ (66' Roy WEGERLE),
       Tab RAMOS [Y 43'] (45' Eric WYNALDA), Cobi JONES, Michael SORBER - Earnie STEWART
 
 Refs: Joel QUINIOU (FRA), PARK Hae-Yong (KOR), Mikael EVERSTIG (SWE)
@@ -662,8 +662,8 @@ Penalties:     Alberto GARCIA ASPE (missed),     Krasimir BALAKOV (missed),
 
 Mexico: Jorge CAMPOS - Claudio SUAREZ [Y 14'], Juan RAMIREZ, Ignacio AMBRIZ [c],
       Ramon RAMIREZ [Y 70'] - Marcelino BERNAL, Alberto GARCIA ASPE [Y 76'],
-      Benjamin GALINDO, Jorge RODRIGUEZ - Luis GARCIA [Y 28'], ZAGUE
-Bulgaria: Borislav MIHAYLOV [c] - Emil KREMENLIEV [Y 12'], Petar HUBCHEV, Ilian KIRYAKOV [Y 34'] -
+      Benjamin GALINDO, Jorge RODRIGUEZ - Luis GARCIA [Y 28'] [Y/R 57'], ZAGUE
+Bulgaria: Borislav MIHAYLOV [c] - Emil KREMENLIEV [Y 12'] [Y/R 50'], Petar HUBCHEV, Ilian KIRYAKOV [Y 34'] -
       Iordan LETCHKOV, Daniel BORIMIROV, Ivaylo YORDANOV [Y 67'], Krasimir BALAKOV -
       Emil KOSTADINOV (119' Petar MIKHTARSKI), Hristo STOICHKOV, Nasko SIRAKOV [Y 17'] (104' Boncho GENCHEV)
 
@@ -734,7 +734,7 @@ Romania: Florin PRUNEA - Dan PETRESCU, Daniel PRODAN, Miodrag BELODEDICI, Gheorg
       Tibor SELYMES [Y 34'] - Ioan LUPESCU, Dorinel MUNTEANU (84' Nica PANDURU [Y 108']),
       Gheorghe HAGI [c] - Florin RADUCIOIU, Ilie DUMITRESCU
 Sweden: Thomas RAVELLI - Roland NILSSON [c], Patrik ANDERSSON, Joachim BJORKLUND (84' Pontus KAMARK),
-      Roger LJUNG - Stefan SCHWARZ [Y 43'], Klas INGESSON [Y 7'], Hakan MILD -
+      Roger LJUNG - Stefan SCHWARZ [Y 43'] [Y/R 101'], Klas INGESSON [Y 7'], Hakan MILD -
       Martin DAHLIN (107' Henrik LARSSON), Tomas BROLIN, Kennet ANDERSSON
 
 Refs: Philip DON (ENG), Roy PEARSON (ENG), PARK Hae-Yong (KOR)

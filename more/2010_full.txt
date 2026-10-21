@@ -37,7 +37,7 @@ Fri Jun 11 20:30 UTC+2 @ Cape Town Stadium, Cape Town
 
 Uruguay: Fernando MUSLERA - Diego LUGANO [c] [Y 90+2'], Diego GODIN, Mauricio VICTORINO [Y 58'],
       Maximiliano PEREIRA - Alvaro PEREIRA, Diego PEREZ (86' Sebastian EGUREN),
-      Egidio AREVALO, Ignacio González (62' Nicolas LODEIRO [Y 80']) - Luis SUAREZ (73' Sebastian ABREU),
+      Egidio AREVALO, Ignacio González (62' Nicolas LODEIRO [Y 64'] [Y/R 80']) - Luis SUAREZ (73' Sebastian ABREU),
       Diego FORLAN
 France: Hugo Lloris - Bacary SAGNA, Eric ABIDAL, William GALLAS, Patrice EVRA [c] [Y 11'] -
       Yoann GOURCUFF (74' Florent MALOUDA), Jeremy TOULALAN [Y 67'], Abou DIABY -
@@ -221,7 +221,7 @@ Sun Jun 13 13:30 UTC+2 @ Peter Mokaba Stadium, Polokwane
 
 Algeria: Faouzi CHAOUCHI - Madjid BOUGUERRA, Nadir BELHADJ, Anther YAHIA [c],
       Rafik HALLICHE - Medhi LACEN, Karim MATMOUR (80' Rafik SAIFI), Karim ZIANI,
-      Hassan YEBDA [Y 90+4'], Foued KADIR (81' Adlane GUEDIOURA) - Rafik DJEBBOUR (57' Abdelkader GHEZZAL [Y 72'])
+      Hassan YEBDA [Y 90+4'], Foued KADIR (81' Adlane GUEDIOURA) - Rafik DJEBBOUR (57' Abdelkader GHEZZAL [Y 58'] [Y/R 72'])
 Slovenia: Samir HANDANOVIC - Miso BRECKO, Marko SULER, Bostjan CESAR, Bojan JOKIC -
       Robert KOREN [c], Valter BIRSA (83' Nejc PECNIK), Andraz KIRM, Aleksandar RADOSAVLJEVIC [Y 34'] (86' Andrej KOMAC [Y 90+2']) -
       Milivoje NOVAKOVIC, Zlatko DEDIC (52' Zlatan LJUBIJANKIC)
@@ -266,7 +266,7 @@ Wed Jun 23 16:00 UTC+2 @ Loftus Versfeld Stadium, Pretoria
 USA: Tim HOWARD - Carlos BOCANEGRA [c], Steve CHERUNDOLO, Jonathan BORNSTEIN (79' DaMarcus BEASLEY [Y 89']),
       Jay DeMERIT - Michael BRADLEY, Clint DEMPSEY, Landon DONOVAN, Maurice EDU (63' Edson BUDDLE) -
       Herculez GOMEZ (45' Benny FEILHABER), Jozy Altidore [Y 61']
-Algeria: MBOLHI Rais - Madjid BOUGUERRA, Nadir BELHADJ, Anther YAHIA [c] [Y 90+2'],
+Algeria: MBOLHI Rais - Madjid BOUGUERRA, Nadir BELHADJ, Anther YAHIA [c] [Y 75'] [Y/R 90+2'],
       Rafik HALLICHE - Medhi LACEN [Y 82'], Karim MATMOUR (84' Rafik SAIFI),
       Karim ZIANI (68' Adlane GUEDIOURA), Hassan YEBDA [Y 11'], Foued KADIR -
       Rafik DJEBBOUR (64' Abdelkader GHEZZAL)
@@ -295,7 +295,7 @@ Sun Jun 13 16:00 UTC+2 @ Loftus Versfeld Stadium, Pretoria
      (Asamoah GYAN 84'(p))
 
 Serbia: Vladimir STOJKOVIC - Aleksandar KOLAROV, Nemanja VIDIC, Branislav IVANOVIC,
-      Aleksandar LUKOVIC [Y 73'] - Dejan STANKOVIC [c], Nenad MILIJAS (61' Zdravko KUZMANOVIC [Y 82']),
+      Aleksandar LUKOVIC [Y 53'] [Y/R 73'] - Dejan STANKOVIC [c], Nenad MILIJAS (61' Zdravko KUZMANOVIC [Y 82']),
       Milan JOVANOVIC (75' Neven SUBOTIC), Milos KRASIC - Marko PANTELIC, Nikola ZIGIC [Y 18'] (68' Danko LAZOVIC)
 Ghana: Richard KINGSON - Hans SARPEI, John PANTSIL, John MENSAH [c], Isaac VORSAH [Y 25'] -
       Anthony ANNAN, Andre AYEW, Kwadwo ASAMOAH (72' Stephen APPIAH) - Asamoah GYAN (90+2' Quincy OWUSU-ABEYIE),
@@ -326,7 +326,7 @@ Fri Jun 18 13:30 UTC+2 @ Port Elizabeth Stadium, Gqeberha
 Germany: NEUER Manuel - Arne FRIEDRICH, Holger BADSTUBER (76' Mario GOMEZ), Philipp LAHM [c] [Y 31'],
       Per MERTESACKER - Sami KHEDIRA [Y 21'], Bastian SCHWEINSTEIGER [Y 72'],
       Mesut OEZIL (69' CACAU), MUELLER Thomas (69' Marko MARIN) - Lukas PODOLSKI,
-      Miroslav KLOSE [Y 36']
+      Miroslav KLOSE [Y 11'] [Y/R 36']
 Serbia: Vladimir STOJKOVIC - Aleksandar KOLAROV [Y 18'], Nemanja VIDIC [Y 58'],
       Branislav IVANOVIC [Y 17'], Neven SUBOTIC [Y 56'] - Dejan STANKOVIC [c],
       Milan JOVANOVIC (78' Danko LAZOVIC), Milos KRASIC, Miloš Ninkovic (69' Gojko KACAR),
@@ -598,7 +598,7 @@ Sun Jun 20 20:30 UTC+2 @ Soccer City Stadium, Johannesburg
       Didier DROGBA 78')
 
 Brazil: JULIO CESAR - MAICON, LUCIO [c], JUAN, MICHEL BASTOS - FELIPE MELO, ELANO (66' DANI ALVES),
-      GILBERTO SILVA, KAKA [Y 87'] - LUIS FABIANO, ROBINHO (90+2' RAMIRES)
+      GILBERTO SILVA, KAKA [Y 84'] [Y/R 87'] - LUIS FABIANO, ROBINHO (90+2' RAMIRES)
 Côte d'Ivoire: Boubacar BARRY - Kolo TOURÉ, Siaka TIENE [Y 30'], Guy DEMEL, Emmanuel EBOUE (71' ROMARIC) -
       Didier ZOKORA, Cheick TIOTÉ [Y 85'], Yaya TOURE - Salomon KALOU (67' Kader KEITA [Y 74']),
       Didier DROGBA [c], Aruna DINDANE (53' GERVINHO)
@@ -716,7 +716,7 @@ Fri Jun 25 20:30 UTC+2 @ Loftus Versfeld Stadium, Pretoria
 
 Chile: Claudio BRAVO [c] - Waldo PONCE [Y 18'], Mauricio ISLA, Gary MEDEL [Y 14'],
       Gonzalo JARA - Arturo VIDAL, Jorge VALDIVIA (45+1' Esteban PAREDES),
-      Marco ESTRADA [Y 36'] - Alexis SANCHEZ (64' Fabian ORELLANA), Mark GONZALEZ (45+1' Rodrigo MILLAR),
+      Marco ESTRADA [Y 20'] [Y/R 36'] - Alexis SANCHEZ (64' Fabian ORELLANA), Mark GONZALEZ (45+1' Rodrigo MILLAR),
       Jean BEAUSEJOUR
 Spain: Iker CASILLAS [c] - Gerard PIQUE, Carles PUYOL, Joan CAPDEVILA, Sergio RAMOS -
       Andres INIESTA, Xavi HERNANDEZ, Xabi ALONSO (72' MARTINEZ Javi), Sergio BUSQUETS -
@@ -989,7 +989,7 @@ Sun Jul 11 20:30 UTC+2 @ Soccer City Stadium, Johannesburg
   Netherlands v Spain  0-1 a.e.t.
      (Andres INIESTA 115')
 
-Netherlands: Maarten Stekelenburg - Gregory VAN DER WIEL [Y 110'], John HEITINGA [Y 108'],
+Netherlands: Maarten Stekelenburg - Gregory VAN DER WIEL [Y 110'], John HEITINGA [Y 56'] [Y/R 108'],
       Joris MATHIJSEN [Y 116'], Giovanni VAN BRONCKHORST [c] [Y 53'] (104' Edson BRAAFHEID) -
       Mark VAN BOMMEL [Y 21'], Nigel DE JONG [Y 27'] (98' Rafael VAN DER VAART),
       Wesley SNEIJDER - Dirk KUYT (70' Eljero ELIA), Robin VAN PERSIE [Y 14'],
