@@ -250,7 +250,7 @@ Japan: Eiji Kawashima - Atsuto UCHIDA, Yuto Nagatomo, Yasuyuki KONNO, Maya Yoshi
       Shinji OKAZAKI, Yoshito OKUBO, Yuya OSAKO (56' Shinji KAGAWA)
 Greece: Orestis KARNEZIS - Konstantinos Manolas, Vasileios TOROSIDIS [Y 88'],
       Sokratis Papastathopoulos, Jose CHOLEVAS - Ioannis MANIATIS, Panagiotis KONE (80' Dimitrios SALPINGIDIS),
-      Konstantinos KATSOURANIS [c] [Y 37'] - Georgios SAMARAS [Y 54'], Konstantinos Mitroglou (34' Theofanis GEKAS),
+      Konstantinos KATSOURANIS [c] [Y 26'] [Y/R 37'] - Georgios SAMARAS [Y 54'], Konstantinos Mitroglou (34' Theofanis GEKAS),
       Ioannis Fetfazidis (40' Georgios KARAGOUNIS)
 
 Refs: Joel AGUILAR (SLV), William Torres (SLV), Juan Francisco Zumba (SLV)
@@ -407,7 +407,7 @@ France: Hugo Lloris [c] - Mathieu DEBUCHY, Patrice EVRA [Y 6'], Raphael VARANE,
       Blaise Matuidi, Paul Pogba [Y 27'] (56' Moussa Sissoko) - Karim Benzema,
       Antoine Griezmann
 Honduras: Noel VALLADARES [c] - Maynor FIGUEROA, Victor BERNARDEZ (45' Osman CHAVEZ),
-      Brayan BECKELES - Emilio IZAGUIRRE, Wilson PALACIOS [Y 42'], Roger ESPINOZA,
+      Brayan BECKELES - Emilio IZAGUIRRE, Wilson PALACIOS [Y 27'] [Y/R 42'], Roger ESPINOZA,
       Andy NAJAR (57' Jorge CLAROS), Luis GARRIDO [Y 82'] - Jerry BENGTSON (45' Boniek GARCIA [Y 52']),
       Carlo COSTLY
 
@@ -808,7 +808,7 @@ Penalties: 1-0 Celso BORGES, 1-1 Konstantinos Mitroglou,
            4-3 Joel CAMPBELL,     Theofanis GEKAS (missed),
            5-3 Michael UMANA
 
-Costa Rica: Keylor NAVAS [Y 89'] - Giancarlo GONZALEZ, Michael UMANA, Oscar DUARTE [Y 65'],
+Costa Rica: Keylor NAVAS [Y 89'] - Giancarlo GONZALEZ, Michael UMANA, Oscar DUARTE [Y 41'] [Y/R 65'],
       Junior DIAZ, Cristian GAMBOA (76' Johnny ACOSTA) - Celso BORGES, Christian BOLANOS (82' Randall BRENES),
       Yeltsin TEJEDA [Y 47'] (65' Jose CUBERO) - Joel CAMPBELL, Bryan RUIZ [c] [Y 69']
 Greece: Orestis KARNEZIS - Konstantinos Manolas [Y 71'], Vasileios TOROSIDIS,

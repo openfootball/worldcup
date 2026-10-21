@@ -192,7 +192,7 @@ Slovenia: Mladen DABANOVIC - Zeljko MILINOVIC [Y 79'], Spasoje BULAJIC - Doni NO
       Sebastijan CIMIROTIC
 Paraguay: Jose Luis CHILAVERT [c] - Francisco ARCE, Carlos GAMARRA, Celso AYALA,
       Julio Cesar CACERES, Denis CANIZA - Guido ALVARENGA (53' Jorge CAMPOS),
-      Roberto ACUNA, Carlos PAREDES [Y 22'] - Roque SANTA CRUZ, Jose CARDOZO (61' Nelson CUEVAS (90+2' Juan Carlos FRANCO))
+      Roberto ACUNA, Carlos PAREDES [Y 4'] [Y/R 22'] - Roque SANTA CRUZ, Jose CARDOZO (61' Nelson CUEVAS (90+2' Juan Carlos FRANCO))
 
 Refs: Felipe RAMOS RIZO (MEX), Leif LINDBERG (SWE), Visva KRISHNAN (SGP)
 
@@ -223,7 +223,7 @@ Brazil: MARCOS - CAFU [c], LUCIO, ROQUE JUNIOR, EDMILSON, ROBERTO CARLOS - GILBE
       RIVALDO, RONALDINHO (67' DENILSON [Y 73']), JUNINHO PAULISTA (72' VAMPETA) -
       RONALDO (73' LUIZAO)
 Turkey: Rustu RECBER - Bulent KORKMAZ (66' Ilhan MANSIZ), Fatih AKYEL [Y 21'],
-      Alpay OZALAN [Y 44'] [R 86'], Umit OZAT, Hakan UNSAL [Y 90+4'] - Tugay KERIMOGLU (88' Arif ERDEM),
+      Alpay OZALAN [Y 44'] [R 86'], Umit OZAT, Hakan UNSAL [Y 24'] [Y/R 90+4'] - Tugay KERIMOGLU (88' Arif ERDEM),
       Yildiray BASTURK (66' Umit DAVALA), Emre BELOZOGLU - Hakan SUKUR [c],
       Hasan SAS
 
@@ -381,7 +381,7 @@ Fri Jun 14 20:30 UTC+9 @ Incheon Munhak Stadium, Incheon
   Portugal v South Korea  0-1
      (PARK Jisung 70')
 
-Portugal: VITOR BAIA - JORGE COSTA [Y 83'], FERNANDO COUTO [c], BETO [Y 66'], RUI JORGE (73' ABEL XAVIER) -
+Portugal: VITOR BAIA - JORGE COSTA [Y 83'], FERNANDO COUTO [c], BETO [Y 22'] [Y/R 66'], RUI JORGE (73' ABEL XAVIER) -
       PAULO BENTO, PETIT (77' NUNO GOMES) - Luis FIGO, JOAO PINTO [R 27'],
       PAULETA (69' JORGE ANDRADE), SERGIO CONCEICAO
 South Korea: LEE Woonjae - CHOI Jincheul, KIM Taeyoung [Y 24'], HONG Myungbo [c] -
@@ -468,11 +468,11 @@ Tue Jun 11 20:30 UTC+9 @ Shizuoka Stadium Ecopa, Shizuoka
   Cameroon v Germany  0-2
      (Marco BODE 50', Miroslav KLOSE 79')
 
-Cameroon: Alioum BOUKAR - Bill TCHATO [Y 44'] (53' Patrick SUFFO [Y 77']), Pierre WOME,
+Cameroon: Alioum BOUKAR - Bill TCHATO [Y 44'] (53' Patrick SUFFO [Y 60'] [Y/R 77']), Pierre WOME,
       Rigobert SONG [c] [Y 42'], Raymond KALLA, GEREMI [Y 56'], Salomon OLEMBE [Y 58'] (64' Daniel KOME) -
       LAUREN [Y 81'], Marc-Vivien FOE [Y 8'] - Samuel ETOO, Patrick MBOMA (80' Joseph-Desire JOB)
 Germany: Oliver KAHN [c] [Y 42'] - Thomas LINKE, Christian ZIEGE [Y 72'], Christoph METZELDER -
-      Carsten RAMELOW [Y 40'], Didi HAMANN [Y 29'], Michael BALLACK [Y 31'],
+      Carsten RAMELOW [Y 37'] [Y/R 40'], Didi HAMANN [Y 29'], Michael BALLACK [Y 31'],
       Bernd SCHNEIDER (80' Jens JEREMIES), Torsten FRINGS [Y 74'] - Carsten JANCKER [Y 9'] (45' Marco BODE),
       Miroslav KLOSE (84' Oliver NEUVILLE)
 
@@ -873,7 +873,7 @@ South Korea: LEE Woonjae - CHOI Jincheul [Y 115'], KIM Taeyoung [Y 17'] (63' HWA
       SEOL Ki Hyeon
 Italy: Gianluigi BUFFON - Christian PANUCCI, Paolo MALDINI [c], Francesco COCO [Y 4'],
       Mark IULIANO - Cristiano ZANETTI [Y 59'], Damiano TOMMASI [Y 55'], Gianluca ZAMBROTTA (72' Angelo DI LIVIO) -
-      Alessandro DEL PIERO (61' Gennaro GATTUSO), Francesco TOTTI [Y 103'],
+      Alessandro DEL PIERO (61' Gennaro GATTUSO), Francesco TOTTI [Y 22'] [Y/R 103'],
       Christian VIERI
 
 Refs: Byron MORENO (ECU), Jorge RATTALINO (ARG), Ferenc SZEKELY (HUN)

@@ -299,7 +299,7 @@ Paraguay: Jose Luis CHILAVERT [c] - Carlos GAMARRA, Celso AYALA, Pedro SARABIA -
       Roberto ACUNA, Carlos PAREDES, Julio Cesar ENCISO, Carlos MORALES (43' Denis CANIZA) -
       Jose CARDOZO (70' Cesar RAMIREZ), Miguel BENITEZ [Y 45'], Jorge CAMPOS (78' Julio Cesar YEGROS)
 Bulgaria: Zdravko ZDRAVKOV - Radostin KISHISHEV, Trifon IVANOV [c] [Y 73'], Ivaylo PETKOV -
-      Ivaylo YORDANOV, Zlatko YANKOV, Krasimir BALAKOV, Anatoli NANKOV [Y 27'] -
+      Ivaylo YORDANOV, Zlatko YANKOV, Krasimir BALAKOV, Anatoli NANKOV [Y 27'] [Y/R 89'] -
       Hristo STOICHKOV [Y 45'], Lyuboslav PENEV (68' Emil KOSTADINOV), Ilian ILIEV (77' Daniel BORIMIROV)
 
 Refs: Abdulrahman ALZEID (KSA), Achmat SALIE (RSA), Hussain GHADANFERI (KUW)
@@ -713,7 +713,7 @@ Argentina: Carlos ROA - Roberto AYALA, Jose CHAMOT [Y 65'], Roberto SENSINI (25'
       Ariel ORTEGA, Juan VERON - Claudio LOPEZ (75' Marcelo GALLARDO), Gabriel BATISTUTA
 Jamaica: Warren BARRETT [c] - Stephen MALCOLM (62' Walter BOYD), Christopher DAWES,
       Ian GOODISON, Ricardo GARDNER, Frank SINCLAIR - Fitzroy SIMPSON, Theodore WHITMORE (73' Robert EARLE),
-      Darryl POWELL [Y 4'] - Deon BURTON (45+1' Peter CARGILL [Y 88']), Paul HALL
+      Darryl POWELL [Y 4'] [Y/R 45+1'] - Deon BURTON (45+1' Peter CARGILL [Y 88']), Paul HALL
 
 Refs: Rune PEDERSEN (NOR), Mikael NILSSON (SWE), Gennaro MAZZEI (ITA)
 
@@ -924,7 +924,7 @@ Sat Jul 4 16:30 UTC+2 @ Stade Vélodrome, Marseille
       Claudio LOPEZ 17')
 
 Netherlands: Edwin VAN DER SAR - Michael REIZIGER, Jaap STAM [Y 10'], Frank DE BOER [c],
-      Arthur NUMAN [Y 76'] - Wim JONK, Ronald DE BOER (64' Marc OVERMARS),
+      Arthur NUMAN [Y 17'] [Y/R 76'] - Wim JONK, Ronald DE BOER (64' Marc OVERMARS),
       Phillip COCU, Edgar DAVIDS - Dennis BERGKAMP, Patrick KLUIVERT
 Argentina: Carlos ROA - Roberto AYALA, Jose CHAMOT [Y 22'] (89' Abel BALBO), Roberto SENSINI [Y 60'],
       Javier ZANETTI - Matias ALMEYDA (68' Mauricio PINEDA), Diego SIMEONE [c],
@@ -1009,7 +1009,7 @@ Brazil: TAFFAREL - CAFU, ALDAIR, JUNIOR BAIANO [Y 33'], CESAR SAMPAIO (73' EDMUN
       ROBERTO CARLOS - DUNGA [c], LEONARDO (45+1' DENILSON) - RONALDO, RIVALDO,
       BEBETO
 France: Fabien BARTHEZ - Bixente LIZARAZU, Youri DJORKAEFF (74' Patrick VIEIRA),
-      Marcel DESAILLY [Y 68'], Lilian THURAM, Frank LEBOEUF - Didier DESCHAMPS [c] [Y 39'],
+      Marcel DESAILLY [Y 48'] [Y/R 68'], Lilian THURAM, Frank LEBOEUF - Didier DESCHAMPS [c] [Y 39'],
       Zinedine ZIDANE, Christian KAREMBEU [Y 56'] (57' Alain BOGHOSSIAN) -
       Stephane GUIVARCH (66' Christophe DUGARRY), Emmanuel PETIT
 

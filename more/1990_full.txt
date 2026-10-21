@@ -365,7 +365,7 @@ Yugoslavia: Tomislav IVKOVIC - Vujadin STANOJKOVIC, Predrag SPASIC, Faruk HADZIB
       Davor JOZIC - Dragoljub BRNOVIC [Y 20'], Safet SUSIC, Dragan STOJKOVIC,
       Refik SABANADZOVIC [Y 66'] (78' Robert PROSINECKI) - Darko PANCEV [Y 76'],
       Zlatko VUJOVIC [c] (64' Zoran VULIC)
-United Arab Emirates: MUHSIN MUSABAH - KHALEEL GHANIM [Y 36'], Mohamed ABDULLAH [c], IBRAHIM MEER,
+United Arab Emirates: MUHSIN MUSABAH - KHALEEL GHANIM [Y 36'] [Y/R 76'], Mohamed ABDULLAH [c], IBRAHIM MEER,
       EISSA MEER, Abdulrahman AL HADDAD - Ali Thani JUMAA (45+1' FAHAD KHAMEES),
       KHALID ISMAIL, NASIR KHAMEES (35' Abdullah SULTAN) - ADNAN AL TALYANI,
       HUSSAIN GHULOUM
@@ -406,7 +406,7 @@ Sun Jun 17 21:00 UTC+2 @ Marc Antonio Bentegodi, Verona
      (Leo CLIJSTERS 15', Enzo SCIFO 24', Jan CEULEMANS 47';
       Pablo BENGOECHEA 73')
 
-Belgium: Michel PREUDHOMME - Eric GERETS [Y 42'], Leo CLIJSTERS (45+1' Marc EMMERS),
+Belgium: Michel PREUDHOMME - Eric GERETS [Y 35'] [Y/R 42'], Leo CLIJSTERS (45+1' Marc EMMERS),
       Stephane DEMOL, Georges GRUN, Michel DE WOLF - Bruno VERSAVEL (73' Patrick VERVOORT),
       Franky VAN DER ELST, Enzo SCIFO - Marc DEGRYSE, Jan CEULEMANS [c]
 Uruguay: Fernando ALVEZ - Nelson GUTIERREZ, Hugo DE LEON, Jose HERRERA, Alfonso DOMINGUEZ -
@@ -751,7 +751,7 @@ Italy: Walter ZENGA - Franco BARESI, Giuseppe BERGOMI [c], Luigi DE AGOSTINI,
       Roberto DONADONI - Salvatore SCHILLACI, Gianluca VIALLI (70' Aldo SERENA)
 Argentina: Sergio GOYCOCHEA - Jose SERRIZUELA, Oscar RUGGERI [Y 70'], Juan SIMON -
       Jose BASUALDO (99' Sergio BATISTA [Y 120']), Gabriel CALDERON (45+1' Pedro TROGLIO),
-      Jorge BURRUCHAGA, Diego MARADONA [c], Ricardo GIUSTI [Y 103'], Julio OLARTICOECHEA [Y 76'] -
+      Jorge BURRUCHAGA, Diego MARADONA [c], Ricardo GIUSTI [Y 30'] [Y/R 103'], Julio OLARTICOECHEA [Y 76'] -
       Claudio CANIGGIA [Y 82']
 
 Refs: Michel VAUTROT (FRA), Michal LISTKIEWICZ (POL), Peter MIKKELSEN (DEN)
